@@ -17,19 +17,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Check for all archive chunks
+      - name: Check transport is ready
         id: chunks
         shell: bash
         run: |
           set -euo pipefail
-          expected=(bulk-json/chunk-00.b64 bulk-json/chunk-01.b64 bulk-json/chunk-02.b64 bulk-json/chunk-03.b64 bulk-json/chunk-04.b64)
-          for file in "${expected[@]}"; do
-            if [[ ! -f "$file" ]]; then
-              echo "ready=false" >> "$GITHUB_OUTPUT"
-              echo "Waiting for $file"
-              exit 0
-            fi
-          done
+          if [[ ! -f bulk-json/READY ]]; then
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "Bulk JSON transport is not complete yet."
+            exit 0
+          fi
+          count=$(find bulk-json -maxdepth 1 -type f -name 'part-*.b64' | wc -l)
+          if [[ "$count" -ne 51 ]]; then
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "Expected 51 transport parts, found $count."
+            exit 0
+          fi
           echo "ready=true" >> "$GITHUB_OUTPUT"
 
       - name: Reassemble and import JSON repository
@@ -38,9 +41,9 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p /tmp/prophetic-json
-          cat bulk-json/chunk-00.b64 bulk-json/chunk-01.b64 bulk-json/chunk-02.b64 bulk-json/chunk-03.b64 bulk-json/chunk-04.b64 | base64 --decode > /tmp/prophetic-json/archive.tar.xz
+          cat $(find bulk-json -maxdepth 1 -type f -name 'part-*.b64' | sort) | base64 --decode > /tmp/prophetic-json/archive.tar.xz
           tar -xJf /tmp/prophetic-json/archive.tar.xz -C /tmp/prophetic-json
-          src=/tmp/prophetic-json/the-prophetic-archive-content-json
+          src=/tmp/prophetic-json/prophetic_json_min
 
           mkdir -p content manifests
           cp -a "$src/content/." content/
@@ -49,12 +52,12 @@ jobs:
           cp "$src/PROCESSING_NOTES.json" PROCESSING_NOTES.json
           cp "$src/validation_report.json" validation_report.json
 
-          # The temporary transport chunks are no longer needed after import.
+          # Remove one-time transport files from normal Git history after import.
           rm -rf bulk-json
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content manifests catalogue.json PROCESSING_NOTES.json validation_report.json bulk-json
+          git add -A content manifests catalogue.json PROCESSING_NOTES.json validation_report.json bulk-json
 
           if git diff --cached --quiet; then
             echo "No JSON changes to commit."
