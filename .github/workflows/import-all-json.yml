@@ -28,9 +28,9 @@ jobs:
             exit 0
           fi
           count=$(find bulk-json -maxdepth 1 -type f -name 'part-*.b64' | wc -l)
-          if [[ "$count" -ne 51 ]]; then
+          if [[ "$count" -ne 113 ]]; then
             echo "ready=false" >> "$GITHUB_OUTPUT"
-            echo "Expected 51 transport parts, found $count."
+            echo "Expected 113 transport parts, found $count."
             exit 0
           fi
           echo "ready=true" >> "$GITHUB_OUTPUT"
@@ -42,6 +42,7 @@ jobs:
           set -euo pipefail
           mkdir -p /tmp/prophetic-json
           cat $(find bulk-json -maxdepth 1 -type f -name 'part-*.b64' | sort) | base64 --decode > /tmp/prophetic-json/archive.tar.xz
+          echo "bb6df5d8f45d2440be70ee1bbdd70083ce1cfd68a06b2922fd1c1bd9be0d31f0  /tmp/prophetic-json/archive.tar.xz" | sha256sum -c -
           tar -xJf /tmp/prophetic-json/archive.tar.xz -C /tmp/prophetic-json
           src=/tmp/prophetic-json/prophetic_json_min
 
@@ -52,7 +53,6 @@ jobs:
           cp "$src/PROCESSING_NOTES.json" PROCESSING_NOTES.json
           cp "$src/validation_report.json" validation_report.json
 
-          # Remove one-time transport files from normal Git history after import.
           rm -rf bulk-json
 
           git config user.name "github-actions[bot]"
