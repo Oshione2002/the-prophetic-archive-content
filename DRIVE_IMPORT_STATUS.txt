@@ -1,3 +1,11 @@
-Drive transport downloaded, but checksum did not match.
-Downloaded bytes: 901659
-Downloaded SHA256: 2e1c9ec3cc00bfac8fb4c1e3eacdc3c15d02ecc453ccc573b71cd542c841318d
+Candidate 0
+bytes=902318
+sha256=c0b18cbfe66242cc67d466b60ed7f85f656be73b5a938ceb173e5bc6addf0372
+type=HTML document, ASCII text, with very long lines (65536), with no line terminators
+head_hex=3c21646f63747970652068746d6c3e3c68746d6c206c616e673d22656e2d555322206469723d226c7472223e3c686561643e3c6261736520687265663d2268747470733a2f2f6163636f756e74732e67
+Candidate 1
+bytes=902815
+sha256=b1faff1968329c1a619103a658b0c1186906c372d0262f8e14a7171269a26122
+type=HTML document, ASCII text, with very long lines (65536), with no line terminators
+head_hex=3c21646f63747970652068746d6c3e3c68746d6c206c616e673d22656e2d555322206469723d226c7472223e3c686561643e3c6261736520687265663d2268747470733a2f2f6163636f756e74732e67
+No candidate matched the expected archive checksum.
