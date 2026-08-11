@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-bible",
+  "slug": "kjv-bible",
+  "name": "KJV Bible",
+  "description": "King James Version Bible, 66-book Protestant canon.",
+  "collectionType": "bible",
+  "translationCode": "KJV",
+  "documentCount": 66,
+  "uniqueItemCount": 66,
+  "contentVersion": 1,
+  "displayOrder": 5,
+  "capabilities": {
+    "responsiveText": true,
+    "search": true,
+    "offlineSearch": true,
+    "bibleReader": true,
+    "verseNavigation": true,
+    "scriptureDeepLinks": true,
+    "bookmarks": true,
+    "highlights": true,
+    "notes": true,
+    "textToSpeech": true,
+    "cleanPdf": false,
+    "originalScan": false,
+    "audio": false,
+    "video": false
+  }
+}

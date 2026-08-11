@@ -1,0 +1,1256 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jonah",
+  "collection": "kjv-bible",
+  "document_type": "bible_book",
+  "number": 32,
+  "title": "Jonah",
+  "display_title": "Jonah",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jonah",
+  "book": "Jonah",
+  "bookOrder": 32,
+  "testament": "old",
+  "chapterCount": 4,
+  "verseCount": 48,
+  "aliases": [
+    "Jonah",
+    "Jon"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 17,
+      "verses": [
+        {
+          "id": "kjv-jonah-1-1",
+          "verseKey": "kjv:jonah:1:1",
+          "verse": 1,
+          "reference": "Jonah 1:1",
+          "text": "Now the word of the LORD came unto Jonah the son of Amittai, saying,"
+        },
+        {
+          "id": "kjv-jonah-1-2",
+          "verseKey": "kjv:jonah:1:2",
+          "verse": 2,
+          "reference": "Jonah 1:2",
+          "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me."
+        },
+        {
+          "id": "kjv-jonah-1-3",
+          "verseKey": "kjv:jonah:1:3",
+          "verse": 3,
+          "reference": "Jonah 1:3",
+          "text": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD."
+        },
+        {
+          "id": "kjv-jonah-1-4",
+          "verseKey": "kjv:jonah:1:4",
+          "verse": 4,
+          "reference": "Jonah 1:4",
+          "text": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken."
+        },
+        {
+          "id": "kjv-jonah-1-5",
+          "verseKey": "kjv:jonah:1:5",
+          "verse": 5,
+          "reference": "Jonah 1:5",
+          "text": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep."
+        },
+        {
+          "id": "kjv-jonah-1-6",
+          "verseKey": "kjv:jonah:1:6",
+          "verse": 6,
+          "reference": "Jonah 1:6",
+          "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not."
+        },
+        {
+          "id": "kjv-jonah-1-7",
+          "verseKey": "kjv:jonah:1:7",
+          "verse": 7,
+          "reference": "Jonah 1:7",
+          "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah."
+        },
+        {
+          "id": "kjv-jonah-1-8",
+          "verseKey": "kjv:jonah:1:8",
+          "verse": 8,
+          "reference": "Jonah 1:8",
+          "text": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?"
+        },
+        {
+          "id": "kjv-jonah-1-9",
+          "verseKey": "kjv:jonah:1:9",
+          "verse": 9,
+          "reference": "Jonah 1:9",
+          "text": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land."
+        },
+        {
+          "id": "kjv-jonah-1-10",
+          "verseKey": "kjv:jonah:1:10",
+          "verse": 10,
+          "reference": "Jonah 1:10",
+          "text": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them."
+        },
+        {
+          "id": "kjv-jonah-1-11",
+          "verseKey": "kjv:jonah:1:11",
+          "verse": 11,
+          "reference": "Jonah 1:11",
+          "text": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous."
+        },
+        {
+          "id": "kjv-jonah-1-12",
+          "verseKey": "kjv:jonah:1:12",
+          "verse": 12,
+          "reference": "Jonah 1:12",
+          "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you."
+        },
+        {
+          "id": "kjv-jonah-1-13",
+          "verseKey": "kjv:jonah:1:13",
+          "verse": 13,
+          "reference": "Jonah 1:13",
+          "text": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them."
+        },
+        {
+          "id": "kjv-jonah-1-14",
+          "verseKey": "kjv:jonah:1:14",
+          "verse": 14,
+          "reference": "Jonah 1:14",
+          "text": "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee."
+        },
+        {
+          "id": "kjv-jonah-1-15",
+          "verseKey": "kjv:jonah:1:15",
+          "verse": 15,
+          "reference": "Jonah 1:15",
+          "text": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging."
+        },
+        {
+          "id": "kjv-jonah-1-16",
+          "verseKey": "kjv:jonah:1:16",
+          "verse": 16,
+          "reference": "Jonah 1:16",
+          "text": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows."
+        },
+        {
+          "id": "kjv-jonah-1-17",
+          "verseKey": "kjv:jonah:1:17",
+          "verse": 17,
+          "reference": "Jonah 1:17",
+          "text": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verseCount": 10,
+      "verses": [
+        {
+          "id": "kjv-jonah-2-1",
+          "verseKey": "kjv:jonah:2:1",
+          "verse": 1,
+          "reference": "Jonah 2:1",
+          "text": "Then Jonah prayed unto the LORD his God out of the fish’s belly,"
+        },
+        {
+          "id": "kjv-jonah-2-2",
+          "verseKey": "kjv:jonah:2:2",
+          "verse": 2,
+          "reference": "Jonah 2:2",
+          "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice."
+        },
+        {
+          "id": "kjv-jonah-2-3",
+          "verseKey": "kjv:jonah:2:3",
+          "verse": 3,
+          "reference": "Jonah 2:3",
+          "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me."
+        },
+        {
+          "id": "kjv-jonah-2-4",
+          "verseKey": "kjv:jonah:2:4",
+          "verse": 4,
+          "reference": "Jonah 2:4",
+          "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple."
+        },
+        {
+          "id": "kjv-jonah-2-5",
+          "verseKey": "kjv:jonah:2:5",
+          "verse": 5,
+          "reference": "Jonah 2:5",
+          "text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head."
+        },
+        {
+          "id": "kjv-jonah-2-6",
+          "verseKey": "kjv:jonah:2:6",
+          "verse": 6,
+          "reference": "Jonah 2:6",
+          "text": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God."
+        },
+        {
+          "id": "kjv-jonah-2-7",
+          "verseKey": "kjv:jonah:2:7",
+          "verse": 7,
+          "reference": "Jonah 2:7",
+          "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple."
+        },
+        {
+          "id": "kjv-jonah-2-8",
+          "verseKey": "kjv:jonah:2:8",
+          "verse": 8,
+          "reference": "Jonah 2:8",
+          "text": "They that observe lying vanities forsake their own mercy."
+        },
+        {
+          "id": "kjv-jonah-2-9",
+          "verseKey": "kjv:jonah:2:9",
+          "verse": 9,
+          "reference": "Jonah 2:9",
+          "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD."
+        },
+        {
+          "id": "kjv-jonah-2-10",
+          "verseKey": "kjv:jonah:2:10",
+          "verse": 10,
+          "reference": "Jonah 2:10",
+          "text": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verseCount": 10,
+      "verses": [
+        {
+          "id": "kjv-jonah-3-1",
+          "verseKey": "kjv:jonah:3:1",
+          "verse": 1,
+          "reference": "Jonah 3:1",
+          "text": "And the word of the LORD came unto Jonah the second time, saying,"
+        },
+        {
+          "id": "kjv-jonah-3-2",
+          "verseKey": "kjv:jonah:3:2",
+          "verse": 2,
+          "reference": "Jonah 3:2",
+          "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
+        },
+        {
+          "id": "kjv-jonah-3-3",
+          "verseKey": "kjv:jonah:3:3",
+          "verse": 3,
+          "reference": "Jonah 3:3",
+          "text": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey."
+        },
+        {
+          "id": "kjv-jonah-3-4",
+          "verseKey": "kjv:jonah:3:4",
+          "verse": 4,
+          "reference": "Jonah 3:4",
+          "text": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+        },
+        {
+          "id": "kjv-jonah-3-5",
+          "verseKey": "kjv:jonah:3:5",
+          "verse": 5,
+          "reference": "Jonah 3:5",
+          "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them."
+        },
+        {
+          "id": "kjv-jonah-3-6",
+          "verseKey": "kjv:jonah:3:6",
+          "verse": 6,
+          "reference": "Jonah 3:6",
+          "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes."
+        },
+        {
+          "id": "kjv-jonah-3-7",
+          "verseKey": "kjv:jonah:3:7",
+          "verse": 7,
+          "reference": "Jonah 3:7",
+          "text": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
+        },
+        {
+          "id": "kjv-jonah-3-8",
+          "verseKey": "kjv:jonah:3:8",
+          "verse": 8,
+          "reference": "Jonah 3:8",
+          "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands."
+        },
+        {
+          "id": "kjv-jonah-3-9",
+          "verseKey": "kjv:jonah:3:9",
+          "verse": 9,
+          "reference": "Jonah 3:9",
+          "text": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?"
+        },
+        {
+          "id": "kjv-jonah-3-10",
+          "verseKey": "kjv:jonah:3:10",
+          "verse": 10,
+          "reference": "Jonah 3:10",
+          "text": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verseCount": 11,
+      "verses": [
+        {
+          "id": "kjv-jonah-4-1",
+          "verseKey": "kjv:jonah:4:1",
+          "verse": 1,
+          "reference": "Jonah 4:1",
+          "text": "But it displeased Jonah exceedingly, and he was very angry."
+        },
+        {
+          "id": "kjv-jonah-4-2",
+          "verseKey": "kjv:jonah:4:2",
+          "verse": 2,
+          "reference": "Jonah 4:2",
+          "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil."
+        },
+        {
+          "id": "kjv-jonah-4-3",
+          "verseKey": "kjv:jonah:4:3",
+          "verse": 3,
+          "reference": "Jonah 4:3",
+          "text": "Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live."
+        },
+        {
+          "id": "kjv-jonah-4-4",
+          "verseKey": "kjv:jonah:4:4",
+          "verse": 4,
+          "reference": "Jonah 4:4",
+          "text": "Then said the LORD, Doest thou well to be angry?"
+        },
+        {
+          "id": "kjv-jonah-4-5",
+          "verseKey": "kjv:jonah:4:5",
+          "verse": 5,
+          "reference": "Jonah 4:5",
+          "text": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city."
+        },
+        {
+          "id": "kjv-jonah-4-6",
+          "verseKey": "kjv:jonah:4:6",
+          "verse": 6,
+          "reference": "Jonah 4:6",
+          "text": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd."
+        },
+        {
+          "id": "kjv-jonah-4-7",
+          "verseKey": "kjv:jonah:4:7",
+          "verse": 7,
+          "reference": "Jonah 4:7",
+          "text": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered."
+        },
+        {
+          "id": "kjv-jonah-4-8",
+          "verseKey": "kjv:jonah:4:8",
+          "verse": 8,
+          "reference": "Jonah 4:8",
+          "text": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live."
+        },
+        {
+          "id": "kjv-jonah-4-9",
+          "verseKey": "kjv:jonah:4:9",
+          "verse": 9,
+          "reference": "Jonah 4:9",
+          "text": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death."
+        },
+        {
+          "id": "kjv-jonah-4-10",
+          "verseKey": "kjv:jonah:4:10",
+          "verse": 10,
+          "reference": "Jonah 4:10",
+          "text": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:"
+        },
+        {
+          "id": "kjv-jonah-4-11",
+          "verseKey": "kjv:jonah:4:11",
+          "verse": 11,
+          "reference": "Jonah 4:11",
+          "text": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "chapter-1",
+      "type": "heading",
+      "headingLevel": 2,
+      "text": "Jonah 1",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "chapter": 1,
+        "blockRole": "chapter_heading"
+      }
+    },
+    {
+      "id": "verse-1-1",
+      "type": "bible_verse",
+      "numberLabel": "1",
+      "text": "Now the word of the LORD came unto Jonah the son of Amittai, saying,",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 1,
+        "reference": "Jonah 1:1",
+        "verseKey": "kjv:jonah:1:1",
+        "verseId": "kjv-jonah-1-1"
+      }
+    },
+    {
+      "id": "verse-1-2",
+      "type": "bible_verse",
+      "numberLabel": "2",
+      "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 2,
+        "reference": "Jonah 1:2",
+        "verseKey": "kjv:jonah:1:2",
+        "verseId": "kjv-jonah-1-2"
+      }
+    },
+    {
+      "id": "verse-1-3",
+      "type": "bible_verse",
+      "numberLabel": "3",
+      "text": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 3,
+        "reference": "Jonah 1:3",
+        "verseKey": "kjv:jonah:1:3",
+        "verseId": "kjv-jonah-1-3"
+      }
+    },
+    {
+      "id": "verse-1-4",
+      "type": "bible_verse",
+      "numberLabel": "4",
+      "text": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 4,
+        "reference": "Jonah 1:4",
+        "verseKey": "kjv:jonah:1:4",
+        "verseId": "kjv-jonah-1-4"
+      }
+    },
+    {
+      "id": "verse-1-5",
+      "type": "bible_verse",
+      "numberLabel": "5",
+      "text": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 5,
+        "reference": "Jonah 1:5",
+        "verseKey": "kjv:jonah:1:5",
+        "verseId": "kjv-jonah-1-5"
+      }
+    },
+    {
+      "id": "verse-1-6",
+      "type": "bible_verse",
+      "numberLabel": "6",
+      "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 6,
+        "reference": "Jonah 1:6",
+        "verseKey": "kjv:jonah:1:6",
+        "verseId": "kjv-jonah-1-6"
+      }
+    },
+    {
+      "id": "verse-1-7",
+      "type": "bible_verse",
+      "numberLabel": "7",
+      "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 7,
+        "reference": "Jonah 1:7",
+        "verseKey": "kjv:jonah:1:7",
+        "verseId": "kjv-jonah-1-7"
+      }
+    },
+    {
+      "id": "verse-1-8",
+      "type": "bible_verse",
+      "numberLabel": "8",
+      "text": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 8,
+        "reference": "Jonah 1:8",
+        "verseKey": "kjv:jonah:1:8",
+        "verseId": "kjv-jonah-1-8"
+      }
+    },
+    {
+      "id": "verse-1-9",
+      "type": "bible_verse",
+      "numberLabel": "9",
+      "text": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 9,
+        "reference": "Jonah 1:9",
+        "verseKey": "kjv:jonah:1:9",
+        "verseId": "kjv-jonah-1-9"
+      }
+    },
+    {
+      "id": "verse-1-10",
+      "type": "bible_verse",
+      "numberLabel": "10",
+      "text": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 10,
+        "reference": "Jonah 1:10",
+        "verseKey": "kjv:jonah:1:10",
+        "verseId": "kjv-jonah-1-10"
+      }
+    },
+    {
+      "id": "verse-1-11",
+      "type": "bible_verse",
+      "numberLabel": "11",
+      "text": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 11,
+        "reference": "Jonah 1:11",
+        "verseKey": "kjv:jonah:1:11",
+        "verseId": "kjv-jonah-1-11"
+      }
+    },
+    {
+      "id": "verse-1-12",
+      "type": "bible_verse",
+      "numberLabel": "12",
+      "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 12,
+        "reference": "Jonah 1:12",
+        "verseKey": "kjv:jonah:1:12",
+        "verseId": "kjv-jonah-1-12"
+      }
+    },
+    {
+      "id": "verse-1-13",
+      "type": "bible_verse",
+      "numberLabel": "13",
+      "text": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 13,
+        "reference": "Jonah 1:13",
+        "verseKey": "kjv:jonah:1:13",
+        "verseId": "kjv-jonah-1-13"
+      }
+    },
+    {
+      "id": "verse-1-14",
+      "type": "bible_verse",
+      "numberLabel": "14",
+      "text": "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 14,
+        "reference": "Jonah 1:14",
+        "verseKey": "kjv:jonah:1:14",
+        "verseId": "kjv-jonah-1-14"
+      }
+    },
+    {
+      "id": "verse-1-15",
+      "type": "bible_verse",
+      "numberLabel": "15",
+      "text": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 15,
+        "reference": "Jonah 1:15",
+        "verseKey": "kjv:jonah:1:15",
+        "verseId": "kjv-jonah-1-15"
+      }
+    },
+    {
+      "id": "verse-1-16",
+      "type": "bible_verse",
+      "numberLabel": "16",
+      "text": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 16,
+        "reference": "Jonah 1:16",
+        "verseKey": "kjv:jonah:1:16",
+        "verseId": "kjv-jonah-1-16"
+      }
+    },
+    {
+      "id": "verse-1-17",
+      "type": "bible_verse",
+      "numberLabel": "17",
+      "text": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 1,
+        "verse": 17,
+        "reference": "Jonah 1:17",
+        "verseKey": "kjv:jonah:1:17",
+        "verseId": "kjv-jonah-1-17"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "type": "heading",
+      "headingLevel": 2,
+      "text": "Jonah 2",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "chapter": 2,
+        "blockRole": "chapter_heading"
+      }
+    },
+    {
+      "id": "verse-2-1",
+      "type": "bible_verse",
+      "numberLabel": "1",
+      "text": "Then Jonah prayed unto the LORD his God out of the fish’s belly,",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 1,
+        "reference": "Jonah 2:1",
+        "verseKey": "kjv:jonah:2:1",
+        "verseId": "kjv-jonah-2-1"
+      }
+    },
+    {
+      "id": "verse-2-2",
+      "type": "bible_verse",
+      "numberLabel": "2",
+      "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 2,
+        "reference": "Jonah 2:2",
+        "verseKey": "kjv:jonah:2:2",
+        "verseId": "kjv-jonah-2-2"
+      }
+    },
+    {
+      "id": "verse-2-3",
+      "type": "bible_verse",
+      "numberLabel": "3",
+      "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 3,
+        "reference": "Jonah 2:3",
+        "verseKey": "kjv:jonah:2:3",
+        "verseId": "kjv-jonah-2-3"
+      }
+    },
+    {
+      "id": "verse-2-4",
+      "type": "bible_verse",
+      "numberLabel": "4",
+      "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 4,
+        "reference": "Jonah 2:4",
+        "verseKey": "kjv:jonah:2:4",
+        "verseId": "kjv-jonah-2-4"
+      }
+    },
+    {
+      "id": "verse-2-5",
+      "type": "bible_verse",
+      "numberLabel": "5",
+      "text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 5,
+        "reference": "Jonah 2:5",
+        "verseKey": "kjv:jonah:2:5",
+        "verseId": "kjv-jonah-2-5"
+      }
+    },
+    {
+      "id": "verse-2-6",
+      "type": "bible_verse",
+      "numberLabel": "6",
+      "text": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 6,
+        "reference": "Jonah 2:6",
+        "verseKey": "kjv:jonah:2:6",
+        "verseId": "kjv-jonah-2-6"
+      }
+    },
+    {
+      "id": "verse-2-7",
+      "type": "bible_verse",
+      "numberLabel": "7",
+      "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 7,
+        "reference": "Jonah 2:7",
+        "verseKey": "kjv:jonah:2:7",
+        "verseId": "kjv-jonah-2-7"
+      }
+    },
+    {
+      "id": "verse-2-8",
+      "type": "bible_verse",
+      "numberLabel": "8",
+      "text": "They that observe lying vanities forsake their own mercy.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 8,
+        "reference": "Jonah 2:8",
+        "verseKey": "kjv:jonah:2:8",
+        "verseId": "kjv-jonah-2-8"
+      }
+    },
+    {
+      "id": "verse-2-9",
+      "type": "bible_verse",
+      "numberLabel": "9",
+      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 9,
+        "reference": "Jonah 2:9",
+        "verseKey": "kjv:jonah:2:9",
+        "verseId": "kjv-jonah-2-9"
+      }
+    },
+    {
+      "id": "verse-2-10",
+      "type": "bible_verse",
+      "numberLabel": "10",
+      "text": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 2,
+        "verse": 10,
+        "reference": "Jonah 2:10",
+        "verseKey": "kjv:jonah:2:10",
+        "verseId": "kjv-jonah-2-10"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "type": "heading",
+      "headingLevel": 2,
+      "text": "Jonah 3",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "chapter": 3,
+        "blockRole": "chapter_heading"
+      }
+    },
+    {
+      "id": "verse-3-1",
+      "type": "bible_verse",
+      "numberLabel": "1",
+      "text": "And the word of the LORD came unto Jonah the second time, saying,",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 1,
+        "reference": "Jonah 3:1",
+        "verseKey": "kjv:jonah:3:1",
+        "verseId": "kjv-jonah-3-1"
+      }
+    },
+    {
+      "id": "verse-3-2",
+      "type": "bible_verse",
+      "numberLabel": "2",
+      "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 2,
+        "reference": "Jonah 3:2",
+        "verseKey": "kjv:jonah:3:2",
+        "verseId": "kjv-jonah-3-2"
+      }
+    },
+    {
+      "id": "verse-3-3",
+      "type": "bible_verse",
+      "numberLabel": "3",
+      "text": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 3,
+        "reference": "Jonah 3:3",
+        "verseKey": "kjv:jonah:3:3",
+        "verseId": "kjv-jonah-3-3"
+      }
+    },
+    {
+      "id": "verse-3-4",
+      "type": "bible_verse",
+      "numberLabel": "4",
+      "text": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 4,
+        "reference": "Jonah 3:4",
+        "verseKey": "kjv:jonah:3:4",
+        "verseId": "kjv-jonah-3-4"
+      }
+    },
+    {
+      "id": "verse-3-5",
+      "type": "bible_verse",
+      "numberLabel": "5",
+      "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 5,
+        "reference": "Jonah 3:5",
+        "verseKey": "kjv:jonah:3:5",
+        "verseId": "kjv-jonah-3-5"
+      }
+    },
+    {
+      "id": "verse-3-6",
+      "type": "bible_verse",
+      "numberLabel": "6",
+      "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 6,
+        "reference": "Jonah 3:6",
+        "verseKey": "kjv:jonah:3:6",
+        "verseId": "kjv-jonah-3-6"
+      }
+    },
+    {
+      "id": "verse-3-7",
+      "type": "bible_verse",
+      "numberLabel": "7",
+      "text": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 7,
+        "reference": "Jonah 3:7",
+        "verseKey": "kjv:jonah:3:7",
+        "verseId": "kjv-jonah-3-7"
+      }
+    },
+    {
+      "id": "verse-3-8",
+      "type": "bible_verse",
+      "numberLabel": "8",
+      "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 8,
+        "reference": "Jonah 3:8",
+        "verseKey": "kjv:jonah:3:8",
+        "verseId": "kjv-jonah-3-8"
+      }
+    },
+    {
+      "id": "verse-3-9",
+      "type": "bible_verse",
+      "numberLabel": "9",
+      "text": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 9,
+        "reference": "Jonah 3:9",
+        "verseKey": "kjv:jonah:3:9",
+        "verseId": "kjv-jonah-3-9"
+      }
+    },
+    {
+      "id": "verse-3-10",
+      "type": "bible_verse",
+      "numberLabel": "10",
+      "text": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 3,
+        "verse": 10,
+        "reference": "Jonah 3:10",
+        "verseKey": "kjv:jonah:3:10",
+        "verseId": "kjv-jonah-3-10"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "type": "heading",
+      "headingLevel": 2,
+      "text": "Jonah 4",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "chapter": 4,
+        "blockRole": "chapter_heading"
+      }
+    },
+    {
+      "id": "verse-4-1",
+      "type": "bible_verse",
+      "numberLabel": "1",
+      "text": "But it displeased Jonah exceedingly, and he was very angry.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 1,
+        "reference": "Jonah 4:1",
+        "verseKey": "kjv:jonah:4:1",
+        "verseId": "kjv-jonah-4-1"
+      }
+    },
+    {
+      "id": "verse-4-2",
+      "type": "bible_verse",
+      "numberLabel": "2",
+      "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 2,
+        "reference": "Jonah 4:2",
+        "verseKey": "kjv:jonah:4:2",
+        "verseId": "kjv-jonah-4-2"
+      }
+    },
+    {
+      "id": "verse-4-3",
+      "type": "bible_verse",
+      "numberLabel": "3",
+      "text": "Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 3,
+        "reference": "Jonah 4:3",
+        "verseKey": "kjv:jonah:4:3",
+        "verseId": "kjv-jonah-4-3"
+      }
+    },
+    {
+      "id": "verse-4-4",
+      "type": "bible_verse",
+      "numberLabel": "4",
+      "text": "Then said the LORD, Doest thou well to be angry?",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 4,
+        "reference": "Jonah 4:4",
+        "verseKey": "kjv:jonah:4:4",
+        "verseId": "kjv-jonah-4-4"
+      }
+    },
+    {
+      "id": "verse-4-5",
+      "type": "bible_verse",
+      "numberLabel": "5",
+      "text": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 5,
+        "reference": "Jonah 4:5",
+        "verseKey": "kjv:jonah:4:5",
+        "verseId": "kjv-jonah-4-5"
+      }
+    },
+    {
+      "id": "verse-4-6",
+      "type": "bible_verse",
+      "numberLabel": "6",
+      "text": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 6,
+        "reference": "Jonah 4:6",
+        "verseKey": "kjv:jonah:4:6",
+        "verseId": "kjv-jonah-4-6"
+      }
+    },
+    {
+      "id": "verse-4-7",
+      "type": "bible_verse",
+      "numberLabel": "7",
+      "text": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 7,
+        "reference": "Jonah 4:7",
+        "verseKey": "kjv:jonah:4:7",
+        "verseId": "kjv-jonah-4-7"
+      }
+    },
+    {
+      "id": "verse-4-8",
+      "type": "bible_verse",
+      "numberLabel": "8",
+      "text": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 8,
+        "reference": "Jonah 4:8",
+        "verseKey": "kjv:jonah:4:8",
+        "verseId": "kjv-jonah-4-8"
+      }
+    },
+    {
+      "id": "verse-4-9",
+      "type": "bible_verse",
+      "numberLabel": "9",
+      "text": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 9,
+        "reference": "Jonah 4:9",
+        "verseKey": "kjv:jonah:4:9",
+        "verseId": "kjv-jonah-4-9"
+      }
+    },
+    {
+      "id": "verse-4-10",
+      "type": "bible_verse",
+      "numberLabel": "10",
+      "text": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 10,
+        "reference": "Jonah 4:10",
+        "verseKey": "kjv:jonah:4:10",
+        "verseId": "kjv-jonah-4-10"
+      }
+    },
+    {
+      "id": "verse-4-11",
+      "type": "bible_verse",
+      "numberLabel": "11",
+      "text": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?",
+      "metadata": {
+        "translation": "KJV",
+        "bookId": "jonah",
+        "book": "Jonah",
+        "bookOrder": 32,
+        "chapter": 4,
+        "verse": 11,
+        "reference": "Jonah 4:11",
+        "verseKey": "kjv:jonah:4:11",
+        "verseId": "kjv-jonah-4-11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jonah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jonah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

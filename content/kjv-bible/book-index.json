@@ -1,0 +1,1002 @@
+{
+  "schemaVersion": 1,
+  "collection": "kjv-bible",
+  "translationCode": "KJV",
+  "bookCount": 66,
+  "chapterCount": 1189,
+  "verseCount": 31102,
+  "testaments": {
+    "old": {
+      "name": "Old Testament",
+      "bookCount": 39
+    },
+    "new": {
+      "name": "New Testament",
+      "bookCount": 27
+    }
+  },
+  "books": [
+    {
+      "id": "genesis",
+      "documentId": "kjv-genesis",
+      "name": "Genesis",
+      "order": 1,
+      "testament": "old",
+      "chapterCount": 50,
+      "verseCount": 1533,
+      "aliases": [
+        "Gen",
+        "Ge",
+        "Gn"
+      ],
+      "path": "books/genesis.json"
+    },
+    {
+      "id": "exodus",
+      "documentId": "kjv-exodus",
+      "name": "Exodus",
+      "order": 2,
+      "testament": "old",
+      "chapterCount": 40,
+      "verseCount": 1213,
+      "aliases": [
+        "Exod",
+        "Exo",
+        "Ex"
+      ],
+      "path": "books/exodus.json"
+    },
+    {
+      "id": "leviticus",
+      "documentId": "kjv-leviticus",
+      "name": "Leviticus",
+      "order": 3,
+      "testament": "old",
+      "chapterCount": 27,
+      "verseCount": 859,
+      "aliases": [
+        "Lev",
+        "Le",
+        "Lv"
+      ],
+      "path": "books/leviticus.json"
+    },
+    {
+      "id": "numbers",
+      "documentId": "kjv-numbers",
+      "name": "Numbers",
+      "order": 4,
+      "testament": "old",
+      "chapterCount": 36,
+      "verseCount": 1288,
+      "aliases": [
+        "Num",
+        "Nu",
+        "Nm",
+        "Nb"
+      ],
+      "path": "books/numbers.json"
+    },
+    {
+      "id": "deuteronomy",
+      "documentId": "kjv-deuteronomy",
+      "name": "Deuteronomy",
+      "order": 5,
+      "testament": "old",
+      "chapterCount": 34,
+      "verseCount": 959,
+      "aliases": [
+        "Deut",
+        "Dt"
+      ],
+      "path": "books/deuteronomy.json"
+    },
+    {
+      "id": "joshua",
+      "documentId": "kjv-joshua",
+      "name": "Joshua",
+      "order": 6,
+      "testament": "old",
+      "chapterCount": 24,
+      "verseCount": 658,
+      "aliases": [
+        "Josh",
+        "Jos"
+      ],
+      "path": "books/joshua.json"
+    },
+    {
+      "id": "judges",
+      "documentId": "kjv-judges",
+      "name": "Judges",
+      "order": 7,
+      "testament": "old",
+      "chapterCount": 21,
+      "verseCount": 618,
+      "aliases": [
+        "Judg",
+        "Jdg",
+        "Jg"
+      ],
+      "path": "books/judges.json"
+    },
+    {
+      "id": "ruth",
+      "documentId": "kjv-ruth",
+      "name": "Ruth",
+      "order": 8,
+      "testament": "old",
+      "chapterCount": 4,
+      "verseCount": 85,
+      "aliases": [
+        "Ruth",
+        "Ru"
+      ],
+      "path": "books/ruth.json"
+    },
+    {
+      "id": "1-samuel",
+      "documentId": "kjv-1-samuel",
+      "name": "1 Samuel",
+      "order": 9,
+      "testament": "old",
+      "chapterCount": 31,
+      "verseCount": 810,
+      "aliases": [
+        "1 Sam",
+        "1Sam",
+        "1 Sa",
+        "1Sa"
+      ],
+      "path": "books/1-samuel.json"
+    },
+    {
+      "id": "2-samuel",
+      "documentId": "kjv-2-samuel",
+      "name": "2 Samuel",
+      "order": 10,
+      "testament": "old",
+      "chapterCount": 24,
+      "verseCount": 695,
+      "aliases": [
+        "2 Sam",
+        "2Sam",
+        "2 Sa",
+        "2Sa"
+      ],
+      "path": "books/2-samuel.json"
+    },
+    {
+      "id": "1-kings",
+      "documentId": "kjv-1-kings",
+      "name": "1 Kings",
+      "order": 11,
+      "testament": "old",
+      "chapterCount": 22,
+      "verseCount": 816,
+      "aliases": [
+        "1 Kgs",
+        "1Kgs",
+        "1 Ki",
+        "1Ki"
+      ],
+      "path": "books/1-kings.json"
+    },
+    {
+      "id": "2-kings",
+      "documentId": "kjv-2-kings",
+      "name": "2 Kings",
+      "order": 12,
+      "testament": "old",
+      "chapterCount": 25,
+      "verseCount": 719,
+      "aliases": [
+        "2 Kgs",
+        "2Kgs",
+        "2 Ki",
+        "2Ki"
+      ],
+      "path": "books/2-kings.json"
+    },
+    {
+      "id": "1-chronicles",
+      "documentId": "kjv-1-chronicles",
+      "name": "1 Chronicles",
+      "order": 13,
+      "testament": "old",
+      "chapterCount": 29,
+      "verseCount": 942,
+      "aliases": [
+        "1 Chr",
+        "1Chr",
+        "1 Ch",
+        "1Ch"
+      ],
+      "path": "books/1-chronicles.json"
+    },
+    {
+      "id": "2-chronicles",
+      "documentId": "kjv-2-chronicles",
+      "name": "2 Chronicles",
+      "order": 14,
+      "testament": "old",
+      "chapterCount": 36,
+      "verseCount": 822,
+      "aliases": [
+        "2 Chr",
+        "2Chr",
+        "2 Ch",
+        "2Ch"
+      ],
+      "path": "books/2-chronicles.json"
+    },
+    {
+      "id": "ezra",
+      "documentId": "kjv-ezra",
+      "name": "Ezra",
+      "order": 15,
+      "testament": "old",
+      "chapterCount": 10,
+      "verseCount": 280,
+      "aliases": [
+        "Ezra",
+        "Ezr"
+      ],
+      "path": "books/ezra.json"
+    },
+    {
+      "id": "nehemiah",
+      "documentId": "kjv-nehemiah",
+      "name": "Nehemiah",
+      "order": 16,
+      "testament": "old",
+      "chapterCount": 13,
+      "verseCount": 406,
+      "aliases": [
+        "Neh",
+        "Ne"
+      ],
+      "path": "books/nehemiah.json"
+    },
+    {
+      "id": "esther",
+      "documentId": "kjv-esther",
+      "name": "Esther",
+      "order": 17,
+      "testament": "old",
+      "chapterCount": 10,
+      "verseCount": 167,
+      "aliases": [
+        "Esth",
+        "Est"
+      ],
+      "path": "books/esther.json"
+    },
+    {
+      "id": "job",
+      "documentId": "kjv-job",
+      "name": "Job",
+      "order": 18,
+      "testament": "old",
+      "chapterCount": 42,
+      "verseCount": 1070,
+      "aliases": [
+        "Job"
+      ],
+      "path": "books/job.json"
+    },
+    {
+      "id": "psalms",
+      "documentId": "kjv-psalms",
+      "name": "Psalms",
+      "order": 19,
+      "testament": "old",
+      "chapterCount": 150,
+      "verseCount": 2461,
+      "aliases": [
+        "Psalm",
+        "Psalms",
+        "Ps",
+        "Psa",
+        "Psm"
+      ],
+      "path": "books/psalms.json"
+    },
+    {
+      "id": "proverbs",
+      "documentId": "kjv-proverbs",
+      "name": "Proverbs",
+      "order": 20,
+      "testament": "old",
+      "chapterCount": 31,
+      "verseCount": 915,
+      "aliases": [
+        "Prov",
+        "Pr",
+        "Prv"
+      ],
+      "path": "books/proverbs.json"
+    },
+    {
+      "id": "ecclesiastes",
+      "documentId": "kjv-ecclesiastes",
+      "name": "Ecclesiastes",
+      "order": 21,
+      "testament": "old",
+      "chapterCount": 12,
+      "verseCount": 222,
+      "aliases": [
+        "Eccl",
+        "Ecc",
+        "Qoheleth"
+      ],
+      "path": "books/ecclesiastes.json"
+    },
+    {
+      "id": "song-of-solomon",
+      "documentId": "kjv-song-of-solomon",
+      "name": "Song of Solomon",
+      "order": 22,
+      "testament": "old",
+      "chapterCount": 8,
+      "verseCount": 117,
+      "aliases": [
+        "Song",
+        "Song of Songs",
+        "SOS",
+        "Canticles"
+      ],
+      "path": "books/song-of-solomon.json"
+    },
+    {
+      "id": "isaiah",
+      "documentId": "kjv-isaiah",
+      "name": "Isaiah",
+      "order": 23,
+      "testament": "old",
+      "chapterCount": 66,
+      "verseCount": 1292,
+      "aliases": [
+        "Isa",
+        "Is"
+      ],
+      "path": "books/isaiah.json"
+    },
+    {
+      "id": "jeremiah",
+      "documentId": "kjv-jeremiah",
+      "name": "Jeremiah",
+      "order": 24,
+      "testament": "old",
+      "chapterCount": 52,
+      "verseCount": 1364,
+      "aliases": [
+        "Jer",
+        "Je",
+        "Jr"
+      ],
+      "path": "books/jeremiah.json"
+    },
+    {
+      "id": "lamentations",
+      "documentId": "kjv-lamentations",
+      "name": "Lamentations",
+      "order": 25,
+      "testament": "old",
+      "chapterCount": 5,
+      "verseCount": 154,
+      "aliases": [
+        "Lam",
+        "La"
+      ],
+      "path": "books/lamentations.json"
+    },
+    {
+      "id": "ezekiel",
+      "documentId": "kjv-ezekiel",
+      "name": "Ezekiel",
+      "order": 26,
+      "testament": "old",
+      "chapterCount": 48,
+      "verseCount": 1273,
+      "aliases": [
+        "Ezek",
+        "Eze",
+        "Ezk"
+      ],
+      "path": "books/ezekiel.json"
+    },
+    {
+      "id": "daniel",
+      "documentId": "kjv-daniel",
+      "name": "Daniel",
+      "order": 27,
+      "testament": "old",
+      "chapterCount": 12,
+      "verseCount": 357,
+      "aliases": [
+        "Dan",
+        "Da",
+        "Dn"
+      ],
+      "path": "books/daniel.json"
+    },
+    {
+      "id": "hosea",
+      "documentId": "kjv-hosea",
+      "name": "Hosea",
+      "order": 28,
+      "testament": "old",
+      "chapterCount": 14,
+      "verseCount": 197,
+      "aliases": [
+        "Hos",
+        "Ho"
+      ],
+      "path": "books/hosea.json"
+    },
+    {
+      "id": "joel",
+      "documentId": "kjv-joel",
+      "name": "Joel",
+      "order": 29,
+      "testament": "old",
+      "chapterCount": 3,
+      "verseCount": 73,
+      "aliases": [
+        "Joel",
+        "Jl"
+      ],
+      "path": "books/joel.json"
+    },
+    {
+      "id": "amos",
+      "documentId": "kjv-amos",
+      "name": "Amos",
+      "order": 30,
+      "testament": "old",
+      "chapterCount": 9,
+      "verseCount": 146,
+      "aliases": [
+        "Amos",
+        "Am"
+      ],
+      "path": "books/amos.json"
+    },
+    {
+      "id": "obadiah",
+      "documentId": "kjv-obadiah",
+      "name": "Obadiah",
+      "order": 31,
+      "testament": "old",
+      "chapterCount": 1,
+      "verseCount": 21,
+      "aliases": [
+        "Obad",
+        "Ob"
+      ],
+      "path": "books/obadiah.json"
+    },
+    {
+      "id": "jonah",
+      "documentId": "kjv-jonah",
+      "name": "Jonah",
+      "order": 32,
+      "testament": "old",
+      "chapterCount": 4,
+      "verseCount": 48,
+      "aliases": [
+        "Jonah",
+        "Jon"
+      ],
+      "path": "books/jonah.json"
+    },
+    {
+      "id": "micah",
+      "documentId": "kjv-micah",
+      "name": "Micah",
+      "order": 33,
+      "testament": "old",
+      "chapterCount": 7,
+      "verseCount": 105,
+      "aliases": [
+        "Mic",
+        "Mi"
+      ],
+      "path": "books/micah.json"
+    },
+    {
+      "id": "nahum",
+      "documentId": "kjv-nahum",
+      "name": "Nahum",
+      "order": 34,
+      "testament": "old",
+      "chapterCount": 3,
+      "verseCount": 47,
+      "aliases": [
+        "Nah",
+        "Na"
+      ],
+      "path": "books/nahum.json"
+    },
+    {
+      "id": "habakkuk",
+      "documentId": "kjv-habakkuk",
+      "name": "Habakkuk",
+      "order": 35,
+      "testament": "old",
+      "chapterCount": 3,
+      "verseCount": 56,
+      "aliases": [
+        "Hab",
+        "Hb"
+      ],
+      "path": "books/habakkuk.json"
+    },
+    {
+      "id": "zephaniah",
+      "documentId": "kjv-zephaniah",
+      "name": "Zephaniah",
+      "order": 36,
+      "testament": "old",
+      "chapterCount": 3,
+      "verseCount": 53,
+      "aliases": [
+        "Zeph",
+        "Zep",
+        "Zp"
+      ],
+      "path": "books/zephaniah.json"
+    },
+    {
+      "id": "haggai",
+      "documentId": "kjv-haggai",
+      "name": "Haggai",
+      "order": 37,
+      "testament": "old",
+      "chapterCount": 2,
+      "verseCount": 38,
+      "aliases": [
+        "Hag",
+        "Hg"
+      ],
+      "path": "books/haggai.json"
+    },
+    {
+      "id": "zechariah",
+      "documentId": "kjv-zechariah",
+      "name": "Zechariah",
+      "order": 38,
+      "testament": "old",
+      "chapterCount": 14,
+      "verseCount": 211,
+      "aliases": [
+        "Zech",
+        "Zec",
+        "Zc"
+      ],
+      "path": "books/zechariah.json"
+    },
+    {
+      "id": "malachi",
+      "documentId": "kjv-malachi",
+      "name": "Malachi",
+      "order": 39,
+      "testament": "old",
+      "chapterCount": 4,
+      "verseCount": 55,
+      "aliases": [
+        "Mal",
+        "Ml"
+      ],
+      "path": "books/malachi.json"
+    },
+    {
+      "id": "matthew",
+      "documentId": "kjv-matthew",
+      "name": "Matthew",
+      "order": 40,
+      "testament": "new",
+      "chapterCount": 28,
+      "verseCount": 1071,
+      "aliases": [
+        "Matt",
+        "Mt"
+      ],
+      "path": "books/matthew.json"
+    },
+    {
+      "id": "mark",
+      "documentId": "kjv-mark",
+      "name": "Mark",
+      "order": 41,
+      "testament": "new",
+      "chapterCount": 16,
+      "verseCount": 678,
+      "aliases": [
+        "Mark",
+        "Mrk",
+        "Mk"
+      ],
+      "path": "books/mark.json"
+    },
+    {
+      "id": "luke",
+      "documentId": "kjv-luke",
+      "name": "Luke",
+      "order": 42,
+      "testament": "new",
+      "chapterCount": 24,
+      "verseCount": 1151,
+      "aliases": [
+        "Luke",
+        "Lk"
+      ],
+      "path": "books/luke.json"
+    },
+    {
+      "id": "john",
+      "documentId": "kjv-john",
+      "name": "John",
+      "order": 43,
+      "testament": "new",
+      "chapterCount": 21,
+      "verseCount": 879,
+      "aliases": [
+        "John",
+        "Jn",
+        "Jhn"
+      ],
+      "path": "books/john.json"
+    },
+    {
+      "id": "acts",
+      "documentId": "kjv-acts",
+      "name": "Acts",
+      "order": 44,
+      "testament": "new",
+      "chapterCount": 28,
+      "verseCount": 1007,
+      "aliases": [
+        "Acts",
+        "Ac"
+      ],
+      "path": "books/acts.json"
+    },
+    {
+      "id": "romans",
+      "documentId": "kjv-romans",
+      "name": "Romans",
+      "order": 45,
+      "testament": "new",
+      "chapterCount": 16,
+      "verseCount": 433,
+      "aliases": [
+        "Rom",
+        "Ro",
+        "Rm"
+      ],
+      "path": "books/romans.json"
+    },
+    {
+      "id": "1-corinthians",
+      "documentId": "kjv-1-corinthians",
+      "name": "1 Corinthians",
+      "order": 46,
+      "testament": "new",
+      "chapterCount": 16,
+      "verseCount": 437,
+      "aliases": [
+        "1 Cor",
+        "1Cor",
+        "1 Co",
+        "1Co"
+      ],
+      "path": "books/1-corinthians.json"
+    },
+    {
+      "id": "2-corinthians",
+      "documentId": "kjv-2-corinthians",
+      "name": "2 Corinthians",
+      "order": 47,
+      "testament": "new",
+      "chapterCount": 13,
+      "verseCount": 257,
+      "aliases": [
+        "2 Cor",
+        "2Cor",
+        "2 Co",
+        "2Co"
+      ],
+      "path": "books/2-corinthians.json"
+    },
+    {
+      "id": "galatians",
+      "documentId": "kjv-galatians",
+      "name": "Galatians",
+      "order": 48,
+      "testament": "new",
+      "chapterCount": 6,
+      "verseCount": 149,
+      "aliases": [
+        "Gal",
+        "Ga"
+      ],
+      "path": "books/galatians.json"
+    },
+    {
+      "id": "ephesians",
+      "documentId": "kjv-ephesians",
+      "name": "Ephesians",
+      "order": 49,
+      "testament": "new",
+      "chapterCount": 6,
+      "verseCount": 155,
+      "aliases": [
+        "Eph",
+        "Ephes"
+      ],
+      "path": "books/ephesians.json"
+    },
+    {
+      "id": "philippians",
+      "documentId": "kjv-philippians",
+      "name": "Philippians",
+      "order": 50,
+      "testament": "new",
+      "chapterCount": 4,
+      "verseCount": 104,
+      "aliases": [
+        "Phil",
+        "Php"
+      ],
+      "path": "books/philippians.json"
+    },
+    {
+      "id": "colossians",
+      "documentId": "kjv-colossians",
+      "name": "Colossians",
+      "order": 51,
+      "testament": "new",
+      "chapterCount": 4,
+      "verseCount": 95,
+      "aliases": [
+        "Col",
+        "Co"
+      ],
+      "path": "books/colossians.json"
+    },
+    {
+      "id": "1-thessalonians",
+      "documentId": "kjv-1-thessalonians",
+      "name": "1 Thessalonians",
+      "order": 52,
+      "testament": "new",
+      "chapterCount": 5,
+      "verseCount": 89,
+      "aliases": [
+        "1 Thess",
+        "1Thess",
+        "1 Th",
+        "1Th"
+      ],
+      "path": "books/1-thessalonians.json"
+    },
+    {
+      "id": "2-thessalonians",
+      "documentId": "kjv-2-thessalonians",
+      "name": "2 Thessalonians",
+      "order": 53,
+      "testament": "new",
+      "chapterCount": 3,
+      "verseCount": 47,
+      "aliases": [
+        "2 Thess",
+        "2Thess",
+        "2 Th",
+        "2Th"
+      ],
+      "path": "books/2-thessalonians.json"
+    },
+    {
+      "id": "1-timothy",
+      "documentId": "kjv-1-timothy",
+      "name": "1 Timothy",
+      "order": 54,
+      "testament": "new",
+      "chapterCount": 6,
+      "verseCount": 113,
+      "aliases": [
+        "1 Tim",
+        "1Tim",
+        "1 Ti",
+        "1Ti"
+      ],
+      "path": "books/1-timothy.json"
+    },
+    {
+      "id": "2-timothy",
+      "documentId": "kjv-2-timothy",
+      "name": "2 Timothy",
+      "order": 55,
+      "testament": "new",
+      "chapterCount": 4,
+      "verseCount": 83,
+      "aliases": [
+        "2 Tim",
+        "2Tim",
+        "2 Ti",
+        "2Ti"
+      ],
+      "path": "books/2-timothy.json"
+    },
+    {
+      "id": "titus",
+      "documentId": "kjv-titus",
+      "name": "Titus",
+      "order": 56,
+      "testament": "new",
+      "chapterCount": 3,
+      "verseCount": 46,
+      "aliases": [
+        "Titus",
+        "Tit"
+      ],
+      "path": "books/titus.json"
+    },
+    {
+      "id": "philemon",
+      "documentId": "kjv-philemon",
+      "name": "Philemon",
+      "order": 57,
+      "testament": "new",
+      "chapterCount": 1,
+      "verseCount": 25,
+      "aliases": [
+        "Phlm",
+        "Phm",
+        "Phile"
+      ],
+      "path": "books/philemon.json"
+    },
+    {
+      "id": "hebrews",
+      "documentId": "kjv-hebrews",
+      "name": "Hebrews",
+      "order": 58,
+      "testament": "new",
+      "chapterCount": 13,
+      "verseCount": 303,
+      "aliases": [
+        "Heb",
+        "He"
+      ],
+      "path": "books/hebrews.json"
+    },
+    {
+      "id": "james",
+      "documentId": "kjv-james",
+      "name": "James",
+      "order": 59,
+      "testament": "new",
+      "chapterCount": 5,
+      "verseCount": 108,
+      "aliases": [
+        "Jas",
+        "Jam",
+        "Jm"
+      ],
+      "path": "books/james.json"
+    },
+    {
+      "id": "1-peter",
+      "documentId": "kjv-1-peter",
+      "name": "1 Peter",
+      "order": 60,
+      "testament": "new",
+      "chapterCount": 5,
+      "verseCount": 105,
+      "aliases": [
+        "1 Pet",
+        "1Pet",
+        "1 Pe",
+        "1Pe"
+      ],
+      "path": "books/1-peter.json"
+    },
+    {
+      "id": "2-peter",
+      "documentId": "kjv-2-peter",
+      "name": "2 Peter",
+      "order": 61,
+      "testament": "new",
+      "chapterCount": 3,
+      "verseCount": 61,
+      "aliases": [
+        "2 Pet",
+        "2Pet",
+        "2 Pe",
+        "2Pe"
+      ],
+      "path": "books/2-peter.json"
+    },
+    {
+      "id": "1-john",
+      "documentId": "kjv-1-john",
+      "name": "1 John",
+      "order": 62,
+      "testament": "new",
+      "chapterCount": 5,
+      "verseCount": 105,
+      "aliases": [
+        "1 John",
+        "1John",
+        "1 Jn",
+        "1Jn"
+      ],
+      "path": "books/1-john.json"
+    },
+    {
+      "id": "2-john",
+      "documentId": "kjv-2-john",
+      "name": "2 John",
+      "order": 63,
+      "testament": "new",
+      "chapterCount": 1,
+      "verseCount": 13,
+      "aliases": [
+        "2 John",
+        "2John",
+        "2 Jn",
+        "2Jn"
+      ],
+      "path": "books/2-john.json"
+    },
+    {
+      "id": "3-john",
+      "documentId": "kjv-3-john",
+      "name": "3 John",
+      "order": 64,
+      "testament": "new",
+      "chapterCount": 1,
+      "verseCount": 14,
+      "aliases": [
+        "3 John",
+        "3John",
+        "3 Jn",
+        "3Jn"
+      ],
+      "path": "books/3-john.json"
+    },
+    {
+      "id": "jude",
+      "documentId": "kjv-jude",
+      "name": "Jude",
+      "order": 65,
+      "testament": "new",
+      "chapterCount": 1,
+      "verseCount": 25,
+      "aliases": [
+        "Jude",
+        "Jud"
+      ],
+      "path": "books/jude.json"
+    },
+    {
+      "id": "revelation",
+      "documentId": "kjv-revelation",
+      "name": "Revelation",
+      "order": 66,
+      "testament": "new",
+      "chapterCount": 22,
+      "verseCount": 404,
+      "aliases": [
+        "Rev",
+        "Re",
+        "Rv",
+        "Apocalypse"
+      ],
+      "path": "books/revelation.json"
+    }
+  ]
+}

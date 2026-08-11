@@ -1,0 +1,622 @@
+{
+  "status": "PASS",
+  "schemaVersion": 1,
+  "collection": "kjv-bible",
+  "sourceRepository": "aruljohn/Bible-kjv",
+  "sourceRevision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+  "books": 66,
+  "chapters": 1189,
+  "verses": 31102,
+  "uniqueVerseIds": 31102,
+  "uniqueVerseKeys": 31102,
+  "bookJsonBytes": 27964190,
+  "largestBook": {
+    "bookId": "psalms",
+    "name": "Psalms",
+    "order": 19,
+    "chapters": 150,
+    "verseCount": 2461,
+    "bytes": 2009160,
+    "sha256": "07b0e38c8fc0c642085bac42997094e43bc3ef9875aed6db42376d79f2454542"
+  },
+  "appLimits": {
+    "maxSingleDocumentBytes": 4194304,
+    "maxPublishedCollectionBytes": 134217728
+  },
+  "bookStats": [
+    {
+      "bookId": "genesis",
+      "name": "Genesis",
+      "order": 1,
+      "chapters": 50,
+      "verseCount": 1533,
+      "bytes": 1359532,
+      "sha256": "be1d5d256b5e07b27e4601834ac3420a44d67f4763d8d220d7cb9d8eb366e44f"
+    },
+    {
+      "bookId": "exodus",
+      "name": "Exodus",
+      "order": 2,
+      "chapters": 40,
+      "verseCount": 1213,
+      "bytes": 1092729,
+      "sha256": "adfea955f7c9377ca80d8dfaf9e078494eeef4224b8a7e351936ce2b3afb27ca"
+    },
+    {
+      "bookId": "leviticus",
+      "name": "Leviticus",
+      "order": 3,
+      "chapters": 27,
+      "verseCount": 859,
+      "bytes": 807909,
+      "sha256": "ce102b32256b13debc327fbf1aabdee4db19a53ae4fd5d9d3d265eeb2606cc84"
+    },
+    {
+      "bookId": "numbers",
+      "name": "Numbers",
+      "order": 4,
+      "chapters": 36,
+      "verseCount": 1288,
+      "bytes": 1159118,
+      "sha256": "10498b2b8274eab25a7748a67e2ed4bb4b2c197e3cc432798fde3cc8986bf007"
+    },
+    {
+      "bookId": "deuteronomy",
+      "name": "Deuteronomy",
+      "order": 5,
+      "chapters": 34,
+      "verseCount": 959,
+      "bytes": 927539,
+      "sha256": "0cb2557ac7344cd5debffb590d51d66cd09fbb5e8e403a7e8f33ebb4fbbeb52a"
+    },
+    {
+      "bookId": "joshua",
+      "name": "Joshua",
+      "order": 6,
+      "chapters": 24,
+      "verseCount": 658,
+      "bytes": 609459,
+      "sha256": "b0dbf2d251a6be75ef2ca5b5a39685cb1b4186b65ee4e165c543fd1b98257ef3"
+    },
+    {
+      "bookId": "judges",
+      "name": "Judges",
+      "order": 7,
+      "chapters": 21,
+      "verseCount": 618,
+      "bytes": 580602,
+      "sha256": "e22c550208d38af287de737a9b0b8ad4a842e3af7e300606786409041eb17925"
+    },
+    {
+      "bookId": "ruth",
+      "name": "Ruth",
+      "order": 8,
+      "chapters": 4,
+      "verseCount": 85,
+      "bytes": 78056,
+      "sha256": "11937886db97026b0ab88849ca25512d35fdc8e3f50e8a473831c338345017dc"
+    },
+    {
+      "bookId": "1-samuel",
+      "name": "1 Samuel",
+      "order": 9,
+      "chapters": 31,
+      "verseCount": 810,
+      "bytes": 776332,
+      "sha256": "b538a1dc901436075eb9d04fbaa5a74302d946d6f6a48b0c6e6e4940f9fbff87"
+    },
+    {
+      "bookId": "2-samuel",
+      "name": "2 Samuel",
+      "order": 10,
+      "chapters": 24,
+      "verseCount": 695,
+      "bytes": 656943,
+      "sha256": "726d1ba312bb32504630ba19ffa9858aaee3451a2d9bf802b1a1afb31766b220"
+    },
+    {
+      "bookId": "1-kings",
+      "name": "1 Kings",
+      "order": 11,
+      "chapters": 22,
+      "verseCount": 816,
+      "bytes": 765898,
+      "sha256": "93453353592aa0a3e01e98920110e9cf2f74a5098146045830fa2fa256dcc9e6"
+    },
+    {
+      "bookId": "2-kings",
+      "name": "2 Kings",
+      "order": 12,
+      "chapters": 25,
+      "verseCount": 719,
+      "bytes": 694717,
+      "sha256": "9e19e641f76da0aff42e418e6f053c6d8410de7a65bf52a645c4b1d9b97ad9e4"
+    },
+    {
+      "bookId": "1-chronicles",
+      "name": "1 Chronicles",
+      "order": 13,
+      "chapters": 29,
+      "verseCount": 942,
+      "bytes": 851743,
+      "sha256": "8aceb58427822944ac55790fbb7ff9e7a0f31dbf6043b9a4c256a4641c9f7ad1"
+    },
+    {
+      "bookId": "2-chronicles",
+      "name": "2 Chronicles",
+      "order": 14,
+      "chapters": 36,
+      "verseCount": 822,
+      "bytes": 832148,
+      "sha256": "28188f9e9aec4608f1b8c638dbb10a790d74f09ffd0c841688d4f153ea77c7af"
+    },
+    {
+      "bookId": "ezra",
+      "name": "Ezra",
+      "order": 15,
+      "chapters": 10,
+      "verseCount": 280,
+      "bytes": 249946,
+      "sha256": "fa408904eae7ff0bbdf987c27fdc4937c2d992ab56d07c6bb1a44946cac10f28"
+    },
+    {
+      "bookId": "nehemiah",
+      "name": "Nehemiah",
+      "order": 16,
+      "chapters": 13,
+      "verseCount": 406,
+      "bytes": 372587,
+      "sha256": "b3e64e464301d669efb6cd873af3438be4e6b75b50201df1360556c86fcaa60f"
+    },
+    {
+      "bookId": "esther",
+      "name": "Esther",
+      "order": 17,
+      "chapters": 10,
+      "verseCount": 167,
+      "bytes": 165699,
+      "sha256": "0b356070a2d9774d0109222b1589589c2df3cb2e7d2a947235a3a320067dc9fd"
+    },
+    {
+      "bookId": "job",
+      "name": "Job",
+      "order": 18,
+      "chapters": 42,
+      "verseCount": 1070,
+      "bytes": 830296,
+      "sha256": "2fcdca8af364ea019e9839a9cb95e0920f9095b9eb94736c1a212181bf54af82"
+    },
+    {
+      "bookId": "psalms",
+      "name": "Psalms",
+      "order": 19,
+      "chapters": 150,
+      "verseCount": 2461,
+      "bytes": 2009160,
+      "sha256": "07b0e38c8fc0c642085bac42997094e43bc3ef9875aed6db42376d79f2454542"
+    },
+    {
+      "bookId": "proverbs",
+      "name": "Proverbs",
+      "order": 20,
+      "chapters": 31,
+      "verseCount": 915,
+      "bytes": 744048,
+      "sha256": "009c7538bd6fb1f0200fc13d0a4f48d517ec34f3e7df7cccb84e3aebbd14d97b"
+    },
+    {
+      "bookId": "ecclesiastes",
+      "name": "Ecclesiastes",
+      "order": 21,
+      "chapters": 12,
+      "verseCount": 222,
+      "bytes": 206677,
+      "sha256": "a3b0888ea033c4db676367b2e31630abad202878f58b996edc64c699d1fe0217"
+    },
+    {
+      "bookId": "song-of-solomon",
+      "name": "Song of Solomon",
+      "order": 22,
+      "chapters": 8,
+      "verseCount": 117,
+      "bytes": 110060,
+      "sha256": "b76e97debe9589cda8f2ee0bf6716a88ce970e6f7023a9948bdcb3d26517bf07"
+    },
+    {
+      "bookId": "isaiah",
+      "name": "Isaiah",
+      "order": 23,
+      "chapters": 66,
+      "verseCount": 1292,
+      "bytes": 1199014,
+      "sha256": "b584f0eafe2e8c5939a5eb09f92f0d8ede395bead639188ced51da7d6f5eef06"
+    },
+    {
+      "bookId": "jeremiah",
+      "name": "Jeremiah",
+      "order": 24,
+      "chapters": 52,
+      "verseCount": 1364,
+      "bytes": 1320450,
+      "sha256": "3c9677b8b9001d2d005ee255f541790c9347562862c84975ff463b415473d3d2"
+    },
+    {
+      "bookId": "lamentations",
+      "name": "Lamentations",
+      "order": 25,
+      "chapters": 5,
+      "verseCount": 154,
+      "bytes": 139248,
+      "sha256": "2e837bdb7a62d8feab25ffe7b81a5c672225458c26b34bc1a9428f858d9f6ae8"
+    },
+    {
+      "bookId": "ezekiel",
+      "name": "Ezekiel",
+      "order": 26,
+      "chapters": 48,
+      "verseCount": 1273,
+      "bytes": 1215353,
+      "sha256": "f1c510399ba26cc53d20b50df10fddfce69de358e7a3fba8fc553f34f5137baa"
+    },
+    {
+      "bookId": "daniel",
+      "name": "Daniel",
+      "order": 27,
+      "chapters": 12,
+      "verseCount": 357,
+      "bytes": 345019,
+      "sha256": "b548d6a3f4238a34c3d168240cd1b9fd56ee91d718e7e867ce47a034ef9bee57"
+    },
+    {
+      "bookId": "hosea",
+      "name": "Hosea",
+      "order": 28,
+      "chapters": 14,
+      "verseCount": 197,
+      "bytes": 177281,
+      "sha256": "305eec7b03aae094711c67511c16f08c9482de4169614a6df160a8c5433a19a2"
+    },
+    {
+      "bookId": "joel",
+      "name": "Joel",
+      "order": 29,
+      "chapters": 3,
+      "verseCount": 73,
+      "bytes": 66188,
+      "sha256": "f7d5869c2c231fd709657f17861b5bfebd80c0845db8f5c8a98a2c07603edacc"
+    },
+    {
+      "bookId": "amos",
+      "name": "Amos",
+      "order": 30,
+      "chapters": 9,
+      "verseCount": 146,
+      "bytes": 133163,
+      "sha256": "37761eabb2e9cb3ff683df54a5e5fb700be63d2dd5e1edd5a99dfd5f7373d57d"
+    },
+    {
+      "bookId": "obadiah",
+      "name": "Obadiah",
+      "order": 31,
+      "chapters": 1,
+      "verseCount": 21,
+      "bytes": 21229,
+      "sha256": "5e67b7d5e7fd306348abc647c252a9e2a6f6522509cff0d16f02df59a03c4548"
+    },
+    {
+      "bookId": "jonah",
+      "name": "Jonah",
+      "order": 32,
+      "chapters": 4,
+      "verseCount": 48,
+      "bytes": 43944,
+      "sha256": "e79e8384a52de038b2ab1d106c958f792d77edc30baca6882233f20f832cf0c6"
+    },
+    {
+      "bookId": "micah",
+      "name": "Micah",
+      "order": 33,
+      "chapters": 7,
+      "verseCount": 105,
+      "bytes": 98231,
+      "sha256": "68a1ecdac664d5db66d9b598ee74bfd8853e197839e011adb17571402d81c554"
+    },
+    {
+      "bookId": "nahum",
+      "name": "Nahum",
+      "order": 34,
+      "chapters": 3,
+      "verseCount": 47,
+      "bytes": 43628,
+      "sha256": "493a070f60901bea83089bb7692a1ed8f67aa05f072d6c2352b7f385b21cc9d8"
+    },
+    {
+      "bookId": "habakkuk",
+      "name": "Habakkuk",
+      "order": 35,
+      "chapters": 3,
+      "verseCount": 56,
+      "bytes": 52427,
+      "sha256": "02061fdb44d4b680bd2c1a8daa228dee8b92620287fcc2b829f572c0e64495cf"
+    },
+    {
+      "bookId": "zephaniah",
+      "name": "Zephaniah",
+      "order": 36,
+      "chapters": 3,
+      "verseCount": 53,
+      "bytes": 52175,
+      "sha256": "59d46a5ef1e9e0d390ba7c61c3ce1765b23122741fbba1328ccc7459ada0d237"
+    },
+    {
+      "bookId": "haggai",
+      "name": "Haggai",
+      "order": 37,
+      "chapters": 2,
+      "verseCount": 38,
+      "bytes": 35948,
+      "sha256": "8e2f82143c2b62cf2b4e95115689d65dbfeca47eb16d8d5f795c95ffa512016b"
+    },
+    {
+      "bookId": "zechariah",
+      "name": "Zechariah",
+      "order": 38,
+      "chapters": 14,
+      "verseCount": 211,
+      "bytes": 204265,
+      "sha256": "6c323ff27aebc346e50d47d32f7a8fffc1c94631c5ffd3387cf44af4833e03d0"
+    },
+    {
+      "bookId": "malachi",
+      "name": "Malachi",
+      "order": 39,
+      "chapters": 4,
+      "verseCount": 55,
+      "bytes": 54194,
+      "sha256": "02888c85d2caa18f0b37740712e05136e6f65a0b2bfa252324518cc86bdb5ad4"
+    },
+    {
+      "bookId": "matthew",
+      "name": "Matthew",
+      "order": 40,
+      "chapters": 28,
+      "verseCount": 1071,
+      "bytes": 921643,
+      "sha256": "52d73e6d502fc9ca294ed778667c114baf6419a89668f34b35eaf49d095b52b6"
+    },
+    {
+      "bookId": "mark",
+      "name": "Mark",
+      "order": 41,
+      "chapters": 16,
+      "verseCount": 678,
+      "bytes": 565987,
+      "sha256": "0684cf389fd3cf3593f04aedbb8bb665f227e7b52a3b85ed9a40d1e102c696a7"
+    },
+    {
+      "bookId": "luke",
+      "name": "Luke",
+      "order": 42,
+      "chapters": 24,
+      "verseCount": 1151,
+      "bytes": 961446,
+      "sha256": "3cdb070850197227ad18e59a51ad7c96d732f2328540a65994709655bc0639b8"
+    },
+    {
+      "bookId": "john",
+      "name": "John",
+      "order": 43,
+      "chapters": 21,
+      "verseCount": 879,
+      "bytes": 724930,
+      "sha256": "a831c247c90ea8d8b5e5dc6bd3c572df8c9cc63bbe2edd8e600075617e994368"
+    },
+    {
+      "bookId": "acts",
+      "name": "Acts",
+      "order": 44,
+      "chapters": 28,
+      "verseCount": 1007,
+      "bytes": 867794,
+      "sha256": "0eed67836640377beea13f20c5b1ccbb8d6812d1bba880d06f92c8f2c1fa4d55"
+    },
+    {
+      "bookId": "romans",
+      "name": "Romans",
+      "order": 45,
+      "chapters": 16,
+      "verseCount": 433,
+      "bytes": 369583,
+      "sha256": "ebb31b63c6e6f050e0370632449556450323a2367a714a5bb13c0f32e59dd4ea"
+    },
+    {
+      "bookId": "1-corinthians",
+      "name": "1 Corinthians",
+      "order": 46,
+      "chapters": 16,
+      "verseCount": 437,
+      "bytes": 394680,
+      "sha256": "ef7d4047f305fdf53754c9ca6d094e8e871e36aaeb5cd373344c080856b6310f"
+    },
+    {
+      "bookId": "2-corinthians",
+      "name": "2 Corinthians",
+      "order": 47,
+      "chapters": 13,
+      "verseCount": 257,
+      "bytes": 239565,
+      "sha256": "4af3c679e952855c7dbb538db65c5ca5ade4fe2d0c569a6f486a138037752174"
+    },
+    {
+      "bookId": "galatians",
+      "name": "Galatians",
+      "order": 48,
+      "chapters": 6,
+      "verseCount": 149,
+      "bytes": 128954,
+      "sha256": "d1cd4b9ef73a48ad028e24ef25a2a2762c8fac0f83d373bec2b773e3708f91a5"
+    },
+    {
+      "bookId": "ephesians",
+      "name": "Ephesians",
+      "order": 49,
+      "chapters": 6,
+      "verseCount": 155,
+      "bytes": 132799,
+      "sha256": "f7ccc9d2b084234d89688efd3855f010442be96ff673932e4b53cbfc681d5d22"
+    },
+    {
+      "bookId": "philippians",
+      "name": "Philippians",
+      "order": 50,
+      "chapters": 4,
+      "verseCount": 104,
+      "bytes": 92364,
+      "sha256": "b71ec734de8dae5d908f6517931750bc81328bb7d5c80741225cc5b058a33e6b"
+    },
+    {
+      "bookId": "colossians",
+      "name": "Colossians",
+      "order": 51,
+      "chapters": 4,
+      "verseCount": 95,
+      "bytes": 84100,
+      "sha256": "d2be989c588a662f773a5d7890ff831eb9a83c5d8b06e6a5b82575f20a6c442a"
+    },
+    {
+      "bookId": "1-thessalonians",
+      "name": "1 Thessalonians",
+      "order": 52,
+      "chapters": 5,
+      "verseCount": 89,
+      "bytes": 82105,
+      "sha256": "f116abc20f7df1cb02202c7f918b048caddb4fb12ed8691fa2f48497ff5d7e2f"
+    },
+    {
+      "bookId": "2-thessalonians",
+      "name": "2 Thessalonians",
+      "order": 53,
+      "chapters": 3,
+      "verseCount": 47,
+      "bytes": 44609,
+      "sha256": "ae920b5c2ce8fe781d511c8dd6c1d12e065c35c0ff73a6eb172bbe37102d31f0"
+    },
+    {
+      "bookId": "1-timothy",
+      "name": "1 Timothy",
+      "order": 54,
+      "chapters": 6,
+      "verseCount": 113,
+      "bytes": 99211,
+      "sha256": "974dccad64499d22ffe2df8216814efb619ca10d469e9410c881d023c0e5c4d0"
+    },
+    {
+      "bookId": "2-timothy",
+      "name": "2 Timothy",
+      "order": 55,
+      "chapters": 4,
+      "verseCount": 83,
+      "bytes": 72726,
+      "sha256": "c89a6648307e8e65f9c8b3168dd4c1a86202fd08812c3b5e62632312b3f0dc9b"
+    },
+    {
+      "bookId": "titus",
+      "name": "Titus",
+      "order": 56,
+      "chapters": 3,
+      "verseCount": 46,
+      "bytes": 39473,
+      "sha256": "34f89268b07bd9867e03a8f00cff2444c4bf4385d7f5f4ba13fd0c451d0c99e3"
+    },
+    {
+      "bookId": "philemon",
+      "name": "Philemon",
+      "order": 57,
+      "chapters": 1,
+      "verseCount": 25,
+      "bytes": 21393,
+      "sha256": "ed39fc83ae71b13eb8faaf76b23b641c5acf8173c162416a29d4411ff439ef37"
+    },
+    {
+      "bookId": "hebrews",
+      "name": "Hebrews",
+      "order": 58,
+      "chapters": 13,
+      "verseCount": 303,
+      "bytes": 266010,
+      "sha256": "2af5f031eac3af127ed9e308e45990b6a478174b2dc80c5f85746ec66fe4cbfa"
+    },
+    {
+      "bookId": "james",
+      "name": "James",
+      "order": 59,
+      "chapters": 5,
+      "verseCount": 108,
+      "bytes": 91111,
+      "sha256": "f1c34bf713c0a72b990239a039509f5a327fe302f6015037e1369d4098adce32"
+    },
+    {
+      "bookId": "1-peter",
+      "name": "1 Peter",
+      "order": 60,
+      "chapters": 5,
+      "verseCount": 105,
+      "bytes": 93714,
+      "sha256": "20fac0602aee9c8ec3ba18a8d14723090d0b2e2603a9c743a8e702fea23da5af"
+    },
+    {
+      "bookId": "2-peter",
+      "name": "2 Peter",
+      "order": 61,
+      "chapters": 3,
+      "verseCount": 61,
+      "bytes": 56605,
+      "sha256": "e7acb6902f8414b110d3384c5b1664e89045078ee578d01b4896a5930249413b"
+    },
+    {
+      "bookId": "1-john",
+      "name": "1 John",
+      "order": 62,
+      "chapters": 5,
+      "verseCount": 105,
+      "bytes": 91427,
+      "sha256": "c81461360d5bf21b93e0189b8250d5610917607eccb9ad5c4e8c4fbee5fe67a3"
+    },
+    {
+      "bookId": "2-john",
+      "name": "2 John",
+      "order": 63,
+      "chapters": 1,
+      "verseCount": 13,
+      "bytes": 12182,
+      "sha256": "704f09932ccbe13190d1598ac1747159d860a22a95748b9a0ced006d243bd290"
+    },
+    {
+      "bookId": "3-john",
+      "name": "3 John",
+      "order": 64,
+      "chapters": 1,
+      "verseCount": 14,
+      "bytes": 12868,
+      "sha256": "eb1ed133d8947efb18afd5edb4336ab1b97239708882cf188216d5e2b4a04645"
+    },
+    {
+      "bookId": "jude",
+      "name": "Jude",
+      "order": 65,
+      "chapters": 1,
+      "verseCount": 25,
+      "bytes": 22949,
+      "sha256": "6a309a9e6caa3ccc2e3f46bd4ee27a6bc375054ebea6f444244d85d9235be411"
+    },
+    {
+      "bookId": "revelation",
+      "name": "Revelation",
+      "order": 66,
+      "chapters": 22,
+      "verseCount": 404,
+      "bytes": 391007,
+      "sha256": "7efb605f58c578145599f79f3d195001dfa56adb9b97101a572c6c686452aa0a"
+    }
+  ]
+}
