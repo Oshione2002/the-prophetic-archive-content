@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "prophetic-scrolls",
+  "name": "Prophetic Scrolls",
+  "uniqueScrollCount": 320,
+  "physicalDocumentCount": 325,
+  "preliminaryPagesIncluded": false,
+  "multipartScrolls": [7, 11, 15, 23, 320],
+  "contentPattern": "content/prophetic-scrolls/scroll-*.json",
+  "cleanPdfNaming": "Scroll NNN.pdf or Scroll NNN - Part X.pdf",
+  "originalScanNaming": "Scroll NNN - Original.pdf or Scroll NNN - Part X - Original.pdf",
+  "notes": [
+    "Multipart parts are separate physical documents but do not increase the count above 320 unique Scroll numbers.",
+    "The preliminary Pages belong to this collection before Scroll 1 but are not yet published because their source was not supplied."
+  ]
+}
