@@ -27,9 +27,9 @@ jobs:
             exit 0
           fi
           count=$(find bulk-json -maxdepth 1 -type f -name 'part-*.b64' | wc -l)
-          if [[ "$count" -ne 113 ]]; then
+          if [[ "$count" -ne 37 ]]; then
             echo "ready=false" >> "$GITHUB_OUTPUT"
-            echo "Expected 113 transport parts, found $count."
+            echo "Expected 37 transport parts, found $count."
             exit 0
           fi
           echo "ready=true" >> "$GITHUB_OUTPUT"
