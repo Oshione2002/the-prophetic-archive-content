@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "prophetic-scrolls",
+      "name": "Prophetic Scrolls",
+      "uniqueScrollCount": 320,
+      "documentParts": 325,
+      "manifest": "manifests/prophetic-scrolls.json",
+      "preliminaryPagesIncluded": false
+    },
+    {
+      "id": "special-writings",
+      "name": "Special Writings",
+      "documentCount": 141,
+      "manifest": "manifests/special-writings.json"
+    },
+    {
+      "id": "translation-alerts",
+      "name": "Translation Alerts",
+      "alertCount": 61,
+      "manifest": "manifests/translation-alerts.json"
+    },
+    {
+      "id": "monthly-letters",
+      "name": "Monthly Letters",
+      "documentCount": 199,
+      "manifest": "manifests/monthly-letters.json"
+    }
+  ]
+}
