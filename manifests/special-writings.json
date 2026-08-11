@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "special-writings",
+  "name": "Special Writings",
+  "documentCount": 141,
+  "contentPattern": "content/special-writings/special-writing-*.json",
+  "fileNaming": "NNN - Title.pdf",
+  "numberingRule": "Use the actual source number where verified; never invent a replacement number.",
+  "warnings": [
+    "Source page 1 (FIRE AND ICE!) has no explicit Special Writing page-code number visible/extracted; source-order 001 is retained and flagged unverified."
+  ]
+}
