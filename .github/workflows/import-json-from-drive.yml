@@ -1,0 +1,53 @@
+name: Import generated JSON from temporary Drive transport
+
+on:
+  push:
+    paths:
+      - '.github/workflows/import-json-from-drive.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download, verify and import generated JSON
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/prophetic-json
+          url='https://drive.usercontent.google.com/download?id=1vvIBWXyUASnzjRqYCbg28vIgC_VKwZcM&export=download&confirm=t'
+
+          if ! curl -fL --retry 3 --connect-timeout 20 --max-time 180 "$url" -o /tmp/prophetic-json/archive.tar.xz; then
+            echo 'Drive transport download failed.' > DRIVE_IMPORT_STATUS.txt
+          elif ! echo 'bb6df5d8f45d2440be70ee1bbdd70083ce1cfd68a06b2922fd1c1bd9be0d31f0  /tmp/prophetic-json/archive.tar.xz' | sha256sum -c -; then
+            {
+              echo 'Drive transport downloaded, but checksum did not match.'
+              echo "Downloaded bytes: $(wc -c < /tmp/prophetic-json/archive.tar.xz)"
+              echo "Downloaded SHA256: $(sha256sum /tmp/prophetic-json/archive.tar.xz | awk '{print $1}')"
+            } > DRIVE_IMPORT_STATUS.txt
+          else
+            tar -xJf /tmp/prophetic-json/archive.tar.xz -C /tmp/prophetic-json
+            src=/tmp/prophetic-json/prophetic_json_min
+            mkdir -p content manifests
+            cp -a "$src/content/." content/
+            cp -a "$src/manifests/." manifests/
+            cp "$src/catalogue.json" catalogue.json
+            cp "$src/PROCESSING_NOTES.json" PROCESSING_NOTES.json
+            cp "$src/validation_report.json" validation_report.json
+            echo 'SUCCESS: complete generated JSON dataset imported and checksum verified.' > DRIVE_IMPORT_STATUS.txt
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A content manifests catalogue.json PROCESSING_NOTES.json validation_report.json DRIVE_IMPORT_STATUS.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import complete generated archive JSON dataset from verified transport'
+            git push origin HEAD:main
+          fi
