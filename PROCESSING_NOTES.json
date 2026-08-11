@@ -1,0 +1,24 @@
+{
+  "archive": "The Prophetic Archive",
+  "processing_status": "split_and_json_generated",
+  "prophetic_scrolls": {
+    "unique_scrolls": 320,
+    "physical_documents": 325,
+    "multipart_scrolls": [7, 11, 15, 23, 320],
+    "preliminary_pages_included": false,
+    "preliminary_pages_note": "The current supplied Scroll DOCX/PDF and original scan set begin with Scroll 1. No source file for the preliminary Pages was present in this processing set, so no Page content was invented."
+  },
+  "special_writings": {
+    "documents": 141,
+    "note": "Source page 1 (FIRE AND ICE!) has no explicit Special Writing number code visible/extracted; it is kept as source-order 001 and flagged number_verified_from_page_code=false. Pages 2-141 have matching explicit page codes."
+  },
+  "translation_alerts": {
+    "numbered_alerts": 61,
+    "front_matter": "Introduction",
+    "note": "Same-page Alert boundaries are cropped at the printed header position. Internal numbered points are detected by visual list indentation to avoid treating wrapped scripture verse numbers as list items. Compilation subheadings are preserved as heading blocks."
+  },
+  "monthly_letters": {
+    "documents": 199,
+    "note": "Printed month/year is preserved. Source order is preserved through source_page metadata; missing or out-of-order months were not inferred or corrected."
+  }
+}
