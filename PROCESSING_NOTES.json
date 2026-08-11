@@ -4,7 +4,13 @@
   "prophetic_scrolls": {
     "unique_scrolls": 320,
     "physical_documents": 325,
-    "multipart_scrolls": [7, 11, 15, 23, 320],
+    "multipart_scrolls": [
+      7,
+      11,
+      15,
+      23,
+      320
+    ],
     "preliminary_pages_included": false,
     "preliminary_pages_note": "The current supplied Scroll DOCX/PDF and original scan set begin with Scroll 1. No source file for the preliminary Pages was present in this processing set, so no Page content was invented."
   },

@@ -1,0 +1,14 @@
+The Prophetic Archive - Final Split/JSON Validation
+
+Status: PASS
+
+Prophetic Scrolls: 320 unique Scrolls, 325 physical documents. Multipart Scrolls: 7, 11, 15, 23, 320.
+Clean Scroll PDFs: 325 (searchable/selectable). Original scan PDFs: 325. Scroll JSON files: 325.
+Special Writings: 141 split PDFs + 141 JSON files. Source page 1 number is not explicitly verified by a page code.
+Translation Alerts: Introduction + 61 numbered Alerts. Same-page boundaries checked; numbered items and compilation subheadings preserved.
+Monthly Letters: 199 split PDFs + 199 JSON files; all printed month/year headers parsed.
+Preliminary Pages: not included because their source file was not present; no Page content was invented.
+
+Errors: 0
+Warnings: 1
+WARNING: Special Writing source page 1 has no explicit page-code number; source-order 001 retained and flagged unverified.

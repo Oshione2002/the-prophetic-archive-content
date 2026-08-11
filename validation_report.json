@@ -7,7 +7,13 @@
   "prophetic_scrolls": {
     "unique_scrolls": 320,
     "physical_documents": 325,
-    "multipart_scrolls": [7, 11, 15, 23, 320],
+    "multipart_scrolls": [
+      7,
+      11,
+      15,
+      23,
+      320
+    ],
     "clean_pdf_count": 325,
     "original_scan_count": 325,
     "json_count": 325
@@ -23,7 +29,11 @@
     "pdf_count": 62,
     "json_count": 62,
     "boundary_check": "passed",
-    "compilation_headings_preserved": [14, 18, 21]
+    "compilation_headings_preserved": [
+      14,
+      18,
+      21
+    ]
   },
   "monthly_letters": {
     "pdf_count": 199,

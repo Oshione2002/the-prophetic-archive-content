@@ -1,10 +1,4186 @@
 {
-  "schemaVersion": 1,
   "id": "monthly-letters",
   "name": "Monthly Letters",
-  "documentCount": 199,
-  "contentPattern": "content/monthly-letters/monthly-letter-YYYY-MM.json",
-  "fileNaming": "YYYY-MM - Month YYYY.pdf",
-  "structure": "Paragraph-based; preserve printed month/year and source order.",
-  "metadataRule": "Author, signatory, editor and compiler are independent nullable fields. Do not automatically attribute every letter to Neal Frisby."
+  "document_count": 199,
+  "documents": [
+    {
+      "id": "monthly-letter-2005-06",
+      "title": "June 2005",
+      "year": 2005,
+      "month": 6,
+      "pdf": "2005-06 - June 2005.pdf",
+      "json": "monthly-letter-2005-06.json",
+      "source_page": 1,
+      "assets": {
+        "pdf": {
+          "file": "2005-06 - June 2005.pdf",
+          "size_bytes": 191606,
+          "sha256": "d8b9579a2d0ce4473dd9ddc24ea7fd369595342fe3213d1e81cc3f5994a46fde"
+        },
+        "json": {
+          "file": "monthly-letter-2005-06.json",
+          "size_bytes": 4296,
+          "sha256": "50cd7a41d8eebbdff4a6cea4a261a7ce883b395638018d9025a5bb9ddd62e63a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2005-07",
+      "title": "July 2005",
+      "year": 2005,
+      "month": 7,
+      "pdf": "2005-07 - July 2005.pdf",
+      "json": "monthly-letter-2005-07.json",
+      "source_page": 2,
+      "assets": {
+        "pdf": {
+          "file": "2005-07 - July 2005.pdf",
+          "size_bytes": 145652,
+          "sha256": "104dfea83d2918943e037b00c02f41ea60e2956f455b675eda40dd0aa7da5da9"
+        },
+        "json": {
+          "file": "monthly-letter-2005-07.json",
+          "size_bytes": 7116,
+          "sha256": "1982c08947a9494e9bdf571353e20c739047e9e8071d229b386bc71e3b2121c7"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2005-08",
+      "title": "August 2005",
+      "year": 2005,
+      "month": 8,
+      "pdf": "2005-08 - August 2005.pdf",
+      "json": "monthly-letter-2005-08.json",
+      "source_page": 3,
+      "assets": {
+        "pdf": {
+          "file": "2005-08 - August 2005.pdf",
+          "size_bytes": 107961,
+          "sha256": "fbe496830cac7aa7d2566cb9001cc2924a5781d89e0860f07dfddaf0baa52641"
+        },
+        "json": {
+          "file": "monthly-letter-2005-08.json",
+          "size_bytes": 5508,
+          "sha256": "57d3997968289dfe7691a6bafbbf2ebe45530cdebbdd4786fee0376a10e581db"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2005-09",
+      "title": "September 2005",
+      "year": 2005,
+      "month": 9,
+      "pdf": "2005-09 - September 2005.pdf",
+      "json": "monthly-letter-2005-09.json",
+      "source_page": 4,
+      "assets": {
+        "pdf": {
+          "file": "2005-09 - September 2005.pdf",
+          "size_bytes": 142657,
+          "sha256": "83aefddb48e258959290d10f39f6dcdfa2f23118894477eb9d4b058aa7a0c0f1"
+        },
+        "json": {
+          "file": "monthly-letter-2005-09.json",
+          "size_bytes": 6099,
+          "sha256": "19dd2e32556f5ba4ffce41a8b97b8aec07c49c9f2c7b239a2795c705d2648141"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2005-10",
+      "title": "October 2005",
+      "year": 2005,
+      "month": 10,
+      "pdf": "2005-10 - October 2005.pdf",
+      "json": "monthly-letter-2005-10.json",
+      "source_page": 5,
+      "assets": {
+        "pdf": {
+          "file": "2005-10 - October 2005.pdf",
+          "size_bytes": 105023,
+          "sha256": "a58398b00dda4bb705f04b1e683450adb297eeed2695bce50f33aaace751b812"
+        },
+        "json": {
+          "file": "monthly-letter-2005-10.json",
+          "size_bytes": 5678,
+          "sha256": "fa85a220d863f5a976f4e5929b675883cbffef488bffb402372a7b4387fa6c78"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2005-11",
+      "title": "November 2005",
+      "year": 2005,
+      "month": 11,
+      "pdf": "2005-11 - November 2005.pdf",
+      "json": "monthly-letter-2005-11.json",
+      "source_page": 6,
+      "assets": {
+        "pdf": {
+          "file": "2005-11 - November 2005.pdf",
+          "size_bytes": 106552,
+          "sha256": "ec41e82f5d47b368f281033532ad5e5c1b202617fdd5f514fd08d1cd01f44f09"
+        },
+        "json": {
+          "file": "monthly-letter-2005-11.json",
+          "size_bytes": 6098,
+          "sha256": "73c64afe05453e74a5ddd975c54a641134eeee092cfaaf4e280f6a6cf4d413eb"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2005-12",
+      "title": "December 2005",
+      "year": 2005,
+      "month": 12,
+      "pdf": "2005-12 - December 2005.pdf",
+      "json": "monthly-letter-2005-12.json",
+      "source_page": 7,
+      "assets": {
+        "pdf": {
+          "file": "2005-12 - December 2005.pdf",
+          "size_bytes": 120499,
+          "sha256": "d26d11d448ca95173c70562ea575fbb0e139f11a60054d90a5b04fce079138b9"
+        },
+        "json": {
+          "file": "monthly-letter-2005-12.json",
+          "size_bytes": 5893,
+          "sha256": "40a49a4260f9d857112d9be72f5e1a402d6012389b1533ef11f470d4eb4370ed"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-01",
+      "title": "January 2006",
+      "year": 2006,
+      "month": 1,
+      "pdf": "2006-01 - January 2006.pdf",
+      "json": "monthly-letter-2006-01.json",
+      "source_page": 8,
+      "assets": {
+        "pdf": {
+          "file": "2006-01 - January 2006.pdf",
+          "size_bytes": 106793,
+          "sha256": "7e250d2f7e0b24b47460dc0710b586b0fac3ab4afadf21bed885ca9cd6ff9f10"
+        },
+        "json": {
+          "file": "monthly-letter-2006-01.json",
+          "size_bytes": 6328,
+          "sha256": "6afe29e2cc9adeed47573a38c63fb4e9031160f29f4f576e70820f24c5d66044"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-02",
+      "title": "February 2006",
+      "year": 2006,
+      "month": 2,
+      "pdf": "2006-02 - February 2006.pdf",
+      "json": "monthly-letter-2006-02.json",
+      "source_page": 9,
+      "assets": {
+        "pdf": {
+          "file": "2006-02 - February 2006.pdf",
+          "size_bytes": 108553,
+          "sha256": "a3116ca68a8610d11190a5eb9b758f398d00407eed8cabe034af7a6484255f31"
+        },
+        "json": {
+          "file": "monthly-letter-2006-02.json",
+          "size_bytes": 6458,
+          "sha256": "a53621fd51647109705141c0145e38d88b90a5356ee17f9ba18788a12de58f87"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-03",
+      "title": "March 2006",
+      "year": 2006,
+      "month": 3,
+      "pdf": "2006-03 - March 2006.pdf",
+      "json": "monthly-letter-2006-03.json",
+      "source_page": 10,
+      "assets": {
+        "pdf": {
+          "file": "2006-03 - March 2006.pdf",
+          "size_bytes": 123213,
+          "sha256": "4c4c461a0279b2b845347d2a2e48fb5c2c594f7b533c1f9dfbc59c2e5a34f7dc"
+        },
+        "json": {
+          "file": "monthly-letter-2006-03.json",
+          "size_bytes": 6565,
+          "sha256": "fd42ac142b9ae2bb796237a398f530af2ab3a466062ee5ff4d7c97b63def3fb9"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-04",
+      "title": "April 2006",
+      "year": 2006,
+      "month": 4,
+      "pdf": "2006-04 - April 2006.pdf",
+      "json": "monthly-letter-2006-04.json",
+      "source_page": 11,
+      "assets": {
+        "pdf": {
+          "file": "2006-04 - April 2006.pdf",
+          "size_bytes": 140438,
+          "sha256": "57cb70296d42fb869ff766fb2f5a26f306a84db073aacfd5b1671df65319637c"
+        },
+        "json": {
+          "file": "monthly-letter-2006-04.json",
+          "size_bytes": 7151,
+          "sha256": "3f5642829e2f3d7c6cec52b3a5c8692899c64acebb3919cb43f4c22d3ebb6bed"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-05",
+      "title": "May 2006",
+      "year": 2006,
+      "month": 5,
+      "pdf": "2006-05 - May 2006.pdf",
+      "json": "monthly-letter-2006-05.json",
+      "source_page": 12,
+      "assets": {
+        "pdf": {
+          "file": "2006-05 - May 2006.pdf",
+          "size_bytes": 141144,
+          "sha256": "0b720026fcba77e137c0abd55da98da04269daa10a6a1595b8ba1a406c1c3b50"
+        },
+        "json": {
+          "file": "monthly-letter-2006-05.json",
+          "size_bytes": 6762,
+          "sha256": "9ab783de0a592b1ccc17551f5f63507c922cbc3a291ceb61f6b3c9a040f5c5ca"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-06",
+      "title": "June 2006",
+      "year": 2006,
+      "month": 6,
+      "pdf": "2006-06 - June 2006.pdf",
+      "json": "monthly-letter-2006-06.json",
+      "source_page": 13,
+      "assets": {
+        "pdf": {
+          "file": "2006-06 - June 2006.pdf",
+          "size_bytes": 133021,
+          "sha256": "956092555f54480d04e19cebbf7946931f6cce6e46e67b5035566ad1aae41c2f"
+        },
+        "json": {
+          "file": "monthly-letter-2006-06.json",
+          "size_bytes": 5559,
+          "sha256": "6fad920560878dde0de1d0cab3319bdeaeebf02e61f5165a7e1de828f6649388"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-07",
+      "title": "July 2006",
+      "year": 2006,
+      "month": 7,
+      "pdf": "2006-07 - July 2006.pdf",
+      "json": "monthly-letter-2006-07.json",
+      "source_page": 14,
+      "assets": {
+        "pdf": {
+          "file": "2006-07 - July 2006.pdf",
+          "size_bytes": 106295,
+          "sha256": "ed0ff11b3318858b5e3c9c1258ea4db677ccf3be44c75f2b36a3ba9843aa002e"
+        },
+        "json": {
+          "file": "monthly-letter-2006-07.json",
+          "size_bytes": 6767,
+          "sha256": "954ecf3b3920badec346b6c9be659e90c14dd6ec63dc38975c9a20c5f71bdf5a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-08",
+      "title": "August 2006",
+      "year": 2006,
+      "month": 8,
+      "pdf": "2006-08 - August 2006.pdf",
+      "json": "monthly-letter-2006-08.json",
+      "source_page": 15,
+      "assets": {
+        "pdf": {
+          "file": "2006-08 - August 2006.pdf",
+          "size_bytes": 105018,
+          "sha256": "0532646e5fa707c024f4597c3f003377a9b2aa3fe3f6fdd95cd06dcacf04c540"
+        },
+        "json": {
+          "file": "monthly-letter-2006-08.json",
+          "size_bytes": 5687,
+          "sha256": "2eb768482e903a87a3286154944feae97a68afa135ab21c673d1f34fab5a39c4"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-09",
+      "title": "September 2006",
+      "year": 2006,
+      "month": 9,
+      "pdf": "2006-09 - September 2006.pdf",
+      "json": "monthly-letter-2006-09.json",
+      "source_page": 16,
+      "assets": {
+        "pdf": {
+          "file": "2006-09 - September 2006.pdf",
+          "size_bytes": 106248,
+          "sha256": "cae800be9a93afaf460f607cdefbba047f267d1f94cb22c16538ad21da190d43"
+        },
+        "json": {
+          "file": "monthly-letter-2006-09.json",
+          "size_bytes": 6503,
+          "sha256": "bdb00a5ba18ceab1d51891791c39f2667cf67a5efbf904fa155f0e5b2cb870ee"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-10",
+      "title": "October 2006",
+      "year": 2006,
+      "month": 10,
+      "pdf": "2006-10 - October 2006.pdf",
+      "json": "monthly-letter-2006-10.json",
+      "source_page": 17,
+      "assets": {
+        "pdf": {
+          "file": "2006-10 - October 2006.pdf",
+          "size_bytes": 107204,
+          "sha256": "736d623999ad2dbfd5db267ed97d5224c4868f90a37323e4834af5d2af7c4ee9"
+        },
+        "json": {
+          "file": "monthly-letter-2006-10.json",
+          "size_bytes": 6606,
+          "sha256": "cfccd7055b58fba047d8bafbf1ad9aed2ffc44eb8b524b367f4d791798428449"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-11",
+      "title": "November 2006",
+      "year": 2006,
+      "month": 11,
+      "pdf": "2006-11 - November 2006.pdf",
+      "json": "monthly-letter-2006-11.json",
+      "source_page": 18,
+      "assets": {
+        "pdf": {
+          "file": "2006-11 - November 2006.pdf",
+          "size_bytes": 131606,
+          "sha256": "6b240e65ce13e42bf3b4bafde77bdb618e00f6e075113086becbd7decc85bdce"
+        },
+        "json": {
+          "file": "monthly-letter-2006-11.json",
+          "size_bytes": 5939,
+          "sha256": "b6d3507926948cf69f1e9036ce015832891576e7d8bb3d15cfcd5cfc946a354e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2006-12",
+      "title": "December 2006",
+      "year": 2006,
+      "month": 12,
+      "pdf": "2006-12 - December 2006.pdf",
+      "json": "monthly-letter-2006-12.json",
+      "source_page": 19,
+      "assets": {
+        "pdf": {
+          "file": "2006-12 - December 2006.pdf",
+          "size_bytes": 155340,
+          "sha256": "d3b587006c5298c89bd3aac11bb9609bff63d66c694cda6635e5e432f9f10592"
+        },
+        "json": {
+          "file": "monthly-letter-2006-12.json",
+          "size_bytes": 7045,
+          "sha256": "8dd9c60049628e525fa669a4ead17f8b79ed1185f3480df55549be3070f074e0"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-01",
+      "title": "January 2007",
+      "year": 2007,
+      "month": 1,
+      "pdf": "2007-01 - January 2007.pdf",
+      "json": "monthly-letter-2007-01.json",
+      "source_page": 20,
+      "assets": {
+        "pdf": {
+          "file": "2007-01 - January 2007.pdf",
+          "size_bytes": 119654,
+          "sha256": "3237be93f102af1013ac12d4ba752e043f345b4e5ce8b157d1cc00804d5282b0"
+        },
+        "json": {
+          "file": "monthly-letter-2007-01.json",
+          "size_bytes": 6770,
+          "sha256": "ee6f326d0d8e20ea30a3f14509e4911c90a668b6c02bf5a1f83a3b05cfe2db4d"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-02",
+      "title": "February 2007",
+      "year": 2007,
+      "month": 2,
+      "pdf": "2007-02 - February 2007.pdf",
+      "json": "monthly-letter-2007-02.json",
+      "source_page": 21,
+      "assets": {
+        "pdf": {
+          "file": "2007-02 - February 2007.pdf",
+          "size_bytes": 121204,
+          "sha256": "4aa49685e40ff91fbd10efbecdfd7221c47a434e3f13e6ad6768508b6ddf228e"
+        },
+        "json": {
+          "file": "monthly-letter-2007-02.json",
+          "size_bytes": 6002,
+          "sha256": "033a85c3934fb0db56b054776498e42347f728d0604507350fbe9c8e0694d3e4"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-03",
+      "title": "March 2007",
+      "year": 2007,
+      "month": 3,
+      "pdf": "2007-03 - March 2007.pdf",
+      "json": "monthly-letter-2007-03.json",
+      "source_page": 22,
+      "assets": {
+        "pdf": {
+          "file": "2007-03 - March 2007.pdf",
+          "size_bytes": 125368,
+          "sha256": "1632f77d388f6c9583e095390aa876402e08cd6a1aee0cdb329756e18ed497a3"
+        },
+        "json": {
+          "file": "monthly-letter-2007-03.json",
+          "size_bytes": 6811,
+          "sha256": "d3421c2656ff753ad58f1b7db0009117fcca81f449fc36cf4ae6057575441d03"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-04",
+      "title": "April 2007",
+      "year": 2007,
+      "month": 4,
+      "pdf": "2007-04 - April 2007.pdf",
+      "json": "monthly-letter-2007-04.json",
+      "source_page": 23,
+      "assets": {
+        "pdf": {
+          "file": "2007-04 - April 2007.pdf",
+          "size_bytes": 126180,
+          "sha256": "c8579eae98bde5e2615f7d4d4616dc01d4f1e523b65d6d7e84e5aa36b66123d7"
+        },
+        "json": {
+          "file": "monthly-letter-2007-04.json",
+          "size_bytes": 6581,
+          "sha256": "2ff60d3ef0523b1f982d5462ff6b03388dff2f2a07c653d01eaf1413d8390397"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-05",
+      "title": "May 2007",
+      "year": 2007,
+      "month": 5,
+      "pdf": "2007-05 - May 2007.pdf",
+      "json": "monthly-letter-2007-05.json",
+      "source_page": 24,
+      "assets": {
+        "pdf": {
+          "file": "2007-05 - May 2007.pdf",
+          "size_bytes": 127315,
+          "sha256": "73a33df78b7617c629ed8e34647f63bb17e4ffa2f1a8718fa5fcc007c118dbf3"
+        },
+        "json": {
+          "file": "monthly-letter-2007-05.json",
+          "size_bytes": 5931,
+          "sha256": "df468144a584693ee2aeff5c8d2781aa0899f7bacc369577164fb4a924a234fa"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-06",
+      "title": "June 2007",
+      "year": 2007,
+      "month": 6,
+      "pdf": "2007-06 - June 2007.pdf",
+      "json": "monthly-letter-2007-06.json",
+      "source_page": 25,
+      "assets": {
+        "pdf": {
+          "file": "2007-06 - June 2007.pdf",
+          "size_bytes": 102015,
+          "sha256": "2ce0060f5b60a90c736490064a1904eb2e7949fa9a2d1328f393d23daf991b71"
+        },
+        "json": {
+          "file": "monthly-letter-2007-06.json",
+          "size_bytes": 5647,
+          "sha256": "103ff31ba50472d6ac670993a513d5b3d16900e959c2e8a4821e2d62f1825efa"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-07",
+      "title": "July 2007",
+      "year": 2007,
+      "month": 7,
+      "pdf": "2007-07 - July 2007.pdf",
+      "json": "monthly-letter-2007-07.json",
+      "source_page": 26,
+      "assets": {
+        "pdf": {
+          "file": "2007-07 - July 2007.pdf",
+          "size_bytes": 120418,
+          "sha256": "1dbfc03ed55b1ee7d4b43abb0e65baf78a62eee48326a4663d7f278cbb557583"
+        },
+        "json": {
+          "file": "monthly-letter-2007-07.json",
+          "size_bytes": 6658,
+          "sha256": "df55fd06b405fae67a78099bb760faf8b706c155a231e99b64c5bf73bfd49872"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-08",
+      "title": "August 2007",
+      "year": 2007,
+      "month": 8,
+      "pdf": "2007-08 - August 2007.pdf",
+      "json": "monthly-letter-2007-08.json",
+      "source_page": 27,
+      "assets": {
+        "pdf": {
+          "file": "2007-08 - August 2007.pdf",
+          "size_bytes": 121598,
+          "sha256": "894f2a456cb225baaadae872dada92c6a400bf22c3430c2a349938af4b1091c2"
+        },
+        "json": {
+          "file": "monthly-letter-2007-08.json",
+          "size_bytes": 6806,
+          "sha256": "41d2da0b38e20fcbc0e2b1659718a29b53e794a29eef47289a94fcc63b5ecbf1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-09",
+      "title": "September 2007",
+      "year": 2007,
+      "month": 9,
+      "pdf": "2007-09 - September 2007.pdf",
+      "json": "monthly-letter-2007-09.json",
+      "source_page": 28,
+      "assets": {
+        "pdf": {
+          "file": "2007-09 - September 2007.pdf",
+          "size_bytes": 101769,
+          "sha256": "26cfd477bf91349666b7e994618507ed59107492835b3076fee1e53fb5a15659"
+        },
+        "json": {
+          "file": "monthly-letter-2007-09.json",
+          "size_bytes": 6235,
+          "sha256": "68740e6a54c87833bc2e6b44cbe813a7e4982be54cb402d8bf80f47ce39e6f85"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-10",
+      "title": "October 2007",
+      "year": 2007,
+      "month": 10,
+      "pdf": "2007-10 - October 2007.pdf",
+      "json": "monthly-letter-2007-10.json",
+      "source_page": 29,
+      "assets": {
+        "pdf": {
+          "file": "2007-10 - October 2007.pdf",
+          "size_bytes": 140054,
+          "sha256": "c95a89f373063c42323cb41cd6e270d9824aa324e9db116ab34a823b1158a91b"
+        },
+        "json": {
+          "file": "monthly-letter-2007-10.json",
+          "size_bytes": 6779,
+          "sha256": "de1fee0b529c9bab5f2e23c40f0c5a34ff1f5ef190a4dbecdde0805abdd3e3a2"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-11",
+      "title": "November 2007",
+      "year": 2007,
+      "month": 11,
+      "pdf": "2007-11 - November 2007.pdf",
+      "json": "monthly-letter-2007-11.json",
+      "source_page": 30,
+      "assets": {
+        "pdf": {
+          "file": "2007-11 - November 2007.pdf",
+          "size_bytes": 102390,
+          "sha256": "0ba02b5112645b331571750f106fb5b11770f78986829aac8b4d5aa3c1196593"
+        },
+        "json": {
+          "file": "monthly-letter-2007-11.json",
+          "size_bytes": 6584,
+          "sha256": "066c9e294f7c4f4f20515e2d6e9115b465182ec4fcf7ff7e1d869e50dbe242e2"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2007-12",
+      "title": "December 2007",
+      "year": 2007,
+      "month": 12,
+      "pdf": "2007-12 - December 2007.pdf",
+      "json": "monthly-letter-2007-12.json",
+      "source_page": 31,
+      "assets": {
+        "pdf": {
+          "file": "2007-12 - December 2007.pdf",
+          "size_bytes": 115677,
+          "sha256": "516a60a78f055264c9c4cd4dd3a0f8914b0ebba427c3f89eab863ed1ad477ae0"
+        },
+        "json": {
+          "file": "monthly-letter-2007-12.json",
+          "size_bytes": 6282,
+          "sha256": "c9dc81376cfc12a4e0ccbd4b44f831a9679bde8e379a0121aaf05b160633050b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-01",
+      "title": "January 2008",
+      "year": 2008,
+      "month": 1,
+      "pdf": "2008-01 - January 2008.pdf",
+      "json": "monthly-letter-2008-01.json",
+      "source_page": 32,
+      "assets": {
+        "pdf": {
+          "file": "2008-01 - January 2008.pdf",
+          "size_bytes": 139189,
+          "sha256": "b39e9b1eef491d8460c326449c42d13f1e67dddded3b54d4f8458cf81012f460"
+        },
+        "json": {
+          "file": "monthly-letter-2008-01.json",
+          "size_bytes": 6322,
+          "sha256": "be1a7c3c7d0b5b9511a8c88db37d5f1f8ac16f742431734d5b0322fa1cc6ccc1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-02",
+      "title": "February 2008",
+      "year": 2008,
+      "month": 2,
+      "pdf": "2008-02 - February 2008.pdf",
+      "json": "monthly-letter-2008-02.json",
+      "source_page": 33,
+      "assets": {
+        "pdf": {
+          "file": "2008-02 - February 2008.pdf",
+          "size_bytes": 153200,
+          "sha256": "1a192f996a635103a9f76a4cf169a8bd62c70e96a57a809f339b51c82f03b6b2"
+        },
+        "json": {
+          "file": "monthly-letter-2008-02.json",
+          "size_bytes": 6985,
+          "sha256": "bb583d47af78dd04d7cff26f0f245aea3dd3f9084dd307b4b6862eb2f639c1f3"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-03",
+      "title": "March 2008",
+      "year": 2008,
+      "month": 3,
+      "pdf": "2008-03 - March 2008.pdf",
+      "json": "monthly-letter-2008-03.json",
+      "source_page": 34,
+      "assets": {
+        "pdf": {
+          "file": "2008-03 - March 2008.pdf",
+          "size_bytes": 102410,
+          "sha256": "ac0479e5d00f8e828f7ec73619feb80b28f5e084118fcc13fb7862445bb4fc33"
+        },
+        "json": {
+          "file": "monthly-letter-2008-03.json",
+          "size_bytes": 6965,
+          "sha256": "d2049e5c675b5b965204fe3cde6050eb7e9aa44cbd47ca2c42beb17f212fd95a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-04",
+      "title": "April 2008",
+      "year": 2008,
+      "month": 4,
+      "pdf": "2008-04 - April 2008.pdf",
+      "json": "monthly-letter-2008-04.json",
+      "source_page": 35,
+      "assets": {
+        "pdf": {
+          "file": "2008-04 - April 2008.pdf",
+          "size_bytes": 102144,
+          "sha256": "ac66a7d468057d9f6fd58dc12256439da57812e2af5499acf228ecad7591ec4f"
+        },
+        "json": {
+          "file": "monthly-letter-2008-04.json",
+          "size_bytes": 6925,
+          "sha256": "55984e750bd727d21dbfbd087c3f63c5790eaf639cb89875ccb1095b342ac686"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-05",
+      "title": "May 2008",
+      "year": 2008,
+      "month": 5,
+      "pdf": "2008-05 - May 2008.pdf",
+      "json": "monthly-letter-2008-05.json",
+      "source_page": 36,
+      "assets": {
+        "pdf": {
+          "file": "2008-05 - May 2008.pdf",
+          "size_bytes": 104259,
+          "sha256": "02f2bdb2da0047a9ceab10ba9295f4f3ee2d00e64565cd95158b8b66875986bb"
+        },
+        "json": {
+          "file": "monthly-letter-2008-05.json",
+          "size_bytes": 5938,
+          "sha256": "62b751eda70d7a61dbe3cb7f4156ed3e2bd375fa2c75964c55c90a2d51606ae9"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-06",
+      "title": "June 2008",
+      "year": 2008,
+      "month": 6,
+      "pdf": "2008-06 - June 2008.pdf",
+      "json": "monthly-letter-2008-06.json",
+      "source_page": 37,
+      "assets": {
+        "pdf": {
+          "file": "2008-06 - June 2008.pdf",
+          "size_bytes": 99626,
+          "sha256": "9f8c2f5a59507ad6d8b813b57e0a5d3acbdc562b60e0229564e2d52b003c1520"
+        },
+        "json": {
+          "file": "monthly-letter-2008-06.json",
+          "size_bytes": 5401,
+          "sha256": "2cbf13c990ede1fff65ae6e3dcd6c604f9376ffeba30e221521a10823b08a1c3"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-07",
+      "title": "July 2008",
+      "year": 2008,
+      "month": 7,
+      "pdf": "2008-07 - July 2008.pdf",
+      "json": "monthly-letter-2008-07.json",
+      "source_page": 38,
+      "assets": {
+        "pdf": {
+          "file": "2008-07 - July 2008.pdf",
+          "size_bytes": 114331,
+          "sha256": "f63ed5af5b4b0a582762c5181c12211e1aad139ca2fd7909e8797a41ca97d922"
+        },
+        "json": {
+          "file": "monthly-letter-2008-07.json",
+          "size_bytes": 5697,
+          "sha256": "bc296589b8e13951a8a856ebd0a10634dd30424c03b4631b33e98d2e66852e5b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-08",
+      "title": "August 2008",
+      "year": 2008,
+      "month": 8,
+      "pdf": "2008-08 - August 2008.pdf",
+      "json": "monthly-letter-2008-08.json",
+      "source_page": 39,
+      "assets": {
+        "pdf": {
+          "file": "2008-08 - August 2008.pdf",
+          "size_bytes": 102509,
+          "sha256": "735378da8a9755b2305cf35f514eecdc791e5496703737f98c6c58aa74449c5a"
+        },
+        "json": {
+          "file": "monthly-letter-2008-08.json",
+          "size_bytes": 7343,
+          "sha256": "82a2da5d64bb5bf7834e54882986b510a3c9b149722ba6b6935e73fb105a3176"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-09",
+      "title": "September 2008",
+      "year": 2008,
+      "month": 9,
+      "pdf": "2008-09 - September 2008.pdf",
+      "json": "monthly-letter-2008-09.json",
+      "source_page": 40,
+      "assets": {
+        "pdf": {
+          "file": "2008-09 - September 2008.pdf",
+          "size_bytes": 104266,
+          "sha256": "ee09d105c32227cf0322ed441f5a38aafc42d5f3f7e31226999c9886e6865a7f"
+        },
+        "json": {
+          "file": "monthly-letter-2008-09.json",
+          "size_bytes": 7836,
+          "sha256": "c640ac20731b405621efb1f7f9f7e580c1b6486aec6d34e927038b9dd2d6205e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-10",
+      "title": "October 2008",
+      "year": 2008,
+      "month": 10,
+      "pdf": "2008-10 - October 2008.pdf",
+      "json": "monthly-letter-2008-10.json",
+      "source_page": 41,
+      "assets": {
+        "pdf": {
+          "file": "2008-10 - October 2008.pdf",
+          "size_bytes": 103898,
+          "sha256": "6fbb5f1d22a3ef87e3d535da03a0e23a1b0b85b641729e634021c011249a9bd4"
+        },
+        "json": {
+          "file": "monthly-letter-2008-10.json",
+          "size_bytes": 5543,
+          "sha256": "789a6d7a57ce41478a1a8720fa8b32469433146df0d6e360440e1fcbb1db0cb8"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-11",
+      "title": "November 2008",
+      "year": 2008,
+      "month": 11,
+      "pdf": "2008-11 - November 2008.pdf",
+      "json": "monthly-letter-2008-11.json",
+      "source_page": 42,
+      "assets": {
+        "pdf": {
+          "file": "2008-11 - November 2008.pdf",
+          "size_bytes": 104681,
+          "sha256": "363667593d8c2a15ddb66f8c2ec2c31c5885abd5b67c7e7f21cecd37817152f4"
+        },
+        "json": {
+          "file": "monthly-letter-2008-11.json",
+          "size_bytes": 6390,
+          "sha256": "a8df8bea848272a695902c565e719b2565da4d0172b8dbdc94b2226d50735a33"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2008-12",
+      "title": "December 2008",
+      "year": 2008,
+      "month": 12,
+      "pdf": "2008-12 - December 2008.pdf",
+      "json": "monthly-letter-2008-12.json",
+      "source_page": 43,
+      "assets": {
+        "pdf": {
+          "file": "2008-12 - December 2008.pdf",
+          "size_bytes": 114499,
+          "sha256": "80b56f1320ace35f34b0791ee360eabd5df2da91ed832bc2d8468dd838311834"
+        },
+        "json": {
+          "file": "monthly-letter-2008-12.json",
+          "size_bytes": 6181,
+          "sha256": "abfda12623350ce137a45beefb8cf682d0877a3960ffd247eaa6f697fadf5699"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2009-01",
+      "title": "January 2009",
+      "year": 2009,
+      "month": 1,
+      "pdf": "2009-01 - January 2009.pdf",
+      "json": "monthly-letter-2009-01.json",
+      "source_page": 44,
+      "assets": {
+        "pdf": {
+          "file": "2009-01 - January 2009.pdf",
+          "size_bytes": 102121,
+          "sha256": "01864fa76c0d2ac6be883588d89f73c700aa69a3ee442c05f675211fe0bc2b67"
+        },
+        "json": {
+          "file": "monthly-letter-2009-01.json",
+          "size_bytes": 7459,
+          "sha256": "13fdde9c875caed6f771353784927dcc252720f7949b4d4dc2e68a36e3fb9c22"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2009-02",
+      "title": "February 2009",
+      "year": 2009,
+      "month": 2,
+      "pdf": "2009-02 - February 2009.pdf",
+      "json": "monthly-letter-2009-02.json",
+      "source_page": 45,
+      "assets": {
+        "pdf": {
+          "file": "2009-02 - February 2009.pdf",
+          "size_bytes": 98909,
+          "sha256": "eac216e17702d25459f46c42ebe6abd95bf3bfc258ee708e7aead3016cd6dd4e"
+        },
+        "json": {
+          "file": "monthly-letter-2009-02.json",
+          "size_bytes": 6917,
+          "sha256": "7b1960dfca5b2204745f927acc6191527c9f20fd20a72b3b9e9734b5193996ab"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-03",
+      "title": "March 2010",
+      "year": 2010,
+      "month": 3,
+      "pdf": "2010-03 - March 2010.pdf",
+      "json": "monthly-letter-2010-03.json",
+      "source_page": 46,
+      "assets": {
+        "pdf": {
+          "file": "2010-03 - March 2010.pdf",
+          "size_bytes": 98172,
+          "sha256": "63f4b0351313cf68986a42efc71297bec598a2de1727e197581b75760719f8f9"
+        },
+        "json": {
+          "file": "monthly-letter-2010-03.json",
+          "size_bytes": 6997,
+          "sha256": "78fed940649dfe84744e043a21cd0853a3975a17e24ef610a36fba40c261e0cb"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-04",
+      "title": "April 2010",
+      "year": 2010,
+      "month": 4,
+      "pdf": "2010-04 - April 2010.pdf",
+      "json": "monthly-letter-2010-04.json",
+      "source_page": 47,
+      "assets": {
+        "pdf": {
+          "file": "2010-04 - April 2010.pdf",
+          "size_bytes": 98220,
+          "sha256": "c60a4323c0b09ac3eaab26dc14a62942f24b834827cec10199e35902756ea907"
+        },
+        "json": {
+          "file": "monthly-letter-2010-04.json",
+          "size_bytes": 6542,
+          "sha256": "491c8ce507cc980cf8dfba2fe7b637422c9ecceabeaa950f8ae8e615d82845ea"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-05",
+      "title": "May 2010",
+      "year": 2010,
+      "month": 5,
+      "pdf": "2010-05 - May 2010.pdf",
+      "json": "monthly-letter-2010-05.json",
+      "source_page": 48,
+      "assets": {
+        "pdf": {
+          "file": "2010-05 - May 2010.pdf",
+          "size_bytes": 117439,
+          "sha256": "c750b726b51ccc368922a4b2216c513f6cb304860fc4942666a578addb3564f4"
+        },
+        "json": {
+          "file": "monthly-letter-2010-05.json",
+          "size_bytes": 6850,
+          "sha256": "b29370983e169f0d8ce93a5a22b9168eec231bbdc074c62fe896fa5a69f0699b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-06",
+      "title": "June 2010",
+      "year": 2010,
+      "month": 6,
+      "pdf": "2010-06 - June 2010.pdf",
+      "json": "monthly-letter-2010-06.json",
+      "source_page": 49,
+      "assets": {
+        "pdf": {
+          "file": "2010-06 - June 2010.pdf",
+          "size_bytes": 99144,
+          "sha256": "8c91247985aa23269dfdc9b4b53dba5a08b87b5d753a35f362ae7b5d568dfb7a"
+        },
+        "json": {
+          "file": "monthly-letter-2010-06.json",
+          "size_bytes": 6901,
+          "sha256": "65ae64c489c2f64791894bb70b5539f1e5ab5775c33b463926ffd3ffce452e7b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-07",
+      "title": "July 2010",
+      "year": 2010,
+      "month": 7,
+      "pdf": "2010-07 - July 2010.pdf",
+      "json": "monthly-letter-2010-07.json",
+      "source_page": 50,
+      "assets": {
+        "pdf": {
+          "file": "2010-07 - July 2010.pdf",
+          "size_bytes": 99961,
+          "sha256": "65fe0e74f5b4ab6d1dfbceadb69edd3320fafeb5a634cb005ef68866e1becb6c"
+        },
+        "json": {
+          "file": "monthly-letter-2010-07.json",
+          "size_bytes": 7156,
+          "sha256": "da59d0a74fd22a157e0808d99a1474ba6b2b7942db50123283a29677d8de9099"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-08",
+      "title": "August 2010",
+      "year": 2010,
+      "month": 8,
+      "pdf": "2010-08 - August 2010.pdf",
+      "json": "monthly-letter-2010-08.json",
+      "source_page": 51,
+      "assets": {
+        "pdf": {
+          "file": "2010-08 - August 2010.pdf",
+          "size_bytes": 99086,
+          "sha256": "03cc1354477317de57b2808d0bea3b46d45275eb12313067916750b01df046f8"
+        },
+        "json": {
+          "file": "monthly-letter-2010-08.json",
+          "size_bytes": 6271,
+          "sha256": "84a3823b8a316b33dbd57f5a287c18fd4d7b8b1dd411ccdfc25e8427e509c7c5"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-09",
+      "title": "September 2010",
+      "year": 2010,
+      "month": 9,
+      "pdf": "2010-09 - September 2010.pdf",
+      "json": "monthly-letter-2010-09.json",
+      "source_page": 52,
+      "assets": {
+        "pdf": {
+          "file": "2010-09 - September 2010.pdf",
+          "size_bytes": 97770,
+          "sha256": "1620ea76389674b70271bbfe0180ee368d8e2e4d3c302f828744f292a47a4d21"
+        },
+        "json": {
+          "file": "monthly-letter-2010-09.json",
+          "size_bytes": 5772,
+          "sha256": "011b8a72eb14f8761f7fec53e99e982651881e297749ae7f31acb2a99db41b1a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-10",
+      "title": "October 2010",
+      "year": 2010,
+      "month": 10,
+      "pdf": "2010-10 - October 2010.pdf",
+      "json": "monthly-letter-2010-10.json",
+      "source_page": 53,
+      "assets": {
+        "pdf": {
+          "file": "2010-10 - October 2010.pdf",
+          "size_bytes": 136607,
+          "sha256": "fed038af1c3cff51f513ee78330a3348ff596f4691dde5de993d971b7c12e346"
+        },
+        "json": {
+          "file": "monthly-letter-2010-10.json",
+          "size_bytes": 6621,
+          "sha256": "091db05f0dafff70470d95c5e5767677f8a82d902c74ef576191d5672cc93f34"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-11",
+      "title": "November 2010",
+      "year": 2010,
+      "month": 11,
+      "pdf": "2010-11 - November 2010.pdf",
+      "json": "monthly-letter-2010-11.json",
+      "source_page": 54,
+      "assets": {
+        "pdf": {
+          "file": "2010-11 - November 2010.pdf",
+          "size_bytes": 128985,
+          "sha256": "0707b0b56e06b8cd6a44405a0c8d86e263c5aae68ae093f5ed7fc3a1f84b1915"
+        },
+        "json": {
+          "file": "monthly-letter-2010-11.json",
+          "size_bytes": 5988,
+          "sha256": "b0f0e35b6069ee25b6a6e4d7215866f0fb6db8bbac705ed894921de52096b16b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2010-12",
+      "title": "December 2010",
+      "year": 2010,
+      "month": 12,
+      "pdf": "2010-12 - December 2010.pdf",
+      "json": "monthly-letter-2010-12.json",
+      "source_page": 55,
+      "assets": {
+        "pdf": {
+          "file": "2010-12 - December 2010.pdf",
+          "size_bytes": 118631,
+          "sha256": "3e24539cd1cc702b54544422cc0490cb08488da8866069c148b172a66c960dba"
+        },
+        "json": {
+          "file": "monthly-letter-2010-12.json",
+          "size_bytes": 7234,
+          "sha256": "8ce3647717aa757de0d39daa385baa19d20258025d033f1f992d12a5927aa048"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-01",
+      "title": "January 2011",
+      "year": 2011,
+      "month": 1,
+      "pdf": "2011-01 - January 2011.pdf",
+      "json": "monthly-letter-2011-01.json",
+      "source_page": 56,
+      "assets": {
+        "pdf": {
+          "file": "2011-01 - January 2011.pdf",
+          "size_bytes": 116309,
+          "sha256": "d2fe445d3328e9d856c6f10b5754f4a4aa0d805a398073648c05ea04bd9e341e"
+        },
+        "json": {
+          "file": "monthly-letter-2011-01.json",
+          "size_bytes": 5791,
+          "sha256": "c44a11fa9a5e8051ca236b70c74faa1bb4f63060a03564d8971b39d2c0588362"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-02",
+      "title": "February 2011",
+      "year": 2011,
+      "month": 2,
+      "pdf": "2011-02 - February 2011.pdf",
+      "json": "monthly-letter-2011-02.json",
+      "source_page": 57,
+      "assets": {
+        "pdf": {
+          "file": "2011-02 - February 2011.pdf",
+          "size_bytes": 99887,
+          "sha256": "a912ca6fe176d5db15308c2c96d7c319662082ebcf78c5ce0f490dda80f125bb"
+        },
+        "json": {
+          "file": "monthly-letter-2011-02.json",
+          "size_bytes": 6558,
+          "sha256": "ddef2d669fbd6f4011b0f1fd6876216c893cd1ede5b7223360f65035f8eb7a96"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-03",
+      "title": "March 2011",
+      "year": 2011,
+      "month": 3,
+      "pdf": "2011-03 - March 2011.pdf",
+      "json": "monthly-letter-2011-03.json",
+      "source_page": 58,
+      "assets": {
+        "pdf": {
+          "file": "2011-03 - March 2011.pdf",
+          "size_bytes": 99979,
+          "sha256": "78c8978162a7575061cee28befce6f6256eff9a1a2b3e0b6d19b0b42c13ee3fc"
+        },
+        "json": {
+          "file": "monthly-letter-2011-03.json",
+          "size_bytes": 6143,
+          "sha256": "6a80b7945457ee20b2a3b0801d9363133ecf8ddf8035e8e97f4f3eef6339692b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-04",
+      "title": "April 2011",
+      "year": 2011,
+      "month": 4,
+      "pdf": "2011-04 - April 2011.pdf",
+      "json": "monthly-letter-2011-04.json",
+      "source_page": 59,
+      "assets": {
+        "pdf": {
+          "file": "2011-04 - April 2011.pdf",
+          "size_bytes": 138853,
+          "sha256": "011c0c46b2280ffa3bf5f223fc1374bc2094aec51bd780bfcaf0af01b9487e36"
+        },
+        "json": {
+          "file": "monthly-letter-2011-04.json",
+          "size_bytes": 6107,
+          "sha256": "1627c96a89879f213ddf38d2b8299b407d4f070fb538f836acadd4c2ce218afc"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-05",
+      "title": "May 2011",
+      "year": 2011,
+      "month": 5,
+      "pdf": "2011-05 - May 2011.pdf",
+      "json": "monthly-letter-2011-05.json",
+      "source_page": 60,
+      "assets": {
+        "pdf": {
+          "file": "2011-05 - May 2011.pdf",
+          "size_bytes": 116057,
+          "sha256": "5cac0b8574eb3c2e886558d417ae8d0210bd2ab81840aaeccb7486d1fbd53b73"
+        },
+        "json": {
+          "file": "monthly-letter-2011-05.json",
+          "size_bytes": 7123,
+          "sha256": "61565e2e66f76be8dc463c0d2b2be88a8e3ff7445f7dc1e009a362606f492abf"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-06",
+      "title": "June 2011",
+      "year": 2011,
+      "month": 6,
+      "pdf": "2011-06 - June 2011.pdf",
+      "json": "monthly-letter-2011-06.json",
+      "source_page": 61,
+      "assets": {
+        "pdf": {
+          "file": "2011-06 - June 2011.pdf",
+          "size_bytes": 100036,
+          "sha256": "123f93ee4e6ebf086dc8cea89060ea4b2813abb96bc988d62755a28f61bf370d"
+        },
+        "json": {
+          "file": "monthly-letter-2011-06.json",
+          "size_bytes": 7395,
+          "sha256": "84b242654a660617cd08375f13256f9f5c74d1ca2c8b94de9e6496e816a874d1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-07",
+      "title": "July 2011",
+      "year": 2011,
+      "month": 7,
+      "pdf": "2011-07 - July 2011.pdf",
+      "json": "monthly-letter-2011-07.json",
+      "source_page": 62,
+      "assets": {
+        "pdf": {
+          "file": "2011-07 - July 2011.pdf",
+          "size_bytes": 119935,
+          "sha256": "7c1672d86b6a057d3a53ee22e81add6015028bacff4b1a6855cc5d7f2672c09e"
+        },
+        "json": {
+          "file": "monthly-letter-2011-07.json",
+          "size_bytes": 6613,
+          "sha256": "2823377f8b86ba6502357d3ee9d4638951fce0d21c68c1388a36b635690728ee"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-08",
+      "title": "August 2011",
+      "year": 2011,
+      "month": 8,
+      "pdf": "2011-08 - August 2011.pdf",
+      "json": "monthly-letter-2011-08.json",
+      "source_page": 63,
+      "assets": {
+        "pdf": {
+          "file": "2011-08 - August 2011.pdf",
+          "size_bytes": 96430,
+          "sha256": "965cc7ed5e263cda8ef48f238b2a810b39b4a929162321a4e7924244a8d80257"
+        },
+        "json": {
+          "file": "monthly-letter-2011-08.json",
+          "size_bytes": 6055,
+          "sha256": "e9390ba372b0a98bf255a6a0a8ef918afeac2e4ddabfab9f23baa790efbcee2b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-09",
+      "title": "September 2011",
+      "year": 2011,
+      "month": 9,
+      "pdf": "2011-09 - September 2011.pdf",
+      "json": "monthly-letter-2011-09.json",
+      "source_page": 64,
+      "assets": {
+        "pdf": {
+          "file": "2011-09 - September 2011.pdf",
+          "size_bytes": 107000,
+          "sha256": "af7bc658e4ec3440006a37161cee1f766be95a8c5d616af97e793bcd48a04778"
+        },
+        "json": {
+          "file": "monthly-letter-2011-09.json",
+          "size_bytes": 7240,
+          "sha256": "27edabaad3fe225f257ff555b844da06187515790597e813cd4d4d9d814329cc"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-10",
+      "title": "October 2011",
+      "year": 2011,
+      "month": 10,
+      "pdf": "2011-10 - October 2011.pdf",
+      "json": "monthly-letter-2011-10.json",
+      "source_page": 65,
+      "assets": {
+        "pdf": {
+          "file": "2011-10 - October 2011.pdf",
+          "size_bytes": 107488,
+          "sha256": "78bbde959070e172c14fe3a0a823b8fce09cceeca7248ccbe9fee122d11b8589"
+        },
+        "json": {
+          "file": "monthly-letter-2011-10.json",
+          "size_bytes": 7048,
+          "sha256": "c696481bb87774f06de143a386ea7af26670920c6efec52165436833316800fb"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-11",
+      "title": "November 2011",
+      "year": 2011,
+      "month": 11,
+      "pdf": "2011-11 - November 2011.pdf",
+      "json": "monthly-letter-2011-11.json",
+      "source_page": 66,
+      "assets": {
+        "pdf": {
+          "file": "2011-11 - November 2011.pdf",
+          "size_bytes": 107270,
+          "sha256": "378eb63b2768ae84a894910fe3a675143b2b02cc0480b037c6ecd2363ac1ee19"
+        },
+        "json": {
+          "file": "monthly-letter-2011-11.json",
+          "size_bytes": 7115,
+          "sha256": "1b8c1de940c960a7b70245f4de2c6ca36eb17d19bc37d529e5505b6b154f16ea"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2011-12",
+      "title": "December 2011",
+      "year": 2011,
+      "month": 12,
+      "pdf": "2011-12 - December 2011.pdf",
+      "json": "monthly-letter-2011-12.json",
+      "source_page": 67,
+      "assets": {
+        "pdf": {
+          "file": "2011-12 - December 2011.pdf",
+          "size_bytes": 114600,
+          "sha256": "1e547035588be8cc71eaa43747b789b5bacacc62fc7af098ad09a79c036df3fe"
+        },
+        "json": {
+          "file": "monthly-letter-2011-12.json",
+          "size_bytes": 6691,
+          "sha256": "5e1ff0b4ad53716e5bd1b678d073361ba06757f22db0e6cc2a9b3daedc354dcf"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-01",
+      "title": "January 2012",
+      "year": 2012,
+      "month": 1,
+      "pdf": "2012-01 - January 2012.pdf",
+      "json": "monthly-letter-2012-01.json",
+      "source_page": 68,
+      "assets": {
+        "pdf": {
+          "file": "2012-01 - January 2012.pdf",
+          "size_bytes": 104291,
+          "sha256": "ed8201402b8beb3ded84c4706f3992b1a93c1cc959f445349777101c415c10ec"
+        },
+        "json": {
+          "file": "monthly-letter-2012-01.json",
+          "size_bytes": 6019,
+          "sha256": "ce39cf929372e6a418bcd928098cf4cf58a34fc2a046df47e0ec80623b8bb922"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-02",
+      "title": "February 2012",
+      "year": 2012,
+      "month": 2,
+      "pdf": "2012-02 - February 2012.pdf",
+      "json": "monthly-letter-2012-02.json",
+      "source_page": 69,
+      "assets": {
+        "pdf": {
+          "file": "2012-02 - February 2012.pdf",
+          "size_bytes": 109379,
+          "sha256": "9c083f9fb797edaca73908964e2c670713f9038fabd4f64a31abe6b8a3c28daa"
+        },
+        "json": {
+          "file": "monthly-letter-2012-02.json",
+          "size_bytes": 7012,
+          "sha256": "f80cc6b6faa0f250f632b0bd16f514081bce13dfb220687e74bebd58960de0b1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-03",
+      "title": "March 2012",
+      "year": 2012,
+      "month": 3,
+      "pdf": "2012-03 - March 2012.pdf",
+      "json": "monthly-letter-2012-03.json",
+      "source_page": 70,
+      "assets": {
+        "pdf": {
+          "file": "2012-03 - March 2012.pdf",
+          "size_bytes": 105959,
+          "sha256": "7b086caca65a4585efe1e4fa596a8fc71ea130e2e8cb5faf84685533cb621d8b"
+        },
+        "json": {
+          "file": "monthly-letter-2012-03.json",
+          "size_bytes": 7630,
+          "sha256": "bd88b72743a11b25615f1fb54576b2666960c78db982b3eb43701f5688b046b7"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-04",
+      "title": "April 2012",
+      "year": 2012,
+      "month": 4,
+      "pdf": "2012-04 - April 2012.pdf",
+      "json": "monthly-letter-2012-04.json",
+      "source_page": 71,
+      "assets": {
+        "pdf": {
+          "file": "2012-04 - April 2012.pdf",
+          "size_bytes": 108170,
+          "sha256": "f9bbab52231747804e4ea56c8a7586bc3c8011f5b432b7d5e6d3a77382c221db"
+        },
+        "json": {
+          "file": "monthly-letter-2012-04.json",
+          "size_bytes": 8034,
+          "sha256": "4de4e71ba3a5424fd1cee2fa4f0390dc6fc18d07190285524cf550b9b5989f59"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-05",
+      "title": "May 2012",
+      "year": 2012,
+      "month": 5,
+      "pdf": "2012-05 - May 2012.pdf",
+      "json": "monthly-letter-2012-05.json",
+      "source_page": 72,
+      "assets": {
+        "pdf": {
+          "file": "2012-05 - May 2012.pdf",
+          "size_bytes": 106308,
+          "sha256": "439c777f700092a1ee6f394bada93b8cec0e7ecd649486a40c7557bfeb011a15"
+        },
+        "json": {
+          "file": "monthly-letter-2012-05.json",
+          "size_bytes": 7105,
+          "sha256": "c550d97edb9f563ad4d352cc330afdff04f62888a393a1bf6396f1f9b96503cc"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-06",
+      "title": "June 2012",
+      "year": 2012,
+      "month": 6,
+      "pdf": "2012-06 - June 2012.pdf",
+      "json": "monthly-letter-2012-06.json",
+      "source_page": 73,
+      "assets": {
+        "pdf": {
+          "file": "2012-06 - June 2012.pdf",
+          "size_bytes": 107506,
+          "sha256": "56eaaf058682c350a6fd88f11686306900b8128b18701dd8df335cda6eb0b772"
+        },
+        "json": {
+          "file": "monthly-letter-2012-06.json",
+          "size_bytes": 6575,
+          "sha256": "6810173f7082ba60efdac8f5f071dca4ea1224b76bff8dc838f3f394ea9548a8"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-07",
+      "title": "July 2012",
+      "year": 2012,
+      "month": 7,
+      "pdf": "2012-07 - July 2012.pdf",
+      "json": "monthly-letter-2012-07.json",
+      "source_page": 74,
+      "assets": {
+        "pdf": {
+          "file": "2012-07 - July 2012.pdf",
+          "size_bytes": 109524,
+          "sha256": "1a9059f66d1809f1ed1c05560bcb89d9fc43011ca6051bb8fc8c5c7104ba772a"
+        },
+        "json": {
+          "file": "monthly-letter-2012-07.json",
+          "size_bytes": 6289,
+          "sha256": "57012cef1a54f77743bc750b3c680a9182b9bb182c35c48ebb10965cd987cd89"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-08",
+      "title": "August 2012",
+      "year": 2012,
+      "month": 8,
+      "pdf": "2012-08 - August 2012.pdf",
+      "json": "monthly-letter-2012-08.json",
+      "source_page": 75,
+      "assets": {
+        "pdf": {
+          "file": "2012-08 - August 2012.pdf",
+          "size_bytes": 109607,
+          "sha256": "a4488e426548add42bcbe9f08c055ad904df100b074bfb6d4f169203c1caff7f"
+        },
+        "json": {
+          "file": "monthly-letter-2012-08.json",
+          "size_bytes": 7838,
+          "sha256": "ee62bad359e1e67e9134a6f84325eb03c4b2d765967372e9ce9d3a12ee215664"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-09",
+      "title": "September 2012",
+      "year": 2012,
+      "month": 9,
+      "pdf": "2012-09 - September 2012.pdf",
+      "json": "monthly-letter-2012-09.json",
+      "source_page": 76,
+      "assets": {
+        "pdf": {
+          "file": "2012-09 - September 2012.pdf",
+          "size_bytes": 118538,
+          "sha256": "bc592dc516b699d1af43728922980da6176f378c7e077618977051b0170399e5"
+        },
+        "json": {
+          "file": "monthly-letter-2012-09.json",
+          "size_bytes": 7950,
+          "sha256": "8d85b303b7cf51686d26c521b4232aab0be2d048d1b3d7551602daace40619cd"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-10",
+      "title": "October 2012",
+      "year": 2012,
+      "month": 10,
+      "pdf": "2012-10 - October 2012.pdf",
+      "json": "monthly-letter-2012-10.json",
+      "source_page": 77,
+      "assets": {
+        "pdf": {
+          "file": "2012-10 - October 2012.pdf",
+          "size_bytes": 117617,
+          "sha256": "3d93ef186c28def014dd686edc235f20e619737bf0af51ec7b289bd23343fef5"
+        },
+        "json": {
+          "file": "monthly-letter-2012-10.json",
+          "size_bytes": 7215,
+          "sha256": "735fc97bf6d35c6e1f587871c9493c53ef87f42120325df9cf9ac6567d4c90c3"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-11",
+      "title": "November 2012",
+      "year": 2012,
+      "month": 11,
+      "pdf": "2012-11 - November 2012.pdf",
+      "json": "monthly-letter-2012-11.json",
+      "source_page": 78,
+      "assets": {
+        "pdf": {
+          "file": "2012-11 - November 2012.pdf",
+          "size_bytes": 107444,
+          "sha256": "40b45821873a288e30cf686d64a96a288283031bbd43b9dfcb01f9c80c597c3a"
+        },
+        "json": {
+          "file": "monthly-letter-2012-11.json",
+          "size_bytes": 6840,
+          "sha256": "0dd364e1549f4db57854ee216c69762ef4f44bf1832e5deb21dee52eef53a13a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2012-12",
+      "title": "December 2012",
+      "year": 2012,
+      "month": 12,
+      "pdf": "2012-12 - December 2012.pdf",
+      "json": "monthly-letter-2012-12.json",
+      "source_page": 79,
+      "assets": {
+        "pdf": {
+          "file": "2012-12 - December 2012.pdf",
+          "size_bytes": 113502,
+          "sha256": "7b182ae391be5676ff6335698401d11b86af41b3d227e1aa8c8d1849a3e9b748"
+        },
+        "json": {
+          "file": "monthly-letter-2012-12.json",
+          "size_bytes": 7389,
+          "sha256": "ca6f166125f0955db5f57fe6f1f9b64e49b93b81e74e0d8e7c13d2d7300c53a8"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-01",
+      "title": "January 2013",
+      "year": 2013,
+      "month": 1,
+      "pdf": "2013-01 - January 2013.pdf",
+      "json": "monthly-letter-2013-01.json",
+      "source_page": 80,
+      "assets": {
+        "pdf": {
+          "file": "2013-01 - January 2013.pdf",
+          "size_bytes": 110622,
+          "sha256": "74f1e92de0dfd6340a6dcf18794d8e407a3006549adbd13765e82290917cc64a"
+        },
+        "json": {
+          "file": "monthly-letter-2013-01.json",
+          "size_bytes": 7313,
+          "sha256": "f76cf261e3047a43b78c80a7c8ed35808aed3389414c6a35b5c36e0e8dc69e44"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-02",
+      "title": "February 2013",
+      "year": 2013,
+      "month": 2,
+      "pdf": "2013-02 - February 2013.pdf",
+      "json": "monthly-letter-2013-02.json",
+      "source_page": 81,
+      "assets": {
+        "pdf": {
+          "file": "2013-02 - February 2013.pdf",
+          "size_bytes": 110861,
+          "sha256": "8d42132363c9bcaeadfec9165ea0f3f6490b703c44ac260bcdbace57a8f4face"
+        },
+        "json": {
+          "file": "monthly-letter-2013-02.json",
+          "size_bytes": 7414,
+          "sha256": "1fcbe2751212c3dc5651b73f78118ecbc72afb2fe24d8e14d0fad2560abc4bad"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-03",
+      "title": "March 2013",
+      "year": 2013,
+      "month": 3,
+      "pdf": "2013-03 - March 2013.pdf",
+      "json": "monthly-letter-2013-03.json",
+      "source_page": 82,
+      "assets": {
+        "pdf": {
+          "file": "2013-03 - March 2013.pdf",
+          "size_bytes": 106651,
+          "sha256": "22e3c6b108f200a955a750ad2368a4822f2a5d4290649bb8d312aa8afc906297"
+        },
+        "json": {
+          "file": "monthly-letter-2013-03.json",
+          "size_bytes": 6892,
+          "sha256": "b453fd81bcc6d8c86c05d5faa8734fadbeb278924ab9aae4dd27c2035f4ad21a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-04",
+      "title": "April 2013",
+      "year": 2013,
+      "month": 4,
+      "pdf": "2013-04 - April 2013.pdf",
+      "json": "monthly-letter-2013-04.json",
+      "source_page": 83,
+      "assets": {
+        "pdf": {
+          "file": "2013-04 - April 2013.pdf",
+          "size_bytes": 105344,
+          "sha256": "e10a9214c0dc5c4bffed75c129d0da6cc0f7c6085ab0439432ecafc9f583bf48"
+        },
+        "json": {
+          "file": "monthly-letter-2013-04.json",
+          "size_bytes": 5877,
+          "sha256": "78618d0307b58e5d8c558d409a9dfd10e30d669ab8ac9ebf40f2c413d4451f6c"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-05",
+      "title": "May 2013",
+      "year": 2013,
+      "month": 5,
+      "pdf": "2013-05 - May 2013.pdf",
+      "json": "monthly-letter-2013-05.json",
+      "source_page": 84,
+      "assets": {
+        "pdf": {
+          "file": "2013-05 - May 2013.pdf",
+          "size_bytes": 107035,
+          "sha256": "1863561619c7a17bf19bbdf3bcaf7561f9f10a300213e9b16e9ad1ebd634c86e"
+        },
+        "json": {
+          "file": "monthly-letter-2013-05.json",
+          "size_bytes": 7198,
+          "sha256": "c31bae95060640b1874ad7dd59ac67ef517ae776fef378ec1f68cbae2fb8463c"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-06",
+      "title": "June 2013",
+      "year": 2013,
+      "month": 6,
+      "pdf": "2013-06 - June 2013.pdf",
+      "json": "monthly-letter-2013-06.json",
+      "source_page": 85,
+      "assets": {
+        "pdf": {
+          "file": "2013-06 - June 2013.pdf",
+          "size_bytes": 119029,
+          "sha256": "48ff402924c389094b92cf1db9a7386c21c2579c3513379cc3bb5cb03563ebba"
+        },
+        "json": {
+          "file": "monthly-letter-2013-06.json",
+          "size_bytes": 6847,
+          "sha256": "3b08e659eb4a6b02555cda45443d538e2dd87323b906edf161c6ca16100eae8c"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-07",
+      "title": "July 2013",
+      "year": 2013,
+      "month": 7,
+      "pdf": "2013-07 - July 2013.pdf",
+      "json": "monthly-letter-2013-07.json",
+      "source_page": 86,
+      "assets": {
+        "pdf": {
+          "file": "2013-07 - July 2013.pdf",
+          "size_bytes": 107982,
+          "sha256": "b3b9a57e2e74759bcc509ab0e757ce34db13f4fcbd403fb0c16dcfa537137330"
+        },
+        "json": {
+          "file": "monthly-letter-2013-07.json",
+          "size_bytes": 7237,
+          "sha256": "fc39d9b8082771d63e37ef4c2fd6aca3896b3dbb29fb0d84c516c80751b3d089"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-08",
+      "title": "August 2013",
+      "year": 2013,
+      "month": 8,
+      "pdf": "2013-08 - August 2013.pdf",
+      "json": "monthly-letter-2013-08.json",
+      "source_page": 87,
+      "assets": {
+        "pdf": {
+          "file": "2013-08 - August 2013.pdf",
+          "size_bytes": 106324,
+          "sha256": "3d2e5cb635960207f5d2fb2cd6d12274f45d57b47bf242cd80c3a87a618d4e69"
+        },
+        "json": {
+          "file": "monthly-letter-2013-08.json",
+          "size_bytes": 6612,
+          "sha256": "23244019e633455483a8e26da0dcd01602a75ea7fcad3705fa8a948d85824dfd"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-09",
+      "title": "September 2013",
+      "year": 2013,
+      "month": 9,
+      "pdf": "2013-09 - September 2013.pdf",
+      "json": "monthly-letter-2013-09.json",
+      "source_page": 88,
+      "assets": {
+        "pdf": {
+          "file": "2013-09 - September 2013.pdf",
+          "size_bytes": 93745,
+          "sha256": "8d2b7eb8c262b82d8d60473d903abec1eef72043e07a800289fc56c382750521"
+        },
+        "json": {
+          "file": "monthly-letter-2013-09.json",
+          "size_bytes": 6891,
+          "sha256": "3918c440f006de4652684361c7cdc7e3c5feb43ba438ed9ce5574af2293ecf29"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-10",
+      "title": "October 2013",
+      "year": 2013,
+      "month": 10,
+      "pdf": "2013-10 - October 2013.pdf",
+      "json": "monthly-letter-2013-10.json",
+      "source_page": 89,
+      "assets": {
+        "pdf": {
+          "file": "2013-10 - October 2013.pdf",
+          "size_bytes": 92880,
+          "sha256": "7b23c986b6a8f3f7118d1c3d0105a60a29c689d743f78556946732d50b36cd3e"
+        },
+        "json": {
+          "file": "monthly-letter-2013-10.json",
+          "size_bytes": 6825,
+          "sha256": "8a87ca3ce18159369ada6e170678daaa34d8470710e51e240d9f294728292e9f"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-11",
+      "title": "November 2013",
+      "year": 2013,
+      "month": 11,
+      "pdf": "2013-11 - November 2013.pdf",
+      "json": "monthly-letter-2013-11.json",
+      "source_page": 90,
+      "assets": {
+        "pdf": {
+          "file": "2013-11 - November 2013.pdf",
+          "size_bytes": 94305,
+          "sha256": "911d0dd21be76ce44f25a1e84f1a269b892b073bceec8ed7bdc5d38d70b93db4"
+        },
+        "json": {
+          "file": "monthly-letter-2013-11.json",
+          "size_bytes": 6616,
+          "sha256": "a82f31b42fd2d08afdbeda65894c0e0e8c30783fd2f2356cdc7b228e23797754"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2013-12",
+      "title": "December 2013",
+      "year": 2013,
+      "month": 12,
+      "pdf": "2013-12 - December 2013.pdf",
+      "json": "monthly-letter-2013-12.json",
+      "source_page": 91,
+      "assets": {
+        "pdf": {
+          "file": "2013-12 - December 2013.pdf",
+          "size_bytes": 101971,
+          "sha256": "733695acc6d932b5c432290faf2bab84fd2e26509284a3f984ab54e953c41a9e"
+        },
+        "json": {
+          "file": "monthly-letter-2013-12.json",
+          "size_bytes": 6869,
+          "sha256": "5a299473ee63b82782a0f644018a0eaceb4a65cb10fc7a5d7ccf584ee4e92ad2"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-01",
+      "title": "January 2014",
+      "year": 2014,
+      "month": 1,
+      "pdf": "2014-01 - January 2014.pdf",
+      "json": "monthly-letter-2014-01.json",
+      "source_page": 92,
+      "assets": {
+        "pdf": {
+          "file": "2014-01 - January 2014.pdf",
+          "size_bytes": 110740,
+          "sha256": "b53925dca0ee47e729d787cb419f1399018fc0227a04ae87e4b0c3db405d5fc4"
+        },
+        "json": {
+          "file": "monthly-letter-2014-01.json",
+          "size_bytes": 7906,
+          "sha256": "b5418e373a53d968b9024fd03498d3d5c121356a185d75254fcc6d20cecf8765"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-02",
+      "title": "February 2014",
+      "year": 2014,
+      "month": 2,
+      "pdf": "2014-02 - February 2014.pdf",
+      "json": "monthly-letter-2014-02.json",
+      "source_page": 93,
+      "assets": {
+        "pdf": {
+          "file": "2014-02 - February 2014.pdf",
+          "size_bytes": 94767,
+          "sha256": "a5cd1fab5ab5f115f663c48e2bc58418bbdff0864bb88a73fd8e13abc33166a1"
+        },
+        "json": {
+          "file": "monthly-letter-2014-02.json",
+          "size_bytes": 7271,
+          "sha256": "73f793edf98c762a4c9e0c285deed506fdfaf17ddb22ac14cadc8ae4363929b1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-03",
+      "title": "March 2014",
+      "year": 2014,
+      "month": 3,
+      "pdf": "2014-03 - March 2014.pdf",
+      "json": "monthly-letter-2014-03.json",
+      "source_page": 94,
+      "assets": {
+        "pdf": {
+          "file": "2014-03 - March 2014.pdf",
+          "size_bytes": 94968,
+          "sha256": "2719fa0e6c5705ad232ac4b61ff0a05129c3facef4402b396a9c6b953a8a3c45"
+        },
+        "json": {
+          "file": "monthly-letter-2014-03.json",
+          "size_bytes": 7687,
+          "sha256": "de15f2dd5ef066b73bf5d29739bf18b0aedd25ff32bf7b896d8a2bd826a35fa5"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-04",
+      "title": "April 2014",
+      "year": 2014,
+      "month": 4,
+      "pdf": "2014-04 - April 2014.pdf",
+      "json": "monthly-letter-2014-04.json",
+      "source_page": 95,
+      "assets": {
+        "pdf": {
+          "file": "2014-04 - April 2014.pdf",
+          "size_bytes": 95823,
+          "sha256": "e564e08d5be1349e482c419764dd9862de710b1fdaef0b87b8e82271d4eadc49"
+        },
+        "json": {
+          "file": "monthly-letter-2014-04.json",
+          "size_bytes": 7926,
+          "sha256": "8a0b456028fa1149afab2b09d712ebc378bb505b020639810b07ff2cd6e9e9e7"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-06",
+      "title": "June 2014",
+      "year": 2014,
+      "month": 6,
+      "pdf": "2014-06 - June 2014.pdf",
+      "json": "monthly-letter-2014-06.json",
+      "source_page": 96,
+      "assets": {
+        "pdf": {
+          "file": "2014-06 - June 2014.pdf",
+          "size_bytes": 92785,
+          "sha256": "09d2408d84809238b77d941d30cac1ed3b85dad291e3f2ac3d67dc00fd960d3f"
+        },
+        "json": {
+          "file": "monthly-letter-2014-06.json",
+          "size_bytes": 6716,
+          "sha256": "0fcafb582e8af9f6662ceacc420acaaa26e8b8e772aaba42a684e2d2053cb8bf"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-07",
+      "title": "July 2014",
+      "year": 2014,
+      "month": 7,
+      "pdf": "2014-07 - July 2014.pdf",
+      "json": "monthly-letter-2014-07.json",
+      "source_page": 97,
+      "assets": {
+        "pdf": {
+          "file": "2014-07 - July 2014.pdf",
+          "size_bytes": 94599,
+          "sha256": "52d59cccbd465623fa19a90befb4fcb6387b2ba68b9e6a6232de3339c137df1a"
+        },
+        "json": {
+          "file": "monthly-letter-2014-07.json",
+          "size_bytes": 7387,
+          "sha256": "0dfef36a4b85488bc18e9cfe107043932335ee00c959d500ae573d001f642fd4"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-08",
+      "title": "August 2014",
+      "year": 2014,
+      "month": 8,
+      "pdf": "2014-08 - August 2014.pdf",
+      "json": "monthly-letter-2014-08.json",
+      "source_page": 98,
+      "assets": {
+        "pdf": {
+          "file": "2014-08 - August 2014.pdf",
+          "size_bytes": 95692,
+          "sha256": "8d2e8fbdee82fa1af1f862613554cc13b71a6e88b5d1a9d61df2d4f18e4a2b74"
+        },
+        "json": {
+          "file": "monthly-letter-2014-08.json",
+          "size_bytes": 6705,
+          "sha256": "c2f99d3607db5bdcfbe89219e243b0e241e6b4699fb72c8b8417409ad9bbff13"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-09",
+      "title": "September 2014",
+      "year": 2014,
+      "month": 9,
+      "pdf": "2014-09 - September 2014.pdf",
+      "json": "monthly-letter-2014-09.json",
+      "source_page": 99,
+      "assets": {
+        "pdf": {
+          "file": "2014-09 - September 2014.pdf",
+          "size_bytes": 91701,
+          "sha256": "bf2bd8f59fdd0e252a8fd98864a503147cfb9716db06bc3b8674e4fab60ba381"
+        },
+        "json": {
+          "file": "monthly-letter-2014-09.json",
+          "size_bytes": 7033,
+          "sha256": "10e2286df102a0095263bb613b917f3a7bfc3d8346ccc2ef3e8fd2623b7cb4fd"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-11",
+      "title": "November 2014",
+      "year": 2014,
+      "month": 11,
+      "pdf": "2014-11 - November 2014.pdf",
+      "json": "monthly-letter-2014-11.json",
+      "source_page": 100,
+      "assets": {
+        "pdf": {
+          "file": "2014-11 - November 2014.pdf",
+          "size_bytes": 93309,
+          "sha256": "bd39e3a5a7e454872f4fdc4607d6aedb18dd7d45730033334bf42a80bd049558"
+        },
+        "json": {
+          "file": "monthly-letter-2014-11.json",
+          "size_bytes": 7804,
+          "sha256": "534459edd7cc8b755aef1ea71f8a81e71f02c1dad9272deb095f9d259bb30a4e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2014-12",
+      "title": "December 2014",
+      "year": 2014,
+      "month": 12,
+      "pdf": "2014-12 - December 2014.pdf",
+      "json": "monthly-letter-2014-12.json",
+      "source_page": 101,
+      "assets": {
+        "pdf": {
+          "file": "2014-12 - December 2014.pdf",
+          "size_bytes": 102257,
+          "sha256": "c4b053300e3d018ffa92d24f8318bb73e2d53b1dbfc34aa643827c872f29a702"
+        },
+        "json": {
+          "file": "monthly-letter-2014-12.json",
+          "size_bytes": 8059,
+          "sha256": "749ad9efc35b1346b49d07c590e49173df5ab3b16a6192af7c043661f1e6e127"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-01",
+      "title": "January 2015",
+      "year": 2015,
+      "month": 1,
+      "pdf": "2015-01 - January 2015.pdf",
+      "json": "monthly-letter-2015-01.json",
+      "source_page": 102,
+      "assets": {
+        "pdf": {
+          "file": "2015-01 - January 2015.pdf",
+          "size_bytes": 94270,
+          "sha256": "b692c403fe0a4ed5d91eabe6eda6d1a7c11a51079ae00e8de1baf07cf4801bb5"
+        },
+        "json": {
+          "file": "monthly-letter-2015-01.json",
+          "size_bytes": 7078,
+          "sha256": "f7a3529f00d631a37b7b13a5569c6b246c6191d931cdbd90dce26ea7bda168ff"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-02",
+      "title": "February 2015",
+      "year": 2015,
+      "month": 2,
+      "pdf": "2015-02 - February 2015.pdf",
+      "json": "monthly-letter-2015-02.json",
+      "source_page": 103,
+      "assets": {
+        "pdf": {
+          "file": "2015-02 - February 2015.pdf",
+          "size_bytes": 94253,
+          "sha256": "a631c792c750246b61eeb95a771466e73fe1ddf8c25d3da9c71460199d6b6e20"
+        },
+        "json": {
+          "file": "monthly-letter-2015-02.json",
+          "size_bytes": 7438,
+          "sha256": "91f6ef9795e7baac7f015a5c3e4b870373d4f59a4b194a9cf4554bac11a3010b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-03",
+      "title": "March 2015",
+      "year": 2015,
+      "month": 3,
+      "pdf": "2015-03 - March 2015.pdf",
+      "json": "monthly-letter-2015-03.json",
+      "source_page": 104,
+      "assets": {
+        "pdf": {
+          "file": "2015-03 - March 2015.pdf",
+          "size_bytes": 95725,
+          "sha256": "6d86665e56d95e90597b43ec9ff5332fae0a83c5431c7c5f997ba32b44f65dba"
+        },
+        "json": {
+          "file": "monthly-letter-2015-03.json",
+          "size_bytes": 8131,
+          "sha256": "7c0f437fe58d0eba79d0ad2f3803cd31232ada9886af5d0f56db2d0605a8c367"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-04",
+      "title": "April 2015",
+      "year": 2015,
+      "month": 4,
+      "pdf": "2015-04 - April 2015.pdf",
+      "json": "monthly-letter-2015-04.json",
+      "source_page": 105,
+      "assets": {
+        "pdf": {
+          "file": "2015-04 - April 2015.pdf",
+          "size_bytes": 95521,
+          "sha256": "63d2a9bba405ea0c7cadb73ded6a48f4917b8fb88dae3260d517f3856cc2e276"
+        },
+        "json": {
+          "file": "monthly-letter-2015-04.json",
+          "size_bytes": 7810,
+          "sha256": "c8b6217a538508414e1a39694f00adf50f9bf0f4c3838d3cd275625319b6e778"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-05",
+      "title": "May 2015",
+      "year": 2015,
+      "month": 5,
+      "pdf": "2015-05 - May 2015.pdf",
+      "json": "monthly-letter-2015-05.json",
+      "source_page": 106,
+      "assets": {
+        "pdf": {
+          "file": "2015-05 - May 2015.pdf",
+          "size_bytes": 93200,
+          "sha256": "2d4993275613105c33721f9c9d0072093f190c223b70c8d3e7e1af4ab36f7b2e"
+        },
+        "json": {
+          "file": "monthly-letter-2015-05.json",
+          "size_bytes": 7054,
+          "sha256": "711fb191563f8824c253d15667ad8b59b0526d22919465c1e650e223bba73753"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-06",
+      "title": "June 2015",
+      "year": 2015,
+      "month": 6,
+      "pdf": "2015-06 - June 2015.pdf",
+      "json": "monthly-letter-2015-06.json",
+      "source_page": 107,
+      "assets": {
+        "pdf": {
+          "file": "2015-06 - June 2015.pdf",
+          "size_bytes": 95840,
+          "sha256": "54e6f9001d45c012d17f91ff0dfa785ae291e565053b9c362479c8b1c5f73189"
+        },
+        "json": {
+          "file": "monthly-letter-2015-06.json",
+          "size_bytes": 7538,
+          "sha256": "01821632958b6bd3caa8e5650971c67c708831d9c63160c8285f4ca0a6878a2c"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-07",
+      "title": "July 2015",
+      "year": 2015,
+      "month": 7,
+      "pdf": "2015-07 - July 2015.pdf",
+      "json": "monthly-letter-2015-07.json",
+      "source_page": 108,
+      "assets": {
+        "pdf": {
+          "file": "2015-07 - July 2015.pdf",
+          "size_bytes": 90144,
+          "sha256": "72aa0b2292e1b504f296519082af443c496fa0193ca6c7c73ea151303de44e82"
+        },
+        "json": {
+          "file": "monthly-letter-2015-07.json",
+          "size_bytes": 5913,
+          "sha256": "190d11f4970aacc3677955622fae9a14893b97548bfb8c1c2ab9bd563a3a9e6a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-08",
+      "title": "August 2015",
+      "year": 2015,
+      "month": 8,
+      "pdf": "2015-08 - August 2015.pdf",
+      "json": "monthly-letter-2015-08.json",
+      "source_page": 109,
+      "assets": {
+        "pdf": {
+          "file": "2015-08 - August 2015.pdf",
+          "size_bytes": 93372,
+          "sha256": "03e51cc4e0c2043c4411ac7142599b774da4506cad5240cb77be463a81a1988c"
+        },
+        "json": {
+          "file": "monthly-letter-2015-08.json",
+          "size_bytes": 7222,
+          "sha256": "ff4f9e7bdfa563ee0e1161b82b641abef88213add06261b081bd7694553de783"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-09",
+      "title": "September 2015",
+      "year": 2015,
+      "month": 9,
+      "pdf": "2015-09 - September 2015.pdf",
+      "json": "monthly-letter-2015-09.json",
+      "source_page": 110,
+      "assets": {
+        "pdf": {
+          "file": "2015-09 - September 2015.pdf",
+          "size_bytes": 108294,
+          "sha256": "d9ceb5ea2f9a238c83ffab9c1892f010dc8dbc6f698703e9592125146de37a1d"
+        },
+        "json": {
+          "file": "monthly-letter-2015-09.json",
+          "size_bytes": 6979,
+          "sha256": "d03f5821b2373e7866c50bf6aad3960bd0bd2343c0d370ba4d27b3b9b0b64b29"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-10",
+      "title": "October 2015",
+      "year": 2015,
+      "month": 10,
+      "pdf": "2015-10 - October 2015.pdf",
+      "json": "monthly-letter-2015-10.json",
+      "source_page": 111,
+      "assets": {
+        "pdf": {
+          "file": "2015-10 - October 2015.pdf",
+          "size_bytes": 116971,
+          "sha256": "e5b640706073fb2a7ea2b2e0ac048134c72743de2235137d558688c5127df24f"
+        },
+        "json": {
+          "file": "monthly-letter-2015-10.json",
+          "size_bytes": 7096,
+          "sha256": "68635f8cbddf70301cc8b02c2b750606d8e6ea3b2aabaefcab078f706ab90491"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-11",
+      "title": "November 2015",
+      "year": 2015,
+      "month": 11,
+      "pdf": "2015-11 - November 2015.pdf",
+      "json": "monthly-letter-2015-11.json",
+      "source_page": 112,
+      "assets": {
+        "pdf": {
+          "file": "2015-11 - November 2015.pdf",
+          "size_bytes": 117792,
+          "sha256": "0b058dfd9f0eef9bcf843a5104ab853daeaa2fce0ecabeeaa4640d0b0291d182"
+        },
+        "json": {
+          "file": "monthly-letter-2015-11.json",
+          "size_bytes": 8029,
+          "sha256": "ec320a971f9b12bf6f64e09d3d4f42727a850f258e71d9f055e6380fbbfa2cb1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2015-12",
+      "title": "December 2015",
+      "year": 2015,
+      "month": 12,
+      "pdf": "2015-12 - December 2015.pdf",
+      "json": "monthly-letter-2015-12.json",
+      "source_page": 113,
+      "assets": {
+        "pdf": {
+          "file": "2015-12 - December 2015.pdf",
+          "size_bytes": 621536,
+          "sha256": "da3b983bf691bb31cc201f6a564d75ca8e3ca91063c43610b4394384bf4488db"
+        },
+        "json": {
+          "file": "monthly-letter-2015-12.json",
+          "size_bytes": 4892,
+          "sha256": "25ec444a16e7523e278e1d9eade3a1c02609ef3070b33ed00dd038874ce8c4c2"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-01",
+      "title": "January 2016",
+      "year": 2016,
+      "month": 1,
+      "pdf": "2016-01 - January 2016.pdf",
+      "json": "monthly-letter-2016-01.json",
+      "source_page": 114,
+      "assets": {
+        "pdf": {
+          "file": "2016-01 - January 2016.pdf",
+          "size_bytes": 311023,
+          "sha256": "6ce0af0aaf8a431981fcd3519617213f01000593e5f3c22a1739a363b715cc3a"
+        },
+        "json": {
+          "file": "monthly-letter-2016-01.json",
+          "size_bytes": 5661,
+          "sha256": "931e0992592feae6936a6290c89ed23e1ddc6334cfa39aa67fb83ababc9ae28e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-02",
+      "title": "February 2016",
+      "year": 2016,
+      "month": 2,
+      "pdf": "2016-02 - February 2016.pdf",
+      "json": "monthly-letter-2016-02.json",
+      "source_page": 115,
+      "assets": {
+        "pdf": {
+          "file": "2016-02 - February 2016.pdf",
+          "size_bytes": 118261,
+          "sha256": "eaa4f5b139483900ce37a0d78728baf12355fe339773b601b11b1b815a30f93b"
+        },
+        "json": {
+          "file": "monthly-letter-2016-02.json",
+          "size_bytes": 6602,
+          "sha256": "3d0869c4af8217b2e2b2cdb499376473a070d90984a57248c6c0aaa3fb28080e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-03",
+      "title": "March 2016",
+      "year": 2016,
+      "month": 3,
+      "pdf": "2016-03 - March 2016.pdf",
+      "json": "monthly-letter-2016-03.json",
+      "source_page": 116,
+      "assets": {
+        "pdf": {
+          "file": "2016-03 - March 2016.pdf",
+          "size_bytes": 116018,
+          "sha256": "7567d1a65b8545e2ffa42251d26d54fca00c87ba284ebc551cc39cd0a7547b2f"
+        },
+        "json": {
+          "file": "monthly-letter-2016-03.json",
+          "size_bytes": 6507,
+          "sha256": "01f45475cff5f154a0f316d10c2b16877cf3451fae3fcaa98f263eb759c4102f"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-04",
+      "title": "April 2016",
+      "year": 2016,
+      "month": 4,
+      "pdf": "2016-04 - April 2016.pdf",
+      "json": "monthly-letter-2016-04.json",
+      "source_page": 117,
+      "assets": {
+        "pdf": {
+          "file": "2016-04 - April 2016.pdf",
+          "size_bytes": 342331,
+          "sha256": "04e9ed0d7c0b47a3ec5b314286844f806e8e01fec9729d627e85f0f49829f4ea"
+        },
+        "json": {
+          "file": "monthly-letter-2016-04.json",
+          "size_bytes": 6047,
+          "sha256": "e25f2310046f310df0d3b0c35e91be3ea8f44f274877c4b22a042cc15fa3a1b3"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-05",
+      "title": "May 2016",
+      "year": 2016,
+      "month": 5,
+      "pdf": "2016-05 - May 2016.pdf",
+      "json": "monthly-letter-2016-05.json",
+      "source_page": 118,
+      "assets": {
+        "pdf": {
+          "file": "2016-05 - May 2016.pdf",
+          "size_bytes": 128074,
+          "sha256": "8dc007af943ad911b3557c9b67989002b0b794d0b86cf166a305be198068de50"
+        },
+        "json": {
+          "file": "monthly-letter-2016-05.json",
+          "size_bytes": 6227,
+          "sha256": "86746c64edb03cf2d37db2a79586d2fbaf6a734ff20a6a2b4fb121d10fbe2d2c"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-06",
+      "title": "June 2016",
+      "year": 2016,
+      "month": 6,
+      "pdf": "2016-06 - June 2016.pdf",
+      "json": "monthly-letter-2016-06.json",
+      "source_page": 119,
+      "assets": {
+        "pdf": {
+          "file": "2016-06 - June 2016.pdf",
+          "size_bytes": 127116,
+          "sha256": "ecf36eb7e6dfb986d24a7928eb37585c5cda096f00a7bef73187b435ca732e3b"
+        },
+        "json": {
+          "file": "monthly-letter-2016-06.json",
+          "size_bytes": 6983,
+          "sha256": "99fea01779ae21247f8f2c3032b1cc9d42e1029793b1d00e2aff65f95a603793"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-07",
+      "title": "July 2016",
+      "year": 2016,
+      "month": 7,
+      "pdf": "2016-07 - July 2016.pdf",
+      "json": "monthly-letter-2016-07.json",
+      "source_page": 120,
+      "assets": {
+        "pdf": {
+          "file": "2016-07 - July 2016.pdf",
+          "size_bytes": 134891,
+          "sha256": "f3cc280b0ed34a45e1ab10746024b1f8c40a1c144cd4e44d7f059ecf72ced9f0"
+        },
+        "json": {
+          "file": "monthly-letter-2016-07.json",
+          "size_bytes": 6726,
+          "sha256": "fc45a71b1dfbae68ea0bf3ae049a03c3fa649859cabf8d327c69764f67b3bb85"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-08",
+      "title": "August 2016",
+      "year": 2016,
+      "month": 8,
+      "pdf": "2016-08 - August 2016.pdf",
+      "json": "monthly-letter-2016-08.json",
+      "source_page": 121,
+      "assets": {
+        "pdf": {
+          "file": "2016-08 - August 2016.pdf",
+          "size_bytes": 136492,
+          "sha256": "5ab51407b09b5950795408a1977855fef219ec3bc2954689a2c9d1c994f68531"
+        },
+        "json": {
+          "file": "monthly-letter-2016-08.json",
+          "size_bytes": 6218,
+          "sha256": "cc6619fc212f83cb3b3ab685142d1a9a0b167c26e36bac1e9f49264a3c2b10da"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-09",
+      "title": "September 2016",
+      "year": 2016,
+      "month": 9,
+      "pdf": "2016-09 - September 2016.pdf",
+      "json": "monthly-letter-2016-09.json",
+      "source_page": 122,
+      "assets": {
+        "pdf": {
+          "file": "2016-09 - September 2016.pdf",
+          "size_bytes": 125801,
+          "sha256": "136adab60a52d55d3481a36ee1717ba5b7ad478117e84b37b2597a8a66016f73"
+        },
+        "json": {
+          "file": "monthly-letter-2016-09.json",
+          "size_bytes": 6872,
+          "sha256": "7a910b440832e4166be567d78835e7606b3d1655f2a527068c0238acd2797d70"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-10",
+      "title": "October 2016",
+      "year": 2016,
+      "month": 10,
+      "pdf": "2016-10 - October 2016.pdf",
+      "json": "monthly-letter-2016-10.json",
+      "source_page": 123,
+      "assets": {
+        "pdf": {
+          "file": "2016-10 - October 2016.pdf",
+          "size_bytes": 121110,
+          "sha256": "a6d6eb66ea739bc38f547b5b6e1c24641de882ea918c63cb7b8f455b1f79e37a"
+        },
+        "json": {
+          "file": "monthly-letter-2016-10.json",
+          "size_bytes": 7001,
+          "sha256": "7539d12a28fec88f71a9c741d09aee07decbd4d07414182f9daf4281ce79184e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-11",
+      "title": "November 2016",
+      "year": 2016,
+      "month": 11,
+      "pdf": "2016-11 - November 2016.pdf",
+      "json": "monthly-letter-2016-11.json",
+      "source_page": 124,
+      "assets": {
+        "pdf": {
+          "file": "2016-11 - November 2016.pdf",
+          "size_bytes": 120900,
+          "sha256": "e06a798249c39c3c4b32edc075c1170ceb8f13c03c61d691f1bd7ef8755c6a50"
+        },
+        "json": {
+          "file": "monthly-letter-2016-11.json",
+          "size_bytes": 7086,
+          "sha256": "d46d4dfcacd2dbf4f5bd4d9bdbee1ee41eacbafd5698b4d61efd5ae70c2368a4"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2016-12",
+      "title": "December 2016",
+      "year": 2016,
+      "month": 12,
+      "pdf": "2016-12 - December 2016.pdf",
+      "json": "monthly-letter-2016-12.json",
+      "source_page": 125,
+      "assets": {
+        "pdf": {
+          "file": "2016-12 - December 2016.pdf",
+          "size_bytes": 120606,
+          "sha256": "1f8d2f247e192946894c7a7923226600307f413d0f1d4962878c30ac1cf333b3"
+        },
+        "json": {
+          "file": "monthly-letter-2016-12.json",
+          "size_bytes": 6676,
+          "sha256": "bfe49c6a2d37101d45e286079234ce59ca40a62fab96d07293a40de065928c7f"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-01",
+      "title": "January 2017",
+      "year": 2017,
+      "month": 1,
+      "pdf": "2017-01 - January 2017.pdf",
+      "json": "monthly-letter-2017-01.json",
+      "source_page": 126,
+      "assets": {
+        "pdf": {
+          "file": "2017-01 - January 2017.pdf",
+          "size_bytes": 122501,
+          "sha256": "5582961041b04aa9d12f2409f333979ae51fa05a1722111d1d758c53b564a650"
+        },
+        "json": {
+          "file": "monthly-letter-2017-01.json",
+          "size_bytes": 7048,
+          "sha256": "6c1dfa04d21c339850a7c51d946dd2d9c51ddf1ae3df52ebab4a9b3b7569fbc1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-02",
+      "title": "February 2017",
+      "year": 2017,
+      "month": 2,
+      "pdf": "2017-02 - February 2017.pdf",
+      "json": "monthly-letter-2017-02.json",
+      "source_page": 127,
+      "assets": {
+        "pdf": {
+          "file": "2017-02 - February 2017.pdf",
+          "size_bytes": 120810,
+          "sha256": "b2788547c86e740924d94e4e8339238d43769820e36615b3eafbfb903a650686"
+        },
+        "json": {
+          "file": "monthly-letter-2017-02.json",
+          "size_bytes": 6060,
+          "sha256": "0ab82fb0387db64ca1824ab3ffb7bb951f9ba9b1e6db656e1d04b26820ed0d97"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-03",
+      "title": "March 2017",
+      "year": 2017,
+      "month": 3,
+      "pdf": "2017-03 - March 2017.pdf",
+      "json": "monthly-letter-2017-03.json",
+      "source_page": 128,
+      "assets": {
+        "pdf": {
+          "file": "2017-03 - March 2017.pdf",
+          "size_bytes": 118746,
+          "sha256": "9271c8fae9642d43abd6f353aebca17a6876b101be24251a07e5ce979ab82935"
+        },
+        "json": {
+          "file": "monthly-letter-2017-03.json",
+          "size_bytes": 6616,
+          "sha256": "7a64cb53655d78fd89d49f0abbb5b56012e5874f45d40f5b06577502e17e723b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-04",
+      "title": "April 2017",
+      "year": 2017,
+      "month": 4,
+      "pdf": "2017-04 - April 2017.pdf",
+      "json": "monthly-letter-2017-04.json",
+      "source_page": 129,
+      "assets": {
+        "pdf": {
+          "file": "2017-04 - April 2017.pdf",
+          "size_bytes": 145577,
+          "sha256": "06adfa87e8fee5b299287103eaf75228e6ddd885cd066c8ef277abd5d3714ef7"
+        },
+        "json": {
+          "file": "monthly-letter-2017-04.json",
+          "size_bytes": 6778,
+          "sha256": "867e3996f5050315ebf21418153b5536a310f64db854711b54edd632dfe61e30"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-05",
+      "title": "May 2017",
+      "year": 2017,
+      "month": 5,
+      "pdf": "2017-05 - May 2017.pdf",
+      "json": "monthly-letter-2017-05.json",
+      "source_page": 130,
+      "assets": {
+        "pdf": {
+          "file": "2017-05 - May 2017.pdf",
+          "size_bytes": 146061,
+          "sha256": "e25d9349206ab7a7f26cd266a3f4c804166b76c517d94df6a816f26d02cd0952"
+        },
+        "json": {
+          "file": "monthly-letter-2017-05.json",
+          "size_bytes": 5689,
+          "sha256": "82f4bef26cf4c676a816738a122ed20126cdca27fa511af4db0999f2a9105f1b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-06",
+      "title": "June 2017",
+      "year": 2017,
+      "month": 6,
+      "pdf": "2017-06 - June 2017.pdf",
+      "json": "monthly-letter-2017-06.json",
+      "source_page": 131,
+      "assets": {
+        "pdf": {
+          "file": "2017-06 - June 2017.pdf",
+          "size_bytes": 150279,
+          "sha256": "8477763e575e9a22fe6bcfde7dd07903e334a3f24a77ea0d53f4e951fcda2252"
+        },
+        "json": {
+          "file": "monthly-letter-2017-06.json",
+          "size_bytes": 6734,
+          "sha256": "41c3d37f6cb3a026f19a1352cc332bad37d5f6e9f800414cd9ffa49ac601039b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-07",
+      "title": "July 2017",
+      "year": 2017,
+      "month": 7,
+      "pdf": "2017-07 - July 2017.pdf",
+      "json": "monthly-letter-2017-07.json",
+      "source_page": 132,
+      "assets": {
+        "pdf": {
+          "file": "2017-07 - July 2017.pdf",
+          "size_bytes": 129229,
+          "sha256": "00bff4787b0d5c2e90b9b15b641af43445a4a6c04b479452fae5c3040b3347e6"
+        },
+        "json": {
+          "file": "monthly-letter-2017-07.json",
+          "size_bytes": 6876,
+          "sha256": "db1a10d00b1cf76252d959f5c41900af4da48d4beaf0829977c8ef59226ea342"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-08",
+      "title": "August 2017",
+      "year": 2017,
+      "month": 8,
+      "pdf": "2017-08 - August 2017.pdf",
+      "json": "monthly-letter-2017-08.json",
+      "source_page": 133,
+      "assets": {
+        "pdf": {
+          "file": "2017-08 - August 2017.pdf",
+          "size_bytes": 119054,
+          "sha256": "692254fbd4af6fd00b1b1a5f030b67eb098e3e670682a772c6eec9f2c957de49"
+        },
+        "json": {
+          "file": "monthly-letter-2017-08.json",
+          "size_bytes": 7156,
+          "sha256": "bdf3445389399a0665b6879ea75c6ea7cf6763cc1c397ddad6d7b7dc3a3fbf5a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-09",
+      "title": "September 2017",
+      "year": 2017,
+      "month": 9,
+      "pdf": "2017-09 - September 2017.pdf",
+      "json": "monthly-letter-2017-09.json",
+      "source_page": 134,
+      "assets": {
+        "pdf": {
+          "file": "2017-09 - September 2017.pdf",
+          "size_bytes": 126121,
+          "sha256": "ebb48f50768caf788683c5bacaea3afb246b16acd72e9f0850c45fc13e154c98"
+        },
+        "json": {
+          "file": "monthly-letter-2017-09.json",
+          "size_bytes": 6726,
+          "sha256": "8a6a6915f82662c60c4527b7e3f45b6355b73a4cf2afa21f79e2d53e12047488"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-10",
+      "title": "October 2017",
+      "year": 2017,
+      "month": 10,
+      "pdf": "2017-10 - October 2017.pdf",
+      "json": "monthly-letter-2017-10.json",
+      "source_page": 135,
+      "assets": {
+        "pdf": {
+          "file": "2017-10 - October 2017.pdf",
+          "size_bytes": 127341,
+          "sha256": "48ccc12eea667001e0b3f3f4d18d9a60891460d9c01497e6f2fbe3e0045b5ab0"
+        },
+        "json": {
+          "file": "monthly-letter-2017-10.json",
+          "size_bytes": 7068,
+          "sha256": "42caeac6a920b827c664275b9935089f3493331c56acb7e94d4256d99739e642"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-11",
+      "title": "November 2017",
+      "year": 2017,
+      "month": 11,
+      "pdf": "2017-11 - November 2017.pdf",
+      "json": "monthly-letter-2017-11.json",
+      "source_page": 136,
+      "assets": {
+        "pdf": {
+          "file": "2017-11 - November 2017.pdf",
+          "size_bytes": 117852,
+          "sha256": "12ce386582436c64d8bcba3775102a863bb6d94c9bf938a97307dfda215adf25"
+        },
+        "json": {
+          "file": "monthly-letter-2017-11.json",
+          "size_bytes": 7121,
+          "sha256": "09f947cd6548f24b876a8e1a3afd125e40b86697a1e7ed1415da5aa862df0d46"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2017-12",
+      "title": "December 2017",
+      "year": 2017,
+      "month": 12,
+      "pdf": "2017-12 - December 2017.pdf",
+      "json": "monthly-letter-2017-12.json",
+      "source_page": 137,
+      "assets": {
+        "pdf": {
+          "file": "2017-12 - December 2017.pdf",
+          "size_bytes": 127243,
+          "sha256": "ef410c132e0964f2bc7a17b04b4df94cab88ce82f7d1fd2726cf54a82daec971"
+        },
+        "json": {
+          "file": "monthly-letter-2017-12.json",
+          "size_bytes": 6271,
+          "sha256": "d145b684d4344716dba115799460bb586013282e79bc46975ab7a6f6ab94bd28"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-01",
+      "title": "January 2018",
+      "year": 2018,
+      "month": 1,
+      "pdf": "2018-01 - January 2018.pdf",
+      "json": "monthly-letter-2018-01.json",
+      "source_page": 138,
+      "assets": {
+        "pdf": {
+          "file": "2018-01 - January 2018.pdf",
+          "size_bytes": 108403,
+          "sha256": "f258bc55b1d6f18a9ccf3588ad8812fff88dd1971dd5bcc0635c7d41b1f1e24a"
+        },
+        "json": {
+          "file": "monthly-letter-2018-01.json",
+          "size_bytes": 7143,
+          "sha256": "c9b2b409bba7fc2a2612a816add37c656ab6da55e74119e2cc7fe58069714d88"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-02",
+      "title": "February 2018",
+      "year": 2018,
+      "month": 2,
+      "pdf": "2018-02 - February 2018.pdf",
+      "json": "monthly-letter-2018-02.json",
+      "source_page": 139,
+      "assets": {
+        "pdf": {
+          "file": "2018-02 - February 2018.pdf",
+          "size_bytes": 122137,
+          "sha256": "7a7eded43dbbf0df89311d70f4a1904d3270c69108e220a49ec1c51dd7cff432"
+        },
+        "json": {
+          "file": "monthly-letter-2018-02.json",
+          "size_bytes": 7059,
+          "sha256": "374cc10b22d28395490271721bf746d0c37548a75762a22276a3cb5869836688"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-04",
+      "title": "April 2018",
+      "year": 2018,
+      "month": 4,
+      "pdf": "2018-04 - April 2018.pdf",
+      "json": "monthly-letter-2018-04.json",
+      "source_page": 140,
+      "assets": {
+        "pdf": {
+          "file": "2018-04 - April 2018.pdf",
+          "size_bytes": 138489,
+          "sha256": "86b3f8077b159281e9fb7f7ffccb4ed15a950abaa63f4148ee9e2b8a5989581c"
+        },
+        "json": {
+          "file": "monthly-letter-2018-04.json",
+          "size_bytes": 5834,
+          "sha256": "1946347313e9a07360633ee2fd3485f3b771a4447fd01cc2f332dc166f58f635"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-05",
+      "title": "May 2018",
+      "year": 2018,
+      "month": 5,
+      "pdf": "2018-05 - May 2018.pdf",
+      "json": "monthly-letter-2018-05.json",
+      "source_page": 141,
+      "assets": {
+        "pdf": {
+          "file": "2018-05 - May 2018.pdf",
+          "size_bytes": 113996,
+          "sha256": "4088e940ab877a076d337be2cb6a19fddc94b0db316c979df56d48c9ab06321e"
+        },
+        "json": {
+          "file": "monthly-letter-2018-05.json",
+          "size_bytes": 5443,
+          "sha256": "f403855d8b7403eee1c33b84067d521283d6d6611034f72125cd6883212b0467"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-06",
+      "title": "June 2018",
+      "year": 2018,
+      "month": 6,
+      "pdf": "2018-06 - June 2018.pdf",
+      "json": "monthly-letter-2018-06.json",
+      "source_page": 142,
+      "assets": {
+        "pdf": {
+          "file": "2018-06 - June 2018.pdf",
+          "size_bytes": 123965,
+          "sha256": "5629b10216996704a34fb33d1fa265c03944b30bec14fe56b9b55fc7cc00ff5f"
+        },
+        "json": {
+          "file": "monthly-letter-2018-06.json",
+          "size_bytes": 5365,
+          "sha256": "469605f9e7c21df25dc634fbc79e7356463edaec8bc1c5149c293ec5262809e9"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-07",
+      "title": "July 2018",
+      "year": 2018,
+      "month": 7,
+      "pdf": "2018-07 - July 2018.pdf",
+      "json": "monthly-letter-2018-07.json",
+      "source_page": 143,
+      "assets": {
+        "pdf": {
+          "file": "2018-07 - July 2018.pdf",
+          "size_bytes": 124968,
+          "sha256": "af55b77230b3c8241644f710966599e392b02438ffbbed60902a64fa95c4c6f8"
+        },
+        "json": {
+          "file": "monthly-letter-2018-07.json",
+          "size_bytes": 6740,
+          "sha256": "68d5e3252671ac0d797c755f568901eea6575bfc829c8d7643db1da3199bcafc"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-08",
+      "title": "August 2018",
+      "year": 2018,
+      "month": 8,
+      "pdf": "2018-08 - August 2018.pdf",
+      "json": "monthly-letter-2018-08.json",
+      "source_page": 144,
+      "assets": {
+        "pdf": {
+          "file": "2018-08 - August 2018.pdf",
+          "size_bytes": 168318,
+          "sha256": "424030a0cd272b809623e92ef9e53fb30ef735c68287faf3eada532523bf9304"
+        },
+        "json": {
+          "file": "monthly-letter-2018-08.json",
+          "size_bytes": 5980,
+          "sha256": "0b34a6634c10c1bfdeca4f31d533dff7c792f071208ccb1be0ba0d634260edbb"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-09",
+      "title": "September 2018",
+      "year": 2018,
+      "month": 9,
+      "pdf": "2018-09 - September 2018.pdf",
+      "json": "monthly-letter-2018-09.json",
+      "source_page": 145,
+      "assets": {
+        "pdf": {
+          "file": "2018-09 - September 2018.pdf",
+          "size_bytes": 140264,
+          "sha256": "d007f611958976da7ac47920fb9790c30dcbcb3424268a2ee50a951cb6959ea9"
+        },
+        "json": {
+          "file": "monthly-letter-2018-09.json",
+          "size_bytes": 6561,
+          "sha256": "4d141ab3f66802c44d15f5c5c6e2526ac926c9659bd95b6c65a0f8c565f78fb7"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-10",
+      "title": "October 2018",
+      "year": 2018,
+      "month": 10,
+      "pdf": "2018-10 - October 2018.pdf",
+      "json": "monthly-letter-2018-10.json",
+      "source_page": 146,
+      "assets": {
+        "pdf": {
+          "file": "2018-10 - October 2018.pdf",
+          "size_bytes": 148331,
+          "sha256": "18216d580fd4dd6ba487bd38a395181b62db452fd38eaca76e78a02eb62ada29"
+        },
+        "json": {
+          "file": "monthly-letter-2018-10.json",
+          "size_bytes": 5575,
+          "sha256": "8b4118a24e4997f055083d3b213ea656130b4fba7de93395f24d224b52663a78"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-11",
+      "title": "November 2018",
+      "year": 2018,
+      "month": 11,
+      "pdf": "2018-11 - November 2018.pdf",
+      "json": "monthly-letter-2018-11.json",
+      "source_page": 147,
+      "assets": {
+        "pdf": {
+          "file": "2018-11 - November 2018.pdf",
+          "size_bytes": 135686,
+          "sha256": "c46c6241b699b7bd152776dd3ccda788af91e9aa147015660de1c78669464b97"
+        },
+        "json": {
+          "file": "monthly-letter-2018-11.json",
+          "size_bytes": 4940,
+          "sha256": "e5e1f963f3a3a42e4d64ae6fe3c5a162ca59ba3911cedceb00bc442ca54a38eb"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2018-12",
+      "title": "December 2018",
+      "year": 2018,
+      "month": 12,
+      "pdf": "2018-12 - December 2018.pdf",
+      "json": "monthly-letter-2018-12.json",
+      "source_page": 148,
+      "assets": {
+        "pdf": {
+          "file": "2018-12 - December 2018.pdf",
+          "size_bytes": 122067,
+          "sha256": "c3982b65619b3d17e43e573be004ed32e2c8b9ada71359a7e75adb66f592303c"
+        },
+        "json": {
+          "file": "monthly-letter-2018-12.json",
+          "size_bytes": 6165,
+          "sha256": "4359c78c725df0d4bf7319989659790bc0be9dd737fb033d2a2028aba12f7182"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-02",
+      "title": "February 2019",
+      "year": 2019,
+      "month": 2,
+      "pdf": "2019-02 - February 2019.pdf",
+      "json": "monthly-letter-2019-02.json",
+      "source_page": 149,
+      "assets": {
+        "pdf": {
+          "file": "2019-02 - February 2019.pdf",
+          "size_bytes": 120088,
+          "sha256": "664ebef0008480f421e705885e06ffb6b63c6dcff6103731c83a2f579bbe5953"
+        },
+        "json": {
+          "file": "monthly-letter-2019-02.json",
+          "size_bytes": 5334,
+          "sha256": "59ba3b99b09f45a012f5939bf981dc6614529e8722c84bbb323a9c7f4b3f039e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-01",
+      "title": "January 2019",
+      "year": 2019,
+      "month": 1,
+      "pdf": "2019-01 - January 2019.pdf",
+      "json": "monthly-letter-2019-01.json",
+      "source_page": 150,
+      "assets": {
+        "pdf": {
+          "file": "2019-01 - January 2019.pdf",
+          "size_bytes": 117583,
+          "sha256": "bab8edb61f9dcb96c0a575fbba47ebf8de0f627f97dcf4988f966aa2f710f5b6"
+        },
+        "json": {
+          "file": "monthly-letter-2019-01.json",
+          "size_bytes": 5819,
+          "sha256": "10c3ff1d5d1491327bd011cac7dc6764d8dcf574763da5a4e18838d6a59f8c67"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-03",
+      "title": "March 2019",
+      "year": 2019,
+      "month": 3,
+      "pdf": "2019-03 - March 2019.pdf",
+      "json": "monthly-letter-2019-03.json",
+      "source_page": 151,
+      "assets": {
+        "pdf": {
+          "file": "2019-03 - March 2019.pdf",
+          "size_bytes": 122590,
+          "sha256": "c5e5d28cdaeb91fbd4eb2264d493b4eed9793dbcbdb706172c837f73235f4cdd"
+        },
+        "json": {
+          "file": "monthly-letter-2019-03.json",
+          "size_bytes": 5932,
+          "sha256": "2fda29923bf00160850d59d63b6d24ecccc96538792a2ac4afb6fac63b19fde9"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-04",
+      "title": "April 2019",
+      "year": 2019,
+      "month": 4,
+      "pdf": "2019-04 - April 2019.pdf",
+      "json": "monthly-letter-2019-04.json",
+      "source_page": 152,
+      "assets": {
+        "pdf": {
+          "file": "2019-04 - April 2019.pdf",
+          "size_bytes": 118928,
+          "sha256": "4e7bb84e95b8bae1d7f6e07550c590acf9576820a04fc0185c102d4b0bbe7b06"
+        },
+        "json": {
+          "file": "monthly-letter-2019-04.json",
+          "size_bytes": 6557,
+          "sha256": "3ee0281a60c8d56880f6332ebf7a683c20fc062364f0481de89e3f24c135b430"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-05",
+      "title": "May 2019",
+      "year": 2019,
+      "month": 5,
+      "pdf": "2019-05 - May 2019.pdf",
+      "json": "monthly-letter-2019-05.json",
+      "source_page": 153,
+      "assets": {
+        "pdf": {
+          "file": "2019-05 - May 2019.pdf",
+          "size_bytes": 120524,
+          "sha256": "5687903fc6a6ccc0aa6fbe45a005027ed237487ce5ab35b2dd81f33d95f16b0a"
+        },
+        "json": {
+          "file": "monthly-letter-2019-05.json",
+          "size_bytes": 6262,
+          "sha256": "f557af116b4b7122ad56567f9b0b75577c4e2513b2cb485e4b7ba4449ae0e9f8"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-06",
+      "title": "June 2019",
+      "year": 2019,
+      "month": 6,
+      "pdf": "2019-06 - June 2019.pdf",
+      "json": "monthly-letter-2019-06.json",
+      "source_page": 154,
+      "assets": {
+        "pdf": {
+          "file": "2019-06 - June 2019.pdf",
+          "size_bytes": 120387,
+          "sha256": "e558669e97544930803f014a4fb3a837c06787a6ca06d94362e90e161770e092"
+        },
+        "json": {
+          "file": "monthly-letter-2019-06.json",
+          "size_bytes": 7782,
+          "sha256": "9e903a69d09da4d0248983fc0a6e6c66786e9401d6fb0ad0b46fed35effec9d1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-07",
+      "title": "July 2019",
+      "year": 2019,
+      "month": 7,
+      "pdf": "2019-07 - July 2019.pdf",
+      "json": "monthly-letter-2019-07.json",
+      "source_page": 155,
+      "assets": {
+        "pdf": {
+          "file": "2019-07 - July 2019.pdf",
+          "size_bytes": 118822,
+          "sha256": "1b0555626d79f66cbed7853cbabdbf288f1b5b71805179b55d610c6c8965aaa0"
+        },
+        "json": {
+          "file": "monthly-letter-2019-07.json",
+          "size_bytes": 6628,
+          "sha256": "884b54ea46383f9decb38c6a66c25e82fd54b4851409f381a1fa577e269a6dc2"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-08",
+      "title": "August 2019",
+      "year": 2019,
+      "month": 8,
+      "pdf": "2019-08 - August 2019.pdf",
+      "json": "monthly-letter-2019-08.json",
+      "source_page": 156,
+      "assets": {
+        "pdf": {
+          "file": "2019-08 - August 2019.pdf",
+          "size_bytes": 119823,
+          "sha256": "7f9f16bf49ba5370ec43f58cbbe960b56404e60526c64d3233abc4d6a48c4e10"
+        },
+        "json": {
+          "file": "monthly-letter-2019-08.json",
+          "size_bytes": 6133,
+          "sha256": "f877fe8a0a14b9edb7599c5b394842331a680035d080a7d0b68f8445a0b5197b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-09",
+      "title": "September 2019",
+      "year": 2019,
+      "month": 9,
+      "pdf": "2019-09 - September 2019.pdf",
+      "json": "monthly-letter-2019-09.json",
+      "source_page": 157,
+      "assets": {
+        "pdf": {
+          "file": "2019-09 - September 2019.pdf",
+          "size_bytes": 138634,
+          "sha256": "98b77b3f91558426bfc11bd661d1b2c241344fef3fb12a2c9b879a4772b86127"
+        },
+        "json": {
+          "file": "monthly-letter-2019-09.json",
+          "size_bytes": 6219,
+          "sha256": "0d0fc3f12600bbc53a50ae27c926cbd1b916f895d31e4a967320e4d0effafdbf"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-10",
+      "title": "October 2019",
+      "year": 2019,
+      "month": 10,
+      "pdf": "2019-10 - October 2019.pdf",
+      "json": "monthly-letter-2019-10.json",
+      "source_page": 158,
+      "assets": {
+        "pdf": {
+          "file": "2019-10 - October 2019.pdf",
+          "size_bytes": 140054,
+          "sha256": "4a7a56de53f81ca28060a1456286974d84ad47096ea8bf6ff6fb99b82f5bdce9"
+        },
+        "json": {
+          "file": "monthly-letter-2019-10.json",
+          "size_bytes": 6922,
+          "sha256": "43f09f84c2001e2782808c4a15e6b3da1e430a6c4882d96bbdded22a94959a3e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-12",
+      "title": "December 2019",
+      "year": 2019,
+      "month": 12,
+      "pdf": "2019-12 - December 2019.pdf",
+      "json": "monthly-letter-2019-12.json",
+      "source_page": 159,
+      "assets": {
+        "pdf": {
+          "file": "2019-12 - December 2019.pdf",
+          "size_bytes": 122039,
+          "sha256": "34dd993e24baa95b9947fbc9f0d14fca88547d012a054226e1e0e9599c84c99d"
+        },
+        "json": {
+          "file": "monthly-letter-2019-12.json",
+          "size_bytes": 6702,
+          "sha256": "6520f5c284b0d4899d3bcdff4a03725be090589f4dae58019c39dfcad517cd94"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2019-11",
+      "title": "November 2019",
+      "year": 2019,
+      "month": 11,
+      "pdf": "2019-11 - November 2019.pdf",
+      "json": "monthly-letter-2019-11.json",
+      "source_page": 160,
+      "assets": {
+        "pdf": {
+          "file": "2019-11 - November 2019.pdf",
+          "size_bytes": 140139,
+          "sha256": "4337343709d3dbf4107ae20e0a09e5c029bd54eb5f4919c5c31ad9ee93e64331"
+        },
+        "json": {
+          "file": "monthly-letter-2019-11.json",
+          "size_bytes": 6864,
+          "sha256": "b6ac14dde7e6722b42712ad52e99c2f917c9bcef63f210b5b6d7515726a548dd"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-01",
+      "title": "January 2020",
+      "year": 2020,
+      "month": 1,
+      "pdf": "2020-01 - January 2020.pdf",
+      "json": "monthly-letter-2020-01.json",
+      "source_page": 161,
+      "assets": {
+        "pdf": {
+          "file": "2020-01 - January 2020.pdf",
+          "size_bytes": 1858768,
+          "sha256": "62266884b736c9a90ffd3399f646848e53ca704beaa27e11f374e4eb8ee3f5f3"
+        },
+        "json": {
+          "file": "monthly-letter-2020-01.json",
+          "size_bytes": 1028,
+          "sha256": "39c3bdd70ffc80f2b8d26626775e9e92000418b308e0162a95298ac7556b4861"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-02",
+      "title": "February 2020",
+      "year": 2020,
+      "month": 2,
+      "pdf": "2020-02 - February 2020.pdf",
+      "json": "monthly-letter-2020-02.json",
+      "source_page": 162,
+      "assets": {
+        "pdf": {
+          "file": "2020-02 - February 2020.pdf",
+          "size_bytes": 137842,
+          "sha256": "4d27897402a94ed95c1a488bdb75a15245b532543a839d5e5f0f362236cee571"
+        },
+        "json": {
+          "file": "monthly-letter-2020-02.json",
+          "size_bytes": 8144,
+          "sha256": "75f16fbfb4c298a5f986d4eeede4e41b1b8924bd4804a0877cf386b27856bd98"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-03",
+      "title": "March 2020",
+      "year": 2020,
+      "month": 3,
+      "pdf": "2020-03 - March 2020.pdf",
+      "json": "monthly-letter-2020-03.json",
+      "source_page": 163,
+      "assets": {
+        "pdf": {
+          "file": "2020-03 - March 2020.pdf",
+          "size_bytes": 127037,
+          "sha256": "4b48453f030a4f9187aa6c7df5a6495c945e896ac1376419f2ace3c805d85cef"
+        },
+        "json": {
+          "file": "monthly-letter-2020-03.json",
+          "size_bytes": 8118,
+          "sha256": "76d8fb0f6e768aa83c0dddc250545f6f8c43f8de3dc64bfae5d0d974fc311dc1"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-05",
+      "title": "May 2020",
+      "year": 2020,
+      "month": 5,
+      "pdf": "2020-05 - May 2020.pdf",
+      "json": "monthly-letter-2020-05.json",
+      "source_page": 164,
+      "assets": {
+        "pdf": {
+          "file": "2020-05 - May 2020.pdf",
+          "size_bytes": 115958,
+          "sha256": "facbb873b9163b74c73f7bb6710b86956a0f3db260c520228673caa9942ecc5d"
+        },
+        "json": {
+          "file": "monthly-letter-2020-05.json",
+          "size_bytes": 5367,
+          "sha256": "b7f13c0b463872400763c24391ad963297a7142a78ebe765129df82411f465a7"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-06",
+      "title": "June 2020",
+      "year": 2020,
+      "month": 6,
+      "pdf": "2020-06 - June 2020.pdf",
+      "json": "monthly-letter-2020-06.json",
+      "source_page": 165,
+      "assets": {
+        "pdf": {
+          "file": "2020-06 - June 2020.pdf",
+          "size_bytes": 115786,
+          "sha256": "7bfb767887d6519db493055265ba29531d74a7c763170d4c3b19fa628e095f81"
+        },
+        "json": {
+          "file": "monthly-letter-2020-06.json",
+          "size_bytes": 5704,
+          "sha256": "7960d800962feafa9998c71417bfa26cf7c9273bfa059a3eb7a7f3d1b4ff1b48"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-07",
+      "title": "July 2020",
+      "year": 2020,
+      "month": 7,
+      "pdf": "2020-07 - July 2020.pdf",
+      "json": "monthly-letter-2020-07.json",
+      "source_page": 166,
+      "assets": {
+        "pdf": {
+          "file": "2020-07 - July 2020.pdf",
+          "size_bytes": 117393,
+          "sha256": "b01b6fd30744d5df5d8650a0b32b3ad800eeae48d8f86c435bd4086eca69e784"
+        },
+        "json": {
+          "file": "monthly-letter-2020-07.json",
+          "size_bytes": 5953,
+          "sha256": "04bf8d81112c6c1575142f03c5cd88403c400b599f7b542eac8739cd5e3dec70"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-08",
+      "title": "August 2020",
+      "year": 2020,
+      "month": 8,
+      "pdf": "2020-08 - August 2020.pdf",
+      "json": "monthly-letter-2020-08.json",
+      "source_page": 167,
+      "assets": {
+        "pdf": {
+          "file": "2020-08 - August 2020.pdf",
+          "size_bytes": 119211,
+          "sha256": "c56c836a7c15170fa8378b8af90657cc6fe4ffc9cbb723e38642acef38614d55"
+        },
+        "json": {
+          "file": "monthly-letter-2020-08.json",
+          "size_bytes": 6205,
+          "sha256": "a5cb24662457c4e3676e5a6820ab252baca88e713a61b021a9874671b095bd7d"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-09",
+      "title": "September 2020",
+      "year": 2020,
+      "month": 9,
+      "pdf": "2020-09 - September 2020.pdf",
+      "json": "monthly-letter-2020-09.json",
+      "source_page": 168,
+      "assets": {
+        "pdf": {
+          "file": "2020-09 - September 2020.pdf",
+          "size_bytes": 138466,
+          "sha256": "b2ac859d71ce7d9e4aece864a744475369de5555069bf13068ddfaafcb793914"
+        },
+        "json": {
+          "file": "monthly-letter-2020-09.json",
+          "size_bytes": 5986,
+          "sha256": "0fcede34f0f20eab0bdffd33d2804570eefb69c140f8e3cd2e2ae99761361160"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-10",
+      "title": "October 2020",
+      "year": 2020,
+      "month": 10,
+      "pdf": "2020-10 - October 2020.pdf",
+      "json": "monthly-letter-2020-10.json",
+      "source_page": 169,
+      "assets": {
+        "pdf": {
+          "file": "2020-10 - October 2020.pdf",
+          "size_bytes": 130854,
+          "sha256": "4eb8e7b8b06aa087e5e263014295a8d38076ef4b2ec4ffe685d8873c26ca5c32"
+        },
+        "json": {
+          "file": "monthly-letter-2020-10.json",
+          "size_bytes": 6163,
+          "sha256": "3bafc897b63ee19fd502e8eb9e114910167307580b6872d03c9473b93adf19fd"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-11",
+      "title": "November 2020",
+      "year": 2020,
+      "month": 11,
+      "pdf": "2020-11 - November 2020.pdf",
+      "json": "monthly-letter-2020-11.json",
+      "source_page": 170,
+      "assets": {
+        "pdf": {
+          "file": "2020-11 - November 2020.pdf",
+          "size_bytes": 136337,
+          "sha256": "5dd3caf1053baae060acc4f8afc2361137f0a2edf6c2df6a8ddcdbbb98191ebc"
+        },
+        "json": {
+          "file": "monthly-letter-2020-11.json",
+          "size_bytes": 6546,
+          "sha256": "7efb4a79cafa3600bc44423923474c249685ca7c912a82fe6fc777c91a58ddfd"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-01",
+      "title": "January 2021",
+      "year": 2021,
+      "month": 1,
+      "pdf": "2021-01 - January 2021.pdf",
+      "json": "monthly-letter-2021-01.json",
+      "source_page": 171,
+      "assets": {
+        "pdf": {
+          "file": "2021-01 - January 2021.pdf",
+          "size_bytes": 118203,
+          "sha256": "ed57470641bbf04ffeb16ee84572c5f05a0a3244a060705bf51f4ed7b8530810"
+        },
+        "json": {
+          "file": "monthly-letter-2021-01.json",
+          "size_bytes": 6435,
+          "sha256": "e5bfe5226dd8037cac175a5d942a31c2c47bf73e79c8987d9739a1b787eb03ca"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2020-12",
+      "title": "December 2020",
+      "year": 2020,
+      "month": 12,
+      "pdf": "2020-12 - December 2020.pdf",
+      "json": "monthly-letter-2020-12.json",
+      "source_page": 172,
+      "assets": {
+        "pdf": {
+          "file": "2020-12 - December 2020.pdf",
+          "size_bytes": 130973,
+          "sha256": "7f1cad7ade10f0a35e14d894ca4d0a86fb15af5e0fd9a549dcef3629efdbb3d9"
+        },
+        "json": {
+          "file": "monthly-letter-2020-12.json",
+          "size_bytes": 7885,
+          "sha256": "371cbc9b5ebf4a5be0a613d519f6b839025d5c146d71d5a37172fe07aa8c2b9b"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-02",
+      "title": "February 2021",
+      "year": 2021,
+      "month": 2,
+      "pdf": "2021-02 - February 2021.pdf",
+      "json": "monthly-letter-2021-02.json",
+      "source_page": 173,
+      "assets": {
+        "pdf": {
+          "file": "2021-02 - February 2021.pdf",
+          "size_bytes": 116681,
+          "sha256": "85f26cdf8e988ab3a3df8c54c3612a13d5ec466a9f670d2fcec2341620e2e71b"
+        },
+        "json": {
+          "file": "monthly-letter-2021-02.json",
+          "size_bytes": 5617,
+          "sha256": "c57273a243af905f349b781fc6995d486152376665c1749df6799fd062423dc4"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-03",
+      "title": "March 2021",
+      "year": 2021,
+      "month": 3,
+      "pdf": "2021-03 - March 2021.pdf",
+      "json": "monthly-letter-2021-03.json",
+      "source_page": 174,
+      "assets": {
+        "pdf": {
+          "file": "2021-03 - March 2021.pdf",
+          "size_bytes": 119787,
+          "sha256": "b0c3eb00b4fb01c87aac8f3dfc36612291be2d49961a97ffb0f5f4a67b1181f2"
+        },
+        "json": {
+          "file": "monthly-letter-2021-03.json",
+          "size_bytes": 5215,
+          "sha256": "b56a53f72300b0152673d12e916ed3346ae1e3114248caf285a8038801b8b2e9"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-04",
+      "title": "April 2021",
+      "year": 2021,
+      "month": 4,
+      "pdf": "2021-04 - April 2021.pdf",
+      "json": "monthly-letter-2021-04.json",
+      "source_page": 175,
+      "assets": {
+        "pdf": {
+          "file": "2021-04 - April 2021.pdf",
+          "size_bytes": 121212,
+          "sha256": "670bea7fddc39e9f2dcf6d9a0878a59c94e976b4527bc1e7511dd65033dc016d"
+        },
+        "json": {
+          "file": "monthly-letter-2021-04.json",
+          "size_bytes": 7447,
+          "sha256": "46a036f17ec8ffe93f14239159bb457adf2f74b17ad06bbdeb647813498f4ac9"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-05",
+      "title": "May 2021",
+      "year": 2021,
+      "month": 5,
+      "pdf": "2021-05 - May 2021.pdf",
+      "json": "monthly-letter-2021-05.json",
+      "source_page": 176,
+      "assets": {
+        "pdf": {
+          "file": "2021-05 - May 2021.pdf",
+          "size_bytes": 134892,
+          "sha256": "db5960a410f02d35fb1f660b57afa2add8beb9f799c65c0ab55ca510597a92f2"
+        },
+        "json": {
+          "file": "monthly-letter-2021-05.json",
+          "size_bytes": 5694,
+          "sha256": "23137f941cff487619fa6fb9799ad19583cd4d3862ba33d7eb407a03f555d3ce"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-06",
+      "title": "June 2021",
+      "year": 2021,
+      "month": 6,
+      "pdf": "2021-06 - June 2021.pdf",
+      "json": "monthly-letter-2021-06.json",
+      "source_page": 177,
+      "assets": {
+        "pdf": {
+          "file": "2021-06 - June 2021.pdf",
+          "size_bytes": 114529,
+          "sha256": "f480a634d9f875b7c2e59cd999e919894e8822a58d851ca4fe67ac460f064e6d"
+        },
+        "json": {
+          "file": "monthly-letter-2021-06.json",
+          "size_bytes": 5901,
+          "sha256": "cef7ad8eff22163cdb92249327816e280ed5fa13f5850cf6621018387ae585f4"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-07",
+      "title": "July 2021",
+      "year": 2021,
+      "month": 7,
+      "pdf": "2021-07 - July 2021.pdf",
+      "json": "monthly-letter-2021-07.json",
+      "source_page": 178,
+      "assets": {
+        "pdf": {
+          "file": "2021-07 - July 2021.pdf",
+          "size_bytes": 117869,
+          "sha256": "222575de9bd9cc974ae2dbcb919e0535784ba5eeba7a7050622e1fbc03c973f5"
+        },
+        "json": {
+          "file": "monthly-letter-2021-07.json",
+          "size_bytes": 5776,
+          "sha256": "f28f7a3583a4d9724618a0d95f645ae6b7235cdad2c3ad94d3282ff6437a6487"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-08",
+      "title": "August 2021",
+      "year": 2021,
+      "month": 8,
+      "pdf": "2021-08 - August 2021.pdf",
+      "json": "monthly-letter-2021-08.json",
+      "source_page": 179,
+      "assets": {
+        "pdf": {
+          "file": "2021-08 - August 2021.pdf",
+          "size_bytes": 118381,
+          "sha256": "eeff9fb62404d62664628f635d4674656c38b5ad709a17db4f87486e63ee876d"
+        },
+        "json": {
+          "file": "monthly-letter-2021-08.json",
+          "size_bytes": 7044,
+          "sha256": "fac0f306a23466f15771330b10818db8d232a39e4443c0618da6493f264487c2"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-09",
+      "title": "September 2021",
+      "year": 2021,
+      "month": 9,
+      "pdf": "2021-09 - September 2021.pdf",
+      "json": "monthly-letter-2021-09.json",
+      "source_page": 180,
+      "assets": {
+        "pdf": {
+          "file": "2021-09 - September 2021.pdf",
+          "size_bytes": 149833,
+          "sha256": "40c4282b612fd8d478de955d16b0bbbbdd7c72032d4a44cea72f96669aba7047"
+        },
+        "json": {
+          "file": "monthly-letter-2021-09.json",
+          "size_bytes": 5425,
+          "sha256": "5d43ebf210cbaf39dd6f006758f71b56c6c20fbefa759bb8f04a36316a54218a"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-10",
+      "title": "October 2021",
+      "year": 2021,
+      "month": 10,
+      "pdf": "2021-10 - October 2021.pdf",
+      "json": "monthly-letter-2021-10.json",
+      "source_page": 181,
+      "assets": {
+        "pdf": {
+          "file": "2021-10 - October 2021.pdf",
+          "size_bytes": 131553,
+          "sha256": "781321b9371736c7a05a7f599f213827f6e21f04acfb8fe47005e06094b1cb62"
+        },
+        "json": {
+          "file": "monthly-letter-2021-10.json",
+          "size_bytes": 6409,
+          "sha256": "00b6386c90286c670f1bacf5472a68c0195f2b2ae5c275d896aa6b2a3b918abc"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-11",
+      "title": "November 2021",
+      "year": 2021,
+      "month": 11,
+      "pdf": "2021-11 - November 2021.pdf",
+      "json": "monthly-letter-2021-11.json",
+      "source_page": 182,
+      "assets": {
+        "pdf": {
+          "file": "2021-11 - November 2021.pdf",
+          "size_bytes": 139021,
+          "sha256": "7549e48b2191a7dc0ff85b42758ab294d1dc1310763c5beff4513cdee50ae843"
+        },
+        "json": {
+          "file": "monthly-letter-2021-11.json",
+          "size_bytes": 5980,
+          "sha256": "51982af23a94df4467280948df8e0d696660b7fb2a9dfa7bbe25910a9c2f2521"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2021-12",
+      "title": "December 2021",
+      "year": 2021,
+      "month": 12,
+      "pdf": "2021-12 - December 2021.pdf",
+      "json": "monthly-letter-2021-12.json",
+      "source_page": 183,
+      "assets": {
+        "pdf": {
+          "file": "2021-12 - December 2021.pdf",
+          "size_bytes": 135475,
+          "sha256": "36b8490bd7d2a7284b5786d1fa4396b9b34d47b0dcb29f07c01f344f94f5e8d8"
+        },
+        "json": {
+          "file": "monthly-letter-2021-12.json",
+          "size_bytes": 7292,
+          "sha256": "cf062b8dc09e1a7dc0211e63e2d404d3d69e52a04afa3f2e7fade11689136460"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-01",
+      "title": "January 2022",
+      "year": 2022,
+      "month": 1,
+      "pdf": "2022-01 - January 2022.pdf",
+      "json": "monthly-letter-2022-01.json",
+      "source_page": 184,
+      "assets": {
+        "pdf": {
+          "file": "2022-01 - January 2022.pdf",
+          "size_bytes": 146594,
+          "sha256": "42ef54d1289cabca092723d48a612f97aa67c0a2a454484d63366ceba24342c0"
+        },
+        "json": {
+          "file": "monthly-letter-2022-01.json",
+          "size_bytes": 6484,
+          "sha256": "8277a8b4471f6fdfb8bf7d1bd71e2e2641fc0b7ec99484c8c58d5a8c8b687a7f"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-02",
+      "title": "February 2022",
+      "year": 2022,
+      "month": 2,
+      "pdf": "2022-02 - February 2022.pdf",
+      "json": "monthly-letter-2022-02.json",
+      "source_page": 185,
+      "assets": {
+        "pdf": {
+          "file": "2022-02 - February 2022.pdf",
+          "size_bytes": 124243,
+          "sha256": "8e879801f0f8c733f2c7ca786419057c17f04a0b3230480cb1eb82b209a28e3e"
+        },
+        "json": {
+          "file": "monthly-letter-2022-02.json",
+          "size_bytes": 5517,
+          "sha256": "729893f2cc0e100ce5d0bd749227940a8b2d5d2b8a27d426d059430ab5a4a990"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-03",
+      "title": "March 2022",
+      "year": 2022,
+      "month": 3,
+      "pdf": "2022-03 - March 2022.pdf",
+      "json": "monthly-letter-2022-03.json",
+      "source_page": 186,
+      "assets": {
+        "pdf": {
+          "file": "2022-03 - March 2022.pdf",
+          "size_bytes": 150427,
+          "sha256": "616356e123259c72ef901cbdd0f18abfc2f4f7f405916d931e3b31d97bd95bc7"
+        },
+        "json": {
+          "file": "monthly-letter-2022-03.json",
+          "size_bytes": 6657,
+          "sha256": "81abcd84903ce3556959da42d3221d585bb9d108daa3c207bd5a528b6f0f1f0f"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-04",
+      "title": "April 2022",
+      "year": 2022,
+      "month": 4,
+      "pdf": "2022-04 - April 2022.pdf",
+      "json": "monthly-letter-2022-04.json",
+      "source_page": 187,
+      "assets": {
+        "pdf": {
+          "file": "2022-04 - April 2022.pdf",
+          "size_bytes": 133152,
+          "sha256": "df58acba5fd6042ce7f6eefb6e6dffb0078b0e10742e58272cb4faffb26ee37c"
+        },
+        "json": {
+          "file": "monthly-letter-2022-04.json",
+          "size_bytes": 6347,
+          "sha256": "f4fe14a407cf776738e9c7e13890e0fa4e18be2a38b2adf0c1d26b5993ca3a04"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-05",
+      "title": "May 2022",
+      "year": 2022,
+      "month": 5,
+      "pdf": "2022-05 - May 2022.pdf",
+      "json": "monthly-letter-2022-05.json",
+      "source_page": 188,
+      "assets": {
+        "pdf": {
+          "file": "2022-05 - May 2022.pdf",
+          "size_bytes": 147280,
+          "sha256": "9b348a042f58bfe2513a0295c0434af8354752e3a8ea8af1f5b1f580bc633e30"
+        },
+        "json": {
+          "file": "monthly-letter-2022-05.json",
+          "size_bytes": 6280,
+          "sha256": "feadef1c60c0e6efab5c70318f853d8433edba76804281f1fa9e9e3d02f227bf"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-06",
+      "title": "June 2022",
+      "year": 2022,
+      "month": 6,
+      "pdf": "2022-06 - June 2022.pdf",
+      "json": "monthly-letter-2022-06.json",
+      "source_page": 189,
+      "assets": {
+        "pdf": {
+          "file": "2022-06 - June 2022.pdf",
+          "size_bytes": 145414,
+          "sha256": "86010eaf205efbf0576f7ea7e7c45be8d1bab103affdcac190227f65bbdb1944"
+        },
+        "json": {
+          "file": "monthly-letter-2022-06.json",
+          "size_bytes": 6914,
+          "sha256": "83d1e392fc2d70357b50ce5b6427b434bcca20f6141840f465916ffe9553ae46"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-07",
+      "title": "July 2022",
+      "year": 2022,
+      "month": 7,
+      "pdf": "2022-07 - July 2022.pdf",
+      "json": "monthly-letter-2022-07.json",
+      "source_page": 190,
+      "assets": {
+        "pdf": {
+          "file": "2022-07 - July 2022.pdf",
+          "size_bytes": 130589,
+          "sha256": "b7c9562e942097992b7bcc16b526dec903267f0fd6268bf3045424d76ddf3eb5"
+        },
+        "json": {
+          "file": "monthly-letter-2022-07.json",
+          "size_bytes": 7528,
+          "sha256": "a855c6694cdc96aebc206214dd9200b8c60234ed7f838a5147d38961171d4d38"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-08",
+      "title": "August 2022",
+      "year": 2022,
+      "month": 8,
+      "pdf": "2022-08 - August 2022.pdf",
+      "json": "monthly-letter-2022-08.json",
+      "source_page": 191,
+      "assets": {
+        "pdf": {
+          "file": "2022-08 - August 2022.pdf",
+          "size_bytes": 129545,
+          "sha256": "e8ddea27ec199ca7e8176644fc3d9dbcf9cf5d7501a13990bf299fad9c02b2ee"
+        },
+        "json": {
+          "file": "monthly-letter-2022-08.json",
+          "size_bytes": 7135,
+          "sha256": "d0c244916dbec0b339f9826a334eac5e3d82f93bac7ab03b582712332d4144fc"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-09",
+      "title": "September 2022",
+      "year": 2022,
+      "month": 9,
+      "pdf": "2022-09 - September 2022.pdf",
+      "json": "monthly-letter-2022-09.json",
+      "source_page": 192,
+      "assets": {
+        "pdf": {
+          "file": "2022-09 - September 2022.pdf",
+          "size_bytes": 150713,
+          "sha256": "ff789b318579dfa3e08f4abc00ba5e124d365fe29d44b5a9cab1b7cf18bb36c1"
+        },
+        "json": {
+          "file": "monthly-letter-2022-09.json",
+          "size_bytes": 7127,
+          "sha256": "503508e73b402149ae0c6e20690b0513c7187d6796afa8c16a10521d06625a94"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-10",
+      "title": "October 2022",
+      "year": 2022,
+      "month": 10,
+      "pdf": "2022-10 - October 2022.pdf",
+      "json": "monthly-letter-2022-10.json",
+      "source_page": 193,
+      "assets": {
+        "pdf": {
+          "file": "2022-10 - October 2022.pdf",
+          "size_bytes": 150557,
+          "sha256": "90819332a49e418a2421f3cb796eab6b37e9f96d54bdd05de92999b71da3ef6a"
+        },
+        "json": {
+          "file": "monthly-letter-2022-10.json",
+          "size_bytes": 6168,
+          "sha256": "21f282968d2d26bb710a5fb2bf0125560100a424e3046b0ab855db622ac55ab9"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-11",
+      "title": "November 2022",
+      "year": 2022,
+      "month": 11,
+      "pdf": "2022-11 - November 2022.pdf",
+      "json": "monthly-letter-2022-11.json",
+      "source_page": 194,
+      "assets": {
+        "pdf": {
+          "file": "2022-11 - November 2022.pdf",
+          "size_bytes": 129074,
+          "sha256": "7291c241452edffd9791da45b9ab10454f22a20bec800d410a5af63f1b733128"
+        },
+        "json": {
+          "file": "monthly-letter-2022-11.json",
+          "size_bytes": 5499,
+          "sha256": "b4a7215074fbf5abb2b6c18c429a51dbfd9990fb606c91a345251f3c5ffb88d4"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2022-12",
+      "title": "December 2022",
+      "year": 2022,
+      "month": 12,
+      "pdf": "2022-12 - December 2022.pdf",
+      "json": "monthly-letter-2022-12.json",
+      "source_page": 195,
+      "assets": {
+        "pdf": {
+          "file": "2022-12 - December 2022.pdf",
+          "size_bytes": 148656,
+          "sha256": "c3b4e740dba14413925811e30651dddec3ff28a589289e50e1568d4a6958a37d"
+        },
+        "json": {
+          "file": "monthly-letter-2022-12.json",
+          "size_bytes": 5938,
+          "sha256": "aef3f57e19daeb06379f5831f29729cf08d4b567586f502d34084b884c52d01e"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2023-01",
+      "title": "January 2023",
+      "year": 2023,
+      "month": 1,
+      "pdf": "2023-01 - January 2023.pdf",
+      "json": "monthly-letter-2023-01.json",
+      "source_page": 196,
+      "assets": {
+        "pdf": {
+          "file": "2023-01 - January 2023.pdf",
+          "size_bytes": 145376,
+          "sha256": "cf11bd589ee768e12f24b7d292c5a0f2a5f30f8d74302c51ce34e26be3f31d6a"
+        },
+        "json": {
+          "file": "monthly-letter-2023-01.json",
+          "size_bytes": 6888,
+          "sha256": "64cd0ada676e18ee712dfec8cbd5921b47e4564f019bc437470ff64fcf43619c"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2023-02",
+      "title": "February 2023",
+      "year": 2023,
+      "month": 2,
+      "pdf": "2023-02 - February 2023.pdf",
+      "json": "monthly-letter-2023-02.json",
+      "source_page": 197,
+      "assets": {
+        "pdf": {
+          "file": "2023-02 - February 2023.pdf",
+          "size_bytes": 134763,
+          "sha256": "6338332302999245750107ab73d7f36662a75ba70b1e60c817464540ac1f0d3a"
+        },
+        "json": {
+          "file": "monthly-letter-2023-02.json",
+          "size_bytes": 7660,
+          "sha256": "11e93ade73d17c8059c2a895c422af8ff36e953534d5bc4bc0e28ed9eb64c081"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2023-03",
+      "title": "March 2023",
+      "year": 2023,
+      "month": 3,
+      "pdf": "2023-03 - March 2023.pdf",
+      "json": "monthly-letter-2023-03.json",
+      "source_page": 198,
+      "assets": {
+        "pdf": {
+          "file": "2023-03 - March 2023.pdf",
+          "size_bytes": 121797,
+          "sha256": "a377d27fedcf63df4af9a551734a23b6f4a862fb04dfcaa93ccfe2c21208091d"
+        },
+        "json": {
+          "file": "monthly-letter-2023-03.json",
+          "size_bytes": 7003,
+          "sha256": "0a140396b8476b3bf0a2f2740e14b95eecec80b67bf33dfa5d959efe02cfa492"
+        }
+      }
+    },
+    {
+      "id": "monthly-letter-2023-04",
+      "title": "April 2023",
+      "year": 2023,
+      "month": 4,
+      "pdf": "2023-04 - April 2023.pdf",
+      "json": "monthly-letter-2023-04.json",
+      "source_page": 199,
+      "assets": {
+        "pdf": {
+          "file": "2023-04 - April 2023.pdf",
+          "size_bytes": 145264,
+          "sha256": "d8e87bee02f72c3e26670861a3b78714fd720aa7840592b93bbc8b8312d7b24b"
+        },
+        "json": {
+          "file": "monthly-letter-2023-04.json",
+          "size_bytes": 6695,
+          "sha256": "7a57d805b0fbd1213857f47570b612850dcafe68a425ccec8987efb69de820b2"
+        }
+      }
+    }
+  ]
 }

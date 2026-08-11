@@ -1,12 +1,2968 @@
 {
-  "schemaVersion": 1,
   "id": "special-writings",
   "name": "Special Writings",
-  "documentCount": 141,
-  "contentPattern": "content/special-writings/special-writing-*.json",
-  "fileNaming": "NNN - Title.pdf",
-  "numberingRule": "Use the actual source number where verified; never invent a replacement number.",
-  "warnings": [
-    "Source page 1 (FIRE AND ICE!) has no explicit Special Writing page-code number visible/extracted; source-order 001 is retained and flagged unverified."
+  "document_count": 141,
+  "documents": [
+    {
+      "id": "special-writing-001",
+      "number": 1,
+      "title": "FIRE AND ICE!",
+      "year": 2005,
+      "pdf": "001 - FIRE AND ICE!.pdf",
+      "json": "special-writing-001.json",
+      "number_verified_from_page_code": false,
+      "assets": {
+        "pdf": {
+          "file": "001 - FIRE AND ICE!.pdf",
+          "size_bytes": 115697,
+          "sha256": "65cf04ac3b12ba02f6d9cfbd2004af36f3bbbaa20777af9e9ab1ef836a1c2eee"
+        },
+        "json": {
+          "file": "special-writing-001.json",
+          "size_bytes": 3297,
+          "sha256": "7453a59bd7995b9f33e4c40e2521225dc4bfa82598116e47b6c5f28aea24914b"
+        }
+      }
+    },
+    {
+      "id": "special-writing-002",
+      "number": 2,
+      "title": "HEALING FOR ALL!",
+      "year": 2006,
+      "pdf": "002 - HEALING FOR ALL!.pdf",
+      "json": "special-writing-002.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "002 - HEALING FOR ALL!.pdf",
+          "size_bytes": 93529,
+          "sha256": "dcd43365a6f9d5399390ee26ee9df91c43ddeee36abb489d9140e052638c1384"
+        },
+        "json": {
+          "file": "special-writing-002.json",
+          "size_bytes": 8270,
+          "sha256": "b75b46e34a56fd248b8301e1e2aeaebe94dd7575e840fd93fce1ae517e780c0d"
+        }
+      }
+    },
+    {
+      "id": "special-writing-003",
+      "number": 3,
+      "title": "SALVATION FOR ALL",
+      "year": 2006,
+      "pdf": "003 - SALVATION FOR ALL.pdf",
+      "json": "special-writing-003.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "003 - SALVATION FOR ALL.pdf",
+          "size_bytes": 93495,
+          "sha256": "ed521a64e50a78fa3ab52a72f59dfe99e4965d4035cff62a61ac73816e7775bd"
+        },
+        "json": {
+          "file": "special-writing-003.json",
+          "size_bytes": 7633,
+          "sha256": "a44a9cf4a1a0efb219b6f321098ce25f8916f33f6f746b7e537d820636cc5619"
+        }
+      }
+    },
+    {
+      "id": "special-writing-004",
+      "number": 4,
+      "title": "THE HOLY SPIRIT",
+      "year": 2007,
+      "pdf": "004 - THE HOLY SPIRIT.pdf",
+      "json": "special-writing-004.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "004 - THE HOLY SPIRIT.pdf",
+          "size_bytes": 91918,
+          "sha256": "49d6497c0393663d0b5ee562f2a0756adfe73a01b181952300701702600a45d5"
+        },
+        "json": {
+          "file": "special-writing-004.json",
+          "size_bytes": 7187,
+          "sha256": "3dfd357dc0daad73261f85b6fead6a71d3bd515e67a71089500a38d93a94bfe2"
+        }
+      }
+    },
+    {
+      "id": "special-writing-005",
+      "number": 5,
+      "title": "DIVINE HEALTH",
+      "year": 2007,
+      "pdf": "005 - DIVINE HEALTH.pdf",
+      "json": "special-writing-005.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "005 - DIVINE HEALTH.pdf",
+          "size_bytes": 104328,
+          "sha256": "64b46198e28fa0daf1f47c99304f7bde3bf95e62bcbf0270fdcb31be0e8425d7"
+        },
+        "json": {
+          "file": "special-writing-005.json",
+          "size_bytes": 7471,
+          "sha256": "d5cff3c72e23c9ba21740aa9a3537eba2a97fbb819ef7796b8162173bcda3503"
+        }
+      }
+    },
+    {
+      "id": "special-writing-006",
+      "number": 6,
+      "title": "GOD'S DIVINE PROMISES",
+      "year": 2007,
+      "pdf": "006 - GOD'S DIVINE PROMISES.pdf",
+      "json": "special-writing-006.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "006 - GOD'S DIVINE PROMISES.pdf",
+          "size_bytes": 109532,
+          "sha256": "954c6f16a266f5ff3d28614af3e2cb65cd2975027984b8f738d35bb2b191f5f5"
+        },
+        "json": {
+          "file": "special-writing-006.json",
+          "size_bytes": 6257,
+          "sha256": "e9289b97fa2e9696af5ab1e100e35f1640666e09b9eef3c0f3e6fbf20c51a65c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-007",
+      "number": 7,
+      "title": "THE PROPHECIES OF JESUS",
+      "year": 2007,
+      "pdf": "007 - THE PROPHECIES OF JESUS.pdf",
+      "json": "special-writing-007.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "007 - THE PROPHECIES OF JESUS.pdf",
+          "size_bytes": 90633,
+          "sha256": "3654cbb40bc38ba6c625969feec677cdda11ae6cc8e70210bab132893066e268"
+        },
+        "json": {
+          "file": "special-writing-007.json",
+          "size_bytes": 7156,
+          "sha256": "c0b7ddfa48c55ce6b4d43419fcec3f7920d20b7bb37c0ec1a0798b3cec0d0774"
+        }
+      }
+    },
+    {
+      "id": "special-writing-008",
+      "number": 8,
+      "title": "THE VITAL NEED FOR PRAYER - PART 1",
+      "year": 2007,
+      "pdf": "008 - THE VITAL NEED FOR PRAYER - PART 1.pdf",
+      "json": "special-writing-008.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "008 - THE VITAL NEED FOR PRAYER - PART 1.pdf",
+          "size_bytes": 120001,
+          "sha256": "08aa10ce655bfc4684390ca68fa68927ee5025f7eef9e80eeb0c194a41fd5e64"
+        },
+        "json": {
+          "file": "special-writing-008.json",
+          "size_bytes": 4913,
+          "sha256": "80ac81ad25ae35f26a0f164d7c93bec5a94efcc313baf2cd4ee2cbf115ca602f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-009",
+      "number": 9,
+      "title": "THE VITAL NEED FOR PRAYER - PART 2",
+      "year": 2007,
+      "pdf": "009 - THE VITAL NEED FOR PRAYER - PART 2.pdf",
+      "json": "special-writing-009.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "009 - THE VITAL NEED FOR PRAYER - PART 2.pdf",
+          "size_bytes": 194649,
+          "sha256": "b269c98b1cca0df4e8de76db00e2c6ce84f04e2d6fd2e5292189d3f021534692"
+        },
+        "json": {
+          "file": "special-writing-009.json",
+          "size_bytes": 4331,
+          "sha256": "785d8ce9bdd419a79e13d41676d23e45e47618a4cef6e4856a5163f1dbdff89e"
+        }
+      }
+    },
+    {
+      "id": "special-writing-010",
+      "number": 10,
+      "title": "REMARKABLE AND WONDERFUL APPEARANCES OF THE LORD",
+      "year": 2007,
+      "pdf": "010 - REMARKABLE AND WONDERFUL APPEARANCES OF THE LORD.pdf",
+      "json": "special-writing-010.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "010 - REMARKABLE AND WONDERFUL APPEARANCES OF THE LORD.pdf",
+          "size_bytes": 103736,
+          "sha256": "b20a156194b07ee7b464cb4baf1f53d38bd3a6620c95391cbd0c00d12d78fb5f"
+        },
+        "json": {
+          "file": "special-writing-010.json",
+          "size_bytes": 8272,
+          "sha256": "dea04da03d2563c2372eabb4d0eff0e8b69b27b652420296c5cfb4aa198aab95"
+        }
+      }
+    },
+    {
+      "id": "special-writing-011",
+      "number": 11,
+      "title": "THE GLORIFIED BODY OF THE SAINTS",
+      "year": 2007,
+      "pdf": "011 - THE GLORIFIED BODY OF THE SAINTS.pdf",
+      "json": "special-writing-011.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "011 - THE GLORIFIED BODY OF THE SAINTS.pdf",
+          "size_bytes": 107418,
+          "sha256": "35fcda70743b93edef60e25d4fd7e1bbc3d4b33c95f7354ff094c0f4c49dd8f1"
+        },
+        "json": {
+          "file": "special-writing-011.json",
+          "size_bytes": 7979,
+          "sha256": "73f0b78c1f96985c46bfcf0cd5a13fcbb44615c588533e57dce711d0bab3d0b3"
+        }
+      }
+    },
+    {
+      "id": "special-writing-012",
+      "number": 12,
+      "title": "THE PROPHETIC PARABLE OF THE WISE AND FOOLISH VIRGINS",
+      "year": 2007,
+      "pdf": "012 - THE PROPHETIC PARABLE OF THE WISE AND FOOLISH VIRGINS.pdf",
+      "json": "special-writing-012.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "012 - THE PROPHETIC PARABLE OF THE WISE AND FOOLISH VIRGINS.pdf",
+          "size_bytes": 107569,
+          "sha256": "5fc62e396894106dca7a115fc95a06ff4787e7e9814937ee0518b45a1e6a8741"
+        },
+        "json": {
+          "file": "special-writing-012.json",
+          "size_bytes": 7409,
+          "sha256": "ae484b7f5d1138108119e0edbc5def35bc31a61c87cb341139a62c8a5f614442"
+        }
+      }
+    },
+    {
+      "id": "special-writing-013",
+      "number": 13,
+      "title": "PROPHECY - THE COMING NEW SOCIETY",
+      "year": 2007,
+      "pdf": "013 - PROPHECY - THE COMING NEW SOCIETY.pdf",
+      "json": "special-writing-013.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "013 - PROPHECY - THE COMING NEW SOCIETY.pdf",
+          "size_bytes": 112133,
+          "sha256": "3764f0137f212cb9fd0362106dfe20985a4b94b408e2b3b73fe9c5e6f340d9f5"
+        },
+        "json": {
+          "file": "special-writing-013.json",
+          "size_bytes": 6286,
+          "sha256": "fa903f81a6654fb95ff9e01f04b75bc127ac6e6f9c3b9f61114f66f4415203b2"
+        }
+      }
+    },
+    {
+      "id": "special-writing-014",
+      "number": 14,
+      "title": "FAITH - DIVINE PROVIDENCE",
+      "year": 2007,
+      "pdf": "014 - FAITH - DIVINE PROVIDENCE.pdf",
+      "json": "special-writing-014.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "014 - FAITH - DIVINE PROVIDENCE.pdf",
+          "size_bytes": 113126,
+          "sha256": "4fdb1924bf3b85ca9f2e2768bcca2d224d41e7e243bb321e24fa90220fcbaa9b"
+        },
+        "json": {
+          "file": "special-writing-014.json",
+          "size_bytes": 6605,
+          "sha256": "037f057cf8ed100aeb4c893d0cc08ec8e1cbc005831c3dce3f7d0924c73c2036"
+        }
+      }
+    },
+    {
+      "id": "special-writing-015",
+      "number": 15,
+      "title": "SCROLL LETTER",
+      "year": 2007,
+      "pdf": "015 - SCROLL LETTER.pdf",
+      "json": "special-writing-015.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "015 - SCROLL LETTER.pdf",
+          "size_bytes": 109359,
+          "sha256": "85905805c3dbfc2619b901ef8196627625716a055c538a30f57fd019a1c24ff1"
+        },
+        "json": {
+          "file": "special-writing-015.json",
+          "size_bytes": 8367,
+          "sha256": "5639c0ab28474608f116f719422e67db9394648ce037339e07610565dd2c27b6"
+        }
+      }
+    },
+    {
+      "id": "special-writing-016",
+      "number": 16,
+      "title": "THE RESURRECTION",
+      "year": 2007,
+      "pdf": "016 - THE RESURRECTION.pdf",
+      "json": "special-writing-016.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "016 - THE RESURRECTION.pdf",
+          "size_bytes": 110654,
+          "sha256": "04ed6de9a1847471a28585cdd77b5cc155693172874432867ab413f3e03ee53a"
+        },
+        "json": {
+          "file": "special-writing-016.json",
+          "size_bytes": 6008,
+          "sha256": "f79589a8b3bbc931cefb7925b997d0c89e19a04ffaf5c333667c918bc7049e42"
+        }
+      }
+    },
+    {
+      "id": "special-writing-017",
+      "number": 17,
+      "title": "THE CHURCH AGES - PART 1",
+      "year": 2007,
+      "pdf": "017 - THE CHURCH AGES - PART 1.pdf",
+      "json": "special-writing-017.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "017 - THE CHURCH AGES - PART 1.pdf",
+          "size_bytes": 102835,
+          "sha256": "dcabdf7a17d5c8730870c6335c5ef67bb03e5b69e9b6d07ee66da76a8ff00641"
+        },
+        "json": {
+          "file": "special-writing-017.json",
+          "size_bytes": 7349,
+          "sha256": "f42d975c63a9c4c349a4d62eb3b90268e7c69708893f9aa428de100cdbe44fa2"
+        }
+      }
+    },
+    {
+      "id": "special-writing-018",
+      "number": 18,
+      "title": "THE CHURCH AGES - PART 2",
+      "year": 2007,
+      "pdf": "018 - THE CHURCH AGES - PART 2.pdf",
+      "json": "special-writing-018.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "018 - THE CHURCH AGES - PART 2.pdf",
+          "size_bytes": 103561,
+          "sha256": "53688f5a04105190308d5384631baa2c826aa8d1592ae087068ff492aaf6bedc"
+        },
+        "json": {
+          "file": "special-writing-018.json",
+          "size_bytes": 7694,
+          "sha256": "043386798be153d319e3609a25c007049fdaf410328ecceae8b291da1818cc63"
+        }
+      }
+    },
+    {
+      "id": "special-writing-019",
+      "number": 19,
+      "title": "THE 1000 YEAR MILLENNIUM",
+      "year": 2007,
+      "pdf": "019 - THE 1000 YEAR MILLENNIUM.pdf",
+      "json": "special-writing-019.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "019 - THE 1000 YEAR MILLENNIUM.pdf",
+          "size_bytes": 101955,
+          "sha256": "32c1f4573c7b686ec95fab2132c81f3839623c9f6bcbbc42ea941768205b7edc"
+        },
+        "json": {
+          "file": "special-writing-019.json",
+          "size_bytes": 6665,
+          "sha256": "4f017b0ed8a737026c692e0415a41190ba1c10d23ed2dd5c308887c6c2011ebd"
+        }
+      }
+    },
+    {
+      "id": "special-writing-020",
+      "number": 20,
+      "title": "PROPHETIC SIGNS! - PART 1",
+      "year": 2007,
+      "pdf": "020 - PROPHETIC SIGNS! - PART 1.pdf",
+      "json": "special-writing-020.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "020 - PROPHETIC SIGNS! - PART 1.pdf",
+          "size_bytes": 122708,
+          "sha256": "52eca630d51e34423e37244487944c809a832ff0fb9c5953138b613707ae061b"
+        },
+        "json": {
+          "file": "special-writing-020.json",
+          "size_bytes": 7865,
+          "sha256": "3963447079ae5b9f76128a3b1d5c118fa640a0f247f98d124af485fdbb821ecf"
+        }
+      }
+    },
+    {
+      "id": "special-writing-021",
+      "number": 21,
+      "title": "PROPHETIC SIGNS! - PART 2",
+      "year": 2007,
+      "pdf": "021 - PROPHETIC SIGNS! - PART 2.pdf",
+      "json": "special-writing-021.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "021 - PROPHETIC SIGNS! - PART 2.pdf",
+          "size_bytes": 870373,
+          "sha256": "a33332b9ebb7f174b5c594570325ed82594c1a72553d4a11edb2e74a4f37b038"
+        },
+        "json": {
+          "file": "special-writing-021.json",
+          "size_bytes": 5573,
+          "sha256": "cb7f9fdb9feb4007474899af864716d8e375ad6628c3e1b238867ff71c1415e7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-022",
+      "number": 22,
+      "title": "SPECIAL WRITING TO SPECIAL PARTNERS",
+      "year": 2007,
+      "pdf": "022 - SPECIAL WRITING TO SPECIAL PARTNERS.pdf",
+      "json": "special-writing-022.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "022 - SPECIAL WRITING TO SPECIAL PARTNERS.pdf",
+          "size_bytes": 851811,
+          "sha256": "bab408b6f43592b7b4465df32e4343ed6d603ee4b035d45d788824554ec56923"
+        },
+        "json": {
+          "file": "special-writing-022.json",
+          "size_bytes": 5639,
+          "sha256": "729161caa2291e0bf58ac831db56d94d35068588025244352d6ca1a62b755aaf"
+        }
+      }
+    },
+    {
+      "id": "special-writing-023",
+      "number": 23,
+      "title": "THE VOICE - THE SPIRIT OF PROPHECY",
+      "year": 2007,
+      "pdf": "023 - THE VOICE - THE SPIRIT OF PROPHECY.pdf",
+      "json": "special-writing-023.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "023 - THE VOICE - THE SPIRIT OF PROPHECY.pdf",
+          "size_bytes": 116258,
+          "sha256": "c3705c5b3e3c9a56465d57c807f91b3bcf837da7eaf5dc1168c4a96731a23a4d"
+        },
+        "json": {
+          "file": "special-writing-023.json",
+          "size_bytes": 6380,
+          "sha256": "c293b58e2b9f7b0ceb9484e8e8e353bcb4b1251ce85a03ce2f236a86cce6e094"
+        }
+      }
+    },
+    {
+      "id": "special-writing-024",
+      "number": 24,
+      "title": "THE SPIRIT IS MOVING!",
+      "year": 2007,
+      "pdf": "024 - THE SPIRIT IS MOVING!.pdf",
+      "json": "special-writing-024.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "024 - THE SPIRIT IS MOVING!.pdf",
+          "size_bytes": 101621,
+          "sha256": "7e6442ddf8470d3d631088a9a6ff9f9b47e319a9d786ad7086843b2573d3a8c0"
+        },
+        "json": {
+          "file": "special-writing-024.json",
+          "size_bytes": 6258,
+          "sha256": "e122891ba11b904d04fc664fa8620e2e6abce8263b1f082dd71c060c73f01ea5"
+        }
+      }
+    },
+    {
+      "id": "special-writing-025",
+      "number": 25,
+      "title": "REAL MYSTERIES!",
+      "year": 2007,
+      "pdf": "025 - REAL MYSTERIES!.pdf",
+      "json": "special-writing-025.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "025 - REAL MYSTERIES!.pdf",
+          "size_bytes": 103230,
+          "sha256": "a0e2116f35d089f869cb67d8c93bbec3680fc696168ae0535f6eef212ed91b90"
+        },
+        "json": {
+          "file": "special-writing-025.json",
+          "size_bytes": 7062,
+          "sha256": "5b257883bf3b63574acbc44db91f0e3a4796df989478158cd6a4670a62b8aa50"
+        }
+      }
+    },
+    {
+      "id": "special-writing-026",
+      "number": 26,
+      "title": "DIVINE LOVE",
+      "year": 2007,
+      "pdf": "026 - DIVINE LOVE.pdf",
+      "json": "special-writing-026.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "026 - DIVINE LOVE.pdf",
+          "size_bytes": 103111,
+          "sha256": "fb07d03b46ac03145a4a312e4ac8f855aacbf3fc19c4fec8e3189fc14db72e08"
+        },
+        "json": {
+          "file": "special-writing-026.json",
+          "size_bytes": 6808,
+          "sha256": "1cb9cceb490a02566de4293b8a2db761456e3bfc3183ffa5db7fb05377a6e7d9"
+        }
+      }
+    },
+    {
+      "id": "special-writing-027",
+      "number": 27,
+      "title": "PROSPERITY AND GOD'S WILL FOR YOU",
+      "year": 2007,
+      "pdf": "027 - PROSPERITY AND GOD'S WILL FOR YOU.pdf",
+      "json": "special-writing-027.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "027 - PROSPERITY AND GOD'S WILL FOR YOU.pdf",
+          "size_bytes": 99671,
+          "sha256": "b0b8ca0891f7ee6a6e5b638763a2fc7b2d9e282c6f6b1126560ceb5faa053dc4"
+        },
+        "json": {
+          "file": "special-writing-027.json",
+          "size_bytes": 6452,
+          "sha256": "9cb60ed5d2001d97333b962677e12c6c02870c2dff242e5d7a4931d9070f019c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-028",
+      "number": 28,
+      "title": "SYMBOLIC NUMERICAL PATTERNS",
+      "year": 2007,
+      "pdf": "028 - SYMBOLIC NUMERICAL PATTERNS.pdf",
+      "json": "special-writing-028.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "028 - SYMBOLIC NUMERICAL PATTERNS.pdf",
+          "size_bytes": 283041,
+          "sha256": "f4f59380a0c482682c02c0a5f792d221b57214bfabcf69e9d952c8105f313039"
+        },
+        "json": {
+          "file": "special-writing-028.json",
+          "size_bytes": 5257,
+          "sha256": "a9ffb4855237f8e8b34977018ce673fd0ca68126e034c62e1da962f93ab95aae"
+        }
+      }
+    },
+    {
+      "id": "special-writing-029",
+      "number": 29,
+      "title": "NUMERICAL AND SYMBOLIC VALUES",
+      "year": 2007,
+      "pdf": "029 - NUMERICAL AND SYMBOLIC VALUES.pdf",
+      "json": "special-writing-029.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "029 - NUMERICAL AND SYMBOLIC VALUES.pdf",
+          "size_bytes": 116390,
+          "sha256": "500a1fe083fd576e9e81a44b84fff863eb69c64c43dfacf8907767a41f4afd9c"
+        },
+        "json": {
+          "file": "special-writing-029.json",
+          "size_bytes": 7173,
+          "sha256": "75316fe781c24787bba7d0ff9ffd02f413f601e17a637d45b643e41fed2432d0"
+        }
+      }
+    },
+    {
+      "id": "special-writing-030",
+      "number": 30,
+      "title": "GOD'S FOREKNOWLEDGE - HIS ETERNAL REALM",
+      "year": 2007,
+      "pdf": "030 - GOD'S FOREKNOWLEDGE - HIS ETERNAL REALM.pdf",
+      "json": "special-writing-030.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "030 - GOD'S FOREKNOWLEDGE - HIS ETERNAL REALM.pdf",
+          "size_bytes": 114862,
+          "sha256": "f5c7cb8aa22f65753201797ed4307365ee51e30b60f3cc2dde11aee404b1655a"
+        },
+        "json": {
+          "file": "special-writing-030.json",
+          "size_bytes": 7426,
+          "sha256": "0379ff47f063ad48d33a4f1212a1033a59f1fb2ff752c910c4d8cda67d32b063"
+        }
+      }
+    },
+    {
+      "id": "special-writing-031",
+      "number": 31,
+      "title": "WHO WILL LISTEN",
+      "year": 2007,
+      "pdf": "031 - WHO WILL LISTEN.pdf",
+      "json": "special-writing-031.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "031 - WHO WILL LISTEN.pdf",
+          "size_bytes": 102592,
+          "sha256": "a1e26b489c8f22010108b44ef5461518e997e974a6a8bc62d8f3898b98db2646"
+        },
+        "json": {
+          "file": "special-writing-031.json",
+          "size_bytes": 7564,
+          "sha256": "044109ffafd718946b0c73ff0865057f736436d7d2071105680a421df163ae6a"
+        }
+      }
+    },
+    {
+      "id": "special-writing-032",
+      "number": 32,
+      "title": "THE UNIQUE PROMISES OF GOD",
+      "year": 2007,
+      "pdf": "032 - THE UNIQUE PROMISES OF GOD.pdf",
+      "json": "special-writing-032.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "032 - THE UNIQUE PROMISES OF GOD.pdf",
+          "size_bytes": 102033,
+          "sha256": "5bb0a50eb84cdc9efd08949178645bb3269aedb9b0158526628b51bad6607553"
+        },
+        "json": {
+          "file": "special-writing-032.json",
+          "size_bytes": 6654,
+          "sha256": "7f26e0834c451e54d69b2d6a6603bd17819b4c9c8dd86926d50e25631c0de883"
+        }
+      }
+    },
+    {
+      "id": "special-writing-033",
+      "number": 33,
+      "title": "THE SECRET OF CONTINUOUS VICTORY!",
+      "year": 2007,
+      "pdf": "033 - THE SECRET OF CONTINUOUS VICTORY!.pdf",
+      "json": "special-writing-033.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "033 - THE SECRET OF CONTINUOUS VICTORY!.pdf",
+          "size_bytes": 102109,
+          "sha256": "c4a326593200b36d642c1c8609092e7961eed8411abee96a43464d6c8d2ee52b"
+        },
+        "json": {
+          "file": "special-writing-033.json",
+          "size_bytes": 7436,
+          "sha256": "2a3799401538fcf9db6c3c43a7fbcbc0a6e0ed2e361856a7facc2ad677becf21"
+        }
+      }
+    },
+    {
+      "id": "special-writing-034",
+      "number": 34,
+      "title": "THE FOUR WATCHES",
+      "year": 2007,
+      "pdf": "034 - THE FOUR WATCHES.pdf",
+      "json": "special-writing-034.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "034 - THE FOUR WATCHES.pdf",
+          "size_bytes": 102349,
+          "sha256": "680f122eebbdf21be977acd0abfe51313939ba4542a24338a3c2bb41393db74d"
+        },
+        "json": {
+          "file": "special-writing-034.json",
+          "size_bytes": 7083,
+          "sha256": "067a021c86aceee64e7292643e8a94a24340726a2ab95281514a3bafcd3896ec"
+        }
+      }
+    },
+    {
+      "id": "special-writing-035",
+      "number": 35,
+      "title": "THE NUMBER, THE MARK AND THE BEAST",
+      "year": 2007,
+      "pdf": "035 - THE NUMBER, THE MARK AND THE BEAST.pdf",
+      "json": "special-writing-035.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "035 - THE NUMBER, THE MARK AND THE BEAST.pdf",
+          "size_bytes": 104433,
+          "sha256": "2f04368b69f228b6ab96a996bebef81c2516c41bfa6ed28a191656114dbe8d50"
+        },
+        "json": {
+          "file": "special-writing-035.json",
+          "size_bytes": 7067,
+          "sha256": "c5b1818823a0469e03dde34354c43bdf24375707d039a9408fd737cba576411c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-036",
+      "number": 36,
+      "title": "THE WILL OF GOD IN ONE'S LIFE",
+      "year": 2007,
+      "pdf": "036 - THE WILL OF GOD IN ONE'S LIFE.pdf",
+      "json": "special-writing-036.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "036 - THE WILL OF GOD IN ONE'S LIFE.pdf",
+          "size_bytes": 102974,
+          "sha256": "7da854aae469320d5f08ca4967c5aaac90cb957bcc019c6827db0ffbc0460335"
+        },
+        "json": {
+          "file": "special-writing-036.json",
+          "size_bytes": 6440,
+          "sha256": "374f45faf7fad70853cbdd02bc7af70f4dbd2775bbb88546b59e49fd132a6dcc"
+        }
+      }
+    },
+    {
+      "id": "special-writing-037",
+      "number": 37,
+      "title": "VITAL SECRET TO HAPPINESS",
+      "year": 2007,
+      "pdf": "037 - VITAL SECRET TO HAPPINESS.pdf",
+      "json": "special-writing-037.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "037 - VITAL SECRET TO HAPPINESS.pdf",
+          "size_bytes": 116055,
+          "sha256": "597e25bd294362ec2c633cfe854e5451f63558b5b76f475b45db4d6c23b494d8"
+        },
+        "json": {
+          "file": "special-writing-037.json",
+          "size_bytes": 5704,
+          "sha256": "2e9ade7884fd6c6ce0df18717eb69de809461f4a3faafaec3c7bbaf4596fc2a2"
+        }
+      }
+    },
+    {
+      "id": "special-writing-038",
+      "number": 38,
+      "title": "PROPHECIES FULFILLING",
+      "year": 2007,
+      "pdf": "038 - PROPHECIES FULFILLING.pdf",
+      "json": "special-writing-038.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "038 - PROPHECIES FULFILLING.pdf",
+          "size_bytes": 101013,
+          "sha256": "985d31712b0a4441ee7263a0d944824c17058ccf1aef697925aa1b7a7740711f"
+        },
+        "json": {
+          "file": "special-writing-038.json",
+          "size_bytes": 6927,
+          "sha256": "3a1382f3dff6c60f7390798c7b9ffce90908f34862dfb021dad5fbce26d819c7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-039",
+      "number": 39,
+      "title": "THE COMING ANTI-CHRIST SYSTEM",
+      "year": 2007,
+      "pdf": "039 - THE COMING ANTI-CHRIST SYSTEM.pdf",
+      "json": "special-writing-039.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "039 - THE COMING ANTI-CHRIST SYSTEM.pdf",
+          "size_bytes": 102128,
+          "sha256": "9585f22000dd921a5731e0460aaf2fa6032580e5030baa9909cc414beb5ee578"
+        },
+        "json": {
+          "file": "special-writing-039.json",
+          "size_bytes": 6367,
+          "sha256": "937ae559527f6f421e57f6d72566b67cd6b11df289bf27ff903a401f363fd4ff"
+        }
+      }
+    },
+    {
+      "id": "special-writing-040",
+      "number": 40,
+      "title": "WORLDWIDE MAJOR EVENTS",
+      "year": 2007,
+      "pdf": "040 - WORLDWIDE MAJOR EVENTS.pdf",
+      "json": "special-writing-040.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "040 - WORLDWIDE MAJOR EVENTS.pdf",
+          "size_bytes": 102649,
+          "sha256": "5ed59d08c03ed251228bdd65dd090ab407b83940b40c2e6a583eb63dd922d04b"
+        },
+        "json": {
+          "file": "special-writing-040.json",
+          "size_bytes": 6342,
+          "sha256": "ea664770fcbfc25507f4633d59db6f7501c36e468c3e726609bf22fd989bdf34"
+        }
+      }
+    },
+    {
+      "id": "special-writing-041",
+      "number": 41,
+      "title": "WONDERFUL, BEAUTIFUL POSITIVE PROMISES",
+      "year": 2007,
+      "pdf": "041 - WONDERFUL, BEAUTIFUL POSITIVE PROMISES.pdf",
+      "json": "special-writing-041.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "041 - WONDERFUL, BEAUTIFUL POSITIVE PROMISES.pdf",
+          "size_bytes": 112941,
+          "sha256": "27acd1d9c3ccc2b97af977ea3cabb95ab8606e2d306781f269d6d183e073a70d"
+        },
+        "json": {
+          "file": "special-writing-041.json",
+          "size_bytes": 5856,
+          "sha256": "442627424782e3ddc318a1faa5cd1ac4625ebcd330b71f43035011372ca3cdf0"
+        }
+      }
+    },
+    {
+      "id": "special-writing-042",
+      "number": 42,
+      "title": "GOD'S HEALING COVENANT",
+      "year": 2007,
+      "pdf": "042 - GOD'S HEALING COVENANT.pdf",
+      "json": "special-writing-042.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "042 - GOD'S HEALING COVENANT.pdf",
+          "size_bytes": 111978,
+          "sha256": "c5d364f0b2e8f873a88e03a02fed1b419f0a8a5ca360c27bbbaf792f87658359"
+        },
+        "json": {
+          "file": "special-writing-042.json",
+          "size_bytes": 5862,
+          "sha256": "97f70ae6f8f0dbce33601fcd2f51703ea401cc9e997235f446fc3aea19da2032"
+        }
+      }
+    },
+    {
+      "id": "special-writing-043",
+      "number": 43,
+      "title": "THE WORLD MONETARY CRISIS",
+      "year": 2007,
+      "pdf": "043 - THE WORLD MONETARY CRISIS.pdf",
+      "json": "special-writing-043.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "043 - THE WORLD MONETARY CRISIS.pdf",
+          "size_bytes": 116757,
+          "sha256": "4ca0276a69f3998320c6413b617a840e77ad96b536ac51c3a44c6f96c741d52a"
+        },
+        "json": {
+          "file": "special-writing-043.json",
+          "size_bytes": 6526,
+          "sha256": "c178e2fe592cbabd65f01947e33122e8e7eabb9d6b5aa606dc8dc06d3eac193f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-044",
+      "number": 44,
+      "title": "PROPHETIC FUTURE OF WORLD EVENTS",
+      "year": 2007,
+      "pdf": "044 - PROPHETIC FUTURE OF WORLD EVENTS.pdf",
+      "json": "special-writing-044.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "044 - PROPHETIC FUTURE OF WORLD EVENTS.pdf",
+          "size_bytes": 126419,
+          "sha256": "91497243c8b2a2f3ee82b461396a60a1b30cc509619b4d28ccb1776790a1fa95"
+        },
+        "json": {
+          "file": "special-writing-044.json",
+          "size_bytes": 5206,
+          "sha256": "36bb753f1211a5252c9199170e82a6a7abd71841ce0eab2c0eaeff0c52aa272a"
+        }
+      }
+    },
+    {
+      "id": "special-writing-045",
+      "number": 45,
+      "title": "WHO GOES THROUGH THE TRIBULATION",
+      "year": 2007,
+      "pdf": "045 - WHO GOES THROUGH THE TRIBULATION.pdf",
+      "json": "special-writing-045.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "045 - WHO GOES THROUGH THE TRIBULATION.pdf",
+          "size_bytes": 136243,
+          "sha256": "3dfbb1bc48daf4f57937ce5d0bc165aa12576d0e05b4cb7b617dd247f7fe849c"
+        },
+        "json": {
+          "file": "special-writing-045.json",
+          "size_bytes": 5088,
+          "sha256": "d3051f778b3e2684ebd5b2b683662d0258e2315b7732b2eb66a8749f1e1d938d"
+        }
+      }
+    },
+    {
+      "id": "special-writing-046",
+      "number": 46,
+      "title": "PROPHECY - THE BOOK OF NAHUM",
+      "year": 2007,
+      "pdf": "046 - PROPHECY - THE BOOK OF NAHUM.pdf",
+      "json": "special-writing-046.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "046 - PROPHECY - THE BOOK OF NAHUM.pdf",
+          "size_bytes": 145285,
+          "sha256": "e2c4286e4df0d69ae2452b6768816ef43a8047d667f4eb3a93137d69b9109d4e"
+        },
+        "json": {
+          "file": "special-writing-046.json",
+          "size_bytes": 5680,
+          "sha256": "9d7e6472ce4ed74e51d07a7a87cae776e070344bdfa4f8ed85c088a7a1fd826a"
+        }
+      }
+    },
+    {
+      "id": "special-writing-047",
+      "number": 47,
+      "title": "THE LAST PROPHECIES OF THE BIBLE",
+      "year": 2007,
+      "pdf": "047 - THE LAST PROPHECIES OF THE BIBLE.pdf",
+      "json": "special-writing-047.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "047 - THE LAST PROPHECIES OF THE BIBLE.pdf",
+          "size_bytes": 102608,
+          "sha256": "f55a10d7d7f3062474bcba3cae20da0daba1e5065c9c326a29bc00b9acbb901b"
+        },
+        "json": {
+          "file": "special-writing-047.json",
+          "size_bytes": 7540,
+          "sha256": "c49406e2a4adb67b4efc6571fbaef2da96e5ab275ca3f00348e9cbd054fc97d9"
+        }
+      }
+    },
+    {
+      "id": "special-writing-048",
+      "number": 48,
+      "title": "PROPHETIC SIGNIFICANCE - JOSEPH'S VISIONS",
+      "year": 2007,
+      "pdf": "048 - PROPHETIC SIGNIFICANCE - JOSEPH'S VISIONS.pdf",
+      "json": "special-writing-048.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "048 - PROPHETIC SIGNIFICANCE - JOSEPH'S VISIONS.pdf",
+          "size_bytes": 120282,
+          "sha256": "6aec6519055fd18db207f341a5a4ce5cc2103bb91f113398526273eaf4bc16ac"
+        },
+        "json": {
+          "file": "special-writing-048.json",
+          "size_bytes": 5462,
+          "sha256": "466e8fe6daa52936676a3a95d11b85b65f8fc1af7e441fe62681e9a148bbf63a"
+        }
+      }
+    },
+    {
+      "id": "special-writing-049",
+      "number": 49,
+      "title": "THE NIGHT VISION",
+      "year": 2007,
+      "pdf": "049 - THE NIGHT VISION.pdf",
+      "json": "special-writing-049.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "049 - THE NIGHT VISION.pdf",
+          "size_bytes": 667572,
+          "sha256": "8000353eeea20316ab78b6e18c50b98a50e1128f6b4646a39d5ef182f6851fbb"
+        },
+        "json": {
+          "file": "special-writing-049.json",
+          "size_bytes": 4744,
+          "sha256": "d814e88906040d043f9fe0664a5c50a454e1464af7eee299c2a1cab921dcef97"
+        }
+      }
+    },
+    {
+      "id": "special-writing-050",
+      "number": 50,
+      "title": "DANIEL'S VISIONS",
+      "year": 2007,
+      "pdf": "050 - DANIEL'S VISIONS.pdf",
+      "json": "special-writing-050.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "050 - DANIEL'S VISIONS.pdf",
+          "size_bytes": 673656,
+          "sha256": "d5d9db90e689fc54b506d983a070641fa41c2783976d2493b885c2122a9d5e65"
+        },
+        "json": {
+          "file": "special-writing-050.json",
+          "size_bytes": 4938,
+          "sha256": "3c5b27f68163c0ee92fec1daab5080f317d0223d19ce72186c2a3f5d43b35edc"
+        }
+      }
+    },
+    {
+      "id": "special-writing-051",
+      "number": 51,
+      "title": "RESTORATION OF THE BEAST POWER",
+      "year": 2007,
+      "pdf": "051 - RESTORATION OF THE BEAST POWER.pdf",
+      "json": "special-writing-051.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "051 - RESTORATION OF THE BEAST POWER.pdf",
+          "size_bytes": 458382,
+          "sha256": "9bd16d775f2dd7b250e4e1c2cb85c0b9ba08a9337583ddc07bd04b104210bb09"
+        },
+        "json": {
+          "file": "special-writing-051.json",
+          "size_bytes": 5949,
+          "sha256": "ebbda0484034efeefc3fa67f73df5a58d9fe9935c639b3c1f0a7f22b01f92d75"
+        }
+      }
+    },
+    {
+      "id": "special-writing-052",
+      "number": 52,
+      "title": "SONG OF SOLOMON",
+      "year": 2007,
+      "pdf": "052 - SONG OF SOLOMON.pdf",
+      "json": "special-writing-052.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "052 - SONG OF SOLOMON.pdf",
+          "size_bytes": 352741,
+          "sha256": "e8c47643efdc0bf588f3878c2b8075948f45946dcb48ef69c84c2b360ecfc1f2"
+        },
+        "json": {
+          "file": "special-writing-052.json",
+          "size_bytes": 5411,
+          "sha256": "adbdaf16e11d7276b1b17a9e31c67ecce6030f4939193022fc5555580b28ec34"
+        }
+      }
+    },
+    {
+      "id": "special-writing-053",
+      "number": 53,
+      "title": "WONDERFUL PROMISES AND WISDOM",
+      "year": 2008,
+      "pdf": "053 - WONDERFUL PROMISES AND WISDOM.pdf",
+      "json": "special-writing-053.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "053 - WONDERFUL PROMISES AND WISDOM.pdf",
+          "size_bytes": 106194,
+          "sha256": "ff6319de3f7355e7947059688a6e9fc5fbeb386bbdad24d97212e843d35a0244"
+        },
+        "json": {
+          "file": "special-writing-053.json",
+          "size_bytes": 7756,
+          "sha256": "716c67d62178f93f2da47ca4c279df3553d8759582685a77b4ca3cc9688c2501"
+        }
+      }
+    },
+    {
+      "id": "special-writing-054",
+      "number": 54,
+      "title": "THE WHIRLWIND PROPHET",
+      "year": 2008,
+      "pdf": "054 - THE WHIRLWIND PROPHET.pdf",
+      "json": "special-writing-054.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "054 - THE WHIRLWIND PROPHET.pdf",
+          "size_bytes": 102279,
+          "sha256": "38cd7d29ad451cdf54c197bb5c2e16924066798c530c9501031712e72cc08e9a"
+        },
+        "json": {
+          "file": "special-writing-054.json",
+          "size_bytes": 6567,
+          "sha256": "226cfea359196e85d49223f1f474f290e665eb5ec5d927d3bda6fb7a73e2350c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-055",
+      "number": 55,
+      "title": "SPEAK THE WORD ONLY",
+      "year": 2008,
+      "pdf": "055 - SPEAK THE WORD ONLY.pdf",
+      "json": "special-writing-055.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "055 - SPEAK THE WORD ONLY.pdf",
+          "size_bytes": 102096,
+          "sha256": "3143aef9fa0e93f2429e91e50004459aa33f78ce0c1e11a255f7f324c441fc02"
+        },
+        "json": {
+          "file": "special-writing-055.json",
+          "size_bytes": 6474,
+          "sha256": "47a3290779d3253c9da657d66d63f9341649a2a300db9a5f7b652bdeaabd0b36"
+        }
+      }
+    },
+    {
+      "id": "special-writing-056",
+      "number": 56,
+      "title": "THE REVELATION CHURCH - THE ELECT",
+      "year": 2008,
+      "pdf": "056 - THE REVELATION CHURCH - THE ELECT.pdf",
+      "json": "special-writing-056.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "056 - THE REVELATION CHURCH - THE ELECT.pdf",
+          "size_bytes": 104943,
+          "sha256": "30c52c08e53684be255246df957760c1531a90a4bfcb220e96d9c14b315990fd"
+        },
+        "json": {
+          "file": "special-writing-056.json",
+          "size_bytes": 7491,
+          "sha256": "0c5f880edfcfa77f35c8ecf1266ab51f949dffed5e9338743073b6474e8e3bf1"
+        }
+      }
+    },
+    {
+      "id": "special-writing-057",
+      "number": 57,
+      "title": "PERILOUS TIMES - SHOCKING EVENTS",
+      "year": 2008,
+      "pdf": "057 - PERILOUS TIMES - SHOCKING EVENTS.pdf",
+      "json": "special-writing-057.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "057 - PERILOUS TIMES - SHOCKING EVENTS.pdf",
+          "size_bytes": 284620,
+          "sha256": "61f811544661eab0af6862b27785ab34a04ed59acbad9711ef45d4163268359a"
+        },
+        "json": {
+          "file": "special-writing-057.json",
+          "size_bytes": 6278,
+          "sha256": "6757e0f3ffcec45add47ef9e734bf91237f66afae9e7b4bfefe13b97f88228a7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-058",
+      "number": 58,
+      "title": "THE MOST HIGH GOD AND THE FALLEN LUCIFER",
+      "year": 2008,
+      "pdf": "058 - THE MOST HIGH GOD AND THE FALLEN LUCIFER.pdf",
+      "json": "special-writing-058.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "058 - THE MOST HIGH GOD AND THE FALLEN LUCIFER.pdf",
+          "size_bytes": 101470,
+          "sha256": "60b663b1dcaa2cb2457b39dcbabf7338f834d689b99d873c74860819897c76c3"
+        },
+        "json": {
+          "file": "special-writing-058.json",
+          "size_bytes": 6818,
+          "sha256": "a7dd029910768f1f0e5e15a6de8ef557e620d5117590093c5298b1c8b78a0761"
+        }
+      }
+    },
+    {
+      "id": "special-writing-059",
+      "number": 59,
+      "title": "THE KING'S ANOINTING",
+      "year": 2008,
+      "pdf": "059 - THE KING'S ANOINTING.pdf",
+      "json": "special-writing-059.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "059 - THE KING'S ANOINTING.pdf",
+          "size_bytes": 122744,
+          "sha256": "09b9a8ab48f0f32ce83bcd05cdde3bf873b5700a85ef50fe411940a7b165f1ff"
+        },
+        "json": {
+          "file": "special-writing-059.json",
+          "size_bytes": 4924,
+          "sha256": "68417ce1fe164d73c4c756fe62433257768fd0450209e11a8d86bda29d27592e"
+        }
+      }
+    },
+    {
+      "id": "special-writing-060",
+      "number": 60,
+      "title": "GOD'S GOODNESS - THE FULL ARMOUR OF GOD'S WISDOM",
+      "year": 2008,
+      "pdf": "060 - GOD'S GOODNESS - THE FULL ARMOUR OF GOD'S WISDOM.pdf",
+      "json": "special-writing-060.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "060 - GOD'S GOODNESS - THE FULL ARMOUR OF GOD'S WISDOM.pdf",
+          "size_bytes": 105096,
+          "sha256": "0573c2b8f31b74455fb375c97e1567d3797502cca48fcf64b425958da7ad66f4"
+        },
+        "json": {
+          "file": "special-writing-060.json",
+          "size_bytes": 8160,
+          "sha256": "44b76d1f2384b6c6c769c69a21d25da339e3d831594aacd644c7214abbac708c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-061",
+      "number": 61,
+      "title": "DIVINE INSPIRATION",
+      "year": 2008,
+      "pdf": "061 - DIVINE INSPIRATION.pdf",
+      "json": "special-writing-061.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "061 - DIVINE INSPIRATION.pdf",
+          "size_bytes": 114261,
+          "sha256": "ae7f0f87c9b4ed9143cfd95c7f627136211f13ce8716ec4fe34db6b262e8bb96"
+        },
+        "json": {
+          "file": "special-writing-061.json",
+          "size_bytes": 3909,
+          "sha256": "3c94444c96f58ff2b0ce6b1699d69c1daf81bcc2a91f923db1f249d78f248392"
+        }
+      }
+    },
+    {
+      "id": "special-writing-062",
+      "number": 62,
+      "title": "DIVINE HEALING AND HEALTH",
+      "year": 2008,
+      "pdf": "062 - DIVINE HEALING AND HEALTH.pdf",
+      "json": "special-writing-062.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "062 - DIVINE HEALING AND HEALTH.pdf",
+          "size_bytes": 104386,
+          "sha256": "4041aab5763bacd1267c1f3113a44e597ec3e84157125f8bacbdd26ecdc3e150"
+        },
+        "json": {
+          "file": "special-writing-062.json",
+          "size_bytes": 8283,
+          "sha256": "ab129d1953f98337a62b3b156299bb8bd95caf3ecd36642e1d8ac8fc6d175b1e"
+        }
+      }
+    },
+    {
+      "id": "special-writing-063",
+      "number": 63,
+      "title": "THE PRODIGAL SON AND THE SINFUL NATIONS",
+      "year": 2008,
+      "pdf": "063 - THE PRODIGAL SON AND THE SINFUL NATIONS.pdf",
+      "json": "special-writing-063.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "063 - THE PRODIGAL SON AND THE SINFUL NATIONS.pdf",
+          "size_bytes": 104749,
+          "sha256": "42b727f1d7f3a560804ed4ead5790a00bd881fe97e81b285e1dc22cb9be86383"
+        },
+        "json": {
+          "file": "special-writing-063.json",
+          "size_bytes": 7061,
+          "sha256": "b0cfa911077bd21ebc6408eaab47d6c417178311339d109b41a119709e15138b"
+        }
+      }
+    },
+    {
+      "id": "special-writing-064",
+      "number": 64,
+      "title": "GOD PROVIDES AND BLESSES HIS PEOPLE",
+      "year": 2008,
+      "pdf": "064 - GOD PROVIDES AND BLESSES HIS PEOPLE.pdf",
+      "json": "special-writing-064.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "064 - GOD PROVIDES AND BLESSES HIS PEOPLE.pdf",
+          "size_bytes": 102696,
+          "sha256": "6fba4b05e38487c301f36928949652d67ba8a1c3ce65945628329bb8540df58e"
+        },
+        "json": {
+          "file": "special-writing-064.json",
+          "size_bytes": 7571,
+          "sha256": "e0259702247e350d499cfd4bc0b3e70d767448e437fdd55b4986cc461734362f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-065",
+      "number": 65,
+      "title": "THE APPOINTED TIME",
+      "year": 2008,
+      "pdf": "065 - THE APPOINTED TIME.pdf",
+      "json": "special-writing-065.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "065 - THE APPOINTED TIME.pdf",
+          "size_bytes": 101867,
+          "sha256": "edfda7538f516fe44b82e0e375945aca6636ac1dcded196a2448104da691a01c"
+        },
+        "json": {
+          "file": "special-writing-065.json",
+          "size_bytes": 7755,
+          "sha256": "b433d3de98b70aa2d1d53671641dc4f02bea84d54f26c6799a40749595cab30d"
+        }
+      }
+    },
+    {
+      "id": "special-writing-066",
+      "number": 66,
+      "title": "THE HOUR OF PREPARATION",
+      "year": 2008,
+      "pdf": "066 - THE HOUR OF PREPARATION.pdf",
+      "json": "special-writing-066.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "066 - THE HOUR OF PREPARATION.pdf",
+          "size_bytes": 101743,
+          "sha256": "4f30e9045bcd20b56ee2788ba108131513a4ce63ae4d7583ad95c2d2ad55de6e"
+        },
+        "json": {
+          "file": "special-writing-066.json",
+          "size_bytes": 7865,
+          "sha256": "2c4e15b0d3acf99c6044e70f46a8c44529eab2281682db143399697d3a49a3e4"
+        }
+      }
+    },
+    {
+      "id": "special-writing-067",
+      "number": 67,
+      "title": "WHIRLWIND PROPHECY - THE TRANSLATION!",
+      "year": 2008,
+      "pdf": "067 - WHIRLWIND PROPHECY - THE TRANSLATION!.pdf",
+      "json": "special-writing-067.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "067 - WHIRLWIND PROPHECY - THE TRANSLATION!.pdf",
+          "size_bytes": 117215,
+          "sha256": "518b56696279867ad471d9de0806ccee0cb7b8c1f941969530d3eb90a54b6f6e"
+        },
+        "json": {
+          "file": "special-writing-067.json",
+          "size_bytes": 7568,
+          "sha256": "aa329a321507b9f77bd13c94109c6e3545923874b1ef436a474e1fccc6be772b"
+        }
+      }
+    },
+    {
+      "id": "special-writing-068",
+      "number": 68,
+      "title": "DRAMATIC AND PERILOUS TIMES",
+      "year": 2008,
+      "pdf": "068 - DRAMATIC AND PERILOUS TIMES.pdf",
+      "json": "special-writing-068.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "068 - DRAMATIC AND PERILOUS TIMES.pdf",
+          "size_bytes": 102035,
+          "sha256": "3615fc261f4847a0e7d01787648deb0446512f1559c1b78cf81b876f7d942b47"
+        },
+        "json": {
+          "file": "special-writing-068.json",
+          "size_bytes": 6058,
+          "sha256": "c2175845374a1221e1a01a3d66e95e335053b1829d13bf32d64c44d4715ce11d"
+        }
+      }
+    },
+    {
+      "id": "special-writing-069",
+      "number": 69,
+      "title": "A MORE SURE WORD OF PROPHECY",
+      "year": 2008,
+      "pdf": "069 - A MORE SURE WORD OF PROPHECY.pdf",
+      "json": "special-writing-069.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "069 - A MORE SURE WORD OF PROPHECY.pdf",
+          "size_bytes": 99183,
+          "sha256": "e6aadd6777f735f6746f159f0a2079bd36a7ff398cdeaa9a57b517c2696bc5d6"
+        },
+        "json": {
+          "file": "special-writing-069.json",
+          "size_bytes": 7024,
+          "sha256": "624f813c2d31f9976822160668183e6a3044e3fbadd4acac17d682c432540ebd"
+        }
+      }
+    },
+    {
+      "id": "special-writing-070",
+      "number": 70,
+      "title": "THE ANOINTED BLESSING BARREL",
+      "year": 2008,
+      "pdf": "070 - THE ANOINTED BLESSING BARREL.pdf",
+      "json": "special-writing-070.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "070 - THE ANOINTED BLESSING BARREL.pdf",
+          "size_bytes": 138964,
+          "sha256": "c78ef9ff802c42c481a236ba85d57be17a50ee825ea0aaf0178d2439f521fdc2"
+        },
+        "json": {
+          "file": "special-writing-070.json",
+          "size_bytes": 5828,
+          "sha256": "8d23d46b522c2bfb411a8f7bb32da9446352b95a7ed715cf0960a9cdbe1bf282"
+        }
+      }
+    },
+    {
+      "id": "special-writing-071",
+      "number": 71,
+      "title": "THE GREAT TRIBULATION AND THE BEAST SYSTEM",
+      "year": 2008,
+      "pdf": "071 - THE GREAT TRIBULATION AND THE BEAST SYSTEM.pdf",
+      "json": "special-writing-071.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "071 - THE GREAT TRIBULATION AND THE BEAST SYSTEM.pdf",
+          "size_bytes": 106331,
+          "sha256": "d42f98025aa1e98574139a4aa6d7cb1100b8af15fba4ba5ce05288471412f13d"
+        },
+        "json": {
+          "file": "special-writing-071.json",
+          "size_bytes": 7608,
+          "sha256": "68dc8683e5933c2c1a82e5208c9ad906786ef2e068cf2619fca9e8100a9ac637"
+        }
+      }
+    },
+    {
+      "id": "special-writing-072",
+      "number": 72,
+      "title": "TIME SYMBOLS - AGE ENDS",
+      "year": 2008,
+      "pdf": "072 - TIME SYMBOLS - AGE ENDS.pdf",
+      "json": "special-writing-072.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "072 - TIME SYMBOLS - AGE ENDS.pdf",
+          "size_bytes": 103576,
+          "sha256": "1093157bf92962697c752012a551a23080019e25d2ba96daefab7ad04a7d6d51"
+        },
+        "json": {
+          "file": "special-writing-072.json",
+          "size_bytes": 7568,
+          "sha256": "0455bdaa14726b3b34be59a5a3a7eddaf56ad642f60a6371a676f7665b876841"
+        }
+      }
+    },
+    {
+      "id": "special-writing-073",
+      "number": 73,
+      "title": "MIRACLES OF SUPPLY",
+      "year": 2008,
+      "pdf": "073 - MIRACLES OF SUPPLY.pdf",
+      "json": "special-writing-073.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "073 - MIRACLES OF SUPPLY.pdf",
+          "size_bytes": 100727,
+          "sha256": "19e5f7c8f81b02f81e9ca50938bb0afd513692fee1b8d9d93d37b44ba68f8167"
+        },
+        "json": {
+          "file": "special-writing-073.json",
+          "size_bytes": 6794,
+          "sha256": "af19d07d09887dd3958608b0887400c381118ac8164c36a38b89b877fcd61523"
+        }
+      }
+    },
+    {
+      "id": "special-writing-074",
+      "number": 74,
+      "title": "GATHERING INTERNATIONAL EVENTS",
+      "year": 2008,
+      "pdf": "074 - GATHERING INTERNATIONAL EVENTS.pdf",
+      "json": "special-writing-074.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "074 - GATHERING INTERNATIONAL EVENTS.pdf",
+          "size_bytes": 121702,
+          "sha256": "082c9a68fd59e2719b7f62510044cc979a7f57427a510f697ad2e5cc84975a70"
+        },
+        "json": {
+          "file": "special-writing-074.json",
+          "size_bytes": 5461,
+          "sha256": "41a362f1f7dd00ce268fdc50165cfcbdd8f42a0b817237514c11f99563d9b37f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-075",
+      "number": 75,
+      "title": "GOD'S ETERNAL WORD",
+      "year": 2008,
+      "pdf": "075 - GOD'S ETERNAL WORD.pdf",
+      "json": "special-writing-075.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "075 - GOD'S ETERNAL WORD.pdf",
+          "size_bytes": 102644,
+          "sha256": "3059cafc104fb1ee7fd692a84ffd6599c21c4bbc7667dc6377bfc797c3805314"
+        },
+        "json": {
+          "file": "special-writing-075.json",
+          "size_bytes": 7426,
+          "sha256": "378912cf1533712049d8923a49d14cf6c6ac50889998de63fccd3c26e2a8e4ed"
+        }
+      }
+    },
+    {
+      "id": "special-writing-076",
+      "number": 76,
+      "title": "JESUS - THE DYNAMIC HOLY SPIRIT",
+      "year": 2008,
+      "pdf": "076 - JESUS - THE DYNAMIC HOLY SPIRIT.pdf",
+      "json": "special-writing-076.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "076 - JESUS - THE DYNAMIC HOLY SPIRIT.pdf",
+          "size_bytes": 101269,
+          "sha256": "9209a2de25cb56a3201f7e4179e070d9a8348e75061f91c74dadc3199d5e58c5"
+        },
+        "json": {
+          "file": "special-writing-076.json",
+          "size_bytes": 6869,
+          "sha256": "3f40303757bf7a548325f7800f8c76bac274f67b1dd67987e83476c05749c324"
+        }
+      }
+    },
+    {
+      "id": "special-writing-077",
+      "number": 77,
+      "title": "DELIVERANCE, HEALING AND CONFIDENCE",
+      "year": 2008,
+      "pdf": "077 - DELIVERANCE, HEALING AND CONFIDENCE.pdf",
+      "json": "special-writing-077.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "077 - DELIVERANCE, HEALING AND CONFIDENCE.pdf",
+          "size_bytes": 111875,
+          "sha256": "3344ed12185b38d4d061bcfb44b9ee8462e2c902d73ad4faa4d21ed5b2db0715"
+        },
+        "json": {
+          "file": "special-writing-077.json",
+          "size_bytes": 5752,
+          "sha256": "25a77186fe59932b3a42e108e3cb5bb3928415b2ffd6e3919836c0a8c270954a"
+        }
+      }
+    },
+    {
+      "id": "special-writing-078",
+      "number": 78,
+      "title": "FAITH - POSITIVE POWER",
+      "year": 2008,
+      "pdf": "078 - FAITH - POSITIVE POWER.pdf",
+      "json": "special-writing-078.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "078 - FAITH - POSITIVE POWER.pdf",
+          "size_bytes": 102656,
+          "sha256": "edd8258ccc48cbb0188a9519ce494994e651f1ec2c756268acc6747f2d8e6e07"
+        },
+        "json": {
+          "file": "special-writing-078.json",
+          "size_bytes": 7256,
+          "sha256": "a437bf89c77fe78155619d3f7589c6a46b4edbef7317e6b025b3340c0a54ee11"
+        }
+      }
+    },
+    {
+      "id": "special-writing-079",
+      "number": 79,
+      "title": "PROPHETIC SIGNIFICANCE - MYSTERIES OF THE HEAVENS",
+      "year": 2008,
+      "pdf": "079 - PROPHETIC SIGNIFICANCE - MYSTERIES OF THE HEAVENS.pdf",
+      "json": "special-writing-079.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "079 - PROPHETIC SIGNIFICANCE - MYSTERIES OF THE HEAVENS.pdf",
+          "size_bytes": 105485,
+          "sha256": "c56034c56526bc791aec162d067d9101c69bea3e35fb329116bbe17c06baa0d5"
+        },
+        "json": {
+          "file": "special-writing-079.json",
+          "size_bytes": 8273,
+          "sha256": "60e9fc2bb17d96a5b33d142bf75a3929bdb24e76a9a1367d544e250d4704aca2"
+        }
+      }
+    },
+    {
+      "id": "special-writing-080",
+      "number": 80,
+      "title": "DIMENSIONAL FAITH - INFINITE POSSIBILITIES",
+      "year": 2008,
+      "pdf": "080 - DIMENSIONAL FAITH - INFINITE POSSIBILITIES.pdf",
+      "json": "special-writing-080.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "080 - DIMENSIONAL FAITH - INFINITE POSSIBILITIES.pdf",
+          "size_bytes": 104907,
+          "sha256": "7eb9790831ea6486e53d763476387b61e4b411a469f6549580d78a335bfc11b9"
+        },
+        "json": {
+          "file": "special-writing-080.json",
+          "size_bytes": 8411,
+          "sha256": "99cad2a6a163ad2340a99bf19c354a30ad64f16e845d97e2cd9cfddb2138c8b9"
+        }
+      }
+    },
+    {
+      "id": "special-writing-081",
+      "number": 81,
+      "title": "GOD'S PROMISES - HEALTH AND PROSPERITY",
+      "year": 2008,
+      "pdf": "081 - GOD'S PROMISES - HEALTH AND PROSPERITY.pdf",
+      "json": "special-writing-081.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "081 - GOD'S PROMISES - HEALTH AND PROSPERITY.pdf",
+          "size_bytes": 103016,
+          "sha256": "989fda520b9d4ed8235aa2c4c26cbde6143ca13fa8f96aaed9f0a2b8e8a837c9"
+        },
+        "json": {
+          "file": "special-writing-081.json",
+          "size_bytes": 7103,
+          "sha256": "918e31410586d6cca571fed13285c7d4894542f2472d30c1ecbe131079d8f06c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-082",
+      "number": 82,
+      "title": "REVELATION OF GOD'S PEOPLE",
+      "year": 2008,
+      "pdf": "082 - REVELATION OF GOD'S PEOPLE.pdf",
+      "json": "special-writing-082.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "082 - REVELATION OF GOD'S PEOPLE.pdf",
+          "size_bytes": 103802,
+          "sha256": "27233df512b97874f1c2b85b5706e22f35f31cadc83b8517cd7af431737ff7a4"
+        },
+        "json": {
+          "file": "special-writing-082.json",
+          "size_bytes": 8032,
+          "sha256": "a593eeec47fcceb44767f670bc04f651c6c581ef7f87eb630fb151291934429b"
+        }
+      }
+    },
+    {
+      "id": "special-writing-083",
+      "number": 83,
+      "title": "DANIEL'S 70TH WEEK",
+      "year": 2008,
+      "pdf": "083 - DANIEL'S 70TH WEEK.pdf",
+      "json": "special-writing-083.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "083 - DANIEL'S 70TH WEEK.pdf",
+          "size_bytes": 103385,
+          "sha256": "ddc1e0bc363ccbd24b5ddc516196149aacb73994e5895ac969f36d99f4dcec1b"
+        },
+        "json": {
+          "file": "special-writing-083.json",
+          "size_bytes": 6500,
+          "sha256": "cb64be9db09f7b47437ceb6c0d7198788cbb5bea38ab84cedc0547733a43cbfc"
+        }
+      }
+    },
+    {
+      "id": "special-writing-084",
+      "number": 84,
+      "title": "PROPHECY - AGE ENDING",
+      "year": 2008,
+      "pdf": "084 - PROPHECY - AGE ENDING.pdf",
+      "json": "special-writing-084.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "084 - PROPHECY - AGE ENDING.pdf",
+          "size_bytes": 103571,
+          "sha256": "0cb9d2887d9af99d651551c18beba968dca6277d4bcb6d6687b61a654cfc3721"
+        },
+        "json": {
+          "file": "special-writing-084.json",
+          "size_bytes": 7500,
+          "sha256": "4eb9143b129b23a454e3d4a1871c0d4bc54b12d83013a88bc67a4366a748552b"
+        }
+      }
+    },
+    {
+      "id": "special-writing-085",
+      "number": 85,
+      "title": "PROPHECY FULFILLING - HARVEST TIME",
+      "year": 2008,
+      "pdf": "085 - PROPHECY FULFILLING - HARVEST TIME.pdf",
+      "json": "special-writing-085.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "085 - PROPHECY FULFILLING - HARVEST TIME.pdf",
+          "size_bytes": 104261,
+          "sha256": "6c97266e2ead3c311eb8ec148be4b9d30220e7b691fad77490b3c252f15ccc83"
+        },
+        "json": {
+          "file": "special-writing-085.json",
+          "size_bytes": 7086,
+          "sha256": "2eba71dce1b75dd4114f8d365298b7423fb0427e25c75065d61297505863db46"
+        }
+      }
+    },
+    {
+      "id": "special-writing-086",
+      "number": 86,
+      "title": "THE GOSPEL NET",
+      "year": 2009,
+      "pdf": "086 - THE GOSPEL NET.pdf",
+      "json": "special-writing-086.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "086 - THE GOSPEL NET.pdf",
+          "size_bytes": 125970,
+          "sha256": "de8045236026bf0374ddc5905d6f50e19593934071013b3576a2b9703e49ac86"
+        },
+        "json": {
+          "file": "special-writing-086.json",
+          "size_bytes": 4407,
+          "sha256": "5c243e855ccaa1fe9f8c96c40b40ce902ce0ed4cb6e5cfbdf679b3bb013e28d3"
+        }
+      }
+    },
+    {
+      "id": "special-writing-087",
+      "number": 87,
+      "title": "GOLD AND THE ECONOMIC CRISIS",
+      "year": 2009,
+      "pdf": "087 - GOLD AND THE ECONOMIC CRISIS.pdf",
+      "json": "special-writing-087.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "087 - GOLD AND THE ECONOMIC CRISIS.pdf",
+          "size_bytes": 144104,
+          "sha256": "bbf4c04a1f0afce3affe9eeb20bb235294452f763cb7abcc2642032613b0cd82"
+        },
+        "json": {
+          "file": "special-writing-087.json",
+          "size_bytes": 5770,
+          "sha256": "186cde544f186d2acbdbb1c3ebeabd9de281bd9ddb96dc3f8ced1c092cfe6670"
+        }
+      }
+    },
+    {
+      "id": "special-writing-088",
+      "number": 88,
+      "title": "GOD'S WONDER - THE CAPSTONE MINISTRY",
+      "year": 2009,
+      "pdf": "088 - GOD'S WONDER - THE CAPSTONE MINISTRY.pdf",
+      "json": "special-writing-088.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "088 - GOD'S WONDER - THE CAPSTONE MINISTRY.pdf",
+          "size_bytes": 100081,
+          "sha256": "315aba1251e47b704693199c23ce5cadf088a575bb5e1fc49c428a6a34149758"
+        },
+        "json": {
+          "file": "special-writing-088.json",
+          "size_bytes": 5767,
+          "sha256": "aa87af49f058e0674f50f766482fa0652350cb28dff63d1e668f54ded5eb8d4f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-089",
+      "number": 89,
+      "title": "PRESCRIPTION FOR FAITH BENEFITS",
+      "year": 2009,
+      "pdf": "089 - PRESCRIPTION FOR FAITH BENEFITS.pdf",
+      "json": "special-writing-089.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "089 - PRESCRIPTION FOR FAITH BENEFITS.pdf",
+          "size_bytes": 105342,
+          "sha256": "b251f6592e23a80f5c2fc2271c75c7464dfc154b45449fa980e28065ed6cb32a"
+        },
+        "json": {
+          "file": "special-writing-089.json",
+          "size_bytes": 8018,
+          "sha256": "8c317c12f6d25df65bacc0dd515750f06918517b59dab5f2533a65353019de7f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-090",
+      "number": 90,
+      "title": "THE HANDWRITING ON THE WALL - PROPHECY",
+      "year": 2009,
+      "pdf": "090 - THE HANDWRITING ON THE WALL - PROPHECY.pdf",
+      "json": "special-writing-090.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "090 - THE HANDWRITING ON THE WALL - PROPHECY.pdf",
+          "size_bytes": 101627,
+          "sha256": "238a36a3b7dbe613679b69b182c05c43e07ea26e5e75721a5f65fa83c0bf313e"
+        },
+        "json": {
+          "file": "special-writing-090.json",
+          "size_bytes": 6403,
+          "sha256": "760c1b02d2c1b1166b12984902a7e689d96f55d855a77fffd14bfd948f17e01c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-091",
+      "number": 91,
+      "title": "END TIME PROPHECY",
+      "year": 2009,
+      "pdf": "091 - END TIME PROPHECY.pdf",
+      "json": "special-writing-091.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "091 - END TIME PROPHECY.pdf",
+          "size_bytes": 103902,
+          "sha256": "8d20ba99b0e1099acf0c328bfef9969dfcc013203f0f87a51735035d5a461b04"
+        },
+        "json": {
+          "file": "special-writing-091.json",
+          "size_bytes": 8154,
+          "sha256": "3b4d6b245ddefc110d3b47b7a4f366d53a54d85d2df1e0e0e9fed6e357b379f4"
+        }
+      }
+    },
+    {
+      "id": "special-writing-092",
+      "number": 92,
+      "title": "THE COMING APOCALYPTIC FLASH",
+      "year": 2009,
+      "pdf": "092 - THE COMING APOCALYPTIC FLASH.pdf",
+      "json": "special-writing-092.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "092 - THE COMING APOCALYPTIC FLASH.pdf",
+          "size_bytes": 110386,
+          "sha256": "f63baa7185580c62e8f9995da148a218407175df69176c881ea93c05fbdbfa50"
+        },
+        "json": {
+          "file": "special-writing-092.json",
+          "size_bytes": 5836,
+          "sha256": "39931a7b6ebacf0ddc90910fe38a2b1e52eab569b037b2da968ad174eb458cf7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-093",
+      "number": 93,
+      "title": "RAINBOW MIRACLE OF GRACE",
+      "year": 2009,
+      "pdf": "093 - RAINBOW MIRACLE OF GRACE.pdf",
+      "json": "special-writing-093.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "093 - RAINBOW MIRACLE OF GRACE.pdf",
+          "size_bytes": 103616,
+          "sha256": "b8f28beaa00b8d484934863c1f1bc8d47c4318d62c794218243a1a649da4271a"
+        },
+        "json": {
+          "file": "special-writing-093.json",
+          "size_bytes": 8012,
+          "sha256": "bc15147ec52285cc3ef49be7aa4854b25925e57f70d26d4a1076a4ef51e0e948"
+        }
+      }
+    },
+    {
+      "id": "special-writing-094",
+      "number": 94,
+      "title": "A VITAL MESSAGE",
+      "year": 2009,
+      "pdf": "094 - A VITAL MESSAGE.pdf",
+      "json": "special-writing-094.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "094 - A VITAL MESSAGE.pdf",
+          "size_bytes": 102516,
+          "sha256": "538213baa196f88b56f33d5bb4d2286241e855b36087bb365f9587a66829eb0c"
+        },
+        "json": {
+          "file": "special-writing-094.json",
+          "size_bytes": 6985,
+          "sha256": "f6520c89992c4b08513018cd2e2bf2a75706532340d77b6ae5f1b29660455e7e"
+        }
+      }
+    },
+    {
+      "id": "special-writing-095",
+      "number": 95,
+      "title": "ANCIENT AND FUTURE PROPHETIC EVENTS",
+      "year": 2009,
+      "pdf": "095 - ANCIENT AND FUTURE PROPHETIC EVENTS.pdf",
+      "json": "special-writing-095.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "095 - ANCIENT AND FUTURE PROPHETIC EVENTS.pdf",
+          "size_bytes": 105601,
+          "sha256": "2003b2b5f566dba0aa621778da8b846ed33a47ada4280a7fc6d976b079d3f300"
+        },
+        "json": {
+          "file": "special-writing-095.json",
+          "size_bytes": 7480,
+          "sha256": "544080fba4f747a2aa75ac4c2e16ab1acaccb102d0ace8b2388f4b789fe00d68"
+        }
+      }
+    },
+    {
+      "id": "special-writing-096",
+      "number": 96,
+      "title": "GOD'S FAITHFUL PROMISES",
+      "year": 2009,
+      "pdf": "096 - GOD'S FAITHFUL PROMISES.pdf",
+      "json": "special-writing-096.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "096 - GOD'S FAITHFUL PROMISES.pdf",
+          "size_bytes": 107562,
+          "sha256": "28eab77f49d81b9d688837dd1ff0b34799e4deebe67b23b70e2a20eb162d33c9"
+        },
+        "json": {
+          "file": "special-writing-096.json",
+          "size_bytes": 5909,
+          "sha256": "996d9f1289f797c61675f9a1d363b002e28c082b69269fbad5e36aeae675d4bc"
+        }
+      }
+    },
+    {
+      "id": "special-writing-097",
+      "number": 97,
+      "title": "SODOM - LOT AND THE FOOLISH VIRGINS",
+      "year": 2009,
+      "pdf": "097 - SODOM - LOT AND THE FOOLISH VIRGINS.pdf",
+      "json": "special-writing-097.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "097 - SODOM - LOT AND THE FOOLISH VIRGINS.pdf",
+          "size_bytes": 126481,
+          "sha256": "1dc0ae951df8912e14818117a77976e10ed92f164cb9ecada1359a4e38b7d775"
+        },
+        "json": {
+          "file": "special-writing-097.json",
+          "size_bytes": 7728,
+          "sha256": "86692533abb8b8404178bbb0b8085433f7caf5ea0c242e7523baded0658a4808"
+        }
+      }
+    },
+    {
+      "id": "special-writing-098",
+      "number": 98,
+      "title": "THE SIGNS OF THE TIME",
+      "year": 2009,
+      "pdf": "098 - THE SIGNS OF THE TIME.pdf",
+      "json": "special-writing-098.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "098 - THE SIGNS OF THE TIME.pdf",
+          "size_bytes": 101609,
+          "sha256": "594836f267e61502f6ce99f59a7fb00f67182d7f96795b0adaddaebb7c6c907a"
+        },
+        "json": {
+          "file": "special-writing-098.json",
+          "size_bytes": 6935,
+          "sha256": "136baff9e2107cb49385f90fee4abd2d7f7f73c9e36d3642b2197f5686305f33"
+        }
+      }
+    },
+    {
+      "id": "special-writing-099",
+      "number": 99,
+      "title": "THE ELECTRONIC AGE",
+      "year": 2009,
+      "pdf": "099 - THE ELECTRONIC AGE.pdf",
+      "json": "special-writing-099.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "099 - THE ELECTRONIC AGE.pdf",
+          "size_bytes": 101932,
+          "sha256": "5eafdec57c7d374a9113af2fa8579699680b517a38cb036cb4a67c446e8b753e"
+        },
+        "json": {
+          "file": "special-writing-099.json",
+          "size_bytes": 6735,
+          "sha256": "b8804f5d10c2073b9e51c81932169b82826a66735f72ee5100840e361816ac44"
+        }
+      }
+    },
+    {
+      "id": "special-writing-100",
+      "number": 100,
+      "title": "BLESSINGS IN THE TIME OF HARVEST",
+      "year": 2009,
+      "pdf": "100 - BLESSINGS IN THE TIME OF HARVEST.pdf",
+      "json": "special-writing-100.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "100 - BLESSINGS IN THE TIME OF HARVEST.pdf",
+          "size_bytes": 99594,
+          "sha256": "74ea352ba39ade1061044abd3b70c49f3a26cb2c64415ddab2406dff53eade64"
+        },
+        "json": {
+          "file": "special-writing-100.json",
+          "size_bytes": 7253,
+          "sha256": "695076afc53782e6770589311e02620ef96785dcd1a016a9e5cf9ed399446100"
+        }
+      }
+    },
+    {
+      "id": "special-writing-101",
+      "number": 101,
+      "title": "WORLD HISTORY AND PROPHETIC EVENTS",
+      "year": 2009,
+      "pdf": "101 - WORLD HISTORY AND PROPHETIC EVENTS.pdf",
+      "json": "special-writing-101.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "101 - WORLD HISTORY AND PROPHETIC EVENTS.pdf",
+          "size_bytes": 100840,
+          "sha256": "08c6f6553dd6cf50150704894df8410d07b3f354822e8246625f8e603da2aafc"
+        },
+        "json": {
+          "file": "special-writing-101.json",
+          "size_bytes": 6950,
+          "sha256": "62dd2f7e7a9087492d55f2d5a2834e031cdd73ca6a68a545c3b83770e6015372"
+        }
+      }
+    },
+    {
+      "id": "special-writing-102",
+      "number": 102,
+      "title": "ISRAEL - GOD'S PROPHETIC TIME CLOCK",
+      "year": 2009,
+      "pdf": "102 - ISRAEL - GOD'S PROPHETIC TIME CLOCK.pdf",
+      "json": "special-writing-102.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "102 - ISRAEL - GOD'S PROPHETIC TIME CLOCK.pdf",
+          "size_bytes": 103102,
+          "sha256": "3d4d9544e450db997d15995bc57abcb4cf17301272d5004ef5c8265fb4e52541"
+        },
+        "json": {
+          "file": "special-writing-102.json",
+          "size_bytes": 6944,
+          "sha256": "43e1d4439686850d2b0b919797b90512cec15a090c026c92e874b414b2291de6"
+        }
+      }
+    },
+    {
+      "id": "special-writing-103",
+      "number": 103,
+      "title": "MIRACLES - THE POTENTIALS OF GREATER FAITH",
+      "year": 2009,
+      "pdf": "103 - MIRACLES - THE POTENTIALS OF GREATER FAITH.pdf",
+      "json": "special-writing-103.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "103 - MIRACLES - THE POTENTIALS OF GREATER FAITH.pdf",
+          "size_bytes": 100048,
+          "sha256": "d64f6ed9b14e38eb050d0d64c8b4443a61f5a0fd192787de0343c726fc3a1433"
+        },
+        "json": {
+          "file": "special-writing-103.json",
+          "size_bytes": 6753,
+          "sha256": "361ebecca3f9bf142503aa2fa5205cec05c33150b0e35fdd78718416f99411fb"
+        }
+      }
+    },
+    {
+      "id": "special-writing-104",
+      "number": 104,
+      "title": "THE FALLEN LUCIFER AND GOD'S ETERNAL TIME",
+      "year": 2009,
+      "pdf": "104 - THE FALLEN LUCIFER AND GOD'S ETERNAL TIME.pdf",
+      "json": "special-writing-104.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "104 - THE FALLEN LUCIFER AND GOD'S ETERNAL TIME.pdf",
+          "size_bytes": 104458,
+          "sha256": "203c034d1c928700d05ab962a2605570cb0ed6026e183c12073c1cc92f6679bb"
+        },
+        "json": {
+          "file": "special-writing-104.json",
+          "size_bytes": 7547,
+          "sha256": "9a6b56d02cb2deaa79a900aad059acf4d738993eec34f74487b166fa00c47383"
+        }
+      }
+    },
+    {
+      "id": "special-writing-105",
+      "number": 105,
+      "title": "FAITH AND ENCOURAGEMENT",
+      "year": 2009,
+      "pdf": "105 - FAITH AND ENCOURAGEMENT.pdf",
+      "json": "special-writing-105.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "105 - FAITH AND ENCOURAGEMENT.pdf",
+          "size_bytes": 102104,
+          "sha256": "829c209e46be91baf477c20e7fd721c48bf3e76c23882a525f6e4d3e73b999f3"
+        },
+        "json": {
+          "file": "special-writing-105.json",
+          "size_bytes": 6826,
+          "sha256": "0c7d8308acbf6a7f7522c05c41a1f50ea3792ec4cad9bb14456931213e7ee8c5"
+        }
+      }
+    },
+    {
+      "id": "special-writing-106",
+      "number": 106,
+      "title": "GOD'S CREATION - MAN, A LIVING SOUL",
+      "year": 2009,
+      "pdf": "106 - GOD'S CREATION - MAN, A LIVING SOUL.pdf",
+      "json": "special-writing-106.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "106 - GOD'S CREATION - MAN, A LIVING SOUL.pdf",
+          "size_bytes": 104626,
+          "sha256": "048c33723529d60b7e91a7ebb1c33485ea71872d9e11a21d4b0a277adcf5c6b5"
+        },
+        "json": {
+          "file": "special-writing-106.json",
+          "size_bytes": 7262,
+          "sha256": "38e08a9193c30e293610d8250a30f731b0f4f35e248d0b69fb5940f62d62fcb5"
+        }
+      }
+    },
+    {
+      "id": "special-writing-107",
+      "number": 107,
+      "title": "PROPHETIC TIME CYCLES",
+      "year": 2009,
+      "pdf": "107 - PROPHETIC TIME CYCLES.pdf",
+      "json": "special-writing-107.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "107 - PROPHETIC TIME CYCLES.pdf",
+          "size_bytes": 95509,
+          "sha256": "0f27c679b526eac9c712d0c2d9e7ca75a236337f419b94bef6022e69df7b12cc"
+        },
+        "json": {
+          "file": "special-writing-107.json",
+          "size_bytes": 7197,
+          "sha256": "b4f38000899529693a8f51c80b3abe705c8607d4fde888c3461649144de9d4c9"
+        }
+      }
+    },
+    {
+      "id": "special-writing-108",
+      "number": 108,
+      "title": "WHOSOEVER WILL LET HIM RECEIVE",
+      "year": 2009,
+      "pdf": "108 - WHOSOEVER WILL LET HIM RECEIVE.pdf",
+      "json": "special-writing-108.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "108 - WHOSOEVER WILL LET HIM RECEIVE.pdf",
+          "size_bytes": 104607,
+          "sha256": "157409e2bc1cf5fcf7f3737215da1d9cdcd77e74df0a37a947f6778383cb92e9"
+        },
+        "json": {
+          "file": "special-writing-108.json",
+          "size_bytes": 8311,
+          "sha256": "5c8ed1ef60268ee3d6a8177592fed82c71117f42837c5dcc86855bd70f6a9b3c"
+        }
+      }
+    },
+    {
+      "id": "special-writing-109",
+      "number": 109,
+      "title": "PROPHETIC ANGELIC VISITATIONS",
+      "year": 2009,
+      "pdf": "109 - PROPHETIC ANGELIC VISITATIONS.pdf",
+      "json": "special-writing-109.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "109 - PROPHETIC ANGELIC VISITATIONS.pdf",
+          "size_bytes": 104583,
+          "sha256": "066d030527aeef203c2001e4dc446e9f213f5f98fea6ce28376e8769f1bc91de"
+        },
+        "json": {
+          "file": "special-writing-109.json",
+          "size_bytes": 7199,
+          "sha256": "0f6383139323777dd99fbba44f9c4234bccdaf438c51fd3b9763cf2c28c96ce7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-110",
+      "number": 110,
+      "title": "WORLD DEVELOPMENT - PROPHECY",
+      "year": 2009,
+      "pdf": "110 - WORLD DEVELOPMENT - PROPHECY.pdf",
+      "json": "special-writing-110.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "110 - WORLD DEVELOPMENT - PROPHECY.pdf",
+          "size_bytes": 106112,
+          "sha256": "ea17ef06999176b03199407882e888ac6be5528515a72df8de3ccd97eaeb243d"
+        },
+        "json": {
+          "file": "special-writing-110.json",
+          "size_bytes": 7930,
+          "sha256": "fcf0d8c6dc5ccfc510912d104ac9e0178db20e5c532c89da8bf7e3362c09cc0f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-111",
+      "number": 111,
+      "title": "GOD'S LIGHTS AND SATAN'S FALSE LIGHTS - PART 1",
+      "year": 2009,
+      "pdf": "111 - GOD'S LIGHTS AND SATAN'S FALSE LIGHTS - PART 1.pdf",
+      "json": "special-writing-111.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "111 - GOD'S LIGHTS AND SATAN'S FALSE LIGHTS - PART 1.pdf",
+          "size_bytes": 128808,
+          "sha256": "28139fe1f2129f6a41950470f75464ad586e158c7cd7a7eefce6543e3640fa89"
+        },
+        "json": {
+          "file": "special-writing-111.json",
+          "size_bytes": 6088,
+          "sha256": "beee52ea3cdbf6578fdfb01240e8a2bafdd992f9508788f4352d2ebd65839c8f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-112",
+      "number": 112,
+      "title": "GOD'S LIGHTS AND SATAN'S FALSE LIGHTS - PART 2",
+      "year": 2009,
+      "pdf": "112 - GOD'S LIGHTS AND SATAN'S FALSE LIGHTS - PART 2.pdf",
+      "json": "special-writing-112.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "112 - GOD'S LIGHTS AND SATAN'S FALSE LIGHTS - PART 2.pdf",
+          "size_bytes": 179706,
+          "sha256": "3f99211642f5073b7f4f13f49e3eb6a323d116178a62b8ae2cd148d6d0ed75e5"
+        },
+        "json": {
+          "file": "special-writing-112.json",
+          "size_bytes": 4803,
+          "sha256": "deb999f8fd53108c487d624116122b8c3c6cf6a6ecd4818af87d6f5212f54b12"
+        }
+      }
+    },
+    {
+      "id": "special-writing-113",
+      "number": 113,
+      "title": "GOD'S ORIGINAL TIME",
+      "year": 2009,
+      "pdf": "113 - GOD'S ORIGINAL TIME.pdf",
+      "json": "special-writing-113.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "113 - GOD'S ORIGINAL TIME.pdf",
+          "size_bytes": 108517,
+          "sha256": "dc30a43cf8532beaca6ae920fb17349b1821512925790139cb2439357c3aa6bc"
+        },
+        "json": {
+          "file": "special-writing-113.json",
+          "size_bytes": 8572,
+          "sha256": "c206d9e963ace33bbf4eb147f9e4a99ef178069fdd22de068da25e989ce7af67"
+        }
+      }
+    },
+    {
+      "id": "special-writing-114",
+      "number": 114,
+      "title": "SIGNIFICANT SIGNS",
+      "year": 2009,
+      "pdf": "114 - SIGNIFICANT SIGNS.pdf",
+      "json": "special-writing-114.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "114 - SIGNIFICANT SIGNS.pdf",
+          "size_bytes": 102765,
+          "sha256": "4cfbc85493a6eaeed421cc71c66496d75b475b66398064126670528827b335c0"
+        },
+        "json": {
+          "file": "special-writing-114.json",
+          "size_bytes": 7745,
+          "sha256": "e53a7648a6af594f06a75380bbbfbb7a04bc2a2a56fe165ad157d38fac1fc7e7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-115",
+      "number": 115,
+      "title": "PROPHECY - TIME ALERT",
+      "year": 2009,
+      "pdf": "115 - PROPHECY - TIME ALERT.pdf",
+      "json": "special-writing-115.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "115 - PROPHECY - TIME ALERT.pdf",
+          "size_bytes": 101367,
+          "sha256": "13b0a6608befee472465d4eb80eb1a297cabfaa7b9ba578bb63a292536fac9f5"
+        },
+        "json": {
+          "file": "special-writing-115.json",
+          "size_bytes": 6347,
+          "sha256": "c7a72f268adae7a5b82796c361860c40894731e205992682bbff0fd435df4b6a"
+        }
+      }
+    },
+    {
+      "id": "special-writing-116",
+      "number": 116,
+      "title": "A JOYFUL SPECIAL SCROLL LETTER",
+      "year": 2009,
+      "pdf": "116 - A JOYFUL SPECIAL SCROLL LETTER.pdf",
+      "json": "special-writing-116.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "116 - A JOYFUL SPECIAL SCROLL LETTER.pdf",
+          "size_bytes": 108071,
+          "sha256": "6bcdf6a1afd9060fbe265136baee7ad5eab06f348dc51cde4156a3d43c15a8c8"
+        },
+        "json": {
+          "file": "special-writing-116.json",
+          "size_bytes": 7959,
+          "sha256": "78b781d0dea0c4bf411880532d2c6c0873efb6ce7eaff00ef1dcf9589a39cae7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-117",
+      "number": 117,
+      "title": "THE POSSIBILITIES OF FAITH",
+      "year": 2009,
+      "pdf": "117 - THE POSSIBILITIES OF FAITH.pdf",
+      "json": "special-writing-117.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "117 - THE POSSIBILITIES OF FAITH.pdf",
+          "size_bytes": 103960,
+          "sha256": "894d8f7148506195e5873a10ff15eb50bcdd5a54ff1850d787105f9ce680be4c"
+        },
+        "json": {
+          "file": "special-writing-117.json",
+          "size_bytes": 7167,
+          "sha256": "05e36f8e345c0cda552acc319c75b7a8e02914d5fbe2809dd6e268d955a508a0"
+        }
+      }
+    },
+    {
+      "id": "special-writing-118",
+      "number": 118,
+      "title": "PROPHETIC SIGNS AND EVENTS",
+      "year": 2009,
+      "pdf": "118 - PROPHETIC SIGNS AND EVENTS.pdf",
+      "json": "special-writing-118.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "118 - PROPHETIC SIGNS AND EVENTS.pdf",
+          "size_bytes": 102549,
+          "sha256": "86bccfcaf24ca6a1d7eb5c2fa16d5c5ad0b79c52526edc86ab17658add59ed0c"
+        },
+        "json": {
+          "file": "special-writing-118.json",
+          "size_bytes": 6546,
+          "sha256": "3b2333c75d419f84fcf57a04ea167a1774bdedc245ad40405e3005f337e0de6a"
+        }
+      }
+    },
+    {
+      "id": "special-writing-119",
+      "number": 119,
+      "title": "NIGHT VISION - ARMAGEDDON PROPHECY",
+      "year": 2010,
+      "pdf": "119 - NIGHT VISION - ARMAGEDDON PROPHECY.pdf",
+      "json": "special-writing-119.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "119 - NIGHT VISION - ARMAGEDDON PROPHECY.pdf",
+          "size_bytes": 106603,
+          "sha256": "870fc623564e31b125133abd4fe748514d1bc77054d040142dc9c6bc94138d3d"
+        },
+        "json": {
+          "file": "special-writing-119.json",
+          "size_bytes": 7810,
+          "sha256": "b2a143e45d0c5d44e39986dc0ebe4a5f7411a64c882c56289462f946de990263"
+        }
+      }
+    },
+    {
+      "id": "special-writing-120",
+      "number": 120,
+      "title": "PROPHECY - LINE UPON LINE",
+      "year": 2010,
+      "pdf": "120 - PROPHECY - LINE UPON LINE.pdf",
+      "json": "special-writing-120.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "120 - PROPHECY - LINE UPON LINE.pdf",
+          "size_bytes": 103873,
+          "sha256": "6952ab296dd4a0461783791703401efe97d0828b37115e32f00b21ead88815c0"
+        },
+        "json": {
+          "file": "special-writing-120.json",
+          "size_bytes": 7152,
+          "sha256": "237370f0a5f68dad095967257da0875675994b1fc0b23b6688969a95b4c19f3b"
+        }
+      }
+    },
+    {
+      "id": "special-writing-121",
+      "number": 121,
+      "title": "GOD'S DEFINITE PROMISES - PROSPERITY AND HEALING",
+      "year": 2010,
+      "pdf": "121 - GOD'S DEFINITE PROMISES - PROSPERITY AND HEALING.pdf",
+      "json": "special-writing-121.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "121 - GOD'S DEFINITE PROMISES - PROSPERITY AND HEALING.pdf",
+          "size_bytes": 103365,
+          "sha256": "bf6091fcbe61dd83472a2b107f60ebb475da96cadf896d9b46588a2c76cc22a2"
+        },
+        "json": {
+          "file": "special-writing-121.json",
+          "size_bytes": 7556,
+          "sha256": "5ea1570ca36046018cbcf9eea12ac5c88b39b1b0c224804ab452daa44670a5ff"
+        }
+      }
+    },
+    {
+      "id": "special-writing-122",
+      "number": 122,
+      "title": "APOSTASY - A MOMENT OF TRUTH ARRIVING",
+      "year": 2010,
+      "pdf": "122 - APOSTASY - A MOMENT OF TRUTH ARRIVING.pdf",
+      "json": "special-writing-122.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "122 - APOSTASY - A MOMENT OF TRUTH ARRIVING.pdf",
+          "size_bytes": 116411,
+          "sha256": "655f8236ab35cfa96501dacd6e5f4b86c44797b1e5cffdd5baee35cadd893ada"
+        },
+        "json": {
+          "file": "special-writing-122.json",
+          "size_bytes": 5047,
+          "sha256": "ed6b04d6c1a0cfff3b68b17c9e92efa27939a53a0c44e83318acc9429f13d244"
+        }
+      }
+    },
+    {
+      "id": "special-writing-123",
+      "number": 123,
+      "title": "FALSE TEMPLE OF THE ANTI-CHRIST",
+      "year": 2010,
+      "pdf": "123 - FALSE TEMPLE OF THE ANTI-CHRIST.pdf",
+      "json": "special-writing-123.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "123 - FALSE TEMPLE OF THE ANTI-CHRIST.pdf",
+          "size_bytes": 104697,
+          "sha256": "e01e855dffd71927575878e316f6036c60dfa0577ac2f6846e46e1310015b52c"
+        },
+        "json": {
+          "file": "special-writing-123.json",
+          "size_bytes": 7270,
+          "sha256": "e152b91a7d45f4d89a88d554e44969f19303f8a9be05bfca608dfd89965c1aa6"
+        }
+      }
+    },
+    {
+      "id": "special-writing-124",
+      "number": 124,
+      "title": "PAST, PRESENT AND FUTURE",
+      "year": 2010,
+      "pdf": "124 - PAST, PRESENT AND FUTURE.pdf",
+      "json": "special-writing-124.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "124 - PAST, PRESENT AND FUTURE.pdf",
+          "size_bytes": 104591,
+          "sha256": "50fcd8c69f8d2071623ec004a6eb359e001ba3b5f9733164f05869a4099d8ae2"
+        },
+        "json": {
+          "file": "special-writing-124.json",
+          "size_bytes": 8086,
+          "sha256": "9b4d054fdd0c3252cfa952327ce4d0ee39dfb8239a64b0ffd0ef5a5e9ab23c3f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-125",
+      "number": 125,
+      "title": "THE PROPHETIC CLOCK IS TICKING",
+      "year": 2010,
+      "pdf": "125 - THE PROPHETIC CLOCK IS TICKING.pdf",
+      "json": "special-writing-125.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "125 - THE PROPHETIC CLOCK IS TICKING.pdf",
+          "size_bytes": 107983,
+          "sha256": "5b6bdde7a1e180a90ad46c2c80d7694908e1490be319a1e1fa487a0ae29094f1"
+        },
+        "json": {
+          "file": "special-writing-125.json",
+          "size_bytes": 8796,
+          "sha256": "3cb8886236a2f4fa6913bd6d7072e3bd6325143a77dedb2a8471eaec353314c4"
+        }
+      }
+    },
+    {
+      "id": "special-writing-126",
+      "number": 126,
+      "title": "THE CREATOR RETURNS",
+      "year": 2010,
+      "pdf": "126 - THE CREATOR RETURNS.pdf",
+      "json": "special-writing-126.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "126 - THE CREATOR RETURNS.pdf",
+          "size_bytes": 102023,
+          "sha256": "4ece954ef03e0520da02965fdaae91dd1463f800fdfb19a6c500843d40834310"
+        },
+        "json": {
+          "file": "special-writing-126.json",
+          "size_bytes": 6195,
+          "sha256": "7c2f66d76d649f8d3ec2225d0528cd49b1224a1871547d2406fc223e1e4e3edd"
+        }
+      }
+    },
+    {
+      "id": "special-writing-127",
+      "number": 127,
+      "title": "PROVIDENTIAL TIME - APPROACHING PROPHECY - (EZEKIEL 38)",
+      "year": 2010,
+      "pdf": "127 - PROVIDENTIAL TIME - APPROACHING PROPHECY - (EZEKIEL 38).pdf",
+      "json": "special-writing-127.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "127 - PROVIDENTIAL TIME - APPROACHING PROPHECY - (EZEKIEL 38).pdf",
+          "size_bytes": 107768,
+          "sha256": "71022b67c26755c0c43f378a5fd4f90f7da7800ea0803178fb038acdd5ddb7dd"
+        },
+        "json": {
+          "file": "special-writing-127.json",
+          "size_bytes": 8251,
+          "sha256": "8a487c18408e91ab84ead890b0dac06c25c59d2cd4e80d6652d0324fc84c189d"
+        }
+      }
+    },
+    {
+      "id": "special-writing-128",
+      "number": 128,
+      "title": "ISRAEL - GOD'S PROPHETIC TIMEPIECE",
+      "year": 2010,
+      "pdf": "128 - ISRAEL - GOD'S PROPHETIC TIMEPIECE.pdf",
+      "json": "special-writing-128.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "128 - ISRAEL - GOD'S PROPHETIC TIMEPIECE.pdf",
+          "size_bytes": 105020,
+          "sha256": "63b67ec9778e027b4efdfdeb06ca51d15252dd45e9e2da3a6d9ecdd5ad39c895"
+        },
+        "json": {
+          "file": "special-writing-128.json",
+          "size_bytes": 5781,
+          "sha256": "396ab6eec5b985c366c649586119472388170a8412bb52e831012f1a592c50d7"
+        }
+      }
+    },
+    {
+      "id": "special-writing-129",
+      "number": 129,
+      "title": "THE SIGNS OF PROPHECY - MIDNIGHT CRY",
+      "year": 2010,
+      "pdf": "129 - THE SIGNS OF PROPHECY - MIDNIGHT CRY.pdf",
+      "json": "special-writing-129.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "129 - THE SIGNS OF PROPHECY - MIDNIGHT CRY.pdf",
+          "size_bytes": 635557,
+          "sha256": "485dbdbe335e2f7d75310b676aeb1e90047bbb1c36ccd05b3184e277f1ef2e19"
+        },
+        "json": {
+          "file": "special-writing-129.json",
+          "size_bytes": 5309,
+          "sha256": "38031bca0bf21df45cc183d0a62457e137d5fa5e882000b0d26a8b438fee7b36"
+        }
+      }
+    },
+    {
+      "id": "special-writing-130",
+      "number": 130,
+      "title": "GOSSIP",
+      "year": 2010,
+      "pdf": "130 - GOSSIP.pdf",
+      "json": "special-writing-130.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "130 - GOSSIP.pdf",
+          "size_bytes": 115769,
+          "sha256": "56c8587e060040dcee9babfcfb156edb8d8a199dfc740f5b942675e7aebd63c8"
+        },
+        "json": {
+          "file": "special-writing-130.json",
+          "size_bytes": 6855,
+          "sha256": "2b5635f01e2fe073c1358a5aa0a3e684030532a2d468cafa938b6fce04d762f6"
+        }
+      }
+    },
+    {
+      "id": "special-writing-131",
+      "number": 131,
+      "title": "THE LAST GENERATION",
+      "year": 2010,
+      "pdf": "131 - THE LAST GENERATION.pdf",
+      "json": "special-writing-131.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "131 - THE LAST GENERATION.pdf",
+          "size_bytes": 118329,
+          "sha256": "982b4506daaaa0bfccb61b242b8de25f9905bb7c8c4091cb7aaacc0a28966df9"
+        },
+        "json": {
+          "file": "special-writing-131.json",
+          "size_bytes": 6735,
+          "sha256": "bfb48e66dfd8e3a210be21d7845c41fb0ab5ddd5625f51fdb59966ca12b72a61"
+        }
+      }
+    },
+    {
+      "id": "special-writing-132",
+      "number": 132,
+      "title": "THE SPIRIT OF PROPHECY",
+      "year": 2010,
+      "pdf": "132 - THE SPIRIT OF PROPHECY.pdf",
+      "json": "special-writing-132.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "132 - THE SPIRIT OF PROPHECY.pdf",
+          "size_bytes": 624903,
+          "sha256": "b30efee16ba50a37320587c7ce14711c1ab45b366291bdcdb7599602e5130147"
+        },
+        "json": {
+          "file": "special-writing-132.json",
+          "size_bytes": 4723,
+          "sha256": "3155d1ebbb8d5b1ffb858e08facc32ea0b0f3098353a37148358f79e972cb0c9"
+        }
+      }
+    },
+    {
+      "id": "special-writing-133",
+      "number": 133,
+      "title": "PROPHECY AND FULFILLMENT",
+      "year": 2010,
+      "pdf": "133 - PROPHECY AND FULFILLMENT.pdf",
+      "json": "special-writing-133.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "133 - PROPHECY AND FULFILLMENT.pdf",
+          "size_bytes": 113422,
+          "sha256": "ea0d7dc3e1e5c5a8459f3baba3389f28b5494b102c40aac6b6ebc1f3527ad54b"
+        },
+        "json": {
+          "file": "special-writing-133.json",
+          "size_bytes": 6445,
+          "sha256": "ff07b2884e5895c9690666c03807d9335ae8b0fda189f7fb81f50ac47581e4f9"
+        }
+      }
+    },
+    {
+      "id": "special-writing-134",
+      "number": 134,
+      "title": "MIRACLES OF DELIVERANCE",
+      "year": 2010,
+      "pdf": "134 - MIRACLES OF DELIVERANCE.pdf",
+      "json": "special-writing-134.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "134 - MIRACLES OF DELIVERANCE.pdf",
+          "size_bytes": 194375,
+          "sha256": "ac51c725ce12cb7b5e5794b45c66587ad931c7c572ab315a308191e74de38364"
+        },
+        "json": {
+          "file": "special-writing-134.json",
+          "size_bytes": 5985,
+          "sha256": "fbf99711491d936a6c4235fa5f195c3d16ec4ed5280f8763eb19094e0d05538b"
+        }
+      }
+    },
+    {
+      "id": "special-writing-135",
+      "number": 135,
+      "title": "GOD'S BEAUTIFUL PROMISES",
+      "year": 2010,
+      "pdf": "135 - GOD'S BEAUTIFUL PROMISES.pdf",
+      "json": "special-writing-135.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "135 - GOD'S BEAUTIFUL PROMISES.pdf",
+          "size_bytes": 118291,
+          "sha256": "a31bae3c986940c5c694b92aca2b073ae95d5db37aff49d2a33ee13a02ab1d02"
+        },
+        "json": {
+          "file": "special-writing-135.json",
+          "size_bytes": 7328,
+          "sha256": "558c0b0789e91574e6bc60fc397780dea1ab7e6e0bce7a137d82adcb494cbfac"
+        }
+      }
+    },
+    {
+      "id": "special-writing-136",
+      "number": 136,
+      "title": "PARADISE - GOD'S WISDOM",
+      "year": 2011,
+      "pdf": "136 - PARADISE - GOD'S WISDOM.pdf",
+      "json": "special-writing-136.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "136 - PARADISE - GOD'S WISDOM.pdf",
+          "size_bytes": 117515,
+          "sha256": "178e6d1b9edb68a7bdbaf6cccf8203b9bcd532e6f12ffaacdb93db866b778c8c"
+        },
+        "json": {
+          "file": "special-writing-136.json",
+          "size_bytes": 6782,
+          "sha256": "74b46a52afb1985dfba351ccf51fe4c44cdf7ac5a3a030cf7ce4ef6537145817"
+        }
+      }
+    },
+    {
+      "id": "special-writing-137",
+      "number": 137,
+      "title": "JESUS SAID ALL THINGS ARE POSSIBLE - MARK 9-23",
+      "year": 2011,
+      "pdf": "137 - JESUS SAID ALL THINGS ARE POSSIBLE - MARK 9-23.pdf",
+      "json": "special-writing-137.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "137 - JESUS SAID ALL THINGS ARE POSSIBLE - MARK 9-23.pdf",
+          "size_bytes": 151431,
+          "sha256": "2121f135adf5d26e4d72440c94ed773af09d9eb91085c0e2b93bf0ed31bd93a1"
+        },
+        "json": {
+          "file": "special-writing-137.json",
+          "size_bytes": 4887,
+          "sha256": "0092bf39a0a89a7f04ae66613af1eae31c1182e9d5f9de68b7f43eaab03bfa1e"
+        }
+      }
+    },
+    {
+      "id": "special-writing-138",
+      "number": 138,
+      "title": "IN THE NIGHT VISIONS - ARMAGEDDON",
+      "year": 2011,
+      "pdf": "138 - IN THE NIGHT VISIONS - ARMAGEDDON.pdf",
+      "json": "special-writing-138.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "138 - IN THE NIGHT VISIONS - ARMAGEDDON.pdf",
+          "size_bytes": 103862,
+          "sha256": "983732cd4de14f195c9f5ef3dd506b71b561ffe73d7d4db2b814b2c97632eabf"
+        },
+        "json": {
+          "file": "special-writing-138.json",
+          "size_bytes": 5783,
+          "sha256": "9dff47c502c6d67605f17847bfb6112d234049324fb655904aafbb93f882471f"
+        }
+      }
+    },
+    {
+      "id": "special-writing-139",
+      "number": 139,
+      "title": "THE FINAL CHAPTERS OF PROPHECY",
+      "year": 2011,
+      "pdf": "139 - THE FINAL CHAPTERS OF PROPHECY.pdf",
+      "json": "special-writing-139.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "139 - THE FINAL CHAPTERS OF PROPHECY.pdf",
+          "size_bytes": 104375,
+          "sha256": "a7ed51d939c023db3a2bd11c61cf0b4abe1643b67158748faa3e992f3d87e14f"
+        },
+        "json": {
+          "file": "special-writing-139.json",
+          "size_bytes": 7395,
+          "sha256": "674b73a56b7782c4d50a420ed6d65a481a1c59800b82abb68ee5214bc1ca0831"
+        }
+      }
+    },
+    {
+      "id": "special-writing-140",
+      "number": 140,
+      "title": "WORLD NEWS IN ADVANCE!",
+      "year": 2011,
+      "pdf": "140 - WORLD NEWS IN ADVANCE!.pdf",
+      "json": "special-writing-140.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "140 - WORLD NEWS IN ADVANCE!.pdf",
+          "size_bytes": 131422,
+          "sha256": "ebc907db8783075f5f72541023de63377ecd1490d560bee209bde95b0b505b9c"
+        },
+        "json": {
+          "file": "special-writing-140.json",
+          "size_bytes": 6500,
+          "sha256": "86b08df75d3fabed969bc20751c0bbea9ac58bb05063e1a506474abb7b6e2c52"
+        }
+      }
+    },
+    {
+      "id": "special-writing-141",
+      "number": 141,
+      "title": "GOD'S SPIRITUAL WIND",
+      "year": 2011,
+      "pdf": "141 - GOD'S SPIRITUAL WIND.pdf",
+      "json": "special-writing-141.json",
+      "number_verified_from_page_code": true,
+      "assets": {
+        "pdf": {
+          "file": "141 - GOD'S SPIRITUAL WIND.pdf",
+          "size_bytes": 106231,
+          "sha256": "af42c061692c546037f4ba5a1d95a25e756ccfe9cd0874c6cd73fe5e0ae083e9"
+        },
+        "json": {
+          "file": "special-writing-141.json",
+          "size_bytes": 5333,
+          "sha256": "4bd760a1193ae7c20899618a6bfcf787c642d9fbca0adbfd97b449416d85b42a"
+        }
+      }
+    }
   ]
 }

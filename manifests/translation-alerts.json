@@ -1,14 +1,1753 @@
 {
-  "schemaVersion": 1,
   "id": "translation-alerts",
   "name": "Translation Alerts",
-  "numberedAlertCount": 61,
-  "frontMatterDocuments": 1,
-  "contentPattern": "content/translation-alerts/translation-alert-*.json",
-  "fileNaming": "NNN - Title.pdf",
-  "internalStructure": "Preserve explicit numbered points as numbered_item blocks; preserve introductory paragraphs and compilation subheadings.",
-  "notes": [
-    "Do not repeat the words Translation Alert before every item inside the collection.",
-    "Same-page alert boundaries were split at the printed header position."
+  "alert_count": 61,
+  "front_matter": true,
+  "documents": [
+    {
+      "id": "translation-alerts-introduction",
+      "number": null,
+      "title": "Introduction",
+      "pdf": "Introduction.pdf",
+      "json": "translation-alerts-introduction.json",
+      "assets": {
+        "pdf": {
+          "file": "Introduction.pdf",
+          "size_bytes": 178798,
+          "sha256": "6127e0a857442dc2f1e425964128ee11d15625e229951cd6aa23a0f6d14830c4"
+        },
+        "json": {
+          "file": "translation-alerts-introduction.json",
+          "size_bytes": 3530,
+          "sha256": "8aa0c60e0f418210babe24aa1378ef9a35552bc94443b6b36f502038a6613b59"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-001",
+      "number": 1,
+      "title": "THE QUALIFICATIONS",
+      "cd_number": "1379",
+      "date_raw": "August 18, 1999 AM",
+      "pdf": "001 - THE QUALIFICATIONS.pdf",
+      "json": "translation-alert-001.json",
+      "source_pages": [
+        3,
+        4,
+        5
+      ],
+      "assets": {
+        "pdf": {
+          "file": "001 - THE QUALIFICATIONS.pdf",
+          "size_bytes": 96275,
+          "sha256": "21f0391e143bfda37c7472c4b19d12f84ef277a76357d0343b1b65d1ef044a3e"
+        },
+        "json": {
+          "file": "translation-alert-001.json",
+          "size_bytes": 10685,
+          "sha256": "07f21ea21cece6dfd46b0c659d3628efcc7ed0b9e92b594011065483e521d72d"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-002",
+      "number": 2,
+      "title": "BLOOD, FIRE AND FAITH",
+      "cd_number": "1237",
+      "date_raw": "11/20/88 AM",
+      "pdf": "002 - BLOOD, FIRE AND FAITH.pdf",
+      "json": "translation-alert-002.json",
+      "source_pages": [
+        5,
+        6,
+        7
+      ],
+      "assets": {
+        "pdf": {
+          "file": "002 - BLOOD, FIRE AND FAITH.pdf",
+          "size_bytes": 118354,
+          "sha256": "dfb171a10301fa5559e457b341e2c61a262801438543eaf7f34df797f437eb14"
+        },
+        "json": {
+          "file": "translation-alert-002.json",
+          "size_bytes": 10090,
+          "sha256": "7d7a4d7bc405de923d19a5958c2e56d5a432d31bd3e1119c642df64f81c8b73e"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-003",
+      "number": 3,
+      "title": "BOLD FAITH",
+      "cd_number": "1149",
+      "date_raw": "March 30, 1986",
+      "pdf": "003 - BOLD FAITH.pdf",
+      "json": "translation-alert-003.json",
+      "source_pages": [
+        7,
+        8
+      ],
+      "assets": {
+        "pdf": {
+          "file": "003 - BOLD FAITH.pdf",
+          "size_bytes": 100927,
+          "sha256": "a8e7a52871b1a49dfab5d9fd3c4c530d7ec1090eacefe9e2de59f7c60a90d105"
+        },
+        "json": {
+          "file": "translation-alert-003.json",
+          "size_bytes": 4621,
+          "sha256": "b61f285e013b039eadd9eba2815c43361860c55e180790187e85c07c3c3d839c"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-004",
+      "number": 4,
+      "title": "GOD’S CALM",
+      "cd_number": "1292",
+      "date_raw": "December 17, 1989",
+      "pdf": "004 - GOD'S CALM.pdf",
+      "json": "translation-alert-004.json",
+      "source_pages": [
+        8,
+        9,
+        10
+      ],
+      "assets": {
+        "pdf": {
+          "file": "004 - GOD'S CALM.pdf",
+          "size_bytes": 138588,
+          "sha256": "e995b705f904a08b077e55a77b8d43cda4264ec26239a1556457a9b2ee5128e9"
+        },
+        "json": {
+          "file": "translation-alert-004.json",
+          "size_bytes": 11417,
+          "sha256": "deb6271c0630e0cdc8def0cfc823614cb7cee4db7a2f254538b2d8ec95b5ff20"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-005",
+      "number": 5,
+      "title": "THE LITTLE FOXES (SPOILERS)",
+      "cd_number": "895",
+      "date_raw": "June 28, 1982 PM",
+      "pdf": "005 - THE LITTLE FOXES (SPOILERS).pdf",
+      "json": "translation-alert-005.json",
+      "source_pages": [
+        10,
+        11,
+        12
+      ],
+      "assets": {
+        "pdf": {
+          "file": "005 - THE LITTLE FOXES (SPOILERS).pdf",
+          "size_bytes": 108950,
+          "sha256": "f997219b8a64291b114a38078adcbe7d0817e230b2c135569c7932c90dda870a"
+        },
+        "json": {
+          "file": "translation-alert-005.json",
+          "size_bytes": 8862,
+          "sha256": "99236524dafff793ad2a4cb00d62d92092f982da6dd90116d69b1ceebd93c8f1"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-006",
+      "number": 6,
+      "title": "INFINITE KNOWLEDGE: FORESIGHT",
+      "cd_number": "1120",
+      "date_raw": "10/6/85 AM",
+      "pdf": "006 - INFINITE KNOWLEDGE- FORESIGHT.pdf",
+      "json": "translation-alert-006.json",
+      "source_pages": [
+        12,
+        13,
+        14
+      ],
+      "assets": {
+        "pdf": {
+          "file": "006 - INFINITE KNOWLEDGE- FORESIGHT.pdf",
+          "size_bytes": 136205,
+          "sha256": "5561e143a06b97d5799872431a091d2954ad7dc1281fa3b2fd4e712162a23eea"
+        },
+        "json": {
+          "file": "translation-alert-006.json",
+          "size_bytes": 8995,
+          "sha256": "41c42c21c824f2cae8575ee21f4db94d439112690f972e47b4c5ee4a17612ae3"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-007",
+      "number": 7,
+      "title": "THE CHRISTIAN WARFARE",
+      "cd_number": "948",
+      "date_raw": "6/01/83 PM",
+      "pdf": "007 - THE CHRISTIAN WARFARE.pdf",
+      "json": "translation-alert-007.json",
+      "source_pages": [
+        14,
+        15,
+        16
+      ],
+      "assets": {
+        "pdf": {
+          "file": "007 - THE CHRISTIAN WARFARE.pdf",
+          "size_bytes": 114782,
+          "sha256": "40712257d11caeb6101450778c08bc034df922c00355c8e89f6e733c48651046"
+        },
+        "json": {
+          "file": "translation-alert-007.json",
+          "size_bytes": 12208,
+          "sha256": "3e0d98d13ea8f43764c1fbfb831b3f822763f039167600732fd22bae0034938c"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-008",
+      "number": 8,
+      "title": "THE ETERNAL PART 1",
+      "cd_number": "905",
+      "date_raw": "7/18/82 PM",
+      "pdf": "008 - THE ETERNAL PART 1.pdf",
+      "json": "translation-alert-008.json",
+      "source_pages": [
+        16,
+        17,
+        18
+      ],
+      "assets": {
+        "pdf": {
+          "file": "008 - THE ETERNAL PART 1.pdf",
+          "size_bytes": 134349,
+          "sha256": "0169de28f94d039565203ebafe6d1a6bc362effacada1aa7a3a27782f527a6d1"
+        },
+        "json": {
+          "file": "translation-alert-008.json",
+          "size_bytes": 8025,
+          "sha256": "fdb5a2140306f874126697065e10d29dac4a24df0de94386089ce8fbeef7155e"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-009",
+      "number": 9,
+      "title": "BE AWARE",
+      "cd_number": "827",
+      "date_raw": "02/25/81 PM",
+      "pdf": "009 - BE AWARE.pdf",
+      "json": "translation-alert-009.json",
+      "source_pages": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "assets": {
+        "pdf": {
+          "file": "009 - BE AWARE.pdf",
+          "size_bytes": 148249,
+          "sha256": "f222351ac5335a8bc8d8abcf95b4e44bb78d3bcaa3823a120fe8f392754d8bd3"
+        },
+        "json": {
+          "file": "translation-alert-009.json",
+          "size_bytes": 18106,
+          "sha256": "5bc5114a3d8dda10681e1bc1fab90d6b556853765dafb98baf6163e945d90288"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-010",
+      "number": 10,
+      "title": "THE SUN IS SETTING",
+      "cd_number": "1623",
+      "date_raw": "05/05/96 AM",
+      "pdf": "010 - THE SUN IS SETTING.pdf",
+      "json": "translation-alert-010.json",
+      "source_pages": [
+        21,
+        22,
+        23
+      ],
+      "assets": {
+        "pdf": {
+          "file": "010 - THE SUN IS SETTING.pdf",
+          "size_bytes": 131646,
+          "sha256": "e98b36e0ccf016ac8b19990a465d59ee3071d3ab71847cdaabc10e06d769a177"
+        },
+        "json": {
+          "file": "translation-alert-010.json",
+          "size_bytes": 7213,
+          "sha256": "460b2f87fbf9b1825d810133f1be989674f6c2c1853d179262e3a8148c7810cc"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-011",
+      "number": 11,
+      "title": "LIMITING",
+      "cd_number": "1063",
+      "date_raw": "08/04/85 AM",
+      "pdf": "011 - LIMITING.pdf",
+      "json": "translation-alert-011.json",
+      "source_pages": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "assets": {
+        "pdf": {
+          "file": "011 - LIMITING.pdf",
+          "size_bytes": 185923,
+          "sha256": "0f9c2c7406227cb08518a1822d73aaf70d530909ec86d34dde8f0355eb1f2965"
+        },
+        "json": {
+          "file": "translation-alert-011.json",
+          "size_bytes": 27569,
+          "sha256": "9fb4e66da95092af3f66892cd88dc6263e693e803491683a0b726136f1a84c86"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-012",
+      "number": 12,
+      "title": "COMMOTION",
+      "cd_number": "909A",
+      "date_raw": "6/23/82 PM",
+      "pdf": "012 - COMMOTION.pdf",
+      "json": "translation-alert-012.json",
+      "source_pages": [
+        28,
+        29,
+        30
+      ],
+      "assets": {
+        "pdf": {
+          "file": "012 - COMMOTION.pdf",
+          "size_bytes": 136797,
+          "sha256": "f799101dacf3509b145d70a48e750d2bbf0aa2b220a6e0f3ceebda065f722685"
+        },
+        "json": {
+          "file": "translation-alert-012.json",
+          "size_bytes": 10891,
+          "sha256": "a6aaf1259e5f431ef2610b7bbe826604f89f308a716a1aeecb5b0afbcea85263"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-013",
+      "number": 13,
+      "title": "JESUS – ETERNAL LIFE",
+      "cd_number": null,
+      "date_raw": "09/23/90 AM",
+      "pdf": "013 - JESUS - ETERNAL LIFE.pdf",
+      "json": "translation-alert-013.json",
+      "source_pages": [
+        30,
+        31,
+        32
+      ],
+      "assets": {
+        "pdf": {
+          "file": "013 - JESUS - ETERNAL LIFE.pdf",
+          "size_bytes": 134917,
+          "sha256": "582b160755dbc0d069ad153404233494476b131bcee9f2c87c64523b7b1d3347"
+        },
+        "json": {
+          "file": "translation-alert-013.json",
+          "size_bytes": 9654,
+          "sha256": "47f805174f793ab8a17885f2be39ca23f130e4e3ecf7bccc398e1dedbad470a0"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-014",
+      "number": 14,
+      "title": "ABIDING FAITH",
+      "cd_number": "982B",
+      "date_raw": "10/08/84 AM",
+      "pdf": "014 - ABIDING FAITH.pdf",
+      "json": "translation-alert-014.json",
+      "source_pages": [
+        32,
+        33,
+        34
+      ],
+      "assets": {
+        "pdf": {
+          "file": "014 - ABIDING FAITH.pdf",
+          "size_bytes": 168193,
+          "sha256": "d3862eb9160c860062edf5d1561bd0811d732e65237aeb83425745a8b901dc86"
+        },
+        "json": {
+          "file": "translation-alert-014.json",
+          "size_bytes": 9089,
+          "sha256": "f7c9e01324808d1cc43f11e3d7fc2615654281a4c748b75a2ca929063af3c3b7"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-015",
+      "number": 15,
+      "title": "HIDDEN MANNER",
+      "cd_number": "1270",
+      "date_raw": "07/16/89 AM",
+      "pdf": "015 - HIDDEN MANNER.pdf",
+      "json": "translation-alert-015.json",
+      "source_pages": [
+        34,
+        35,
+        36
+      ],
+      "assets": {
+        "pdf": {
+          "file": "015 - HIDDEN MANNER.pdf",
+          "size_bytes": 172289,
+          "sha256": "be9b589c0dfa56fb2145c2f6b78bc5311b86123f8ce14751bd94086e7b95c112"
+        },
+        "json": {
+          "file": "translation-alert-015.json",
+          "size_bytes": 10911,
+          "sha256": "26d5a6fe8f85c6bd5e1027a6158d95dd9e05605da1bb0ebc15b39b87dade94ef"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-016",
+      "number": 16,
+      "title": "CONFESSION’S POWER",
+      "cd_number": "1295",
+      "date_raw": "01/07/90 AM",
+      "pdf": "016 - CONFESSION'S POWER.pdf",
+      "json": "translation-alert-016.json",
+      "source_pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "assets": {
+        "pdf": {
+          "file": "016 - CONFESSION'S POWER.pdf",
+          "size_bytes": 228501,
+          "sha256": "b4d283c9286767824818be3752ed77dc83bb45370592534896828554d4937d35"
+        },
+        "json": {
+          "file": "translation-alert-016.json",
+          "size_bytes": 29694,
+          "sha256": "0239825fb9c531e5f9521bfaa9b1296dadb5e47225000dc29eab6a01233540d2"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-017",
+      "number": 17,
+      "title": "REMEMBERING THE SCRIPTURES",
+      "cd_number": "1340",
+      "date_raw": "10/1286",
+      "pdf": "017 - REMEMBERING THE SCRIPTURES.pdf",
+      "json": "translation-alert-017.json",
+      "source_pages": [
+        42,
+        43,
+        44
+      ],
+      "assets": {
+        "pdf": {
+          "file": "017 - REMEMBERING THE SCRIPTURES.pdf",
+          "size_bytes": 175638,
+          "sha256": "a7f221f72fbc8d9c0f347a6df6c1eb4a97f46a742523679c03ae2854c2403925"
+        },
+        "json": {
+          "file": "translation-alert-017.json",
+          "size_bytes": 12301,
+          "sha256": "c74a1427d94051d1581066b9af5ed9ed536eda59ff42474e07f9bccfdc141479"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-018",
+      "number": 18,
+      "title": "THE SEED OF FAITH",
+      "cd_number": "1861",
+      "date_raw": "02/17/83 PM",
+      "pdf": "018 - THE SEED OF FAITH.pdf",
+      "json": "translation-alert-018.json",
+      "source_pages": [
+        44,
+        45,
+        46
+      ],
+      "assets": {
+        "pdf": {
+          "file": "018 - THE SEED OF FAITH.pdf",
+          "size_bytes": 199837,
+          "sha256": "b562fae490a4d03a62962d5ad4430b55dd550dfe79458eb40d1c3b2bb6b71963"
+        },
+        "json": {
+          "file": "translation-alert-018.json",
+          "size_bytes": 11230,
+          "sha256": "fb4b1eb95a9919b46eb00255150408c6396f6ba645af83d972955190832d5323"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-019",
+      "number": 19,
+      "title": "STAND SURE",
+      "cd_number": "914A",
+      "date_raw": "09/29/82",
+      "pdf": "019 - STAND SURE.pdf",
+      "json": "translation-alert-019.json",
+      "source_pages": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "assets": {
+        "pdf": {
+          "file": "019 - STAND SURE.pdf",
+          "size_bytes": 138133,
+          "sha256": "d8d694725e6bbc68b055a5e5fd3aef1c3ec9174847fb19483032e1ccfb108853"
+        },
+        "json": {
+          "file": "translation-alert-019.json",
+          "size_bytes": 28859,
+          "sha256": "188d66fc17b5bb991aae1e1b7d6eda041732eca929ee19fc099ef0de94b3e8a5"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-020",
+      "number": 20,
+      "title": "THE ANGEL OF LIGHTS",
+      "cd_number": "1171",
+      "date_raw": "08/23/87",
+      "pdf": "020 - THE ANGEL OF LIGHTS.pdf",
+      "json": "translation-alert-020.json",
+      "source_pages": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "assets": {
+        "pdf": {
+          "file": "020 - THE ANGEL OF LIGHTS.pdf",
+          "size_bytes": 175974,
+          "sha256": "53b76011198bb39a86fe37c1092990fe78eae246a5d7973744c823f19f4bf000"
+        },
+        "json": {
+          "file": "translation-alert-020.json",
+          "size_bytes": 20398,
+          "sha256": "6be1fcb47ac7dff6b8db0649e6bd70e275a6e55534bf6d19fea2ea8685ce9227"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-021",
+      "number": 21,
+      "title": "MAGNIFIED FAITH: THE TITLE DEED",
+      "cd_number": "1309",
+      "date_raw": "02/22/90 AM",
+      "pdf": "021 - MAGNIFIED FAITH- THE TITLE DEED.pdf",
+      "json": "translation-alert-021.json",
+      "source_pages": [
+        55,
+        56,
+        57
+      ],
+      "assets": {
+        "pdf": {
+          "file": "021 - MAGNIFIED FAITH- THE TITLE DEED.pdf",
+          "size_bytes": 144184,
+          "sha256": "44284a9cd91645556280835283c4c0f6b1d0aca2a7df10fc10b713c67f051b38"
+        },
+        "json": {
+          "file": "translation-alert-021.json",
+          "size_bytes": 14364,
+          "sha256": "2150c1e4714bcc3d956e65c42bb4ac83d8c082b6223ae1efb445c66dea2dec2b"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-022",
+      "number": 22,
+      "title": "THE SEARCH",
+      "cd_number": "814",
+      "date_raw": "12/03/80 PM",
+      "pdf": "022 - THE SEARCH.pdf",
+      "json": "translation-alert-022.json",
+      "source_pages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "assets": {
+        "pdf": {
+          "file": "022 - THE SEARCH.pdf",
+          "size_bytes": 275954,
+          "sha256": "8452e4b49a32a591a032fe3755f3ccb2378d269d8b0e4bc9f1daf0083cffb9b2"
+        },
+        "json": {
+          "file": "translation-alert-022.json",
+          "size_bytes": 39898,
+          "sha256": "3f33a81532e1f0160b30ed845ebbfb290484af59f732f6108d7dbdbf16157def"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-023",
+      "number": 23,
+      "title": "THE VICTOR",
+      "cd_number": "1225",
+      "date_raw": "09/04/88 AM",
+      "pdf": "023 - THE VICTOR.pdf",
+      "json": "translation-alert-023.json",
+      "source_pages": [
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "assets": {
+        "pdf": {
+          "file": "023 - THE VICTOR.pdf",
+          "size_bytes": 189301,
+          "sha256": "52191907612580dfbac1ca4786fe5a8b92f880c67bf8b8290d693582ee67d568"
+        },
+        "json": {
+          "file": "translation-alert-023.json",
+          "size_bytes": 22953,
+          "sha256": "1bd85d877e0f499528b33553051170d38548d37478fc1d967142b3b67b887f31"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-024",
+      "number": 24,
+      "title": "APOSTACY CYCLE",
+      "cd_number": "1130",
+      "date_raw": "11/12/86 PM",
+      "pdf": "024 - APOSTACY CYCLE.pdf",
+      "json": "translation-alert-024.json",
+      "source_pages": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "assets": {
+        "pdf": {
+          "file": "024 - APOSTACY CYCLE.pdf",
+          "size_bytes": 138018,
+          "sha256": "1f3492dbf65a9de4494331b4cff1fab623f6832ededecf241d8cac04a9fe1c8f"
+        },
+        "json": {
+          "file": "translation-alert-024.json",
+          "size_bytes": 26637,
+          "sha256": "e47383867272d2e22dba2a67b228ea327a0f32cd304d3a4b0513e3ee66cb74e5"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-025",
+      "number": 25,
+      "title": "STEP BY STEP TO HEAVEN",
+      "cd_number": "1825",
+      "date_raw": "06/06/82PM",
+      "pdf": "025 - STEP BY STEP TO HEAVEN.pdf",
+      "json": "translation-alert-025.json",
+      "source_pages": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "assets": {
+        "pdf": {
+          "file": "025 - STEP BY STEP TO HEAVEN.pdf",
+          "size_bytes": 189920,
+          "sha256": "71dd8cb242beb2037bccef9d1e2372166ee79b0cda321fd08bbdd0367ba0cf24"
+        },
+        "json": {
+          "file": "translation-alert-025.json",
+          "size_bytes": 22637,
+          "sha256": "3f90a4d28f5ef8f984bda703c0d156762bd361b89b671b46619680bd7c9865b6"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-026",
+      "number": 26,
+      "title": "HOLD FAST",
+      "cd_number": "1250",
+      "date_raw": "02/11/89 PM",
+      "pdf": "026 - HOLD FAST.pdf",
+      "json": "translation-alert-026.json",
+      "source_pages": [
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "assets": {
+        "pdf": {
+          "file": "026 - HOLD FAST.pdf",
+          "size_bytes": 182266,
+          "sha256": "42ece444765d15c2cde0b9eb4b91989bac233367060380de27e7062e916faae4"
+        },
+        "json": {
+          "file": "translation-alert-026.json",
+          "size_bytes": 21670,
+          "sha256": "e5cc30ff80a61746064399d3ca25a508ae8cb1ac244f87856eeeede394562ae3"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-027",
+      "number": 27,
+      "title": "THE MOST PRECIOUS ANNOINTING",
+      "cd_number": "1436",
+      "date_raw": "12/17/80 PM",
+      "pdf": "027 - THE MOST PRECIOUS ANNOINTING.pdf",
+      "json": "translation-alert-027.json",
+      "source_pages": [
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "assets": {
+        "pdf": {
+          "file": "027 - THE MOST PRECIOUS ANNOINTING.pdf",
+          "size_bytes": 176281,
+          "sha256": "eef161f8fbcab15c3f57eff881eeb765d6beb8fc2704b5a0ad19b8250bbfde3d"
+        },
+        "json": {
+          "file": "translation-alert-027.json",
+          "size_bytes": 20817,
+          "sha256": "2bbcef8663bf700267f305094cd6e1177f9b5431c93ae280ae9cf56c1e39ffa1"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-028",
+      "number": 28,
+      "title": "ARROWS OF FAITH",
+      "cd_number": "1223",
+      "date_raw": "8/24/88 PM",
+      "pdf": "028 - ARROWS OF FAITH.pdf",
+      "json": "translation-alert-028.json",
+      "source_pages": [
+        85,
+        86
+      ],
+      "assets": {
+        "pdf": {
+          "file": "028 - ARROWS OF FAITH.pdf",
+          "size_bytes": 125906,
+          "sha256": "0fc344ef09343cbb0510d015f7846e2f709476de4020fd4bb7f8673f03e7781d"
+        },
+        "json": {
+          "file": "translation-alert-028.json",
+          "size_bytes": 3052,
+          "sha256": "15b88c17f44856a1c95a9dd8c85c6212d4de2ec6f3cfe5968e39cad90c5af9b7"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-029",
+      "number": 29,
+      "title": "THE WILDERNESS EXPERIENCCE",
+      "cd_number": "815",
+      "date_raw": "12/14/80 AM",
+      "pdf": "029 - THE WILDERNESS EXPERIENCCE.pdf",
+      "json": "translation-alert-029.json",
+      "source_pages": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "assets": {
+        "pdf": {
+          "file": "029 - THE WILDERNESS EXPERIENCCE.pdf",
+          "size_bytes": 213608,
+          "sha256": "c6500df86bb1a16bdeeb1aa2039c8234c2f88831bf2f77c55c9fe15a88e4f8b6"
+        },
+        "json": {
+          "file": "translation-alert-029.json",
+          "size_bytes": 45662,
+          "sha256": "76e388fa115f2e6b704a453ebe74638b2682e6ecb079e056755972af2379f7b5"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-030",
+      "number": 30,
+      "title": "JESUS IS COMING SOON",
+      "cd_number": "1448",
+      "date_raw": "12/20/92 AM",
+      "pdf": "030 - JESUS IS COMING SOON.pdf",
+      "json": "translation-alert-030.json",
+      "source_pages": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "assets": {
+        "pdf": {
+          "file": "030 - JESUS IS COMING SOON.pdf",
+          "size_bytes": 121913,
+          "sha256": "48916d09a705824cb67fd13ef94ad7e2f06a85a81f826d308500e14dfb0fd361"
+        },
+        "json": {
+          "file": "translation-alert-030.json",
+          "size_bytes": 19276,
+          "sha256": "84b8fc75db44dc169ef912c685d4e79785edca97d2d4e50912aa73671b3dc1fe"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-031",
+      "number": 31,
+      "title": "THE DUST OF DESTINY",
+      "cd_number": "1518",
+      "date_raw": "04/27/94 PM",
+      "pdf": "031 - THE DUST OF DESTINY.pdf",
+      "json": "translation-alert-031.json",
+      "source_pages": [
+        97,
+        98,
+        99
+      ],
+      "assets": {
+        "pdf": {
+          "file": "031 - THE DUST OF DESTINY.pdf",
+          "size_bytes": 160003,
+          "sha256": "7ba188a1131101efd66735a2f5e749bea7aa8b75cefba89578142721004eab3b"
+        },
+        "json": {
+          "file": "translation-alert-031.json",
+          "size_bytes": 7732,
+          "sha256": "a169efaf192dea3c76f3f578bf6873a71b7075de5c9ebe2c8ec2cde7d94c5a33"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-032",
+      "number": 32,
+      "title": "ETERNAL FRIENDSHIP",
+      "cd_number": "967b",
+      "date_raw": "09/28/83 PM",
+      "pdf": "032 - ETERNAL FRIENDSHIP.pdf",
+      "json": "translation-alert-032.json",
+      "source_pages": [
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "assets": {
+        "pdf": {
+          "file": "032 - ETERNAL FRIENDSHIP.pdf",
+          "size_bytes": 177968,
+          "sha256": "3aa1349616025df779c6c4dbd99d8c76bb44a7428f84e34c5f35fb72ea6893a3"
+        },
+        "json": {
+          "file": "translation-alert-032.json",
+          "size_bytes": 19496,
+          "sha256": "dcfb32818dc090a02726d63b1edb83a091016ce72f994b043433a6279999923a"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-033",
+      "number": 33,
+      "title": "THE PROPHET AND THE LION",
+      "cd_number": "804",
+      "date_raw": "09/28/80 AM",
+      "pdf": "033 - THE PROPHET AND THE LION.pdf",
+      "json": "translation-alert-033.json",
+      "source_pages": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111
+      ],
+      "assets": {
+        "pdf": {
+          "file": "033 - THE PROPHET AND THE LION.pdf",
+          "size_bytes": 182398,
+          "sha256": "74beae729d377753ddf8882f48596ee90eaf9f1403743c6a38aff9adb232ae43"
+        },
+        "json": {
+          "file": "translation-alert-033.json",
+          "size_bytes": 39886,
+          "sha256": "79d8eab12b35227969cbd92735ddb0889d6af83e119afa98d70996b82052dc81"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-034",
+      "number": 34,
+      "title": "WISDOM",
+      "cd_number": "1781",
+      "date_raw": "01/04/81 PM",
+      "pdf": "034 - WISDOM.pdf",
+      "json": "translation-alert-034.json",
+      "source_pages": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "assets": {
+        "pdf": {
+          "file": "034 - WISDOM.pdf",
+          "size_bytes": 128621,
+          "sha256": "644be0b7de0cd734c31c0beb69b95fbd9085f169a3d8a3cf1b88ce6d07d5335d"
+        },
+        "json": {
+          "file": "translation-alert-034.json",
+          "size_bytes": 23522,
+          "sha256": "a6a7fabe1a01d0898aaf817cc94715139a4e2ff6ca047cf34e708426e0a36d3e"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-035",
+      "number": 35,
+      "title": "SECRET POWER OF THE INNER MAN",
+      "cd_number": "2063",
+      "date_raw": "01/25/81 AM",
+      "pdf": "035 - SECRET POWER OF THE INNER MAN.pdf",
+      "json": "translation-alert-035.json",
+      "source_pages": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ],
+      "assets": {
+        "pdf": {
+          "file": "035 - SECRET POWER OF THE INNER MAN.pdf",
+          "size_bytes": 205708,
+          "sha256": "fcd9e9c8e35fa4bdaf0f6df615d909db85841340b5a762f35f383a3ce946c769"
+        },
+        "json": {
+          "file": "translation-alert-035.json",
+          "size_bytes": 37159,
+          "sha256": "3848cc986959601f31067de3df4156c37699528d876dff6bd7839b9e1d7ba914"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-036",
+      "number": 36,
+      "title": "YE ARE MY WITNESSES",
+      "cd_number": "1744",
+      "date_raw": "01/28/81 PM",
+      "pdf": "036 - YE ARE MY WITNESSES.pdf",
+      "json": "translation-alert-036.json",
+      "source_pages": [
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "assets": {
+        "pdf": {
+          "file": "036 - YE ARE MY WITNESSES.pdf",
+          "size_bytes": 130656,
+          "sha256": "dc0cea854d18f9fcdcd088a7e046d9032b48e5ffa639539e5204ba85bbbb62e8"
+        },
+        "json": {
+          "file": "translation-alert-036.json",
+          "size_bytes": 24736,
+          "sha256": "a66d7eca26c83bd5ee49a227e4cbddbb6d391540a4a18ac9c8f8ce5bf5a56ead"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-037",
+      "number": 37,
+      "title": "JESUS THE INFINITE GOD",
+      "cd_number": "1679",
+      "date_raw": "01/31/82 PM",
+      "pdf": "037 - JESUS THE INFINITE GOD.pdf",
+      "json": "translation-alert-037.json",
+      "source_pages": [
+        125,
+        126,
+        127,
+        128
+      ],
+      "assets": {
+        "pdf": {
+          "file": "037 - JESUS THE INFINITE GOD.pdf",
+          "size_bytes": 148626,
+          "sha256": "d210efef24e081d4cf06e154e148862ad23e2d9cefdfcb4b7f169710cd2884be"
+        },
+        "json": {
+          "file": "translation-alert-037.json",
+          "size_bytes": 19392,
+          "sha256": "5f32b36a66baf26e2980b9b9cee08bf64d96fc69e8d97a1b90601d6a2703d0b6"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-038",
+      "number": 38,
+      "title": "DAILY CONTACT-PREVENTS SNARES",
+      "cd_number": "783",
+      "date_raw": "05/18/80 AM",
+      "pdf": "038 - DAILY CONTACT-PREVENTS SNARES.pdf",
+      "json": "translation-alert-038.json",
+      "source_pages": [
+        128,
+        129,
+        130,
+        131,
+        132,
+        133
+      ],
+      "assets": {
+        "pdf": {
+          "file": "038 - DAILY CONTACT-PREVENTS SNARES.pdf",
+          "size_bytes": 173221,
+          "sha256": "f6e5af932719ffc39259a46376a7f64dab56e10664c97ffb6f79a93f6fcbb2eb"
+        },
+        "json": {
+          "file": "translation-alert-038.json",
+          "size_bytes": 30249,
+          "sha256": "518f4bf5f2cd98ecf1049d61c4cb3266cce3c2846ca454fd8cb94dbc5f62310a"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-039",
+      "number": 39,
+      "title": "GOD’S HEAVENLY KINDNESS",
+      "cd_number": "1281",
+      "date_raw": "10/08/89 AM",
+      "pdf": "039 - GOD'S HEAVENLY KINDNESS.pdf",
+      "json": "translation-alert-039.json",
+      "source_pages": [
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "assets": {
+        "pdf": {
+          "file": "039 - GOD'S HEAVENLY KINDNESS.pdf",
+          "size_bytes": 154381,
+          "sha256": "76f692e78dfe3ddfb82093d4ba48fc6d5db81bd83b57c20e9f60417c99a4cfd0"
+        },
+        "json": {
+          "file": "translation-alert-039.json",
+          "size_bytes": 21963,
+          "sha256": "937508493291a838f523f851345f584bb9dd70190c554fada603157a88985e6c"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-040",
+      "number": 40,
+      "title": "HOW TO TRUST",
+      "cd_number": "739",
+      "date_raw": "07/08/79 AM",
+      "pdf": "040 - HOW TO TRUST.pdf",
+      "json": "translation-alert-040.json",
+      "source_pages": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ],
+      "assets": {
+        "pdf": {
+          "file": "040 - HOW TO TRUST.pdf",
+          "size_bytes": 173036,
+          "sha256": "415b8ba45699935deac707595b3ba28089b39fd7858bfe2c57b73f416db68ff6"
+        },
+        "json": {
+          "file": "translation-alert-040.json",
+          "size_bytes": 28392,
+          "sha256": "572c55f351fb881de9574f3a6024cc30e07ee667dff65b4100817b8c09330616"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-041",
+      "number": 41,
+      "title": "THE ANOINTED CHURCH",
+      "cd_number": "1035b",
+      "date_raw": "12/30/84 AM",
+      "pdf": "041 - THE ANOINTED CHURCH.pdf",
+      "json": "translation-alert-041.json",
+      "source_pages": [
+        142,
+        143,
+        144,
+        145,
+        146
+      ],
+      "assets": {
+        "pdf": {
+          "file": "041 - THE ANOINTED CHURCH.pdf",
+          "size_bytes": 127858,
+          "sha256": "29844eea3c828c8f39c2587d0cab26359ea323b7bce764f25f53950a0e3b77f7"
+        },
+        "json": {
+          "file": "translation-alert-041.json",
+          "size_bytes": 21667,
+          "sha256": "00b837a7e8dfe2bb63ee858466eeb5b94a6ff45ad1639b6e6eefaa98e92b78d8"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-042",
+      "number": 42,
+      "title": "TIME LIMIT",
+      "cd_number": "946b",
+      "date_raw": "5/15/83 AM",
+      "pdf": "042 - TIME LIMIT.pdf",
+      "json": "translation-alert-042.json",
+      "source_pages": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151
+      ],
+      "assets": {
+        "pdf": {
+          "file": "042 - TIME LIMIT.pdf",
+          "size_bytes": 172119,
+          "sha256": "1ba5304506e616e80db34a0a1156a8f4b9e4928c7343f6214d62040ebda8979a"
+        },
+        "json": {
+          "file": "translation-alert-042.json",
+          "size_bytes": 29682,
+          "sha256": "ebf9097028c33b2dc0b6a9f8b5d8842823434129163dbfe3cbc2cc287766c736"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-043",
+      "number": 43,
+      "title": "VOLTAGE IN PRAYER",
+      "cd_number": "985",
+      "date_raw": "01/29/84 AM",
+      "pdf": "043 - VOLTAGE IN PRAYER.pdf",
+      "json": "translation-alert-043.json",
+      "source_pages": [
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157
+      ],
+      "assets": {
+        "pdf": {
+          "file": "043 - VOLTAGE IN PRAYER.pdf",
+          "size_bytes": 185085,
+          "sha256": "b61f323e230194a2b29624cdd5851667eaae9f50b74c0fac377b2f58fba1e7b8"
+        },
+        "json": {
+          "file": "translation-alert-043.json",
+          "size_bytes": 38353,
+          "sha256": "f53ce38988740668ae1d555b2a908cfb5d22181e83deb687c76df3b36a9be0e5"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-044",
+      "number": 44,
+      "title": "THE SPIRITUAL HEART",
+      "cd_number": "998b",
+      "date_raw": "04/29/1984 PM",
+      "pdf": "044 - THE SPIRITUAL HEART.pdf",
+      "json": "translation-alert-044.json",
+      "source_pages": [
+        157,
+        158,
+        159,
+        160,
+        161,
+        162
+      ],
+      "assets": {
+        "pdf": {
+          "file": "044 - THE SPIRITUAL HEART.pdf",
+          "size_bytes": 140607,
+          "sha256": "dfe0363f5e4619602aa6f073a327c3b748069363925363fc7ab130352057d1c9"
+        },
+        "json": {
+          "file": "translation-alert-044.json",
+          "size_bytes": 29292,
+          "sha256": "17463e732e04ad31d83c3d19acdb342b9f93c39b6de2e5f552e95251aea55548"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-045",
+      "number": 45,
+      "title": "CREEPING SLEEP",
+      "cd_number": "1190",
+      "date_raw": "12/30/87 PM",
+      "pdf": "045 - CREEPING SLEEP.pdf",
+      "json": "translation-alert-045.json",
+      "source_pages": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167
+      ],
+      "assets": {
+        "pdf": {
+          "file": "045 - CREEPING SLEEP.pdf",
+          "size_bytes": 137530,
+          "sha256": "80c8015dc07bfb76ca5cccae1f9b0bcb79996898d1ab570128c9295485e24fae"
+        },
+        "json": {
+          "file": "translation-alert-045.json",
+          "size_bytes": 28059,
+          "sha256": "54a69006aae31e2399dea1b82a47ec326258550919ab9eec0189cedf84541fb7"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-046",
+      "number": 46,
+      "title": "SPIRITUAL CLUES",
+      "cd_number": "1730",
+      "date_raw": "05/20/1981",
+      "pdf": "046 - SPIRITUAL CLUES.pdf",
+      "json": "translation-alert-046.json",
+      "source_pages": [
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "assets": {
+        "pdf": {
+          "file": "046 - SPIRITUAL CLUES.pdf",
+          "size_bytes": 130437,
+          "sha256": "631307d02517146a7f46dc2dfbf4841e135dea2594094d9e0e6ade2955b3f1b8"
+        },
+        "json": {
+          "file": "translation-alert-046.json",
+          "size_bytes": 21339,
+          "sha256": "185d0d052aaf2411b303874f96e8bbacd0aa2cc43995cab83bb7cfc41bd5c143"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-047",
+      "number": 47,
+      "title": "THE LAST DAYS",
+      "cd_number": "1065",
+      "date_raw": "05/22/85 PM",
+      "pdf": "047 - THE LAST DAYS.pdf",
+      "json": "translation-alert-047.json",
+      "source_pages": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176
+      ],
+      "assets": {
+        "pdf": {
+          "file": "047 - THE LAST DAYS.pdf",
+          "size_bytes": 138572,
+          "sha256": "429ee1abf40d8391cdef5432eed50a8c3545fba51e7f1eb2ec4500d19a18d454"
+        },
+        "json": {
+          "file": "translation-alert-047.json",
+          "size_bytes": 28601,
+          "sha256": "ff8b184c610f820e5f12629336cb9b39390f12a482247e91cb14b73ef07cda7d"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-048",
+      "number": 48,
+      "title": "PRAISE COMMANDS",
+      "cd_number": "967A",
+      "date_raw": "09/21/83 PM",
+      "pdf": "048 - PRAISE COMMANDS.pdf",
+      "json": "translation-alert-048.json",
+      "source_pages": [
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "assets": {
+        "pdf": {
+          "file": "048 - PRAISE COMMANDS.pdf",
+          "size_bytes": 143066,
+          "sha256": "a25a47a3241de47ed3bdfb61b642224a5f9fb3d59d65d947c61685f9c6cd8c6d"
+        },
+        "json": {
+          "file": "translation-alert-048.json",
+          "size_bytes": 31158,
+          "sha256": "dd6adad43800f0f00aad0f78ac2c17a244230c861c2742f022004dea0548e427"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-049",
+      "number": 49,
+      "title": "BE ALERT",
+      "cd_number": "1038b",
+      "date_raw": "02/03/85 PM",
+      "pdf": "049 - BE ALERT.pdf",
+      "json": "translation-alert-049.json",
+      "source_pages": [
+        182,
+        183,
+        184,
+        185,
+        186
+      ],
+      "assets": {
+        "pdf": {
+          "file": "049 - BE ALERT.pdf",
+          "size_bytes": 157890,
+          "sha256": "9493b6215ca9d28f3c9f806a041273e4931fdf020fc3490c63de6031d1d39340"
+        },
+        "json": {
+          "file": "translation-alert-049.json",
+          "size_bytes": 24120,
+          "sha256": "19a893dfd16cc287cb3d542ba56805d356cd832374e288d489711c5b2001f8fe"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-050",
+      "number": 50,
+      "title": "THE PERFECT HIDING PLACE",
+      "cd_number": "951A",
+      "date_raw": "06/19/83 AM",
+      "pdf": "050 - THE PERFECT HIDING PLACE.pdf",
+      "json": "translation-alert-050.json",
+      "source_pages": [
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "assets": {
+        "pdf": {
+          "file": "050 - THE PERFECT HIDING PLACE.pdf",
+          "size_bytes": 139789,
+          "sha256": "ae012e766f3bdb46a117aff33f22b5cee36e6b3926476eb85dd9fc4af207f5cd"
+        },
+        "json": {
+          "file": "translation-alert-050.json",
+          "size_bytes": 30808,
+          "sha256": "2c89daf122c19c79d25ac504249f77314da18439cabcbb392e9e67505cc1ae9f"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-051",
+      "number": 51,
+      "title": "EXALTING JESUS",
+      "cd_number": "1163",
+      "date_raw": "06/24/87 PM",
+      "pdf": "051 - EXALTING JESUS.pdf",
+      "json": "translation-alert-051.json",
+      "source_pages": [
+        191,
+        192,
+        193,
+        194,
+        195,
+        196
+      ],
+      "assets": {
+        "pdf": {
+          "file": "051 - EXALTING JESUS.pdf",
+          "size_bytes": 137727,
+          "sha256": "bb14e4e277355ff0bec4373b7c24ee9c9b93c36a8ce77f7ea3520e067b395019"
+        },
+        "json": {
+          "file": "translation-alert-051.json",
+          "size_bytes": 30112,
+          "sha256": "686a5d7dbbb129848b282dee30a38b060adb8c8dae8af6b6593ae0389c4c9cb9"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-052",
+      "number": 52,
+      "title": "STILL WATERS",
+      "cd_number": "1179",
+      "date_raw": "10/14/87 PM",
+      "pdf": "052 - STILL WATERS.pdf",
+      "json": "translation-alert-052.json",
+      "source_pages": [
+        196,
+        197,
+        198,
+        199,
+        200,
+        201
+      ],
+      "assets": {
+        "pdf": {
+          "file": "052 - STILL WATERS.pdf",
+          "size_bytes": 137896,
+          "sha256": "b72399079c337847772955f4a0d9e2768d3b9b60644d44d7695f0df1cd5314fc"
+        },
+        "json": {
+          "file": "translation-alert-052.json",
+          "size_bytes": 28980,
+          "sha256": "17d128c2fcb900ec73bee8ddc32e8023ec1f5d5b63951f571b91e3f28eb356ce"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-053",
+      "number": 53,
+      "title": "HIDDEN MAJESTY",
+      "cd_number": "1092",
+      "date_raw": "2/12/86 PM",
+      "pdf": "053 - HIDDEN MAJESTY.pdf",
+      "json": "translation-alert-053.json",
+      "source_pages": [
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "assets": {
+        "pdf": {
+          "file": "053 - HIDDEN MAJESTY.pdf",
+          "size_bytes": 164232,
+          "sha256": "97acd458a4bd27a267342628796a5cdcce8e2327da05eed451639199741cbe58"
+        },
+        "json": {
+          "file": "translation-alert-053.json",
+          "size_bytes": 27877,
+          "sha256": "0e9e34eec6df4fa1263da54fb7c51407eb5a27af30a315e78b804ac795dd1083"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-054",
+      "number": 54,
+      "title": "CHRIST IN EVERY BOOK OF THE BIBLE",
+      "cd_number": null,
+      "date_raw": "06/24/1990",
+      "pdf": "054 - CHRIST IN EVERY BOOK OF THE BIBLE.pdf",
+      "json": "translation-alert-054.json",
+      "source_pages": [
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212
+      ],
+      "assets": {
+        "pdf": {
+          "file": "054 - CHRIST IN EVERY BOOK OF THE BIBLE.pdf",
+          "size_bytes": 231190,
+          "sha256": "4aa5535d33d01e6ea36c2c4fddfa341af766f733af2d724088bf1a23cf68fd17"
+        },
+        "json": {
+          "file": "translation-alert-054.json",
+          "size_bytes": 34011,
+          "sha256": "9a50253d9a60bfcaaefdb34d2d09f8454cfbce8de4a4953b2686a51c209083fd"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-055",
+      "number": 55,
+      "title": "BE WATCHFUL",
+      "cd_number": "1548",
+      "date_raw": "11/27/91",
+      "pdf": "055 - BE WATCHFUL.pdf",
+      "json": "translation-alert-055.json",
+      "source_pages": [
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220
+      ],
+      "assets": {
+        "pdf": {
+          "file": "055 - BE WATCHFUL.pdf",
+          "size_bytes": 284050,
+          "sha256": "88fd81281ca7e45df72cf4d2158e5a803b35e87667798fc9d4bdb659ae999fc8"
+        },
+        "json": {
+          "file": "translation-alert-055.json",
+          "size_bytes": 43473,
+          "sha256": "f173b5f4a5da7b73866fcaf5bcf6bb189812f514f9a21d3c83fe9fe885066f70"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-056",
+      "number": 56,
+      "title": "THE REVELATION IN JESUS",
+      "cd_number": "908",
+      "date_raw": "06/13/82 PM",
+      "pdf": "056 - THE REVELATION IN JESUS.pdf",
+      "json": "translation-alert-056.json",
+      "source_pages": [
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231
+      ],
+      "assets": {
+        "pdf": {
+          "file": "056 - THE REVELATION IN JESUS.pdf",
+          "size_bytes": 210435,
+          "sha256": "50f9256e4a2e29eba1ce706a2369c0d2a016ac780c5e732149e3faef19d20813"
+        },
+        "json": {
+          "file": "translation-alert-056.json",
+          "size_bytes": 51076,
+          "sha256": "651c9b636f35e7b8ac9e52c45b87e6b6351f7a28a9fbecb996e39b2f5967ee68"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-057",
+      "number": 57,
+      "title": "PROVIDENCE: GOD’S WINGS OF TRUST",
+      "cd_number": "1803",
+      "date_raw": "02/10/82 PM",
+      "pdf": "057 - PROVIDENCE- GOD'S WINGS OF TRUST.pdf",
+      "json": "translation-alert-057.json",
+      "source_pages": [
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238
+      ],
+      "assets": {
+        "pdf": {
+          "file": "057 - PROVIDENCE- GOD'S WINGS OF TRUST.pdf",
+          "size_bytes": 236402,
+          "sha256": "73b32fee8e8b475101d6ba64f7b24a299b877f32248a00f39e9140f32b6bc3df"
+        },
+        "json": {
+          "file": "translation-alert-057.json",
+          "size_bytes": 30056,
+          "sha256": "fe646d062b4c40b7c5469f2bdecf4c09b4f2f2906b3021e20c082be0d9397b60"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-058",
+      "number": 58,
+      "title": "POWER WITHIN-ACT",
+      "cd_number": "802",
+      "date_raw": "09/14/80 AM",
+      "pdf": "058 - POWER WITHIN-ACT.pdf",
+      "json": "translation-alert-058.json",
+      "source_pages": [
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244
+      ],
+      "assets": {
+        "pdf": {
+          "file": "058 - POWER WITHIN-ACT.pdf",
+          "size_bytes": 134774,
+          "sha256": "6887a4ad64215b14d8afbd29765176f861b5e687dd49e1b1981656fb5330ef45"
+        },
+        "json": {
+          "file": "translation-alert-058.json",
+          "size_bytes": 27168,
+          "sha256": "33b01dc37dec49cab29268127597cad7d9c7e20737c66322ce5940ce0791d19a"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-059",
+      "number": 59,
+      "title": "THE ELIJAH ANOINTING",
+      "cd_number": "764",
+      "date_raw": "12/30/79 AM",
+      "pdf": "059 - THE ELIJAH ANOINTING.pdf",
+      "json": "translation-alert-059.json",
+      "source_pages": [
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250
+      ],
+      "assets": {
+        "pdf": {
+          "file": "059 - THE ELIJAH ANOINTING.pdf",
+          "size_bytes": 141317,
+          "sha256": "36c273989e08d69ee6fb4405354884459812d134074c59523b0ca968355a5435"
+        },
+        "json": {
+          "file": "translation-alert-059.json",
+          "size_bytes": 29335,
+          "sha256": "e03c43601cbf50b135e39e600b8e8332451025a0d97ed5738c2d17e5de0ef613"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-060",
+      "number": 60,
+      "title": "THE CROWNING LIGHT",
+      "cd_number": "1277",
+      "date_raw": "08/27/89 AM",
+      "pdf": "060 - THE CROWNING LIGHT.pdf",
+      "json": "translation-alert-060.json",
+      "source_pages": [
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257
+      ],
+      "assets": {
+        "pdf": {
+          "file": "060 - THE CROWNING LIGHT.pdf",
+          "size_bytes": 242240,
+          "sha256": "0c83371dad9d57ef48501e36dffeeb986de2b4e2f0ab182ec6fe81c0f3369a71"
+        },
+        "json": {
+          "file": "translation-alert-060.json",
+          "size_bytes": 34294,
+          "sha256": "f4f233898d3d0cb649119873baa7bc88981981e1800f172cc2a452a7aa1e72b2"
+        }
+      }
+    },
+    {
+      "id": "translation-alert-061",
+      "number": 61,
+      "title": "THE SPIRITS-FORCES",
+      "cd_number": "1150",
+      "date_raw": "03/29/87",
+      "pdf": "061 - THE SPIRITS-FORCES.pdf",
+      "json": "translation-alert-061.json",
+      "source_pages": [
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265
+      ],
+      "assets": {
+        "pdf": {
+          "file": "061 - THE SPIRITS-FORCES.pdf",
+          "size_bytes": 151886,
+          "sha256": "e60b92957f79a45be8d44dc86a79094131ebd98c2989de78bd2861c44b1f5917"
+        },
+        "json": {
+          "file": "translation-alert-061.json",
+          "size_bytes": 39809,
+          "sha256": "60764e23f1fd89b49878384350eb20a712b4a08e3773bf8b9e8d1eecff75cd0e"
+        }
+      }
+    }
   ]
 }
