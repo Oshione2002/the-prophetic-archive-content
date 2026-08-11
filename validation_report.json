@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "warnings": [
+    "Special Writing source page 1 has no explicit page-code number; source-order 001 retained and flagged unverified."
+  ],
+  "prophetic_scrolls": {
+    "unique_scrolls": 320,
+    "physical_documents": 325,
+    "multipart_scrolls": [7, 11, 15, 23, 320],
+    "clean_pdf_count": 325,
+    "original_scan_count": 325,
+    "json_count": 325
+  },
+  "special_writings": {
+    "pdf_count": 141,
+    "json_count": 141,
+    "source_page_1_number_verified": false
+  },
+  "translation_alerts": {
+    "numbered_alerts": 61,
+    "front_matter_documents": 1,
+    "pdf_count": 62,
+    "json_count": 62,
+    "boundary_check": "passed",
+    "compilation_headings_preserved": [14, 18, 21]
+  },
+  "monthly_letters": {
+    "pdf_count": 199,
+    "json_count": 199,
+    "date_parse_failures": 0
+  },
+  "preliminary_pages": {
+    "included": false,
+    "reason": "No preliminary Pages source file was present in the supplied processing set."
+  },
+  "sizes": {
+    "prophetic_scrolls_clean_pdf_bytes": 13280776,
+    "prophetic_scrolls_original_scan_bytes": 885257044,
+    "all_json_bytes": 7488541
+  },
+  "visual_qa": {
+    "representative_render_count": 34,
+    "scroll_001_optimization_render_diff_pct": 0.0005672280576887411
+  }
+}
