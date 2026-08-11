@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-song-of-solomon-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Song of Solomon 5",
+  "display_title": "Song of Solomon 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "song-of-solomon",
+  "book": "Song of Solomon",
+  "bookName": "Song of Solomon",
+  "bookOrder": 22,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 22005,
+  "verseCount": 16,
+  "aliases": [
+    "Song",
+    "Song of Songs",
+    "SOS",
+    "Canticles"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:song-of-solomon:5:1",
+      "numberLabel": "1",
+      "text": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+      "metadata": {
+        "reference": "Song of Solomon 5:1",
+        "verseKey": "kjv:song-of-solomon:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:song-of-solomon:5:2",
+      "numberLabel": "2",
+      "text": "I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.",
+      "metadata": {
+        "reference": "Song of Solomon 5:2",
+        "verseKey": "kjv:song-of-solomon:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:song-of-solomon:5:3",
+      "numberLabel": "3",
+      "text": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
+      "metadata": {
+        "reference": "Song of Solomon 5:3",
+        "verseKey": "kjv:song-of-solomon:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:song-of-solomon:5:4",
+      "numberLabel": "4",
+      "text": "My beloved put in his hand by the hole of the door, and my bowels were moved for him.",
+      "metadata": {
+        "reference": "Song of Solomon 5:4",
+        "verseKey": "kjv:song-of-solomon:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:song-of-solomon:5:5",
+      "numberLabel": "5",
+      "text": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.",
+      "metadata": {
+        "reference": "Song of Solomon 5:5",
+        "verseKey": "kjv:song-of-solomon:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:song-of-solomon:5:6",
+      "numberLabel": "6",
+      "text": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
+      "metadata": {
+        "reference": "Song of Solomon 5:6",
+        "verseKey": "kjv:song-of-solomon:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:song-of-solomon:5:7",
+      "numberLabel": "7",
+      "text": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.",
+      "metadata": {
+        "reference": "Song of Solomon 5:7",
+        "verseKey": "kjv:song-of-solomon:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:song-of-solomon:5:8",
+      "numberLabel": "8",
+      "text": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love.",
+      "metadata": {
+        "reference": "Song of Solomon 5:8",
+        "verseKey": "kjv:song-of-solomon:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:song-of-solomon:5:9",
+      "numberLabel": "9",
+      "text": "What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?",
+      "metadata": {
+        "reference": "Song of Solomon 5:9",
+        "verseKey": "kjv:song-of-solomon:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:song-of-solomon:5:10",
+      "numberLabel": "10",
+      "text": "My beloved is white and ruddy, the chiefest among ten thousand.",
+      "metadata": {
+        "reference": "Song of Solomon 5:10",
+        "verseKey": "kjv:song-of-solomon:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:song-of-solomon:5:11",
+      "numberLabel": "11",
+      "text": "His head is as the most fine gold, his locks are bushy, and black as a raven.",
+      "metadata": {
+        "reference": "Song of Solomon 5:11",
+        "verseKey": "kjv:song-of-solomon:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:song-of-solomon:5:12",
+      "numberLabel": "12",
+      "text": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.",
+      "metadata": {
+        "reference": "Song of Solomon 5:12",
+        "verseKey": "kjv:song-of-solomon:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:song-of-solomon:5:13",
+      "numberLabel": "13",
+      "text": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.",
+      "metadata": {
+        "reference": "Song of Solomon 5:13",
+        "verseKey": "kjv:song-of-solomon:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:song-of-solomon:5:14",
+      "numberLabel": "14",
+      "text": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.",
+      "metadata": {
+        "reference": "Song of Solomon 5:14",
+        "verseKey": "kjv:song-of-solomon:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:song-of-solomon:5:15",
+      "numberLabel": "15",
+      "text": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.",
+      "metadata": {
+        "reference": "Song of Solomon 5:15",
+        "verseKey": "kjv:song-of-solomon:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:song-of-solomon:5:16",
+      "numberLabel": "16",
+      "text": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.",
+      "metadata": {
+        "reference": "Song of Solomon 5:16",
+        "verseKey": "kjv:song-of-solomon:5:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "SongofSolomon.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/SongofSolomon.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

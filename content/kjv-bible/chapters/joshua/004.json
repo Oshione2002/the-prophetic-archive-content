@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joshua-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Joshua 4",
+  "display_title": "Joshua 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joshua",
+  "book": "Joshua",
+  "bookName": "Joshua",
+  "bookOrder": 6,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 6004,
+  "verseCount": 24,
+  "aliases": [
+    "Josh",
+    "Jos"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joshua:4:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,",
+      "metadata": {
+        "reference": "Joshua 4:1",
+        "verseKey": "kjv:joshua:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joshua:4:2",
+      "numberLabel": "2",
+      "text": "Take you twelve men out of the people, out of every tribe a man,",
+      "metadata": {
+        "reference": "Joshua 4:2",
+        "verseKey": "kjv:joshua:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joshua:4:3",
+      "numberLabel": "3",
+      "text": "And command ye them, saying, Take you hence out of the midst of Jordan, out of the place where the priests’ feet stood firm, twelve stones, and ye shall carry them over with you, and leave them in the lodging place, where ye shall lodge this night.",
+      "metadata": {
+        "reference": "Joshua 4:3",
+        "verseKey": "kjv:joshua:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joshua:4:4",
+      "numberLabel": "4",
+      "text": "Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:",
+      "metadata": {
+        "reference": "Joshua 4:4",
+        "verseKey": "kjv:joshua:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joshua:4:5",
+      "numberLabel": "5",
+      "text": "And Joshua said unto them, Pass over before the ark of the LORD your God into the midst of Jordan, and take you up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:",
+      "metadata": {
+        "reference": "Joshua 4:5",
+        "verseKey": "kjv:joshua:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joshua:4:6",
+      "numberLabel": "6",
+      "text": "That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones?",
+      "metadata": {
+        "reference": "Joshua 4:6",
+        "verseKey": "kjv:joshua:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joshua:4:7",
+      "numberLabel": "7",
+      "text": "Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the LORD; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever.",
+      "metadata": {
+        "reference": "Joshua 4:7",
+        "verseKey": "kjv:joshua:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joshua:4:8",
+      "numberLabel": "8",
+      "text": "And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the LORD spake unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there.",
+      "metadata": {
+        "reference": "Joshua 4:8",
+        "verseKey": "kjv:joshua:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joshua:4:9",
+      "numberLabel": "9",
+      "text": "And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.",
+      "metadata": {
+        "reference": "Joshua 4:9",
+        "verseKey": "kjv:joshua:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joshua:4:10",
+      "numberLabel": "10",
+      "text": "For the priests which bare the ark stood in the midst of Jordan, until everything was finished that the LORD commanded Joshua to speak unto the people, according to all that Moses commanded Joshua: and the people hasted and passed over.",
+      "metadata": {
+        "reference": "Joshua 4:10",
+        "verseKey": "kjv:joshua:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joshua:4:11",
+      "numberLabel": "11",
+      "text": "And it came to pass, when all the people were clean passed over, that the ark of the LORD passed over, and the priests, in the presence of the people.",
+      "metadata": {
+        "reference": "Joshua 4:11",
+        "verseKey": "kjv:joshua:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joshua:4:12",
+      "numberLabel": "12",
+      "text": "And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them:",
+      "metadata": {
+        "reference": "Joshua 4:12",
+        "verseKey": "kjv:joshua:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joshua:4:13",
+      "numberLabel": "13",
+      "text": "About forty thousand prepared for war passed over before the LORD unto battle, to the plains of Jericho.",
+      "metadata": {
+        "reference": "Joshua 4:13",
+        "verseKey": "kjv:joshua:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joshua:4:14",
+      "numberLabel": "14",
+      "text": "On that day the LORD magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.",
+      "metadata": {
+        "reference": "Joshua 4:14",
+        "verseKey": "kjv:joshua:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joshua:4:15",
+      "numberLabel": "15",
+      "text": "And the LORD spake unto Joshua, saying,",
+      "metadata": {
+        "reference": "Joshua 4:15",
+        "verseKey": "kjv:joshua:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joshua:4:16",
+      "numberLabel": "16",
+      "text": "Command the priests that bear the ark of the testimony, that they come up out of Jordan.",
+      "metadata": {
+        "reference": "Joshua 4:16",
+        "verseKey": "kjv:joshua:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joshua:4:17",
+      "numberLabel": "17",
+      "text": "Joshua therefore commanded the priests, saying, Come ye up out of Jordan.",
+      "metadata": {
+        "reference": "Joshua 4:17",
+        "verseKey": "kjv:joshua:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joshua:4:18",
+      "numberLabel": "18",
+      "text": "And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, and the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as they did before.",
+      "metadata": {
+        "reference": "Joshua 4:18",
+        "verseKey": "kjv:joshua:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:joshua:4:19",
+      "numberLabel": "19",
+      "text": "And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho.",
+      "metadata": {
+        "reference": "Joshua 4:19",
+        "verseKey": "kjv:joshua:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:joshua:4:20",
+      "numberLabel": "20",
+      "text": "And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.",
+      "metadata": {
+        "reference": "Joshua 4:20",
+        "verseKey": "kjv:joshua:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:joshua:4:21",
+      "numberLabel": "21",
+      "text": "And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?",
+      "metadata": {
+        "reference": "Joshua 4:21",
+        "verseKey": "kjv:joshua:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:joshua:4:22",
+      "numberLabel": "22",
+      "text": "Then ye shall let your children know, saying, Israel came over this Jordan on dry land.",
+      "metadata": {
+        "reference": "Joshua 4:22",
+        "verseKey": "kjv:joshua:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:joshua:4:23",
+      "numberLabel": "23",
+      "text": "For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:",
+      "metadata": {
+        "reference": "Joshua 4:23",
+        "verseKey": "kjv:joshua:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:joshua:4:24",
+      "numberLabel": "24",
+      "text": "That all the people of the earth might know the hand of the LORD, that it is mighty: that ye might fear the LORD your God for ever.",
+      "metadata": {
+        "reference": "Joshua 4:24",
+        "verseKey": "kjv:joshua:4:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joshua.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joshua.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Isaiah 6",
+  "display_title": "Isaiah 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 23006,
+  "verseCount": 13,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:6:1",
+      "numberLabel": "1",
+      "text": "In the year that king Uzziah died I saw also the LORD sitting upon a throne, high and lifted up, and his train filled the temple.",
+      "metadata": {
+        "reference": "Isaiah 6:1",
+        "verseKey": "kjv:isaiah:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:6:2",
+      "numberLabel": "2",
+      "text": "Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.",
+      "metadata": {
+        "reference": "Isaiah 6:2",
+        "verseKey": "kjv:isaiah:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:6:3",
+      "numberLabel": "3",
+      "text": "And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.",
+      "metadata": {
+        "reference": "Isaiah 6:3",
+        "verseKey": "kjv:isaiah:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:6:4",
+      "numberLabel": "4",
+      "text": "And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.",
+      "metadata": {
+        "reference": "Isaiah 6:4",
+        "verseKey": "kjv:isaiah:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:6:5",
+      "numberLabel": "5",
+      "text": "Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts.",
+      "metadata": {
+        "reference": "Isaiah 6:5",
+        "verseKey": "kjv:isaiah:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:6:6",
+      "numberLabel": "6",
+      "text": "Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:",
+      "metadata": {
+        "reference": "Isaiah 6:6",
+        "verseKey": "kjv:isaiah:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:6:7",
+      "numberLabel": "7",
+      "text": "And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.",
+      "metadata": {
+        "reference": "Isaiah 6:7",
+        "verseKey": "kjv:isaiah:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:6:8",
+      "numberLabel": "8",
+      "text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.",
+      "metadata": {
+        "reference": "Isaiah 6:8",
+        "verseKey": "kjv:isaiah:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:6:9",
+      "numberLabel": "9",
+      "text": "And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.",
+      "metadata": {
+        "reference": "Isaiah 6:9",
+        "verseKey": "kjv:isaiah:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:6:10",
+      "numberLabel": "10",
+      "text": "Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.",
+      "metadata": {
+        "reference": "Isaiah 6:10",
+        "verseKey": "kjv:isaiah:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:6:11",
+      "numberLabel": "11",
+      "text": "Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,",
+      "metadata": {
+        "reference": "Isaiah 6:11",
+        "verseKey": "kjv:isaiah:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:6:12",
+      "numberLabel": "12",
+      "text": "And the LORD have removed men far away, and there be a great forsaking in the midst of the land.",
+      "metadata": {
+        "reference": "Isaiah 6:12",
+        "verseKey": "kjv:isaiah:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:6:13",
+      "numberLabel": "13",
+      "text": "But yet in it shall be a tenth, and it shall return, and shall be eaten: as a teil tree, and as an oak, whose substance is in them, when they cast their leaves: so the holy seed shall be the substance thereof.",
+      "metadata": {
+        "reference": "Isaiah 6:13",
+        "verseKey": "kjv:isaiah:6:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "Proverbs 27",
+  "display_title": "Proverbs 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 20027,
+  "verseCount": 27,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:27:1",
+      "numberLabel": "1",
+      "text": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth.",
+      "metadata": {
+        "reference": "Proverbs 27:1",
+        "verseKey": "kjv:proverbs:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:27:2",
+      "numberLabel": "2",
+      "text": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.",
+      "metadata": {
+        "reference": "Proverbs 27:2",
+        "verseKey": "kjv:proverbs:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:27:3",
+      "numberLabel": "3",
+      "text": "A stone is heavy, and the sand weighty; but a fool’s wrath is heavier than them both.",
+      "metadata": {
+        "reference": "Proverbs 27:3",
+        "verseKey": "kjv:proverbs:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:27:4",
+      "numberLabel": "4",
+      "text": "Wrath is cruel, and anger is outrageous; but who is able to stand before envy?",
+      "metadata": {
+        "reference": "Proverbs 27:4",
+        "verseKey": "kjv:proverbs:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:27:5",
+      "numberLabel": "5",
+      "text": "Open rebuke is better than secret love.",
+      "metadata": {
+        "reference": "Proverbs 27:5",
+        "verseKey": "kjv:proverbs:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:27:6",
+      "numberLabel": "6",
+      "text": "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.",
+      "metadata": {
+        "reference": "Proverbs 27:6",
+        "verseKey": "kjv:proverbs:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:27:7",
+      "numberLabel": "7",
+      "text": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.",
+      "metadata": {
+        "reference": "Proverbs 27:7",
+        "verseKey": "kjv:proverbs:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:27:8",
+      "numberLabel": "8",
+      "text": "As a bird that wandereth from her nest, so is a man that wandereth from his place.",
+      "metadata": {
+        "reference": "Proverbs 27:8",
+        "verseKey": "kjv:proverbs:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:27:9",
+      "numberLabel": "9",
+      "text": "Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by hearty counsel.",
+      "metadata": {
+        "reference": "Proverbs 27:9",
+        "verseKey": "kjv:proverbs:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:27:10",
+      "numberLabel": "10",
+      "text": "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: for better is a neighbour that is near than a brother far off.",
+      "metadata": {
+        "reference": "Proverbs 27:10",
+        "verseKey": "kjv:proverbs:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:27:11",
+      "numberLabel": "11",
+      "text": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me.",
+      "metadata": {
+        "reference": "Proverbs 27:11",
+        "verseKey": "kjv:proverbs:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:27:12",
+      "numberLabel": "12",
+      "text": "A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.",
+      "metadata": {
+        "reference": "Proverbs 27:12",
+        "verseKey": "kjv:proverbs:27:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:27:13",
+      "numberLabel": "13",
+      "text": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.",
+      "metadata": {
+        "reference": "Proverbs 27:13",
+        "verseKey": "kjv:proverbs:27:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:27:14",
+      "numberLabel": "14",
+      "text": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.",
+      "metadata": {
+        "reference": "Proverbs 27:14",
+        "verseKey": "kjv:proverbs:27:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:27:15",
+      "numberLabel": "15",
+      "text": "A continual dropping in a very rainy day and a contentious woman are alike.",
+      "metadata": {
+        "reference": "Proverbs 27:15",
+        "verseKey": "kjv:proverbs:27:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:27:16",
+      "numberLabel": "16",
+      "text": "Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.",
+      "metadata": {
+        "reference": "Proverbs 27:16",
+        "verseKey": "kjv:proverbs:27:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:27:17",
+      "numberLabel": "17",
+      "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
+      "metadata": {
+        "reference": "Proverbs 27:17",
+        "verseKey": "kjv:proverbs:27:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:27:18",
+      "numberLabel": "18",
+      "text": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.",
+      "metadata": {
+        "reference": "Proverbs 27:18",
+        "verseKey": "kjv:proverbs:27:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:27:19",
+      "numberLabel": "19",
+      "text": "As in water face answereth to face, so the heart of man to man.",
+      "metadata": {
+        "reference": "Proverbs 27:19",
+        "verseKey": "kjv:proverbs:27:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:27:20",
+      "numberLabel": "20",
+      "text": "Hell and destruction are never full; so the eyes of man are never satisfied.",
+      "metadata": {
+        "reference": "Proverbs 27:20",
+        "verseKey": "kjv:proverbs:27:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:27:21",
+      "numberLabel": "21",
+      "text": "As the fining pot for silver, and the furnace for gold; so is a man to his praise.",
+      "metadata": {
+        "reference": "Proverbs 27:21",
+        "verseKey": "kjv:proverbs:27:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:27:22",
+      "numberLabel": "22",
+      "text": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.",
+      "metadata": {
+        "reference": "Proverbs 27:22",
+        "verseKey": "kjv:proverbs:27:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:27:23",
+      "numberLabel": "23",
+      "text": "Be thou diligent to know the state of thy flocks, and look well to thy herds.",
+      "metadata": {
+        "reference": "Proverbs 27:23",
+        "verseKey": "kjv:proverbs:27:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:27:24",
+      "numberLabel": "24",
+      "text": "For riches are not for ever: and doth the crown endure to every generation?",
+      "metadata": {
+        "reference": "Proverbs 27:24",
+        "verseKey": "kjv:proverbs:27:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:27:25",
+      "numberLabel": "25",
+      "text": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.",
+      "metadata": {
+        "reference": "Proverbs 27:25",
+        "verseKey": "kjv:proverbs:27:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:27:26",
+      "numberLabel": "26",
+      "text": "The lambs are for thy clothing, and the goats are the price of the field.",
+      "metadata": {
+        "reference": "Proverbs 27:26",
+        "verseKey": "kjv:proverbs:27:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:27:27",
+      "numberLabel": "27",
+      "text": "And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens.",
+      "metadata": {
+        "reference": "Proverbs 27:27",
+        "verseKey": "kjv:proverbs:27:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

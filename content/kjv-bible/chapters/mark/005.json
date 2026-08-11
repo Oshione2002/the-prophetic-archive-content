@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Mark 5",
+  "display_title": "Mark 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 5,
+  "sortOrder": 41005,
+  "verseCount": 43,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:5:1",
+      "numberLabel": "1",
+      "text": "And they came over unto the other side of the sea, into the country of the Gadarenes.",
+      "metadata": {
+        "reference": "Mark 5:1",
+        "verseKey": "kjv:mark:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:5:2",
+      "numberLabel": "2",
+      "text": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,",
+      "metadata": {
+        "reference": "Mark 5:2",
+        "verseKey": "kjv:mark:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:5:3",
+      "numberLabel": "3",
+      "text": "Who had his dwelling among the tombs; and no man could bind him, no, not with chains:",
+      "metadata": {
+        "reference": "Mark 5:3",
+        "verseKey": "kjv:mark:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:5:4",
+      "numberLabel": "4",
+      "text": "Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him.",
+      "metadata": {
+        "reference": "Mark 5:4",
+        "verseKey": "kjv:mark:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:5:5",
+      "numberLabel": "5",
+      "text": "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.",
+      "metadata": {
+        "reference": "Mark 5:5",
+        "verseKey": "kjv:mark:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:5:6",
+      "numberLabel": "6",
+      "text": "But when he saw Jesus afar off, he ran and worshipped him,",
+      "metadata": {
+        "reference": "Mark 5:6",
+        "verseKey": "kjv:mark:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:5:7",
+      "numberLabel": "7",
+      "text": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not.",
+      "metadata": {
+        "reference": "Mark 5:7",
+        "verseKey": "kjv:mark:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:5:8",
+      "numberLabel": "8",
+      "text": "For he said unto him, Come out of the man, thou unclean spirit.",
+      "metadata": {
+        "reference": "Mark 5:8",
+        "verseKey": "kjv:mark:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:5:9",
+      "numberLabel": "9",
+      "text": "And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many.",
+      "metadata": {
+        "reference": "Mark 5:9",
+        "verseKey": "kjv:mark:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:5:10",
+      "numberLabel": "10",
+      "text": "And he besought him much that he would not send them away out of the country.",
+      "metadata": {
+        "reference": "Mark 5:10",
+        "verseKey": "kjv:mark:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:5:11",
+      "numberLabel": "11",
+      "text": "Now there was there nigh unto the mountains a great herd of swine feeding.",
+      "metadata": {
+        "reference": "Mark 5:11",
+        "verseKey": "kjv:mark:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:5:12",
+      "numberLabel": "12",
+      "text": "And all the devils besought him, saying, Send us into the swine, that we may enter into them.",
+      "metadata": {
+        "reference": "Mark 5:12",
+        "verseKey": "kjv:mark:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:5:13",
+      "numberLabel": "13",
+      "text": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.",
+      "metadata": {
+        "reference": "Mark 5:13",
+        "verseKey": "kjv:mark:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:5:14",
+      "numberLabel": "14",
+      "text": "And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.",
+      "metadata": {
+        "reference": "Mark 5:14",
+        "verseKey": "kjv:mark:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:5:15",
+      "numberLabel": "15",
+      "text": "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.",
+      "metadata": {
+        "reference": "Mark 5:15",
+        "verseKey": "kjv:mark:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:5:16",
+      "numberLabel": "16",
+      "text": "And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.",
+      "metadata": {
+        "reference": "Mark 5:16",
+        "verseKey": "kjv:mark:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:5:17",
+      "numberLabel": "17",
+      "text": "And they began to pray him to depart out of their coasts.",
+      "metadata": {
+        "reference": "Mark 5:17",
+        "verseKey": "kjv:mark:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:5:18",
+      "numberLabel": "18",
+      "text": "And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.",
+      "metadata": {
+        "reference": "Mark 5:18",
+        "verseKey": "kjv:mark:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:5:19",
+      "numberLabel": "19",
+      "text": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.",
+      "metadata": {
+        "reference": "Mark 5:19",
+        "verseKey": "kjv:mark:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:5:20",
+      "numberLabel": "20",
+      "text": "And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.",
+      "metadata": {
+        "reference": "Mark 5:20",
+        "verseKey": "kjv:mark:5:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:5:21",
+      "numberLabel": "21",
+      "text": "And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.",
+      "metadata": {
+        "reference": "Mark 5:21",
+        "verseKey": "kjv:mark:5:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:5:22",
+      "numberLabel": "22",
+      "text": "And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,",
+      "metadata": {
+        "reference": "Mark 5:22",
+        "verseKey": "kjv:mark:5:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:5:23",
+      "numberLabel": "23",
+      "text": "And besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live.",
+      "metadata": {
+        "reference": "Mark 5:23",
+        "verseKey": "kjv:mark:5:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:5:24",
+      "numberLabel": "24",
+      "text": "And Jesus went with him; and much people followed him, and thronged him.",
+      "metadata": {
+        "reference": "Mark 5:24",
+        "verseKey": "kjv:mark:5:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:5:25",
+      "numberLabel": "25",
+      "text": "And a certain woman, which had an issue of blood twelve years,",
+      "metadata": {
+        "reference": "Mark 5:25",
+        "verseKey": "kjv:mark:5:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:5:26",
+      "numberLabel": "26",
+      "text": "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,",
+      "metadata": {
+        "reference": "Mark 5:26",
+        "verseKey": "kjv:mark:5:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:5:27",
+      "numberLabel": "27",
+      "text": "When she had heard of Jesus, came in the press behind, and touched his garment.",
+      "metadata": {
+        "reference": "Mark 5:27",
+        "verseKey": "kjv:mark:5:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:5:28",
+      "numberLabel": "28",
+      "text": "For she said, If I may touch but his clothes, I shall be whole.",
+      "metadata": {
+        "reference": "Mark 5:28",
+        "verseKey": "kjv:mark:5:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:5:29",
+      "numberLabel": "29",
+      "text": "And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague.",
+      "metadata": {
+        "reference": "Mark 5:29",
+        "verseKey": "kjv:mark:5:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:5:30",
+      "numberLabel": "30",
+      "text": "And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?",
+      "metadata": {
+        "reference": "Mark 5:30",
+        "verseKey": "kjv:mark:5:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:5:31",
+      "numberLabel": "31",
+      "text": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?",
+      "metadata": {
+        "reference": "Mark 5:31",
+        "verseKey": "kjv:mark:5:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:5:32",
+      "numberLabel": "32",
+      "text": "And he looked round about to see her that had done this thing.",
+      "metadata": {
+        "reference": "Mark 5:32",
+        "verseKey": "kjv:mark:5:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:5:33",
+      "numberLabel": "33",
+      "text": "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.",
+      "metadata": {
+        "reference": "Mark 5:33",
+        "verseKey": "kjv:mark:5:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:mark:5:34",
+      "numberLabel": "34",
+      "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+      "metadata": {
+        "reference": "Mark 5:34",
+        "verseKey": "kjv:mark:5:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:mark:5:35",
+      "numberLabel": "35",
+      "text": "While he yet spake, there came from the ruler of the synagogue’s house certain which said, Thy daughter is dead: why troublest thou the Master any further?",
+      "metadata": {
+        "reference": "Mark 5:35",
+        "verseKey": "kjv:mark:5:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:mark:5:36",
+      "numberLabel": "36",
+      "text": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.",
+      "metadata": {
+        "reference": "Mark 5:36",
+        "verseKey": "kjv:mark:5:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:mark:5:37",
+      "numberLabel": "37",
+      "text": "And he suffered no man to follow him, save Peter, and James, and John the brother of James.",
+      "metadata": {
+        "reference": "Mark 5:37",
+        "verseKey": "kjv:mark:5:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:mark:5:38",
+      "numberLabel": "38",
+      "text": "And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.",
+      "metadata": {
+        "reference": "Mark 5:38",
+        "verseKey": "kjv:mark:5:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:mark:5:39",
+      "numberLabel": "39",
+      "text": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.",
+      "metadata": {
+        "reference": "Mark 5:39",
+        "verseKey": "kjv:mark:5:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:mark:5:40",
+      "numberLabel": "40",
+      "text": "And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.",
+      "metadata": {
+        "reference": "Mark 5:40",
+        "verseKey": "kjv:mark:5:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:mark:5:41",
+      "numberLabel": "41",
+      "text": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.",
+      "metadata": {
+        "reference": "Mark 5:41",
+        "verseKey": "kjv:mark:5:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:mark:5:42",
+      "numberLabel": "42",
+      "text": "And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment.",
+      "metadata": {
+        "reference": "Mark 5:42",
+        "verseKey": "kjv:mark:5:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:mark:5:43",
+      "numberLabel": "43",
+      "text": "And he charged them straitly that no man should know it; and commanded that something should be given her to eat.",
+      "metadata": {
+        "reference": "Mark 5:43",
+        "verseKey": "kjv:mark:5:43"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

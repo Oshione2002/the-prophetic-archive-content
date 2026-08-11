@@ -1,0 +1,584 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Matthew 25",
+  "display_title": "Matthew 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 25,
+  "sortOrder": 40025,
+  "verseCount": 46,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:25:1",
+      "numberLabel": "1",
+      "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.",
+      "metadata": {
+        "reference": "Matthew 25:1",
+        "verseKey": "kjv:matthew:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:25:2",
+      "numberLabel": "2",
+      "text": "And five of them were wise, and five were foolish.",
+      "metadata": {
+        "reference": "Matthew 25:2",
+        "verseKey": "kjv:matthew:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:25:3",
+      "numberLabel": "3",
+      "text": "They that were foolish took their lamps, and took no oil with them:",
+      "metadata": {
+        "reference": "Matthew 25:3",
+        "verseKey": "kjv:matthew:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:25:4",
+      "numberLabel": "4",
+      "text": "But the wise took oil in their vessels with their lamps.",
+      "metadata": {
+        "reference": "Matthew 25:4",
+        "verseKey": "kjv:matthew:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:25:5",
+      "numberLabel": "5",
+      "text": "While the bridegroom tarried, they all slumbered and slept.",
+      "metadata": {
+        "reference": "Matthew 25:5",
+        "verseKey": "kjv:matthew:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:25:6",
+      "numberLabel": "6",
+      "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.",
+      "metadata": {
+        "reference": "Matthew 25:6",
+        "verseKey": "kjv:matthew:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:25:7",
+      "numberLabel": "7",
+      "text": "Then all those virgins arose, and trimmed their lamps.",
+      "metadata": {
+        "reference": "Matthew 25:7",
+        "verseKey": "kjv:matthew:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:25:8",
+      "numberLabel": "8",
+      "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.",
+      "metadata": {
+        "reference": "Matthew 25:8",
+        "verseKey": "kjv:matthew:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:25:9",
+      "numberLabel": "9",
+      "text": "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.",
+      "metadata": {
+        "reference": "Matthew 25:9",
+        "verseKey": "kjv:matthew:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:25:10",
+      "numberLabel": "10",
+      "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.",
+      "metadata": {
+        "reference": "Matthew 25:10",
+        "verseKey": "kjv:matthew:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:25:11",
+      "numberLabel": "11",
+      "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us.",
+      "metadata": {
+        "reference": "Matthew 25:11",
+        "verseKey": "kjv:matthew:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:25:12",
+      "numberLabel": "12",
+      "text": "But he answered and said, Verily I say unto you, I know you not.",
+      "metadata": {
+        "reference": "Matthew 25:12",
+        "verseKey": "kjv:matthew:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:25:13",
+      "numberLabel": "13",
+      "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.",
+      "metadata": {
+        "reference": "Matthew 25:13",
+        "verseKey": "kjv:matthew:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:25:14",
+      "numberLabel": "14",
+      "text": "For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods.",
+      "metadata": {
+        "reference": "Matthew 25:14",
+        "verseKey": "kjv:matthew:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:25:15",
+      "numberLabel": "15",
+      "text": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.",
+      "metadata": {
+        "reference": "Matthew 25:15",
+        "verseKey": "kjv:matthew:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:25:16",
+      "numberLabel": "16",
+      "text": "Then he that had received the five talents went and traded with the same, and made them other five talents.",
+      "metadata": {
+        "reference": "Matthew 25:16",
+        "verseKey": "kjv:matthew:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:25:17",
+      "numberLabel": "17",
+      "text": "And likewise he that had received two, he also gained other two.",
+      "metadata": {
+        "reference": "Matthew 25:17",
+        "verseKey": "kjv:matthew:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:25:18",
+      "numberLabel": "18",
+      "text": "But he that had received one went and digged in the earth, and hid his lord’s money.",
+      "metadata": {
+        "reference": "Matthew 25:18",
+        "verseKey": "kjv:matthew:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:25:19",
+      "numberLabel": "19",
+      "text": "After a long time the lord of those servants cometh, and reckoneth with them.",
+      "metadata": {
+        "reference": "Matthew 25:19",
+        "verseKey": "kjv:matthew:25:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:25:20",
+      "numberLabel": "20",
+      "text": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.",
+      "metadata": {
+        "reference": "Matthew 25:20",
+        "verseKey": "kjv:matthew:25:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:25:21",
+      "numberLabel": "21",
+      "text": "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+      "metadata": {
+        "reference": "Matthew 25:21",
+        "verseKey": "kjv:matthew:25:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:25:22",
+      "numberLabel": "22",
+      "text": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.",
+      "metadata": {
+        "reference": "Matthew 25:22",
+        "verseKey": "kjv:matthew:25:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:25:23",
+      "numberLabel": "23",
+      "text": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+      "metadata": {
+        "reference": "Matthew 25:23",
+        "verseKey": "kjv:matthew:25:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:25:24",
+      "numberLabel": "24",
+      "text": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:",
+      "metadata": {
+        "reference": "Matthew 25:24",
+        "verseKey": "kjv:matthew:25:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:25:25",
+      "numberLabel": "25",
+      "text": "And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine.",
+      "metadata": {
+        "reference": "Matthew 25:25",
+        "verseKey": "kjv:matthew:25:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:25:26",
+      "numberLabel": "26",
+      "text": "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:",
+      "metadata": {
+        "reference": "Matthew 25:26",
+        "verseKey": "kjv:matthew:25:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:25:27",
+      "numberLabel": "27",
+      "text": "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.",
+      "metadata": {
+        "reference": "Matthew 25:27",
+        "verseKey": "kjv:matthew:25:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:25:28",
+      "numberLabel": "28",
+      "text": "Take therefore the talent from him, and give it unto him which hath ten talents.",
+      "metadata": {
+        "reference": "Matthew 25:28",
+        "verseKey": "kjv:matthew:25:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:25:29",
+      "numberLabel": "29",
+      "text": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+      "metadata": {
+        "reference": "Matthew 25:29",
+        "verseKey": "kjv:matthew:25:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:25:30",
+      "numberLabel": "30",
+      "text": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.",
+      "metadata": {
+        "reference": "Matthew 25:30",
+        "verseKey": "kjv:matthew:25:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:25:31",
+      "numberLabel": "31",
+      "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+      "metadata": {
+        "reference": "Matthew 25:31",
+        "verseKey": "kjv:matthew:25:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:25:32",
+      "numberLabel": "32",
+      "text": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:",
+      "metadata": {
+        "reference": "Matthew 25:32",
+        "verseKey": "kjv:matthew:25:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:25:33",
+      "numberLabel": "33",
+      "text": "And he shall set the sheep on his right hand, but the goats on the left.",
+      "metadata": {
+        "reference": "Matthew 25:33",
+        "verseKey": "kjv:matthew:25:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:25:34",
+      "numberLabel": "34",
+      "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+      "metadata": {
+        "reference": "Matthew 25:34",
+        "verseKey": "kjv:matthew:25:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:25:35",
+      "numberLabel": "35",
+      "text": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:",
+      "metadata": {
+        "reference": "Matthew 25:35",
+        "verseKey": "kjv:matthew:25:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:25:36",
+      "numberLabel": "36",
+      "text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+      "metadata": {
+        "reference": "Matthew 25:36",
+        "verseKey": "kjv:matthew:25:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:matthew:25:37",
+      "numberLabel": "37",
+      "text": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?",
+      "metadata": {
+        "reference": "Matthew 25:37",
+        "verseKey": "kjv:matthew:25:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:matthew:25:38",
+      "numberLabel": "38",
+      "text": "When saw we thee a stranger, and took thee in? or naked, and clothed thee?",
+      "metadata": {
+        "reference": "Matthew 25:38",
+        "verseKey": "kjv:matthew:25:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:matthew:25:39",
+      "numberLabel": "39",
+      "text": "Or when saw we thee sick, or in prison, and came unto thee?",
+      "metadata": {
+        "reference": "Matthew 25:39",
+        "verseKey": "kjv:matthew:25:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:matthew:25:40",
+      "numberLabel": "40",
+      "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+      "metadata": {
+        "reference": "Matthew 25:40",
+        "verseKey": "kjv:matthew:25:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:matthew:25:41",
+      "numberLabel": "41",
+      "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
+      "metadata": {
+        "reference": "Matthew 25:41",
+        "verseKey": "kjv:matthew:25:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:matthew:25:42",
+      "numberLabel": "42",
+      "text": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:",
+      "metadata": {
+        "reference": "Matthew 25:42",
+        "verseKey": "kjv:matthew:25:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:matthew:25:43",
+      "numberLabel": "43",
+      "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.",
+      "metadata": {
+        "reference": "Matthew 25:43",
+        "verseKey": "kjv:matthew:25:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:matthew:25:44",
+      "numberLabel": "44",
+      "text": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?",
+      "metadata": {
+        "reference": "Matthew 25:44",
+        "verseKey": "kjv:matthew:25:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:matthew:25:45",
+      "numberLabel": "45",
+      "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me.",
+      "metadata": {
+        "reference": "Matthew 25:45",
+        "verseKey": "kjv:matthew:25:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:matthew:25:46",
+      "numberLabel": "46",
+      "text": "And these shall go away into everlasting punishment: but the righteous into life eternal.",
+      "metadata": {
+        "reference": "Matthew 25:46",
+        "verseKey": "kjv:matthew:25:46"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

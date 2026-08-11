@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Genesis 9",
+  "display_title": "Genesis 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 1009,
+  "verseCount": 29,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:9:1",
+      "numberLabel": "1",
+      "text": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
+      "metadata": {
+        "reference": "Genesis 9:1",
+        "verseKey": "kjv:genesis:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:9:2",
+      "numberLabel": "2",
+      "text": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.",
+      "metadata": {
+        "reference": "Genesis 9:2",
+        "verseKey": "kjv:genesis:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:9:3",
+      "numberLabel": "3",
+      "text": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.",
+      "metadata": {
+        "reference": "Genesis 9:3",
+        "verseKey": "kjv:genesis:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:9:4",
+      "numberLabel": "4",
+      "text": "But flesh with the life thereof, which is the blood thereof, shall ye not eat.",
+      "metadata": {
+        "reference": "Genesis 9:4",
+        "verseKey": "kjv:genesis:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:9:5",
+      "numberLabel": "5",
+      "text": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.",
+      "metadata": {
+        "reference": "Genesis 9:5",
+        "verseKey": "kjv:genesis:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:9:6",
+      "numberLabel": "6",
+      "text": "Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man.",
+      "metadata": {
+        "reference": "Genesis 9:6",
+        "verseKey": "kjv:genesis:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:9:7",
+      "numberLabel": "7",
+      "text": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.",
+      "metadata": {
+        "reference": "Genesis 9:7",
+        "verseKey": "kjv:genesis:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:9:8",
+      "numberLabel": "8",
+      "text": "And God spake unto Noah, and to his sons with him, saying,",
+      "metadata": {
+        "reference": "Genesis 9:8",
+        "verseKey": "kjv:genesis:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:9:9",
+      "numberLabel": "9",
+      "text": "And I, behold, I establish my covenant with you, and with your seed after you;",
+      "metadata": {
+        "reference": "Genesis 9:9",
+        "verseKey": "kjv:genesis:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:9:10",
+      "numberLabel": "10",
+      "text": "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.",
+      "metadata": {
+        "reference": "Genesis 9:10",
+        "verseKey": "kjv:genesis:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:9:11",
+      "numberLabel": "11",
+      "text": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
+      "metadata": {
+        "reference": "Genesis 9:11",
+        "verseKey": "kjv:genesis:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:9:12",
+      "numberLabel": "12",
+      "text": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:",
+      "metadata": {
+        "reference": "Genesis 9:12",
+        "verseKey": "kjv:genesis:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:9:13",
+      "numberLabel": "13",
+      "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+      "metadata": {
+        "reference": "Genesis 9:13",
+        "verseKey": "kjv:genesis:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:9:14",
+      "numberLabel": "14",
+      "text": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:",
+      "metadata": {
+        "reference": "Genesis 9:14",
+        "verseKey": "kjv:genesis:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:9:15",
+      "numberLabel": "15",
+      "text": "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.",
+      "metadata": {
+        "reference": "Genesis 9:15",
+        "verseKey": "kjv:genesis:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:9:16",
+      "numberLabel": "16",
+      "text": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.",
+      "metadata": {
+        "reference": "Genesis 9:16",
+        "verseKey": "kjv:genesis:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:9:17",
+      "numberLabel": "17",
+      "text": "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.",
+      "metadata": {
+        "reference": "Genesis 9:17",
+        "verseKey": "kjv:genesis:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:9:18",
+      "numberLabel": "18",
+      "text": "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan.",
+      "metadata": {
+        "reference": "Genesis 9:18",
+        "verseKey": "kjv:genesis:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:9:19",
+      "numberLabel": "19",
+      "text": "These are the three sons of Noah: and of them was the whole earth overspread.",
+      "metadata": {
+        "reference": "Genesis 9:19",
+        "verseKey": "kjv:genesis:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:9:20",
+      "numberLabel": "20",
+      "text": "And Noah began to be an husbandman, and he planted a vineyard:",
+      "metadata": {
+        "reference": "Genesis 9:20",
+        "verseKey": "kjv:genesis:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:9:21",
+      "numberLabel": "21",
+      "text": "And he drank of the wine, and was drunken; and he was uncovered within his tent.",
+      "metadata": {
+        "reference": "Genesis 9:21",
+        "verseKey": "kjv:genesis:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:9:22",
+      "numberLabel": "22",
+      "text": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.",
+      "metadata": {
+        "reference": "Genesis 9:22",
+        "verseKey": "kjv:genesis:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:9:23",
+      "numberLabel": "23",
+      "text": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father’s nakedness.",
+      "metadata": {
+        "reference": "Genesis 9:23",
+        "verseKey": "kjv:genesis:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:9:24",
+      "numberLabel": "24",
+      "text": "And Noah awoke from his wine, and knew what his younger son had done unto him.",
+      "metadata": {
+        "reference": "Genesis 9:24",
+        "verseKey": "kjv:genesis:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:9:25",
+      "numberLabel": "25",
+      "text": "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren.",
+      "metadata": {
+        "reference": "Genesis 9:25",
+        "verseKey": "kjv:genesis:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:9:26",
+      "numberLabel": "26",
+      "text": "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant.",
+      "metadata": {
+        "reference": "Genesis 9:26",
+        "verseKey": "kjv:genesis:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:9:27",
+      "numberLabel": "27",
+      "text": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.",
+      "metadata": {
+        "reference": "Genesis 9:27",
+        "verseKey": "kjv:genesis:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:9:28",
+      "numberLabel": "28",
+      "text": "And Noah lived after the flood three hundred and fifty years.",
+      "metadata": {
+        "reference": "Genesis 9:28",
+        "verseKey": "kjv:genesis:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:9:29",
+      "numberLabel": "29",
+      "text": "And all the days of Noah were nine hundred and fifty years: and he died.",
+      "metadata": {
+        "reference": "Genesis 9:29",
+        "verseKey": "kjv:genesis:9:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

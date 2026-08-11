@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joel-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Joel 2",
+  "display_title": "Joel 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joel",
+  "book": "Joel",
+  "bookName": "Joel",
+  "bookOrder": 29,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 29002,
+  "verseCount": 32,
+  "aliases": [
+    "Joel",
+    "Jl"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joel:2:1",
+      "numberLabel": "1",
+      "text": "Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand;",
+      "metadata": {
+        "reference": "Joel 2:1",
+        "verseKey": "kjv:joel:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joel:2:2",
+      "numberLabel": "2",
+      "text": "A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations.",
+      "metadata": {
+        "reference": "Joel 2:2",
+        "verseKey": "kjv:joel:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joel:2:3",
+      "numberLabel": "3",
+      "text": "A fire devoureth before them; and behind them a flame burneth: the land is as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.",
+      "metadata": {
+        "reference": "Joel 2:3",
+        "verseKey": "kjv:joel:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joel:2:4",
+      "numberLabel": "4",
+      "text": "The appearance of them is as the appearance of horses; and as horsemen, so shall they run.",
+      "metadata": {
+        "reference": "Joel 2:4",
+        "verseKey": "kjv:joel:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joel:2:5",
+      "numberLabel": "5",
+      "text": "Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.",
+      "metadata": {
+        "reference": "Joel 2:5",
+        "verseKey": "kjv:joel:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joel:2:6",
+      "numberLabel": "6",
+      "text": "Before their face the people shall be much pained: all faces shall gather blackness.",
+      "metadata": {
+        "reference": "Joel 2:6",
+        "verseKey": "kjv:joel:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joel:2:7",
+      "numberLabel": "7",
+      "text": "They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:",
+      "metadata": {
+        "reference": "Joel 2:7",
+        "verseKey": "kjv:joel:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joel:2:8",
+      "numberLabel": "8",
+      "text": "Neither shall one thrust another; they shall walk every one in his path: and when they fall upon the sword, they shall not be wounded.",
+      "metadata": {
+        "reference": "Joel 2:8",
+        "verseKey": "kjv:joel:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joel:2:9",
+      "numberLabel": "9",
+      "text": "They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.",
+      "metadata": {
+        "reference": "Joel 2:9",
+        "verseKey": "kjv:joel:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joel:2:10",
+      "numberLabel": "10",
+      "text": "The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:",
+      "metadata": {
+        "reference": "Joel 2:10",
+        "verseKey": "kjv:joel:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joel:2:11",
+      "numberLabel": "11",
+      "text": "And the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD is great and very terrible; and who can abide it?",
+      "metadata": {
+        "reference": "Joel 2:11",
+        "verseKey": "kjv:joel:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joel:2:12",
+      "numberLabel": "12",
+      "text": "Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:",
+      "metadata": {
+        "reference": "Joel 2:12",
+        "verseKey": "kjv:joel:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joel:2:13",
+      "numberLabel": "13",
+      "text": "And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.",
+      "metadata": {
+        "reference": "Joel 2:13",
+        "verseKey": "kjv:joel:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joel:2:14",
+      "numberLabel": "14",
+      "text": "Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?",
+      "metadata": {
+        "reference": "Joel 2:14",
+        "verseKey": "kjv:joel:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joel:2:15",
+      "numberLabel": "15",
+      "text": "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:",
+      "metadata": {
+        "reference": "Joel 2:15",
+        "verseKey": "kjv:joel:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joel:2:16",
+      "numberLabel": "16",
+      "text": "Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.",
+      "metadata": {
+        "reference": "Joel 2:16",
+        "verseKey": "kjv:joel:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joel:2:17",
+      "numberLabel": "17",
+      "text": "Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?",
+      "metadata": {
+        "reference": "Joel 2:17",
+        "verseKey": "kjv:joel:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joel:2:18",
+      "numberLabel": "18",
+      "text": "Then will the LORD be jealous for his land, and pity his people.",
+      "metadata": {
+        "reference": "Joel 2:18",
+        "verseKey": "kjv:joel:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:joel:2:19",
+      "numberLabel": "19",
+      "text": "Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:",
+      "metadata": {
+        "reference": "Joel 2:19",
+        "verseKey": "kjv:joel:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:joel:2:20",
+      "numberLabel": "20",
+      "text": "But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.",
+      "metadata": {
+        "reference": "Joel 2:20",
+        "verseKey": "kjv:joel:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:joel:2:21",
+      "numberLabel": "21",
+      "text": "Fear not, O land; be glad and rejoice: for the LORD will do great things.",
+      "metadata": {
+        "reference": "Joel 2:21",
+        "verseKey": "kjv:joel:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:joel:2:22",
+      "numberLabel": "22",
+      "text": "Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.",
+      "metadata": {
+        "reference": "Joel 2:22",
+        "verseKey": "kjv:joel:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:joel:2:23",
+      "numberLabel": "23",
+      "text": "Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first month.",
+      "metadata": {
+        "reference": "Joel 2:23",
+        "verseKey": "kjv:joel:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:joel:2:24",
+      "numberLabel": "24",
+      "text": "And the floors shall be full of wheat, and the vats shall overflow with wine and oil.",
+      "metadata": {
+        "reference": "Joel 2:24",
+        "verseKey": "kjv:joel:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:joel:2:25",
+      "numberLabel": "25",
+      "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+      "metadata": {
+        "reference": "Joel 2:25",
+        "verseKey": "kjv:joel:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:joel:2:26",
+      "numberLabel": "26",
+      "text": "And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.",
+      "metadata": {
+        "reference": "Joel 2:26",
+        "verseKey": "kjv:joel:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:joel:2:27",
+      "numberLabel": "27",
+      "text": "And ye shall know that I am in the midst of Israel, and that I am the LORD your God, and none else: and my people shall never be ashamed.",
+      "metadata": {
+        "reference": "Joel 2:27",
+        "verseKey": "kjv:joel:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:joel:2:28",
+      "numberLabel": "28",
+      "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:",
+      "metadata": {
+        "reference": "Joel 2:28",
+        "verseKey": "kjv:joel:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:joel:2:29",
+      "numberLabel": "29",
+      "text": "And also upon the servants and upon the handmaids in those days will I pour out my spirit.",
+      "metadata": {
+        "reference": "Joel 2:29",
+        "verseKey": "kjv:joel:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:joel:2:30",
+      "numberLabel": "30",
+      "text": "And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.",
+      "metadata": {
+        "reference": "Joel 2:30",
+        "verseKey": "kjv:joel:2:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:joel:2:31",
+      "numberLabel": "31",
+      "text": "The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.",
+      "metadata": {
+        "reference": "Joel 2:31",
+        "verseKey": "kjv:joel:2:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:joel:2:32",
+      "numberLabel": "32",
+      "text": "And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.",
+      "metadata": {
+        "reference": "Joel 2:32",
+        "verseKey": "kjv:joel:2:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

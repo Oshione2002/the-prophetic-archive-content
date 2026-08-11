@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-052",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 52,
+  "title": "Isaiah 52",
+  "display_title": "Isaiah 52",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 52,
+  "sortOrder": 23052,
+  "verseCount": 15,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:52:1",
+      "numberLabel": "1",
+      "text": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
+      "metadata": {
+        "reference": "Isaiah 52:1",
+        "verseKey": "kjv:isaiah:52:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:52:2",
+      "numberLabel": "2",
+      "text": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.",
+      "metadata": {
+        "reference": "Isaiah 52:2",
+        "verseKey": "kjv:isaiah:52:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:52:3",
+      "numberLabel": "3",
+      "text": "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.",
+      "metadata": {
+        "reference": "Isaiah 52:3",
+        "verseKey": "kjv:isaiah:52:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:52:4",
+      "numberLabel": "4",
+      "text": "For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.",
+      "metadata": {
+        "reference": "Isaiah 52:4",
+        "verseKey": "kjv:isaiah:52:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:52:5",
+      "numberLabel": "5",
+      "text": "Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day is blasphemed.",
+      "metadata": {
+        "reference": "Isaiah 52:5",
+        "verseKey": "kjv:isaiah:52:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:52:6",
+      "numberLabel": "6",
+      "text": "Therefore my people shall know my name: therefore they shall know in that day that I am he that doth speak: behold, it is I.",
+      "metadata": {
+        "reference": "Isaiah 52:6",
+        "verseKey": "kjv:isaiah:52:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:52:7",
+      "numberLabel": "7",
+      "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+      "metadata": {
+        "reference": "Isaiah 52:7",
+        "verseKey": "kjv:isaiah:52:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:52:8",
+      "numberLabel": "8",
+      "text": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
+      "metadata": {
+        "reference": "Isaiah 52:8",
+        "verseKey": "kjv:isaiah:52:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:52:9",
+      "numberLabel": "9",
+      "text": "Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.",
+      "metadata": {
+        "reference": "Isaiah 52:9",
+        "verseKey": "kjv:isaiah:52:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:52:10",
+      "numberLabel": "10",
+      "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
+      "metadata": {
+        "reference": "Isaiah 52:10",
+        "verseKey": "kjv:isaiah:52:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:52:11",
+      "numberLabel": "11",
+      "text": "Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.",
+      "metadata": {
+        "reference": "Isaiah 52:11",
+        "verseKey": "kjv:isaiah:52:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:52:12",
+      "numberLabel": "12",
+      "text": "For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.",
+      "metadata": {
+        "reference": "Isaiah 52:12",
+        "verseKey": "kjv:isaiah:52:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:52:13",
+      "numberLabel": "13",
+      "text": "Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.",
+      "metadata": {
+        "reference": "Isaiah 52:13",
+        "verseKey": "kjv:isaiah:52:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:52:14",
+      "numberLabel": "14",
+      "text": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:",
+      "metadata": {
+        "reference": "Isaiah 52:14",
+        "verseKey": "kjv:isaiah:52:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:52:15",
+      "numberLabel": "15",
+      "text": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.",
+      "metadata": {
+        "reference": "Isaiah 52:15",
+        "verseKey": "kjv:isaiah:52:15"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

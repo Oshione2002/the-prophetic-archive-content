@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-090",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 90,
+  "title": "Psalms 90",
+  "display_title": "Psalms 90",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 90,
+  "sortOrder": 19090,
+  "verseCount": 17,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:90:1",
+      "numberLabel": "1",
+      "text": "Lord, thou hast been our dwelling place in all generations.",
+      "metadata": {
+        "reference": "Psalms 90:1",
+        "verseKey": "kjv:psalms:90:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:90:2",
+      "numberLabel": "2",
+      "text": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.",
+      "metadata": {
+        "reference": "Psalms 90:2",
+        "verseKey": "kjv:psalms:90:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:90:3",
+      "numberLabel": "3",
+      "text": "Thou turnest man to destruction; and sayest, Return, ye children of men.",
+      "metadata": {
+        "reference": "Psalms 90:3",
+        "verseKey": "kjv:psalms:90:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:90:4",
+      "numberLabel": "4",
+      "text": "For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.",
+      "metadata": {
+        "reference": "Psalms 90:4",
+        "verseKey": "kjv:psalms:90:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:90:5",
+      "numberLabel": "5",
+      "text": "Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.",
+      "metadata": {
+        "reference": "Psalms 90:5",
+        "verseKey": "kjv:psalms:90:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:90:6",
+      "numberLabel": "6",
+      "text": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
+      "metadata": {
+        "reference": "Psalms 90:6",
+        "verseKey": "kjv:psalms:90:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:90:7",
+      "numberLabel": "7",
+      "text": "For we are consumed by thine anger, and by thy wrath are we troubled.",
+      "metadata": {
+        "reference": "Psalms 90:7",
+        "verseKey": "kjv:psalms:90:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:90:8",
+      "numberLabel": "8",
+      "text": "Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.",
+      "metadata": {
+        "reference": "Psalms 90:8",
+        "verseKey": "kjv:psalms:90:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:90:9",
+      "numberLabel": "9",
+      "text": "For all our days are passed away in thy wrath: we spend our years as a tale that is told.",
+      "metadata": {
+        "reference": "Psalms 90:9",
+        "verseKey": "kjv:psalms:90:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:90:10",
+      "numberLabel": "10",
+      "text": "The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.",
+      "metadata": {
+        "reference": "Psalms 90:10",
+        "verseKey": "kjv:psalms:90:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:90:11",
+      "numberLabel": "11",
+      "text": "Who knoweth the power of thine anger? even according to thy fear, so is thy wrath.",
+      "metadata": {
+        "reference": "Psalms 90:11",
+        "verseKey": "kjv:psalms:90:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:90:12",
+      "numberLabel": "12",
+      "text": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+      "metadata": {
+        "reference": "Psalms 90:12",
+        "verseKey": "kjv:psalms:90:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:90:13",
+      "numberLabel": "13",
+      "text": "Return, O LORD, how long? and let it repent thee concerning thy servants.",
+      "metadata": {
+        "reference": "Psalms 90:13",
+        "verseKey": "kjv:psalms:90:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:90:14",
+      "numberLabel": "14",
+      "text": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days.",
+      "metadata": {
+        "reference": "Psalms 90:14",
+        "verseKey": "kjv:psalms:90:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:90:15",
+      "numberLabel": "15",
+      "text": "Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.",
+      "metadata": {
+        "reference": "Psalms 90:15",
+        "verseKey": "kjv:psalms:90:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:90:16",
+      "numberLabel": "16",
+      "text": "Let thy work appear unto thy servants, and thy glory unto their children.",
+      "metadata": {
+        "reference": "Psalms 90:16",
+        "verseKey": "kjv:psalms:90:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:90:17",
+      "numberLabel": "17",
+      "text": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+      "metadata": {
+        "reference": "Psalms 90:17",
+        "verseKey": "kjv:psalms:90:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

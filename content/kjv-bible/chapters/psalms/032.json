@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-032",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 32,
+  "title": "Psalms 32",
+  "display_title": "Psalms 32",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 32,
+  "sortOrder": 19032,
+  "verseCount": 11,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:32:1",
+      "numberLabel": "1",
+      "text": "Blessed is he whose transgression is forgiven, whose sin is covered.",
+      "metadata": {
+        "reference": "Psalms 32:1",
+        "verseKey": "kjv:psalms:32:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:32:2",
+      "numberLabel": "2",
+      "text": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.",
+      "metadata": {
+        "reference": "Psalms 32:2",
+        "verseKey": "kjv:psalms:32:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:32:3",
+      "numberLabel": "3",
+      "text": "When I kept silence, my bones waxed old through my roaring all the day long.",
+      "metadata": {
+        "reference": "Psalms 32:3",
+        "verseKey": "kjv:psalms:32:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:32:4",
+      "numberLabel": "4",
+      "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
+      "metadata": {
+        "reference": "Psalms 32:4",
+        "verseKey": "kjv:psalms:32:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:32:5",
+      "numberLabel": "5",
+      "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.",
+      "metadata": {
+        "reference": "Psalms 32:5",
+        "verseKey": "kjv:psalms:32:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:32:6",
+      "numberLabel": "6",
+      "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
+      "metadata": {
+        "reference": "Psalms 32:6",
+        "verseKey": "kjv:psalms:32:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:32:7",
+      "numberLabel": "7",
+      "text": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+      "metadata": {
+        "reference": "Psalms 32:7",
+        "verseKey": "kjv:psalms:32:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:32:8",
+      "numberLabel": "8",
+      "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+      "metadata": {
+        "reference": "Psalms 32:8",
+        "verseKey": "kjv:psalms:32:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:32:9",
+      "numberLabel": "9",
+      "text": "Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
+      "metadata": {
+        "reference": "Psalms 32:9",
+        "verseKey": "kjv:psalms:32:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:32:10",
+      "numberLabel": "10",
+      "text": "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+      "metadata": {
+        "reference": "Psalms 32:10",
+        "verseKey": "kjv:psalms:32:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:32:11",
+      "numberLabel": "11",
+      "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.",
+      "metadata": {
+        "reference": "Psalms 32:11",
+        "verseKey": "kjv:psalms:32:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

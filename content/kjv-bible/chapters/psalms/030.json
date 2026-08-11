@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-030",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 30,
+  "title": "Psalms 30",
+  "display_title": "Psalms 30",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 30,
+  "sortOrder": 19030,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:30:1",
+      "numberLabel": "1",
+      "text": "I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+      "metadata": {
+        "reference": "Psalms 30:1",
+        "verseKey": "kjv:psalms:30:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:30:2",
+      "numberLabel": "2",
+      "text": "O LORD my God, I cried unto thee, and thou hast healed me.",
+      "metadata": {
+        "reference": "Psalms 30:2",
+        "verseKey": "kjv:psalms:30:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:30:3",
+      "numberLabel": "3",
+      "text": "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+      "metadata": {
+        "reference": "Psalms 30:3",
+        "verseKey": "kjv:psalms:30:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:30:4",
+      "numberLabel": "4",
+      "text": "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.",
+      "metadata": {
+        "reference": "Psalms 30:4",
+        "verseKey": "kjv:psalms:30:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:30:5",
+      "numberLabel": "5",
+      "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
+      "metadata": {
+        "reference": "Psalms 30:5",
+        "verseKey": "kjv:psalms:30:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:30:6",
+      "numberLabel": "6",
+      "text": "And in my prosperity I said, I shall never be moved.",
+      "metadata": {
+        "reference": "Psalms 30:6",
+        "verseKey": "kjv:psalms:30:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:30:7",
+      "numberLabel": "7",
+      "text": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.",
+      "metadata": {
+        "reference": "Psalms 30:7",
+        "verseKey": "kjv:psalms:30:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:30:8",
+      "numberLabel": "8",
+      "text": "I cried to thee, O LORD; and unto the LORD I made supplication.",
+      "metadata": {
+        "reference": "Psalms 30:8",
+        "verseKey": "kjv:psalms:30:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:30:9",
+      "numberLabel": "9",
+      "text": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+      "metadata": {
+        "reference": "Psalms 30:9",
+        "verseKey": "kjv:psalms:30:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:30:10",
+      "numberLabel": "10",
+      "text": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper.",
+      "metadata": {
+        "reference": "Psalms 30:10",
+        "verseKey": "kjv:psalms:30:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:30:11",
+      "numberLabel": "11",
+      "text": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
+      "metadata": {
+        "reference": "Psalms 30:11",
+        "verseKey": "kjv:psalms:30:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:30:12",
+      "numberLabel": "12",
+      "text": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.",
+      "metadata": {
+        "reference": "Psalms 30:12",
+        "verseKey": "kjv:psalms:30:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

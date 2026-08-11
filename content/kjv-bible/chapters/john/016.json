@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-016",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 16,
+  "title": "John 16",
+  "display_title": "John 16",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 16,
+  "sortOrder": 43016,
+  "verseCount": 33,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:16:1",
+      "numberLabel": "1",
+      "text": "These things have I spoken unto you, that ye should not be offended.",
+      "metadata": {
+        "reference": "John 16:1",
+        "verseKey": "kjv:john:16:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:16:2",
+      "numberLabel": "2",
+      "text": "They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.",
+      "metadata": {
+        "reference": "John 16:2",
+        "verseKey": "kjv:john:16:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:16:3",
+      "numberLabel": "3",
+      "text": "And these things will they do unto you, because they have not known the Father, nor me.",
+      "metadata": {
+        "reference": "John 16:3",
+        "verseKey": "kjv:john:16:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:16:4",
+      "numberLabel": "4",
+      "text": "But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.",
+      "metadata": {
+        "reference": "John 16:4",
+        "verseKey": "kjv:john:16:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:16:5",
+      "numberLabel": "5",
+      "text": "But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?",
+      "metadata": {
+        "reference": "John 16:5",
+        "verseKey": "kjv:john:16:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:16:6",
+      "numberLabel": "6",
+      "text": "But because I have said these things unto you, sorrow hath filled your heart.",
+      "metadata": {
+        "reference": "John 16:6",
+        "verseKey": "kjv:john:16:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:16:7",
+      "numberLabel": "7",
+      "text": "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.",
+      "metadata": {
+        "reference": "John 16:7",
+        "verseKey": "kjv:john:16:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:16:8",
+      "numberLabel": "8",
+      "text": "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:",
+      "metadata": {
+        "reference": "John 16:8",
+        "verseKey": "kjv:john:16:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:16:9",
+      "numberLabel": "9",
+      "text": "Of sin, because they believe not on me;",
+      "metadata": {
+        "reference": "John 16:9",
+        "verseKey": "kjv:john:16:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:16:10",
+      "numberLabel": "10",
+      "text": "Of righteousness, because I go to my Father, and ye see me no more;",
+      "metadata": {
+        "reference": "John 16:10",
+        "verseKey": "kjv:john:16:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:16:11",
+      "numberLabel": "11",
+      "text": "Of judgment, because the prince of this world is judged.",
+      "metadata": {
+        "reference": "John 16:11",
+        "verseKey": "kjv:john:16:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:16:12",
+      "numberLabel": "12",
+      "text": "I have yet many things to say unto you, but ye cannot bear them now.",
+      "metadata": {
+        "reference": "John 16:12",
+        "verseKey": "kjv:john:16:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:16:13",
+      "numberLabel": "13",
+      "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.",
+      "metadata": {
+        "reference": "John 16:13",
+        "verseKey": "kjv:john:16:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:16:14",
+      "numberLabel": "14",
+      "text": "He shall glorify me: for he shall receive of mine, and shall shew it unto you.",
+      "metadata": {
+        "reference": "John 16:14",
+        "verseKey": "kjv:john:16:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:16:15",
+      "numberLabel": "15",
+      "text": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.",
+      "metadata": {
+        "reference": "John 16:15",
+        "verseKey": "kjv:john:16:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:16:16",
+      "numberLabel": "16",
+      "text": "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.",
+      "metadata": {
+        "reference": "John 16:16",
+        "verseKey": "kjv:john:16:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:16:17",
+      "numberLabel": "17",
+      "text": "Then said some of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?",
+      "metadata": {
+        "reference": "John 16:17",
+        "verseKey": "kjv:john:16:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:16:18",
+      "numberLabel": "18",
+      "text": "They said therefore, What is this that he saith, A little while? we cannot tell what he saith.",
+      "metadata": {
+        "reference": "John 16:18",
+        "verseKey": "kjv:john:16:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:16:19",
+      "numberLabel": "19",
+      "text": "Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?",
+      "metadata": {
+        "reference": "John 16:19",
+        "verseKey": "kjv:john:16:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:16:20",
+      "numberLabel": "20",
+      "text": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.",
+      "metadata": {
+        "reference": "John 16:20",
+        "verseKey": "kjv:john:16:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:16:21",
+      "numberLabel": "21",
+      "text": "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.",
+      "metadata": {
+        "reference": "John 16:21",
+        "verseKey": "kjv:john:16:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:16:22",
+      "numberLabel": "22",
+      "text": "And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.",
+      "metadata": {
+        "reference": "John 16:22",
+        "verseKey": "kjv:john:16:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:16:23",
+      "numberLabel": "23",
+      "text": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.",
+      "metadata": {
+        "reference": "John 16:23",
+        "verseKey": "kjv:john:16:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:16:24",
+      "numberLabel": "24",
+      "text": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.",
+      "metadata": {
+        "reference": "John 16:24",
+        "verseKey": "kjv:john:16:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:16:25",
+      "numberLabel": "25",
+      "text": "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.",
+      "metadata": {
+        "reference": "John 16:25",
+        "verseKey": "kjv:john:16:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:16:26",
+      "numberLabel": "26",
+      "text": "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:",
+      "metadata": {
+        "reference": "John 16:26",
+        "verseKey": "kjv:john:16:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:16:27",
+      "numberLabel": "27",
+      "text": "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.",
+      "metadata": {
+        "reference": "John 16:27",
+        "verseKey": "kjv:john:16:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:16:28",
+      "numberLabel": "28",
+      "text": "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.",
+      "metadata": {
+        "reference": "John 16:28",
+        "verseKey": "kjv:john:16:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:16:29",
+      "numberLabel": "29",
+      "text": "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.",
+      "metadata": {
+        "reference": "John 16:29",
+        "verseKey": "kjv:john:16:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:16:30",
+      "numberLabel": "30",
+      "text": "Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.",
+      "metadata": {
+        "reference": "John 16:30",
+        "verseKey": "kjv:john:16:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:16:31",
+      "numberLabel": "31",
+      "text": "Jesus answered them, Do ye now believe?",
+      "metadata": {
+        "reference": "John 16:31",
+        "verseKey": "kjv:john:16:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:john:16:32",
+      "numberLabel": "32",
+      "text": "Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me.",
+      "metadata": {
+        "reference": "John 16:32",
+        "verseKey": "kjv:john:16:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:john:16:33",
+      "numberLabel": "33",
+      "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+      "metadata": {
+        "reference": "John 16:33",
+        "verseKey": "kjv:john:16:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

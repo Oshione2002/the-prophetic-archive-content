@@ -1,0 +1,477 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Mark 13",
+  "display_title": "Mark 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 13,
+  "sortOrder": 41013,
+  "verseCount": 37,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:13:1",
+      "numberLabel": "1",
+      "text": "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!",
+      "metadata": {
+        "reference": "Mark 13:1",
+        "verseKey": "kjv:mark:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:13:2",
+      "numberLabel": "2",
+      "text": "And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.",
+      "metadata": {
+        "reference": "Mark 13:2",
+        "verseKey": "kjv:mark:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:13:3",
+      "numberLabel": "3",
+      "text": "And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,",
+      "metadata": {
+        "reference": "Mark 13:3",
+        "verseKey": "kjv:mark:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:13:4",
+      "numberLabel": "4",
+      "text": "Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?",
+      "metadata": {
+        "reference": "Mark 13:4",
+        "verseKey": "kjv:mark:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:13:5",
+      "numberLabel": "5",
+      "text": "And Jesus answering them began to say, Take heed lest any man deceive you:",
+      "metadata": {
+        "reference": "Mark 13:5",
+        "verseKey": "kjv:mark:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:13:6",
+      "numberLabel": "6",
+      "text": "For many shall come in my name, saying, I am Christ; and shall deceive many.",
+      "metadata": {
+        "reference": "Mark 13:6",
+        "verseKey": "kjv:mark:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:13:7",
+      "numberLabel": "7",
+      "text": "And when ye shall hear of wars and rumours of wars, be ye not troubled: for such things must needs be; but the end shall not be yet.",
+      "metadata": {
+        "reference": "Mark 13:7",
+        "verseKey": "kjv:mark:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:13:8",
+      "numberLabel": "8",
+      "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these are the beginnings of sorrows.",
+      "metadata": {
+        "reference": "Mark 13:8",
+        "verseKey": "kjv:mark:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:13:9",
+      "numberLabel": "9",
+      "text": "But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.",
+      "metadata": {
+        "reference": "Mark 13:9",
+        "verseKey": "kjv:mark:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:13:10",
+      "numberLabel": "10",
+      "text": "And the gospel must first be published among all nations.",
+      "metadata": {
+        "reference": "Mark 13:10",
+        "verseKey": "kjv:mark:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:13:11",
+      "numberLabel": "11",
+      "text": "But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.",
+      "metadata": {
+        "reference": "Mark 13:11",
+        "verseKey": "kjv:mark:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:13:12",
+      "numberLabel": "12",
+      "text": "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death.",
+      "metadata": {
+        "reference": "Mark 13:12",
+        "verseKey": "kjv:mark:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:13:13",
+      "numberLabel": "13",
+      "text": "And ye shall be hated of all men for my name’s sake: but he that shall endure unto the end, the same shall be saved.",
+      "metadata": {
+        "reference": "Mark 13:13",
+        "verseKey": "kjv:mark:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:13:14",
+      "numberLabel": "14",
+      "text": "But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:",
+      "metadata": {
+        "reference": "Mark 13:14",
+        "verseKey": "kjv:mark:13:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:13:15",
+      "numberLabel": "15",
+      "text": "And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:",
+      "metadata": {
+        "reference": "Mark 13:15",
+        "verseKey": "kjv:mark:13:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:13:16",
+      "numberLabel": "16",
+      "text": "And let him that is in the field not turn back again for to take up his garment.",
+      "metadata": {
+        "reference": "Mark 13:16",
+        "verseKey": "kjv:mark:13:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:13:17",
+      "numberLabel": "17",
+      "text": "But woe to them that are with child, and to them that give suck in those days!",
+      "metadata": {
+        "reference": "Mark 13:17",
+        "verseKey": "kjv:mark:13:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:13:18",
+      "numberLabel": "18",
+      "text": "And pray ye that your flight be not in the winter.",
+      "metadata": {
+        "reference": "Mark 13:18",
+        "verseKey": "kjv:mark:13:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:13:19",
+      "numberLabel": "19",
+      "text": "For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.",
+      "metadata": {
+        "reference": "Mark 13:19",
+        "verseKey": "kjv:mark:13:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:13:20",
+      "numberLabel": "20",
+      "text": "And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.",
+      "metadata": {
+        "reference": "Mark 13:20",
+        "verseKey": "kjv:mark:13:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:13:21",
+      "numberLabel": "21",
+      "text": "And then if any man shall say to you, Lo, here is Christ; or, lo, he is there; believe him not:",
+      "metadata": {
+        "reference": "Mark 13:21",
+        "verseKey": "kjv:mark:13:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:13:22",
+      "numberLabel": "22",
+      "text": "For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if it were possible, even the elect.",
+      "metadata": {
+        "reference": "Mark 13:22",
+        "verseKey": "kjv:mark:13:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:13:23",
+      "numberLabel": "23",
+      "text": "But take ye heed: behold, I have foretold you all things.",
+      "metadata": {
+        "reference": "Mark 13:23",
+        "verseKey": "kjv:mark:13:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:13:24",
+      "numberLabel": "24",
+      "text": "But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,",
+      "metadata": {
+        "reference": "Mark 13:24",
+        "verseKey": "kjv:mark:13:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:13:25",
+      "numberLabel": "25",
+      "text": "And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.",
+      "metadata": {
+        "reference": "Mark 13:25",
+        "verseKey": "kjv:mark:13:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:13:26",
+      "numberLabel": "26",
+      "text": "And then shall they see the Son of man coming in the clouds with great power and glory.",
+      "metadata": {
+        "reference": "Mark 13:26",
+        "verseKey": "kjv:mark:13:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:13:27",
+      "numberLabel": "27",
+      "text": "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.",
+      "metadata": {
+        "reference": "Mark 13:27",
+        "verseKey": "kjv:mark:13:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:13:28",
+      "numberLabel": "28",
+      "text": "Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:",
+      "metadata": {
+        "reference": "Mark 13:28",
+        "verseKey": "kjv:mark:13:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:13:29",
+      "numberLabel": "29",
+      "text": "So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors.",
+      "metadata": {
+        "reference": "Mark 13:29",
+        "verseKey": "kjv:mark:13:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:13:30",
+      "numberLabel": "30",
+      "text": "Verily I say unto you, that this generation shall not pass, till all these things be done.",
+      "metadata": {
+        "reference": "Mark 13:30",
+        "verseKey": "kjv:mark:13:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:13:31",
+      "numberLabel": "31",
+      "text": "Heaven and earth shall pass away: but my words shall not pass away.",
+      "metadata": {
+        "reference": "Mark 13:31",
+        "verseKey": "kjv:mark:13:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:13:32",
+      "numberLabel": "32",
+      "text": "But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.",
+      "metadata": {
+        "reference": "Mark 13:32",
+        "verseKey": "kjv:mark:13:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:13:33",
+      "numberLabel": "33",
+      "text": "Take ye heed, watch and pray: for ye know not when the time is.",
+      "metadata": {
+        "reference": "Mark 13:33",
+        "verseKey": "kjv:mark:13:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:mark:13:34",
+      "numberLabel": "34",
+      "text": "For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.",
+      "metadata": {
+        "reference": "Mark 13:34",
+        "verseKey": "kjv:mark:13:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:mark:13:35",
+      "numberLabel": "35",
+      "text": "Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:",
+      "metadata": {
+        "reference": "Mark 13:35",
+        "verseKey": "kjv:mark:13:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:mark:13:36",
+      "numberLabel": "36",
+      "text": "Lest coming suddenly he find you sleeping.",
+      "metadata": {
+        "reference": "Mark 13:36",
+        "verseKey": "kjv:mark:13:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:mark:13:37",
+      "numberLabel": "37",
+      "text": "And what I say unto you I say unto all, Watch.",
+      "metadata": {
+        "reference": "Mark 13:37",
+        "verseKey": "kjv:mark:13:37"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

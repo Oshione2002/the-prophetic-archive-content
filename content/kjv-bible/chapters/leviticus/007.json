@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Leviticus 7",
+  "display_title": "Leviticus 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 3007,
+  "verseCount": 38,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:7:1",
+      "numberLabel": "1",
+      "text": "Likewise this is the law of the trespass offering: it is most holy.",
+      "metadata": {
+        "reference": "Leviticus 7:1",
+        "verseKey": "kjv:leviticus:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:7:2",
+      "numberLabel": "2",
+      "text": "In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar.",
+      "metadata": {
+        "reference": "Leviticus 7:2",
+        "verseKey": "kjv:leviticus:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:7:3",
+      "numberLabel": "3",
+      "text": "And he shall offer of it all the fat thereof; the rump, and the fat that covereth the inwards,",
+      "metadata": {
+        "reference": "Leviticus 7:3",
+        "verseKey": "kjv:leviticus:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:7:4",
+      "numberLabel": "4",
+      "text": "And the two kidneys, and the fat that is on them, which is by the flanks, and the caul that is above the liver, with the kidneys, it shall he take away:",
+      "metadata": {
+        "reference": "Leviticus 7:4",
+        "verseKey": "kjv:leviticus:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:7:5",
+      "numberLabel": "5",
+      "text": "And the priest shall burn them upon the altar for an offering made by fire unto the LORD: it is a trespass offering.",
+      "metadata": {
+        "reference": "Leviticus 7:5",
+        "verseKey": "kjv:leviticus:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:7:6",
+      "numberLabel": "6",
+      "text": "Every male among the priests shall eat thereof: it shall be eaten in the holy place: it is most holy.",
+      "metadata": {
+        "reference": "Leviticus 7:6",
+        "verseKey": "kjv:leviticus:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:7:7",
+      "numberLabel": "7",
+      "text": "As the sin offering is, so is the trespass offering: there is one law for them: the priest that maketh atonement therewith shall have it.",
+      "metadata": {
+        "reference": "Leviticus 7:7",
+        "verseKey": "kjv:leviticus:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:7:8",
+      "numberLabel": "8",
+      "text": "And the priest that offereth any man’s burnt offering, even the priest shall have to himself the skin of the burnt offering which he hath offered.",
+      "metadata": {
+        "reference": "Leviticus 7:8",
+        "verseKey": "kjv:leviticus:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:7:9",
+      "numberLabel": "9",
+      "text": "And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.",
+      "metadata": {
+        "reference": "Leviticus 7:9",
+        "verseKey": "kjv:leviticus:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:7:10",
+      "numberLabel": "10",
+      "text": "And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one as much as another.",
+      "metadata": {
+        "reference": "Leviticus 7:10",
+        "verseKey": "kjv:leviticus:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:7:11",
+      "numberLabel": "11",
+      "text": "And this is the law of the sacrifice of peace offerings, which he shall offer unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 7:11",
+        "verseKey": "kjv:leviticus:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:7:12",
+      "numberLabel": "12",
+      "text": "If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers anointed with oil, and cakes mingled with oil, of fine flour, fried.",
+      "metadata": {
+        "reference": "Leviticus 7:12",
+        "verseKey": "kjv:leviticus:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:7:13",
+      "numberLabel": "13",
+      "text": "Besides the cakes, he shall offer for his offering leavened bread with the sacrifice of thanksgiving of his peace offerings.",
+      "metadata": {
+        "reference": "Leviticus 7:13",
+        "verseKey": "kjv:leviticus:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:7:14",
+      "numberLabel": "14",
+      "text": "And of it he shall offer one out of the whole oblation for an heave offering unto the LORD, and it shall be the priest’s that sprinkleth the blood of the peace offerings.",
+      "metadata": {
+        "reference": "Leviticus 7:14",
+        "verseKey": "kjv:leviticus:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:7:15",
+      "numberLabel": "15",
+      "text": "And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.",
+      "metadata": {
+        "reference": "Leviticus 7:15",
+        "verseKey": "kjv:leviticus:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:7:16",
+      "numberLabel": "16",
+      "text": "But if the sacrifice of his offering be a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrow also the remainder of it shall be eaten:",
+      "metadata": {
+        "reference": "Leviticus 7:16",
+        "verseKey": "kjv:leviticus:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:7:17",
+      "numberLabel": "17",
+      "text": "But the remainder of the flesh of the sacrifice on the third day shall be burnt with fire.",
+      "metadata": {
+        "reference": "Leviticus 7:17",
+        "verseKey": "kjv:leviticus:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:7:18",
+      "numberLabel": "18",
+      "text": "And if any of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shall it be imputed unto him that offereth it: it shall be an abomination, and the soul that eateth of it shall bear his iniquity.",
+      "metadata": {
+        "reference": "Leviticus 7:18",
+        "verseKey": "kjv:leviticus:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:7:19",
+      "numberLabel": "19",
+      "text": "And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof.",
+      "metadata": {
+        "reference": "Leviticus 7:19",
+        "verseKey": "kjv:leviticus:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:7:20",
+      "numberLabel": "20",
+      "text": "But the soul that eateth of the flesh of the sacrifice of peace offerings, that pertain unto the LORD, having his uncleanness upon him, even that soul shall be cut off from his people.",
+      "metadata": {
+        "reference": "Leviticus 7:20",
+        "verseKey": "kjv:leviticus:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:7:21",
+      "numberLabel": "21",
+      "text": "Moreover the soul that shall touch any unclean thing, as the uncleanness of man, or any unclean beast, or any abominable unclean thing, and eat of the flesh of the sacrifice of peace offerings, which pertain unto the LORD, even that soul shall be cut off from his people.",
+      "metadata": {
+        "reference": "Leviticus 7:21",
+        "verseKey": "kjv:leviticus:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:7:22",
+      "numberLabel": "22",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 7:22",
+        "verseKey": "kjv:leviticus:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:7:23",
+      "numberLabel": "23",
+      "text": "Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat.",
+      "metadata": {
+        "reference": "Leviticus 7:23",
+        "verseKey": "kjv:leviticus:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:7:24",
+      "numberLabel": "24",
+      "text": "And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it.",
+      "metadata": {
+        "reference": "Leviticus 7:24",
+        "verseKey": "kjv:leviticus:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:7:25",
+      "numberLabel": "25",
+      "text": "For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the LORD, even the soul that eateth it shall be cut off from his people.",
+      "metadata": {
+        "reference": "Leviticus 7:25",
+        "verseKey": "kjv:leviticus:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:7:26",
+      "numberLabel": "26",
+      "text": "Moreover ye shall eat no manner of blood, whether it be of fowl or of beast, in any of your dwellings.",
+      "metadata": {
+        "reference": "Leviticus 7:26",
+        "verseKey": "kjv:leviticus:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:7:27",
+      "numberLabel": "27",
+      "text": "Whatsoever soul it be that eateth any manner of blood, even that soul shall be cut off from his people.",
+      "metadata": {
+        "reference": "Leviticus 7:27",
+        "verseKey": "kjv:leviticus:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:7:28",
+      "numberLabel": "28",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 7:28",
+        "verseKey": "kjv:leviticus:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:7:29",
+      "numberLabel": "29",
+      "text": "Speak unto the children of Israel, saying, He that offereth the sacrifice of his peace offerings unto the LORD shall bring his oblation unto the LORD of the sacrifice of his peace offerings.",
+      "metadata": {
+        "reference": "Leviticus 7:29",
+        "verseKey": "kjv:leviticus:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:7:30",
+      "numberLabel": "30",
+      "text": "His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved for a wave offering before the LORD.",
+      "metadata": {
+        "reference": "Leviticus 7:30",
+        "verseKey": "kjv:leviticus:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:7:31",
+      "numberLabel": "31",
+      "text": "And the priest shall burn the fat upon the altar: but the breast shall be Aaron’s and his sons’.",
+      "metadata": {
+        "reference": "Leviticus 7:31",
+        "verseKey": "kjv:leviticus:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:7:32",
+      "numberLabel": "32",
+      "text": "And the right shoulder shall ye give unto the priest for an heave offering of the sacrifices of your peace offerings.",
+      "metadata": {
+        "reference": "Leviticus 7:32",
+        "verseKey": "kjv:leviticus:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:7:33",
+      "numberLabel": "33",
+      "text": "He among the sons of Aaron, that offereth the blood of the peace offerings, and the fat, shall have the right shoulder for his part.",
+      "metadata": {
+        "reference": "Leviticus 7:33",
+        "verseKey": "kjv:leviticus:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:7:34",
+      "numberLabel": "34",
+      "text": "For the wave breast and the heave shoulder have I taken of the children of Israel from off the sacrifices of their peace offerings, and have given them unto Aaron the priest and unto his sons by a statute for ever from among the children of Israel.",
+      "metadata": {
+        "reference": "Leviticus 7:34",
+        "verseKey": "kjv:leviticus:7:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:leviticus:7:35",
+      "numberLabel": "35",
+      "text": "This is the portion of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the LORD made by fire, in the day when he presented them to minister unto the LORD in the priest’s office;",
+      "metadata": {
+        "reference": "Leviticus 7:35",
+        "verseKey": "kjv:leviticus:7:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:leviticus:7:36",
+      "numberLabel": "36",
+      "text": "Which the LORD commanded to be given them of the children of Israel, in the day that he anointed them, by a statute for ever throughout their generations.",
+      "metadata": {
+        "reference": "Leviticus 7:36",
+        "verseKey": "kjv:leviticus:7:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:leviticus:7:37",
+      "numberLabel": "37",
+      "text": "This is the law of the burnt offering, of the meat offering, and of the sin offering, and of the trespass offering, and of the consecrations, and of the sacrifice of the peace offerings;",
+      "metadata": {
+        "reference": "Leviticus 7:37",
+        "verseKey": "kjv:leviticus:7:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:leviticus:7:38",
+      "numberLabel": "38",
+      "text": "Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai.",
+      "metadata": {
+        "reference": "Leviticus 7:38",
+        "verseKey": "kjv:leviticus:7:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

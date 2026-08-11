@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ecclesiastes-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Ecclesiastes 9",
+  "display_title": "Ecclesiastes 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ecclesiastes",
+  "book": "Ecclesiastes",
+  "bookName": "Ecclesiastes",
+  "bookOrder": 21,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 21009,
+  "verseCount": 18,
+  "aliases": [
+    "Eccl",
+    "Ecc",
+    "Qoheleth"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ecclesiastes:9:1",
+      "numberLabel": "1",
+      "text": "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:1",
+        "verseKey": "kjv:ecclesiastes:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ecclesiastes:9:2",
+      "numberLabel": "2",
+      "text": "All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:2",
+        "verseKey": "kjv:ecclesiastes:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ecclesiastes:9:3",
+      "numberLabel": "3",
+      "text": "This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:3",
+        "verseKey": "kjv:ecclesiastes:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ecclesiastes:9:4",
+      "numberLabel": "4",
+      "text": "For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:4",
+        "verseKey": "kjv:ecclesiastes:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ecclesiastes:9:5",
+      "numberLabel": "5",
+      "text": "For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:5",
+        "verseKey": "kjv:ecclesiastes:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ecclesiastes:9:6",
+      "numberLabel": "6",
+      "text": "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:6",
+        "verseKey": "kjv:ecclesiastes:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ecclesiastes:9:7",
+      "numberLabel": "7",
+      "text": "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:7",
+        "verseKey": "kjv:ecclesiastes:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ecclesiastes:9:8",
+      "numberLabel": "8",
+      "text": "Let thy garments be always white; and let thy head lack no ointment.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:8",
+        "verseKey": "kjv:ecclesiastes:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ecclesiastes:9:9",
+      "numberLabel": "9",
+      "text": "Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:9",
+        "verseKey": "kjv:ecclesiastes:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ecclesiastes:9:10",
+      "numberLabel": "10",
+      "text": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:10",
+        "verseKey": "kjv:ecclesiastes:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ecclesiastes:9:11",
+      "numberLabel": "11",
+      "text": "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:11",
+        "verseKey": "kjv:ecclesiastes:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ecclesiastes:9:12",
+      "numberLabel": "12",
+      "text": "For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:12",
+        "verseKey": "kjv:ecclesiastes:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ecclesiastes:9:13",
+      "numberLabel": "13",
+      "text": "This wisdom have I seen also under the sun, and it seemed great unto me:",
+      "metadata": {
+        "reference": "Ecclesiastes 9:13",
+        "verseKey": "kjv:ecclesiastes:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ecclesiastes:9:14",
+      "numberLabel": "14",
+      "text": "There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:",
+      "metadata": {
+        "reference": "Ecclesiastes 9:14",
+        "verseKey": "kjv:ecclesiastes:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ecclesiastes:9:15",
+      "numberLabel": "15",
+      "text": "Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:15",
+        "verseKey": "kjv:ecclesiastes:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ecclesiastes:9:16",
+      "numberLabel": "16",
+      "text": "Then said I, Wisdom is better than strength: nevertheless the poor man’s wisdom is despised, and his words are not heard.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:16",
+        "verseKey": "kjv:ecclesiastes:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ecclesiastes:9:17",
+      "numberLabel": "17",
+      "text": "The words of wise men are heard in quiet more than the cry of him that ruleth among fools.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:17",
+        "verseKey": "kjv:ecclesiastes:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ecclesiastes:9:18",
+      "numberLabel": "18",
+      "text": "Wisdom is better than weapons of war: but one sinner destroyeth much good.",
+      "metadata": {
+        "reference": "Ecclesiastes 9:18",
+        "verseKey": "kjv:ecclesiastes:9:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ecclesiastes.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ecclesiastes.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-zechariah-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Zechariah 13",
+  "display_title": "Zechariah 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "zechariah",
+  "book": "Zechariah",
+  "bookName": "Zechariah",
+  "bookOrder": 38,
+  "testament": "old",
+  "chapter": 13,
+  "sortOrder": 38013,
+  "verseCount": 9,
+  "aliases": [
+    "Zech",
+    "Zec",
+    "Zc"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:zechariah:13:1",
+      "numberLabel": "1",
+      "text": "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.",
+      "metadata": {
+        "reference": "Zechariah 13:1",
+        "verseKey": "kjv:zechariah:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:zechariah:13:2",
+      "numberLabel": "2",
+      "text": "And it shall come to pass in that day, saith the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.",
+      "metadata": {
+        "reference": "Zechariah 13:2",
+        "verseKey": "kjv:zechariah:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:zechariah:13:3",
+      "numberLabel": "3",
+      "text": "And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the LORD: and his father and his mother that begat him shall thrust him through when he prophesieth.",
+      "metadata": {
+        "reference": "Zechariah 13:3",
+        "verseKey": "kjv:zechariah:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:zechariah:13:4",
+      "numberLabel": "4",
+      "text": "And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:",
+      "metadata": {
+        "reference": "Zechariah 13:4",
+        "verseKey": "kjv:zechariah:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:zechariah:13:5",
+      "numberLabel": "5",
+      "text": "But he shall say, I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth.",
+      "metadata": {
+        "reference": "Zechariah 13:5",
+        "verseKey": "kjv:zechariah:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:zechariah:13:6",
+      "numberLabel": "6",
+      "text": "And one shall say unto him, What are these wounds in thine hands? Then he shall answer, Those with which I was wounded in the house of my friends.",
+      "metadata": {
+        "reference": "Zechariah 13:6",
+        "verseKey": "kjv:zechariah:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:zechariah:13:7",
+      "numberLabel": "7",
+      "text": "Awake, O sword, against my shepherd, and against the man that is my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.",
+      "metadata": {
+        "reference": "Zechariah 13:7",
+        "verseKey": "kjv:zechariah:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:zechariah:13:8",
+      "numberLabel": "8",
+      "text": "And it shall come to pass, that in all the land, saith the LORD, two parts therein shall be cut off and die; but the third shall be left therein.",
+      "metadata": {
+        "reference": "Zechariah 13:8",
+        "verseKey": "kjv:zechariah:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:zechariah:13:9",
+      "numberLabel": "9",
+      "text": "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God.",
+      "metadata": {
+        "reference": "Zechariah 13:9",
+        "verseKey": "kjv:zechariah:13:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Zechariah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Zechariah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

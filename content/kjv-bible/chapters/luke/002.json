@@ -1,0 +1,656 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Luke 2",
+  "display_title": "Luke 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 42002,
+  "verseCount": 52,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:2:1",
+      "numberLabel": "1",
+      "text": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.",
+      "metadata": {
+        "reference": "Luke 2:1",
+        "verseKey": "kjv:luke:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:2:2",
+      "numberLabel": "2",
+      "text": "(And this taxing was first made when Cyrenius was governor of Syria.)",
+      "metadata": {
+        "reference": "Luke 2:2",
+        "verseKey": "kjv:luke:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:2:3",
+      "numberLabel": "3",
+      "text": "And all went to be taxed, every one into his own city.",
+      "metadata": {
+        "reference": "Luke 2:3",
+        "verseKey": "kjv:luke:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:2:4",
+      "numberLabel": "4",
+      "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)",
+      "metadata": {
+        "reference": "Luke 2:4",
+        "verseKey": "kjv:luke:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:2:5",
+      "numberLabel": "5",
+      "text": "To be taxed with Mary his espoused wife, being great with child.",
+      "metadata": {
+        "reference": "Luke 2:5",
+        "verseKey": "kjv:luke:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:2:6",
+      "numberLabel": "6",
+      "text": "And so it was, that, while they were there, the days were accomplished that she should be delivered.",
+      "metadata": {
+        "reference": "Luke 2:6",
+        "verseKey": "kjv:luke:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:2:7",
+      "numberLabel": "7",
+      "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+      "metadata": {
+        "reference": "Luke 2:7",
+        "verseKey": "kjv:luke:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:2:8",
+      "numberLabel": "8",
+      "text": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.",
+      "metadata": {
+        "reference": "Luke 2:8",
+        "verseKey": "kjv:luke:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:2:9",
+      "numberLabel": "9",
+      "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
+      "metadata": {
+        "reference": "Luke 2:9",
+        "verseKey": "kjv:luke:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:2:10",
+      "numberLabel": "10",
+      "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+      "metadata": {
+        "reference": "Luke 2:10",
+        "verseKey": "kjv:luke:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:2:11",
+      "numberLabel": "11",
+      "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+      "metadata": {
+        "reference": "Luke 2:11",
+        "verseKey": "kjv:luke:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:2:12",
+      "numberLabel": "12",
+      "text": "And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.",
+      "metadata": {
+        "reference": "Luke 2:12",
+        "verseKey": "kjv:luke:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:2:13",
+      "numberLabel": "13",
+      "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,",
+      "metadata": {
+        "reference": "Luke 2:13",
+        "verseKey": "kjv:luke:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:2:14",
+      "numberLabel": "14",
+      "text": "Glory to God in the highest, and on earth peace, good will toward men.",
+      "metadata": {
+        "reference": "Luke 2:14",
+        "verseKey": "kjv:luke:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:2:15",
+      "numberLabel": "15",
+      "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.",
+      "metadata": {
+        "reference": "Luke 2:15",
+        "verseKey": "kjv:luke:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:2:16",
+      "numberLabel": "16",
+      "text": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.",
+      "metadata": {
+        "reference": "Luke 2:16",
+        "verseKey": "kjv:luke:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:2:17",
+      "numberLabel": "17",
+      "text": "And when they had seen it, they made known abroad the saying which was told them concerning this child.",
+      "metadata": {
+        "reference": "Luke 2:17",
+        "verseKey": "kjv:luke:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:2:18",
+      "numberLabel": "18",
+      "text": "And all they that heard it wondered at those things which were told them by the shepherds.",
+      "metadata": {
+        "reference": "Luke 2:18",
+        "verseKey": "kjv:luke:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:2:19",
+      "numberLabel": "19",
+      "text": "But Mary kept all these things, and pondered them in her heart.",
+      "metadata": {
+        "reference": "Luke 2:19",
+        "verseKey": "kjv:luke:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:2:20",
+      "numberLabel": "20",
+      "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.",
+      "metadata": {
+        "reference": "Luke 2:20",
+        "verseKey": "kjv:luke:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:2:21",
+      "numberLabel": "21",
+      "text": "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.",
+      "metadata": {
+        "reference": "Luke 2:21",
+        "verseKey": "kjv:luke:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:2:22",
+      "numberLabel": "22",
+      "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;",
+      "metadata": {
+        "reference": "Luke 2:22",
+        "verseKey": "kjv:luke:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:2:23",
+      "numberLabel": "23",
+      "text": "(As it is written in the law of the LORD, Every male that openeth the womb shall be called holy to the Lord;)",
+      "metadata": {
+        "reference": "Luke 2:23",
+        "verseKey": "kjv:luke:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:2:24",
+      "numberLabel": "24",
+      "text": "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.",
+      "metadata": {
+        "reference": "Luke 2:24",
+        "verseKey": "kjv:luke:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:2:25",
+      "numberLabel": "25",
+      "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.",
+      "metadata": {
+        "reference": "Luke 2:25",
+        "verseKey": "kjv:luke:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:2:26",
+      "numberLabel": "26",
+      "text": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ.",
+      "metadata": {
+        "reference": "Luke 2:26",
+        "verseKey": "kjv:luke:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:2:27",
+      "numberLabel": "27",
+      "text": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,",
+      "metadata": {
+        "reference": "Luke 2:27",
+        "verseKey": "kjv:luke:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:2:28",
+      "numberLabel": "28",
+      "text": "Then took he him up in his arms, and blessed God, and said,",
+      "metadata": {
+        "reference": "Luke 2:28",
+        "verseKey": "kjv:luke:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:2:29",
+      "numberLabel": "29",
+      "text": "Lord, now lettest thou thy servant depart in peace, according to thy word:",
+      "metadata": {
+        "reference": "Luke 2:29",
+        "verseKey": "kjv:luke:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:2:30",
+      "numberLabel": "30",
+      "text": "For mine eyes have seen thy salvation,",
+      "metadata": {
+        "reference": "Luke 2:30",
+        "verseKey": "kjv:luke:2:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:2:31",
+      "numberLabel": "31",
+      "text": "Which thou hast prepared before the face of all people;",
+      "metadata": {
+        "reference": "Luke 2:31",
+        "verseKey": "kjv:luke:2:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:2:32",
+      "numberLabel": "32",
+      "text": "A light to lighten the Gentiles, and the glory of thy people Israel.",
+      "metadata": {
+        "reference": "Luke 2:32",
+        "verseKey": "kjv:luke:2:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:luke:2:33",
+      "numberLabel": "33",
+      "text": "And Joseph and his mother marvelled at those things which were spoken of him.",
+      "metadata": {
+        "reference": "Luke 2:33",
+        "verseKey": "kjv:luke:2:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:luke:2:34",
+      "numberLabel": "34",
+      "text": "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;",
+      "metadata": {
+        "reference": "Luke 2:34",
+        "verseKey": "kjv:luke:2:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:luke:2:35",
+      "numberLabel": "35",
+      "text": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.",
+      "metadata": {
+        "reference": "Luke 2:35",
+        "verseKey": "kjv:luke:2:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:luke:2:36",
+      "numberLabel": "36",
+      "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;",
+      "metadata": {
+        "reference": "Luke 2:36",
+        "verseKey": "kjv:luke:2:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:luke:2:37",
+      "numberLabel": "37",
+      "text": "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day.",
+      "metadata": {
+        "reference": "Luke 2:37",
+        "verseKey": "kjv:luke:2:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:luke:2:38",
+      "numberLabel": "38",
+      "text": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.",
+      "metadata": {
+        "reference": "Luke 2:38",
+        "verseKey": "kjv:luke:2:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:luke:2:39",
+      "numberLabel": "39",
+      "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.",
+      "metadata": {
+        "reference": "Luke 2:39",
+        "verseKey": "kjv:luke:2:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:luke:2:40",
+      "numberLabel": "40",
+      "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.",
+      "metadata": {
+        "reference": "Luke 2:40",
+        "verseKey": "kjv:luke:2:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:luke:2:41",
+      "numberLabel": "41",
+      "text": "Now his parents went to Jerusalem every year at the feast of the passover.",
+      "metadata": {
+        "reference": "Luke 2:41",
+        "verseKey": "kjv:luke:2:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:luke:2:42",
+      "numberLabel": "42",
+      "text": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast.",
+      "metadata": {
+        "reference": "Luke 2:42",
+        "verseKey": "kjv:luke:2:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:luke:2:43",
+      "numberLabel": "43",
+      "text": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.",
+      "metadata": {
+        "reference": "Luke 2:43",
+        "verseKey": "kjv:luke:2:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:luke:2:44",
+      "numberLabel": "44",
+      "text": "But they, supposing him to have been in the company, went a day’s journey; and they sought him among their kinsfolk and acquaintance.",
+      "metadata": {
+        "reference": "Luke 2:44",
+        "verseKey": "kjv:luke:2:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:luke:2:45",
+      "numberLabel": "45",
+      "text": "And when they found him not, they turned back again to Jerusalem, seeking him.",
+      "metadata": {
+        "reference": "Luke 2:45",
+        "verseKey": "kjv:luke:2:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:luke:2:46",
+      "numberLabel": "46",
+      "text": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.",
+      "metadata": {
+        "reference": "Luke 2:46",
+        "verseKey": "kjv:luke:2:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:luke:2:47",
+      "numberLabel": "47",
+      "text": "And all that heard him were astonished at his understanding and answers.",
+      "metadata": {
+        "reference": "Luke 2:47",
+        "verseKey": "kjv:luke:2:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:luke:2:48",
+      "numberLabel": "48",
+      "text": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.",
+      "metadata": {
+        "reference": "Luke 2:48",
+        "verseKey": "kjv:luke:2:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:luke:2:49",
+      "numberLabel": "49",
+      "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?",
+      "metadata": {
+        "reference": "Luke 2:49",
+        "verseKey": "kjv:luke:2:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:luke:2:50",
+      "numberLabel": "50",
+      "text": "And they understood not the saying which he spake unto them.",
+      "metadata": {
+        "reference": "Luke 2:50",
+        "verseKey": "kjv:luke:2:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:luke:2:51",
+      "numberLabel": "51",
+      "text": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.",
+      "metadata": {
+        "reference": "Luke 2:51",
+        "verseKey": "kjv:luke:2:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:luke:2:52",
+      "numberLabel": "52",
+      "text": "And Jesus increased in wisdom and stature, and in favour with God and man.",
+      "metadata": {
+        "reference": "Luke 2:52",
+        "verseKey": "kjv:luke:2:52"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

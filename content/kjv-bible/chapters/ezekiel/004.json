@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Ezekiel 4",
+  "display_title": "Ezekiel 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 26004,
+  "verseCount": 17,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:4:1",
+      "numberLabel": "1",
+      "text": "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:",
+      "metadata": {
+        "reference": "Ezekiel 4:1",
+        "verseKey": "kjv:ezekiel:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:4:2",
+      "numberLabel": "2",
+      "text": "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.",
+      "metadata": {
+        "reference": "Ezekiel 4:2",
+        "verseKey": "kjv:ezekiel:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:4:3",
+      "numberLabel": "3",
+      "text": "Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel.",
+      "metadata": {
+        "reference": "Ezekiel 4:3",
+        "verseKey": "kjv:ezekiel:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:4:4",
+      "numberLabel": "4",
+      "text": "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.",
+      "metadata": {
+        "reference": "Ezekiel 4:4",
+        "verseKey": "kjv:ezekiel:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:4:5",
+      "numberLabel": "5",
+      "text": "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.",
+      "metadata": {
+        "reference": "Ezekiel 4:5",
+        "verseKey": "kjv:ezekiel:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:4:6",
+      "numberLabel": "6",
+      "text": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.",
+      "metadata": {
+        "reference": "Ezekiel 4:6",
+        "verseKey": "kjv:ezekiel:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:4:7",
+      "numberLabel": "7",
+      "text": "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it.",
+      "metadata": {
+        "reference": "Ezekiel 4:7",
+        "verseKey": "kjv:ezekiel:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:4:8",
+      "numberLabel": "8",
+      "text": "And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege.",
+      "metadata": {
+        "reference": "Ezekiel 4:8",
+        "verseKey": "kjv:ezekiel:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:4:9",
+      "numberLabel": "9",
+      "text": "Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.",
+      "metadata": {
+        "reference": "Ezekiel 4:9",
+        "verseKey": "kjv:ezekiel:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:4:10",
+      "numberLabel": "10",
+      "text": "And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it.",
+      "metadata": {
+        "reference": "Ezekiel 4:10",
+        "verseKey": "kjv:ezekiel:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:4:11",
+      "numberLabel": "11",
+      "text": "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.",
+      "metadata": {
+        "reference": "Ezekiel 4:11",
+        "verseKey": "kjv:ezekiel:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:4:12",
+      "numberLabel": "12",
+      "text": "And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight.",
+      "metadata": {
+        "reference": "Ezekiel 4:12",
+        "verseKey": "kjv:ezekiel:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:4:13",
+      "numberLabel": "13",
+      "text": "And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.",
+      "metadata": {
+        "reference": "Ezekiel 4:13",
+        "verseKey": "kjv:ezekiel:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:4:14",
+      "numberLabel": "14",
+      "text": "Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.",
+      "metadata": {
+        "reference": "Ezekiel 4:14",
+        "verseKey": "kjv:ezekiel:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:4:15",
+      "numberLabel": "15",
+      "text": "Then he said unto me, Lo, I have given thee cow’s dung for man’s dung, and thou shalt prepare thy bread therewith.",
+      "metadata": {
+        "reference": "Ezekiel 4:15",
+        "verseKey": "kjv:ezekiel:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:4:16",
+      "numberLabel": "16",
+      "text": "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:",
+      "metadata": {
+        "reference": "Ezekiel 4:16",
+        "verseKey": "kjv:ezekiel:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:4:17",
+      "numberLabel": "17",
+      "text": "That they may want bread and water, and be astonied one with another, and consume away for their iniquity.",
+      "metadata": {
+        "reference": "Ezekiel 4:17",
+        "verseKey": "kjv:ezekiel:4:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

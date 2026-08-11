@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-thessalonians-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "1 Thessalonians 4",
+  "display_title": "1 Thessalonians 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-thessalonians",
+  "book": "1 Thessalonians",
+  "bookName": "1 Thessalonians",
+  "bookOrder": 52,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 52004,
+  "verseCount": 18,
+  "aliases": [
+    "1 Thess",
+    "1Thess",
+    "1 Th",
+    "1Th"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-thessalonians:4:1",
+      "numberLabel": "1",
+      "text": "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:1",
+        "verseKey": "kjv:1-thessalonians:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-thessalonians:4:2",
+      "numberLabel": "2",
+      "text": "For ye know what commandments we gave you by the Lord Jesus.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:2",
+        "verseKey": "kjv:1-thessalonians:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-thessalonians:4:3",
+      "numberLabel": "3",
+      "text": "For this is the will of God, even your sanctification, that ye should abstain from fornication:",
+      "metadata": {
+        "reference": "1 Thessalonians 4:3",
+        "verseKey": "kjv:1-thessalonians:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-thessalonians:4:4",
+      "numberLabel": "4",
+      "text": "That every one of you should know how to possess his vessel in sanctification and honour;",
+      "metadata": {
+        "reference": "1 Thessalonians 4:4",
+        "verseKey": "kjv:1-thessalonians:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-thessalonians:4:5",
+      "numberLabel": "5",
+      "text": "Not in the lust of concupiscence, even as the Gentiles which know not God:",
+      "metadata": {
+        "reference": "1 Thessalonians 4:5",
+        "verseKey": "kjv:1-thessalonians:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-thessalonians:4:6",
+      "numberLabel": "6",
+      "text": "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:6",
+        "verseKey": "kjv:1-thessalonians:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-thessalonians:4:7",
+      "numberLabel": "7",
+      "text": "For God hath not called us unto uncleanness, but unto holiness.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:7",
+        "verseKey": "kjv:1-thessalonians:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-thessalonians:4:8",
+      "numberLabel": "8",
+      "text": "He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:8",
+        "verseKey": "kjv:1-thessalonians:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-thessalonians:4:9",
+      "numberLabel": "9",
+      "text": "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:9",
+        "verseKey": "kjv:1-thessalonians:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-thessalonians:4:10",
+      "numberLabel": "10",
+      "text": "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;",
+      "metadata": {
+        "reference": "1 Thessalonians 4:10",
+        "verseKey": "kjv:1-thessalonians:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-thessalonians:4:11",
+      "numberLabel": "11",
+      "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;",
+      "metadata": {
+        "reference": "1 Thessalonians 4:11",
+        "verseKey": "kjv:1-thessalonians:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-thessalonians:4:12",
+      "numberLabel": "12",
+      "text": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:12",
+        "verseKey": "kjv:1-thessalonians:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-thessalonians:4:13",
+      "numberLabel": "13",
+      "text": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:13",
+        "verseKey": "kjv:1-thessalonians:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-thessalonians:4:14",
+      "numberLabel": "14",
+      "text": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:14",
+        "verseKey": "kjv:1-thessalonians:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-thessalonians:4:15",
+      "numberLabel": "15",
+      "text": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:15",
+        "verseKey": "kjv:1-thessalonians:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-thessalonians:4:16",
+      "numberLabel": "16",
+      "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:",
+      "metadata": {
+        "reference": "1 Thessalonians 4:16",
+        "verseKey": "kjv:1-thessalonians:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-thessalonians:4:17",
+      "numberLabel": "17",
+      "text": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:17",
+        "verseKey": "kjv:1-thessalonians:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-thessalonians:4:18",
+      "numberLabel": "18",
+      "text": "Wherefore comfort one another with these words.",
+      "metadata": {
+        "reference": "1 Thessalonians 4:18",
+        "verseKey": "kjv:1-thessalonians:4:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Thessalonians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Thessalonians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

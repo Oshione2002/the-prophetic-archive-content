@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-038",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 38,
+  "title": "Isaiah 38",
+  "display_title": "Isaiah 38",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 38,
+  "sortOrder": 23038,
+  "verseCount": 22,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:38:1",
+      "numberLabel": "1",
+      "text": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.",
+      "metadata": {
+        "reference": "Isaiah 38:1",
+        "verseKey": "kjv:isaiah:38:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:38:2",
+      "numberLabel": "2",
+      "text": "Then Hezekiah turned his face toward the wall, and prayed unto the LORD,",
+      "metadata": {
+        "reference": "Isaiah 38:2",
+        "verseKey": "kjv:isaiah:38:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:38:3",
+      "numberLabel": "3",
+      "text": "And said, Remember now, O LORD, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.",
+      "metadata": {
+        "reference": "Isaiah 38:3",
+        "verseKey": "kjv:isaiah:38:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:38:4",
+      "numberLabel": "4",
+      "text": "Then came the word of the LORD to Isaiah, saying,",
+      "metadata": {
+        "reference": "Isaiah 38:4",
+        "verseKey": "kjv:isaiah:38:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:38:5",
+      "numberLabel": "5",
+      "text": "Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.",
+      "metadata": {
+        "reference": "Isaiah 38:5",
+        "verseKey": "kjv:isaiah:38:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:38:6",
+      "numberLabel": "6",
+      "text": "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.",
+      "metadata": {
+        "reference": "Isaiah 38:6",
+        "verseKey": "kjv:isaiah:38:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:38:7",
+      "numberLabel": "7",
+      "text": "And this shall be a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;",
+      "metadata": {
+        "reference": "Isaiah 38:7",
+        "verseKey": "kjv:isaiah:38:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:38:8",
+      "numberLabel": "8",
+      "text": "Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.",
+      "metadata": {
+        "reference": "Isaiah 38:8",
+        "verseKey": "kjv:isaiah:38:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:38:9",
+      "numberLabel": "9",
+      "text": "The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:",
+      "metadata": {
+        "reference": "Isaiah 38:9",
+        "verseKey": "kjv:isaiah:38:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:38:10",
+      "numberLabel": "10",
+      "text": "I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.",
+      "metadata": {
+        "reference": "Isaiah 38:10",
+        "verseKey": "kjv:isaiah:38:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:38:11",
+      "numberLabel": "11",
+      "text": "I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.",
+      "metadata": {
+        "reference": "Isaiah 38:11",
+        "verseKey": "kjv:isaiah:38:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:38:12",
+      "numberLabel": "12",
+      "text": "Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me.",
+      "metadata": {
+        "reference": "Isaiah 38:12",
+        "verseKey": "kjv:isaiah:38:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:38:13",
+      "numberLabel": "13",
+      "text": "I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night wilt thou make an end of me.",
+      "metadata": {
+        "reference": "Isaiah 38:13",
+        "verseKey": "kjv:isaiah:38:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:38:14",
+      "numberLabel": "14",
+      "text": "Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O LORD, I am oppressed; undertake for me.",
+      "metadata": {
+        "reference": "Isaiah 38:14",
+        "verseKey": "kjv:isaiah:38:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:38:15",
+      "numberLabel": "15",
+      "text": "What shall I say? he hath both spoken unto me, and himself hath done it: I shall go softly all my years in the bitterness of my soul.",
+      "metadata": {
+        "reference": "Isaiah 38:15",
+        "verseKey": "kjv:isaiah:38:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:38:16",
+      "numberLabel": "16",
+      "text": "O LORD, by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live.",
+      "metadata": {
+        "reference": "Isaiah 38:16",
+        "verseKey": "kjv:isaiah:38:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:38:17",
+      "numberLabel": "17",
+      "text": "Behold, for peace I had great bitterness: but thou hast in love to my soul delivered it from the pit of corruption: for thou hast cast all my sins behind thy back.",
+      "metadata": {
+        "reference": "Isaiah 38:17",
+        "verseKey": "kjv:isaiah:38:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:38:18",
+      "numberLabel": "18",
+      "text": "For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth.",
+      "metadata": {
+        "reference": "Isaiah 38:18",
+        "verseKey": "kjv:isaiah:38:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:38:19",
+      "numberLabel": "19",
+      "text": "The living, the living, he shall praise thee, as I do this day: the father to the children shall make known thy truth.",
+      "metadata": {
+        "reference": "Isaiah 38:19",
+        "verseKey": "kjv:isaiah:38:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:38:20",
+      "numberLabel": "20",
+      "text": "The LORD was ready to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the LORD.",
+      "metadata": {
+        "reference": "Isaiah 38:20",
+        "verseKey": "kjv:isaiah:38:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:38:21",
+      "numberLabel": "21",
+      "text": "For Isaiah had said, Let them take a lump of figs, and lay it for a plaister upon the boil, and he shall recover.",
+      "metadata": {
+        "reference": "Isaiah 38:21",
+        "verseKey": "kjv:isaiah:38:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:38:22",
+      "numberLabel": "22",
+      "text": "Hezekiah also had said, What is the sign that I shall go up to the house of the LORD?",
+      "metadata": {
+        "reference": "Isaiah 38:22",
+        "verseKey": "kjv:isaiah:38:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

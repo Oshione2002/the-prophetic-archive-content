@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-timothy-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "1 Timothy 1",
+  "display_title": "1 Timothy 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-timothy",
+  "book": "1 Timothy",
+  "bookName": "1 Timothy",
+  "bookOrder": 54,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 54001,
+  "verseCount": 20,
+  "aliases": [
+    "1 Tim",
+    "1Tim",
+    "1 Ti",
+    "1Ti"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-timothy:1:1",
+      "numberLabel": "1",
+      "text": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;",
+      "metadata": {
+        "reference": "1 Timothy 1:1",
+        "verseKey": "kjv:1-timothy:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-timothy:1:2",
+      "numberLabel": "2",
+      "text": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.",
+      "metadata": {
+        "reference": "1 Timothy 1:2",
+        "verseKey": "kjv:1-timothy:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-timothy:1:3",
+      "numberLabel": "3",
+      "text": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,",
+      "metadata": {
+        "reference": "1 Timothy 1:3",
+        "verseKey": "kjv:1-timothy:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-timothy:1:4",
+      "numberLabel": "4",
+      "text": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do.",
+      "metadata": {
+        "reference": "1 Timothy 1:4",
+        "verseKey": "kjv:1-timothy:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-timothy:1:5",
+      "numberLabel": "5",
+      "text": "Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:",
+      "metadata": {
+        "reference": "1 Timothy 1:5",
+        "verseKey": "kjv:1-timothy:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-timothy:1:6",
+      "numberLabel": "6",
+      "text": "From which some having swerved have turned aside unto vain jangling;",
+      "metadata": {
+        "reference": "1 Timothy 1:6",
+        "verseKey": "kjv:1-timothy:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-timothy:1:7",
+      "numberLabel": "7",
+      "text": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.",
+      "metadata": {
+        "reference": "1 Timothy 1:7",
+        "verseKey": "kjv:1-timothy:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-timothy:1:8",
+      "numberLabel": "8",
+      "text": "But we know that the law is good, if a man use it lawfully;",
+      "metadata": {
+        "reference": "1 Timothy 1:8",
+        "verseKey": "kjv:1-timothy:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-timothy:1:9",
+      "numberLabel": "9",
+      "text": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+      "metadata": {
+        "reference": "1 Timothy 1:9",
+        "verseKey": "kjv:1-timothy:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-timothy:1:10",
+      "numberLabel": "10",
+      "text": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;",
+      "metadata": {
+        "reference": "1 Timothy 1:10",
+        "verseKey": "kjv:1-timothy:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-timothy:1:11",
+      "numberLabel": "11",
+      "text": "According to the glorious gospel of the blessed God, which was committed to my trust.",
+      "metadata": {
+        "reference": "1 Timothy 1:11",
+        "verseKey": "kjv:1-timothy:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-timothy:1:12",
+      "numberLabel": "12",
+      "text": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;",
+      "metadata": {
+        "reference": "1 Timothy 1:12",
+        "verseKey": "kjv:1-timothy:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-timothy:1:13",
+      "numberLabel": "13",
+      "text": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.",
+      "metadata": {
+        "reference": "1 Timothy 1:13",
+        "verseKey": "kjv:1-timothy:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-timothy:1:14",
+      "numberLabel": "14",
+      "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
+      "metadata": {
+        "reference": "1 Timothy 1:14",
+        "verseKey": "kjv:1-timothy:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-timothy:1:15",
+      "numberLabel": "15",
+      "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+      "metadata": {
+        "reference": "1 Timothy 1:15",
+        "verseKey": "kjv:1-timothy:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-timothy:1:16",
+      "numberLabel": "16",
+      "text": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.",
+      "metadata": {
+        "reference": "1 Timothy 1:16",
+        "verseKey": "kjv:1-timothy:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-timothy:1:17",
+      "numberLabel": "17",
+      "text": "Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.",
+      "metadata": {
+        "reference": "1 Timothy 1:17",
+        "verseKey": "kjv:1-timothy:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-timothy:1:18",
+      "numberLabel": "18",
+      "text": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;",
+      "metadata": {
+        "reference": "1 Timothy 1:18",
+        "verseKey": "kjv:1-timothy:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-timothy:1:19",
+      "numberLabel": "19",
+      "text": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+      "metadata": {
+        "reference": "1 Timothy 1:19",
+        "verseKey": "kjv:1-timothy:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-timothy:1:20",
+      "numberLabel": "20",
+      "text": "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.",
+      "metadata": {
+        "reference": "1 Timothy 1:20",
+        "verseKey": "kjv:1-timothy:1:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Timothy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Timothy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

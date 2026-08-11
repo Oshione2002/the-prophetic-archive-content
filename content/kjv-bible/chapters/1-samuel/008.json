@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "1 Samuel 8",
+  "display_title": "1 Samuel 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 9008,
+  "verseCount": 22,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:8:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, when Samuel was old, that he made his sons judges over Israel.",
+      "metadata": {
+        "reference": "1 Samuel 8:1",
+        "verseKey": "kjv:1-samuel:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:8:2",
+      "numberLabel": "2",
+      "text": "Now the name of his firstborn was Joel; and the name of his second, Abiah: they were judges in Beersheba.",
+      "metadata": {
+        "reference": "1 Samuel 8:2",
+        "verseKey": "kjv:1-samuel:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:8:3",
+      "numberLabel": "3",
+      "text": "And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted judgment.",
+      "metadata": {
+        "reference": "1 Samuel 8:3",
+        "verseKey": "kjv:1-samuel:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:8:4",
+      "numberLabel": "4",
+      "text": "Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,",
+      "metadata": {
+        "reference": "1 Samuel 8:4",
+        "verseKey": "kjv:1-samuel:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:8:5",
+      "numberLabel": "5",
+      "text": "And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.",
+      "metadata": {
+        "reference": "1 Samuel 8:5",
+        "verseKey": "kjv:1-samuel:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:8:6",
+      "numberLabel": "6",
+      "text": "But the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 8:6",
+        "verseKey": "kjv:1-samuel:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:8:7",
+      "numberLabel": "7",
+      "text": "And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.",
+      "metadata": {
+        "reference": "1 Samuel 8:7",
+        "verseKey": "kjv:1-samuel:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:8:8",
+      "numberLabel": "8",
+      "text": "According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee.",
+      "metadata": {
+        "reference": "1 Samuel 8:8",
+        "verseKey": "kjv:1-samuel:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:8:9",
+      "numberLabel": "9",
+      "text": "Now therefore hearken unto their voice: howbeit yet protest solemnly unto them, and shew them the manner of the king that shall reign over them.",
+      "metadata": {
+        "reference": "1 Samuel 8:9",
+        "verseKey": "kjv:1-samuel:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:8:10",
+      "numberLabel": "10",
+      "text": "And Samuel told all the words of the LORD unto the people that asked of him a king.",
+      "metadata": {
+        "reference": "1 Samuel 8:10",
+        "verseKey": "kjv:1-samuel:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:8:11",
+      "numberLabel": "11",
+      "text": "And he said, This will be the manner of the king that shall reign over you: He will take your sons, and appoint them for himself, for his chariots, and to be his horsemen; and some shall run before his chariots.",
+      "metadata": {
+        "reference": "1 Samuel 8:11",
+        "verseKey": "kjv:1-samuel:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:8:12",
+      "numberLabel": "12",
+      "text": "And he will appoint him captains over thousands, and captains over fifties; and will set them to ear his ground, and to reap his harvest, and to make his instruments of war, and instruments of his chariots.",
+      "metadata": {
+        "reference": "1 Samuel 8:12",
+        "verseKey": "kjv:1-samuel:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:8:13",
+      "numberLabel": "13",
+      "text": "And he will take your daughters to be confectionaries, and to be cooks, and to be bakers.",
+      "metadata": {
+        "reference": "1 Samuel 8:13",
+        "verseKey": "kjv:1-samuel:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:8:14",
+      "numberLabel": "14",
+      "text": "And he will take your fields, and your vineyards, and your oliveyards, even the best of them, and give them to his servants.",
+      "metadata": {
+        "reference": "1 Samuel 8:14",
+        "verseKey": "kjv:1-samuel:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:8:15",
+      "numberLabel": "15",
+      "text": "And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.",
+      "metadata": {
+        "reference": "1 Samuel 8:15",
+        "verseKey": "kjv:1-samuel:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:8:16",
+      "numberLabel": "16",
+      "text": "And he will take your menservants, and your maidservants, and your goodliest young men, and your asses, and put them to his work.",
+      "metadata": {
+        "reference": "1 Samuel 8:16",
+        "verseKey": "kjv:1-samuel:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:8:17",
+      "numberLabel": "17",
+      "text": "He will take the tenth of your sheep: and ye shall be his servants.",
+      "metadata": {
+        "reference": "1 Samuel 8:17",
+        "verseKey": "kjv:1-samuel:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:8:18",
+      "numberLabel": "18",
+      "text": "And ye shall cry out in that day because of your king which ye shall have chosen you; and the LORD will not hear you in that day.",
+      "metadata": {
+        "reference": "1 Samuel 8:18",
+        "verseKey": "kjv:1-samuel:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:8:19",
+      "numberLabel": "19",
+      "text": "Nevertheless the people refused to obey the voice of Samuel; and they said, Nay; but we will have a king over us;",
+      "metadata": {
+        "reference": "1 Samuel 8:19",
+        "verseKey": "kjv:1-samuel:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:8:20",
+      "numberLabel": "20",
+      "text": "That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.",
+      "metadata": {
+        "reference": "1 Samuel 8:20",
+        "verseKey": "kjv:1-samuel:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:8:21",
+      "numberLabel": "21",
+      "text": "And Samuel heard all the words of the people, and he rehearsed them in the ears of the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 8:21",
+        "verseKey": "kjv:1-samuel:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:8:22",
+      "numberLabel": "22",
+      "text": "And the LORD said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.",
+      "metadata": {
+        "reference": "1 Samuel 8:22",
+        "verseKey": "kjv:1-samuel:8:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

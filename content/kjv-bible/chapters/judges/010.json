@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-judges-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Judges 10",
+  "display_title": "Judges 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "judges",
+  "book": "Judges",
+  "bookName": "Judges",
+  "bookOrder": 7,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 7010,
+  "verseCount": 18,
+  "aliases": [
+    "Judg",
+    "Jdg",
+    "Jg"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:judges:10:1",
+      "numberLabel": "1",
+      "text": "And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.",
+      "metadata": {
+        "reference": "Judges 10:1",
+        "verseKey": "kjv:judges:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:judges:10:2",
+      "numberLabel": "2",
+      "text": "And he judged Israel twenty and three years, and died, and was buried in Shamir.",
+      "metadata": {
+        "reference": "Judges 10:2",
+        "verseKey": "kjv:judges:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:judges:10:3",
+      "numberLabel": "3",
+      "text": "And after him arose Jair, a Gileadite, and judged Israel twenty and two years.",
+      "metadata": {
+        "reference": "Judges 10:3",
+        "verseKey": "kjv:judges:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:judges:10:4",
+      "numberLabel": "4",
+      "text": "And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which are in the land of Gilead.",
+      "metadata": {
+        "reference": "Judges 10:4",
+        "verseKey": "kjv:judges:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:judges:10:5",
+      "numberLabel": "5",
+      "text": "And Jair died, and was buried in Camon.",
+      "metadata": {
+        "reference": "Judges 10:5",
+        "verseKey": "kjv:judges:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:judges:10:6",
+      "numberLabel": "6",
+      "text": "And the children of Israel did evil again in the sight of the LORD, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD, and served not him.",
+      "metadata": {
+        "reference": "Judges 10:6",
+        "verseKey": "kjv:judges:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:judges:10:7",
+      "numberLabel": "7",
+      "text": "And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.",
+      "metadata": {
+        "reference": "Judges 10:7",
+        "verseKey": "kjv:judges:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:judges:10:8",
+      "numberLabel": "8",
+      "text": "And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that were on the other side Jordan in the land of the Amorites, which is in Gilead.",
+      "metadata": {
+        "reference": "Judges 10:8",
+        "verseKey": "kjv:judges:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:judges:10:9",
+      "numberLabel": "9",
+      "text": "Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed.",
+      "metadata": {
+        "reference": "Judges 10:9",
+        "verseKey": "kjv:judges:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:judges:10:10",
+      "numberLabel": "10",
+      "text": "And the children of Israel cried unto the LORD, saying, We have sinned against thee, both because we have forsaken our God, and also served Baalim.",
+      "metadata": {
+        "reference": "Judges 10:10",
+        "verseKey": "kjv:judges:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:judges:10:11",
+      "numberLabel": "11",
+      "text": "And the LORD said unto the children of Israel, Did not I deliver you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?",
+      "metadata": {
+        "reference": "Judges 10:11",
+        "verseKey": "kjv:judges:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:judges:10:12",
+      "numberLabel": "12",
+      "text": "The Zidonians also, and the Amalekites, and the Maonites, did oppress you; and ye cried to me, and I delivered you out of their hand.",
+      "metadata": {
+        "reference": "Judges 10:12",
+        "verseKey": "kjv:judges:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:judges:10:13",
+      "numberLabel": "13",
+      "text": "Yet ye have forsaken me, and served other gods: wherefore I will deliver you no more.",
+      "metadata": {
+        "reference": "Judges 10:13",
+        "verseKey": "kjv:judges:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:judges:10:14",
+      "numberLabel": "14",
+      "text": "Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation.",
+      "metadata": {
+        "reference": "Judges 10:14",
+        "verseKey": "kjv:judges:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:judges:10:15",
+      "numberLabel": "15",
+      "text": "And the children of Israel said unto the LORD, We have sinned: do thou unto us whatsoever seemeth good unto thee; deliver us only, we pray thee, this day.",
+      "metadata": {
+        "reference": "Judges 10:15",
+        "verseKey": "kjv:judges:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:judges:10:16",
+      "numberLabel": "16",
+      "text": "And they put away the strange gods from among them, and served the LORD: and his soul was grieved for the misery of Israel.",
+      "metadata": {
+        "reference": "Judges 10:16",
+        "verseKey": "kjv:judges:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:judges:10:17",
+      "numberLabel": "17",
+      "text": "Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpeh.",
+      "metadata": {
+        "reference": "Judges 10:17",
+        "verseKey": "kjv:judges:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:judges:10:18",
+      "numberLabel": "18",
+      "text": "And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.",
+      "metadata": {
+        "reference": "Judges 10:18",
+        "verseKey": "kjv:judges:10:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Judges.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Judges.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

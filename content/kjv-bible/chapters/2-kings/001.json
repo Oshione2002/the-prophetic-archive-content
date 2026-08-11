@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-kings-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "2 Kings 1",
+  "display_title": "2 Kings 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-kings",
+  "book": "2 Kings",
+  "bookName": "2 Kings",
+  "bookOrder": 12,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 12001,
+  "verseCount": 18,
+  "aliases": [
+    "2 Kgs",
+    "2Kgs",
+    "2 Ki",
+    "2Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-kings:1:1",
+      "numberLabel": "1",
+      "text": "Then Moab rebelled against Israel after the death of Ahab.",
+      "metadata": {
+        "reference": "2 Kings 1:1",
+        "verseKey": "kjv:2-kings:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-kings:1:2",
+      "numberLabel": "2",
+      "text": "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease.",
+      "metadata": {
+        "reference": "2 Kings 1:2",
+        "verseKey": "kjv:2-kings:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-kings:1:3",
+      "numberLabel": "3",
+      "text": "But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baalzebub the god of Ekron?",
+      "metadata": {
+        "reference": "2 Kings 1:3",
+        "verseKey": "kjv:2-kings:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-kings:1:4",
+      "numberLabel": "4",
+      "text": "Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.",
+      "metadata": {
+        "reference": "2 Kings 1:4",
+        "verseKey": "kjv:2-kings:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-kings:1:5",
+      "numberLabel": "5",
+      "text": "And when the messengers turned back unto him, he said unto them, Why are ye now turned back?",
+      "metadata": {
+        "reference": "2 Kings 1:5",
+        "verseKey": "kjv:2-kings:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-kings:1:6",
+      "numberLabel": "6",
+      "text": "And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, Is it not because there is not a God in Israel, that thou sendest to enquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die.",
+      "metadata": {
+        "reference": "2 Kings 1:6",
+        "verseKey": "kjv:2-kings:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-kings:1:7",
+      "numberLabel": "7",
+      "text": "And he said unto them, What manner of man was he which came up to meet you, and told you these words?",
+      "metadata": {
+        "reference": "2 Kings 1:7",
+        "verseKey": "kjv:2-kings:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-kings:1:8",
+      "numberLabel": "8",
+      "text": "And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite.",
+      "metadata": {
+        "reference": "2 Kings 1:8",
+        "verseKey": "kjv:2-kings:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-kings:1:9",
+      "numberLabel": "9",
+      "text": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down.",
+      "metadata": {
+        "reference": "2 Kings 1:9",
+        "verseKey": "kjv:2-kings:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-kings:1:10",
+      "numberLabel": "10",
+      "text": "And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty.",
+      "metadata": {
+        "reference": "2 Kings 1:10",
+        "verseKey": "kjv:2-kings:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-kings:1:11",
+      "numberLabel": "11",
+      "text": "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly.",
+      "metadata": {
+        "reference": "2 Kings 1:11",
+        "verseKey": "kjv:2-kings:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-kings:1:12",
+      "numberLabel": "12",
+      "text": "And Elijah answered and said unto them, If I be a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty.",
+      "metadata": {
+        "reference": "2 Kings 1:12",
+        "verseKey": "kjv:2-kings:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-kings:1:13",
+      "numberLabel": "13",
+      "text": "And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight.",
+      "metadata": {
+        "reference": "2 Kings 1:13",
+        "verseKey": "kjv:2-kings:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-kings:1:14",
+      "numberLabel": "14",
+      "text": "Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in thy sight.",
+      "metadata": {
+        "reference": "2 Kings 1:14",
+        "verseKey": "kjv:2-kings:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-kings:1:15",
+      "numberLabel": "15",
+      "text": "And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.",
+      "metadata": {
+        "reference": "2 Kings 1:15",
+        "verseKey": "kjv:2-kings:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-kings:1:16",
+      "numberLabel": "16",
+      "text": "And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to enquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.",
+      "metadata": {
+        "reference": "2 Kings 1:16",
+        "verseKey": "kjv:2-kings:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-kings:1:17",
+      "numberLabel": "17",
+      "text": "So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.",
+      "metadata": {
+        "reference": "2 Kings 1:17",
+        "verseKey": "kjv:2-kings:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-kings:1:18",
+      "numberLabel": "18",
+      "text": "Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?",
+      "metadata": {
+        "reference": "2 Kings 1:18",
+        "verseKey": "kjv:2-kings:1:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

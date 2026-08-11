@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-060",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 60,
+  "title": "Psalms 60",
+  "display_title": "Psalms 60",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 60,
+  "sortOrder": 19060,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:60:1",
+      "numberLabel": "1",
+      "text": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.",
+      "metadata": {
+        "reference": "Psalms 60:1",
+        "verseKey": "kjv:psalms:60:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:60:2",
+      "numberLabel": "2",
+      "text": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.",
+      "metadata": {
+        "reference": "Psalms 60:2",
+        "verseKey": "kjv:psalms:60:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:60:3",
+      "numberLabel": "3",
+      "text": "Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment.",
+      "metadata": {
+        "reference": "Psalms 60:3",
+        "verseKey": "kjv:psalms:60:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:60:4",
+      "numberLabel": "4",
+      "text": "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.",
+      "metadata": {
+        "reference": "Psalms 60:4",
+        "verseKey": "kjv:psalms:60:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:60:5",
+      "numberLabel": "5",
+      "text": "That thy beloved may be delivered; save with thy right hand, and hear me.",
+      "metadata": {
+        "reference": "Psalms 60:5",
+        "verseKey": "kjv:psalms:60:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:60:6",
+      "numberLabel": "6",
+      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+      "metadata": {
+        "reference": "Psalms 60:6",
+        "verseKey": "kjv:psalms:60:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:60:7",
+      "numberLabel": "7",
+      "text": "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;",
+      "metadata": {
+        "reference": "Psalms 60:7",
+        "verseKey": "kjv:psalms:60:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:60:8",
+      "numberLabel": "8",
+      "text": "Moab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.",
+      "metadata": {
+        "reference": "Psalms 60:8",
+        "verseKey": "kjv:psalms:60:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:60:9",
+      "numberLabel": "9",
+      "text": "Who will bring me into the strong city? who will lead me into Edom?",
+      "metadata": {
+        "reference": "Psalms 60:9",
+        "verseKey": "kjv:psalms:60:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:60:10",
+      "numberLabel": "10",
+      "text": "Wilt not thou, O God, which hadst cast us off? and thou, O God, which didst not go out with our armies?",
+      "metadata": {
+        "reference": "Psalms 60:10",
+        "verseKey": "kjv:psalms:60:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:60:11",
+      "numberLabel": "11",
+      "text": "Give us help from trouble: for vain is the help of man.",
+      "metadata": {
+        "reference": "Psalms 60:11",
+        "verseKey": "kjv:psalms:60:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:60:12",
+      "numberLabel": "12",
+      "text": "Through God we shall do valiantly: for he it is that shall tread down our enemies.",
+      "metadata": {
+        "reference": "Psalms 60:12",
+        "verseKey": "kjv:psalms:60:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

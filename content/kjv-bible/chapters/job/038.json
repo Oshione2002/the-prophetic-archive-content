@@ -1,0 +1,523 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-038",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 38,
+  "title": "Job 38",
+  "display_title": "Job 38",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 38,
+  "sortOrder": 18038,
+  "verseCount": 41,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:38:1",
+      "numberLabel": "1",
+      "text": "Then the LORD answered Job out of the whirlwind, and said,",
+      "metadata": {
+        "reference": "Job 38:1",
+        "verseKey": "kjv:job:38:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:38:2",
+      "numberLabel": "2",
+      "text": "Who is this that darkeneth counsel by words without knowledge?",
+      "metadata": {
+        "reference": "Job 38:2",
+        "verseKey": "kjv:job:38:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:38:3",
+      "numberLabel": "3",
+      "text": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me.",
+      "metadata": {
+        "reference": "Job 38:3",
+        "verseKey": "kjv:job:38:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:38:4",
+      "numberLabel": "4",
+      "text": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.",
+      "metadata": {
+        "reference": "Job 38:4",
+        "verseKey": "kjv:job:38:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:38:5",
+      "numberLabel": "5",
+      "text": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?",
+      "metadata": {
+        "reference": "Job 38:5",
+        "verseKey": "kjv:job:38:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:38:6",
+      "numberLabel": "6",
+      "text": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;",
+      "metadata": {
+        "reference": "Job 38:6",
+        "verseKey": "kjv:job:38:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:38:7",
+      "numberLabel": "7",
+      "text": "When the morning stars sang together, and all the sons of God shouted for joy?",
+      "metadata": {
+        "reference": "Job 38:7",
+        "verseKey": "kjv:job:38:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:38:8",
+      "numberLabel": "8",
+      "text": "Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?",
+      "metadata": {
+        "reference": "Job 38:8",
+        "verseKey": "kjv:job:38:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:38:9",
+      "numberLabel": "9",
+      "text": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,",
+      "metadata": {
+        "reference": "Job 38:9",
+        "verseKey": "kjv:job:38:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:38:10",
+      "numberLabel": "10",
+      "text": "And brake up for it my decreed place, and set bars and doors,",
+      "metadata": {
+        "reference": "Job 38:10",
+        "verseKey": "kjv:job:38:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:38:11",
+      "numberLabel": "11",
+      "text": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?",
+      "metadata": {
+        "reference": "Job 38:11",
+        "verseKey": "kjv:job:38:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:38:12",
+      "numberLabel": "12",
+      "text": "Hast thou commanded the morning since thy days; and caused the dayspring to know his place;",
+      "metadata": {
+        "reference": "Job 38:12",
+        "verseKey": "kjv:job:38:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:38:13",
+      "numberLabel": "13",
+      "text": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?",
+      "metadata": {
+        "reference": "Job 38:13",
+        "verseKey": "kjv:job:38:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:38:14",
+      "numberLabel": "14",
+      "text": "It is turned as clay to the seal; and they stand as a garment.",
+      "metadata": {
+        "reference": "Job 38:14",
+        "verseKey": "kjv:job:38:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:38:15",
+      "numberLabel": "15",
+      "text": "And from the wicked their light is withholden, and the high arm shall be broken.",
+      "metadata": {
+        "reference": "Job 38:15",
+        "verseKey": "kjv:job:38:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:38:16",
+      "numberLabel": "16",
+      "text": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?",
+      "metadata": {
+        "reference": "Job 38:16",
+        "verseKey": "kjv:job:38:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:38:17",
+      "numberLabel": "17",
+      "text": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?",
+      "metadata": {
+        "reference": "Job 38:17",
+        "verseKey": "kjv:job:38:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:38:18",
+      "numberLabel": "18",
+      "text": "Hast thou perceived the breadth of the earth? declare if thou knowest it all.",
+      "metadata": {
+        "reference": "Job 38:18",
+        "verseKey": "kjv:job:38:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:38:19",
+      "numberLabel": "19",
+      "text": "Where is the way where light dwelleth? and as for darkness, where is the place thereof,",
+      "metadata": {
+        "reference": "Job 38:19",
+        "verseKey": "kjv:job:38:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:38:20",
+      "numberLabel": "20",
+      "text": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?",
+      "metadata": {
+        "reference": "Job 38:20",
+        "verseKey": "kjv:job:38:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:38:21",
+      "numberLabel": "21",
+      "text": "Knowest thou it, because thou wast then born? or because the number of thy days is great?",
+      "metadata": {
+        "reference": "Job 38:21",
+        "verseKey": "kjv:job:38:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:38:22",
+      "numberLabel": "22",
+      "text": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,",
+      "metadata": {
+        "reference": "Job 38:22",
+        "verseKey": "kjv:job:38:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:38:23",
+      "numberLabel": "23",
+      "text": "Which I have reserved against the time of trouble, against the day of battle and war?",
+      "metadata": {
+        "reference": "Job 38:23",
+        "verseKey": "kjv:job:38:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:38:24",
+      "numberLabel": "24",
+      "text": "By what way is the light parted, which scattereth the east wind upon the earth?",
+      "metadata": {
+        "reference": "Job 38:24",
+        "verseKey": "kjv:job:38:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:38:25",
+      "numberLabel": "25",
+      "text": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;",
+      "metadata": {
+        "reference": "Job 38:25",
+        "verseKey": "kjv:job:38:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:38:26",
+      "numberLabel": "26",
+      "text": "To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;",
+      "metadata": {
+        "reference": "Job 38:26",
+        "verseKey": "kjv:job:38:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:38:27",
+      "numberLabel": "27",
+      "text": "To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?",
+      "metadata": {
+        "reference": "Job 38:27",
+        "verseKey": "kjv:job:38:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:38:28",
+      "numberLabel": "28",
+      "text": "Hath the rain a father? or who hath begotten the drops of dew?",
+      "metadata": {
+        "reference": "Job 38:28",
+        "verseKey": "kjv:job:38:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:38:29",
+      "numberLabel": "29",
+      "text": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?",
+      "metadata": {
+        "reference": "Job 38:29",
+        "verseKey": "kjv:job:38:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:38:30",
+      "numberLabel": "30",
+      "text": "The waters are hid as with a stone, and the face of the deep is frozen.",
+      "metadata": {
+        "reference": "Job 38:30",
+        "verseKey": "kjv:job:38:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:job:38:31",
+      "numberLabel": "31",
+      "text": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?",
+      "metadata": {
+        "reference": "Job 38:31",
+        "verseKey": "kjv:job:38:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:job:38:32",
+      "numberLabel": "32",
+      "text": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?",
+      "metadata": {
+        "reference": "Job 38:32",
+        "verseKey": "kjv:job:38:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:job:38:33",
+      "numberLabel": "33",
+      "text": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?",
+      "metadata": {
+        "reference": "Job 38:33",
+        "verseKey": "kjv:job:38:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:job:38:34",
+      "numberLabel": "34",
+      "text": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?",
+      "metadata": {
+        "reference": "Job 38:34",
+        "verseKey": "kjv:job:38:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:job:38:35",
+      "numberLabel": "35",
+      "text": "Canst thou send lightnings, that they may go, and say unto thee, Here we are?",
+      "metadata": {
+        "reference": "Job 38:35",
+        "verseKey": "kjv:job:38:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:job:38:36",
+      "numberLabel": "36",
+      "text": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?",
+      "metadata": {
+        "reference": "Job 38:36",
+        "verseKey": "kjv:job:38:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:job:38:37",
+      "numberLabel": "37",
+      "text": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,",
+      "metadata": {
+        "reference": "Job 38:37",
+        "verseKey": "kjv:job:38:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:job:38:38",
+      "numberLabel": "38",
+      "text": "When the dust groweth into hardness, and the clods cleave fast together?",
+      "metadata": {
+        "reference": "Job 38:38",
+        "verseKey": "kjv:job:38:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:job:38:39",
+      "numberLabel": "39",
+      "text": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,",
+      "metadata": {
+        "reference": "Job 38:39",
+        "verseKey": "kjv:job:38:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:job:38:40",
+      "numberLabel": "40",
+      "text": "When they couch in their dens, and abide in the covert to lie in wait?",
+      "metadata": {
+        "reference": "Job 38:40",
+        "verseKey": "kjv:job:38:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:job:38:41",
+      "numberLabel": "41",
+      "text": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.",
+      "metadata": {
+        "reference": "Job 38:41",
+        "verseKey": "kjv:job:38:41"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

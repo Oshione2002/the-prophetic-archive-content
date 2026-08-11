@@ -1,0 +1,872 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezra-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Ezra 2",
+  "display_title": "Ezra 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezra",
+  "book": "Ezra",
+  "bookName": "Ezra",
+  "bookOrder": 15,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 15002,
+  "verseCount": 70,
+  "aliases": [
+    "Ezra",
+    "Ezr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezra:2:1",
+      "numberLabel": "1",
+      "text": "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;",
+      "metadata": {
+        "reference": "Ezra 2:1",
+        "verseKey": "kjv:ezra:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezra:2:2",
+      "numberLabel": "2",
+      "text": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:",
+      "metadata": {
+        "reference": "Ezra 2:2",
+        "verseKey": "kjv:ezra:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezra:2:3",
+      "numberLabel": "3",
+      "text": "The children of Parosh, two thousand an hundred seventy and two.",
+      "metadata": {
+        "reference": "Ezra 2:3",
+        "verseKey": "kjv:ezra:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezra:2:4",
+      "numberLabel": "4",
+      "text": "The children of Shephatiah, three hundred seventy and two.",
+      "metadata": {
+        "reference": "Ezra 2:4",
+        "verseKey": "kjv:ezra:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezra:2:5",
+      "numberLabel": "5",
+      "text": "The children of Arah, seven hundred seventy and five.",
+      "metadata": {
+        "reference": "Ezra 2:5",
+        "verseKey": "kjv:ezra:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezra:2:6",
+      "numberLabel": "6",
+      "text": "The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred and twelve.",
+      "metadata": {
+        "reference": "Ezra 2:6",
+        "verseKey": "kjv:ezra:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezra:2:7",
+      "numberLabel": "7",
+      "text": "The children of Elam, a thousand two hundred fifty and four.",
+      "metadata": {
+        "reference": "Ezra 2:7",
+        "verseKey": "kjv:ezra:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezra:2:8",
+      "numberLabel": "8",
+      "text": "The children of Zattu, nine hundred forty and five.",
+      "metadata": {
+        "reference": "Ezra 2:8",
+        "verseKey": "kjv:ezra:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezra:2:9",
+      "numberLabel": "9",
+      "text": "The children of Zaccai, seven hundred and threescore.",
+      "metadata": {
+        "reference": "Ezra 2:9",
+        "verseKey": "kjv:ezra:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezra:2:10",
+      "numberLabel": "10",
+      "text": "The children of Bani, six hundred forty and two.",
+      "metadata": {
+        "reference": "Ezra 2:10",
+        "verseKey": "kjv:ezra:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezra:2:11",
+      "numberLabel": "11",
+      "text": "The children of Bebai, six hundred twenty and three.",
+      "metadata": {
+        "reference": "Ezra 2:11",
+        "verseKey": "kjv:ezra:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezra:2:12",
+      "numberLabel": "12",
+      "text": "The children of Azgad, a thousand two hundred twenty and two.",
+      "metadata": {
+        "reference": "Ezra 2:12",
+        "verseKey": "kjv:ezra:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezra:2:13",
+      "numberLabel": "13",
+      "text": "The children of Adonikam, six hundred sixty and six.",
+      "metadata": {
+        "reference": "Ezra 2:13",
+        "verseKey": "kjv:ezra:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezra:2:14",
+      "numberLabel": "14",
+      "text": "The children of Bigvai, two thousand fifty and six.",
+      "metadata": {
+        "reference": "Ezra 2:14",
+        "verseKey": "kjv:ezra:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezra:2:15",
+      "numberLabel": "15",
+      "text": "The children of Adin, four hundred fifty and four.",
+      "metadata": {
+        "reference": "Ezra 2:15",
+        "verseKey": "kjv:ezra:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezra:2:16",
+      "numberLabel": "16",
+      "text": "The children of Ater of Hezekiah, ninety and eight.",
+      "metadata": {
+        "reference": "Ezra 2:16",
+        "verseKey": "kjv:ezra:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezra:2:17",
+      "numberLabel": "17",
+      "text": "The children of Bezai, three hundred twenty and three.",
+      "metadata": {
+        "reference": "Ezra 2:17",
+        "verseKey": "kjv:ezra:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezra:2:18",
+      "numberLabel": "18",
+      "text": "The children of Jorah, an hundred and twelve.",
+      "metadata": {
+        "reference": "Ezra 2:18",
+        "verseKey": "kjv:ezra:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezra:2:19",
+      "numberLabel": "19",
+      "text": "The children of Hashum, two hundred twenty and three.",
+      "metadata": {
+        "reference": "Ezra 2:19",
+        "verseKey": "kjv:ezra:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezra:2:20",
+      "numberLabel": "20",
+      "text": "The children of Gibbar, ninety and five.",
+      "metadata": {
+        "reference": "Ezra 2:20",
+        "verseKey": "kjv:ezra:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezra:2:21",
+      "numberLabel": "21",
+      "text": "The children of Bethlehem, an hundred twenty and three.",
+      "metadata": {
+        "reference": "Ezra 2:21",
+        "verseKey": "kjv:ezra:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezra:2:22",
+      "numberLabel": "22",
+      "text": "The men of Netophah, fifty and six.",
+      "metadata": {
+        "reference": "Ezra 2:22",
+        "verseKey": "kjv:ezra:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezra:2:23",
+      "numberLabel": "23",
+      "text": "The men of Anathoth, an hundred twenty and eight.",
+      "metadata": {
+        "reference": "Ezra 2:23",
+        "verseKey": "kjv:ezra:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezra:2:24",
+      "numberLabel": "24",
+      "text": "The children of Azmaveth, forty and two.",
+      "metadata": {
+        "reference": "Ezra 2:24",
+        "verseKey": "kjv:ezra:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ezra:2:25",
+      "numberLabel": "25",
+      "text": "The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three.",
+      "metadata": {
+        "reference": "Ezra 2:25",
+        "verseKey": "kjv:ezra:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ezra:2:26",
+      "numberLabel": "26",
+      "text": "The children of Ramah and Gaba, six hundred twenty and one.",
+      "metadata": {
+        "reference": "Ezra 2:26",
+        "verseKey": "kjv:ezra:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:ezra:2:27",
+      "numberLabel": "27",
+      "text": "The men of Michmas, an hundred twenty and two.",
+      "metadata": {
+        "reference": "Ezra 2:27",
+        "verseKey": "kjv:ezra:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:ezra:2:28",
+      "numberLabel": "28",
+      "text": "The men of Bethel and Ai, two hundred twenty and three.",
+      "metadata": {
+        "reference": "Ezra 2:28",
+        "verseKey": "kjv:ezra:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:ezra:2:29",
+      "numberLabel": "29",
+      "text": "The children of Nebo, fifty and two.",
+      "metadata": {
+        "reference": "Ezra 2:29",
+        "verseKey": "kjv:ezra:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:ezra:2:30",
+      "numberLabel": "30",
+      "text": "The children of Magbish, an hundred fifty and six.",
+      "metadata": {
+        "reference": "Ezra 2:30",
+        "verseKey": "kjv:ezra:2:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:ezra:2:31",
+      "numberLabel": "31",
+      "text": "The children of the other Elam, a thousand two hundred fifty and four.",
+      "metadata": {
+        "reference": "Ezra 2:31",
+        "verseKey": "kjv:ezra:2:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:ezra:2:32",
+      "numberLabel": "32",
+      "text": "The children of Harim, three hundred and twenty.",
+      "metadata": {
+        "reference": "Ezra 2:32",
+        "verseKey": "kjv:ezra:2:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:ezra:2:33",
+      "numberLabel": "33",
+      "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and five.",
+      "metadata": {
+        "reference": "Ezra 2:33",
+        "verseKey": "kjv:ezra:2:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:ezra:2:34",
+      "numberLabel": "34",
+      "text": "The children of Jericho, three hundred forty and five.",
+      "metadata": {
+        "reference": "Ezra 2:34",
+        "verseKey": "kjv:ezra:2:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:ezra:2:35",
+      "numberLabel": "35",
+      "text": "The children of Senaah, three thousand and six hundred and thirty.",
+      "metadata": {
+        "reference": "Ezra 2:35",
+        "verseKey": "kjv:ezra:2:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:ezra:2:36",
+      "numberLabel": "36",
+      "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+      "metadata": {
+        "reference": "Ezra 2:36",
+        "verseKey": "kjv:ezra:2:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:ezra:2:37",
+      "numberLabel": "37",
+      "text": "The children of Immer, a thousand fifty and two.",
+      "metadata": {
+        "reference": "Ezra 2:37",
+        "verseKey": "kjv:ezra:2:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:ezra:2:38",
+      "numberLabel": "38",
+      "text": "The children of Pashur, a thousand two hundred forty and seven.",
+      "metadata": {
+        "reference": "Ezra 2:38",
+        "verseKey": "kjv:ezra:2:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:ezra:2:39",
+      "numberLabel": "39",
+      "text": "The children of Harim, a thousand and seventeen.",
+      "metadata": {
+        "reference": "Ezra 2:39",
+        "verseKey": "kjv:ezra:2:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:ezra:2:40",
+      "numberLabel": "40",
+      "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.",
+      "metadata": {
+        "reference": "Ezra 2:40",
+        "verseKey": "kjv:ezra:2:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:ezra:2:41",
+      "numberLabel": "41",
+      "text": "The singers: the children of Asaph, an hundred twenty and eight.",
+      "metadata": {
+        "reference": "Ezra 2:41",
+        "verseKey": "kjv:ezra:2:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:ezra:2:42",
+      "numberLabel": "42",
+      "text": "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all an hundred thirty and nine.",
+      "metadata": {
+        "reference": "Ezra 2:42",
+        "verseKey": "kjv:ezra:2:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:ezra:2:43",
+      "numberLabel": "43",
+      "text": "The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+      "metadata": {
+        "reference": "Ezra 2:43",
+        "verseKey": "kjv:ezra:2:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:ezra:2:44",
+      "numberLabel": "44",
+      "text": "The children of Keros, the children of Siaha, the children of Padon,",
+      "metadata": {
+        "reference": "Ezra 2:44",
+        "verseKey": "kjv:ezra:2:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:ezra:2:45",
+      "numberLabel": "45",
+      "text": "The children of Lebanah, the children of Hagabah, the children of Akkub,",
+      "metadata": {
+        "reference": "Ezra 2:45",
+        "verseKey": "kjv:ezra:2:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:ezra:2:46",
+      "numberLabel": "46",
+      "text": "The children of Hagab, the children of Shalmai, the children of Hanan,",
+      "metadata": {
+        "reference": "Ezra 2:46",
+        "verseKey": "kjv:ezra:2:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:ezra:2:47",
+      "numberLabel": "47",
+      "text": "The children of Giddel, the children of Gahar, the children of Reaiah,",
+      "metadata": {
+        "reference": "Ezra 2:47",
+        "verseKey": "kjv:ezra:2:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:ezra:2:48",
+      "numberLabel": "48",
+      "text": "The children of Rezin, the children of Nekoda, the children of Gazzam,",
+      "metadata": {
+        "reference": "Ezra 2:48",
+        "verseKey": "kjv:ezra:2:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:ezra:2:49",
+      "numberLabel": "49",
+      "text": "The children of Uzza, the children of Paseah, the children of Besai,",
+      "metadata": {
+        "reference": "Ezra 2:49",
+        "verseKey": "kjv:ezra:2:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:ezra:2:50",
+      "numberLabel": "50",
+      "text": "The children of Asnah, the children of Mehunim, the children of Nephusim,",
+      "metadata": {
+        "reference": "Ezra 2:50",
+        "verseKey": "kjv:ezra:2:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:ezra:2:51",
+      "numberLabel": "51",
+      "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,",
+      "metadata": {
+        "reference": "Ezra 2:51",
+        "verseKey": "kjv:ezra:2:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:ezra:2:52",
+      "numberLabel": "52",
+      "text": "The children of Bazluth, the children of Mehida, the children of Harsha,",
+      "metadata": {
+        "reference": "Ezra 2:52",
+        "verseKey": "kjv:ezra:2:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:ezra:2:53",
+      "numberLabel": "53",
+      "text": "The children of Barkos, the children of Sisera, the children of Thamah,",
+      "metadata": {
+        "reference": "Ezra 2:53",
+        "verseKey": "kjv:ezra:2:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:ezra:2:54",
+      "numberLabel": "54",
+      "text": "The children of Neziah, the children of Hatipha.",
+      "metadata": {
+        "reference": "Ezra 2:54",
+        "verseKey": "kjv:ezra:2:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:ezra:2:55",
+      "numberLabel": "55",
+      "text": "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,",
+      "metadata": {
+        "reference": "Ezra 2:55",
+        "verseKey": "kjv:ezra:2:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:ezra:2:56",
+      "numberLabel": "56",
+      "text": "The children of Jaalah, the children of Darkon, the children of Giddel,",
+      "metadata": {
+        "reference": "Ezra 2:56",
+        "verseKey": "kjv:ezra:2:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:ezra:2:57",
+      "numberLabel": "57",
+      "text": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami.",
+      "metadata": {
+        "reference": "Ezra 2:57",
+        "verseKey": "kjv:ezra:2:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:ezra:2:58",
+      "numberLabel": "58",
+      "text": "All the Nethinims, and the children of Solomon’s servants, were three hundred ninety and two.",
+      "metadata": {
+        "reference": "Ezra 2:58",
+        "verseKey": "kjv:ezra:2:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:ezra:2:59",
+      "numberLabel": "59",
+      "text": "And these were they which went up from Telmelah, Telharsa, Cherub, Addan, and Immer: but they could not shew their father’s house, and their seed, whether they were of Israel:",
+      "metadata": {
+        "reference": "Ezra 2:59",
+        "verseKey": "kjv:ezra:2:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:ezra:2:60",
+      "numberLabel": "60",
+      "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.",
+      "metadata": {
+        "reference": "Ezra 2:60",
+        "verseKey": "kjv:ezra:2:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:ezra:2:61",
+      "numberLabel": "61",
+      "text": "And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:",
+      "metadata": {
+        "reference": "Ezra 2:61",
+        "verseKey": "kjv:ezra:2:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:ezra:2:62",
+      "numberLabel": "62",
+      "text": "These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood.",
+      "metadata": {
+        "reference": "Ezra 2:62",
+        "verseKey": "kjv:ezra:2:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:ezra:2:63",
+      "numberLabel": "63",
+      "text": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.",
+      "metadata": {
+        "reference": "Ezra 2:63",
+        "verseKey": "kjv:ezra:2:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:ezra:2:64",
+      "numberLabel": "64",
+      "text": "The whole congregation together was forty and two thousand three hundred and threescore,",
+      "metadata": {
+        "reference": "Ezra 2:64",
+        "verseKey": "kjv:ezra:2:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:ezra:2:65",
+      "numberLabel": "65",
+      "text": "Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women.",
+      "metadata": {
+        "reference": "Ezra 2:65",
+        "verseKey": "kjv:ezra:2:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:ezra:2:66",
+      "numberLabel": "66",
+      "text": "Their horses were seven hundred thirty and six; their mules, two hundred forty and five;",
+      "metadata": {
+        "reference": "Ezra 2:66",
+        "verseKey": "kjv:ezra:2:66"
+      }
+    },
+    {
+      "id": "verse-067",
+      "type": "bible_verse",
+      "verse": 67,
+      "verseId": "kjv:ezra:2:67",
+      "numberLabel": "67",
+      "text": "Their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty.",
+      "metadata": {
+        "reference": "Ezra 2:67",
+        "verseKey": "kjv:ezra:2:67"
+      }
+    },
+    {
+      "id": "verse-068",
+      "type": "bible_verse",
+      "verse": 68,
+      "verseId": "kjv:ezra:2:68",
+      "numberLabel": "68",
+      "text": "And some of the chief of the fathers, when they came to the house of the LORD which is at Jerusalem, offered freely for the house of God to set it up in his place:",
+      "metadata": {
+        "reference": "Ezra 2:68",
+        "verseKey": "kjv:ezra:2:68"
+      }
+    },
+    {
+      "id": "verse-069",
+      "type": "bible_verse",
+      "verse": 69,
+      "verseId": "kjv:ezra:2:69",
+      "numberLabel": "69",
+      "text": "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments.",
+      "metadata": {
+        "reference": "Ezra 2:69",
+        "verseKey": "kjv:ezra:2:69"
+      }
+    },
+    {
+      "id": "verse-070",
+      "type": "bible_verse",
+      "verse": 70,
+      "verseId": "kjv:ezra:2:70",
+      "numberLabel": "70",
+      "text": "So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.",
+      "metadata": {
+        "reference": "Ezra 2:70",
+        "verseKey": "kjv:ezra:2:70"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezra.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezra.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

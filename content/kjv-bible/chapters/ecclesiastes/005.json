@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ecclesiastes-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Ecclesiastes 5",
+  "display_title": "Ecclesiastes 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ecclesiastes",
+  "book": "Ecclesiastes",
+  "bookName": "Ecclesiastes",
+  "bookOrder": 21,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 21005,
+  "verseCount": 20,
+  "aliases": [
+    "Eccl",
+    "Ecc",
+    "Qoheleth"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ecclesiastes:5:1",
+      "numberLabel": "1",
+      "text": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:1",
+        "verseKey": "kjv:ecclesiastes:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ecclesiastes:5:2",
+      "numberLabel": "2",
+      "text": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:2",
+        "verseKey": "kjv:ecclesiastes:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ecclesiastes:5:3",
+      "numberLabel": "3",
+      "text": "For a dream cometh through the multitude of business; and a fool’s voice is known by multitude of words.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:3",
+        "verseKey": "kjv:ecclesiastes:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ecclesiastes:5:4",
+      "numberLabel": "4",
+      "text": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:4",
+        "verseKey": "kjv:ecclesiastes:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ecclesiastes:5:5",
+      "numberLabel": "5",
+      "text": "Better is it that thou shouldest not vow, than that thou shouldest vow and not pay.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:5",
+        "verseKey": "kjv:ecclesiastes:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ecclesiastes:5:6",
+      "numberLabel": "6",
+      "text": "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?",
+      "metadata": {
+        "reference": "Ecclesiastes 5:6",
+        "verseKey": "kjv:ecclesiastes:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ecclesiastes:5:7",
+      "numberLabel": "7",
+      "text": "For in the multitude of dreams and many words there are also divers vanities: but fear thou God.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:7",
+        "verseKey": "kjv:ecclesiastes:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ecclesiastes:5:8",
+      "numberLabel": "8",
+      "text": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:8",
+        "verseKey": "kjv:ecclesiastes:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ecclesiastes:5:9",
+      "numberLabel": "9",
+      "text": "Moreover the profit of the earth is for all: the king himself is served by the field.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:9",
+        "verseKey": "kjv:ecclesiastes:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ecclesiastes:5:10",
+      "numberLabel": "10",
+      "text": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:10",
+        "verseKey": "kjv:ecclesiastes:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ecclesiastes:5:11",
+      "numberLabel": "11",
+      "text": "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?",
+      "metadata": {
+        "reference": "Ecclesiastes 5:11",
+        "verseKey": "kjv:ecclesiastes:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ecclesiastes:5:12",
+      "numberLabel": "12",
+      "text": "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:12",
+        "verseKey": "kjv:ecclesiastes:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ecclesiastes:5:13",
+      "numberLabel": "13",
+      "text": "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:13",
+        "verseKey": "kjv:ecclesiastes:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ecclesiastes:5:14",
+      "numberLabel": "14",
+      "text": "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:14",
+        "verseKey": "kjv:ecclesiastes:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ecclesiastes:5:15",
+      "numberLabel": "15",
+      "text": "As he came forth of his mother’s womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:15",
+        "verseKey": "kjv:ecclesiastes:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ecclesiastes:5:16",
+      "numberLabel": "16",
+      "text": "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?",
+      "metadata": {
+        "reference": "Ecclesiastes 5:16",
+        "verseKey": "kjv:ecclesiastes:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ecclesiastes:5:17",
+      "numberLabel": "17",
+      "text": "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:17",
+        "verseKey": "kjv:ecclesiastes:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ecclesiastes:5:18",
+      "numberLabel": "18",
+      "text": "Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:18",
+        "verseKey": "kjv:ecclesiastes:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ecclesiastes:5:19",
+      "numberLabel": "19",
+      "text": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:19",
+        "verseKey": "kjv:ecclesiastes:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ecclesiastes:5:20",
+      "numberLabel": "20",
+      "text": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart.",
+      "metadata": {
+        "reference": "Ecclesiastes 5:20",
+        "verseKey": "kjv:ecclesiastes:5:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ecclesiastes.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ecclesiastes.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

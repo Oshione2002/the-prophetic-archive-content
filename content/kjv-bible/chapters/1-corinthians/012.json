@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-corinthians-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "1 Corinthians 12",
+  "display_title": "1 Corinthians 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-corinthians",
+  "book": "1 Corinthians",
+  "bookName": "1 Corinthians",
+  "bookOrder": 46,
+  "testament": "new",
+  "chapter": 12,
+  "sortOrder": 46012,
+  "verseCount": 31,
+  "aliases": [
+    "1 Cor",
+    "1Cor",
+    "1 Co",
+    "1Co"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-corinthians:12:1",
+      "numberLabel": "1",
+      "text": "Now concerning spiritual gifts, brethren, I would not have you ignorant.",
+      "metadata": {
+        "reference": "1 Corinthians 12:1",
+        "verseKey": "kjv:1-corinthians:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-corinthians:12:2",
+      "numberLabel": "2",
+      "text": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.",
+      "metadata": {
+        "reference": "1 Corinthians 12:2",
+        "verseKey": "kjv:1-corinthians:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-corinthians:12:3",
+      "numberLabel": "3",
+      "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost.",
+      "metadata": {
+        "reference": "1 Corinthians 12:3",
+        "verseKey": "kjv:1-corinthians:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-corinthians:12:4",
+      "numberLabel": "4",
+      "text": "Now there are diversities of gifts, but the same Spirit.",
+      "metadata": {
+        "reference": "1 Corinthians 12:4",
+        "verseKey": "kjv:1-corinthians:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-corinthians:12:5",
+      "numberLabel": "5",
+      "text": "And there are differences of administrations, but the same Lord.",
+      "metadata": {
+        "reference": "1 Corinthians 12:5",
+        "verseKey": "kjv:1-corinthians:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-corinthians:12:6",
+      "numberLabel": "6",
+      "text": "And there are diversities of operations, but it is the same God which worketh all in all.",
+      "metadata": {
+        "reference": "1 Corinthians 12:6",
+        "verseKey": "kjv:1-corinthians:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-corinthians:12:7",
+      "numberLabel": "7",
+      "text": "But the manifestation of the Spirit is given to every man to profit withal.",
+      "metadata": {
+        "reference": "1 Corinthians 12:7",
+        "verseKey": "kjv:1-corinthians:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-corinthians:12:8",
+      "numberLabel": "8",
+      "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;",
+      "metadata": {
+        "reference": "1 Corinthians 12:8",
+        "verseKey": "kjv:1-corinthians:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-corinthians:12:9",
+      "numberLabel": "9",
+      "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+      "metadata": {
+        "reference": "1 Corinthians 12:9",
+        "verseKey": "kjv:1-corinthians:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-corinthians:12:10",
+      "numberLabel": "10",
+      "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+      "metadata": {
+        "reference": "1 Corinthians 12:10",
+        "verseKey": "kjv:1-corinthians:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-corinthians:12:11",
+      "numberLabel": "11",
+      "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.",
+      "metadata": {
+        "reference": "1 Corinthians 12:11",
+        "verseKey": "kjv:1-corinthians:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-corinthians:12:12",
+      "numberLabel": "12",
+      "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.",
+      "metadata": {
+        "reference": "1 Corinthians 12:12",
+        "verseKey": "kjv:1-corinthians:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-corinthians:12:13",
+      "numberLabel": "13",
+      "text": "For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.",
+      "metadata": {
+        "reference": "1 Corinthians 12:13",
+        "verseKey": "kjv:1-corinthians:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-corinthians:12:14",
+      "numberLabel": "14",
+      "text": "For the body is not one member, but many.",
+      "metadata": {
+        "reference": "1 Corinthians 12:14",
+        "verseKey": "kjv:1-corinthians:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-corinthians:12:15",
+      "numberLabel": "15",
+      "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?",
+      "metadata": {
+        "reference": "1 Corinthians 12:15",
+        "verseKey": "kjv:1-corinthians:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-corinthians:12:16",
+      "numberLabel": "16",
+      "text": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?",
+      "metadata": {
+        "reference": "1 Corinthians 12:16",
+        "verseKey": "kjv:1-corinthians:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-corinthians:12:17",
+      "numberLabel": "17",
+      "text": "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?",
+      "metadata": {
+        "reference": "1 Corinthians 12:17",
+        "verseKey": "kjv:1-corinthians:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-corinthians:12:18",
+      "numberLabel": "18",
+      "text": "But now hath God set the members every one of them in the body, as it hath pleased him.",
+      "metadata": {
+        "reference": "1 Corinthians 12:18",
+        "verseKey": "kjv:1-corinthians:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-corinthians:12:19",
+      "numberLabel": "19",
+      "text": "And if they were all one member, where were the body?",
+      "metadata": {
+        "reference": "1 Corinthians 12:19",
+        "verseKey": "kjv:1-corinthians:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-corinthians:12:20",
+      "numberLabel": "20",
+      "text": "But now are they many members, yet but one body.",
+      "metadata": {
+        "reference": "1 Corinthians 12:20",
+        "verseKey": "kjv:1-corinthians:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-corinthians:12:21",
+      "numberLabel": "21",
+      "text": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.",
+      "metadata": {
+        "reference": "1 Corinthians 12:21",
+        "verseKey": "kjv:1-corinthians:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-corinthians:12:22",
+      "numberLabel": "22",
+      "text": "Nay, much more those members of the body, which seem to be more feeble, are necessary:",
+      "metadata": {
+        "reference": "1 Corinthians 12:22",
+        "verseKey": "kjv:1-corinthians:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-corinthians:12:23",
+      "numberLabel": "23",
+      "text": "And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.",
+      "metadata": {
+        "reference": "1 Corinthians 12:23",
+        "verseKey": "kjv:1-corinthians:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-corinthians:12:24",
+      "numberLabel": "24",
+      "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:",
+      "metadata": {
+        "reference": "1 Corinthians 12:24",
+        "verseKey": "kjv:1-corinthians:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-corinthians:12:25",
+      "numberLabel": "25",
+      "text": "That there should be no schism in the body; but that the members should have the same care one for another.",
+      "metadata": {
+        "reference": "1 Corinthians 12:25",
+        "verseKey": "kjv:1-corinthians:12:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-corinthians:12:26",
+      "numberLabel": "26",
+      "text": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.",
+      "metadata": {
+        "reference": "1 Corinthians 12:26",
+        "verseKey": "kjv:1-corinthians:12:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-corinthians:12:27",
+      "numberLabel": "27",
+      "text": "Now ye are the body of Christ, and members in particular.",
+      "metadata": {
+        "reference": "1 Corinthians 12:27",
+        "verseKey": "kjv:1-corinthians:12:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-corinthians:12:28",
+      "numberLabel": "28",
+      "text": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.",
+      "metadata": {
+        "reference": "1 Corinthians 12:28",
+        "verseKey": "kjv:1-corinthians:12:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-corinthians:12:29",
+      "numberLabel": "29",
+      "text": "Are all apostles? are all prophets? are all teachers? are all workers of miracles?",
+      "metadata": {
+        "reference": "1 Corinthians 12:29",
+        "verseKey": "kjv:1-corinthians:12:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-corinthians:12:30",
+      "numberLabel": "30",
+      "text": "Have all the gifts of healing? do all speak with tongues? do all interpret?",
+      "metadata": {
+        "reference": "1 Corinthians 12:30",
+        "verseKey": "kjv:1-corinthians:12:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-corinthians:12:31",
+      "numberLabel": "31",
+      "text": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way.",
+      "metadata": {
+        "reference": "1 Corinthians 12:31",
+        "verseKey": "kjv:1-corinthians:12:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Corinthians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Corinthians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jonah-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Jonah 2",
+  "display_title": "Jonah 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jonah",
+  "book": "Jonah",
+  "bookName": "Jonah",
+  "bookOrder": 32,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 32002,
+  "verseCount": 10,
+  "aliases": [
+    "Jonah",
+    "Jon"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jonah:2:1",
+      "numberLabel": "1",
+      "text": "Then Jonah prayed unto the LORD his God out of the fish’s belly,",
+      "metadata": {
+        "reference": "Jonah 2:1",
+        "verseKey": "kjv:jonah:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jonah:2:2",
+      "numberLabel": "2",
+      "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
+      "metadata": {
+        "reference": "Jonah 2:2",
+        "verseKey": "kjv:jonah:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jonah:2:3",
+      "numberLabel": "3",
+      "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+      "metadata": {
+        "reference": "Jonah 2:3",
+        "verseKey": "kjv:jonah:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jonah:2:4",
+      "numberLabel": "4",
+      "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+      "metadata": {
+        "reference": "Jonah 2:4",
+        "verseKey": "kjv:jonah:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jonah:2:5",
+      "numberLabel": "5",
+      "text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+      "metadata": {
+        "reference": "Jonah 2:5",
+        "verseKey": "kjv:jonah:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jonah:2:6",
+      "numberLabel": "6",
+      "text": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.",
+      "metadata": {
+        "reference": "Jonah 2:6",
+        "verseKey": "kjv:jonah:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jonah:2:7",
+      "numberLabel": "7",
+      "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+      "metadata": {
+        "reference": "Jonah 2:7",
+        "verseKey": "kjv:jonah:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jonah:2:8",
+      "numberLabel": "8",
+      "text": "They that observe lying vanities forsake their own mercy.",
+      "metadata": {
+        "reference": "Jonah 2:8",
+        "verseKey": "kjv:jonah:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jonah:2:9",
+      "numberLabel": "9",
+      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.",
+      "metadata": {
+        "reference": "Jonah 2:9",
+        "verseKey": "kjv:jonah:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jonah:2:10",
+      "numberLabel": "10",
+      "text": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.",
+      "metadata": {
+        "reference": "Jonah 2:10",
+        "verseKey": "kjv:jonah:2:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jonah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jonah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

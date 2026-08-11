@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-084",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 84,
+  "title": "Psalms 84",
+  "display_title": "Psalms 84",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 84,
+  "sortOrder": 19084,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:84:1",
+      "numberLabel": "1",
+      "text": "How amiable are thy tabernacles, O LORD of hosts!",
+      "metadata": {
+        "reference": "Psalms 84:1",
+        "verseKey": "kjv:psalms:84:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:84:2",
+      "numberLabel": "2",
+      "text": "My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.",
+      "metadata": {
+        "reference": "Psalms 84:2",
+        "verseKey": "kjv:psalms:84:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:84:3",
+      "numberLabel": "3",
+      "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God.",
+      "metadata": {
+        "reference": "Psalms 84:3",
+        "verseKey": "kjv:psalms:84:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:84:4",
+      "numberLabel": "4",
+      "text": "Blessed are they that dwell in thy house: they will be still praising thee. Selah.",
+      "metadata": {
+        "reference": "Psalms 84:4",
+        "verseKey": "kjv:psalms:84:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:84:5",
+      "numberLabel": "5",
+      "text": "Blessed is the man whose strength is in thee; in whose heart are the ways of them.",
+      "metadata": {
+        "reference": "Psalms 84:5",
+        "verseKey": "kjv:psalms:84:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:84:6",
+      "numberLabel": "6",
+      "text": "Who passing through the valley of Baca make it a well; the rain also filleth the pools.",
+      "metadata": {
+        "reference": "Psalms 84:6",
+        "verseKey": "kjv:psalms:84:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:84:7",
+      "numberLabel": "7",
+      "text": "They go from strength to strength, every one of them in Zion appeareth before God.",
+      "metadata": {
+        "reference": "Psalms 84:7",
+        "verseKey": "kjv:psalms:84:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:84:8",
+      "numberLabel": "8",
+      "text": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.",
+      "metadata": {
+        "reference": "Psalms 84:8",
+        "verseKey": "kjv:psalms:84:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:84:9",
+      "numberLabel": "9",
+      "text": "Behold, O God our shield, and look upon the face of thine anointed.",
+      "metadata": {
+        "reference": "Psalms 84:9",
+        "verseKey": "kjv:psalms:84:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:84:10",
+      "numberLabel": "10",
+      "text": "For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.",
+      "metadata": {
+        "reference": "Psalms 84:10",
+        "verseKey": "kjv:psalms:84:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:84:11",
+      "numberLabel": "11",
+      "text": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.",
+      "metadata": {
+        "reference": "Psalms 84:11",
+        "verseKey": "kjv:psalms:84:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:84:12",
+      "numberLabel": "12",
+      "text": "O LORD of hosts, blessed is the man that trusteth in thee.",
+      "metadata": {
+        "reference": "Psalms 84:12",
+        "verseKey": "kjv:psalms:84:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

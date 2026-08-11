@@ -1,0 +1,704 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-023",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 23,
+  "title": "Luke 23",
+  "display_title": "Luke 23",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 23,
+  "sortOrder": 42023,
+  "verseCount": 56,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:23:1",
+      "numberLabel": "1",
+      "text": "And the whole multitude of them arose, and led him unto Pilate.",
+      "metadata": {
+        "reference": "Luke 23:1",
+        "verseKey": "kjv:luke:23:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:23:2",
+      "numberLabel": "2",
+      "text": "And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King.",
+      "metadata": {
+        "reference": "Luke 23:2",
+        "verseKey": "kjv:luke:23:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:23:3",
+      "numberLabel": "3",
+      "text": "And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest it.",
+      "metadata": {
+        "reference": "Luke 23:3",
+        "verseKey": "kjv:luke:23:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:23:4",
+      "numberLabel": "4",
+      "text": "Then said Pilate to the chief priests and to the people, I find no fault in this man.",
+      "metadata": {
+        "reference": "Luke 23:4",
+        "verseKey": "kjv:luke:23:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:23:5",
+      "numberLabel": "5",
+      "text": "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.",
+      "metadata": {
+        "reference": "Luke 23:5",
+        "verseKey": "kjv:luke:23:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:23:6",
+      "numberLabel": "6",
+      "text": "When Pilate heard of Galilee, he asked whether the man were a Galilaean.",
+      "metadata": {
+        "reference": "Luke 23:6",
+        "verseKey": "kjv:luke:23:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:23:7",
+      "numberLabel": "7",
+      "text": "And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.",
+      "metadata": {
+        "reference": "Luke 23:7",
+        "verseKey": "kjv:luke:23:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:23:8",
+      "numberLabel": "8",
+      "text": "And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.",
+      "metadata": {
+        "reference": "Luke 23:8",
+        "verseKey": "kjv:luke:23:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:23:9",
+      "numberLabel": "9",
+      "text": "Then he questioned with him in many words; but he answered him nothing.",
+      "metadata": {
+        "reference": "Luke 23:9",
+        "verseKey": "kjv:luke:23:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:23:10",
+      "numberLabel": "10",
+      "text": "And the chief priests and scribes stood and vehemently accused him.",
+      "metadata": {
+        "reference": "Luke 23:10",
+        "verseKey": "kjv:luke:23:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:23:11",
+      "numberLabel": "11",
+      "text": "And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate.",
+      "metadata": {
+        "reference": "Luke 23:11",
+        "verseKey": "kjv:luke:23:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:23:12",
+      "numberLabel": "12",
+      "text": "And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.",
+      "metadata": {
+        "reference": "Luke 23:12",
+        "verseKey": "kjv:luke:23:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:23:13",
+      "numberLabel": "13",
+      "text": "And Pilate, when he had called together the chief priests and the rulers and the people,",
+      "metadata": {
+        "reference": "Luke 23:13",
+        "verseKey": "kjv:luke:23:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:23:14",
+      "numberLabel": "14",
+      "text": "Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:",
+      "metadata": {
+        "reference": "Luke 23:14",
+        "verseKey": "kjv:luke:23:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:23:15",
+      "numberLabel": "15",
+      "text": "No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.",
+      "metadata": {
+        "reference": "Luke 23:15",
+        "verseKey": "kjv:luke:23:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:23:16",
+      "numberLabel": "16",
+      "text": "I will therefore chastise him, and release him.",
+      "metadata": {
+        "reference": "Luke 23:16",
+        "verseKey": "kjv:luke:23:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:23:17",
+      "numberLabel": "17",
+      "text": "(For of necessity he must release one unto them at the feast.)",
+      "metadata": {
+        "reference": "Luke 23:17",
+        "verseKey": "kjv:luke:23:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:23:18",
+      "numberLabel": "18",
+      "text": "And they cried out all at once, saying, Away with this man, and release unto us Barabbas:",
+      "metadata": {
+        "reference": "Luke 23:18",
+        "verseKey": "kjv:luke:23:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:23:19",
+      "numberLabel": "19",
+      "text": "(Who for a certain sedition made in the city, and for murder, was cast into prison.)",
+      "metadata": {
+        "reference": "Luke 23:19",
+        "verseKey": "kjv:luke:23:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:23:20",
+      "numberLabel": "20",
+      "text": "Pilate therefore, willing to release Jesus, spake again to them.",
+      "metadata": {
+        "reference": "Luke 23:20",
+        "verseKey": "kjv:luke:23:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:23:21",
+      "numberLabel": "21",
+      "text": "But they cried, saying, Crucify him, crucify him.",
+      "metadata": {
+        "reference": "Luke 23:21",
+        "verseKey": "kjv:luke:23:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:23:22",
+      "numberLabel": "22",
+      "text": "And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let him go.",
+      "metadata": {
+        "reference": "Luke 23:22",
+        "verseKey": "kjv:luke:23:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:23:23",
+      "numberLabel": "23",
+      "text": "And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.",
+      "metadata": {
+        "reference": "Luke 23:23",
+        "verseKey": "kjv:luke:23:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:23:24",
+      "numberLabel": "24",
+      "text": "And Pilate gave sentence that it should be as they required.",
+      "metadata": {
+        "reference": "Luke 23:24",
+        "verseKey": "kjv:luke:23:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:23:25",
+      "numberLabel": "25",
+      "text": "And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.",
+      "metadata": {
+        "reference": "Luke 23:25",
+        "verseKey": "kjv:luke:23:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:23:26",
+      "numberLabel": "26",
+      "text": "And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.",
+      "metadata": {
+        "reference": "Luke 23:26",
+        "verseKey": "kjv:luke:23:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:23:27",
+      "numberLabel": "27",
+      "text": "And there followed him a great company of people, and of women, which also bewailed and lamented him.",
+      "metadata": {
+        "reference": "Luke 23:27",
+        "verseKey": "kjv:luke:23:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:23:28",
+      "numberLabel": "28",
+      "text": "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.",
+      "metadata": {
+        "reference": "Luke 23:28",
+        "verseKey": "kjv:luke:23:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:23:29",
+      "numberLabel": "29",
+      "text": "For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck.",
+      "metadata": {
+        "reference": "Luke 23:29",
+        "verseKey": "kjv:luke:23:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:23:30",
+      "numberLabel": "30",
+      "text": "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.",
+      "metadata": {
+        "reference": "Luke 23:30",
+        "verseKey": "kjv:luke:23:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:23:31",
+      "numberLabel": "31",
+      "text": "For if they do these things in a green tree, what shall be done in the dry?",
+      "metadata": {
+        "reference": "Luke 23:31",
+        "verseKey": "kjv:luke:23:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:23:32",
+      "numberLabel": "32",
+      "text": "And there were also two other, malefactors, led with him to be put to death.",
+      "metadata": {
+        "reference": "Luke 23:32",
+        "verseKey": "kjv:luke:23:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:luke:23:33",
+      "numberLabel": "33",
+      "text": "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left.",
+      "metadata": {
+        "reference": "Luke 23:33",
+        "verseKey": "kjv:luke:23:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:luke:23:34",
+      "numberLabel": "34",
+      "text": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.",
+      "metadata": {
+        "reference": "Luke 23:34",
+        "verseKey": "kjv:luke:23:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:luke:23:35",
+      "numberLabel": "35",
+      "text": "And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.",
+      "metadata": {
+        "reference": "Luke 23:35",
+        "verseKey": "kjv:luke:23:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:luke:23:36",
+      "numberLabel": "36",
+      "text": "And the soldiers also mocked him, coming to him, and offering him vinegar,",
+      "metadata": {
+        "reference": "Luke 23:36",
+        "verseKey": "kjv:luke:23:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:luke:23:37",
+      "numberLabel": "37",
+      "text": "And saying, If thou be the king of the Jews, save thyself.",
+      "metadata": {
+        "reference": "Luke 23:37",
+        "verseKey": "kjv:luke:23:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:luke:23:38",
+      "numberLabel": "38",
+      "text": "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS.",
+      "metadata": {
+        "reference": "Luke 23:38",
+        "verseKey": "kjv:luke:23:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:luke:23:39",
+      "numberLabel": "39",
+      "text": "And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.",
+      "metadata": {
+        "reference": "Luke 23:39",
+        "verseKey": "kjv:luke:23:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:luke:23:40",
+      "numberLabel": "40",
+      "text": "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?",
+      "metadata": {
+        "reference": "Luke 23:40",
+        "verseKey": "kjv:luke:23:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:luke:23:41",
+      "numberLabel": "41",
+      "text": "And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.",
+      "metadata": {
+        "reference": "Luke 23:41",
+        "verseKey": "kjv:luke:23:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:luke:23:42",
+      "numberLabel": "42",
+      "text": "And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.",
+      "metadata": {
+        "reference": "Luke 23:42",
+        "verseKey": "kjv:luke:23:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:luke:23:43",
+      "numberLabel": "43",
+      "text": "And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.",
+      "metadata": {
+        "reference": "Luke 23:43",
+        "verseKey": "kjv:luke:23:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:luke:23:44",
+      "numberLabel": "44",
+      "text": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.",
+      "metadata": {
+        "reference": "Luke 23:44",
+        "verseKey": "kjv:luke:23:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:luke:23:45",
+      "numberLabel": "45",
+      "text": "And the sun was darkened, and the veil of the temple was rent in the midst.",
+      "metadata": {
+        "reference": "Luke 23:45",
+        "verseKey": "kjv:luke:23:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:luke:23:46",
+      "numberLabel": "46",
+      "text": "And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.",
+      "metadata": {
+        "reference": "Luke 23:46",
+        "verseKey": "kjv:luke:23:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:luke:23:47",
+      "numberLabel": "47",
+      "text": "Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.",
+      "metadata": {
+        "reference": "Luke 23:47",
+        "verseKey": "kjv:luke:23:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:luke:23:48",
+      "numberLabel": "48",
+      "text": "And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned.",
+      "metadata": {
+        "reference": "Luke 23:48",
+        "verseKey": "kjv:luke:23:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:luke:23:49",
+      "numberLabel": "49",
+      "text": "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.",
+      "metadata": {
+        "reference": "Luke 23:49",
+        "verseKey": "kjv:luke:23:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:luke:23:50",
+      "numberLabel": "50",
+      "text": "And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:",
+      "metadata": {
+        "reference": "Luke 23:50",
+        "verseKey": "kjv:luke:23:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:luke:23:51",
+      "numberLabel": "51",
+      "text": "(The same had not consented to the counsel and deed of them;) he was of Arimathaea, a city of the Jews: who also himself waited for the kingdom of God.",
+      "metadata": {
+        "reference": "Luke 23:51",
+        "verseKey": "kjv:luke:23:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:luke:23:52",
+      "numberLabel": "52",
+      "text": "This man went unto Pilate, and begged the body of Jesus.",
+      "metadata": {
+        "reference": "Luke 23:52",
+        "verseKey": "kjv:luke:23:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:luke:23:53",
+      "numberLabel": "53",
+      "text": "And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid.",
+      "metadata": {
+        "reference": "Luke 23:53",
+        "verseKey": "kjv:luke:23:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:luke:23:54",
+      "numberLabel": "54",
+      "text": "And that day was the preparation, and the sabbath drew on.",
+      "metadata": {
+        "reference": "Luke 23:54",
+        "verseKey": "kjv:luke:23:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:luke:23:55",
+      "numberLabel": "55",
+      "text": "And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.",
+      "metadata": {
+        "reference": "Luke 23:55",
+        "verseKey": "kjv:luke:23:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:luke:23:56",
+      "numberLabel": "56",
+      "text": "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.",
+      "metadata": {
+        "reference": "Luke 23:56",
+        "verseKey": "kjv:luke:23:56"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-049",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 49,
+  "title": "Isaiah 49",
+  "display_title": "Isaiah 49",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 49,
+  "sortOrder": 23049,
+  "verseCount": 26,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:49:1",
+      "numberLabel": "1",
+      "text": "Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.",
+      "metadata": {
+        "reference": "Isaiah 49:1",
+        "verseKey": "kjv:isaiah:49:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:49:2",
+      "numberLabel": "2",
+      "text": "And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;",
+      "metadata": {
+        "reference": "Isaiah 49:2",
+        "verseKey": "kjv:isaiah:49:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:49:3",
+      "numberLabel": "3",
+      "text": "And said unto me, Thou art my servant, O Israel, in whom I will be glorified.",
+      "metadata": {
+        "reference": "Isaiah 49:3",
+        "verseKey": "kjv:isaiah:49:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:49:4",
+      "numberLabel": "4",
+      "text": "Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the LORD, and my work with my God.",
+      "metadata": {
+        "reference": "Isaiah 49:4",
+        "verseKey": "kjv:isaiah:49:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:49:5",
+      "numberLabel": "5",
+      "text": "And now, saith the LORD that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength.",
+      "metadata": {
+        "reference": "Isaiah 49:5",
+        "verseKey": "kjv:isaiah:49:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:49:6",
+      "numberLabel": "6",
+      "text": "And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.",
+      "metadata": {
+        "reference": "Isaiah 49:6",
+        "verseKey": "kjv:isaiah:49:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:49:7",
+      "numberLabel": "7",
+      "text": "Thus saith the LORD, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, and the Holy One of Israel, and he shall choose thee.",
+      "metadata": {
+        "reference": "Isaiah 49:7",
+        "verseKey": "kjv:isaiah:49:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:49:8",
+      "numberLabel": "8",
+      "text": "Thus saith the LORD, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;",
+      "metadata": {
+        "reference": "Isaiah 49:8",
+        "verseKey": "kjv:isaiah:49:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:49:9",
+      "numberLabel": "9",
+      "text": "That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.",
+      "metadata": {
+        "reference": "Isaiah 49:9",
+        "verseKey": "kjv:isaiah:49:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:49:10",
+      "numberLabel": "10",
+      "text": "They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.",
+      "metadata": {
+        "reference": "Isaiah 49:10",
+        "verseKey": "kjv:isaiah:49:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:49:11",
+      "numberLabel": "11",
+      "text": "And I will make all my mountains a way, and my highways shall be exalted.",
+      "metadata": {
+        "reference": "Isaiah 49:11",
+        "verseKey": "kjv:isaiah:49:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:49:12",
+      "numberLabel": "12",
+      "text": "Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.",
+      "metadata": {
+        "reference": "Isaiah 49:12",
+        "verseKey": "kjv:isaiah:49:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:49:13",
+      "numberLabel": "13",
+      "text": "Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.",
+      "metadata": {
+        "reference": "Isaiah 49:13",
+        "verseKey": "kjv:isaiah:49:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:49:14",
+      "numberLabel": "14",
+      "text": "But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me.",
+      "metadata": {
+        "reference": "Isaiah 49:14",
+        "verseKey": "kjv:isaiah:49:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:49:15",
+      "numberLabel": "15",
+      "text": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.",
+      "metadata": {
+        "reference": "Isaiah 49:15",
+        "verseKey": "kjv:isaiah:49:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:49:16",
+      "numberLabel": "16",
+      "text": "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.",
+      "metadata": {
+        "reference": "Isaiah 49:16",
+        "verseKey": "kjv:isaiah:49:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:49:17",
+      "numberLabel": "17",
+      "text": "Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.",
+      "metadata": {
+        "reference": "Isaiah 49:17",
+        "verseKey": "kjv:isaiah:49:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:49:18",
+      "numberLabel": "18",
+      "text": "Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.",
+      "metadata": {
+        "reference": "Isaiah 49:18",
+        "verseKey": "kjv:isaiah:49:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:49:19",
+      "numberLabel": "19",
+      "text": "For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.",
+      "metadata": {
+        "reference": "Isaiah 49:19",
+        "verseKey": "kjv:isaiah:49:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:49:20",
+      "numberLabel": "20",
+      "text": "The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.",
+      "metadata": {
+        "reference": "Isaiah 49:20",
+        "verseKey": "kjv:isaiah:49:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:49:21",
+      "numberLabel": "21",
+      "text": "Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?",
+      "metadata": {
+        "reference": "Isaiah 49:21",
+        "verseKey": "kjv:isaiah:49:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:49:22",
+      "numberLabel": "22",
+      "text": "Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.",
+      "metadata": {
+        "reference": "Isaiah 49:22",
+        "verseKey": "kjv:isaiah:49:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:isaiah:49:23",
+      "numberLabel": "23",
+      "text": "And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me.",
+      "metadata": {
+        "reference": "Isaiah 49:23",
+        "verseKey": "kjv:isaiah:49:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:isaiah:49:24",
+      "numberLabel": "24",
+      "text": "Shall the prey be taken from the mighty, or the lawful captive delivered?",
+      "metadata": {
+        "reference": "Isaiah 49:24",
+        "verseKey": "kjv:isaiah:49:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:isaiah:49:25",
+      "numberLabel": "25",
+      "text": "But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.",
+      "metadata": {
+        "reference": "Isaiah 49:25",
+        "verseKey": "kjv:isaiah:49:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:isaiah:49:26",
+      "numberLabel": "26",
+      "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.",
+      "metadata": {
+        "reference": "Isaiah 49:26",
+        "verseKey": "kjv:isaiah:49:26"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

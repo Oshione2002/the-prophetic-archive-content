@@ -1,0 +1,717 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "John 11",
+  "display_title": "John 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 11,
+  "sortOrder": 43011,
+  "verseCount": 57,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:11:1",
+      "numberLabel": "1",
+      "text": "Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.",
+      "metadata": {
+        "reference": "John 11:1",
+        "verseKey": "kjv:john:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:11:2",
+      "numberLabel": "2",
+      "text": "(It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)",
+      "metadata": {
+        "reference": "John 11:2",
+        "verseKey": "kjv:john:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:11:3",
+      "numberLabel": "3",
+      "text": "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.",
+      "metadata": {
+        "reference": "John 11:3",
+        "verseKey": "kjv:john:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:11:4",
+      "numberLabel": "4",
+      "text": "When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.",
+      "metadata": {
+        "reference": "John 11:4",
+        "verseKey": "kjv:john:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:11:5",
+      "numberLabel": "5",
+      "text": "Now Jesus loved Martha, and her sister, and Lazarus.",
+      "metadata": {
+        "reference": "John 11:5",
+        "verseKey": "kjv:john:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:11:6",
+      "numberLabel": "6",
+      "text": "When he had heard therefore that he was sick, he abode two days still in the same place where he was.",
+      "metadata": {
+        "reference": "John 11:6",
+        "verseKey": "kjv:john:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:11:7",
+      "numberLabel": "7",
+      "text": "Then after that saith he to his disciples, Let us go into Judaea again.",
+      "metadata": {
+        "reference": "John 11:7",
+        "verseKey": "kjv:john:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:11:8",
+      "numberLabel": "8",
+      "text": "His disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?",
+      "metadata": {
+        "reference": "John 11:8",
+        "verseKey": "kjv:john:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:11:9",
+      "numberLabel": "9",
+      "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.",
+      "metadata": {
+        "reference": "John 11:9",
+        "verseKey": "kjv:john:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:11:10",
+      "numberLabel": "10",
+      "text": "But if a man walk in the night, he stumbleth, because there is no light in him.",
+      "metadata": {
+        "reference": "John 11:10",
+        "verseKey": "kjv:john:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:11:11",
+      "numberLabel": "11",
+      "text": "These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.",
+      "metadata": {
+        "reference": "John 11:11",
+        "verseKey": "kjv:john:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:11:12",
+      "numberLabel": "12",
+      "text": "Then said his disciples, Lord, if he sleep, he shall do well.",
+      "metadata": {
+        "reference": "John 11:12",
+        "verseKey": "kjv:john:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:11:13",
+      "numberLabel": "13",
+      "text": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.",
+      "metadata": {
+        "reference": "John 11:13",
+        "verseKey": "kjv:john:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:11:14",
+      "numberLabel": "14",
+      "text": "Then said Jesus unto them plainly, Lazarus is dead.",
+      "metadata": {
+        "reference": "John 11:14",
+        "verseKey": "kjv:john:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:11:15",
+      "numberLabel": "15",
+      "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.",
+      "metadata": {
+        "reference": "John 11:15",
+        "verseKey": "kjv:john:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:11:16",
+      "numberLabel": "16",
+      "text": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.",
+      "metadata": {
+        "reference": "John 11:16",
+        "verseKey": "kjv:john:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:11:17",
+      "numberLabel": "17",
+      "text": "Then when Jesus came, he found that he had lain in the grave four days already.",
+      "metadata": {
+        "reference": "John 11:17",
+        "verseKey": "kjv:john:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:11:18",
+      "numberLabel": "18",
+      "text": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:",
+      "metadata": {
+        "reference": "John 11:18",
+        "verseKey": "kjv:john:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:11:19",
+      "numberLabel": "19",
+      "text": "And many of the Jews came to Martha and Mary, to comfort them concerning their brother.",
+      "metadata": {
+        "reference": "John 11:19",
+        "verseKey": "kjv:john:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:11:20",
+      "numberLabel": "20",
+      "text": "Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.",
+      "metadata": {
+        "reference": "John 11:20",
+        "verseKey": "kjv:john:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:11:21",
+      "numberLabel": "21",
+      "text": "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.",
+      "metadata": {
+        "reference": "John 11:21",
+        "verseKey": "kjv:john:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:11:22",
+      "numberLabel": "22",
+      "text": "But I know, that even now, whatsoever thou wilt ask of God, God will give it thee.",
+      "metadata": {
+        "reference": "John 11:22",
+        "verseKey": "kjv:john:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:11:23",
+      "numberLabel": "23",
+      "text": "Jesus saith unto her, Thy brother shall rise again.",
+      "metadata": {
+        "reference": "John 11:23",
+        "verseKey": "kjv:john:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:11:24",
+      "numberLabel": "24",
+      "text": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day.",
+      "metadata": {
+        "reference": "John 11:24",
+        "verseKey": "kjv:john:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:11:25",
+      "numberLabel": "25",
+      "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+      "metadata": {
+        "reference": "John 11:25",
+        "verseKey": "kjv:john:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:11:26",
+      "numberLabel": "26",
+      "text": "And whosoever liveth and believeth in me shall never die. Believest thou this?",
+      "metadata": {
+        "reference": "John 11:26",
+        "verseKey": "kjv:john:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:11:27",
+      "numberLabel": "27",
+      "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+      "metadata": {
+        "reference": "John 11:27",
+        "verseKey": "kjv:john:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:11:28",
+      "numberLabel": "28",
+      "text": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.",
+      "metadata": {
+        "reference": "John 11:28",
+        "verseKey": "kjv:john:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:11:29",
+      "numberLabel": "29",
+      "text": "As soon as she heard that, she arose quickly, and came unto him.",
+      "metadata": {
+        "reference": "John 11:29",
+        "verseKey": "kjv:john:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:11:30",
+      "numberLabel": "30",
+      "text": "Now Jesus was not yet come into the town, but was in that place where Martha met him.",
+      "metadata": {
+        "reference": "John 11:30",
+        "verseKey": "kjv:john:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:11:31",
+      "numberLabel": "31",
+      "text": "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.",
+      "metadata": {
+        "reference": "John 11:31",
+        "verseKey": "kjv:john:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:john:11:32",
+      "numberLabel": "32",
+      "text": "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.",
+      "metadata": {
+        "reference": "John 11:32",
+        "verseKey": "kjv:john:11:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:john:11:33",
+      "numberLabel": "33",
+      "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,",
+      "metadata": {
+        "reference": "John 11:33",
+        "verseKey": "kjv:john:11:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:john:11:34",
+      "numberLabel": "34",
+      "text": "And said, Where have ye laid him? They said unto him, Lord, come and see.",
+      "metadata": {
+        "reference": "John 11:34",
+        "verseKey": "kjv:john:11:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:john:11:35",
+      "numberLabel": "35",
+      "text": "Jesus wept.",
+      "metadata": {
+        "reference": "John 11:35",
+        "verseKey": "kjv:john:11:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:john:11:36",
+      "numberLabel": "36",
+      "text": "Then said the Jews, Behold how he loved him!",
+      "metadata": {
+        "reference": "John 11:36",
+        "verseKey": "kjv:john:11:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:john:11:37",
+      "numberLabel": "37",
+      "text": "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?",
+      "metadata": {
+        "reference": "John 11:37",
+        "verseKey": "kjv:john:11:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:john:11:38",
+      "numberLabel": "38",
+      "text": "Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.",
+      "metadata": {
+        "reference": "John 11:38",
+        "verseKey": "kjv:john:11:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:john:11:39",
+      "numberLabel": "39",
+      "text": "Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.",
+      "metadata": {
+        "reference": "John 11:39",
+        "verseKey": "kjv:john:11:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:john:11:40",
+      "numberLabel": "40",
+      "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?",
+      "metadata": {
+        "reference": "John 11:40",
+        "verseKey": "kjv:john:11:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:john:11:41",
+      "numberLabel": "41",
+      "text": "Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.",
+      "metadata": {
+        "reference": "John 11:41",
+        "verseKey": "kjv:john:11:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:john:11:42",
+      "numberLabel": "42",
+      "text": "And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.",
+      "metadata": {
+        "reference": "John 11:42",
+        "verseKey": "kjv:john:11:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:john:11:43",
+      "numberLabel": "43",
+      "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+      "metadata": {
+        "reference": "John 11:43",
+        "verseKey": "kjv:john:11:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:john:11:44",
+      "numberLabel": "44",
+      "text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.",
+      "metadata": {
+        "reference": "John 11:44",
+        "verseKey": "kjv:john:11:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:john:11:45",
+      "numberLabel": "45",
+      "text": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.",
+      "metadata": {
+        "reference": "John 11:45",
+        "verseKey": "kjv:john:11:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:john:11:46",
+      "numberLabel": "46",
+      "text": "But some of them went their ways to the Pharisees, and told them what things Jesus had done.",
+      "metadata": {
+        "reference": "John 11:46",
+        "verseKey": "kjv:john:11:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:john:11:47",
+      "numberLabel": "47",
+      "text": "Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.",
+      "metadata": {
+        "reference": "John 11:47",
+        "verseKey": "kjv:john:11:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:john:11:48",
+      "numberLabel": "48",
+      "text": "If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.",
+      "metadata": {
+        "reference": "John 11:48",
+        "verseKey": "kjv:john:11:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:john:11:49",
+      "numberLabel": "49",
+      "text": "And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,",
+      "metadata": {
+        "reference": "John 11:49",
+        "verseKey": "kjv:john:11:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:john:11:50",
+      "numberLabel": "50",
+      "text": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.",
+      "metadata": {
+        "reference": "John 11:50",
+        "verseKey": "kjv:john:11:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:john:11:51",
+      "numberLabel": "51",
+      "text": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;",
+      "metadata": {
+        "reference": "John 11:51",
+        "verseKey": "kjv:john:11:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:john:11:52",
+      "numberLabel": "52",
+      "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.",
+      "metadata": {
+        "reference": "John 11:52",
+        "verseKey": "kjv:john:11:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:john:11:53",
+      "numberLabel": "53",
+      "text": "Then from that day forth they took counsel together for to put him to death.",
+      "metadata": {
+        "reference": "John 11:53",
+        "verseKey": "kjv:john:11:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:john:11:54",
+      "numberLabel": "54",
+      "text": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
+      "metadata": {
+        "reference": "John 11:54",
+        "verseKey": "kjv:john:11:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:john:11:55",
+      "numberLabel": "55",
+      "text": "And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.",
+      "metadata": {
+        "reference": "John 11:55",
+        "verseKey": "kjv:john:11:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:john:11:56",
+      "numberLabel": "56",
+      "text": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?",
+      "metadata": {
+        "reference": "John 11:56",
+        "verseKey": "kjv:john:11:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:john:11:57",
+      "numberLabel": "57",
+      "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him.",
+      "metadata": {
+        "reference": "John 11:57",
+        "verseKey": "kjv:john:11:57"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Isaiah 10",
+  "display_title": "Isaiah 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 23010,
+  "verseCount": 34,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:10:1",
+      "numberLabel": "1",
+      "text": "Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;",
+      "metadata": {
+        "reference": "Isaiah 10:1",
+        "verseKey": "kjv:isaiah:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:10:2",
+      "numberLabel": "2",
+      "text": "To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless!",
+      "metadata": {
+        "reference": "Isaiah 10:2",
+        "verseKey": "kjv:isaiah:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:10:3",
+      "numberLabel": "3",
+      "text": "And what will ye do in the day of visitation, and in the desolation which shall come from far? to whom will ye flee for help? and where will ye leave your glory?",
+      "metadata": {
+        "reference": "Isaiah 10:3",
+        "verseKey": "kjv:isaiah:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:10:4",
+      "numberLabel": "4",
+      "text": "Without me they shall bow down under the prisoners, and they shall fall under the slain. For all this his anger is not turned away, but his hand is stretched out still.",
+      "metadata": {
+        "reference": "Isaiah 10:4",
+        "verseKey": "kjv:isaiah:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:10:5",
+      "numberLabel": "5",
+      "text": "O Assyrian, the rod of mine anger, and the staff in their hand is mine indignation.",
+      "metadata": {
+        "reference": "Isaiah 10:5",
+        "verseKey": "kjv:isaiah:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:10:6",
+      "numberLabel": "6",
+      "text": "I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.",
+      "metadata": {
+        "reference": "Isaiah 10:6",
+        "verseKey": "kjv:isaiah:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:10:7",
+      "numberLabel": "7",
+      "text": "Howbeit he meaneth not so, neither doth his heart think so; but it is in his heart to destroy and cut off nations not a few.",
+      "metadata": {
+        "reference": "Isaiah 10:7",
+        "verseKey": "kjv:isaiah:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:10:8",
+      "numberLabel": "8",
+      "text": "For he saith, Are not my princes altogether kings?",
+      "metadata": {
+        "reference": "Isaiah 10:8",
+        "verseKey": "kjv:isaiah:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:10:9",
+      "numberLabel": "9",
+      "text": "Is not Calno as Carchemish? is not Hamath as Arpad? is not Samaria as Damascus?",
+      "metadata": {
+        "reference": "Isaiah 10:9",
+        "verseKey": "kjv:isaiah:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:10:10",
+      "numberLabel": "10",
+      "text": "As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;",
+      "metadata": {
+        "reference": "Isaiah 10:10",
+        "verseKey": "kjv:isaiah:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:10:11",
+      "numberLabel": "11",
+      "text": "Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and her idols?",
+      "metadata": {
+        "reference": "Isaiah 10:11",
+        "verseKey": "kjv:isaiah:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:10:12",
+      "numberLabel": "12",
+      "text": "Wherefore it shall come to pass, that when the Lord hath performed his whole work upon mount Zion and on Jerusalem, I will punish the fruit of the stout heart of the king of Assyria, and the glory of his high looks.",
+      "metadata": {
+        "reference": "Isaiah 10:12",
+        "verseKey": "kjv:isaiah:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:10:13",
+      "numberLabel": "13",
+      "text": "For he saith, By the strength of my hand I have done it, and by my wisdom; for I am prudent: and I have removed the bounds of the people, and have robbed their treasures, and I have put down the inhabitants like a valiant man:",
+      "metadata": {
+        "reference": "Isaiah 10:13",
+        "verseKey": "kjv:isaiah:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:10:14",
+      "numberLabel": "14",
+      "text": "And my hand hath found as a nest the riches of the people: and as one gathereth eggs that are left, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped.",
+      "metadata": {
+        "reference": "Isaiah 10:14",
+        "verseKey": "kjv:isaiah:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:10:15",
+      "numberLabel": "15",
+      "text": "Shall the axe boast itself against him that heweth therewith? or shall the saw magnify itself against him that shaketh it? as if the rod should shake itself against them that lift it up, or as if the staff should lift up itself, as if it were no wood.",
+      "metadata": {
+        "reference": "Isaiah 10:15",
+        "verseKey": "kjv:isaiah:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:10:16",
+      "numberLabel": "16",
+      "text": "Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire.",
+      "metadata": {
+        "reference": "Isaiah 10:16",
+        "verseKey": "kjv:isaiah:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:10:17",
+      "numberLabel": "17",
+      "text": "And the light of Israel shall be for a fire, and his Holy One for a flame: and it shall burn and devour his thorns and his briers in one day;",
+      "metadata": {
+        "reference": "Isaiah 10:17",
+        "verseKey": "kjv:isaiah:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:10:18",
+      "numberLabel": "18",
+      "text": "And shall consume the glory of his forest, and of his fruitful field, both soul and body: and they shall be as when a standard-bearer fainteth.",
+      "metadata": {
+        "reference": "Isaiah 10:18",
+        "verseKey": "kjv:isaiah:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:10:19",
+      "numberLabel": "19",
+      "text": "And the rest of the trees of his forest shall be few, that a child may write them.",
+      "metadata": {
+        "reference": "Isaiah 10:19",
+        "verseKey": "kjv:isaiah:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:10:20",
+      "numberLabel": "20",
+      "text": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the LORD, the Holy One of Israel, in truth.",
+      "metadata": {
+        "reference": "Isaiah 10:20",
+        "verseKey": "kjv:isaiah:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:10:21",
+      "numberLabel": "21",
+      "text": "The remnant shall return, even the remnant of Jacob, unto the mighty God.",
+      "metadata": {
+        "reference": "Isaiah 10:21",
+        "verseKey": "kjv:isaiah:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:10:22",
+      "numberLabel": "22",
+      "text": "For though thy people Israel be as the sand of the sea, yet a remnant of them shall return: the consumption decreed shall overflow with righteousness.",
+      "metadata": {
+        "reference": "Isaiah 10:22",
+        "verseKey": "kjv:isaiah:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:isaiah:10:23",
+      "numberLabel": "23",
+      "text": "For the Lord GOD of hosts shall make a consumption, even determined, in the midst of all the land.",
+      "metadata": {
+        "reference": "Isaiah 10:23",
+        "verseKey": "kjv:isaiah:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:isaiah:10:24",
+      "numberLabel": "24",
+      "text": "Therefore thus saith the Lord GOD of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.",
+      "metadata": {
+        "reference": "Isaiah 10:24",
+        "verseKey": "kjv:isaiah:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:isaiah:10:25",
+      "numberLabel": "25",
+      "text": "For yet a very little while, and the indignation shall cease, and mine anger in their destruction.",
+      "metadata": {
+        "reference": "Isaiah 10:25",
+        "verseKey": "kjv:isaiah:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:isaiah:10:26",
+      "numberLabel": "26",
+      "text": "And the LORD of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.",
+      "metadata": {
+        "reference": "Isaiah 10:26",
+        "verseKey": "kjv:isaiah:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:isaiah:10:27",
+      "numberLabel": "27",
+      "text": "And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.",
+      "metadata": {
+        "reference": "Isaiah 10:27",
+        "verseKey": "kjv:isaiah:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:isaiah:10:28",
+      "numberLabel": "28",
+      "text": "He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages:",
+      "metadata": {
+        "reference": "Isaiah 10:28",
+        "verseKey": "kjv:isaiah:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:isaiah:10:29",
+      "numberLabel": "29",
+      "text": "They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.",
+      "metadata": {
+        "reference": "Isaiah 10:29",
+        "verseKey": "kjv:isaiah:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:isaiah:10:30",
+      "numberLabel": "30",
+      "text": "Lift up thy voice, O daughter of Gallim: cause it to be heard unto Laish, O poor Anathoth.",
+      "metadata": {
+        "reference": "Isaiah 10:30",
+        "verseKey": "kjv:isaiah:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:isaiah:10:31",
+      "numberLabel": "31",
+      "text": "Madmenah is removed; the inhabitants of Gebim gather themselves to flee.",
+      "metadata": {
+        "reference": "Isaiah 10:31",
+        "verseKey": "kjv:isaiah:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:isaiah:10:32",
+      "numberLabel": "32",
+      "text": "As yet shall he remain at Nob that day: he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem.",
+      "metadata": {
+        "reference": "Isaiah 10:32",
+        "verseKey": "kjv:isaiah:10:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:isaiah:10:33",
+      "numberLabel": "33",
+      "text": "Behold, the Lord, the LORD of hosts, shall lop the bough with terror: and the high ones of stature shall be hewn down, and the haughty shall be humbled.",
+      "metadata": {
+        "reference": "Isaiah 10:33",
+        "verseKey": "kjv:isaiah:10:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:isaiah:10:34",
+      "numberLabel": "34",
+      "text": "And he shall cut down the thickets of the forest with iron, and Lebanon shall fall by a mighty one.",
+      "metadata": {
+        "reference": "Isaiah 10:34",
+        "verseKey": "kjv:isaiah:10:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

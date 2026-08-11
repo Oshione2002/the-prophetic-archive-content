@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Deuteronomy 19",
+  "display_title": "Deuteronomy 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 5019,
+  "verseCount": 21,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:19:1",
+      "numberLabel": "1",
+      "text": "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;",
+      "metadata": {
+        "reference": "Deuteronomy 19:1",
+        "verseKey": "kjv:deuteronomy:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:19:2",
+      "numberLabel": "2",
+      "text": "Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it.",
+      "metadata": {
+        "reference": "Deuteronomy 19:2",
+        "verseKey": "kjv:deuteronomy:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:19:3",
+      "numberLabel": "3",
+      "text": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither.",
+      "metadata": {
+        "reference": "Deuteronomy 19:3",
+        "verseKey": "kjv:deuteronomy:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:19:4",
+      "numberLabel": "4",
+      "text": "And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;",
+      "metadata": {
+        "reference": "Deuteronomy 19:4",
+        "verseKey": "kjv:deuteronomy:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:19:5",
+      "numberLabel": "5",
+      "text": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:",
+      "metadata": {
+        "reference": "Deuteronomy 19:5",
+        "verseKey": "kjv:deuteronomy:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:19:6",
+      "numberLabel": "6",
+      "text": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past.",
+      "metadata": {
+        "reference": "Deuteronomy 19:6",
+        "verseKey": "kjv:deuteronomy:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:19:7",
+      "numberLabel": "7",
+      "text": "Wherefore I command thee, saying, Thou shalt separate three cities for thee.",
+      "metadata": {
+        "reference": "Deuteronomy 19:7",
+        "verseKey": "kjv:deuteronomy:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:19:8",
+      "numberLabel": "8",
+      "text": "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;",
+      "metadata": {
+        "reference": "Deuteronomy 19:8",
+        "verseKey": "kjv:deuteronomy:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:19:9",
+      "numberLabel": "9",
+      "text": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:",
+      "metadata": {
+        "reference": "Deuteronomy 19:9",
+        "verseKey": "kjv:deuteronomy:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:19:10",
+      "numberLabel": "10",
+      "text": "That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee.",
+      "metadata": {
+        "reference": "Deuteronomy 19:10",
+        "verseKey": "kjv:deuteronomy:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:19:11",
+      "numberLabel": "11",
+      "text": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:",
+      "metadata": {
+        "reference": "Deuteronomy 19:11",
+        "verseKey": "kjv:deuteronomy:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:19:12",
+      "numberLabel": "12",
+      "text": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.",
+      "metadata": {
+        "reference": "Deuteronomy 19:12",
+        "verseKey": "kjv:deuteronomy:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:19:13",
+      "numberLabel": "13",
+      "text": "Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.",
+      "metadata": {
+        "reference": "Deuteronomy 19:13",
+        "verseKey": "kjv:deuteronomy:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:19:14",
+      "numberLabel": "14",
+      "text": "Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it.",
+      "metadata": {
+        "reference": "Deuteronomy 19:14",
+        "verseKey": "kjv:deuteronomy:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:19:15",
+      "numberLabel": "15",
+      "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.",
+      "metadata": {
+        "reference": "Deuteronomy 19:15",
+        "verseKey": "kjv:deuteronomy:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:19:16",
+      "numberLabel": "16",
+      "text": "If a false witness rise up against any man to testify against him that which is wrong;",
+      "metadata": {
+        "reference": "Deuteronomy 19:16",
+        "verseKey": "kjv:deuteronomy:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:19:17",
+      "numberLabel": "17",
+      "text": "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;",
+      "metadata": {
+        "reference": "Deuteronomy 19:17",
+        "verseKey": "kjv:deuteronomy:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:19:18",
+      "numberLabel": "18",
+      "text": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;",
+      "metadata": {
+        "reference": "Deuteronomy 19:18",
+        "verseKey": "kjv:deuteronomy:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:19:19",
+      "numberLabel": "19",
+      "text": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.",
+      "metadata": {
+        "reference": "Deuteronomy 19:19",
+        "verseKey": "kjv:deuteronomy:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:19:20",
+      "numberLabel": "20",
+      "text": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.",
+      "metadata": {
+        "reference": "Deuteronomy 19:20",
+        "verseKey": "kjv:deuteronomy:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:19:21",
+      "numberLabel": "21",
+      "text": "And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+      "metadata": {
+        "reference": "Deuteronomy 19:21",
+        "verseKey": "kjv:deuteronomy:19:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

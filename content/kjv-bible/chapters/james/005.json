@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-james-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "James 5",
+  "display_title": "James 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "james",
+  "book": "James",
+  "bookName": "James",
+  "bookOrder": 59,
+  "testament": "new",
+  "chapter": 5,
+  "sortOrder": 59005,
+  "verseCount": 20,
+  "aliases": [
+    "Jas",
+    "Jam",
+    "Jm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:james:5:1",
+      "numberLabel": "1",
+      "text": "Go to now, ye rich men, weep and howl for your miseries that shall come upon you.",
+      "metadata": {
+        "reference": "James 5:1",
+        "verseKey": "kjv:james:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:james:5:2",
+      "numberLabel": "2",
+      "text": "Your riches are corrupted, and your garments are motheaten.",
+      "metadata": {
+        "reference": "James 5:2",
+        "verseKey": "kjv:james:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:james:5:3",
+      "numberLabel": "3",
+      "text": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.",
+      "metadata": {
+        "reference": "James 5:3",
+        "verseKey": "kjv:james:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:james:5:4",
+      "numberLabel": "4",
+      "text": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.",
+      "metadata": {
+        "reference": "James 5:4",
+        "verseKey": "kjv:james:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:james:5:5",
+      "numberLabel": "5",
+      "text": "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.",
+      "metadata": {
+        "reference": "James 5:5",
+        "verseKey": "kjv:james:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:james:5:6",
+      "numberLabel": "6",
+      "text": "Ye have condemned and killed the just; and he doth not resist you.",
+      "metadata": {
+        "reference": "James 5:6",
+        "verseKey": "kjv:james:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:james:5:7",
+      "numberLabel": "7",
+      "text": "Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.",
+      "metadata": {
+        "reference": "James 5:7",
+        "verseKey": "kjv:james:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:james:5:8",
+      "numberLabel": "8",
+      "text": "Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.",
+      "metadata": {
+        "reference": "James 5:8",
+        "verseKey": "kjv:james:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:james:5:9",
+      "numberLabel": "9",
+      "text": "Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door.",
+      "metadata": {
+        "reference": "James 5:9",
+        "verseKey": "kjv:james:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:james:5:10",
+      "numberLabel": "10",
+      "text": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.",
+      "metadata": {
+        "reference": "James 5:10",
+        "verseKey": "kjv:james:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:james:5:11",
+      "numberLabel": "11",
+      "text": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.",
+      "metadata": {
+        "reference": "James 5:11",
+        "verseKey": "kjv:james:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:james:5:12",
+      "numberLabel": "12",
+      "text": "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.",
+      "metadata": {
+        "reference": "James 5:12",
+        "verseKey": "kjv:james:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:james:5:13",
+      "numberLabel": "13",
+      "text": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms.",
+      "metadata": {
+        "reference": "James 5:13",
+        "verseKey": "kjv:james:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:james:5:14",
+      "numberLabel": "14",
+      "text": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:",
+      "metadata": {
+        "reference": "James 5:14",
+        "verseKey": "kjv:james:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:james:5:15",
+      "numberLabel": "15",
+      "text": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.",
+      "metadata": {
+        "reference": "James 5:15",
+        "verseKey": "kjv:james:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:james:5:16",
+      "numberLabel": "16",
+      "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
+      "metadata": {
+        "reference": "James 5:16",
+        "verseKey": "kjv:james:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:james:5:17",
+      "numberLabel": "17",
+      "text": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.",
+      "metadata": {
+        "reference": "James 5:17",
+        "verseKey": "kjv:james:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:james:5:18",
+      "numberLabel": "18",
+      "text": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.",
+      "metadata": {
+        "reference": "James 5:18",
+        "verseKey": "kjv:james:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:james:5:19",
+      "numberLabel": "19",
+      "text": "Brethren, if any of you do err from the truth, and one convert him;",
+      "metadata": {
+        "reference": "James 5:19",
+        "verseKey": "kjv:james:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:james:5:20",
+      "numberLabel": "20",
+      "text": "Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.",
+      "metadata": {
+        "reference": "James 5:20",
+        "verseKey": "kjv:james:5:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "James.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/James.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

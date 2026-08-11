@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-059",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 59,
+  "title": "Isaiah 59",
+  "display_title": "Isaiah 59",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 59,
+  "sortOrder": 23059,
+  "verseCount": 21,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:59:1",
+      "numberLabel": "1",
+      "text": "Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:",
+      "metadata": {
+        "reference": "Isaiah 59:1",
+        "verseKey": "kjv:isaiah:59:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:59:2",
+      "numberLabel": "2",
+      "text": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.",
+      "metadata": {
+        "reference": "Isaiah 59:2",
+        "verseKey": "kjv:isaiah:59:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:59:3",
+      "numberLabel": "3",
+      "text": "For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.",
+      "metadata": {
+        "reference": "Isaiah 59:3",
+        "verseKey": "kjv:isaiah:59:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:59:4",
+      "numberLabel": "4",
+      "text": "None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.",
+      "metadata": {
+        "reference": "Isaiah 59:4",
+        "verseKey": "kjv:isaiah:59:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:59:5",
+      "numberLabel": "5",
+      "text": "They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.",
+      "metadata": {
+        "reference": "Isaiah 59:5",
+        "verseKey": "kjv:isaiah:59:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:59:6",
+      "numberLabel": "6",
+      "text": "Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.",
+      "metadata": {
+        "reference": "Isaiah 59:6",
+        "verseKey": "kjv:isaiah:59:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:59:7",
+      "numberLabel": "7",
+      "text": "Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths.",
+      "metadata": {
+        "reference": "Isaiah 59:7",
+        "verseKey": "kjv:isaiah:59:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:59:8",
+      "numberLabel": "8",
+      "text": "The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.",
+      "metadata": {
+        "reference": "Isaiah 59:8",
+        "verseKey": "kjv:isaiah:59:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:59:9",
+      "numberLabel": "9",
+      "text": "Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness.",
+      "metadata": {
+        "reference": "Isaiah 59:9",
+        "verseKey": "kjv:isaiah:59:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:59:10",
+      "numberLabel": "10",
+      "text": "We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noon day as in the night; we are in desolate places as dead men.",
+      "metadata": {
+        "reference": "Isaiah 59:10",
+        "verseKey": "kjv:isaiah:59:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:59:11",
+      "numberLabel": "11",
+      "text": "We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.",
+      "metadata": {
+        "reference": "Isaiah 59:11",
+        "verseKey": "kjv:isaiah:59:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:59:12",
+      "numberLabel": "12",
+      "text": "For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;",
+      "metadata": {
+        "reference": "Isaiah 59:12",
+        "verseKey": "kjv:isaiah:59:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:59:13",
+      "numberLabel": "13",
+      "text": "In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.",
+      "metadata": {
+        "reference": "Isaiah 59:13",
+        "verseKey": "kjv:isaiah:59:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:59:14",
+      "numberLabel": "14",
+      "text": "And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.",
+      "metadata": {
+        "reference": "Isaiah 59:14",
+        "verseKey": "kjv:isaiah:59:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:59:15",
+      "numberLabel": "15",
+      "text": "Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the LORD saw it, and it displeased him that there was no judgment.",
+      "metadata": {
+        "reference": "Isaiah 59:15",
+        "verseKey": "kjv:isaiah:59:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:59:16",
+      "numberLabel": "16",
+      "text": "And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.",
+      "metadata": {
+        "reference": "Isaiah 59:16",
+        "verseKey": "kjv:isaiah:59:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:59:17",
+      "numberLabel": "17",
+      "text": "For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloak.",
+      "metadata": {
+        "reference": "Isaiah 59:17",
+        "verseKey": "kjv:isaiah:59:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:59:18",
+      "numberLabel": "18",
+      "text": "According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.",
+      "metadata": {
+        "reference": "Isaiah 59:18",
+        "verseKey": "kjv:isaiah:59:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:59:19",
+      "numberLabel": "19",
+      "text": "So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him.",
+      "metadata": {
+        "reference": "Isaiah 59:19",
+        "verseKey": "kjv:isaiah:59:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:59:20",
+      "numberLabel": "20",
+      "text": "And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the LORD.",
+      "metadata": {
+        "reference": "Isaiah 59:20",
+        "verseKey": "kjv:isaiah:59:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:59:21",
+      "numberLabel": "21",
+      "text": "As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever.",
+      "metadata": {
+        "reference": "Isaiah 59:21",
+        "verseKey": "kjv:isaiah:59:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-chronicles-023",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 23,
+  "title": "1 Chronicles 23",
+  "display_title": "1 Chronicles 23",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-chronicles",
+  "book": "1 Chronicles",
+  "bookName": "1 Chronicles",
+  "bookOrder": 13,
+  "testament": "old",
+  "chapter": 23,
+  "sortOrder": 13023,
+  "verseCount": 32,
+  "aliases": [
+    "1 Chr",
+    "1Chr",
+    "1 Ch",
+    "1Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-chronicles:23:1",
+      "numberLabel": "1",
+      "text": "So when David was old and full of days, he made Solomon his son king over Israel.",
+      "metadata": {
+        "reference": "1 Chronicles 23:1",
+        "verseKey": "kjv:1-chronicles:23:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-chronicles:23:2",
+      "numberLabel": "2",
+      "text": "And he gathered together all the princes of Israel, with the priests and the Levites.",
+      "metadata": {
+        "reference": "1 Chronicles 23:2",
+        "verseKey": "kjv:1-chronicles:23:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-chronicles:23:3",
+      "numberLabel": "3",
+      "text": "Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 23:3",
+        "verseKey": "kjv:1-chronicles:23:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-chronicles:23:4",
+      "numberLabel": "4",
+      "text": "Of which, twenty and four thousand were to set forward the work of the house of the LORD; and six thousand were officers and judges:",
+      "metadata": {
+        "reference": "1 Chronicles 23:4",
+        "verseKey": "kjv:1-chronicles:23:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-chronicles:23:5",
+      "numberLabel": "5",
+      "text": "Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith.",
+      "metadata": {
+        "reference": "1 Chronicles 23:5",
+        "verseKey": "kjv:1-chronicles:23:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-chronicles:23:6",
+      "numberLabel": "6",
+      "text": "And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari.",
+      "metadata": {
+        "reference": "1 Chronicles 23:6",
+        "verseKey": "kjv:1-chronicles:23:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-chronicles:23:7",
+      "numberLabel": "7",
+      "text": "Of the Gershonites were, Laadan, and Shimei.",
+      "metadata": {
+        "reference": "1 Chronicles 23:7",
+        "verseKey": "kjv:1-chronicles:23:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-chronicles:23:8",
+      "numberLabel": "8",
+      "text": "The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.",
+      "metadata": {
+        "reference": "1 Chronicles 23:8",
+        "verseKey": "kjv:1-chronicles:23:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-chronicles:23:9",
+      "numberLabel": "9",
+      "text": "The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.",
+      "metadata": {
+        "reference": "1 Chronicles 23:9",
+        "verseKey": "kjv:1-chronicles:23:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-chronicles:23:10",
+      "numberLabel": "10",
+      "text": "And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei.",
+      "metadata": {
+        "reference": "1 Chronicles 23:10",
+        "verseKey": "kjv:1-chronicles:23:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-chronicles:23:11",
+      "numberLabel": "11",
+      "text": "And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father’s house.",
+      "metadata": {
+        "reference": "1 Chronicles 23:11",
+        "verseKey": "kjv:1-chronicles:23:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-chronicles:23:12",
+      "numberLabel": "12",
+      "text": "The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.",
+      "metadata": {
+        "reference": "1 Chronicles 23:12",
+        "verseKey": "kjv:1-chronicles:23:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-chronicles:23:13",
+      "numberLabel": "13",
+      "text": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever.",
+      "metadata": {
+        "reference": "1 Chronicles 23:13",
+        "verseKey": "kjv:1-chronicles:23:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-chronicles:23:14",
+      "numberLabel": "14",
+      "text": "Now concerning Moses the man of God, his sons were named of the tribe of Levi.",
+      "metadata": {
+        "reference": "1 Chronicles 23:14",
+        "verseKey": "kjv:1-chronicles:23:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-chronicles:23:15",
+      "numberLabel": "15",
+      "text": "The sons of Moses were, Gershom, and Eliezer.",
+      "metadata": {
+        "reference": "1 Chronicles 23:15",
+        "verseKey": "kjv:1-chronicles:23:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-chronicles:23:16",
+      "numberLabel": "16",
+      "text": "Of the sons of Gershom, Shebuel was the chief.",
+      "metadata": {
+        "reference": "1 Chronicles 23:16",
+        "verseKey": "kjv:1-chronicles:23:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-chronicles:23:17",
+      "numberLabel": "17",
+      "text": "And the sons of Eliezer were, Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.",
+      "metadata": {
+        "reference": "1 Chronicles 23:17",
+        "verseKey": "kjv:1-chronicles:23:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-chronicles:23:18",
+      "numberLabel": "18",
+      "text": "Of the sons of Izhar; Shelomith the chief.",
+      "metadata": {
+        "reference": "1 Chronicles 23:18",
+        "verseKey": "kjv:1-chronicles:23:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-chronicles:23:19",
+      "numberLabel": "19",
+      "text": "Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+      "metadata": {
+        "reference": "1 Chronicles 23:19",
+        "verseKey": "kjv:1-chronicles:23:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-chronicles:23:20",
+      "numberLabel": "20",
+      "text": "Of the sons of Uzziel; Micah the first, and Jesiah the second.",
+      "metadata": {
+        "reference": "1 Chronicles 23:20",
+        "verseKey": "kjv:1-chronicles:23:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-chronicles:23:21",
+      "numberLabel": "21",
+      "text": "The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.",
+      "metadata": {
+        "reference": "1 Chronicles 23:21",
+        "verseKey": "kjv:1-chronicles:23:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-chronicles:23:22",
+      "numberLabel": "22",
+      "text": "And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.",
+      "metadata": {
+        "reference": "1 Chronicles 23:22",
+        "verseKey": "kjv:1-chronicles:23:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-chronicles:23:23",
+      "numberLabel": "23",
+      "text": "The sons of Mushi; Mahli, and Eder, and Jeremoth, three.",
+      "metadata": {
+        "reference": "1 Chronicles 23:23",
+        "verseKey": "kjv:1-chronicles:23:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-chronicles:23:24",
+      "numberLabel": "24",
+      "text": "These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward.",
+      "metadata": {
+        "reference": "1 Chronicles 23:24",
+        "verseKey": "kjv:1-chronicles:23:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-chronicles:23:25",
+      "numberLabel": "25",
+      "text": "For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:",
+      "metadata": {
+        "reference": "1 Chronicles 23:25",
+        "verseKey": "kjv:1-chronicles:23:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-chronicles:23:26",
+      "numberLabel": "26",
+      "text": "And also unto the Levites; they shall no more carry the tabernacle, nor any vessels of it for the service thereof.",
+      "metadata": {
+        "reference": "1 Chronicles 23:26",
+        "verseKey": "kjv:1-chronicles:23:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-chronicles:23:27",
+      "numberLabel": "27",
+      "text": "For by the last words of David the Levites were numbered from twenty years old and above:",
+      "metadata": {
+        "reference": "1 Chronicles 23:27",
+        "verseKey": "kjv:1-chronicles:23:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-chronicles:23:28",
+      "numberLabel": "28",
+      "text": "Because their office was to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;",
+      "metadata": {
+        "reference": "1 Chronicles 23:28",
+        "verseKey": "kjv:1-chronicles:23:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-chronicles:23:29",
+      "numberLabel": "29",
+      "text": "Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;",
+      "metadata": {
+        "reference": "1 Chronicles 23:29",
+        "verseKey": "kjv:1-chronicles:23:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-chronicles:23:30",
+      "numberLabel": "30",
+      "text": "And to stand every morning to thank and praise the LORD, and likewise at even;",
+      "metadata": {
+        "reference": "1 Chronicles 23:30",
+        "verseKey": "kjv:1-chronicles:23:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-chronicles:23:31",
+      "numberLabel": "31",
+      "text": "And to offer all burnt sacrifices unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD:",
+      "metadata": {
+        "reference": "1 Chronicles 23:31",
+        "verseKey": "kjv:1-chronicles:23:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-chronicles:23:32",
+      "numberLabel": "32",
+      "text": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.",
+      "metadata": {
+        "reference": "1 Chronicles 23:32",
+        "verseKey": "kjv:1-chronicles:23:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

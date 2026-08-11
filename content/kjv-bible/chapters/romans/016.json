@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-016",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 16,
+  "title": "Romans 16",
+  "display_title": "Romans 16",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 16,
+  "sortOrder": 45016,
+  "verseCount": 27,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:16:1",
+      "numberLabel": "1",
+      "text": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:",
+      "metadata": {
+        "reference": "Romans 16:1",
+        "verseKey": "kjv:romans:16:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:16:2",
+      "numberLabel": "2",
+      "text": "That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.",
+      "metadata": {
+        "reference": "Romans 16:2",
+        "verseKey": "kjv:romans:16:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:16:3",
+      "numberLabel": "3",
+      "text": "Greet Priscilla and Aquila my helpers in Christ Jesus:",
+      "metadata": {
+        "reference": "Romans 16:3",
+        "verseKey": "kjv:romans:16:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:16:4",
+      "numberLabel": "4",
+      "text": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.",
+      "metadata": {
+        "reference": "Romans 16:4",
+        "verseKey": "kjv:romans:16:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:16:5",
+      "numberLabel": "5",
+      "text": "Likewise greet the church that is in their house. Salute my well-beloved Epaenetus, who is the firstfruits of Achaia unto Christ.",
+      "metadata": {
+        "reference": "Romans 16:5",
+        "verseKey": "kjv:romans:16:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:16:6",
+      "numberLabel": "6",
+      "text": "Greet Mary, who bestowed much labour on us.",
+      "metadata": {
+        "reference": "Romans 16:6",
+        "verseKey": "kjv:romans:16:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:16:7",
+      "numberLabel": "7",
+      "text": "Salute Andronicus and Junia, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.",
+      "metadata": {
+        "reference": "Romans 16:7",
+        "verseKey": "kjv:romans:16:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:16:8",
+      "numberLabel": "8",
+      "text": "Greet Amplias my beloved in the Lord.",
+      "metadata": {
+        "reference": "Romans 16:8",
+        "verseKey": "kjv:romans:16:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:16:9",
+      "numberLabel": "9",
+      "text": "Salute Urbane, our helper in Christ, and Stachys my beloved.",
+      "metadata": {
+        "reference": "Romans 16:9",
+        "verseKey": "kjv:romans:16:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:16:10",
+      "numberLabel": "10",
+      "text": "Salute Apelles approved in Christ. Salute them which are of Aristobulus’ household.",
+      "metadata": {
+        "reference": "Romans 16:10",
+        "verseKey": "kjv:romans:16:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:16:11",
+      "numberLabel": "11",
+      "text": "Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.",
+      "metadata": {
+        "reference": "Romans 16:11",
+        "verseKey": "kjv:romans:16:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:16:12",
+      "numberLabel": "12",
+      "text": "Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.",
+      "metadata": {
+        "reference": "Romans 16:12",
+        "verseKey": "kjv:romans:16:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:16:13",
+      "numberLabel": "13",
+      "text": "Salute Rufus chosen in the Lord, and his mother and mine.",
+      "metadata": {
+        "reference": "Romans 16:13",
+        "verseKey": "kjv:romans:16:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:16:14",
+      "numberLabel": "14",
+      "text": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.",
+      "metadata": {
+        "reference": "Romans 16:14",
+        "verseKey": "kjv:romans:16:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:romans:16:15",
+      "numberLabel": "15",
+      "text": "Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.",
+      "metadata": {
+        "reference": "Romans 16:15",
+        "verseKey": "kjv:romans:16:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:romans:16:16",
+      "numberLabel": "16",
+      "text": "Salute one another with an holy kiss. The churches of Christ salute you.",
+      "metadata": {
+        "reference": "Romans 16:16",
+        "verseKey": "kjv:romans:16:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:romans:16:17",
+      "numberLabel": "17",
+      "text": "Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.",
+      "metadata": {
+        "reference": "Romans 16:17",
+        "verseKey": "kjv:romans:16:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:romans:16:18",
+      "numberLabel": "18",
+      "text": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.",
+      "metadata": {
+        "reference": "Romans 16:18",
+        "verseKey": "kjv:romans:16:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:romans:16:19",
+      "numberLabel": "19",
+      "text": "For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.",
+      "metadata": {
+        "reference": "Romans 16:19",
+        "verseKey": "kjv:romans:16:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:romans:16:20",
+      "numberLabel": "20",
+      "text": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.",
+      "metadata": {
+        "reference": "Romans 16:20",
+        "verseKey": "kjv:romans:16:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:romans:16:21",
+      "numberLabel": "21",
+      "text": "Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.",
+      "metadata": {
+        "reference": "Romans 16:21",
+        "verseKey": "kjv:romans:16:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:romans:16:22",
+      "numberLabel": "22",
+      "text": "I Tertius, who wrote this epistle, salute you in the Lord.",
+      "metadata": {
+        "reference": "Romans 16:22",
+        "verseKey": "kjv:romans:16:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:romans:16:23",
+      "numberLabel": "23",
+      "text": "Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.",
+      "metadata": {
+        "reference": "Romans 16:23",
+        "verseKey": "kjv:romans:16:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:romans:16:24",
+      "numberLabel": "24",
+      "text": "The grace of our Lord Jesus Christ be with you all. Amen.",
+      "metadata": {
+        "reference": "Romans 16:24",
+        "verseKey": "kjv:romans:16:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:romans:16:25",
+      "numberLabel": "25",
+      "text": "Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,",
+      "metadata": {
+        "reference": "Romans 16:25",
+        "verseKey": "kjv:romans:16:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:romans:16:26",
+      "numberLabel": "26",
+      "text": "But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:",
+      "metadata": {
+        "reference": "Romans 16:26",
+        "verseKey": "kjv:romans:16:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:romans:16:27",
+      "numberLabel": "27",
+      "text": "To God only wise, be glory through Jesus Christ for ever. Amen.",
+      "metadata": {
+        "reference": "Romans 16:27",
+        "verseKey": "kjv:romans:16:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

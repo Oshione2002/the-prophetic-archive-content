@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Proverbs 24",
+  "display_title": "Proverbs 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 20024,
+  "verseCount": 34,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:24:1",
+      "numberLabel": "1",
+      "text": "Be not thou envious against evil men, neither desire to be with them.",
+      "metadata": {
+        "reference": "Proverbs 24:1",
+        "verseKey": "kjv:proverbs:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:24:2",
+      "numberLabel": "2",
+      "text": "For their heart studieth destruction, and their lips talk of mischief.",
+      "metadata": {
+        "reference": "Proverbs 24:2",
+        "verseKey": "kjv:proverbs:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:24:3",
+      "numberLabel": "3",
+      "text": "Through wisdom is an house builded; and by understanding it is established:",
+      "metadata": {
+        "reference": "Proverbs 24:3",
+        "verseKey": "kjv:proverbs:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:24:4",
+      "numberLabel": "4",
+      "text": "And by knowledge shall the chambers be filled with all precious and pleasant riches.",
+      "metadata": {
+        "reference": "Proverbs 24:4",
+        "verseKey": "kjv:proverbs:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:24:5",
+      "numberLabel": "5",
+      "text": "A wise man is strong; yea, a man of knowledge increaseth strength.",
+      "metadata": {
+        "reference": "Proverbs 24:5",
+        "verseKey": "kjv:proverbs:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:24:6",
+      "numberLabel": "6",
+      "text": "For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.",
+      "metadata": {
+        "reference": "Proverbs 24:6",
+        "verseKey": "kjv:proverbs:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:24:7",
+      "numberLabel": "7",
+      "text": "Wisdom is too high for a fool: he openeth not his mouth in the gate.",
+      "metadata": {
+        "reference": "Proverbs 24:7",
+        "verseKey": "kjv:proverbs:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:24:8",
+      "numberLabel": "8",
+      "text": "He that deviseth to do evil shall be called a mischievous person.",
+      "metadata": {
+        "reference": "Proverbs 24:8",
+        "verseKey": "kjv:proverbs:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:24:9",
+      "numberLabel": "9",
+      "text": "The thought of foolishness is sin: and the scorner is an abomination to men.",
+      "metadata": {
+        "reference": "Proverbs 24:9",
+        "verseKey": "kjv:proverbs:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:24:10",
+      "numberLabel": "10",
+      "text": "If thou faint in the day of adversity, thy strength is small.",
+      "metadata": {
+        "reference": "Proverbs 24:10",
+        "verseKey": "kjv:proverbs:24:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:24:11",
+      "numberLabel": "11",
+      "text": "If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;",
+      "metadata": {
+        "reference": "Proverbs 24:11",
+        "verseKey": "kjv:proverbs:24:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:24:12",
+      "numberLabel": "12",
+      "text": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?",
+      "metadata": {
+        "reference": "Proverbs 24:12",
+        "verseKey": "kjv:proverbs:24:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:24:13",
+      "numberLabel": "13",
+      "text": "My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:",
+      "metadata": {
+        "reference": "Proverbs 24:13",
+        "verseKey": "kjv:proverbs:24:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:24:14",
+      "numberLabel": "14",
+      "text": "So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.",
+      "metadata": {
+        "reference": "Proverbs 24:14",
+        "verseKey": "kjv:proverbs:24:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:24:15",
+      "numberLabel": "15",
+      "text": "Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:",
+      "metadata": {
+        "reference": "Proverbs 24:15",
+        "verseKey": "kjv:proverbs:24:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:24:16",
+      "numberLabel": "16",
+      "text": "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.",
+      "metadata": {
+        "reference": "Proverbs 24:16",
+        "verseKey": "kjv:proverbs:24:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:24:17",
+      "numberLabel": "17",
+      "text": "Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:",
+      "metadata": {
+        "reference": "Proverbs 24:17",
+        "verseKey": "kjv:proverbs:24:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:24:18",
+      "numberLabel": "18",
+      "text": "Lest the LORD see it, and it displease him, and he turn away his wrath from him.",
+      "metadata": {
+        "reference": "Proverbs 24:18",
+        "verseKey": "kjv:proverbs:24:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:24:19",
+      "numberLabel": "19",
+      "text": "Fret not thyself because of evil men, neither be thou envious at the wicked;",
+      "metadata": {
+        "reference": "Proverbs 24:19",
+        "verseKey": "kjv:proverbs:24:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:24:20",
+      "numberLabel": "20",
+      "text": "For there shall be no reward to the evil man; the candle of the wicked shall be put out.",
+      "metadata": {
+        "reference": "Proverbs 24:20",
+        "verseKey": "kjv:proverbs:24:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:24:21",
+      "numberLabel": "21",
+      "text": "My son, fear thou the LORD and the king: and meddle not with them that are given to change:",
+      "metadata": {
+        "reference": "Proverbs 24:21",
+        "verseKey": "kjv:proverbs:24:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:24:22",
+      "numberLabel": "22",
+      "text": "For their calamity shall rise suddenly; and who knoweth the ruin of them both?",
+      "metadata": {
+        "reference": "Proverbs 24:22",
+        "verseKey": "kjv:proverbs:24:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:24:23",
+      "numberLabel": "23",
+      "text": "These things also belong to the wise. It is not good to have respect of persons in judgment.",
+      "metadata": {
+        "reference": "Proverbs 24:23",
+        "verseKey": "kjv:proverbs:24:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:24:24",
+      "numberLabel": "24",
+      "text": "He that saith unto the wicked, Thou art righteous; him shall the people curse, nations shall abhor him:",
+      "metadata": {
+        "reference": "Proverbs 24:24",
+        "verseKey": "kjv:proverbs:24:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:24:25",
+      "numberLabel": "25",
+      "text": "But to them that rebuke him shall be delight, and a good blessing shall come upon them.",
+      "metadata": {
+        "reference": "Proverbs 24:25",
+        "verseKey": "kjv:proverbs:24:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:24:26",
+      "numberLabel": "26",
+      "text": "Every man shall kiss his lips that giveth a right answer.",
+      "metadata": {
+        "reference": "Proverbs 24:26",
+        "verseKey": "kjv:proverbs:24:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:24:27",
+      "numberLabel": "27",
+      "text": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.",
+      "metadata": {
+        "reference": "Proverbs 24:27",
+        "verseKey": "kjv:proverbs:24:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:24:28",
+      "numberLabel": "28",
+      "text": "Be not a witness against thy neighbour without cause; and deceive not with thy lips.",
+      "metadata": {
+        "reference": "Proverbs 24:28",
+        "verseKey": "kjv:proverbs:24:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:proverbs:24:29",
+      "numberLabel": "29",
+      "text": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work.",
+      "metadata": {
+        "reference": "Proverbs 24:29",
+        "verseKey": "kjv:proverbs:24:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:proverbs:24:30",
+      "numberLabel": "30",
+      "text": "I went by the field of the slothful, and by the vineyard of the man void of understanding;",
+      "metadata": {
+        "reference": "Proverbs 24:30",
+        "verseKey": "kjv:proverbs:24:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:proverbs:24:31",
+      "numberLabel": "31",
+      "text": "And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.",
+      "metadata": {
+        "reference": "Proverbs 24:31",
+        "verseKey": "kjv:proverbs:24:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:proverbs:24:32",
+      "numberLabel": "32",
+      "text": "Then I saw, and considered it well: I looked upon it, and received instruction.",
+      "metadata": {
+        "reference": "Proverbs 24:32",
+        "verseKey": "kjv:proverbs:24:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:proverbs:24:33",
+      "numberLabel": "33",
+      "text": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
+      "metadata": {
+        "reference": "Proverbs 24:33",
+        "verseKey": "kjv:proverbs:24:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:proverbs:24:34",
+      "numberLabel": "34",
+      "text": "So shall thy poverty come as one that travelleth; and thy want as an armed man.",
+      "metadata": {
+        "reference": "Proverbs 24:34",
+        "verseKey": "kjv:proverbs:24:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

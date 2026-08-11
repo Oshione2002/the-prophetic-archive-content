@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Deuteronomy 2",
+  "display_title": "Deuteronomy 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 5002,
+  "verseCount": 37,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:2:1",
+      "numberLabel": "1",
+      "text": "Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.",
+      "metadata": {
+        "reference": "Deuteronomy 2:1",
+        "verseKey": "kjv:deuteronomy:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:2:2",
+      "numberLabel": "2",
+      "text": "And the LORD spake unto me, saying,",
+      "metadata": {
+        "reference": "Deuteronomy 2:2",
+        "verseKey": "kjv:deuteronomy:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:2:3",
+      "numberLabel": "3",
+      "text": "Ye have compassed this mountain long enough: turn you northward.",
+      "metadata": {
+        "reference": "Deuteronomy 2:3",
+        "verseKey": "kjv:deuteronomy:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:2:4",
+      "numberLabel": "4",
+      "text": "And command thou the people, saying, Ye are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:",
+      "metadata": {
+        "reference": "Deuteronomy 2:4",
+        "verseKey": "kjv:deuteronomy:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:2:5",
+      "numberLabel": "5",
+      "text": "Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession.",
+      "metadata": {
+        "reference": "Deuteronomy 2:5",
+        "verseKey": "kjv:deuteronomy:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:2:6",
+      "numberLabel": "6",
+      "text": "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.",
+      "metadata": {
+        "reference": "Deuteronomy 2:6",
+        "verseKey": "kjv:deuteronomy:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:2:7",
+      "numberLabel": "7",
+      "text": "For the LORD thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the LORD thy God hath been with thee; thou hast lacked nothing.",
+      "metadata": {
+        "reference": "Deuteronomy 2:7",
+        "verseKey": "kjv:deuteronomy:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:2:8",
+      "numberLabel": "8",
+      "text": "And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.",
+      "metadata": {
+        "reference": "Deuteronomy 2:8",
+        "verseKey": "kjv:deuteronomy:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:2:9",
+      "numberLabel": "9",
+      "text": "And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land for a possession; because I have given Ar unto the children of Lot for a possession.",
+      "metadata": {
+        "reference": "Deuteronomy 2:9",
+        "verseKey": "kjv:deuteronomy:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:2:10",
+      "numberLabel": "10",
+      "text": "The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;",
+      "metadata": {
+        "reference": "Deuteronomy 2:10",
+        "verseKey": "kjv:deuteronomy:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:2:11",
+      "numberLabel": "11",
+      "text": "Which also were accounted giants, as the Anakims; but the Moabites call them Emims.",
+      "metadata": {
+        "reference": "Deuteronomy 2:11",
+        "verseKey": "kjv:deuteronomy:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:2:12",
+      "numberLabel": "12",
+      "text": "The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.",
+      "metadata": {
+        "reference": "Deuteronomy 2:12",
+        "verseKey": "kjv:deuteronomy:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:2:13",
+      "numberLabel": "13",
+      "text": "Now rise up, said I, and get you over the brook Zered. And we went over the brook Zered.",
+      "metadata": {
+        "reference": "Deuteronomy 2:13",
+        "verseKey": "kjv:deuteronomy:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:2:14",
+      "numberLabel": "14",
+      "text": "And the space in which we came from Kadeshbarnea, until we were come over the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them.",
+      "metadata": {
+        "reference": "Deuteronomy 2:14",
+        "verseKey": "kjv:deuteronomy:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:2:15",
+      "numberLabel": "15",
+      "text": "For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed.",
+      "metadata": {
+        "reference": "Deuteronomy 2:15",
+        "verseKey": "kjv:deuteronomy:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:2:16",
+      "numberLabel": "16",
+      "text": "So it came to pass, when all the men of war were consumed and dead from among the people,",
+      "metadata": {
+        "reference": "Deuteronomy 2:16",
+        "verseKey": "kjv:deuteronomy:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:2:17",
+      "numberLabel": "17",
+      "text": "That the LORD spake unto me, saying,",
+      "metadata": {
+        "reference": "Deuteronomy 2:17",
+        "verseKey": "kjv:deuteronomy:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:2:18",
+      "numberLabel": "18",
+      "text": "Thou art to pass over through Ar, the coast of Moab, this day:",
+      "metadata": {
+        "reference": "Deuteronomy 2:18",
+        "verseKey": "kjv:deuteronomy:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:2:19",
+      "numberLabel": "19",
+      "text": "And when thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon any possession; because I have given it unto the children of Lot for a possession.",
+      "metadata": {
+        "reference": "Deuteronomy 2:19",
+        "verseKey": "kjv:deuteronomy:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:2:20",
+      "numberLabel": "20",
+      "text": "(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;",
+      "metadata": {
+        "reference": "Deuteronomy 2:20",
+        "verseKey": "kjv:deuteronomy:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:2:21",
+      "numberLabel": "21",
+      "text": "A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:",
+      "metadata": {
+        "reference": "Deuteronomy 2:21",
+        "verseKey": "kjv:deuteronomy:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:2:22",
+      "numberLabel": "22",
+      "text": "As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:",
+      "metadata": {
+        "reference": "Deuteronomy 2:22",
+        "verseKey": "kjv:deuteronomy:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:2:23",
+      "numberLabel": "23",
+      "text": "And the Avims which dwelt in Hazerim, even unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)",
+      "metadata": {
+        "reference": "Deuteronomy 2:23",
+        "verseKey": "kjv:deuteronomy:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:deuteronomy:2:24",
+      "numberLabel": "24",
+      "text": "Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess it, and contend with him in battle.",
+      "metadata": {
+        "reference": "Deuteronomy 2:24",
+        "verseKey": "kjv:deuteronomy:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:deuteronomy:2:25",
+      "numberLabel": "25",
+      "text": "This day will I begin to put the dread of thee and the fear of thee upon the nations that are under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee.",
+      "metadata": {
+        "reference": "Deuteronomy 2:25",
+        "verseKey": "kjv:deuteronomy:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:deuteronomy:2:26",
+      "numberLabel": "26",
+      "text": "And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,",
+      "metadata": {
+        "reference": "Deuteronomy 2:26",
+        "verseKey": "kjv:deuteronomy:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:deuteronomy:2:27",
+      "numberLabel": "27",
+      "text": "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.",
+      "metadata": {
+        "reference": "Deuteronomy 2:27",
+        "verseKey": "kjv:deuteronomy:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:deuteronomy:2:28",
+      "numberLabel": "28",
+      "text": "Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;",
+      "metadata": {
+        "reference": "Deuteronomy 2:28",
+        "verseKey": "kjv:deuteronomy:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:deuteronomy:2:29",
+      "numberLabel": "29",
+      "text": "(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us.",
+      "metadata": {
+        "reference": "Deuteronomy 2:29",
+        "verseKey": "kjv:deuteronomy:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:deuteronomy:2:30",
+      "numberLabel": "30",
+      "text": "But Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as appeareth this day.",
+      "metadata": {
+        "reference": "Deuteronomy 2:30",
+        "verseKey": "kjv:deuteronomy:2:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:deuteronomy:2:31",
+      "numberLabel": "31",
+      "text": "And the LORD said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.",
+      "metadata": {
+        "reference": "Deuteronomy 2:31",
+        "verseKey": "kjv:deuteronomy:2:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:deuteronomy:2:32",
+      "numberLabel": "32",
+      "text": "Then Sihon came out against us, he and all his people, to fight at Jahaz.",
+      "metadata": {
+        "reference": "Deuteronomy 2:32",
+        "verseKey": "kjv:deuteronomy:2:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:deuteronomy:2:33",
+      "numberLabel": "33",
+      "text": "And the LORD our God delivered him before us; and we smote him, and his sons, and all his people.",
+      "metadata": {
+        "reference": "Deuteronomy 2:33",
+        "verseKey": "kjv:deuteronomy:2:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:deuteronomy:2:34",
+      "numberLabel": "34",
+      "text": "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:",
+      "metadata": {
+        "reference": "Deuteronomy 2:34",
+        "verseKey": "kjv:deuteronomy:2:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:deuteronomy:2:35",
+      "numberLabel": "35",
+      "text": "Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.",
+      "metadata": {
+        "reference": "Deuteronomy 2:35",
+        "verseKey": "kjv:deuteronomy:2:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:deuteronomy:2:36",
+      "numberLabel": "36",
+      "text": "From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:",
+      "metadata": {
+        "reference": "Deuteronomy 2:36",
+        "verseKey": "kjv:deuteronomy:2:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:deuteronomy:2:37",
+      "numberLabel": "37",
+      "text": "Only unto the land of the children of Ammon thou camest not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us.",
+      "metadata": {
+        "reference": "Deuteronomy 2:37",
+        "verseKey": "kjv:deuteronomy:2:37"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

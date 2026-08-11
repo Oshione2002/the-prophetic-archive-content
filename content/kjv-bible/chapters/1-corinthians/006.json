@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-corinthians-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "1 Corinthians 6",
+  "display_title": "1 Corinthians 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-corinthians",
+  "book": "1 Corinthians",
+  "bookName": "1 Corinthians",
+  "bookOrder": 46,
+  "testament": "new",
+  "chapter": 6,
+  "sortOrder": 46006,
+  "verseCount": 20,
+  "aliases": [
+    "1 Cor",
+    "1Cor",
+    "1 Co",
+    "1Co"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-corinthians:6:1",
+      "numberLabel": "1",
+      "text": "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?",
+      "metadata": {
+        "reference": "1 Corinthians 6:1",
+        "verseKey": "kjv:1-corinthians:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-corinthians:6:2",
+      "numberLabel": "2",
+      "text": "Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?",
+      "metadata": {
+        "reference": "1 Corinthians 6:2",
+        "verseKey": "kjv:1-corinthians:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-corinthians:6:3",
+      "numberLabel": "3",
+      "text": "Know ye not that we shall judge angels? how much more things that pertain to this life?",
+      "metadata": {
+        "reference": "1 Corinthians 6:3",
+        "verseKey": "kjv:1-corinthians:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-corinthians:6:4",
+      "numberLabel": "4",
+      "text": "If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.",
+      "metadata": {
+        "reference": "1 Corinthians 6:4",
+        "verseKey": "kjv:1-corinthians:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-corinthians:6:5",
+      "numberLabel": "5",
+      "text": "I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?",
+      "metadata": {
+        "reference": "1 Corinthians 6:5",
+        "verseKey": "kjv:1-corinthians:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-corinthians:6:6",
+      "numberLabel": "6",
+      "text": "But brother goeth to law with brother, and that before the unbelievers.",
+      "metadata": {
+        "reference": "1 Corinthians 6:6",
+        "verseKey": "kjv:1-corinthians:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-corinthians:6:7",
+      "numberLabel": "7",
+      "text": "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?",
+      "metadata": {
+        "reference": "1 Corinthians 6:7",
+        "verseKey": "kjv:1-corinthians:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-corinthians:6:8",
+      "numberLabel": "8",
+      "text": "Nay, ye do wrong, and defraud, and that your brethren.",
+      "metadata": {
+        "reference": "1 Corinthians 6:8",
+        "verseKey": "kjv:1-corinthians:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-corinthians:6:9",
+      "numberLabel": "9",
+      "text": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
+      "metadata": {
+        "reference": "1 Corinthians 6:9",
+        "verseKey": "kjv:1-corinthians:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-corinthians:6:10",
+      "numberLabel": "10",
+      "text": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.",
+      "metadata": {
+        "reference": "1 Corinthians 6:10",
+        "verseKey": "kjv:1-corinthians:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-corinthians:6:11",
+      "numberLabel": "11",
+      "text": "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.",
+      "metadata": {
+        "reference": "1 Corinthians 6:11",
+        "verseKey": "kjv:1-corinthians:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-corinthians:6:12",
+      "numberLabel": "12",
+      "text": "All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.",
+      "metadata": {
+        "reference": "1 Corinthians 6:12",
+        "verseKey": "kjv:1-corinthians:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-corinthians:6:13",
+      "numberLabel": "13",
+      "text": "Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.",
+      "metadata": {
+        "reference": "1 Corinthians 6:13",
+        "verseKey": "kjv:1-corinthians:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-corinthians:6:14",
+      "numberLabel": "14",
+      "text": "And God hath both raised up the Lord, and will also raise up us by his own power.",
+      "metadata": {
+        "reference": "1 Corinthians 6:14",
+        "verseKey": "kjv:1-corinthians:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-corinthians:6:15",
+      "numberLabel": "15",
+      "text": "Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.",
+      "metadata": {
+        "reference": "1 Corinthians 6:15",
+        "verseKey": "kjv:1-corinthians:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-corinthians:6:16",
+      "numberLabel": "16",
+      "text": "What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.",
+      "metadata": {
+        "reference": "1 Corinthians 6:16",
+        "verseKey": "kjv:1-corinthians:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-corinthians:6:17",
+      "numberLabel": "17",
+      "text": "But he that is joined unto the Lord is one spirit.",
+      "metadata": {
+        "reference": "1 Corinthians 6:17",
+        "verseKey": "kjv:1-corinthians:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-corinthians:6:18",
+      "numberLabel": "18",
+      "text": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.",
+      "metadata": {
+        "reference": "1 Corinthians 6:18",
+        "verseKey": "kjv:1-corinthians:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-corinthians:6:19",
+      "numberLabel": "19",
+      "text": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?",
+      "metadata": {
+        "reference": "1 Corinthians 6:19",
+        "verseKey": "kjv:1-corinthians:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-corinthians:6:20",
+      "numberLabel": "20",
+      "text": "For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s.",
+      "metadata": {
+        "reference": "1 Corinthians 6:20",
+        "verseKey": "kjv:1-corinthians:6:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Corinthians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Corinthians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

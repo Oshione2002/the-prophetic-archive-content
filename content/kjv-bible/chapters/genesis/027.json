@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "Genesis 27",
+  "display_title": "Genesis 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 1027,
+  "verseCount": 46,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:27:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.",
+      "metadata": {
+        "reference": "Genesis 27:1",
+        "verseKey": "kjv:genesis:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:27:2",
+      "numberLabel": "2",
+      "text": "And he said, Behold now, I am old, I know not the day of my death:",
+      "metadata": {
+        "reference": "Genesis 27:2",
+        "verseKey": "kjv:genesis:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:27:3",
+      "numberLabel": "3",
+      "text": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;",
+      "metadata": {
+        "reference": "Genesis 27:3",
+        "verseKey": "kjv:genesis:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:27:4",
+      "numberLabel": "4",
+      "text": "And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die.",
+      "metadata": {
+        "reference": "Genesis 27:4",
+        "verseKey": "kjv:genesis:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:27:5",
+      "numberLabel": "5",
+      "text": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it.",
+      "metadata": {
+        "reference": "Genesis 27:5",
+        "verseKey": "kjv:genesis:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:27:6",
+      "numberLabel": "6",
+      "text": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,",
+      "metadata": {
+        "reference": "Genesis 27:6",
+        "verseKey": "kjv:genesis:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:27:7",
+      "numberLabel": "7",
+      "text": "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death.",
+      "metadata": {
+        "reference": "Genesis 27:7",
+        "verseKey": "kjv:genesis:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:27:8",
+      "numberLabel": "8",
+      "text": "Now therefore, my son, obey my voice according to that which I command thee.",
+      "metadata": {
+        "reference": "Genesis 27:8",
+        "verseKey": "kjv:genesis:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:27:9",
+      "numberLabel": "9",
+      "text": "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:",
+      "metadata": {
+        "reference": "Genesis 27:9",
+        "verseKey": "kjv:genesis:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:27:10",
+      "numberLabel": "10",
+      "text": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death.",
+      "metadata": {
+        "reference": "Genesis 27:10",
+        "verseKey": "kjv:genesis:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:27:11",
+      "numberLabel": "11",
+      "text": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:",
+      "metadata": {
+        "reference": "Genesis 27:11",
+        "verseKey": "kjv:genesis:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:27:12",
+      "numberLabel": "12",
+      "text": "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing.",
+      "metadata": {
+        "reference": "Genesis 27:12",
+        "verseKey": "kjv:genesis:27:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:27:13",
+      "numberLabel": "13",
+      "text": "And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them.",
+      "metadata": {
+        "reference": "Genesis 27:13",
+        "verseKey": "kjv:genesis:27:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:27:14",
+      "numberLabel": "14",
+      "text": "And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved.",
+      "metadata": {
+        "reference": "Genesis 27:14",
+        "verseKey": "kjv:genesis:27:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:27:15",
+      "numberLabel": "15",
+      "text": "And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:",
+      "metadata": {
+        "reference": "Genesis 27:15",
+        "verseKey": "kjv:genesis:27:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:27:16",
+      "numberLabel": "16",
+      "text": "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:",
+      "metadata": {
+        "reference": "Genesis 27:16",
+        "verseKey": "kjv:genesis:27:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:27:17",
+      "numberLabel": "17",
+      "text": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob.",
+      "metadata": {
+        "reference": "Genesis 27:17",
+        "verseKey": "kjv:genesis:27:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:27:18",
+      "numberLabel": "18",
+      "text": "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?",
+      "metadata": {
+        "reference": "Genesis 27:18",
+        "verseKey": "kjv:genesis:27:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:27:19",
+      "numberLabel": "19",
+      "text": "And Jacob said unto his father, I am Esau thy first born; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.",
+      "metadata": {
+        "reference": "Genesis 27:19",
+        "verseKey": "kjv:genesis:27:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:27:20",
+      "numberLabel": "20",
+      "text": "And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me.",
+      "metadata": {
+        "reference": "Genesis 27:20",
+        "verseKey": "kjv:genesis:27:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:27:21",
+      "numberLabel": "21",
+      "text": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not.",
+      "metadata": {
+        "reference": "Genesis 27:21",
+        "verseKey": "kjv:genesis:27:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:27:22",
+      "numberLabel": "22",
+      "text": "And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau.",
+      "metadata": {
+        "reference": "Genesis 27:22",
+        "verseKey": "kjv:genesis:27:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:27:23",
+      "numberLabel": "23",
+      "text": "And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him.",
+      "metadata": {
+        "reference": "Genesis 27:23",
+        "verseKey": "kjv:genesis:27:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:27:24",
+      "numberLabel": "24",
+      "text": "And he said, Art thou my very son Esau? And he said, I am.",
+      "metadata": {
+        "reference": "Genesis 27:24",
+        "verseKey": "kjv:genesis:27:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:27:25",
+      "numberLabel": "25",
+      "text": "And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank.",
+      "metadata": {
+        "reference": "Genesis 27:25",
+        "verseKey": "kjv:genesis:27:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:27:26",
+      "numberLabel": "26",
+      "text": "And his father Isaac said unto him, Come near now, and kiss me, my son.",
+      "metadata": {
+        "reference": "Genesis 27:26",
+        "verseKey": "kjv:genesis:27:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:27:27",
+      "numberLabel": "27",
+      "text": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:",
+      "metadata": {
+        "reference": "Genesis 27:27",
+        "verseKey": "kjv:genesis:27:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:27:28",
+      "numberLabel": "28",
+      "text": "Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:",
+      "metadata": {
+        "reference": "Genesis 27:28",
+        "verseKey": "kjv:genesis:27:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:27:29",
+      "numberLabel": "29",
+      "text": "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee.",
+      "metadata": {
+        "reference": "Genesis 27:29",
+        "verseKey": "kjv:genesis:27:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:27:30",
+      "numberLabel": "30",
+      "text": "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.",
+      "metadata": {
+        "reference": "Genesis 27:30",
+        "verseKey": "kjv:genesis:27:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:27:31",
+      "numberLabel": "31",
+      "text": "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me.",
+      "metadata": {
+        "reference": "Genesis 27:31",
+        "verseKey": "kjv:genesis:27:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:27:32",
+      "numberLabel": "32",
+      "text": "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau.",
+      "metadata": {
+        "reference": "Genesis 27:32",
+        "verseKey": "kjv:genesis:27:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:27:33",
+      "numberLabel": "33",
+      "text": "And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed.",
+      "metadata": {
+        "reference": "Genesis 27:33",
+        "verseKey": "kjv:genesis:27:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:27:34",
+      "numberLabel": "34",
+      "text": "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father.",
+      "metadata": {
+        "reference": "Genesis 27:34",
+        "verseKey": "kjv:genesis:27:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:genesis:27:35",
+      "numberLabel": "35",
+      "text": "And he said, Thy brother came with subtilty, and hath taken away thy blessing.",
+      "metadata": {
+        "reference": "Genesis 27:35",
+        "verseKey": "kjv:genesis:27:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:genesis:27:36",
+      "numberLabel": "36",
+      "text": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?",
+      "metadata": {
+        "reference": "Genesis 27:36",
+        "verseKey": "kjv:genesis:27:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:genesis:27:37",
+      "numberLabel": "37",
+      "text": "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?",
+      "metadata": {
+        "reference": "Genesis 27:37",
+        "verseKey": "kjv:genesis:27:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:genesis:27:38",
+      "numberLabel": "38",
+      "text": "And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.",
+      "metadata": {
+        "reference": "Genesis 27:38",
+        "verseKey": "kjv:genesis:27:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:genesis:27:39",
+      "numberLabel": "39",
+      "text": "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;",
+      "metadata": {
+        "reference": "Genesis 27:39",
+        "verseKey": "kjv:genesis:27:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:genesis:27:40",
+      "numberLabel": "40",
+      "text": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.",
+      "metadata": {
+        "reference": "Genesis 27:40",
+        "verseKey": "kjv:genesis:27:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:genesis:27:41",
+      "numberLabel": "41",
+      "text": "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.",
+      "metadata": {
+        "reference": "Genesis 27:41",
+        "verseKey": "kjv:genesis:27:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:genesis:27:42",
+      "numberLabel": "42",
+      "text": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee.",
+      "metadata": {
+        "reference": "Genesis 27:42",
+        "verseKey": "kjv:genesis:27:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:genesis:27:43",
+      "numberLabel": "43",
+      "text": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;",
+      "metadata": {
+        "reference": "Genesis 27:43",
+        "verseKey": "kjv:genesis:27:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:genesis:27:44",
+      "numberLabel": "44",
+      "text": "And tarry with him a few days, until thy brother’s fury turn away;",
+      "metadata": {
+        "reference": "Genesis 27:44",
+        "verseKey": "kjv:genesis:27:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:genesis:27:45",
+      "numberLabel": "45",
+      "text": "Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?",
+      "metadata": {
+        "reference": "Genesis 27:45",
+        "verseKey": "kjv:genesis:27:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:genesis:27:46",
+      "numberLabel": "46",
+      "text": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?",
+      "metadata": {
+        "reference": "Genesis 27:46",
+        "verseKey": "kjv:genesis:27:46"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

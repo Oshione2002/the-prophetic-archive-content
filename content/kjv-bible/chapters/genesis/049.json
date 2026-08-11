@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-049",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 49,
+  "title": "Genesis 49",
+  "display_title": "Genesis 49",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 49,
+  "sortOrder": 1049,
+  "verseCount": 33,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:49:1",
+      "numberLabel": "1",
+      "text": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.",
+      "metadata": {
+        "reference": "Genesis 49:1",
+        "verseKey": "kjv:genesis:49:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:49:2",
+      "numberLabel": "2",
+      "text": "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.",
+      "metadata": {
+        "reference": "Genesis 49:2",
+        "verseKey": "kjv:genesis:49:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:49:3",
+      "numberLabel": "3",
+      "text": "Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
+      "metadata": {
+        "reference": "Genesis 49:3",
+        "verseKey": "kjv:genesis:49:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:49:4",
+      "numberLabel": "4",
+      "text": "Unstable as water, thou shalt not excel; because thou wentest up to thy father’s bed; then defiledst thou it: he went up to my couch.",
+      "metadata": {
+        "reference": "Genesis 49:4",
+        "verseKey": "kjv:genesis:49:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:49:5",
+      "numberLabel": "5",
+      "text": "Simeon and Levi are brethren; instruments of cruelty are in their habitations.",
+      "metadata": {
+        "reference": "Genesis 49:5",
+        "verseKey": "kjv:genesis:49:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:49:6",
+      "numberLabel": "6",
+      "text": "O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.",
+      "metadata": {
+        "reference": "Genesis 49:6",
+        "verseKey": "kjv:genesis:49:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:49:7",
+      "numberLabel": "7",
+      "text": "Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.",
+      "metadata": {
+        "reference": "Genesis 49:7",
+        "verseKey": "kjv:genesis:49:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:49:8",
+      "numberLabel": "8",
+      "text": "Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father’s children shall bow down before thee.",
+      "metadata": {
+        "reference": "Genesis 49:8",
+        "verseKey": "kjv:genesis:49:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:49:9",
+      "numberLabel": "9",
+      "text": "Judah is a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?",
+      "metadata": {
+        "reference": "Genesis 49:9",
+        "verseKey": "kjv:genesis:49:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:49:10",
+      "numberLabel": "10",
+      "text": "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.",
+      "metadata": {
+        "reference": "Genesis 49:10",
+        "verseKey": "kjv:genesis:49:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:49:11",
+      "numberLabel": "11",
+      "text": "Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:",
+      "metadata": {
+        "reference": "Genesis 49:11",
+        "verseKey": "kjv:genesis:49:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:49:12",
+      "numberLabel": "12",
+      "text": "His eyes shall be red with wine, and his teeth white with milk.",
+      "metadata": {
+        "reference": "Genesis 49:12",
+        "verseKey": "kjv:genesis:49:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:49:13",
+      "numberLabel": "13",
+      "text": "Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon.",
+      "metadata": {
+        "reference": "Genesis 49:13",
+        "verseKey": "kjv:genesis:49:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:49:14",
+      "numberLabel": "14",
+      "text": "Issachar is a strong ass couching down between two burdens:",
+      "metadata": {
+        "reference": "Genesis 49:14",
+        "verseKey": "kjv:genesis:49:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:49:15",
+      "numberLabel": "15",
+      "text": "And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute.",
+      "metadata": {
+        "reference": "Genesis 49:15",
+        "verseKey": "kjv:genesis:49:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:49:16",
+      "numberLabel": "16",
+      "text": "Dan shall judge his people, as one of the tribes of Israel.",
+      "metadata": {
+        "reference": "Genesis 49:16",
+        "verseKey": "kjv:genesis:49:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:49:17",
+      "numberLabel": "17",
+      "text": "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.",
+      "metadata": {
+        "reference": "Genesis 49:17",
+        "verseKey": "kjv:genesis:49:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:49:18",
+      "numberLabel": "18",
+      "text": "I have waited for thy salvation, O LORD.",
+      "metadata": {
+        "reference": "Genesis 49:18",
+        "verseKey": "kjv:genesis:49:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:49:19",
+      "numberLabel": "19",
+      "text": "Gad, a troop shall overcome him: but he shall overcome at the last.",
+      "metadata": {
+        "reference": "Genesis 49:19",
+        "verseKey": "kjv:genesis:49:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:49:20",
+      "numberLabel": "20",
+      "text": "Out of Asher his bread shall be fat, and he shall yield royal dainties.",
+      "metadata": {
+        "reference": "Genesis 49:20",
+        "verseKey": "kjv:genesis:49:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:49:21",
+      "numberLabel": "21",
+      "text": "Naphtali is a hind let loose: he giveth goodly words.",
+      "metadata": {
+        "reference": "Genesis 49:21",
+        "verseKey": "kjv:genesis:49:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:49:22",
+      "numberLabel": "22",
+      "text": "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:",
+      "metadata": {
+        "reference": "Genesis 49:22",
+        "verseKey": "kjv:genesis:49:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:49:23",
+      "numberLabel": "23",
+      "text": "The archers have sorely grieved him, and shot at him, and hated him:",
+      "metadata": {
+        "reference": "Genesis 49:23",
+        "verseKey": "kjv:genesis:49:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:49:24",
+      "numberLabel": "24",
+      "text": "But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)",
+      "metadata": {
+        "reference": "Genesis 49:24",
+        "verseKey": "kjv:genesis:49:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:49:25",
+      "numberLabel": "25",
+      "text": "Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:",
+      "metadata": {
+        "reference": "Genesis 49:25",
+        "verseKey": "kjv:genesis:49:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:49:26",
+      "numberLabel": "26",
+      "text": "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.",
+      "metadata": {
+        "reference": "Genesis 49:26",
+        "verseKey": "kjv:genesis:49:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:49:27",
+      "numberLabel": "27",
+      "text": "Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.",
+      "metadata": {
+        "reference": "Genesis 49:27",
+        "verseKey": "kjv:genesis:49:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:49:28",
+      "numberLabel": "28",
+      "text": "All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them.",
+      "metadata": {
+        "reference": "Genesis 49:28",
+        "verseKey": "kjv:genesis:49:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:49:29",
+      "numberLabel": "29",
+      "text": "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
+      "metadata": {
+        "reference": "Genesis 49:29",
+        "verseKey": "kjv:genesis:49:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:49:30",
+      "numberLabel": "30",
+      "text": "In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.",
+      "metadata": {
+        "reference": "Genesis 49:30",
+        "verseKey": "kjv:genesis:49:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:49:31",
+      "numberLabel": "31",
+      "text": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.",
+      "metadata": {
+        "reference": "Genesis 49:31",
+        "verseKey": "kjv:genesis:49:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:49:32",
+      "numberLabel": "32",
+      "text": "The purchase of the field and of the cave that is therein was from the children of Heth.",
+      "metadata": {
+        "reference": "Genesis 49:32",
+        "verseKey": "kjv:genesis:49:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:49:33",
+      "numberLabel": "33",
+      "text": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
+      "metadata": {
+        "reference": "Genesis 49:33",
+        "verseKey": "kjv:genesis:49:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

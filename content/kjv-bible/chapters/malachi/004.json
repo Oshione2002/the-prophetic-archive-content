@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-malachi-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Malachi 4",
+  "display_title": "Malachi 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "malachi",
+  "book": "Malachi",
+  "bookName": "Malachi",
+  "bookOrder": 39,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 39004,
+  "verseCount": 6,
+  "aliases": [
+    "Mal",
+    "Ml"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:malachi:4:1",
+      "numberLabel": "1",
+      "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+      "metadata": {
+        "reference": "Malachi 4:1",
+        "verseKey": "kjv:malachi:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:malachi:4:2",
+      "numberLabel": "2",
+      "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+      "metadata": {
+        "reference": "Malachi 4:2",
+        "verseKey": "kjv:malachi:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:malachi:4:3",
+      "numberLabel": "3",
+      "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the LORD of hosts.",
+      "metadata": {
+        "reference": "Malachi 4:3",
+        "verseKey": "kjv:malachi:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:malachi:4:4",
+      "numberLabel": "4",
+      "text": "Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
+      "metadata": {
+        "reference": "Malachi 4:4",
+        "verseKey": "kjv:malachi:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:malachi:4:5",
+      "numberLabel": "5",
+      "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:",
+      "metadata": {
+        "reference": "Malachi 4:5",
+        "verseKey": "kjv:malachi:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:malachi:4:6",
+      "numberLabel": "6",
+      "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+      "metadata": {
+        "reference": "Malachi 4:6",
+        "verseKey": "kjv:malachi:4:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Malachi.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Malachi.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

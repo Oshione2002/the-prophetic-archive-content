@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Romans 7",
+  "display_title": "Romans 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 7,
+  "sortOrder": 45007,
+  "verseCount": 25,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:7:1",
+      "numberLabel": "1",
+      "text": "Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?",
+      "metadata": {
+        "reference": "Romans 7:1",
+        "verseKey": "kjv:romans:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:7:2",
+      "numberLabel": "2",
+      "text": "For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband.",
+      "metadata": {
+        "reference": "Romans 7:2",
+        "verseKey": "kjv:romans:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:7:3",
+      "numberLabel": "3",
+      "text": "So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.",
+      "metadata": {
+        "reference": "Romans 7:3",
+        "verseKey": "kjv:romans:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:7:4",
+      "numberLabel": "4",
+      "text": "Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.",
+      "metadata": {
+        "reference": "Romans 7:4",
+        "verseKey": "kjv:romans:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:7:5",
+      "numberLabel": "5",
+      "text": "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.",
+      "metadata": {
+        "reference": "Romans 7:5",
+        "verseKey": "kjv:romans:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:7:6",
+      "numberLabel": "6",
+      "text": "But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.",
+      "metadata": {
+        "reference": "Romans 7:6",
+        "verseKey": "kjv:romans:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:7:7",
+      "numberLabel": "7",
+      "text": "What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.",
+      "metadata": {
+        "reference": "Romans 7:7",
+        "verseKey": "kjv:romans:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:7:8",
+      "numberLabel": "8",
+      "text": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.",
+      "metadata": {
+        "reference": "Romans 7:8",
+        "verseKey": "kjv:romans:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:7:9",
+      "numberLabel": "9",
+      "text": "For I was alive without the law once: but when the commandment came, sin revived, and I died.",
+      "metadata": {
+        "reference": "Romans 7:9",
+        "verseKey": "kjv:romans:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:7:10",
+      "numberLabel": "10",
+      "text": "And the commandment, which was ordained to life, I found to be unto death.",
+      "metadata": {
+        "reference": "Romans 7:10",
+        "verseKey": "kjv:romans:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:7:11",
+      "numberLabel": "11",
+      "text": "For sin, taking occasion by the commandment, deceived me, and by it slew me.",
+      "metadata": {
+        "reference": "Romans 7:11",
+        "verseKey": "kjv:romans:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:7:12",
+      "numberLabel": "12",
+      "text": "Wherefore the law is holy, and the commandment holy, and just, and good.",
+      "metadata": {
+        "reference": "Romans 7:12",
+        "verseKey": "kjv:romans:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:7:13",
+      "numberLabel": "13",
+      "text": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.",
+      "metadata": {
+        "reference": "Romans 7:13",
+        "verseKey": "kjv:romans:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:7:14",
+      "numberLabel": "14",
+      "text": "For we know that the law is spiritual: but I am carnal, sold under sin.",
+      "metadata": {
+        "reference": "Romans 7:14",
+        "verseKey": "kjv:romans:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:romans:7:15",
+      "numberLabel": "15",
+      "text": "For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.",
+      "metadata": {
+        "reference": "Romans 7:15",
+        "verseKey": "kjv:romans:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:romans:7:16",
+      "numberLabel": "16",
+      "text": "If then I do that which I would not, I consent unto the law that it is good.",
+      "metadata": {
+        "reference": "Romans 7:16",
+        "verseKey": "kjv:romans:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:romans:7:17",
+      "numberLabel": "17",
+      "text": "Now then it is no more I that do it, but sin that dwelleth in me.",
+      "metadata": {
+        "reference": "Romans 7:17",
+        "verseKey": "kjv:romans:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:romans:7:18",
+      "numberLabel": "18",
+      "text": "For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.",
+      "metadata": {
+        "reference": "Romans 7:18",
+        "verseKey": "kjv:romans:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:romans:7:19",
+      "numberLabel": "19",
+      "text": "For the good that I would I do not: but the evil which I would not, that I do.",
+      "metadata": {
+        "reference": "Romans 7:19",
+        "verseKey": "kjv:romans:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:romans:7:20",
+      "numberLabel": "20",
+      "text": "Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.",
+      "metadata": {
+        "reference": "Romans 7:20",
+        "verseKey": "kjv:romans:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:romans:7:21",
+      "numberLabel": "21",
+      "text": "I find then a law, that, when I would do good, evil is present with me.",
+      "metadata": {
+        "reference": "Romans 7:21",
+        "verseKey": "kjv:romans:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:romans:7:22",
+      "numberLabel": "22",
+      "text": "For I delight in the law of God after the inward man:",
+      "metadata": {
+        "reference": "Romans 7:22",
+        "verseKey": "kjv:romans:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:romans:7:23",
+      "numberLabel": "23",
+      "text": "But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.",
+      "metadata": {
+        "reference": "Romans 7:23",
+        "verseKey": "kjv:romans:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:romans:7:24",
+      "numberLabel": "24",
+      "text": "O wretched man that I am! who shall deliver me from the body of this death?",
+      "metadata": {
+        "reference": "Romans 7:24",
+        "verseKey": "kjv:romans:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:romans:7:25",
+      "numberLabel": "25",
+      "text": "I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.",
+      "metadata": {
+        "reference": "Romans 7:25",
+        "verseKey": "kjv:romans:7:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

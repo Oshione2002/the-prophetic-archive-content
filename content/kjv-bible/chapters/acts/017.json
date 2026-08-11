@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Acts 17",
+  "display_title": "Acts 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 17,
+  "sortOrder": 44017,
+  "verseCount": 34,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:17:1",
+      "numberLabel": "1",
+      "text": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:",
+      "metadata": {
+        "reference": "Acts 17:1",
+        "verseKey": "kjv:acts:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:17:2",
+      "numberLabel": "2",
+      "text": "And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,",
+      "metadata": {
+        "reference": "Acts 17:2",
+        "verseKey": "kjv:acts:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:17:3",
+      "numberLabel": "3",
+      "text": "Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.",
+      "metadata": {
+        "reference": "Acts 17:3",
+        "verseKey": "kjv:acts:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:17:4",
+      "numberLabel": "4",
+      "text": "And some of them believed, and consorted with Paul and Silas; and of the devout Greeks a great multitude, and of the chief women not a few.",
+      "metadata": {
+        "reference": "Acts 17:4",
+        "verseKey": "kjv:acts:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:17:5",
+      "numberLabel": "5",
+      "text": "But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.",
+      "metadata": {
+        "reference": "Acts 17:5",
+        "verseKey": "kjv:acts:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:17:6",
+      "numberLabel": "6",
+      "text": "And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;",
+      "metadata": {
+        "reference": "Acts 17:6",
+        "verseKey": "kjv:acts:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:17:7",
+      "numberLabel": "7",
+      "text": "Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus.",
+      "metadata": {
+        "reference": "Acts 17:7",
+        "verseKey": "kjv:acts:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:17:8",
+      "numberLabel": "8",
+      "text": "And they troubled the people and the rulers of the city, when they heard these things.",
+      "metadata": {
+        "reference": "Acts 17:8",
+        "verseKey": "kjv:acts:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:17:9",
+      "numberLabel": "9",
+      "text": "And when they had taken security of Jason, and of the other, they let them go.",
+      "metadata": {
+        "reference": "Acts 17:9",
+        "verseKey": "kjv:acts:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:17:10",
+      "numberLabel": "10",
+      "text": "And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews.",
+      "metadata": {
+        "reference": "Acts 17:10",
+        "verseKey": "kjv:acts:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:17:11",
+      "numberLabel": "11",
+      "text": "These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.",
+      "metadata": {
+        "reference": "Acts 17:11",
+        "verseKey": "kjv:acts:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:17:12",
+      "numberLabel": "12",
+      "text": "Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few.",
+      "metadata": {
+        "reference": "Acts 17:12",
+        "verseKey": "kjv:acts:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:17:13",
+      "numberLabel": "13",
+      "text": "But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people.",
+      "metadata": {
+        "reference": "Acts 17:13",
+        "verseKey": "kjv:acts:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:17:14",
+      "numberLabel": "14",
+      "text": "And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still.",
+      "metadata": {
+        "reference": "Acts 17:14",
+        "verseKey": "kjv:acts:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:17:15",
+      "numberLabel": "15",
+      "text": "And they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed.",
+      "metadata": {
+        "reference": "Acts 17:15",
+        "verseKey": "kjv:acts:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:17:16",
+      "numberLabel": "16",
+      "text": "Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.",
+      "metadata": {
+        "reference": "Acts 17:16",
+        "verseKey": "kjv:acts:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:17:17",
+      "numberLabel": "17",
+      "text": "Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.",
+      "metadata": {
+        "reference": "Acts 17:17",
+        "verseKey": "kjv:acts:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:17:18",
+      "numberLabel": "18",
+      "text": "Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.",
+      "metadata": {
+        "reference": "Acts 17:18",
+        "verseKey": "kjv:acts:17:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:17:19",
+      "numberLabel": "19",
+      "text": "And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?",
+      "metadata": {
+        "reference": "Acts 17:19",
+        "verseKey": "kjv:acts:17:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:17:20",
+      "numberLabel": "20",
+      "text": "For thou bringest certain strange things to our ears: we would know therefore what these things mean.",
+      "metadata": {
+        "reference": "Acts 17:20",
+        "verseKey": "kjv:acts:17:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:17:21",
+      "numberLabel": "21",
+      "text": "(For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)",
+      "metadata": {
+        "reference": "Acts 17:21",
+        "verseKey": "kjv:acts:17:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:17:22",
+      "numberLabel": "22",
+      "text": "Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.",
+      "metadata": {
+        "reference": "Acts 17:22",
+        "verseKey": "kjv:acts:17:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:17:23",
+      "numberLabel": "23",
+      "text": "For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.",
+      "metadata": {
+        "reference": "Acts 17:23",
+        "verseKey": "kjv:acts:17:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:17:24",
+      "numberLabel": "24",
+      "text": "God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;",
+      "metadata": {
+        "reference": "Acts 17:24",
+        "verseKey": "kjv:acts:17:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:17:25",
+      "numberLabel": "25",
+      "text": "Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;",
+      "metadata": {
+        "reference": "Acts 17:25",
+        "verseKey": "kjv:acts:17:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:17:26",
+      "numberLabel": "26",
+      "text": "And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;",
+      "metadata": {
+        "reference": "Acts 17:26",
+        "verseKey": "kjv:acts:17:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:17:27",
+      "numberLabel": "27",
+      "text": "That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:",
+      "metadata": {
+        "reference": "Acts 17:27",
+        "verseKey": "kjv:acts:17:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:17:28",
+      "numberLabel": "28",
+      "text": "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+      "metadata": {
+        "reference": "Acts 17:28",
+        "verseKey": "kjv:acts:17:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:17:29",
+      "numberLabel": "29",
+      "text": "Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.",
+      "metadata": {
+        "reference": "Acts 17:29",
+        "verseKey": "kjv:acts:17:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:17:30",
+      "numberLabel": "30",
+      "text": "And the times of this ignorance God winked at; but now commandeth all men every where to repent:",
+      "metadata": {
+        "reference": "Acts 17:30",
+        "verseKey": "kjv:acts:17:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:acts:17:31",
+      "numberLabel": "31",
+      "text": "Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.",
+      "metadata": {
+        "reference": "Acts 17:31",
+        "verseKey": "kjv:acts:17:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:acts:17:32",
+      "numberLabel": "32",
+      "text": "And when they heard of the resurrection of the dead, some mocked: and others said, We will hear thee again of this matter.",
+      "metadata": {
+        "reference": "Acts 17:32",
+        "verseKey": "kjv:acts:17:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:acts:17:33",
+      "numberLabel": "33",
+      "text": "So Paul departed from among them.",
+      "metadata": {
+        "reference": "Acts 17:33",
+        "verseKey": "kjv:acts:17:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:acts:17:34",
+      "numberLabel": "34",
+      "text": "Howbeit certain men clave unto him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them.",
+      "metadata": {
+        "reference": "Acts 17:34",
+        "verseKey": "kjv:acts:17:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

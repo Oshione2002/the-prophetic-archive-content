@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-137",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 137,
+  "title": "Psalms 137",
+  "display_title": "Psalms 137",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 137,
+  "sortOrder": 19137,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:137:1",
+      "numberLabel": "1",
+      "text": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
+      "metadata": {
+        "reference": "Psalms 137:1",
+        "verseKey": "kjv:psalms:137:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:137:2",
+      "numberLabel": "2",
+      "text": "We hanged our harps upon the willows in the midst thereof.",
+      "metadata": {
+        "reference": "Psalms 137:2",
+        "verseKey": "kjv:psalms:137:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:137:3",
+      "numberLabel": "3",
+      "text": "For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.",
+      "metadata": {
+        "reference": "Psalms 137:3",
+        "verseKey": "kjv:psalms:137:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:137:4",
+      "numberLabel": "4",
+      "text": "How shall we sing the LORD’s song in a strange land?",
+      "metadata": {
+        "reference": "Psalms 137:4",
+        "verseKey": "kjv:psalms:137:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:137:5",
+      "numberLabel": "5",
+      "text": "If I forget thee, O Jerusalem, let my right hand forget her cunning.",
+      "metadata": {
+        "reference": "Psalms 137:5",
+        "verseKey": "kjv:psalms:137:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:137:6",
+      "numberLabel": "6",
+      "text": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.",
+      "metadata": {
+        "reference": "Psalms 137:6",
+        "verseKey": "kjv:psalms:137:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:137:7",
+      "numberLabel": "7",
+      "text": "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.",
+      "metadata": {
+        "reference": "Psalms 137:7",
+        "verseKey": "kjv:psalms:137:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:137:8",
+      "numberLabel": "8",
+      "text": "O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.",
+      "metadata": {
+        "reference": "Psalms 137:8",
+        "verseKey": "kjv:psalms:137:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:137:9",
+      "numberLabel": "9",
+      "text": "Happy shall he be, that taketh and dasheth thy little ones against the stones.",
+      "metadata": {
+        "reference": "Psalms 137:9",
+        "verseKey": "kjv:psalms:137:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-040",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 40,
+  "title": "Psalms 40",
+  "display_title": "Psalms 40",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 40,
+  "sortOrder": 19040,
+  "verseCount": 17,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:40:1",
+      "numberLabel": "1",
+      "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry.",
+      "metadata": {
+        "reference": "Psalms 40:1",
+        "verseKey": "kjv:psalms:40:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:40:2",
+      "numberLabel": "2",
+      "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.",
+      "metadata": {
+        "reference": "Psalms 40:2",
+        "verseKey": "kjv:psalms:40:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:40:3",
+      "numberLabel": "3",
+      "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.",
+      "metadata": {
+        "reference": "Psalms 40:3",
+        "verseKey": "kjv:psalms:40:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:40:4",
+      "numberLabel": "4",
+      "text": "Blessed is that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.",
+      "metadata": {
+        "reference": "Psalms 40:4",
+        "verseKey": "kjv:psalms:40:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:40:5",
+      "numberLabel": "5",
+      "text": "Many, O LORD my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.",
+      "metadata": {
+        "reference": "Psalms 40:5",
+        "verseKey": "kjv:psalms:40:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:40:6",
+      "numberLabel": "6",
+      "text": "Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.",
+      "metadata": {
+        "reference": "Psalms 40:6",
+        "verseKey": "kjv:psalms:40:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:40:7",
+      "numberLabel": "7",
+      "text": "Then said I, Lo, I come: in the volume of the book it is written of me,",
+      "metadata": {
+        "reference": "Psalms 40:7",
+        "verseKey": "kjv:psalms:40:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:40:8",
+      "numberLabel": "8",
+      "text": "I delight to do thy will, O my God: yea, thy law is within my heart.",
+      "metadata": {
+        "reference": "Psalms 40:8",
+        "verseKey": "kjv:psalms:40:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:40:9",
+      "numberLabel": "9",
+      "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest.",
+      "metadata": {
+        "reference": "Psalms 40:9",
+        "verseKey": "kjv:psalms:40:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:40:10",
+      "numberLabel": "10",
+      "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.",
+      "metadata": {
+        "reference": "Psalms 40:10",
+        "verseKey": "kjv:psalms:40:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:40:11",
+      "numberLabel": "11",
+      "text": "Withhold not thou thy tender mercies from me, O LORD: let thy lovingkindness and thy truth continually preserve me.",
+      "metadata": {
+        "reference": "Psalms 40:11",
+        "verseKey": "kjv:psalms:40:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:40:12",
+      "numberLabel": "12",
+      "text": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.",
+      "metadata": {
+        "reference": "Psalms 40:12",
+        "verseKey": "kjv:psalms:40:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:40:13",
+      "numberLabel": "13",
+      "text": "Be pleased, O LORD, to deliver me: O LORD, make haste to help me.",
+      "metadata": {
+        "reference": "Psalms 40:13",
+        "verseKey": "kjv:psalms:40:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:40:14",
+      "numberLabel": "14",
+      "text": "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.",
+      "metadata": {
+        "reference": "Psalms 40:14",
+        "verseKey": "kjv:psalms:40:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:40:15",
+      "numberLabel": "15",
+      "text": "Let them be desolate for a reward of their shame that say unto me, Aha, aha.",
+      "metadata": {
+        "reference": "Psalms 40:15",
+        "verseKey": "kjv:psalms:40:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:40:16",
+      "numberLabel": "16",
+      "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified.",
+      "metadata": {
+        "reference": "Psalms 40:16",
+        "verseKey": "kjv:psalms:40:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:40:17",
+      "numberLabel": "17",
+      "text": "But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.",
+      "metadata": {
+        "reference": "Psalms 40:17",
+        "verseKey": "kjv:psalms:40:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

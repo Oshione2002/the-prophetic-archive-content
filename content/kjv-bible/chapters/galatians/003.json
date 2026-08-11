@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-galatians-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Galatians 3",
+  "display_title": "Galatians 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "galatians",
+  "book": "Galatians",
+  "bookName": "Galatians",
+  "bookOrder": 48,
+  "testament": "new",
+  "chapter": 3,
+  "sortOrder": 48003,
+  "verseCount": 29,
+  "aliases": [
+    "Gal",
+    "Ga"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:galatians:3:1",
+      "numberLabel": "1",
+      "text": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?",
+      "metadata": {
+        "reference": "Galatians 3:1",
+        "verseKey": "kjv:galatians:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:galatians:3:2",
+      "numberLabel": "2",
+      "text": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?",
+      "metadata": {
+        "reference": "Galatians 3:2",
+        "verseKey": "kjv:galatians:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:galatians:3:3",
+      "numberLabel": "3",
+      "text": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?",
+      "metadata": {
+        "reference": "Galatians 3:3",
+        "verseKey": "kjv:galatians:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:galatians:3:4",
+      "numberLabel": "4",
+      "text": "Have ye suffered so many things in vain? if it be yet in vain.",
+      "metadata": {
+        "reference": "Galatians 3:4",
+        "verseKey": "kjv:galatians:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:galatians:3:5",
+      "numberLabel": "5",
+      "text": "He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?",
+      "metadata": {
+        "reference": "Galatians 3:5",
+        "verseKey": "kjv:galatians:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:galatians:3:6",
+      "numberLabel": "6",
+      "text": "Even as Abraham believed God, and it was accounted to him for righteousness.",
+      "metadata": {
+        "reference": "Galatians 3:6",
+        "verseKey": "kjv:galatians:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:galatians:3:7",
+      "numberLabel": "7",
+      "text": "Know ye therefore that they which are of faith, the same are the children of Abraham.",
+      "metadata": {
+        "reference": "Galatians 3:7",
+        "verseKey": "kjv:galatians:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:galatians:3:8",
+      "numberLabel": "8",
+      "text": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.",
+      "metadata": {
+        "reference": "Galatians 3:8",
+        "verseKey": "kjv:galatians:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:galatians:3:9",
+      "numberLabel": "9",
+      "text": "So then they which be of faith are blessed with faithful Abraham.",
+      "metadata": {
+        "reference": "Galatians 3:9",
+        "verseKey": "kjv:galatians:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:galatians:3:10",
+      "numberLabel": "10",
+      "text": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.",
+      "metadata": {
+        "reference": "Galatians 3:10",
+        "verseKey": "kjv:galatians:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:galatians:3:11",
+      "numberLabel": "11",
+      "text": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.",
+      "metadata": {
+        "reference": "Galatians 3:11",
+        "verseKey": "kjv:galatians:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:galatians:3:12",
+      "numberLabel": "12",
+      "text": "And the law is not of faith: but, The man that doeth them shall live in them.",
+      "metadata": {
+        "reference": "Galatians 3:12",
+        "verseKey": "kjv:galatians:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:galatians:3:13",
+      "numberLabel": "13",
+      "text": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:",
+      "metadata": {
+        "reference": "Galatians 3:13",
+        "verseKey": "kjv:galatians:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:galatians:3:14",
+      "numberLabel": "14",
+      "text": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.",
+      "metadata": {
+        "reference": "Galatians 3:14",
+        "verseKey": "kjv:galatians:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:galatians:3:15",
+      "numberLabel": "15",
+      "text": "Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.",
+      "metadata": {
+        "reference": "Galatians 3:15",
+        "verseKey": "kjv:galatians:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:galatians:3:16",
+      "numberLabel": "16",
+      "text": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.",
+      "metadata": {
+        "reference": "Galatians 3:16",
+        "verseKey": "kjv:galatians:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:galatians:3:17",
+      "numberLabel": "17",
+      "text": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.",
+      "metadata": {
+        "reference": "Galatians 3:17",
+        "verseKey": "kjv:galatians:3:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:galatians:3:18",
+      "numberLabel": "18",
+      "text": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.",
+      "metadata": {
+        "reference": "Galatians 3:18",
+        "verseKey": "kjv:galatians:3:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:galatians:3:19",
+      "numberLabel": "19",
+      "text": "Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.",
+      "metadata": {
+        "reference": "Galatians 3:19",
+        "verseKey": "kjv:galatians:3:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:galatians:3:20",
+      "numberLabel": "20",
+      "text": "Now a mediator is not a mediator of one, but God is one.",
+      "metadata": {
+        "reference": "Galatians 3:20",
+        "verseKey": "kjv:galatians:3:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:galatians:3:21",
+      "numberLabel": "21",
+      "text": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.",
+      "metadata": {
+        "reference": "Galatians 3:21",
+        "verseKey": "kjv:galatians:3:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:galatians:3:22",
+      "numberLabel": "22",
+      "text": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
+      "metadata": {
+        "reference": "Galatians 3:22",
+        "verseKey": "kjv:galatians:3:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:galatians:3:23",
+      "numberLabel": "23",
+      "text": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.",
+      "metadata": {
+        "reference": "Galatians 3:23",
+        "verseKey": "kjv:galatians:3:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:galatians:3:24",
+      "numberLabel": "24",
+      "text": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.",
+      "metadata": {
+        "reference": "Galatians 3:24",
+        "verseKey": "kjv:galatians:3:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:galatians:3:25",
+      "numberLabel": "25",
+      "text": "But after that faith is come, we are no longer under a schoolmaster.",
+      "metadata": {
+        "reference": "Galatians 3:25",
+        "verseKey": "kjv:galatians:3:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:galatians:3:26",
+      "numberLabel": "26",
+      "text": "For ye are all the children of God by faith in Christ Jesus.",
+      "metadata": {
+        "reference": "Galatians 3:26",
+        "verseKey": "kjv:galatians:3:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:galatians:3:27",
+      "numberLabel": "27",
+      "text": "For as many of you as have been baptized into Christ have put on Christ.",
+      "metadata": {
+        "reference": "Galatians 3:27",
+        "verseKey": "kjv:galatians:3:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:galatians:3:28",
+      "numberLabel": "28",
+      "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
+      "metadata": {
+        "reference": "Galatians 3:28",
+        "verseKey": "kjv:galatians:3:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:galatians:3:29",
+      "numberLabel": "29",
+      "text": "And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise.",
+      "metadata": {
+        "reference": "Galatians 3:29",
+        "verseKey": "kjv:galatians:3:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Galatians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Galatians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

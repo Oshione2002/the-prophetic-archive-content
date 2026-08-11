@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Isaiah 5",
+  "display_title": "Isaiah 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 23005,
+  "verseCount": 30,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:5:1",
+      "numberLabel": "1",
+      "text": "Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:",
+      "metadata": {
+        "reference": "Isaiah 5:1",
+        "verseKey": "kjv:isaiah:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:5:2",
+      "numberLabel": "2",
+      "text": "And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.",
+      "metadata": {
+        "reference": "Isaiah 5:2",
+        "verseKey": "kjv:isaiah:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:5:3",
+      "numberLabel": "3",
+      "text": "And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.",
+      "metadata": {
+        "reference": "Isaiah 5:3",
+        "verseKey": "kjv:isaiah:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:5:4",
+      "numberLabel": "4",
+      "text": "What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?",
+      "metadata": {
+        "reference": "Isaiah 5:4",
+        "verseKey": "kjv:isaiah:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:5:5",
+      "numberLabel": "5",
+      "text": "And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; and break down the wall thereof, and it shall be trodden down:",
+      "metadata": {
+        "reference": "Isaiah 5:5",
+        "verseKey": "kjv:isaiah:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:5:6",
+      "numberLabel": "6",
+      "text": "And I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it.",
+      "metadata": {
+        "reference": "Isaiah 5:6",
+        "verseKey": "kjv:isaiah:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:5:7",
+      "numberLabel": "7",
+      "text": "For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.",
+      "metadata": {
+        "reference": "Isaiah 5:7",
+        "verseKey": "kjv:isaiah:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:5:8",
+      "numberLabel": "8",
+      "text": "Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!",
+      "metadata": {
+        "reference": "Isaiah 5:8",
+        "verseKey": "kjv:isaiah:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:5:9",
+      "numberLabel": "9",
+      "text": "In mine ears said the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant.",
+      "metadata": {
+        "reference": "Isaiah 5:9",
+        "verseKey": "kjv:isaiah:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:5:10",
+      "numberLabel": "10",
+      "text": "Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah.",
+      "metadata": {
+        "reference": "Isaiah 5:10",
+        "verseKey": "kjv:isaiah:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:5:11",
+      "numberLabel": "11",
+      "text": "Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!",
+      "metadata": {
+        "reference": "Isaiah 5:11",
+        "verseKey": "kjv:isaiah:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:5:12",
+      "numberLabel": "12",
+      "text": "And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.",
+      "metadata": {
+        "reference": "Isaiah 5:12",
+        "verseKey": "kjv:isaiah:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:5:13",
+      "numberLabel": "13",
+      "text": "Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst.",
+      "metadata": {
+        "reference": "Isaiah 5:13",
+        "verseKey": "kjv:isaiah:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:5:14",
+      "numberLabel": "14",
+      "text": "Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.",
+      "metadata": {
+        "reference": "Isaiah 5:14",
+        "verseKey": "kjv:isaiah:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:5:15",
+      "numberLabel": "15",
+      "text": "And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:",
+      "metadata": {
+        "reference": "Isaiah 5:15",
+        "verseKey": "kjv:isaiah:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:5:16",
+      "numberLabel": "16",
+      "text": "But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.",
+      "metadata": {
+        "reference": "Isaiah 5:16",
+        "verseKey": "kjv:isaiah:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:5:17",
+      "numberLabel": "17",
+      "text": "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.",
+      "metadata": {
+        "reference": "Isaiah 5:17",
+        "verseKey": "kjv:isaiah:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:5:18",
+      "numberLabel": "18",
+      "text": "Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:",
+      "metadata": {
+        "reference": "Isaiah 5:18",
+        "verseKey": "kjv:isaiah:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:5:19",
+      "numberLabel": "19",
+      "text": "That say, Let him make speed, and hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it!",
+      "metadata": {
+        "reference": "Isaiah 5:19",
+        "verseKey": "kjv:isaiah:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:5:20",
+      "numberLabel": "20",
+      "text": "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!",
+      "metadata": {
+        "reference": "Isaiah 5:20",
+        "verseKey": "kjv:isaiah:5:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:5:21",
+      "numberLabel": "21",
+      "text": "Woe unto them that are wise in their own eyes, and prudent in their own sight!",
+      "metadata": {
+        "reference": "Isaiah 5:21",
+        "verseKey": "kjv:isaiah:5:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:5:22",
+      "numberLabel": "22",
+      "text": "Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink:",
+      "metadata": {
+        "reference": "Isaiah 5:22",
+        "verseKey": "kjv:isaiah:5:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:isaiah:5:23",
+      "numberLabel": "23",
+      "text": "Which justify the wicked for reward, and take away the righteousness of the righteous from him!",
+      "metadata": {
+        "reference": "Isaiah 5:23",
+        "verseKey": "kjv:isaiah:5:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:isaiah:5:24",
+      "numberLabel": "24",
+      "text": "Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, so their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel.",
+      "metadata": {
+        "reference": "Isaiah 5:24",
+        "verseKey": "kjv:isaiah:5:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:isaiah:5:25",
+      "numberLabel": "25",
+      "text": "Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases were torn in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still.",
+      "metadata": {
+        "reference": "Isaiah 5:25",
+        "verseKey": "kjv:isaiah:5:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:isaiah:5:26",
+      "numberLabel": "26",
+      "text": "And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:",
+      "metadata": {
+        "reference": "Isaiah 5:26",
+        "verseKey": "kjv:isaiah:5:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:isaiah:5:27",
+      "numberLabel": "27",
+      "text": "None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:",
+      "metadata": {
+        "reference": "Isaiah 5:27",
+        "verseKey": "kjv:isaiah:5:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:isaiah:5:28",
+      "numberLabel": "28",
+      "text": "Whose arrows are sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:",
+      "metadata": {
+        "reference": "Isaiah 5:28",
+        "verseKey": "kjv:isaiah:5:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:isaiah:5:29",
+      "numberLabel": "29",
+      "text": "Their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry it away safe, and none shall deliver it.",
+      "metadata": {
+        "reference": "Isaiah 5:29",
+        "verseKey": "kjv:isaiah:5:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:isaiah:5:30",
+      "numberLabel": "30",
+      "text": "And in that day they shall roar against them like the roaring of the sea: and if one look unto the land, behold darkness and sorrow, and the light is darkened in the heavens thereof.",
+      "metadata": {
+        "reference": "Isaiah 5:30",
+        "verseKey": "kjv:isaiah:5:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

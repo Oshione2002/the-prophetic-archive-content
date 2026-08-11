@@ -1,0 +1,608 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Acts 10",
+  "display_title": "Acts 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 10,
+  "sortOrder": 44010,
+  "verseCount": 48,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:10:1",
+      "numberLabel": "1",
+      "text": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,",
+      "metadata": {
+        "reference": "Acts 10:1",
+        "verseKey": "kjv:acts:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:10:2",
+      "numberLabel": "2",
+      "text": "A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.",
+      "metadata": {
+        "reference": "Acts 10:2",
+        "verseKey": "kjv:acts:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:10:3",
+      "numberLabel": "3",
+      "text": "He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.",
+      "metadata": {
+        "reference": "Acts 10:3",
+        "verseKey": "kjv:acts:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:10:4",
+      "numberLabel": "4",
+      "text": "And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.",
+      "metadata": {
+        "reference": "Acts 10:4",
+        "verseKey": "kjv:acts:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:10:5",
+      "numberLabel": "5",
+      "text": "And now send men to Joppa, and call for one Simon, whose surname is Peter:",
+      "metadata": {
+        "reference": "Acts 10:5",
+        "verseKey": "kjv:acts:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:10:6",
+      "numberLabel": "6",
+      "text": "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.",
+      "metadata": {
+        "reference": "Acts 10:6",
+        "verseKey": "kjv:acts:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:10:7",
+      "numberLabel": "7",
+      "text": "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;",
+      "metadata": {
+        "reference": "Acts 10:7",
+        "verseKey": "kjv:acts:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:10:8",
+      "numberLabel": "8",
+      "text": "And when he had declared all these things unto them, he sent them to Joppa.",
+      "metadata": {
+        "reference": "Acts 10:8",
+        "verseKey": "kjv:acts:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:10:9",
+      "numberLabel": "9",
+      "text": "On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:",
+      "metadata": {
+        "reference": "Acts 10:9",
+        "verseKey": "kjv:acts:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:10:10",
+      "numberLabel": "10",
+      "text": "And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,",
+      "metadata": {
+        "reference": "Acts 10:10",
+        "verseKey": "kjv:acts:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:10:11",
+      "numberLabel": "11",
+      "text": "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:",
+      "metadata": {
+        "reference": "Acts 10:11",
+        "verseKey": "kjv:acts:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:10:12",
+      "numberLabel": "12",
+      "text": "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
+      "metadata": {
+        "reference": "Acts 10:12",
+        "verseKey": "kjv:acts:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:10:13",
+      "numberLabel": "13",
+      "text": "And there came a voice to him, Rise, Peter; kill, and eat.",
+      "metadata": {
+        "reference": "Acts 10:13",
+        "verseKey": "kjv:acts:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:10:14",
+      "numberLabel": "14",
+      "text": "But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.",
+      "metadata": {
+        "reference": "Acts 10:14",
+        "verseKey": "kjv:acts:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:10:15",
+      "numberLabel": "15",
+      "text": "And the voice spake unto him again the second time, What God hath cleansed, that call not thou common.",
+      "metadata": {
+        "reference": "Acts 10:15",
+        "verseKey": "kjv:acts:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:10:16",
+      "numberLabel": "16",
+      "text": "This was done thrice: and the vessel was received up again into heaven.",
+      "metadata": {
+        "reference": "Acts 10:16",
+        "verseKey": "kjv:acts:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:10:17",
+      "numberLabel": "17",
+      "text": "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon’s house, and stood before the gate,",
+      "metadata": {
+        "reference": "Acts 10:17",
+        "verseKey": "kjv:acts:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:10:18",
+      "numberLabel": "18",
+      "text": "And called, and asked whether Simon, which was surnamed Peter, were lodged there.",
+      "metadata": {
+        "reference": "Acts 10:18",
+        "verseKey": "kjv:acts:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:10:19",
+      "numberLabel": "19",
+      "text": "While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.",
+      "metadata": {
+        "reference": "Acts 10:19",
+        "verseKey": "kjv:acts:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:10:20",
+      "numberLabel": "20",
+      "text": "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.",
+      "metadata": {
+        "reference": "Acts 10:20",
+        "verseKey": "kjv:acts:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:10:21",
+      "numberLabel": "21",
+      "text": "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?",
+      "metadata": {
+        "reference": "Acts 10:21",
+        "verseKey": "kjv:acts:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:10:22",
+      "numberLabel": "22",
+      "text": "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.",
+      "metadata": {
+        "reference": "Acts 10:22",
+        "verseKey": "kjv:acts:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:10:23",
+      "numberLabel": "23",
+      "text": "Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.",
+      "metadata": {
+        "reference": "Acts 10:23",
+        "verseKey": "kjv:acts:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:10:24",
+      "numberLabel": "24",
+      "text": "And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.",
+      "metadata": {
+        "reference": "Acts 10:24",
+        "verseKey": "kjv:acts:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:10:25",
+      "numberLabel": "25",
+      "text": "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him.",
+      "metadata": {
+        "reference": "Acts 10:25",
+        "verseKey": "kjv:acts:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:10:26",
+      "numberLabel": "26",
+      "text": "But Peter took him up, saying, Stand up; I myself also am a man.",
+      "metadata": {
+        "reference": "Acts 10:26",
+        "verseKey": "kjv:acts:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:10:27",
+      "numberLabel": "27",
+      "text": "And as he talked with him, he went in, and found many that were come together.",
+      "metadata": {
+        "reference": "Acts 10:27",
+        "verseKey": "kjv:acts:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:10:28",
+      "numberLabel": "28",
+      "text": "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.",
+      "metadata": {
+        "reference": "Acts 10:28",
+        "verseKey": "kjv:acts:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:10:29",
+      "numberLabel": "29",
+      "text": "Therefore came I unto you without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?",
+      "metadata": {
+        "reference": "Acts 10:29",
+        "verseKey": "kjv:acts:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:10:30",
+      "numberLabel": "30",
+      "text": "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,",
+      "metadata": {
+        "reference": "Acts 10:30",
+        "verseKey": "kjv:acts:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:acts:10:31",
+      "numberLabel": "31",
+      "text": "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.",
+      "metadata": {
+        "reference": "Acts 10:31",
+        "verseKey": "kjv:acts:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:acts:10:32",
+      "numberLabel": "32",
+      "text": "Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of one Simon a tanner by the sea side: who, when he cometh, shall speak unto thee.",
+      "metadata": {
+        "reference": "Acts 10:32",
+        "verseKey": "kjv:acts:10:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:acts:10:33",
+      "numberLabel": "33",
+      "text": "Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God.",
+      "metadata": {
+        "reference": "Acts 10:33",
+        "verseKey": "kjv:acts:10:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:acts:10:34",
+      "numberLabel": "34",
+      "text": "Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:",
+      "metadata": {
+        "reference": "Acts 10:34",
+        "verseKey": "kjv:acts:10:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:acts:10:35",
+      "numberLabel": "35",
+      "text": "But in every nation he that feareth him, and worketh righteousness, is accepted with him.",
+      "metadata": {
+        "reference": "Acts 10:35",
+        "verseKey": "kjv:acts:10:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:acts:10:36",
+      "numberLabel": "36",
+      "text": "The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)",
+      "metadata": {
+        "reference": "Acts 10:36",
+        "verseKey": "kjv:acts:10:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:acts:10:37",
+      "numberLabel": "37",
+      "text": "That word, I say, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;",
+      "metadata": {
+        "reference": "Acts 10:37",
+        "verseKey": "kjv:acts:10:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:acts:10:38",
+      "numberLabel": "38",
+      "text": "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.",
+      "metadata": {
+        "reference": "Acts 10:38",
+        "verseKey": "kjv:acts:10:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:acts:10:39",
+      "numberLabel": "39",
+      "text": "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:",
+      "metadata": {
+        "reference": "Acts 10:39",
+        "verseKey": "kjv:acts:10:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:acts:10:40",
+      "numberLabel": "40",
+      "text": "Him God raised up the third day, and shewed him openly;",
+      "metadata": {
+        "reference": "Acts 10:40",
+        "verseKey": "kjv:acts:10:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:acts:10:41",
+      "numberLabel": "41",
+      "text": "Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.",
+      "metadata": {
+        "reference": "Acts 10:41",
+        "verseKey": "kjv:acts:10:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:acts:10:42",
+      "numberLabel": "42",
+      "text": "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.",
+      "metadata": {
+        "reference": "Acts 10:42",
+        "verseKey": "kjv:acts:10:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:acts:10:43",
+      "numberLabel": "43",
+      "text": "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.",
+      "metadata": {
+        "reference": "Acts 10:43",
+        "verseKey": "kjv:acts:10:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:acts:10:44",
+      "numberLabel": "44",
+      "text": "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+      "metadata": {
+        "reference": "Acts 10:44",
+        "verseKey": "kjv:acts:10:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:acts:10:45",
+      "numberLabel": "45",
+      "text": "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.",
+      "metadata": {
+        "reference": "Acts 10:45",
+        "verseKey": "kjv:acts:10:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:acts:10:46",
+      "numberLabel": "46",
+      "text": "For they heard them speak with tongues, and magnify God. Then answered Peter,",
+      "metadata": {
+        "reference": "Acts 10:46",
+        "verseKey": "kjv:acts:10:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:acts:10:47",
+      "numberLabel": "47",
+      "text": "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?",
+      "metadata": {
+        "reference": "Acts 10:47",
+        "verseKey": "kjv:acts:10:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:acts:10:48",
+      "numberLabel": "48",
+      "text": "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.",
+      "metadata": {
+        "reference": "Acts 10:48",
+        "verseKey": "kjv:acts:10:48"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

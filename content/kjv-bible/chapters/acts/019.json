@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Acts 19",
+  "display_title": "Acts 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 19,
+  "sortOrder": 44019,
+  "verseCount": 41,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:19:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,",
+      "metadata": {
+        "reference": "Acts 19:1",
+        "verseKey": "kjv:acts:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:19:2",
+      "numberLabel": "2",
+      "text": "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost.",
+      "metadata": {
+        "reference": "Acts 19:2",
+        "verseKey": "kjv:acts:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:19:3",
+      "numberLabel": "3",
+      "text": "And he said unto them, Unto what then were ye baptized? And they said, Unto John’s baptism.",
+      "metadata": {
+        "reference": "Acts 19:3",
+        "verseKey": "kjv:acts:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:19:4",
+      "numberLabel": "4",
+      "text": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.",
+      "metadata": {
+        "reference": "Acts 19:4",
+        "verseKey": "kjv:acts:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:19:5",
+      "numberLabel": "5",
+      "text": "When they heard this, they were baptized in the name of the Lord Jesus.",
+      "metadata": {
+        "reference": "Acts 19:5",
+        "verseKey": "kjv:acts:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:19:6",
+      "numberLabel": "6",
+      "text": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+      "metadata": {
+        "reference": "Acts 19:6",
+        "verseKey": "kjv:acts:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:19:7",
+      "numberLabel": "7",
+      "text": "And all the men were about twelve.",
+      "metadata": {
+        "reference": "Acts 19:7",
+        "verseKey": "kjv:acts:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:19:8",
+      "numberLabel": "8",
+      "text": "And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.",
+      "metadata": {
+        "reference": "Acts 19:8",
+        "verseKey": "kjv:acts:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:19:9",
+      "numberLabel": "9",
+      "text": "But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.",
+      "metadata": {
+        "reference": "Acts 19:9",
+        "verseKey": "kjv:acts:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:19:10",
+      "numberLabel": "10",
+      "text": "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.",
+      "metadata": {
+        "reference": "Acts 19:10",
+        "verseKey": "kjv:acts:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:19:11",
+      "numberLabel": "11",
+      "text": "And God wrought special miracles by the hands of Paul:",
+      "metadata": {
+        "reference": "Acts 19:11",
+        "verseKey": "kjv:acts:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:19:12",
+      "numberLabel": "12",
+      "text": "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.",
+      "metadata": {
+        "reference": "Acts 19:12",
+        "verseKey": "kjv:acts:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:19:13",
+      "numberLabel": "13",
+      "text": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the LORD Jesus, saying, We adjure you by Jesus whom Paul preacheth.",
+      "metadata": {
+        "reference": "Acts 19:13",
+        "verseKey": "kjv:acts:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:19:14",
+      "numberLabel": "14",
+      "text": "And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.",
+      "metadata": {
+        "reference": "Acts 19:14",
+        "verseKey": "kjv:acts:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:19:15",
+      "numberLabel": "15",
+      "text": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?",
+      "metadata": {
+        "reference": "Acts 19:15",
+        "verseKey": "kjv:acts:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:19:16",
+      "numberLabel": "16",
+      "text": "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.",
+      "metadata": {
+        "reference": "Acts 19:16",
+        "verseKey": "kjv:acts:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:19:17",
+      "numberLabel": "17",
+      "text": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.",
+      "metadata": {
+        "reference": "Acts 19:17",
+        "verseKey": "kjv:acts:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:19:18",
+      "numberLabel": "18",
+      "text": "And many that believed came, and confessed, and shewed their deeds.",
+      "metadata": {
+        "reference": "Acts 19:18",
+        "verseKey": "kjv:acts:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:19:19",
+      "numberLabel": "19",
+      "text": "Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver.",
+      "metadata": {
+        "reference": "Acts 19:19",
+        "verseKey": "kjv:acts:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:19:20",
+      "numberLabel": "20",
+      "text": "So mightily grew the word of God and prevailed.",
+      "metadata": {
+        "reference": "Acts 19:20",
+        "verseKey": "kjv:acts:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:19:21",
+      "numberLabel": "21",
+      "text": "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.",
+      "metadata": {
+        "reference": "Acts 19:21",
+        "verseKey": "kjv:acts:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:19:22",
+      "numberLabel": "22",
+      "text": "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.",
+      "metadata": {
+        "reference": "Acts 19:22",
+        "verseKey": "kjv:acts:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:19:23",
+      "numberLabel": "23",
+      "text": "And the same time there arose no small stir about that way.",
+      "metadata": {
+        "reference": "Acts 19:23",
+        "verseKey": "kjv:acts:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:19:24",
+      "numberLabel": "24",
+      "text": "For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;",
+      "metadata": {
+        "reference": "Acts 19:24",
+        "verseKey": "kjv:acts:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:19:25",
+      "numberLabel": "25",
+      "text": "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.",
+      "metadata": {
+        "reference": "Acts 19:25",
+        "verseKey": "kjv:acts:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:19:26",
+      "numberLabel": "26",
+      "text": "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:",
+      "metadata": {
+        "reference": "Acts 19:26",
+        "verseKey": "kjv:acts:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:19:27",
+      "numberLabel": "27",
+      "text": "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.",
+      "metadata": {
+        "reference": "Acts 19:27",
+        "verseKey": "kjv:acts:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:19:28",
+      "numberLabel": "28",
+      "text": "And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians.",
+      "metadata": {
+        "reference": "Acts 19:28",
+        "verseKey": "kjv:acts:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:19:29",
+      "numberLabel": "29",
+      "text": "And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre.",
+      "metadata": {
+        "reference": "Acts 19:29",
+        "verseKey": "kjv:acts:19:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:19:30",
+      "numberLabel": "30",
+      "text": "And when Paul would have entered in unto the people, the disciples suffered him not.",
+      "metadata": {
+        "reference": "Acts 19:30",
+        "verseKey": "kjv:acts:19:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:acts:19:31",
+      "numberLabel": "31",
+      "text": "And certain of the chief of Asia, which were his friends, sent unto him, desiring him that he would not adventure himself into the theatre.",
+      "metadata": {
+        "reference": "Acts 19:31",
+        "verseKey": "kjv:acts:19:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:acts:19:32",
+      "numberLabel": "32",
+      "text": "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together.",
+      "metadata": {
+        "reference": "Acts 19:32",
+        "verseKey": "kjv:acts:19:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:acts:19:33",
+      "numberLabel": "33",
+      "text": "And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people.",
+      "metadata": {
+        "reference": "Acts 19:33",
+        "verseKey": "kjv:acts:19:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:acts:19:34",
+      "numberLabel": "34",
+      "text": "But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great is Diana of the Ephesians.",
+      "metadata": {
+        "reference": "Acts 19:34",
+        "verseKey": "kjv:acts:19:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:acts:19:35",
+      "numberLabel": "35",
+      "text": "And when the townclerk had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?",
+      "metadata": {
+        "reference": "Acts 19:35",
+        "verseKey": "kjv:acts:19:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:acts:19:36",
+      "numberLabel": "36",
+      "text": "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.",
+      "metadata": {
+        "reference": "Acts 19:36",
+        "verseKey": "kjv:acts:19:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:acts:19:37",
+      "numberLabel": "37",
+      "text": "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.",
+      "metadata": {
+        "reference": "Acts 19:37",
+        "verseKey": "kjv:acts:19:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:acts:19:38",
+      "numberLabel": "38",
+      "text": "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another.",
+      "metadata": {
+        "reference": "Acts 19:38",
+        "verseKey": "kjv:acts:19:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:acts:19:39",
+      "numberLabel": "39",
+      "text": "But if ye enquire any thing concerning other matters, it shall be determined in a lawful assembly.",
+      "metadata": {
+        "reference": "Acts 19:39",
+        "verseKey": "kjv:acts:19:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:acts:19:40",
+      "numberLabel": "40",
+      "text": "For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse.",
+      "metadata": {
+        "reference": "Acts 19:40",
+        "verseKey": "kjv:acts:19:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:acts:19:41",
+      "numberLabel": "41",
+      "text": "And when he had thus spoken, he dismissed the assembly.",
+      "metadata": {
+        "reference": "Acts 19:41",
+        "verseKey": "kjv:acts:19:41"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

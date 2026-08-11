@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-042",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 42,
+  "title": "Psalms 42",
+  "display_title": "Psalms 42",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 42,
+  "sortOrder": 19042,
+  "verseCount": 11,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:42:1",
+      "numberLabel": "1",
+      "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+      "metadata": {
+        "reference": "Psalms 42:1",
+        "verseKey": "kjv:psalms:42:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:42:2",
+      "numberLabel": "2",
+      "text": "My soul thirsteth for God, for the living God: when shall I come and appear before God?",
+      "metadata": {
+        "reference": "Psalms 42:2",
+        "verseKey": "kjv:psalms:42:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:42:3",
+      "numberLabel": "3",
+      "text": "My tears have been my meat day and night, while they continually say unto me, Where is thy God?",
+      "metadata": {
+        "reference": "Psalms 42:3",
+        "verseKey": "kjv:psalms:42:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:42:4",
+      "numberLabel": "4",
+      "text": "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.",
+      "metadata": {
+        "reference": "Psalms 42:4",
+        "verseKey": "kjv:psalms:42:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:42:5",
+      "numberLabel": "5",
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.",
+      "metadata": {
+        "reference": "Psalms 42:5",
+        "verseKey": "kjv:psalms:42:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:42:6",
+      "numberLabel": "6",
+      "text": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.",
+      "metadata": {
+        "reference": "Psalms 42:6",
+        "verseKey": "kjv:psalms:42:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:42:7",
+      "numberLabel": "7",
+      "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.",
+      "metadata": {
+        "reference": "Psalms 42:7",
+        "verseKey": "kjv:psalms:42:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:42:8",
+      "numberLabel": "8",
+      "text": "Yet the LORD will command his lovingkindness in the day time, and in the night his song shall be with me, and my prayer unto the God of my life.",
+      "metadata": {
+        "reference": "Psalms 42:8",
+        "verseKey": "kjv:psalms:42:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:42:9",
+      "numberLabel": "9",
+      "text": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?",
+      "metadata": {
+        "reference": "Psalms 42:9",
+        "verseKey": "kjv:psalms:42:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:42:10",
+      "numberLabel": "10",
+      "text": "As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?",
+      "metadata": {
+        "reference": "Psalms 42:10",
+        "verseKey": "kjv:psalms:42:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:42:11",
+      "numberLabel": "11",
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "metadata": {
+        "reference": "Psalms 42:11",
+        "verseKey": "kjv:psalms:42:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

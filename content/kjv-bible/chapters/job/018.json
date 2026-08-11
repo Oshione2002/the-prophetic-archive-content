@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "Job 18",
+  "display_title": "Job 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 18,
+  "sortOrder": 18018,
+  "verseCount": 21,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:18:1",
+      "numberLabel": "1",
+      "text": "Then answered Bildad the Shuhite, and said,",
+      "metadata": {
+        "reference": "Job 18:1",
+        "verseKey": "kjv:job:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:18:2",
+      "numberLabel": "2",
+      "text": "How long will it be ere ye make an end of words? mark, and afterwards we will speak.",
+      "metadata": {
+        "reference": "Job 18:2",
+        "verseKey": "kjv:job:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:18:3",
+      "numberLabel": "3",
+      "text": "Wherefore are we counted as beasts, and reputed vile in your sight?",
+      "metadata": {
+        "reference": "Job 18:3",
+        "verseKey": "kjv:job:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:18:4",
+      "numberLabel": "4",
+      "text": "He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?",
+      "metadata": {
+        "reference": "Job 18:4",
+        "verseKey": "kjv:job:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:18:5",
+      "numberLabel": "5",
+      "text": "Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.",
+      "metadata": {
+        "reference": "Job 18:5",
+        "verseKey": "kjv:job:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:18:6",
+      "numberLabel": "6",
+      "text": "The light shall be dark in his tabernacle, and his candle shall be put out with him.",
+      "metadata": {
+        "reference": "Job 18:6",
+        "verseKey": "kjv:job:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:18:7",
+      "numberLabel": "7",
+      "text": "The steps of his strength shall be straitened, and his own counsel shall cast him down.",
+      "metadata": {
+        "reference": "Job 18:7",
+        "verseKey": "kjv:job:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:18:8",
+      "numberLabel": "8",
+      "text": "For he is cast into a net by his own feet, and he walketh upon a snare.",
+      "metadata": {
+        "reference": "Job 18:8",
+        "verseKey": "kjv:job:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:18:9",
+      "numberLabel": "9",
+      "text": "The gin shall take him by the heel, and the robber shall prevail against him.",
+      "metadata": {
+        "reference": "Job 18:9",
+        "verseKey": "kjv:job:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:18:10",
+      "numberLabel": "10",
+      "text": "The snare is laid for him in the ground, and a trap for him in the way.",
+      "metadata": {
+        "reference": "Job 18:10",
+        "verseKey": "kjv:job:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:18:11",
+      "numberLabel": "11",
+      "text": "Terrors shall make him afraid on every side, and shall drive him to his feet.",
+      "metadata": {
+        "reference": "Job 18:11",
+        "verseKey": "kjv:job:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:18:12",
+      "numberLabel": "12",
+      "text": "His strength shall be hungerbitten, and destruction shall be ready at his side.",
+      "metadata": {
+        "reference": "Job 18:12",
+        "verseKey": "kjv:job:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:18:13",
+      "numberLabel": "13",
+      "text": "It shall devour the strength of his skin: even the firstborn of death shall devour his strength.",
+      "metadata": {
+        "reference": "Job 18:13",
+        "verseKey": "kjv:job:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:18:14",
+      "numberLabel": "14",
+      "text": "His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.",
+      "metadata": {
+        "reference": "Job 18:14",
+        "verseKey": "kjv:job:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:18:15",
+      "numberLabel": "15",
+      "text": "It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation.",
+      "metadata": {
+        "reference": "Job 18:15",
+        "verseKey": "kjv:job:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:18:16",
+      "numberLabel": "16",
+      "text": "His roots shall be dried up beneath, and above shall his branch be cut off.",
+      "metadata": {
+        "reference": "Job 18:16",
+        "verseKey": "kjv:job:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:18:17",
+      "numberLabel": "17",
+      "text": "His remembrance shall perish from the earth, and he shall have no name in the street.",
+      "metadata": {
+        "reference": "Job 18:17",
+        "verseKey": "kjv:job:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:18:18",
+      "numberLabel": "18",
+      "text": "He shall be driven from light into darkness, and chased out of the world.",
+      "metadata": {
+        "reference": "Job 18:18",
+        "verseKey": "kjv:job:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:18:19",
+      "numberLabel": "19",
+      "text": "He shall neither have son nor nephew among his people, nor any remaining in his dwellings.",
+      "metadata": {
+        "reference": "Job 18:19",
+        "verseKey": "kjv:job:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:18:20",
+      "numberLabel": "20",
+      "text": "They that come after him shall be astonied at his day, as they that went before were affrighted.",
+      "metadata": {
+        "reference": "Job 18:20",
+        "verseKey": "kjv:job:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:18:21",
+      "numberLabel": "21",
+      "text": "Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God.",
+      "metadata": {
+        "reference": "Job 18:21",
+        "verseKey": "kjv:job:18:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-kings-016",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 16,
+  "title": "1 Kings 16",
+  "display_title": "1 Kings 16",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-kings",
+  "book": "1 Kings",
+  "bookName": "1 Kings",
+  "bookOrder": 11,
+  "testament": "old",
+  "chapter": 16,
+  "sortOrder": 11016,
+  "verseCount": 34,
+  "aliases": [
+    "1 Kgs",
+    "1Kgs",
+    "1 Ki",
+    "1Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-kings:16:1",
+      "numberLabel": "1",
+      "text": "Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,",
+      "metadata": {
+        "reference": "1 Kings 16:1",
+        "verseKey": "kjv:1-kings:16:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-kings:16:2",
+      "numberLabel": "2",
+      "text": "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;",
+      "metadata": {
+        "reference": "1 Kings 16:2",
+        "verseKey": "kjv:1-kings:16:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-kings:16:3",
+      "numberLabel": "3",
+      "text": "Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat.",
+      "metadata": {
+        "reference": "1 Kings 16:3",
+        "verseKey": "kjv:1-kings:16:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-kings:16:4",
+      "numberLabel": "4",
+      "text": "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat.",
+      "metadata": {
+        "reference": "1 Kings 16:4",
+        "verseKey": "kjv:1-kings:16:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-kings:16:5",
+      "numberLabel": "5",
+      "text": "Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?",
+      "metadata": {
+        "reference": "1 Kings 16:5",
+        "verseKey": "kjv:1-kings:16:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-kings:16:6",
+      "numberLabel": "6",
+      "text": "So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead.",
+      "metadata": {
+        "reference": "1 Kings 16:6",
+        "verseKey": "kjv:1-kings:16:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-kings:16:7",
+      "numberLabel": "7",
+      "text": "And also by the hand of the prophet Jehu the son of Hanani came the word of the LORD against Baasha, and against his house, even for all the evil that he did in the sight of the LORD, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him.",
+      "metadata": {
+        "reference": "1 Kings 16:7",
+        "verseKey": "kjv:1-kings:16:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-kings:16:8",
+      "numberLabel": "8",
+      "text": "In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.",
+      "metadata": {
+        "reference": "1 Kings 16:8",
+        "verseKey": "kjv:1-kings:16:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-kings:16:9",
+      "numberLabel": "9",
+      "text": "And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah.",
+      "metadata": {
+        "reference": "1 Kings 16:9",
+        "verseKey": "kjv:1-kings:16:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-kings:16:10",
+      "numberLabel": "10",
+      "text": "And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.",
+      "metadata": {
+        "reference": "1 Kings 16:10",
+        "verseKey": "kjv:1-kings:16:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-kings:16:11",
+      "numberLabel": "11",
+      "text": "And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.",
+      "metadata": {
+        "reference": "1 Kings 16:11",
+        "verseKey": "kjv:1-kings:16:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-kings:16:12",
+      "numberLabel": "12",
+      "text": "Thus did Zimri destroy all the house of Baasha, according to the word of the LORD, which he spake against Baasha by Jehu the prophet,",
+      "metadata": {
+        "reference": "1 Kings 16:12",
+        "verseKey": "kjv:1-kings:16:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-kings:16:13",
+      "numberLabel": "13",
+      "text": "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities.",
+      "metadata": {
+        "reference": "1 Kings 16:13",
+        "verseKey": "kjv:1-kings:16:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-kings:16:14",
+      "numberLabel": "14",
+      "text": "Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?",
+      "metadata": {
+        "reference": "1 Kings 16:14",
+        "verseKey": "kjv:1-kings:16:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-kings:16:15",
+      "numberLabel": "15",
+      "text": "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines.",
+      "metadata": {
+        "reference": "1 Kings 16:15",
+        "verseKey": "kjv:1-kings:16:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-kings:16:16",
+      "numberLabel": "16",
+      "text": "And the people that were encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.",
+      "metadata": {
+        "reference": "1 Kings 16:16",
+        "verseKey": "kjv:1-kings:16:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-kings:16:17",
+      "numberLabel": "17",
+      "text": "And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.",
+      "metadata": {
+        "reference": "1 Kings 16:17",
+        "verseKey": "kjv:1-kings:16:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-kings:16:18",
+      "numberLabel": "18",
+      "text": "And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king’s house, and burnt the king’s house over him with fire, and died,",
+      "metadata": {
+        "reference": "1 Kings 16:18",
+        "verseKey": "kjv:1-kings:16:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-kings:16:19",
+      "numberLabel": "19",
+      "text": "For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.",
+      "metadata": {
+        "reference": "1 Kings 16:19",
+        "verseKey": "kjv:1-kings:16:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-kings:16:20",
+      "numberLabel": "20",
+      "text": "Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?",
+      "metadata": {
+        "reference": "1 Kings 16:20",
+        "verseKey": "kjv:1-kings:16:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-kings:16:21",
+      "numberLabel": "21",
+      "text": "Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.",
+      "metadata": {
+        "reference": "1 Kings 16:21",
+        "verseKey": "kjv:1-kings:16:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-kings:16:22",
+      "numberLabel": "22",
+      "text": "But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.",
+      "metadata": {
+        "reference": "1 Kings 16:22",
+        "verseKey": "kjv:1-kings:16:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-kings:16:23",
+      "numberLabel": "23",
+      "text": "In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.",
+      "metadata": {
+        "reference": "1 Kings 16:23",
+        "verseKey": "kjv:1-kings:16:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-kings:16:24",
+      "numberLabel": "24",
+      "text": "And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.",
+      "metadata": {
+        "reference": "1 Kings 16:24",
+        "verseKey": "kjv:1-kings:16:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-kings:16:25",
+      "numberLabel": "25",
+      "text": "But Omri wrought evil in the eyes of the LORD, and did worse than all that were before him.",
+      "metadata": {
+        "reference": "1 Kings 16:25",
+        "verseKey": "kjv:1-kings:16:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-kings:16:26",
+      "numberLabel": "26",
+      "text": "For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the LORD God of Israel to anger with their vanities.",
+      "metadata": {
+        "reference": "1 Kings 16:26",
+        "verseKey": "kjv:1-kings:16:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-kings:16:27",
+      "numberLabel": "27",
+      "text": "Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?",
+      "metadata": {
+        "reference": "1 Kings 16:27",
+        "verseKey": "kjv:1-kings:16:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-kings:16:28",
+      "numberLabel": "28",
+      "text": "So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.",
+      "metadata": {
+        "reference": "1 Kings 16:28",
+        "verseKey": "kjv:1-kings:16:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-kings:16:29",
+      "numberLabel": "29",
+      "text": "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.",
+      "metadata": {
+        "reference": "1 Kings 16:29",
+        "verseKey": "kjv:1-kings:16:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-kings:16:30",
+      "numberLabel": "30",
+      "text": "And Ahab the son of Omri did evil in the sight of the LORD above all that were before him.",
+      "metadata": {
+        "reference": "1 Kings 16:30",
+        "verseKey": "kjv:1-kings:16:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-kings:16:31",
+      "numberLabel": "31",
+      "text": "And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.",
+      "metadata": {
+        "reference": "1 Kings 16:31",
+        "verseKey": "kjv:1-kings:16:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-kings:16:32",
+      "numberLabel": "32",
+      "text": "And he reared up an altar for Baal in the house of Baal, which he had built in Samaria.",
+      "metadata": {
+        "reference": "1 Kings 16:32",
+        "verseKey": "kjv:1-kings:16:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-kings:16:33",
+      "numberLabel": "33",
+      "text": "And Ahab made a grove; and Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel that were before him.",
+      "metadata": {
+        "reference": "1 Kings 16:33",
+        "verseKey": "kjv:1-kings:16:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-kings:16:34",
+      "numberLabel": "34",
+      "text": "In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun.",
+      "metadata": {
+        "reference": "1 Kings 16:34",
+        "verseKey": "kjv:1-kings:16:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

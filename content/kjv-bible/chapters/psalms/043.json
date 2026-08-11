@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-043",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 43,
+  "title": "Psalms 43",
+  "display_title": "Psalms 43",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 43,
+  "sortOrder": 19043,
+  "verseCount": 5,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:43:1",
+      "numberLabel": "1",
+      "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+      "metadata": {
+        "reference": "Psalms 43:1",
+        "verseKey": "kjv:psalms:43:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:43:2",
+      "numberLabel": "2",
+      "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+      "metadata": {
+        "reference": "Psalms 43:2",
+        "verseKey": "kjv:psalms:43:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:43:3",
+      "numberLabel": "3",
+      "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+      "metadata": {
+        "reference": "Psalms 43:3",
+        "verseKey": "kjv:psalms:43:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:43:4",
+      "numberLabel": "4",
+      "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+      "metadata": {
+        "reference": "Psalms 43:4",
+        "verseKey": "kjv:psalms:43:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:43:5",
+      "numberLabel": "5",
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "metadata": {
+        "reference": "Psalms 43:5",
+        "verseKey": "kjv:psalms:43:5"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

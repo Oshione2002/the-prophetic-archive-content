@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-031",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 31,
+  "title": "1 Samuel 31",
+  "display_title": "1 Samuel 31",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 31,
+  "sortOrder": 9031,
+  "verseCount": 13,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:31:1",
+      "numberLabel": "1",
+      "text": "Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.",
+      "metadata": {
+        "reference": "1 Samuel 31:1",
+        "verseKey": "kjv:1-samuel:31:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:31:2",
+      "numberLabel": "2",
+      "text": "And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Melchishua, Saul’s sons.",
+      "metadata": {
+        "reference": "1 Samuel 31:2",
+        "verseKey": "kjv:1-samuel:31:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:31:3",
+      "numberLabel": "3",
+      "text": "And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.",
+      "metadata": {
+        "reference": "1 Samuel 31:3",
+        "verseKey": "kjv:1-samuel:31:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:31:4",
+      "numberLabel": "4",
+      "text": "Then said Saul unto his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and thrust me through, and abuse me. But his armourbearer would not; for he was sore afraid. Therefore Saul took a sword, and fell upon it.",
+      "metadata": {
+        "reference": "1 Samuel 31:4",
+        "verseKey": "kjv:1-samuel:31:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:31:5",
+      "numberLabel": "5",
+      "text": "And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him.",
+      "metadata": {
+        "reference": "1 Samuel 31:5",
+        "verseKey": "kjv:1-samuel:31:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:31:6",
+      "numberLabel": "6",
+      "text": "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.",
+      "metadata": {
+        "reference": "1 Samuel 31:6",
+        "verseKey": "kjv:1-samuel:31:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:31:7",
+      "numberLabel": "7",
+      "text": "And when the men of Israel that were on the other side of the valley, and they that were on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.",
+      "metadata": {
+        "reference": "1 Samuel 31:7",
+        "verseKey": "kjv:1-samuel:31:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:31:8",
+      "numberLabel": "8",
+      "text": "And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen in mount Gilboa.",
+      "metadata": {
+        "reference": "1 Samuel 31:8",
+        "verseKey": "kjv:1-samuel:31:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:31:9",
+      "numberLabel": "9",
+      "text": "And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people.",
+      "metadata": {
+        "reference": "1 Samuel 31:9",
+        "verseKey": "kjv:1-samuel:31:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:31:10",
+      "numberLabel": "10",
+      "text": "And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Bethshan.",
+      "metadata": {
+        "reference": "1 Samuel 31:10",
+        "verseKey": "kjv:1-samuel:31:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:31:11",
+      "numberLabel": "11",
+      "text": "And when the inhabitants of Jabeshgilead heard of that which the Philistines had done to Saul;",
+      "metadata": {
+        "reference": "1 Samuel 31:11",
+        "verseKey": "kjv:1-samuel:31:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:31:12",
+      "numberLabel": "12",
+      "text": "All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there.",
+      "metadata": {
+        "reference": "1 Samuel 31:12",
+        "verseKey": "kjv:1-samuel:31:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:31:13",
+      "numberLabel": "13",
+      "text": "And they took their bones, and buried them under a tree at Jabesh, and fasted seven days.",
+      "metadata": {
+        "reference": "1 Samuel 31:13",
+        "verseKey": "kjv:1-samuel:31:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

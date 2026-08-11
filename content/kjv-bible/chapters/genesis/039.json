@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-039",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 39,
+  "title": "Genesis 39",
+  "display_title": "Genesis 39",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 39,
+  "sortOrder": 1039,
+  "verseCount": 23,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:39:1",
+      "numberLabel": "1",
+      "text": "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.",
+      "metadata": {
+        "reference": "Genesis 39:1",
+        "verseKey": "kjv:genesis:39:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:39:2",
+      "numberLabel": "2",
+      "text": "And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.",
+      "metadata": {
+        "reference": "Genesis 39:2",
+        "verseKey": "kjv:genesis:39:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:39:3",
+      "numberLabel": "3",
+      "text": "And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand.",
+      "metadata": {
+        "reference": "Genesis 39:3",
+        "verseKey": "kjv:genesis:39:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:39:4",
+      "numberLabel": "4",
+      "text": "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand.",
+      "metadata": {
+        "reference": "Genesis 39:4",
+        "verseKey": "kjv:genesis:39:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:39:5",
+      "numberLabel": "5",
+      "text": "And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian’s house for Joseph’s sake; and the blessing of the LORD was upon all that he had in the house, and in the field.",
+      "metadata": {
+        "reference": "Genesis 39:5",
+        "verseKey": "kjv:genesis:39:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:39:6",
+      "numberLabel": "6",
+      "text": "And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured.",
+      "metadata": {
+        "reference": "Genesis 39:6",
+        "verseKey": "kjv:genesis:39:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:39:7",
+      "numberLabel": "7",
+      "text": "And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me.",
+      "metadata": {
+        "reference": "Genesis 39:7",
+        "verseKey": "kjv:genesis:39:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:39:8",
+      "numberLabel": "8",
+      "text": "But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;",
+      "metadata": {
+        "reference": "Genesis 39:8",
+        "verseKey": "kjv:genesis:39:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:39:9",
+      "numberLabel": "9",
+      "text": "There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?",
+      "metadata": {
+        "reference": "Genesis 39:9",
+        "verseKey": "kjv:genesis:39:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:39:10",
+      "numberLabel": "10",
+      "text": "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.",
+      "metadata": {
+        "reference": "Genesis 39:10",
+        "verseKey": "kjv:genesis:39:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:39:11",
+      "numberLabel": "11",
+      "text": "And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.",
+      "metadata": {
+        "reference": "Genesis 39:11",
+        "verseKey": "kjv:genesis:39:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:39:12",
+      "numberLabel": "12",
+      "text": "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.",
+      "metadata": {
+        "reference": "Genesis 39:12",
+        "verseKey": "kjv:genesis:39:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:39:13",
+      "numberLabel": "13",
+      "text": "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,",
+      "metadata": {
+        "reference": "Genesis 39:13",
+        "verseKey": "kjv:genesis:39:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:39:14",
+      "numberLabel": "14",
+      "text": "That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:",
+      "metadata": {
+        "reference": "Genesis 39:14",
+        "verseKey": "kjv:genesis:39:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:39:15",
+      "numberLabel": "15",
+      "text": "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.",
+      "metadata": {
+        "reference": "Genesis 39:15",
+        "verseKey": "kjv:genesis:39:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:39:16",
+      "numberLabel": "16",
+      "text": "And she laid up his garment by her, until his lord came home.",
+      "metadata": {
+        "reference": "Genesis 39:16",
+        "verseKey": "kjv:genesis:39:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:39:17",
+      "numberLabel": "17",
+      "text": "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:",
+      "metadata": {
+        "reference": "Genesis 39:17",
+        "verseKey": "kjv:genesis:39:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:39:18",
+      "numberLabel": "18",
+      "text": "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.",
+      "metadata": {
+        "reference": "Genesis 39:18",
+        "verseKey": "kjv:genesis:39:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:39:19",
+      "numberLabel": "19",
+      "text": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.",
+      "metadata": {
+        "reference": "Genesis 39:19",
+        "verseKey": "kjv:genesis:39:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:39:20",
+      "numberLabel": "20",
+      "text": "And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners were bound: and he was there in the prison.",
+      "metadata": {
+        "reference": "Genesis 39:20",
+        "verseKey": "kjv:genesis:39:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:39:21",
+      "numberLabel": "21",
+      "text": "But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.",
+      "metadata": {
+        "reference": "Genesis 39:21",
+        "verseKey": "kjv:genesis:39:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:39:22",
+      "numberLabel": "22",
+      "text": "And the keeper of the prison committed to Joseph’s hand all the prisoners that were in the prison; and whatsoever they did there, he was the doer of it.",
+      "metadata": {
+        "reference": "Genesis 39:22",
+        "verseKey": "kjv:genesis:39:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:39:23",
+      "numberLabel": "23",
+      "text": "The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper.",
+      "metadata": {
+        "reference": "Genesis 39:23",
+        "verseKey": "kjv:genesis:39:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

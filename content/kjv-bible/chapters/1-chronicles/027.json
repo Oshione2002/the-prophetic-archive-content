@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-chronicles-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "1 Chronicles 27",
+  "display_title": "1 Chronicles 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-chronicles",
+  "book": "1 Chronicles",
+  "bookName": "1 Chronicles",
+  "bookOrder": 13,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 13027,
+  "verseCount": 34,
+  "aliases": [
+    "1 Chr",
+    "1Chr",
+    "1 Ch",
+    "1Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-chronicles:27:1",
+      "numberLabel": "1",
+      "text": "Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:1",
+        "verseKey": "kjv:1-chronicles:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-chronicles:27:2",
+      "numberLabel": "2",
+      "text": "Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:2",
+        "verseKey": "kjv:1-chronicles:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-chronicles:27:3",
+      "numberLabel": "3",
+      "text": "Of the children of Perez was the chief of all the captains of the host for the first month.",
+      "metadata": {
+        "reference": "1 Chronicles 27:3",
+        "verseKey": "kjv:1-chronicles:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-chronicles:27:4",
+      "numberLabel": "4",
+      "text": "And over the course of the second month was Dodai an Ahohite, and of his course was Mikloth also the ruler: in his course likewise were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:4",
+        "verseKey": "kjv:1-chronicles:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-chronicles:27:5",
+      "numberLabel": "5",
+      "text": "The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:5",
+        "verseKey": "kjv:1-chronicles:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-chronicles:27:6",
+      "numberLabel": "6",
+      "text": "This is that Benaiah, who was mighty among the thirty, and above the thirty: and in his course was Ammizabad his son.",
+      "metadata": {
+        "reference": "1 Chronicles 27:6",
+        "verseKey": "kjv:1-chronicles:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-chronicles:27:7",
+      "numberLabel": "7",
+      "text": "The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:7",
+        "verseKey": "kjv:1-chronicles:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-chronicles:27:8",
+      "numberLabel": "8",
+      "text": "The fifth captain for the fifth month was Shamhuth the Izrahite: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:8",
+        "verseKey": "kjv:1-chronicles:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-chronicles:27:9",
+      "numberLabel": "9",
+      "text": "The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:9",
+        "verseKey": "kjv:1-chronicles:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-chronicles:27:10",
+      "numberLabel": "10",
+      "text": "The seventh captain for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:10",
+        "verseKey": "kjv:1-chronicles:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-chronicles:27:11",
+      "numberLabel": "11",
+      "text": "The eighth captain for the eighth month was Sibbecai the Hushathite, of the Zarhites: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:11",
+        "verseKey": "kjv:1-chronicles:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-chronicles:27:12",
+      "numberLabel": "12",
+      "text": "The ninth captain for the ninth month was Abiezer the Anetothite, of the Benjamites: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:12",
+        "verseKey": "kjv:1-chronicles:27:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-chronicles:27:13",
+      "numberLabel": "13",
+      "text": "The tenth captain for the tenth month was Maharai the Netophathite, of the Zarhites: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:13",
+        "verseKey": "kjv:1-chronicles:27:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-chronicles:27:14",
+      "numberLabel": "14",
+      "text": "The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:14",
+        "verseKey": "kjv:1-chronicles:27:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-chronicles:27:15",
+      "numberLabel": "15",
+      "text": "The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel: and in his course were twenty and four thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 27:15",
+        "verseKey": "kjv:1-chronicles:27:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-chronicles:27:16",
+      "numberLabel": "16",
+      "text": "Furthermore over the tribes of Israel: the ruler of the Reubenites was Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:",
+      "metadata": {
+        "reference": "1 Chronicles 27:16",
+        "verseKey": "kjv:1-chronicles:27:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-chronicles:27:17",
+      "numberLabel": "17",
+      "text": "Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:",
+      "metadata": {
+        "reference": "1 Chronicles 27:17",
+        "verseKey": "kjv:1-chronicles:27:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-chronicles:27:18",
+      "numberLabel": "18",
+      "text": "Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:",
+      "metadata": {
+        "reference": "1 Chronicles 27:18",
+        "verseKey": "kjv:1-chronicles:27:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-chronicles:27:19",
+      "numberLabel": "19",
+      "text": "Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:",
+      "metadata": {
+        "reference": "1 Chronicles 27:19",
+        "verseKey": "kjv:1-chronicles:27:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-chronicles:27:20",
+      "numberLabel": "20",
+      "text": "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:",
+      "metadata": {
+        "reference": "1 Chronicles 27:20",
+        "verseKey": "kjv:1-chronicles:27:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-chronicles:27:21",
+      "numberLabel": "21",
+      "text": "Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:",
+      "metadata": {
+        "reference": "1 Chronicles 27:21",
+        "verseKey": "kjv:1-chronicles:27:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-chronicles:27:22",
+      "numberLabel": "22",
+      "text": "Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel.",
+      "metadata": {
+        "reference": "1 Chronicles 27:22",
+        "verseKey": "kjv:1-chronicles:27:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-chronicles:27:23",
+      "numberLabel": "23",
+      "text": "But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.",
+      "metadata": {
+        "reference": "1 Chronicles 27:23",
+        "verseKey": "kjv:1-chronicles:27:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-chronicles:27:24",
+      "numberLabel": "24",
+      "text": "Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.",
+      "metadata": {
+        "reference": "1 Chronicles 27:24",
+        "verseKey": "kjv:1-chronicles:27:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-chronicles:27:25",
+      "numberLabel": "25",
+      "text": "And over the king’s treasures was Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, was Jehonathan the son of Uzziah:",
+      "metadata": {
+        "reference": "1 Chronicles 27:25",
+        "verseKey": "kjv:1-chronicles:27:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-chronicles:27:26",
+      "numberLabel": "26",
+      "text": "And over them that did the work of the field for tillage of the ground was Ezri the son of Chelub:",
+      "metadata": {
+        "reference": "1 Chronicles 27:26",
+        "verseKey": "kjv:1-chronicles:27:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-chronicles:27:27",
+      "numberLabel": "27",
+      "text": "And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:",
+      "metadata": {
+        "reference": "1 Chronicles 27:27",
+        "verseKey": "kjv:1-chronicles:27:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-chronicles:27:28",
+      "numberLabel": "28",
+      "text": "And over the olive trees and the sycomore trees that were in the low plains was Baalhanan the Gederite: and over the cellars of oil was Joash:",
+      "metadata": {
+        "reference": "1 Chronicles 27:28",
+        "verseKey": "kjv:1-chronicles:27:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-chronicles:27:29",
+      "numberLabel": "29",
+      "text": "And over the herds that fed in Sharon was Shitrai the Sharonite: and over the herds that were in the valleys was Shaphat the son of Adlai:",
+      "metadata": {
+        "reference": "1 Chronicles 27:29",
+        "verseKey": "kjv:1-chronicles:27:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-chronicles:27:30",
+      "numberLabel": "30",
+      "text": "Over the camels also was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite:",
+      "metadata": {
+        "reference": "1 Chronicles 27:30",
+        "verseKey": "kjv:1-chronicles:27:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-chronicles:27:31",
+      "numberLabel": "31",
+      "text": "And over the flocks was Jaziz the Hagerite. All these were the rulers of the substance which was king David’s.",
+      "metadata": {
+        "reference": "1 Chronicles 27:31",
+        "verseKey": "kjv:1-chronicles:27:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-chronicles:27:32",
+      "numberLabel": "32",
+      "text": "Also Jonathan David’s uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king’s sons:",
+      "metadata": {
+        "reference": "1 Chronicles 27:32",
+        "verseKey": "kjv:1-chronicles:27:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-chronicles:27:33",
+      "numberLabel": "33",
+      "text": "And Ahithophel was the king’s counsellor: and Hushai the Archite was the king’s companion:",
+      "metadata": {
+        "reference": "1 Chronicles 27:33",
+        "verseKey": "kjv:1-chronicles:27:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-chronicles:27:34",
+      "numberLabel": "34",
+      "text": "And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king’s army was Joab.",
+      "metadata": {
+        "reference": "1 Chronicles 27:34",
+        "verseKey": "kjv:1-chronicles:27:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

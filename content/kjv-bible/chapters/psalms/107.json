@@ -1,0 +1,551 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-107",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 107,
+  "title": "Psalms 107",
+  "display_title": "Psalms 107",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 107,
+  "sortOrder": 19107,
+  "verseCount": 43,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:107:1",
+      "numberLabel": "1",
+      "text": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 107:1",
+        "verseKey": "kjv:psalms:107:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:107:2",
+      "numberLabel": "2",
+      "text": "Let the redeemed of the LORD say so, whom he hath redeemed from the hand of the enemy;",
+      "metadata": {
+        "reference": "Psalms 107:2",
+        "verseKey": "kjv:psalms:107:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:107:3",
+      "numberLabel": "3",
+      "text": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south.",
+      "metadata": {
+        "reference": "Psalms 107:3",
+        "verseKey": "kjv:psalms:107:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:107:4",
+      "numberLabel": "4",
+      "text": "They wandered in the wilderness in a solitary way; they found no city to dwell in.",
+      "metadata": {
+        "reference": "Psalms 107:4",
+        "verseKey": "kjv:psalms:107:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:107:5",
+      "numberLabel": "5",
+      "text": "Hungry and thirsty, their soul fainted in them.",
+      "metadata": {
+        "reference": "Psalms 107:5",
+        "verseKey": "kjv:psalms:107:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:107:6",
+      "numberLabel": "6",
+      "text": "Then they cried unto the LORD in their trouble, and he delivered them out of their distresses.",
+      "metadata": {
+        "reference": "Psalms 107:6",
+        "verseKey": "kjv:psalms:107:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:107:7",
+      "numberLabel": "7",
+      "text": "And he led them forth by the right way, that they might go to a city of habitation.",
+      "metadata": {
+        "reference": "Psalms 107:7",
+        "verseKey": "kjv:psalms:107:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:107:8",
+      "numberLabel": "8",
+      "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!",
+      "metadata": {
+        "reference": "Psalms 107:8",
+        "verseKey": "kjv:psalms:107:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:107:9",
+      "numberLabel": "9",
+      "text": "For he satisfieth the longing soul, and filleth the hungry soul with goodness.",
+      "metadata": {
+        "reference": "Psalms 107:9",
+        "verseKey": "kjv:psalms:107:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:107:10",
+      "numberLabel": "10",
+      "text": "Such as sit in darkness and in the shadow of death, being bound in affliction and iron;",
+      "metadata": {
+        "reference": "Psalms 107:10",
+        "verseKey": "kjv:psalms:107:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:107:11",
+      "numberLabel": "11",
+      "text": "Because they rebelled against the words of God, and contemned the counsel of the most High:",
+      "metadata": {
+        "reference": "Psalms 107:11",
+        "verseKey": "kjv:psalms:107:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:107:12",
+      "numberLabel": "12",
+      "text": "Therefore he brought down their heart with labour; they fell down, and there was none to help.",
+      "metadata": {
+        "reference": "Psalms 107:12",
+        "verseKey": "kjv:psalms:107:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:107:13",
+      "numberLabel": "13",
+      "text": "Then they cried unto the LORD in their trouble, and he saved them out of their distresses.",
+      "metadata": {
+        "reference": "Psalms 107:13",
+        "verseKey": "kjv:psalms:107:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:107:14",
+      "numberLabel": "14",
+      "text": "He brought them out of darkness and the shadow of death, and brake their bands in sunder.",
+      "metadata": {
+        "reference": "Psalms 107:14",
+        "verseKey": "kjv:psalms:107:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:107:15",
+      "numberLabel": "15",
+      "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!",
+      "metadata": {
+        "reference": "Psalms 107:15",
+        "verseKey": "kjv:psalms:107:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:107:16",
+      "numberLabel": "16",
+      "text": "For he hath broken the gates of brass, and cut the bars of iron in sunder.",
+      "metadata": {
+        "reference": "Psalms 107:16",
+        "verseKey": "kjv:psalms:107:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:107:17",
+      "numberLabel": "17",
+      "text": "Fools because of their transgression, and because of their iniquities, are afflicted.",
+      "metadata": {
+        "reference": "Psalms 107:17",
+        "verseKey": "kjv:psalms:107:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:107:18",
+      "numberLabel": "18",
+      "text": "Their soul abhorreth all manner of meat; and they draw near unto the gates of death.",
+      "metadata": {
+        "reference": "Psalms 107:18",
+        "verseKey": "kjv:psalms:107:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:107:19",
+      "numberLabel": "19",
+      "text": "Then they cry unto the LORD in their trouble, and he saveth them out of their distresses.",
+      "metadata": {
+        "reference": "Psalms 107:19",
+        "verseKey": "kjv:psalms:107:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:107:20",
+      "numberLabel": "20",
+      "text": "He sent his word, and healed them, and delivered them from their destructions.",
+      "metadata": {
+        "reference": "Psalms 107:20",
+        "verseKey": "kjv:psalms:107:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:107:21",
+      "numberLabel": "21",
+      "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!",
+      "metadata": {
+        "reference": "Psalms 107:21",
+        "verseKey": "kjv:psalms:107:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:107:22",
+      "numberLabel": "22",
+      "text": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.",
+      "metadata": {
+        "reference": "Psalms 107:22",
+        "verseKey": "kjv:psalms:107:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:107:23",
+      "numberLabel": "23",
+      "text": "They that go down to the sea in ships, that do business in great waters;",
+      "metadata": {
+        "reference": "Psalms 107:23",
+        "verseKey": "kjv:psalms:107:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:107:24",
+      "numberLabel": "24",
+      "text": "These see the works of the LORD, and his wonders in the deep.",
+      "metadata": {
+        "reference": "Psalms 107:24",
+        "verseKey": "kjv:psalms:107:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:107:25",
+      "numberLabel": "25",
+      "text": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.",
+      "metadata": {
+        "reference": "Psalms 107:25",
+        "verseKey": "kjv:psalms:107:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:107:26",
+      "numberLabel": "26",
+      "text": "They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.",
+      "metadata": {
+        "reference": "Psalms 107:26",
+        "verseKey": "kjv:psalms:107:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:107:27",
+      "numberLabel": "27",
+      "text": "They reel to and fro, and stagger like a drunken man, and are at their wit’s end.",
+      "metadata": {
+        "reference": "Psalms 107:27",
+        "verseKey": "kjv:psalms:107:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:107:28",
+      "numberLabel": "28",
+      "text": "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.",
+      "metadata": {
+        "reference": "Psalms 107:28",
+        "verseKey": "kjv:psalms:107:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:psalms:107:29",
+      "numberLabel": "29",
+      "text": "He maketh the storm a calm, so that the waves thereof are still.",
+      "metadata": {
+        "reference": "Psalms 107:29",
+        "verseKey": "kjv:psalms:107:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:psalms:107:30",
+      "numberLabel": "30",
+      "text": "Then are they glad because they be quiet; so he bringeth them unto their desired haven.",
+      "metadata": {
+        "reference": "Psalms 107:30",
+        "verseKey": "kjv:psalms:107:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:psalms:107:31",
+      "numberLabel": "31",
+      "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!",
+      "metadata": {
+        "reference": "Psalms 107:31",
+        "verseKey": "kjv:psalms:107:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:psalms:107:32",
+      "numberLabel": "32",
+      "text": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.",
+      "metadata": {
+        "reference": "Psalms 107:32",
+        "verseKey": "kjv:psalms:107:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:psalms:107:33",
+      "numberLabel": "33",
+      "text": "He turneth rivers into a wilderness, and the watersprings into dry ground;",
+      "metadata": {
+        "reference": "Psalms 107:33",
+        "verseKey": "kjv:psalms:107:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:psalms:107:34",
+      "numberLabel": "34",
+      "text": "A fruitful land into barrenness, for the wickedness of them that dwell therein.",
+      "metadata": {
+        "reference": "Psalms 107:34",
+        "verseKey": "kjv:psalms:107:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:psalms:107:35",
+      "numberLabel": "35",
+      "text": "He turneth the wilderness into a standing water, and dry ground into watersprings.",
+      "metadata": {
+        "reference": "Psalms 107:35",
+        "verseKey": "kjv:psalms:107:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:psalms:107:36",
+      "numberLabel": "36",
+      "text": "And there he maketh the hungry to dwell, that they may prepare a city for habitation;",
+      "metadata": {
+        "reference": "Psalms 107:36",
+        "verseKey": "kjv:psalms:107:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:psalms:107:37",
+      "numberLabel": "37",
+      "text": "And sow the fields, and plant vineyards, which may yield fruits of increase.",
+      "metadata": {
+        "reference": "Psalms 107:37",
+        "verseKey": "kjv:psalms:107:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:psalms:107:38",
+      "numberLabel": "38",
+      "text": "He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.",
+      "metadata": {
+        "reference": "Psalms 107:38",
+        "verseKey": "kjv:psalms:107:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:psalms:107:39",
+      "numberLabel": "39",
+      "text": "Again, they are minished and brought low through oppression, affliction, and sorrow.",
+      "metadata": {
+        "reference": "Psalms 107:39",
+        "verseKey": "kjv:psalms:107:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:psalms:107:40",
+      "numberLabel": "40",
+      "text": "He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way.",
+      "metadata": {
+        "reference": "Psalms 107:40",
+        "verseKey": "kjv:psalms:107:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:psalms:107:41",
+      "numberLabel": "41",
+      "text": "Yet setteth he the poor on high from affliction, and maketh him families like a flock.",
+      "metadata": {
+        "reference": "Psalms 107:41",
+        "verseKey": "kjv:psalms:107:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:psalms:107:42",
+      "numberLabel": "42",
+      "text": "The righteous shall see it, and rejoice: and all iniquity shall stop her mouth.",
+      "metadata": {
+        "reference": "Psalms 107:42",
+        "verseKey": "kjv:psalms:107:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:psalms:107:43",
+      "numberLabel": "43",
+      "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the LORD.",
+      "metadata": {
+        "reference": "Psalms 107:43",
+        "verseKey": "kjv:psalms:107:43"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Deuteronomy 11",
+  "display_title": "Deuteronomy 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 5011,
+  "verseCount": 32,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:11:1",
+      "numberLabel": "1",
+      "text": "Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.",
+      "metadata": {
+        "reference": "Deuteronomy 11:1",
+        "verseKey": "kjv:deuteronomy:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:11:2",
+      "numberLabel": "2",
+      "text": "And know ye this day: for I speak not with your children which have not known, and which have not seen the chastisement of the LORD your God, his greatness, his mighty hand, and his stretched out arm,",
+      "metadata": {
+        "reference": "Deuteronomy 11:2",
+        "verseKey": "kjv:deuteronomy:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:11:3",
+      "numberLabel": "3",
+      "text": "And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;",
+      "metadata": {
+        "reference": "Deuteronomy 11:3",
+        "verseKey": "kjv:deuteronomy:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:11:4",
+      "numberLabel": "4",
+      "text": "And what he did unto the army of Egypt, unto their horses, and to their chariots; how he made the water of the Red sea to overflow them as they pursued after you, and how the LORD hath destroyed them unto this day;",
+      "metadata": {
+        "reference": "Deuteronomy 11:4",
+        "verseKey": "kjv:deuteronomy:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:11:5",
+      "numberLabel": "5",
+      "text": "And what he did unto you in the wilderness, until ye came into this place;",
+      "metadata": {
+        "reference": "Deuteronomy 11:5",
+        "verseKey": "kjv:deuteronomy:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:11:6",
+      "numberLabel": "6",
+      "text": "And what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben: how the earth opened her mouth, and swallowed them up, and their households, and their tents, and all the substance that was in their possession, in the midst of all Israel:",
+      "metadata": {
+        "reference": "Deuteronomy 11:6",
+        "verseKey": "kjv:deuteronomy:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:11:7",
+      "numberLabel": "7",
+      "text": "But your eyes have seen all the great acts of the LORD which he did.",
+      "metadata": {
+        "reference": "Deuteronomy 11:7",
+        "verseKey": "kjv:deuteronomy:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:11:8",
+      "numberLabel": "8",
+      "text": "Therefore shall ye keep all the commandments which I command you this day, that ye may be strong, and go in and possess the land, whither ye go to possess it;",
+      "metadata": {
+        "reference": "Deuteronomy 11:8",
+        "verseKey": "kjv:deuteronomy:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:11:9",
+      "numberLabel": "9",
+      "text": "And that ye may prolong your days in the land, which the LORD sware unto your fathers to give unto them and to their seed, a land that floweth with milk and honey.",
+      "metadata": {
+        "reference": "Deuteronomy 11:9",
+        "verseKey": "kjv:deuteronomy:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:11:10",
+      "numberLabel": "10",
+      "text": "For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs:",
+      "metadata": {
+        "reference": "Deuteronomy 11:10",
+        "verseKey": "kjv:deuteronomy:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:11:11",
+      "numberLabel": "11",
+      "text": "But the land, whither ye go to possess it, is a land of hills and valleys, and drinketh water of the rain of heaven:",
+      "metadata": {
+        "reference": "Deuteronomy 11:11",
+        "verseKey": "kjv:deuteronomy:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:11:12",
+      "numberLabel": "12",
+      "text": "A land which the LORD thy God careth for: the eyes of the LORD thy God are always upon it, from the beginning of the year even unto the end of the year.",
+      "metadata": {
+        "reference": "Deuteronomy 11:12",
+        "verseKey": "kjv:deuteronomy:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:11:13",
+      "numberLabel": "13",
+      "text": "And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,",
+      "metadata": {
+        "reference": "Deuteronomy 11:13",
+        "verseKey": "kjv:deuteronomy:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:11:14",
+      "numberLabel": "14",
+      "text": "That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.",
+      "metadata": {
+        "reference": "Deuteronomy 11:14",
+        "verseKey": "kjv:deuteronomy:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:11:15",
+      "numberLabel": "15",
+      "text": "And I will send grass in thy fields for thy cattle, that thou mayest eat and be full.",
+      "metadata": {
+        "reference": "Deuteronomy 11:15",
+        "verseKey": "kjv:deuteronomy:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:11:16",
+      "numberLabel": "16",
+      "text": "Take heed to yourselves, that your heart be not deceived, and ye turn aside, and serve other gods, and worship them;",
+      "metadata": {
+        "reference": "Deuteronomy 11:16",
+        "verseKey": "kjv:deuteronomy:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:11:17",
+      "numberLabel": "17",
+      "text": "And then the LORD’s wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest ye perish quickly from off the good land which the LORD giveth you.",
+      "metadata": {
+        "reference": "Deuteronomy 11:17",
+        "verseKey": "kjv:deuteronomy:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:11:18",
+      "numberLabel": "18",
+      "text": "Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.",
+      "metadata": {
+        "reference": "Deuteronomy 11:18",
+        "verseKey": "kjv:deuteronomy:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:11:19",
+      "numberLabel": "19",
+      "text": "And ye shall teach them your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou risest up.",
+      "metadata": {
+        "reference": "Deuteronomy 11:19",
+        "verseKey": "kjv:deuteronomy:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:11:20",
+      "numberLabel": "20",
+      "text": "And thou shalt write them upon the door posts of thine house, and upon thy gates:",
+      "metadata": {
+        "reference": "Deuteronomy 11:20",
+        "verseKey": "kjv:deuteronomy:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:11:21",
+      "numberLabel": "21",
+      "text": "That your days may be multiplied, and the days of your children, in the land which the LORD sware unto your fathers to give them, as the days of heaven upon the earth.",
+      "metadata": {
+        "reference": "Deuteronomy 11:21",
+        "verseKey": "kjv:deuteronomy:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:11:22",
+      "numberLabel": "22",
+      "text": "For if ye shall diligently keep all these commandments which I command you, to do them, to love the LORD your God, to walk in all his ways, and to cleave unto him;",
+      "metadata": {
+        "reference": "Deuteronomy 11:22",
+        "verseKey": "kjv:deuteronomy:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:11:23",
+      "numberLabel": "23",
+      "text": "Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.",
+      "metadata": {
+        "reference": "Deuteronomy 11:23",
+        "verseKey": "kjv:deuteronomy:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:deuteronomy:11:24",
+      "numberLabel": "24",
+      "text": "Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.",
+      "metadata": {
+        "reference": "Deuteronomy 11:24",
+        "verseKey": "kjv:deuteronomy:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:deuteronomy:11:25",
+      "numberLabel": "25",
+      "text": "There shall no man be able to stand before you: for the LORD your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.",
+      "metadata": {
+        "reference": "Deuteronomy 11:25",
+        "verseKey": "kjv:deuteronomy:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:deuteronomy:11:26",
+      "numberLabel": "26",
+      "text": "Behold, I set before you this day a blessing and a curse;",
+      "metadata": {
+        "reference": "Deuteronomy 11:26",
+        "verseKey": "kjv:deuteronomy:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:deuteronomy:11:27",
+      "numberLabel": "27",
+      "text": "A blessing, if ye obey the commandments of the LORD your God, which I command you this day:",
+      "metadata": {
+        "reference": "Deuteronomy 11:27",
+        "verseKey": "kjv:deuteronomy:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:deuteronomy:11:28",
+      "numberLabel": "28",
+      "text": "And a curse, if ye will not obey the commandments of the LORD your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.",
+      "metadata": {
+        "reference": "Deuteronomy 11:28",
+        "verseKey": "kjv:deuteronomy:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:deuteronomy:11:29",
+      "numberLabel": "29",
+      "text": "And it shall come to pass, when the LORD thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal.",
+      "metadata": {
+        "reference": "Deuteronomy 11:29",
+        "verseKey": "kjv:deuteronomy:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:deuteronomy:11:30",
+      "numberLabel": "30",
+      "text": "Are they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh?",
+      "metadata": {
+        "reference": "Deuteronomy 11:30",
+        "verseKey": "kjv:deuteronomy:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:deuteronomy:11:31",
+      "numberLabel": "31",
+      "text": "For ye shall pass over Jordan to go in to possess the land which the LORD your God giveth you, and ye shall possess it, and dwell therein.",
+      "metadata": {
+        "reference": "Deuteronomy 11:31",
+        "verseKey": "kjv:deuteronomy:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:deuteronomy:11:32",
+      "numberLabel": "32",
+      "text": "And ye shall observe to do all the statutes and judgments which I set before you this day.",
+      "metadata": {
+        "reference": "Deuteronomy 11:32",
+        "verseKey": "kjv:deuteronomy:11:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

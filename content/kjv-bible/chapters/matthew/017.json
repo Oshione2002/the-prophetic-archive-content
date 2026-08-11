@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Matthew 17",
+  "display_title": "Matthew 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 17,
+  "sortOrder": 40017,
+  "verseCount": 27,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:17:1",
+      "numberLabel": "1",
+      "text": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,",
+      "metadata": {
+        "reference": "Matthew 17:1",
+        "verseKey": "kjv:matthew:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:17:2",
+      "numberLabel": "2",
+      "text": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.",
+      "metadata": {
+        "reference": "Matthew 17:2",
+        "verseKey": "kjv:matthew:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:17:3",
+      "numberLabel": "3",
+      "text": "And, behold, there appeared unto them Moses and Elias talking with him.",
+      "metadata": {
+        "reference": "Matthew 17:3",
+        "verseKey": "kjv:matthew:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:17:4",
+      "numberLabel": "4",
+      "text": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.",
+      "metadata": {
+        "reference": "Matthew 17:4",
+        "verseKey": "kjv:matthew:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:17:5",
+      "numberLabel": "5",
+      "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
+      "metadata": {
+        "reference": "Matthew 17:5",
+        "verseKey": "kjv:matthew:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:17:6",
+      "numberLabel": "6",
+      "text": "And when the disciples heard it, they fell on their face, and were sore afraid.",
+      "metadata": {
+        "reference": "Matthew 17:6",
+        "verseKey": "kjv:matthew:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:17:7",
+      "numberLabel": "7",
+      "text": "And Jesus came and touched them, and said, Arise, and be not afraid.",
+      "metadata": {
+        "reference": "Matthew 17:7",
+        "verseKey": "kjv:matthew:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:17:8",
+      "numberLabel": "8",
+      "text": "And when they had lifted up their eyes, they saw no man, save Jesus only.",
+      "metadata": {
+        "reference": "Matthew 17:8",
+        "verseKey": "kjv:matthew:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:17:9",
+      "numberLabel": "9",
+      "text": "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.",
+      "metadata": {
+        "reference": "Matthew 17:9",
+        "verseKey": "kjv:matthew:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:17:10",
+      "numberLabel": "10",
+      "text": "And his disciples asked him, saying, Why then say the scribes that Elias must first come?",
+      "metadata": {
+        "reference": "Matthew 17:10",
+        "verseKey": "kjv:matthew:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:17:11",
+      "numberLabel": "11",
+      "text": "And Jesus answered and said unto them, Elias truly shall first come, and restore all things.",
+      "metadata": {
+        "reference": "Matthew 17:11",
+        "verseKey": "kjv:matthew:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:17:12",
+      "numberLabel": "12",
+      "text": "But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them.",
+      "metadata": {
+        "reference": "Matthew 17:12",
+        "verseKey": "kjv:matthew:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:17:13",
+      "numberLabel": "13",
+      "text": "Then the disciples understood that he spake unto them of John the Baptist.",
+      "metadata": {
+        "reference": "Matthew 17:13",
+        "verseKey": "kjv:matthew:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:17:14",
+      "numberLabel": "14",
+      "text": "And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,",
+      "metadata": {
+        "reference": "Matthew 17:14",
+        "verseKey": "kjv:matthew:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:17:15",
+      "numberLabel": "15",
+      "text": "Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water.",
+      "metadata": {
+        "reference": "Matthew 17:15",
+        "verseKey": "kjv:matthew:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:17:16",
+      "numberLabel": "16",
+      "text": "And I brought him to thy disciples, and they could not cure him.",
+      "metadata": {
+        "reference": "Matthew 17:16",
+        "verseKey": "kjv:matthew:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:17:17",
+      "numberLabel": "17",
+      "text": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.",
+      "metadata": {
+        "reference": "Matthew 17:17",
+        "verseKey": "kjv:matthew:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:17:18",
+      "numberLabel": "18",
+      "text": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.",
+      "metadata": {
+        "reference": "Matthew 17:18",
+        "verseKey": "kjv:matthew:17:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:17:19",
+      "numberLabel": "19",
+      "text": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?",
+      "metadata": {
+        "reference": "Matthew 17:19",
+        "verseKey": "kjv:matthew:17:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:17:20",
+      "numberLabel": "20",
+      "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.",
+      "metadata": {
+        "reference": "Matthew 17:20",
+        "verseKey": "kjv:matthew:17:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:17:21",
+      "numberLabel": "21",
+      "text": "Howbeit this kind goeth not out but by prayer and fasting.",
+      "metadata": {
+        "reference": "Matthew 17:21",
+        "verseKey": "kjv:matthew:17:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:17:22",
+      "numberLabel": "22",
+      "text": "And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:",
+      "metadata": {
+        "reference": "Matthew 17:22",
+        "verseKey": "kjv:matthew:17:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:17:23",
+      "numberLabel": "23",
+      "text": "And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.",
+      "metadata": {
+        "reference": "Matthew 17:23",
+        "verseKey": "kjv:matthew:17:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:17:24",
+      "numberLabel": "24",
+      "text": "And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?",
+      "metadata": {
+        "reference": "Matthew 17:24",
+        "verseKey": "kjv:matthew:17:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:17:25",
+      "numberLabel": "25",
+      "text": "He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?",
+      "metadata": {
+        "reference": "Matthew 17:25",
+        "verseKey": "kjv:matthew:17:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:17:26",
+      "numberLabel": "26",
+      "text": "Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.",
+      "metadata": {
+        "reference": "Matthew 17:26",
+        "verseKey": "kjv:matthew:17:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:17:27",
+      "numberLabel": "27",
+      "text": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.",
+      "metadata": {
+        "reference": "Matthew 17:27",
+        "verseKey": "kjv:matthew:17:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

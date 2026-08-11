@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-051",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 51,
+  "title": "Psalms 51",
+  "display_title": "Psalms 51",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 51,
+  "sortOrder": 19051,
+  "verseCount": 19,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:51:1",
+      "numberLabel": "1",
+      "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+      "metadata": {
+        "reference": "Psalms 51:1",
+        "verseKey": "kjv:psalms:51:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:51:2",
+      "numberLabel": "2",
+      "text": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+      "metadata": {
+        "reference": "Psalms 51:2",
+        "verseKey": "kjv:psalms:51:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:51:3",
+      "numberLabel": "3",
+      "text": "For I acknowledge my transgressions: and my sin is ever before me.",
+      "metadata": {
+        "reference": "Psalms 51:3",
+        "verseKey": "kjv:psalms:51:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:51:4",
+      "numberLabel": "4",
+      "text": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.",
+      "metadata": {
+        "reference": "Psalms 51:4",
+        "verseKey": "kjv:psalms:51:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:51:5",
+      "numberLabel": "5",
+      "text": "Behold, I was shapen in iniquity; and in sin did my mother conceive me.",
+      "metadata": {
+        "reference": "Psalms 51:5",
+        "verseKey": "kjv:psalms:51:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:51:6",
+      "numberLabel": "6",
+      "text": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.",
+      "metadata": {
+        "reference": "Psalms 51:6",
+        "verseKey": "kjv:psalms:51:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:51:7",
+      "numberLabel": "7",
+      "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+      "metadata": {
+        "reference": "Psalms 51:7",
+        "verseKey": "kjv:psalms:51:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:51:8",
+      "numberLabel": "8",
+      "text": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.",
+      "metadata": {
+        "reference": "Psalms 51:8",
+        "verseKey": "kjv:psalms:51:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:51:9",
+      "numberLabel": "9",
+      "text": "Hide thy face from my sins, and blot out all mine iniquities.",
+      "metadata": {
+        "reference": "Psalms 51:9",
+        "verseKey": "kjv:psalms:51:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:51:10",
+      "numberLabel": "10",
+      "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+      "metadata": {
+        "reference": "Psalms 51:10",
+        "verseKey": "kjv:psalms:51:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:51:11",
+      "numberLabel": "11",
+      "text": "Cast me not away from thy presence; and take not thy holy spirit from me.",
+      "metadata": {
+        "reference": "Psalms 51:11",
+        "verseKey": "kjv:psalms:51:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:51:12",
+      "numberLabel": "12",
+      "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit.",
+      "metadata": {
+        "reference": "Psalms 51:12",
+        "verseKey": "kjv:psalms:51:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:51:13",
+      "numberLabel": "13",
+      "text": "Then will I teach transgressors thy ways; and sinners shall be converted unto thee.",
+      "metadata": {
+        "reference": "Psalms 51:13",
+        "verseKey": "kjv:psalms:51:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:51:14",
+      "numberLabel": "14",
+      "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.",
+      "metadata": {
+        "reference": "Psalms 51:14",
+        "verseKey": "kjv:psalms:51:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:51:15",
+      "numberLabel": "15",
+      "text": "O Lord, open thou my lips; and my mouth shall shew forth thy praise.",
+      "metadata": {
+        "reference": "Psalms 51:15",
+        "verseKey": "kjv:psalms:51:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:51:16",
+      "numberLabel": "16",
+      "text": "For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.",
+      "metadata": {
+        "reference": "Psalms 51:16",
+        "verseKey": "kjv:psalms:51:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:51:17",
+      "numberLabel": "17",
+      "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+      "metadata": {
+        "reference": "Psalms 51:17",
+        "verseKey": "kjv:psalms:51:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:51:18",
+      "numberLabel": "18",
+      "text": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.",
+      "metadata": {
+        "reference": "Psalms 51:18",
+        "verseKey": "kjv:psalms:51:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:51:19",
+      "numberLabel": "19",
+      "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+      "metadata": {
+        "reference": "Psalms 51:19",
+        "verseKey": "kjv:psalms:51:19"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

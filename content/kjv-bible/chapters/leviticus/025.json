@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Leviticus 25",
+  "display_title": "Leviticus 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 3025,
+  "verseCount": 55,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:25:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses in mount Sinai, saying,",
+      "metadata": {
+        "reference": "Leviticus 25:1",
+        "verseKey": "kjv:leviticus:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:25:2",
+      "numberLabel": "2",
+      "text": "Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 25:2",
+        "verseKey": "kjv:leviticus:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:25:3",
+      "numberLabel": "3",
+      "text": "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;",
+      "metadata": {
+        "reference": "Leviticus 25:3",
+        "verseKey": "kjv:leviticus:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:25:4",
+      "numberLabel": "4",
+      "text": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard.",
+      "metadata": {
+        "reference": "Leviticus 25:4",
+        "verseKey": "kjv:leviticus:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:25:5",
+      "numberLabel": "5",
+      "text": "That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land.",
+      "metadata": {
+        "reference": "Leviticus 25:5",
+        "verseKey": "kjv:leviticus:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:25:6",
+      "numberLabel": "6",
+      "text": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,",
+      "metadata": {
+        "reference": "Leviticus 25:6",
+        "verseKey": "kjv:leviticus:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:25:7",
+      "numberLabel": "7",
+      "text": "And for thy cattle, and for the beast that are in thy land, shall all the increase thereof be meat.",
+      "metadata": {
+        "reference": "Leviticus 25:7",
+        "verseKey": "kjv:leviticus:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:25:8",
+      "numberLabel": "8",
+      "text": "And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.",
+      "metadata": {
+        "reference": "Leviticus 25:8",
+        "verseKey": "kjv:leviticus:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:25:9",
+      "numberLabel": "9",
+      "text": "Then shalt thou cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.",
+      "metadata": {
+        "reference": "Leviticus 25:9",
+        "verseKey": "kjv:leviticus:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:25:10",
+      "numberLabel": "10",
+      "text": "And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.",
+      "metadata": {
+        "reference": "Leviticus 25:10",
+        "verseKey": "kjv:leviticus:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:25:11",
+      "numberLabel": "11",
+      "text": "A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather the grapes in it of thy vine undressed.",
+      "metadata": {
+        "reference": "Leviticus 25:11",
+        "verseKey": "kjv:leviticus:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:25:12",
+      "numberLabel": "12",
+      "text": "For it is the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field.",
+      "metadata": {
+        "reference": "Leviticus 25:12",
+        "verseKey": "kjv:leviticus:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:25:13",
+      "numberLabel": "13",
+      "text": "In the year of this jubile ye shall return every man unto his possession.",
+      "metadata": {
+        "reference": "Leviticus 25:13",
+        "verseKey": "kjv:leviticus:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:25:14",
+      "numberLabel": "14",
+      "text": "And if thou sell ought unto thy neighbour, or buyest ought of thy neighbour’s hand, ye shall not oppress one another:",
+      "metadata": {
+        "reference": "Leviticus 25:14",
+        "verseKey": "kjv:leviticus:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:25:15",
+      "numberLabel": "15",
+      "text": "According to the number of years after the jubile thou shalt buy of thy neighbour, and according unto the number of years of the fruits he shall sell unto thee:",
+      "metadata": {
+        "reference": "Leviticus 25:15",
+        "verseKey": "kjv:leviticus:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:25:16",
+      "numberLabel": "16",
+      "text": "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee.",
+      "metadata": {
+        "reference": "Leviticus 25:16",
+        "verseKey": "kjv:leviticus:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:25:17",
+      "numberLabel": "17",
+      "text": "Ye shall not therefore oppress one another; but thou shalt fear thy God:for I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 25:17",
+        "verseKey": "kjv:leviticus:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:25:18",
+      "numberLabel": "18",
+      "text": "Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.",
+      "metadata": {
+        "reference": "Leviticus 25:18",
+        "verseKey": "kjv:leviticus:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:25:19",
+      "numberLabel": "19",
+      "text": "And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.",
+      "metadata": {
+        "reference": "Leviticus 25:19",
+        "verseKey": "kjv:leviticus:25:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:25:20",
+      "numberLabel": "20",
+      "text": "And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:",
+      "metadata": {
+        "reference": "Leviticus 25:20",
+        "verseKey": "kjv:leviticus:25:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:25:21",
+      "numberLabel": "21",
+      "text": "Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.",
+      "metadata": {
+        "reference": "Leviticus 25:21",
+        "verseKey": "kjv:leviticus:25:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:25:22",
+      "numberLabel": "22",
+      "text": "And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store.",
+      "metadata": {
+        "reference": "Leviticus 25:22",
+        "verseKey": "kjv:leviticus:25:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:25:23",
+      "numberLabel": "23",
+      "text": "The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.",
+      "metadata": {
+        "reference": "Leviticus 25:23",
+        "verseKey": "kjv:leviticus:25:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:25:24",
+      "numberLabel": "24",
+      "text": "And in all the land of your possession ye shall grant a redemption for the land.",
+      "metadata": {
+        "reference": "Leviticus 25:24",
+        "verseKey": "kjv:leviticus:25:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:25:25",
+      "numberLabel": "25",
+      "text": "If thy brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold.",
+      "metadata": {
+        "reference": "Leviticus 25:25",
+        "verseKey": "kjv:leviticus:25:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:25:26",
+      "numberLabel": "26",
+      "text": "And if the man have none to redeem it, and himself be able to redeem it;",
+      "metadata": {
+        "reference": "Leviticus 25:26",
+        "verseKey": "kjv:leviticus:25:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:25:27",
+      "numberLabel": "27",
+      "text": "Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession.",
+      "metadata": {
+        "reference": "Leviticus 25:27",
+        "verseKey": "kjv:leviticus:25:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:25:28",
+      "numberLabel": "28",
+      "text": "But if he be not able to restore it to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession.",
+      "metadata": {
+        "reference": "Leviticus 25:28",
+        "verseKey": "kjv:leviticus:25:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:25:29",
+      "numberLabel": "29",
+      "text": "And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; within a full year may he redeem it.",
+      "metadata": {
+        "reference": "Leviticus 25:29",
+        "verseKey": "kjv:leviticus:25:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:25:30",
+      "numberLabel": "30",
+      "text": "And if it be not redeemed within the space of a full year, then the house that is in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.",
+      "metadata": {
+        "reference": "Leviticus 25:30",
+        "verseKey": "kjv:leviticus:25:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:25:31",
+      "numberLabel": "31",
+      "text": "But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.",
+      "metadata": {
+        "reference": "Leviticus 25:31",
+        "verseKey": "kjv:leviticus:25:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:25:32",
+      "numberLabel": "32",
+      "text": "Notwithstanding the cities of the Levites, and the houses of the cities of their possession, may the Levites redeem at any time.",
+      "metadata": {
+        "reference": "Leviticus 25:32",
+        "verseKey": "kjv:leviticus:25:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:25:33",
+      "numberLabel": "33",
+      "text": "And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in the year of jubile: for the houses of the cities of the Levites are their possession among the children of Israel.",
+      "metadata": {
+        "reference": "Leviticus 25:33",
+        "verseKey": "kjv:leviticus:25:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:25:34",
+      "numberLabel": "34",
+      "text": "But the field of the suburbs of their cities may not be sold; for it is their perpetual possession.",
+      "metadata": {
+        "reference": "Leviticus 25:34",
+        "verseKey": "kjv:leviticus:25:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:leviticus:25:35",
+      "numberLabel": "35",
+      "text": "And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.",
+      "metadata": {
+        "reference": "Leviticus 25:35",
+        "verseKey": "kjv:leviticus:25:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:leviticus:25:36",
+      "numberLabel": "36",
+      "text": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.",
+      "metadata": {
+        "reference": "Leviticus 25:36",
+        "verseKey": "kjv:leviticus:25:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:leviticus:25:37",
+      "numberLabel": "37",
+      "text": "Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.",
+      "metadata": {
+        "reference": "Leviticus 25:37",
+        "verseKey": "kjv:leviticus:25:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:leviticus:25:38",
+      "numberLabel": "38",
+      "text": "I am the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God.",
+      "metadata": {
+        "reference": "Leviticus 25:38",
+        "verseKey": "kjv:leviticus:25:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:leviticus:25:39",
+      "numberLabel": "39",
+      "text": "And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:",
+      "metadata": {
+        "reference": "Leviticus 25:39",
+        "verseKey": "kjv:leviticus:25:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:leviticus:25:40",
+      "numberLabel": "40",
+      "text": "But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:",
+      "metadata": {
+        "reference": "Leviticus 25:40",
+        "verseKey": "kjv:leviticus:25:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:leviticus:25:41",
+      "numberLabel": "41",
+      "text": "And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.",
+      "metadata": {
+        "reference": "Leviticus 25:41",
+        "verseKey": "kjv:leviticus:25:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:leviticus:25:42",
+      "numberLabel": "42",
+      "text": "For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.",
+      "metadata": {
+        "reference": "Leviticus 25:42",
+        "verseKey": "kjv:leviticus:25:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:leviticus:25:43",
+      "numberLabel": "43",
+      "text": "Thou shalt not rule over him with rigour; but shalt fear thy God.",
+      "metadata": {
+        "reference": "Leviticus 25:43",
+        "verseKey": "kjv:leviticus:25:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:leviticus:25:44",
+      "numberLabel": "44",
+      "text": "Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.",
+      "metadata": {
+        "reference": "Leviticus 25:44",
+        "verseKey": "kjv:leviticus:25:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:leviticus:25:45",
+      "numberLabel": "45",
+      "text": "Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession.",
+      "metadata": {
+        "reference": "Leviticus 25:45",
+        "verseKey": "kjv:leviticus:25:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:leviticus:25:46",
+      "numberLabel": "46",
+      "text": "And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.",
+      "metadata": {
+        "reference": "Leviticus 25:46",
+        "verseKey": "kjv:leviticus:25:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:leviticus:25:47",
+      "numberLabel": "47",
+      "text": "And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:",
+      "metadata": {
+        "reference": "Leviticus 25:47",
+        "verseKey": "kjv:leviticus:25:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:leviticus:25:48",
+      "numberLabel": "48",
+      "text": "After that he is sold he may be redeemed again; one of his brethren may redeem him:",
+      "metadata": {
+        "reference": "Leviticus 25:48",
+        "verseKey": "kjv:leviticus:25:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:leviticus:25:49",
+      "numberLabel": "49",
+      "text": "Either his uncle, or his uncle’s son, may redeem him, or any that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself.",
+      "metadata": {
+        "reference": "Leviticus 25:49",
+        "verseKey": "kjv:leviticus:25:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:leviticus:25:50",
+      "numberLabel": "50",
+      "text": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.",
+      "metadata": {
+        "reference": "Leviticus 25:50",
+        "verseKey": "kjv:leviticus:25:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:leviticus:25:51",
+      "numberLabel": "51",
+      "text": "If there be yet many years behind, according unto them he shall give again the price of his redemption out of the money that he was bought for.",
+      "metadata": {
+        "reference": "Leviticus 25:51",
+        "verseKey": "kjv:leviticus:25:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:leviticus:25:52",
+      "numberLabel": "52",
+      "text": "And if there remain but few years unto the year of jubile, then he shall count with him, and according unto his years shall he give him again the price of his redemption.",
+      "metadata": {
+        "reference": "Leviticus 25:52",
+        "verseKey": "kjv:leviticus:25:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:leviticus:25:53",
+      "numberLabel": "53",
+      "text": "And as a yearly hired servant shall he be with him: and the other shall not rule with rigour over him in thy sight.",
+      "metadata": {
+        "reference": "Leviticus 25:53",
+        "verseKey": "kjv:leviticus:25:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:leviticus:25:54",
+      "numberLabel": "54",
+      "text": "And if he be not redeemed in these years, then he shall go out in the year of jubile, both he, and his children with him.",
+      "metadata": {
+        "reference": "Leviticus 25:54",
+        "verseKey": "kjv:leviticus:25:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:leviticus:25:55",
+      "numberLabel": "55",
+      "text": "For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 25:55",
+        "verseKey": "kjv:leviticus:25:55"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

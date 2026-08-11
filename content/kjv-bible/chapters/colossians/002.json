@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-colossians-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Colossians 2",
+  "display_title": "Colossians 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "colossians",
+  "book": "Colossians",
+  "bookName": "Colossians",
+  "bookOrder": 51,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 51002,
+  "verseCount": 23,
+  "aliases": [
+    "Col",
+    "Co"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:colossians:2:1",
+      "numberLabel": "1",
+      "text": "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;",
+      "metadata": {
+        "reference": "Colossians 2:1",
+        "verseKey": "kjv:colossians:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:colossians:2:2",
+      "numberLabel": "2",
+      "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;",
+      "metadata": {
+        "reference": "Colossians 2:2",
+        "verseKey": "kjv:colossians:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:colossians:2:3",
+      "numberLabel": "3",
+      "text": "In whom are hid all the treasures of wisdom and knowledge.",
+      "metadata": {
+        "reference": "Colossians 2:3",
+        "verseKey": "kjv:colossians:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:colossians:2:4",
+      "numberLabel": "4",
+      "text": "And this I say, lest any man should beguile you with enticing words.",
+      "metadata": {
+        "reference": "Colossians 2:4",
+        "verseKey": "kjv:colossians:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:colossians:2:5",
+      "numberLabel": "5",
+      "text": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.",
+      "metadata": {
+        "reference": "Colossians 2:5",
+        "verseKey": "kjv:colossians:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:colossians:2:6",
+      "numberLabel": "6",
+      "text": "As ye have therefore received Christ Jesus the Lord, so walk ye in him:",
+      "metadata": {
+        "reference": "Colossians 2:6",
+        "verseKey": "kjv:colossians:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:colossians:2:7",
+      "numberLabel": "7",
+      "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.",
+      "metadata": {
+        "reference": "Colossians 2:7",
+        "verseKey": "kjv:colossians:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:colossians:2:8",
+      "numberLabel": "8",
+      "text": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.",
+      "metadata": {
+        "reference": "Colossians 2:8",
+        "verseKey": "kjv:colossians:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:colossians:2:9",
+      "numberLabel": "9",
+      "text": "For in him dwelleth all the fulness of the Godhead bodily.",
+      "metadata": {
+        "reference": "Colossians 2:9",
+        "verseKey": "kjv:colossians:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:colossians:2:10",
+      "numberLabel": "10",
+      "text": "And ye are complete in him, which is the head of all principality and power:",
+      "metadata": {
+        "reference": "Colossians 2:10",
+        "verseKey": "kjv:colossians:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:colossians:2:11",
+      "numberLabel": "11",
+      "text": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:",
+      "metadata": {
+        "reference": "Colossians 2:11",
+        "verseKey": "kjv:colossians:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:colossians:2:12",
+      "numberLabel": "12",
+      "text": "Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.",
+      "metadata": {
+        "reference": "Colossians 2:12",
+        "verseKey": "kjv:colossians:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:colossians:2:13",
+      "numberLabel": "13",
+      "text": "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;",
+      "metadata": {
+        "reference": "Colossians 2:13",
+        "verseKey": "kjv:colossians:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:colossians:2:14",
+      "numberLabel": "14",
+      "text": "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;",
+      "metadata": {
+        "reference": "Colossians 2:14",
+        "verseKey": "kjv:colossians:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:colossians:2:15",
+      "numberLabel": "15",
+      "text": "And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.",
+      "metadata": {
+        "reference": "Colossians 2:15",
+        "verseKey": "kjv:colossians:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:colossians:2:16",
+      "numberLabel": "16",
+      "text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:",
+      "metadata": {
+        "reference": "Colossians 2:16",
+        "verseKey": "kjv:colossians:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:colossians:2:17",
+      "numberLabel": "17",
+      "text": "Which are a shadow of things to come; but the body is of Christ.",
+      "metadata": {
+        "reference": "Colossians 2:17",
+        "verseKey": "kjv:colossians:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:colossians:2:18",
+      "numberLabel": "18",
+      "text": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,",
+      "metadata": {
+        "reference": "Colossians 2:18",
+        "verseKey": "kjv:colossians:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:colossians:2:19",
+      "numberLabel": "19",
+      "text": "And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.",
+      "metadata": {
+        "reference": "Colossians 2:19",
+        "verseKey": "kjv:colossians:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:colossians:2:20",
+      "numberLabel": "20",
+      "text": "Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,",
+      "metadata": {
+        "reference": "Colossians 2:20",
+        "verseKey": "kjv:colossians:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:colossians:2:21",
+      "numberLabel": "21",
+      "text": "(Touch not; taste not; handle not;",
+      "metadata": {
+        "reference": "Colossians 2:21",
+        "verseKey": "kjv:colossians:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:colossians:2:22",
+      "numberLabel": "22",
+      "text": "Which all are to perish with the using;) after the commandments and doctrines of men?",
+      "metadata": {
+        "reference": "Colossians 2:22",
+        "verseKey": "kjv:colossians:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:colossians:2:23",
+      "numberLabel": "23",
+      "text": "Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh.",
+      "metadata": {
+        "reference": "Colossians 2:23",
+        "verseKey": "kjv:colossians:2:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Colossians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Colossians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

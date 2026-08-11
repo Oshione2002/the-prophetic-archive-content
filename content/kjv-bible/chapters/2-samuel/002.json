@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-samuel-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "2 Samuel 2",
+  "display_title": "2 Samuel 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-samuel",
+  "book": "2 Samuel",
+  "bookName": "2 Samuel",
+  "bookOrder": 10,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 10002,
+  "verseCount": 32,
+  "aliases": [
+    "2 Sam",
+    "2Sam",
+    "2 Sa",
+    "2Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-samuel:2:1",
+      "numberLabel": "1",
+      "text": "And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.",
+      "metadata": {
+        "reference": "2 Samuel 2:1",
+        "verseKey": "kjv:2-samuel:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-samuel:2:2",
+      "numberLabel": "2",
+      "text": "So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal’s wife the Carmelite.",
+      "metadata": {
+        "reference": "2 Samuel 2:2",
+        "verseKey": "kjv:2-samuel:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-samuel:2:3",
+      "numberLabel": "3",
+      "text": "And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.",
+      "metadata": {
+        "reference": "2 Samuel 2:3",
+        "verseKey": "kjv:2-samuel:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-samuel:2:4",
+      "numberLabel": "4",
+      "text": "And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, That the men of Jabeshgilead were they that buried Saul.",
+      "metadata": {
+        "reference": "2 Samuel 2:4",
+        "verseKey": "kjv:2-samuel:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-samuel:2:5",
+      "numberLabel": "5",
+      "text": "And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed be ye of the LORD, that ye have shewed this kindness unto your lord, even unto Saul, and have buried him.",
+      "metadata": {
+        "reference": "2 Samuel 2:5",
+        "verseKey": "kjv:2-samuel:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-samuel:2:6",
+      "numberLabel": "6",
+      "text": "And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.",
+      "metadata": {
+        "reference": "2 Samuel 2:6",
+        "verseKey": "kjv:2-samuel:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-samuel:2:7",
+      "numberLabel": "7",
+      "text": "Therefore now let your hands be strengthened, and be ye valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them.",
+      "metadata": {
+        "reference": "2 Samuel 2:7",
+        "verseKey": "kjv:2-samuel:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-samuel:2:8",
+      "numberLabel": "8",
+      "text": "But Abner the son of Ner, captain of Saul’s host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;",
+      "metadata": {
+        "reference": "2 Samuel 2:8",
+        "verseKey": "kjv:2-samuel:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-samuel:2:9",
+      "numberLabel": "9",
+      "text": "And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.",
+      "metadata": {
+        "reference": "2 Samuel 2:9",
+        "verseKey": "kjv:2-samuel:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-samuel:2:10",
+      "numberLabel": "10",
+      "text": "Ishbosheth Saul’s son was forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.",
+      "metadata": {
+        "reference": "2 Samuel 2:10",
+        "verseKey": "kjv:2-samuel:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-samuel:2:11",
+      "numberLabel": "11",
+      "text": "And the time that David was king in Hebron over the house of Judah was seven years and six months.",
+      "metadata": {
+        "reference": "2 Samuel 2:11",
+        "verseKey": "kjv:2-samuel:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-samuel:2:12",
+      "numberLabel": "12",
+      "text": "And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.",
+      "metadata": {
+        "reference": "2 Samuel 2:12",
+        "verseKey": "kjv:2-samuel:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-samuel:2:13",
+      "numberLabel": "13",
+      "text": "And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool.",
+      "metadata": {
+        "reference": "2 Samuel 2:13",
+        "verseKey": "kjv:2-samuel:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-samuel:2:14",
+      "numberLabel": "14",
+      "text": "And Abner said to Joab, Let the young men now arise, and play before us. And Joab said, Let them arise.",
+      "metadata": {
+        "reference": "2 Samuel 2:14",
+        "verseKey": "kjv:2-samuel:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-samuel:2:15",
+      "numberLabel": "15",
+      "text": "Then there arose and went over by number twelve of Benjamin, which pertained to Ishbosheth the son of Saul, and twelve of the servants of David.",
+      "metadata": {
+        "reference": "2 Samuel 2:15",
+        "verseKey": "kjv:2-samuel:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-samuel:2:16",
+      "numberLabel": "16",
+      "text": "And they caught every one his fellow by the head, and thrust his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkathhazzurim, which is in Gibeon.",
+      "metadata": {
+        "reference": "2 Samuel 2:16",
+        "verseKey": "kjv:2-samuel:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-samuel:2:17",
+      "numberLabel": "17",
+      "text": "And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.",
+      "metadata": {
+        "reference": "2 Samuel 2:17",
+        "verseKey": "kjv:2-samuel:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-samuel:2:18",
+      "numberLabel": "18",
+      "text": "And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel was as light of foot as a wild roe.",
+      "metadata": {
+        "reference": "2 Samuel 2:18",
+        "verseKey": "kjv:2-samuel:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-samuel:2:19",
+      "numberLabel": "19",
+      "text": "And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.",
+      "metadata": {
+        "reference": "2 Samuel 2:19",
+        "verseKey": "kjv:2-samuel:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-samuel:2:20",
+      "numberLabel": "20",
+      "text": "Then Abner looked behind him, and said, Art thou Asahel? And he answered, I am.",
+      "metadata": {
+        "reference": "2 Samuel 2:20",
+        "verseKey": "kjv:2-samuel:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-samuel:2:21",
+      "numberLabel": "21",
+      "text": "And Abner said to him, Turn thee aside to thy right hand or to thy left, and lay thee hold on one of the young men, and take thee his armour. But Asahel would not turn aside from following of him.",
+      "metadata": {
+        "reference": "2 Samuel 2:21",
+        "verseKey": "kjv:2-samuel:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-samuel:2:22",
+      "numberLabel": "22",
+      "text": "And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?",
+      "metadata": {
+        "reference": "2 Samuel 2:22",
+        "verseKey": "kjv:2-samuel:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-samuel:2:23",
+      "numberLabel": "23",
+      "text": "Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth rib, that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, that as many as came to the place where Asahel fell down and died stood still.",
+      "metadata": {
+        "reference": "2 Samuel 2:23",
+        "verseKey": "kjv:2-samuel:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-samuel:2:24",
+      "numberLabel": "24",
+      "text": "Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lieth before Giah by the way of the wilderness of Gibeon.",
+      "metadata": {
+        "reference": "2 Samuel 2:24",
+        "verseKey": "kjv:2-samuel:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-samuel:2:25",
+      "numberLabel": "25",
+      "text": "And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.",
+      "metadata": {
+        "reference": "2 Samuel 2:25",
+        "verseKey": "kjv:2-samuel:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-samuel:2:26",
+      "numberLabel": "26",
+      "text": "Then Abner called to Joab, and said, Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end? how long shall it be then, ere thou bid the people return from following their brethren?",
+      "metadata": {
+        "reference": "2 Samuel 2:26",
+        "verseKey": "kjv:2-samuel:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-samuel:2:27",
+      "numberLabel": "27",
+      "text": "And Joab said, As God liveth, unless thou hadst spoken, surely then in the morning the people had gone up every one from following his brother.",
+      "metadata": {
+        "reference": "2 Samuel 2:27",
+        "verseKey": "kjv:2-samuel:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-samuel:2:28",
+      "numberLabel": "28",
+      "text": "So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more.",
+      "metadata": {
+        "reference": "2 Samuel 2:28",
+        "verseKey": "kjv:2-samuel:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-samuel:2:29",
+      "numberLabel": "29",
+      "text": "And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim.",
+      "metadata": {
+        "reference": "2 Samuel 2:29",
+        "verseKey": "kjv:2-samuel:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-samuel:2:30",
+      "numberLabel": "30",
+      "text": "And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David’s servants nineteen men and Asahel.",
+      "metadata": {
+        "reference": "2 Samuel 2:30",
+        "verseKey": "kjv:2-samuel:2:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-samuel:2:31",
+      "numberLabel": "31",
+      "text": "But the servants of David had smitten of Benjamin, and of Abner’s men, so that three hundred and threescore men died.",
+      "metadata": {
+        "reference": "2 Samuel 2:31",
+        "verseKey": "kjv:2-samuel:2:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:2-samuel:2:32",
+      "numberLabel": "32",
+      "text": "And they took up Asahel, and buried him in the sepulchre of his father, which was in Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day.",
+      "metadata": {
+        "reference": "2 Samuel 2:32",
+        "verseKey": "kjv:2-samuel:2:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-057",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 57,
+  "title": "Isaiah 57",
+  "display_title": "Isaiah 57",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 57,
+  "sortOrder": 23057,
+  "verseCount": 21,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:57:1",
+      "numberLabel": "1",
+      "text": "The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come.",
+      "metadata": {
+        "reference": "Isaiah 57:1",
+        "verseKey": "kjv:isaiah:57:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:57:2",
+      "numberLabel": "2",
+      "text": "He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.",
+      "metadata": {
+        "reference": "Isaiah 57:2",
+        "verseKey": "kjv:isaiah:57:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:57:3",
+      "numberLabel": "3",
+      "text": "But draw near hither, ye sons of the sorceress, the seed of the adulterer and the whore.",
+      "metadata": {
+        "reference": "Isaiah 57:3",
+        "verseKey": "kjv:isaiah:57:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:57:4",
+      "numberLabel": "4",
+      "text": "Against whom do ye sport yourselves? against whom make ye a wide mouth, and draw out the tongue? are ye not children of transgression, a seed of falsehood,",
+      "metadata": {
+        "reference": "Isaiah 57:4",
+        "verseKey": "kjv:isaiah:57:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:57:5",
+      "numberLabel": "5",
+      "text": "Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?",
+      "metadata": {
+        "reference": "Isaiah 57:5",
+        "verseKey": "kjv:isaiah:57:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:57:6",
+      "numberLabel": "6",
+      "text": "Among the smooth stones of the stream is thy portion; they, they are thy lot: even to them hast thou poured a drink offering, thou hast offered a meat offering. Should I receive comfort in these?",
+      "metadata": {
+        "reference": "Isaiah 57:6",
+        "verseKey": "kjv:isaiah:57:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:57:7",
+      "numberLabel": "7",
+      "text": "Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice.",
+      "metadata": {
+        "reference": "Isaiah 57:7",
+        "verseKey": "kjv:isaiah:57:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:57:8",
+      "numberLabel": "8",
+      "text": "Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered thyself to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them; thou lovedst their bed where thou sawest it.",
+      "metadata": {
+        "reference": "Isaiah 57:8",
+        "verseKey": "kjv:isaiah:57:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:57:9",
+      "numberLabel": "9",
+      "text": "And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase thyself even unto hell.",
+      "metadata": {
+        "reference": "Isaiah 57:9",
+        "verseKey": "kjv:isaiah:57:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:57:10",
+      "numberLabel": "10",
+      "text": "Thou art wearied in the greatness of thy way; yet saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved.",
+      "metadata": {
+        "reference": "Isaiah 57:10",
+        "verseKey": "kjv:isaiah:57:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:57:11",
+      "numberLabel": "11",
+      "text": "And of whom hast thou been afraid or feared, that thou hast lied, and hast not remembered me, nor laid it to thy heart? have not I held my peace even of old, and thou fearest me not?",
+      "metadata": {
+        "reference": "Isaiah 57:11",
+        "verseKey": "kjv:isaiah:57:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:57:12",
+      "numberLabel": "12",
+      "text": "I will declare thy righteousness, and thy works; for they shall not profit thee.",
+      "metadata": {
+        "reference": "Isaiah 57:12",
+        "verseKey": "kjv:isaiah:57:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:57:13",
+      "numberLabel": "13",
+      "text": "When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take them: but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain;",
+      "metadata": {
+        "reference": "Isaiah 57:13",
+        "verseKey": "kjv:isaiah:57:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:57:14",
+      "numberLabel": "14",
+      "text": "And shall say, Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people.",
+      "metadata": {
+        "reference": "Isaiah 57:14",
+        "verseKey": "kjv:isaiah:57:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:57:15",
+      "numberLabel": "15",
+      "text": "For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.",
+      "metadata": {
+        "reference": "Isaiah 57:15",
+        "verseKey": "kjv:isaiah:57:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:57:16",
+      "numberLabel": "16",
+      "text": "For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls which I have made.",
+      "metadata": {
+        "reference": "Isaiah 57:16",
+        "verseKey": "kjv:isaiah:57:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:57:17",
+      "numberLabel": "17",
+      "text": "For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart.",
+      "metadata": {
+        "reference": "Isaiah 57:17",
+        "verseKey": "kjv:isaiah:57:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:57:18",
+      "numberLabel": "18",
+      "text": "I have seen his ways, and will heal him: I will lead him also, and restore comforts unto him and to his mourners.",
+      "metadata": {
+        "reference": "Isaiah 57:18",
+        "verseKey": "kjv:isaiah:57:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:57:19",
+      "numberLabel": "19",
+      "text": "I create the fruit of the lips; Peace, peace to him that is far off, and to him that is near, saith the LORD; and I will heal him.",
+      "metadata": {
+        "reference": "Isaiah 57:19",
+        "verseKey": "kjv:isaiah:57:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:57:20",
+      "numberLabel": "20",
+      "text": "But the wicked are like the troubled sea, when it cannot rest, whose waters cast up mire and dirt.",
+      "metadata": {
+        "reference": "Isaiah 57:20",
+        "verseKey": "kjv:isaiah:57:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:57:21",
+      "numberLabel": "21",
+      "text": "There is no peace, saith my God, to the wicked.",
+      "metadata": {
+        "reference": "Isaiah 57:21",
+        "verseKey": "kjv:isaiah:57:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-099",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 99,
+  "title": "Psalms 99",
+  "display_title": "Psalms 99",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 99,
+  "sortOrder": 19099,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:99:1",
+      "numberLabel": "1",
+      "text": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.",
+      "metadata": {
+        "reference": "Psalms 99:1",
+        "verseKey": "kjv:psalms:99:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:99:2",
+      "numberLabel": "2",
+      "text": "The LORD is great in Zion; and he is high above all the people.",
+      "metadata": {
+        "reference": "Psalms 99:2",
+        "verseKey": "kjv:psalms:99:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:99:3",
+      "numberLabel": "3",
+      "text": "Let them praise thy great and terrible name; for it is holy.",
+      "metadata": {
+        "reference": "Psalms 99:3",
+        "verseKey": "kjv:psalms:99:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:99:4",
+      "numberLabel": "4",
+      "text": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
+      "metadata": {
+        "reference": "Psalms 99:4",
+        "verseKey": "kjv:psalms:99:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:99:5",
+      "numberLabel": "5",
+      "text": "Exalt ye the LORD our God, and worship at his footstool; for he is holy.",
+      "metadata": {
+        "reference": "Psalms 99:5",
+        "verseKey": "kjv:psalms:99:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:99:6",
+      "numberLabel": "6",
+      "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.",
+      "metadata": {
+        "reference": "Psalms 99:6",
+        "verseKey": "kjv:psalms:99:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:99:7",
+      "numberLabel": "7",
+      "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.",
+      "metadata": {
+        "reference": "Psalms 99:7",
+        "verseKey": "kjv:psalms:99:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:99:8",
+      "numberLabel": "8",
+      "text": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
+      "metadata": {
+        "reference": "Psalms 99:8",
+        "verseKey": "kjv:psalms:99:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:99:9",
+      "numberLabel": "9",
+      "text": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.",
+      "metadata": {
+        "reference": "Psalms 99:9",
+        "verseKey": "kjv:psalms:99:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

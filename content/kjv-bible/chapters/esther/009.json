@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-esther-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Esther 9",
+  "display_title": "Esther 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "esther",
+  "book": "Esther",
+  "bookName": "Esther",
+  "bookOrder": 17,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 17009,
+  "verseCount": 32,
+  "aliases": [
+    "Esth",
+    "Est"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:esther:9:1",
+      "numberLabel": "1",
+      "text": "Now in the twelfth month, that is, the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)",
+      "metadata": {
+        "reference": "Esther 9:1",
+        "verseKey": "kjv:esther:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:esther:9:2",
+      "numberLabel": "2",
+      "text": "The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people.",
+      "metadata": {
+        "reference": "Esther 9:2",
+        "verseKey": "kjv:esther:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:esther:9:3",
+      "numberLabel": "3",
+      "text": "And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them.",
+      "metadata": {
+        "reference": "Esther 9:3",
+        "verseKey": "kjv:esther:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:esther:9:4",
+      "numberLabel": "4",
+      "text": "For Mordecai was great in the king’s house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater.",
+      "metadata": {
+        "reference": "Esther 9:4",
+        "verseKey": "kjv:esther:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:esther:9:5",
+      "numberLabel": "5",
+      "text": "Thus the Jews smote all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would unto those that hated them.",
+      "metadata": {
+        "reference": "Esther 9:5",
+        "verseKey": "kjv:esther:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:esther:9:6",
+      "numberLabel": "6",
+      "text": "And in Shushan the palace the Jews slew and destroyed five hundred men.",
+      "metadata": {
+        "reference": "Esther 9:6",
+        "verseKey": "kjv:esther:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:esther:9:7",
+      "numberLabel": "7",
+      "text": "And Parshandatha, and Dalphon, and Aspatha,",
+      "metadata": {
+        "reference": "Esther 9:7",
+        "verseKey": "kjv:esther:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:esther:9:8",
+      "numberLabel": "8",
+      "text": "And Poratha, and Adalia, and Aridatha,",
+      "metadata": {
+        "reference": "Esther 9:8",
+        "verseKey": "kjv:esther:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:esther:9:9",
+      "numberLabel": "9",
+      "text": "And Parmashta, and Arisai, and Aridai, and Vajezatha,",
+      "metadata": {
+        "reference": "Esther 9:9",
+        "verseKey": "kjv:esther:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:esther:9:10",
+      "numberLabel": "10",
+      "text": "The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand.",
+      "metadata": {
+        "reference": "Esther 9:10",
+        "verseKey": "kjv:esther:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:esther:9:11",
+      "numberLabel": "11",
+      "text": "On that day the number of those that were slain in Shushan the palace was brought before the king.",
+      "metadata": {
+        "reference": "Esther 9:11",
+        "verseKey": "kjv:esther:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:esther:9:12",
+      "numberLabel": "12",
+      "text": "And the king said unto Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king’s provinces? now what is thy petition? and it shall be granted thee: or what is thy request further? and it shall be done.",
+      "metadata": {
+        "reference": "Esther 9:12",
+        "verseKey": "kjv:esther:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:esther:9:13",
+      "numberLabel": "13",
+      "text": "Then said Esther, If it please the king, let it be granted to the Jews which are in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows.",
+      "metadata": {
+        "reference": "Esther 9:13",
+        "verseKey": "kjv:esther:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:esther:9:14",
+      "numberLabel": "14",
+      "text": "And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman’s ten sons.",
+      "metadata": {
+        "reference": "Esther 9:14",
+        "verseKey": "kjv:esther:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:esther:9:15",
+      "numberLabel": "15",
+      "text": "For the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.",
+      "metadata": {
+        "reference": "Esther 9:15",
+        "verseKey": "kjv:esther:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:esther:9:16",
+      "numberLabel": "16",
+      "text": "But the other Jews that were in the king’s provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,",
+      "metadata": {
+        "reference": "Esther 9:16",
+        "verseKey": "kjv:esther:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:esther:9:17",
+      "numberLabel": "17",
+      "text": "On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.",
+      "metadata": {
+        "reference": "Esther 9:17",
+        "verseKey": "kjv:esther:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:esther:9:18",
+      "numberLabel": "18",
+      "text": "But the Jews that were at Shushan assembled together on the thirteenth day thereof, and on the fourteenth thereof; and on the fifteenth day of the same they rested, and made it a day of feasting and gladness.",
+      "metadata": {
+        "reference": "Esther 9:18",
+        "verseKey": "kjv:esther:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:esther:9:19",
+      "numberLabel": "19",
+      "text": "Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar a day of gladness and feasting, and a good day, and of sending portions one to another.",
+      "metadata": {
+        "reference": "Esther 9:19",
+        "verseKey": "kjv:esther:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:esther:9:20",
+      "numberLabel": "20",
+      "text": "And Mordecai wrote these things, and sent letters unto all the Jews that were in all the provinces of the king Ahasuerus, both nigh and far,",
+      "metadata": {
+        "reference": "Esther 9:20",
+        "verseKey": "kjv:esther:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:esther:9:21",
+      "numberLabel": "21",
+      "text": "To stablish this among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly,",
+      "metadata": {
+        "reference": "Esther 9:21",
+        "verseKey": "kjv:esther:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:esther:9:22",
+      "numberLabel": "22",
+      "text": "As the days wherein the Jews rested from their enemies, and the month which was turned unto them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor.",
+      "metadata": {
+        "reference": "Esther 9:22",
+        "verseKey": "kjv:esther:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:esther:9:23",
+      "numberLabel": "23",
+      "text": "And the Jews undertook to do as they had begun, and as Mordecai had written unto them;",
+      "metadata": {
+        "reference": "Esther 9:23",
+        "verseKey": "kjv:esther:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:esther:9:24",
+      "numberLabel": "24",
+      "text": "Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that is, the lot, to consume them, and to destroy them;",
+      "metadata": {
+        "reference": "Esther 9:24",
+        "verseKey": "kjv:esther:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:esther:9:25",
+      "numberLabel": "25",
+      "text": "But when Esther came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows.",
+      "metadata": {
+        "reference": "Esther 9:25",
+        "verseKey": "kjv:esther:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:esther:9:26",
+      "numberLabel": "26",
+      "text": "Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and of that which they had seen concerning this matter, and which had come unto them,",
+      "metadata": {
+        "reference": "Esther 9:26",
+        "verseKey": "kjv:esther:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:esther:9:27",
+      "numberLabel": "27",
+      "text": "The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their appointed time every year;",
+      "metadata": {
+        "reference": "Esther 9:27",
+        "verseKey": "kjv:esther:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:esther:9:28",
+      "numberLabel": "28",
+      "text": "And that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed.",
+      "metadata": {
+        "reference": "Esther 9:28",
+        "verseKey": "kjv:esther:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:esther:9:29",
+      "numberLabel": "29",
+      "text": "Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim.",
+      "metadata": {
+        "reference": "Esther 9:29",
+        "verseKey": "kjv:esther:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:esther:9:30",
+      "numberLabel": "30",
+      "text": "And he sent the letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, with words of peace and truth,",
+      "metadata": {
+        "reference": "Esther 9:30",
+        "verseKey": "kjv:esther:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:esther:9:31",
+      "numberLabel": "31",
+      "text": "To confirm these days of Purim in their times appointed, according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry.",
+      "metadata": {
+        "reference": "Esther 9:31",
+        "verseKey": "kjv:esther:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:esther:9:32",
+      "numberLabel": "32",
+      "text": "And the decree of Esther confirmed these matters of Purim; and it was written in the book.",
+      "metadata": {
+        "reference": "Esther 9:32",
+        "verseKey": "kjv:esther:9:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Esther.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Esther.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

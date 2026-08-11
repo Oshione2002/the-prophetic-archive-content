@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezra-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Ezra 10",
+  "display_title": "Ezra 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezra",
+  "book": "Ezra",
+  "bookName": "Ezra",
+  "bookOrder": 15,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 15010,
+  "verseCount": 44,
+  "aliases": [
+    "Ezra",
+    "Ezr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezra:10:1",
+      "numberLabel": "1",
+      "text": "Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.",
+      "metadata": {
+        "reference": "Ezra 10:1",
+        "verseKey": "kjv:ezra:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezra:10:2",
+      "numberLabel": "2",
+      "text": "And Shechaniah the son of Jehiel, one of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing.",
+      "metadata": {
+        "reference": "Ezra 10:2",
+        "verseKey": "kjv:ezra:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezra:10:3",
+      "numberLabel": "3",
+      "text": "Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law.",
+      "metadata": {
+        "reference": "Ezra 10:3",
+        "verseKey": "kjv:ezra:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezra:10:4",
+      "numberLabel": "4",
+      "text": "Arise; for this matter belongeth unto thee: we also will be with thee: be of good courage, and do it.",
+      "metadata": {
+        "reference": "Ezra 10:4",
+        "verseKey": "kjv:ezra:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezra:10:5",
+      "numberLabel": "5",
+      "text": "Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.",
+      "metadata": {
+        "reference": "Ezra 10:5",
+        "verseKey": "kjv:ezra:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezra:10:6",
+      "numberLabel": "6",
+      "text": "Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and when he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.",
+      "metadata": {
+        "reference": "Ezra 10:6",
+        "verseKey": "kjv:ezra:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezra:10:7",
+      "numberLabel": "7",
+      "text": "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;",
+      "metadata": {
+        "reference": "Ezra 10:7",
+        "verseKey": "kjv:ezra:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezra:10:8",
+      "numberLabel": "8",
+      "text": "And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.",
+      "metadata": {
+        "reference": "Ezra 10:8",
+        "verseKey": "kjv:ezra:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezra:10:9",
+      "numberLabel": "9",
+      "text": "Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.",
+      "metadata": {
+        "reference": "Ezra 10:9",
+        "verseKey": "kjv:ezra:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezra:10:10",
+      "numberLabel": "10",
+      "text": "And Ezra the priest stood up, and said unto them, Ye have transgressed, and have taken strange wives, to increase the trespass of Israel.",
+      "metadata": {
+        "reference": "Ezra 10:10",
+        "verseKey": "kjv:ezra:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezra:10:11",
+      "numberLabel": "11",
+      "text": "Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.",
+      "metadata": {
+        "reference": "Ezra 10:11",
+        "verseKey": "kjv:ezra:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezra:10:12",
+      "numberLabel": "12",
+      "text": "Then all the congregation answered and said with a loud voice, As thou hast said, so must we do.",
+      "metadata": {
+        "reference": "Ezra 10:12",
+        "verseKey": "kjv:ezra:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezra:10:13",
+      "numberLabel": "13",
+      "text": "But the people are many, and it is a time of much rain, and we are not able to stand without, neither is this a work of one day or two: for we are many that have transgressed in this thing.",
+      "metadata": {
+        "reference": "Ezra 10:13",
+        "verseKey": "kjv:ezra:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezra:10:14",
+      "numberLabel": "14",
+      "text": "Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.",
+      "metadata": {
+        "reference": "Ezra 10:14",
+        "verseKey": "kjv:ezra:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezra:10:15",
+      "numberLabel": "15",
+      "text": "Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.",
+      "metadata": {
+        "reference": "Ezra 10:15",
+        "verseKey": "kjv:ezra:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezra:10:16",
+      "numberLabel": "16",
+      "text": "And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.",
+      "metadata": {
+        "reference": "Ezra 10:16",
+        "verseKey": "kjv:ezra:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezra:10:17",
+      "numberLabel": "17",
+      "text": "And they made an end with all the men that had taken strange wives by the first day of the first month.",
+      "metadata": {
+        "reference": "Ezra 10:17",
+        "verseKey": "kjv:ezra:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezra:10:18",
+      "numberLabel": "18",
+      "text": "And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.",
+      "metadata": {
+        "reference": "Ezra 10:18",
+        "verseKey": "kjv:ezra:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezra:10:19",
+      "numberLabel": "19",
+      "text": "And they gave their hands that they would put away their wives; and being guilty, they offered a ram of the flock for their trespass.",
+      "metadata": {
+        "reference": "Ezra 10:19",
+        "verseKey": "kjv:ezra:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezra:10:20",
+      "numberLabel": "20",
+      "text": "And of the sons of Immer; Hanani, and Zebadiah.",
+      "metadata": {
+        "reference": "Ezra 10:20",
+        "verseKey": "kjv:ezra:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezra:10:21",
+      "numberLabel": "21",
+      "text": "And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.",
+      "metadata": {
+        "reference": "Ezra 10:21",
+        "verseKey": "kjv:ezra:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezra:10:22",
+      "numberLabel": "22",
+      "text": "And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.",
+      "metadata": {
+        "reference": "Ezra 10:22",
+        "verseKey": "kjv:ezra:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezra:10:23",
+      "numberLabel": "23",
+      "text": "Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same is Kelita,) Pethahiah, Judah, and Eliezer.",
+      "metadata": {
+        "reference": "Ezra 10:23",
+        "verseKey": "kjv:ezra:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezra:10:24",
+      "numberLabel": "24",
+      "text": "Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri.",
+      "metadata": {
+        "reference": "Ezra 10:24",
+        "verseKey": "kjv:ezra:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ezra:10:25",
+      "numberLabel": "25",
+      "text": "Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.",
+      "metadata": {
+        "reference": "Ezra 10:25",
+        "verseKey": "kjv:ezra:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ezra:10:26",
+      "numberLabel": "26",
+      "text": "And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Eliah.",
+      "metadata": {
+        "reference": "Ezra 10:26",
+        "verseKey": "kjv:ezra:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:ezra:10:27",
+      "numberLabel": "27",
+      "text": "And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.",
+      "metadata": {
+        "reference": "Ezra 10:27",
+        "verseKey": "kjv:ezra:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:ezra:10:28",
+      "numberLabel": "28",
+      "text": "Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.",
+      "metadata": {
+        "reference": "Ezra 10:28",
+        "verseKey": "kjv:ezra:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:ezra:10:29",
+      "numberLabel": "29",
+      "text": "And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.",
+      "metadata": {
+        "reference": "Ezra 10:29",
+        "verseKey": "kjv:ezra:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:ezra:10:30",
+      "numberLabel": "30",
+      "text": "And of the sons of Pahathmoab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.",
+      "metadata": {
+        "reference": "Ezra 10:30",
+        "verseKey": "kjv:ezra:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:ezra:10:31",
+      "numberLabel": "31",
+      "text": "And of the sons of Harim; Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,",
+      "metadata": {
+        "reference": "Ezra 10:31",
+        "verseKey": "kjv:ezra:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:ezra:10:32",
+      "numberLabel": "32",
+      "text": "Benjamin, Malluch, and Shemariah.",
+      "metadata": {
+        "reference": "Ezra 10:32",
+        "verseKey": "kjv:ezra:10:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:ezra:10:33",
+      "numberLabel": "33",
+      "text": "Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.",
+      "metadata": {
+        "reference": "Ezra 10:33",
+        "verseKey": "kjv:ezra:10:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:ezra:10:34",
+      "numberLabel": "34",
+      "text": "Of the sons of Bani; Maadai, Amram, and Uel,",
+      "metadata": {
+        "reference": "Ezra 10:34",
+        "verseKey": "kjv:ezra:10:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:ezra:10:35",
+      "numberLabel": "35",
+      "text": "Benaiah, Bedeiah, Chelluh,",
+      "metadata": {
+        "reference": "Ezra 10:35",
+        "verseKey": "kjv:ezra:10:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:ezra:10:36",
+      "numberLabel": "36",
+      "text": "Vaniah, Meremoth, Eliashib,",
+      "metadata": {
+        "reference": "Ezra 10:36",
+        "verseKey": "kjv:ezra:10:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:ezra:10:37",
+      "numberLabel": "37",
+      "text": "Mattaniah, Mattenai, and Jaasau,",
+      "metadata": {
+        "reference": "Ezra 10:37",
+        "verseKey": "kjv:ezra:10:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:ezra:10:38",
+      "numberLabel": "38",
+      "text": "And Bani, and Binnui, Shimei,",
+      "metadata": {
+        "reference": "Ezra 10:38",
+        "verseKey": "kjv:ezra:10:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:ezra:10:39",
+      "numberLabel": "39",
+      "text": "And Shelemiah, and Nathan, and Adaiah,",
+      "metadata": {
+        "reference": "Ezra 10:39",
+        "verseKey": "kjv:ezra:10:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:ezra:10:40",
+      "numberLabel": "40",
+      "text": "Machnadebai, Shashai, Sharai,",
+      "metadata": {
+        "reference": "Ezra 10:40",
+        "verseKey": "kjv:ezra:10:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:ezra:10:41",
+      "numberLabel": "41",
+      "text": "Azareel, and Shelemiah, Shemariah,",
+      "metadata": {
+        "reference": "Ezra 10:41",
+        "verseKey": "kjv:ezra:10:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:ezra:10:42",
+      "numberLabel": "42",
+      "text": "Shallum, Amariah, and Joseph.",
+      "metadata": {
+        "reference": "Ezra 10:42",
+        "verseKey": "kjv:ezra:10:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:ezra:10:43",
+      "numberLabel": "43",
+      "text": "Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.",
+      "metadata": {
+        "reference": "Ezra 10:43",
+        "verseKey": "kjv:ezra:10:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:ezra:10:44",
+      "numberLabel": "44",
+      "text": "All these had taken strange wives: and some of them had wives by whom they had children.",
+      "metadata": {
+        "reference": "Ezra 10:44",
+        "verseKey": "kjv:ezra:10:44"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezra.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezra.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

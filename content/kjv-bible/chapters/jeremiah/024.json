@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Jeremiah 24",
+  "display_title": "Jeremiah 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 24024,
+  "verseCount": 10,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:24:1",
+      "numberLabel": "1",
+      "text": "The LORD shewed me, and, behold, two baskets of figs were set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.",
+      "metadata": {
+        "reference": "Jeremiah 24:1",
+        "verseKey": "kjv:jeremiah:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:24:2",
+      "numberLabel": "2",
+      "text": "One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.",
+      "metadata": {
+        "reference": "Jeremiah 24:2",
+        "verseKey": "kjv:jeremiah:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:24:3",
+      "numberLabel": "3",
+      "text": "Then said the LORD unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.",
+      "metadata": {
+        "reference": "Jeremiah 24:3",
+        "verseKey": "kjv:jeremiah:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:24:4",
+      "numberLabel": "4",
+      "text": "Again the word of the LORD came unto me, saying,",
+      "metadata": {
+        "reference": "Jeremiah 24:4",
+        "verseKey": "kjv:jeremiah:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:24:5",
+      "numberLabel": "5",
+      "text": "Thus saith the LORD, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for their good.",
+      "metadata": {
+        "reference": "Jeremiah 24:5",
+        "verseKey": "kjv:jeremiah:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:24:6",
+      "numberLabel": "6",
+      "text": "For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up.",
+      "metadata": {
+        "reference": "Jeremiah 24:6",
+        "verseKey": "kjv:jeremiah:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:24:7",
+      "numberLabel": "7",
+      "text": "And I will give them an heart to know me, that I am the LORD: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.",
+      "metadata": {
+        "reference": "Jeremiah 24:7",
+        "verseKey": "kjv:jeremiah:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:24:8",
+      "numberLabel": "8",
+      "text": "And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:",
+      "metadata": {
+        "reference": "Jeremiah 24:8",
+        "verseKey": "kjv:jeremiah:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:24:9",
+      "numberLabel": "9",
+      "text": "And I will deliver them to be removed into all the kingdoms of the earth for their hurt, to be a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them.",
+      "metadata": {
+        "reference": "Jeremiah 24:9",
+        "verseKey": "kjv:jeremiah:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:24:10",
+      "numberLabel": "10",
+      "text": "And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.",
+      "metadata": {
+        "reference": "Jeremiah 24:10",
+        "verseKey": "kjv:jeremiah:24:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

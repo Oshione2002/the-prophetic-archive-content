@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-134",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 134,
+  "title": "Psalms 134",
+  "display_title": "Psalms 134",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 134,
+  "sortOrder": 19134,
+  "verseCount": 3,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:134:1",
+      "numberLabel": "1",
+      "text": "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.",
+      "metadata": {
+        "reference": "Psalms 134:1",
+        "verseKey": "kjv:psalms:134:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:134:2",
+      "numberLabel": "2",
+      "text": "Lift up your hands in the sanctuary, and bless the LORD.",
+      "metadata": {
+        "reference": "Psalms 134:2",
+        "verseKey": "kjv:psalms:134:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:134:3",
+      "numberLabel": "3",
+      "text": "The LORD that made heaven and earth bless thee out of Zion.",
+      "metadata": {
+        "reference": "Psalms 134:3",
+        "verseKey": "kjv:psalms:134:3"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

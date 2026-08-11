@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-014",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 14,
+  "title": "Matthew 14",
+  "display_title": "Matthew 14",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 14,
+  "sortOrder": 40014,
+  "verseCount": 36,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:14:1",
+      "numberLabel": "1",
+      "text": "At that time Herod the tetrarch heard of the fame of Jesus,",
+      "metadata": {
+        "reference": "Matthew 14:1",
+        "verseKey": "kjv:matthew:14:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:14:2",
+      "numberLabel": "2",
+      "text": "And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him.",
+      "metadata": {
+        "reference": "Matthew 14:2",
+        "verseKey": "kjv:matthew:14:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:14:3",
+      "numberLabel": "3",
+      "text": "For Herod had laid hold on John, and bound him, and put him in prison for Herodias’ sake, his brother Philip’s wife.",
+      "metadata": {
+        "reference": "Matthew 14:3",
+        "verseKey": "kjv:matthew:14:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:14:4",
+      "numberLabel": "4",
+      "text": "For John said unto him, It is not lawful for thee to have her.",
+      "metadata": {
+        "reference": "Matthew 14:4",
+        "verseKey": "kjv:matthew:14:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:14:5",
+      "numberLabel": "5",
+      "text": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet.",
+      "metadata": {
+        "reference": "Matthew 14:5",
+        "verseKey": "kjv:matthew:14:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:14:6",
+      "numberLabel": "6",
+      "text": "But when Herod’s birthday was kept, the daughter of Herodias danced before them, and pleased Herod.",
+      "metadata": {
+        "reference": "Matthew 14:6",
+        "verseKey": "kjv:matthew:14:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:14:7",
+      "numberLabel": "7",
+      "text": "Whereupon he promised with an oath to give her whatsoever she would ask.",
+      "metadata": {
+        "reference": "Matthew 14:7",
+        "verseKey": "kjv:matthew:14:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:14:8",
+      "numberLabel": "8",
+      "text": "And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger.",
+      "metadata": {
+        "reference": "Matthew 14:8",
+        "verseKey": "kjv:matthew:14:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:14:9",
+      "numberLabel": "9",
+      "text": "And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her.",
+      "metadata": {
+        "reference": "Matthew 14:9",
+        "verseKey": "kjv:matthew:14:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:14:10",
+      "numberLabel": "10",
+      "text": "And he sent, and beheaded John in the prison.",
+      "metadata": {
+        "reference": "Matthew 14:10",
+        "verseKey": "kjv:matthew:14:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:14:11",
+      "numberLabel": "11",
+      "text": "And his head was brought in a charger, and given to the damsel: and she brought it to her mother.",
+      "metadata": {
+        "reference": "Matthew 14:11",
+        "verseKey": "kjv:matthew:14:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:14:12",
+      "numberLabel": "12",
+      "text": "And his disciples came, and took up the body, and buried it, and went and told Jesus.",
+      "metadata": {
+        "reference": "Matthew 14:12",
+        "verseKey": "kjv:matthew:14:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:14:13",
+      "numberLabel": "13",
+      "text": "When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities.",
+      "metadata": {
+        "reference": "Matthew 14:13",
+        "verseKey": "kjv:matthew:14:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:14:14",
+      "numberLabel": "14",
+      "text": "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.",
+      "metadata": {
+        "reference": "Matthew 14:14",
+        "verseKey": "kjv:matthew:14:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:14:15",
+      "numberLabel": "15",
+      "text": "And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals.",
+      "metadata": {
+        "reference": "Matthew 14:15",
+        "verseKey": "kjv:matthew:14:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:14:16",
+      "numberLabel": "16",
+      "text": "But Jesus said unto them, They need not depart; give ye them to eat.",
+      "metadata": {
+        "reference": "Matthew 14:16",
+        "verseKey": "kjv:matthew:14:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:14:17",
+      "numberLabel": "17",
+      "text": "And they say unto him, We have here but five loaves, and two fishes.",
+      "metadata": {
+        "reference": "Matthew 14:17",
+        "verseKey": "kjv:matthew:14:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:14:18",
+      "numberLabel": "18",
+      "text": "He said, Bring them hither to me.",
+      "metadata": {
+        "reference": "Matthew 14:18",
+        "verseKey": "kjv:matthew:14:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:14:19",
+      "numberLabel": "19",
+      "text": "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude.",
+      "metadata": {
+        "reference": "Matthew 14:19",
+        "verseKey": "kjv:matthew:14:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:14:20",
+      "numberLabel": "20",
+      "text": "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full.",
+      "metadata": {
+        "reference": "Matthew 14:20",
+        "verseKey": "kjv:matthew:14:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:14:21",
+      "numberLabel": "21",
+      "text": "And they that had eaten were about five thousand men, beside women and children.",
+      "metadata": {
+        "reference": "Matthew 14:21",
+        "verseKey": "kjv:matthew:14:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:14:22",
+      "numberLabel": "22",
+      "text": "And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away.",
+      "metadata": {
+        "reference": "Matthew 14:22",
+        "verseKey": "kjv:matthew:14:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:14:23",
+      "numberLabel": "23",
+      "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.",
+      "metadata": {
+        "reference": "Matthew 14:23",
+        "verseKey": "kjv:matthew:14:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:14:24",
+      "numberLabel": "24",
+      "text": "But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary.",
+      "metadata": {
+        "reference": "Matthew 14:24",
+        "verseKey": "kjv:matthew:14:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:14:25",
+      "numberLabel": "25",
+      "text": "And in the fourth watch of the night Jesus went unto them, walking on the sea.",
+      "metadata": {
+        "reference": "Matthew 14:25",
+        "verseKey": "kjv:matthew:14:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:14:26",
+      "numberLabel": "26",
+      "text": "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.",
+      "metadata": {
+        "reference": "Matthew 14:26",
+        "verseKey": "kjv:matthew:14:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:14:27",
+      "numberLabel": "27",
+      "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid.",
+      "metadata": {
+        "reference": "Matthew 14:27",
+        "verseKey": "kjv:matthew:14:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:14:28",
+      "numberLabel": "28",
+      "text": "And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water.",
+      "metadata": {
+        "reference": "Matthew 14:28",
+        "verseKey": "kjv:matthew:14:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:14:29",
+      "numberLabel": "29",
+      "text": "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus.",
+      "metadata": {
+        "reference": "Matthew 14:29",
+        "verseKey": "kjv:matthew:14:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:14:30",
+      "numberLabel": "30",
+      "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.",
+      "metadata": {
+        "reference": "Matthew 14:30",
+        "verseKey": "kjv:matthew:14:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:14:31",
+      "numberLabel": "31",
+      "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?",
+      "metadata": {
+        "reference": "Matthew 14:31",
+        "verseKey": "kjv:matthew:14:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:14:32",
+      "numberLabel": "32",
+      "text": "And when they were come into the ship, the wind ceased.",
+      "metadata": {
+        "reference": "Matthew 14:32",
+        "verseKey": "kjv:matthew:14:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:14:33",
+      "numberLabel": "33",
+      "text": "Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.",
+      "metadata": {
+        "reference": "Matthew 14:33",
+        "verseKey": "kjv:matthew:14:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:14:34",
+      "numberLabel": "34",
+      "text": "And when they were gone over, they came into the land of Gennesaret.",
+      "metadata": {
+        "reference": "Matthew 14:34",
+        "verseKey": "kjv:matthew:14:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:14:35",
+      "numberLabel": "35",
+      "text": "And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;",
+      "metadata": {
+        "reference": "Matthew 14:35",
+        "verseKey": "kjv:matthew:14:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:14:36",
+      "numberLabel": "36",
+      "text": "And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.",
+      "metadata": {
+        "reference": "Matthew 14:36",
+        "verseKey": "kjv:matthew:14:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

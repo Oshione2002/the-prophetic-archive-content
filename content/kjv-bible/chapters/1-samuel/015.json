@@ -1,0 +1,454 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "1 Samuel 15",
+  "display_title": "1 Samuel 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 15,
+  "sortOrder": 9015,
+  "verseCount": 35,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:15:1",
+      "numberLabel": "1",
+      "text": "Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 15:1",
+        "verseKey": "kjv:1-samuel:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:15:2",
+      "numberLabel": "2",
+      "text": "Thus saith the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.",
+      "metadata": {
+        "reference": "1 Samuel 15:2",
+        "verseKey": "kjv:1-samuel:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:15:3",
+      "numberLabel": "3",
+      "text": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.",
+      "metadata": {
+        "reference": "1 Samuel 15:3",
+        "verseKey": "kjv:1-samuel:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:15:4",
+      "numberLabel": "4",
+      "text": "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.",
+      "metadata": {
+        "reference": "1 Samuel 15:4",
+        "verseKey": "kjv:1-samuel:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:15:5",
+      "numberLabel": "5",
+      "text": "And Saul came to a city of Amalek, and laid wait in the valley.",
+      "metadata": {
+        "reference": "1 Samuel 15:5",
+        "verseKey": "kjv:1-samuel:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:15:6",
+      "numberLabel": "6",
+      "text": "And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites.",
+      "metadata": {
+        "reference": "1 Samuel 15:6",
+        "verseKey": "kjv:1-samuel:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:15:7",
+      "numberLabel": "7",
+      "text": "And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt.",
+      "metadata": {
+        "reference": "1 Samuel 15:7",
+        "verseKey": "kjv:1-samuel:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:15:8",
+      "numberLabel": "8",
+      "text": "And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.",
+      "metadata": {
+        "reference": "1 Samuel 15:8",
+        "verseKey": "kjv:1-samuel:15:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:15:9",
+      "numberLabel": "9",
+      "text": "But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly.",
+      "metadata": {
+        "reference": "1 Samuel 15:9",
+        "verseKey": "kjv:1-samuel:15:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:15:10",
+      "numberLabel": "10",
+      "text": "Then came the word of the LORD unto Samuel, saying,",
+      "metadata": {
+        "reference": "1 Samuel 15:10",
+        "verseKey": "kjv:1-samuel:15:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:15:11",
+      "numberLabel": "11",
+      "text": "It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night.",
+      "metadata": {
+        "reference": "1 Samuel 15:11",
+        "verseKey": "kjv:1-samuel:15:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:15:12",
+      "numberLabel": "12",
+      "text": "And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal.",
+      "metadata": {
+        "reference": "1 Samuel 15:12",
+        "verseKey": "kjv:1-samuel:15:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:15:13",
+      "numberLabel": "13",
+      "text": "And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 15:13",
+        "verseKey": "kjv:1-samuel:15:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:15:14",
+      "numberLabel": "14",
+      "text": "And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?",
+      "metadata": {
+        "reference": "1 Samuel 15:14",
+        "verseKey": "kjv:1-samuel:15:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:15:15",
+      "numberLabel": "15",
+      "text": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed.",
+      "metadata": {
+        "reference": "1 Samuel 15:15",
+        "verseKey": "kjv:1-samuel:15:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:15:16",
+      "numberLabel": "16",
+      "text": "Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on.",
+      "metadata": {
+        "reference": "1 Samuel 15:16",
+        "verseKey": "kjv:1-samuel:15:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:15:17",
+      "numberLabel": "17",
+      "text": "And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel?",
+      "metadata": {
+        "reference": "1 Samuel 15:17",
+        "verseKey": "kjv:1-samuel:15:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:15:18",
+      "numberLabel": "18",
+      "text": "And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.",
+      "metadata": {
+        "reference": "1 Samuel 15:18",
+        "verseKey": "kjv:1-samuel:15:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:15:19",
+      "numberLabel": "19",
+      "text": "Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD?",
+      "metadata": {
+        "reference": "1 Samuel 15:19",
+        "verseKey": "kjv:1-samuel:15:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:15:20",
+      "numberLabel": "20",
+      "text": "And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.",
+      "metadata": {
+        "reference": "1 Samuel 15:20",
+        "verseKey": "kjv:1-samuel:15:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:15:21",
+      "numberLabel": "21",
+      "text": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal.",
+      "metadata": {
+        "reference": "1 Samuel 15:21",
+        "verseKey": "kjv:1-samuel:15:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:15:22",
+      "numberLabel": "22",
+      "text": "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
+      "metadata": {
+        "reference": "1 Samuel 15:22",
+        "verseKey": "kjv:1-samuel:15:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:15:23",
+      "numberLabel": "23",
+      "text": "For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king.",
+      "metadata": {
+        "reference": "1 Samuel 15:23",
+        "verseKey": "kjv:1-samuel:15:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:15:24",
+      "numberLabel": "24",
+      "text": "And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice.",
+      "metadata": {
+        "reference": "1 Samuel 15:24",
+        "verseKey": "kjv:1-samuel:15:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:15:25",
+      "numberLabel": "25",
+      "text": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 15:25",
+        "verseKey": "kjv:1-samuel:15:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-samuel:15:26",
+      "numberLabel": "26",
+      "text": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the LORD, and the LORD hath rejected thee from being king over Israel.",
+      "metadata": {
+        "reference": "1 Samuel 15:26",
+        "verseKey": "kjv:1-samuel:15:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-samuel:15:27",
+      "numberLabel": "27",
+      "text": "And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent.",
+      "metadata": {
+        "reference": "1 Samuel 15:27",
+        "verseKey": "kjv:1-samuel:15:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-samuel:15:28",
+      "numberLabel": "28",
+      "text": "And Samuel said unto him, The LORD hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.",
+      "metadata": {
+        "reference": "1 Samuel 15:28",
+        "verseKey": "kjv:1-samuel:15:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-samuel:15:29",
+      "numberLabel": "29",
+      "text": "And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.",
+      "metadata": {
+        "reference": "1 Samuel 15:29",
+        "verseKey": "kjv:1-samuel:15:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-samuel:15:30",
+      "numberLabel": "30",
+      "text": "Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the LORD thy God.",
+      "metadata": {
+        "reference": "1 Samuel 15:30",
+        "verseKey": "kjv:1-samuel:15:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-samuel:15:31",
+      "numberLabel": "31",
+      "text": "So Samuel turned again after Saul; and Saul worshipped the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 15:31",
+        "verseKey": "kjv:1-samuel:15:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-samuel:15:32",
+      "numberLabel": "32",
+      "text": "Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past.",
+      "metadata": {
+        "reference": "1 Samuel 15:32",
+        "verseKey": "kjv:1-samuel:15:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-samuel:15:33",
+      "numberLabel": "33",
+      "text": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal.",
+      "metadata": {
+        "reference": "1 Samuel 15:33",
+        "verseKey": "kjv:1-samuel:15:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-samuel:15:34",
+      "numberLabel": "34",
+      "text": "Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.",
+      "metadata": {
+        "reference": "1 Samuel 15:34",
+        "verseKey": "kjv:1-samuel:15:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-samuel:15:35",
+      "numberLabel": "35",
+      "text": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel.",
+      "metadata": {
+        "reference": "1 Samuel 15:35",
+        "verseKey": "kjv:1-samuel:15:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

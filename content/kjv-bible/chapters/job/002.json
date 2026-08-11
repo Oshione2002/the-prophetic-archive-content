@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Job 2",
+  "display_title": "Job 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 18002,
+  "verseCount": 13,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:2:1",
+      "numberLabel": "1",
+      "text": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.",
+      "metadata": {
+        "reference": "Job 2:1",
+        "verseKey": "kjv:job:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:2:2",
+      "numberLabel": "2",
+      "text": "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+      "metadata": {
+        "reference": "Job 2:2",
+        "verseKey": "kjv:job:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:2:3",
+      "numberLabel": "3",
+      "text": "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.",
+      "metadata": {
+        "reference": "Job 2:3",
+        "verseKey": "kjv:job:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:2:4",
+      "numberLabel": "4",
+      "text": "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.",
+      "metadata": {
+        "reference": "Job 2:4",
+        "verseKey": "kjv:job:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:2:5",
+      "numberLabel": "5",
+      "text": "But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.",
+      "metadata": {
+        "reference": "Job 2:5",
+        "verseKey": "kjv:job:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:2:6",
+      "numberLabel": "6",
+      "text": "And the LORD said unto Satan, Behold, he is in thine hand; but save his life.",
+      "metadata": {
+        "reference": "Job 2:6",
+        "verseKey": "kjv:job:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:2:7",
+      "numberLabel": "7",
+      "text": "So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.",
+      "metadata": {
+        "reference": "Job 2:7",
+        "verseKey": "kjv:job:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:2:8",
+      "numberLabel": "8",
+      "text": "And he took him a potsherd to scrape himself withal; and he sat down among the ashes.",
+      "metadata": {
+        "reference": "Job 2:8",
+        "verseKey": "kjv:job:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:2:9",
+      "numberLabel": "9",
+      "text": "Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+      "metadata": {
+        "reference": "Job 2:9",
+        "verseKey": "kjv:job:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:2:10",
+      "numberLabel": "10",
+      "text": "But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.",
+      "metadata": {
+        "reference": "Job 2:10",
+        "verseKey": "kjv:job:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:2:11",
+      "numberLabel": "11",
+      "text": "Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+      "metadata": {
+        "reference": "Job 2:11",
+        "verseKey": "kjv:job:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:2:12",
+      "numberLabel": "12",
+      "text": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.",
+      "metadata": {
+        "reference": "Job 2:12",
+        "verseKey": "kjv:job:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:2:13",
+      "numberLabel": "13",
+      "text": "So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great.",
+      "metadata": {
+        "reference": "Job 2:13",
+        "verseKey": "kjv:job:2:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "Proverbs 18",
+  "display_title": "Proverbs 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 18,
+  "sortOrder": 20018,
+  "verseCount": 24,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:18:1",
+      "numberLabel": "1",
+      "text": "Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.",
+      "metadata": {
+        "reference": "Proverbs 18:1",
+        "verseKey": "kjv:proverbs:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:18:2",
+      "numberLabel": "2",
+      "text": "A fool hath no delight in understanding, but that his heart may discover itself.",
+      "metadata": {
+        "reference": "Proverbs 18:2",
+        "verseKey": "kjv:proverbs:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:18:3",
+      "numberLabel": "3",
+      "text": "When the wicked cometh, then cometh also contempt, and with ignominy reproach.",
+      "metadata": {
+        "reference": "Proverbs 18:3",
+        "verseKey": "kjv:proverbs:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:18:4",
+      "numberLabel": "4",
+      "text": "The words of a man’s mouth are as deep waters, and the wellspring of wisdom as a flowing brook.",
+      "metadata": {
+        "reference": "Proverbs 18:4",
+        "verseKey": "kjv:proverbs:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:18:5",
+      "numberLabel": "5",
+      "text": "It is not good to accept the person of the wicked, to overthrow the righteous in judgment.",
+      "metadata": {
+        "reference": "Proverbs 18:5",
+        "verseKey": "kjv:proverbs:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:18:6",
+      "numberLabel": "6",
+      "text": "A fool’s lips enter into contention, and his mouth calleth for strokes.",
+      "metadata": {
+        "reference": "Proverbs 18:6",
+        "verseKey": "kjv:proverbs:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:18:7",
+      "numberLabel": "7",
+      "text": "A fool’s mouth is his destruction, and his lips are the snare of his soul.",
+      "metadata": {
+        "reference": "Proverbs 18:7",
+        "verseKey": "kjv:proverbs:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:18:8",
+      "numberLabel": "8",
+      "text": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.",
+      "metadata": {
+        "reference": "Proverbs 18:8",
+        "verseKey": "kjv:proverbs:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:18:9",
+      "numberLabel": "9",
+      "text": "He also that is slothful in his work is brother to him that is a great waster.",
+      "metadata": {
+        "reference": "Proverbs 18:9",
+        "verseKey": "kjv:proverbs:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:18:10",
+      "numberLabel": "10",
+      "text": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe.",
+      "metadata": {
+        "reference": "Proverbs 18:10",
+        "verseKey": "kjv:proverbs:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:18:11",
+      "numberLabel": "11",
+      "text": "The rich man’s wealth is his strong city, and as an high wall in his own conceit.",
+      "metadata": {
+        "reference": "Proverbs 18:11",
+        "verseKey": "kjv:proverbs:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:18:12",
+      "numberLabel": "12",
+      "text": "Before destruction the heart of man is haughty, and before honour is humility.",
+      "metadata": {
+        "reference": "Proverbs 18:12",
+        "verseKey": "kjv:proverbs:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:18:13",
+      "numberLabel": "13",
+      "text": "He that answereth a matter before he heareth it, it is folly and shame unto him.",
+      "metadata": {
+        "reference": "Proverbs 18:13",
+        "verseKey": "kjv:proverbs:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:18:14",
+      "numberLabel": "14",
+      "text": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?",
+      "metadata": {
+        "reference": "Proverbs 18:14",
+        "verseKey": "kjv:proverbs:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:18:15",
+      "numberLabel": "15",
+      "text": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+      "metadata": {
+        "reference": "Proverbs 18:15",
+        "verseKey": "kjv:proverbs:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:18:16",
+      "numberLabel": "16",
+      "text": "A man’s gift maketh room for him, and bringeth him before great men.",
+      "metadata": {
+        "reference": "Proverbs 18:16",
+        "verseKey": "kjv:proverbs:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:18:17",
+      "numberLabel": "17",
+      "text": "He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.",
+      "metadata": {
+        "reference": "Proverbs 18:17",
+        "verseKey": "kjv:proverbs:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:18:18",
+      "numberLabel": "18",
+      "text": "The lot causeth contentions to cease, and parteth between the mighty.",
+      "metadata": {
+        "reference": "Proverbs 18:18",
+        "verseKey": "kjv:proverbs:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:18:19",
+      "numberLabel": "19",
+      "text": "A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.",
+      "metadata": {
+        "reference": "Proverbs 18:19",
+        "verseKey": "kjv:proverbs:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:18:20",
+      "numberLabel": "20",
+      "text": "A man’s belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.",
+      "metadata": {
+        "reference": "Proverbs 18:20",
+        "verseKey": "kjv:proverbs:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:18:21",
+      "numberLabel": "21",
+      "text": "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.",
+      "metadata": {
+        "reference": "Proverbs 18:21",
+        "verseKey": "kjv:proverbs:18:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:18:22",
+      "numberLabel": "22",
+      "text": "Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.",
+      "metadata": {
+        "reference": "Proverbs 18:22",
+        "verseKey": "kjv:proverbs:18:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:18:23",
+      "numberLabel": "23",
+      "text": "The poor useth intreaties; but the rich answereth roughly.",
+      "metadata": {
+        "reference": "Proverbs 18:23",
+        "verseKey": "kjv:proverbs:18:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:18:24",
+      "numberLabel": "24",
+      "text": "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.",
+      "metadata": {
+        "reference": "Proverbs 18:24",
+        "verseKey": "kjv:proverbs:18:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

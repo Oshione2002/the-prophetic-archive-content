@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Numbers 7",
+  "display_title": "Numbers 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 4007,
+  "verseCount": 89,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:7:1",
+      "numberLabel": "1",
+      "text": "And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;",
+      "metadata": {
+        "reference": "Numbers 7:1",
+        "verseKey": "kjv:numbers:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:7:2",
+      "numberLabel": "2",
+      "text": "That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:",
+      "metadata": {
+        "reference": "Numbers 7:2",
+        "verseKey": "kjv:numbers:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:7:3",
+      "numberLabel": "3",
+      "text": "And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.",
+      "metadata": {
+        "reference": "Numbers 7:3",
+        "verseKey": "kjv:numbers:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:7:4",
+      "numberLabel": "4",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 7:4",
+        "verseKey": "kjv:numbers:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:7:5",
+      "numberLabel": "5",
+      "text": "Take it of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service.",
+      "metadata": {
+        "reference": "Numbers 7:5",
+        "verseKey": "kjv:numbers:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:7:6",
+      "numberLabel": "6",
+      "text": "And Moses took the wagons and the oxen, and gave them unto the Levites.",
+      "metadata": {
+        "reference": "Numbers 7:6",
+        "verseKey": "kjv:numbers:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:7:7",
+      "numberLabel": "7",
+      "text": "Two wagons and four oxen he gave unto the sons of Gershon, according to their service:",
+      "metadata": {
+        "reference": "Numbers 7:7",
+        "verseKey": "kjv:numbers:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:7:8",
+      "numberLabel": "8",
+      "text": "And four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest.",
+      "metadata": {
+        "reference": "Numbers 7:8",
+        "verseKey": "kjv:numbers:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:7:9",
+      "numberLabel": "9",
+      "text": "But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them was that they should bear upon their shoulders.",
+      "metadata": {
+        "reference": "Numbers 7:9",
+        "verseKey": "kjv:numbers:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:7:10",
+      "numberLabel": "10",
+      "text": "And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.",
+      "metadata": {
+        "reference": "Numbers 7:10",
+        "verseKey": "kjv:numbers:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:7:11",
+      "numberLabel": "11",
+      "text": "And the LORD said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar.",
+      "metadata": {
+        "reference": "Numbers 7:11",
+        "verseKey": "kjv:numbers:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:7:12",
+      "numberLabel": "12",
+      "text": "And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:",
+      "metadata": {
+        "reference": "Numbers 7:12",
+        "verseKey": "kjv:numbers:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:7:13",
+      "numberLabel": "13",
+      "text": "And his offering was one silver charger, the weight thereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:13",
+        "verseKey": "kjv:numbers:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:7:14",
+      "numberLabel": "14",
+      "text": "One spoon of ten shekels of gold, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:14",
+        "verseKey": "kjv:numbers:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:7:15",
+      "numberLabel": "15",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:15",
+        "verseKey": "kjv:numbers:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:7:16",
+      "numberLabel": "16",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:16",
+        "verseKey": "kjv:numbers:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:7:17",
+      "numberLabel": "17",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nahshon the son of Amminadab.",
+      "metadata": {
+        "reference": "Numbers 7:17",
+        "verseKey": "kjv:numbers:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:7:18",
+      "numberLabel": "18",
+      "text": "On the second day Nethaneel the son of Zuar, prince of Issachar, did offer:",
+      "metadata": {
+        "reference": "Numbers 7:18",
+        "verseKey": "kjv:numbers:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:7:19",
+      "numberLabel": "19",
+      "text": "He offered for his offering one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:19",
+        "verseKey": "kjv:numbers:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:7:20",
+      "numberLabel": "20",
+      "text": "One spoon of gold of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:20",
+        "verseKey": "kjv:numbers:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:7:21",
+      "numberLabel": "21",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:21",
+        "verseKey": "kjv:numbers:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:7:22",
+      "numberLabel": "22",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:22",
+        "verseKey": "kjv:numbers:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:7:23",
+      "numberLabel": "23",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nethaneel the son of Zuar.",
+      "metadata": {
+        "reference": "Numbers 7:23",
+        "verseKey": "kjv:numbers:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:7:24",
+      "numberLabel": "24",
+      "text": "On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer:",
+      "metadata": {
+        "reference": "Numbers 7:24",
+        "verseKey": "kjv:numbers:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:7:25",
+      "numberLabel": "25",
+      "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:25",
+        "verseKey": "kjv:numbers:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:numbers:7:26",
+      "numberLabel": "26",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:26",
+        "verseKey": "kjv:numbers:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:numbers:7:27",
+      "numberLabel": "27",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:27",
+        "verseKey": "kjv:numbers:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:numbers:7:28",
+      "numberLabel": "28",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:28",
+        "verseKey": "kjv:numbers:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:numbers:7:29",
+      "numberLabel": "29",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon.",
+      "metadata": {
+        "reference": "Numbers 7:29",
+        "verseKey": "kjv:numbers:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:numbers:7:30",
+      "numberLabel": "30",
+      "text": "On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, did offer:",
+      "metadata": {
+        "reference": "Numbers 7:30",
+        "verseKey": "kjv:numbers:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:numbers:7:31",
+      "numberLabel": "31",
+      "text": "His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:31",
+        "verseKey": "kjv:numbers:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:numbers:7:32",
+      "numberLabel": "32",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:32",
+        "verseKey": "kjv:numbers:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:numbers:7:33",
+      "numberLabel": "33",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:33",
+        "verseKey": "kjv:numbers:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:numbers:7:34",
+      "numberLabel": "34",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:34",
+        "verseKey": "kjv:numbers:7:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:numbers:7:35",
+      "numberLabel": "35",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elizur the son of Shedeur.",
+      "metadata": {
+        "reference": "Numbers 7:35",
+        "verseKey": "kjv:numbers:7:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:numbers:7:36",
+      "numberLabel": "36",
+      "text": "On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer:",
+      "metadata": {
+        "reference": "Numbers 7:36",
+        "verseKey": "kjv:numbers:7:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:numbers:7:37",
+      "numberLabel": "37",
+      "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:37",
+        "verseKey": "kjv:numbers:7:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:numbers:7:38",
+      "numberLabel": "38",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:38",
+        "verseKey": "kjv:numbers:7:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:numbers:7:39",
+      "numberLabel": "39",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:39",
+        "verseKey": "kjv:numbers:7:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:numbers:7:40",
+      "numberLabel": "40",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:40",
+        "verseKey": "kjv:numbers:7:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:numbers:7:41",
+      "numberLabel": "41",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Shelumiel the son of Zurishaddai.",
+      "metadata": {
+        "reference": "Numbers 7:41",
+        "verseKey": "kjv:numbers:7:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:numbers:7:42",
+      "numberLabel": "42",
+      "text": "On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered:",
+      "metadata": {
+        "reference": "Numbers 7:42",
+        "verseKey": "kjv:numbers:7:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:numbers:7:43",
+      "numberLabel": "43",
+      "text": "His offering was one silver charger of the weight of an hundred and thirty shekels, a silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:43",
+        "verseKey": "kjv:numbers:7:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:numbers:7:44",
+      "numberLabel": "44",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:44",
+        "verseKey": "kjv:numbers:7:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:numbers:7:45",
+      "numberLabel": "45",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:45",
+        "verseKey": "kjv:numbers:7:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:numbers:7:46",
+      "numberLabel": "46",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:46",
+        "verseKey": "kjv:numbers:7:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:numbers:7:47",
+      "numberLabel": "47",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliasaph the son of Deuel.",
+      "metadata": {
+        "reference": "Numbers 7:47",
+        "verseKey": "kjv:numbers:7:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:numbers:7:48",
+      "numberLabel": "48",
+      "text": "On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, offered:",
+      "metadata": {
+        "reference": "Numbers 7:48",
+        "verseKey": "kjv:numbers:7:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:numbers:7:49",
+      "numberLabel": "49",
+      "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:49",
+        "verseKey": "kjv:numbers:7:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:numbers:7:50",
+      "numberLabel": "50",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:50",
+        "verseKey": "kjv:numbers:7:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:numbers:7:51",
+      "numberLabel": "51",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:51",
+        "verseKey": "kjv:numbers:7:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:numbers:7:52",
+      "numberLabel": "52",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:52",
+        "verseKey": "kjv:numbers:7:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:numbers:7:53",
+      "numberLabel": "53",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elishama the son of Ammihud.",
+      "metadata": {
+        "reference": "Numbers 7:53",
+        "verseKey": "kjv:numbers:7:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:numbers:7:54",
+      "numberLabel": "54",
+      "text": "On the eighth day offered Gamaliel the son of Pedahzur, prince of the children of Manasseh:",
+      "metadata": {
+        "reference": "Numbers 7:54",
+        "verseKey": "kjv:numbers:7:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:numbers:7:55",
+      "numberLabel": "55",
+      "text": "His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:55",
+        "verseKey": "kjv:numbers:7:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:numbers:7:56",
+      "numberLabel": "56",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:56",
+        "verseKey": "kjv:numbers:7:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:numbers:7:57",
+      "numberLabel": "57",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:57",
+        "verseKey": "kjv:numbers:7:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:numbers:7:58",
+      "numberLabel": "58",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:58",
+        "verseKey": "kjv:numbers:7:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:numbers:7:59",
+      "numberLabel": "59",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Gamaliel the son of Pedahzur.",
+      "metadata": {
+        "reference": "Numbers 7:59",
+        "verseKey": "kjv:numbers:7:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:numbers:7:60",
+      "numberLabel": "60",
+      "text": "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:",
+      "metadata": {
+        "reference": "Numbers 7:60",
+        "verseKey": "kjv:numbers:7:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:numbers:7:61",
+      "numberLabel": "61",
+      "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:61",
+        "verseKey": "kjv:numbers:7:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:numbers:7:62",
+      "numberLabel": "62",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:62",
+        "verseKey": "kjv:numbers:7:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:numbers:7:63",
+      "numberLabel": "63",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:63",
+        "verseKey": "kjv:numbers:7:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:numbers:7:64",
+      "numberLabel": "64",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:64",
+        "verseKey": "kjv:numbers:7:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:numbers:7:65",
+      "numberLabel": "65",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Abidan the son of Gideoni.",
+      "metadata": {
+        "reference": "Numbers 7:65",
+        "verseKey": "kjv:numbers:7:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:numbers:7:66",
+      "numberLabel": "66",
+      "text": "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:",
+      "metadata": {
+        "reference": "Numbers 7:66",
+        "verseKey": "kjv:numbers:7:66"
+      }
+    },
+    {
+      "id": "verse-067",
+      "type": "bible_verse",
+      "verse": 67,
+      "verseId": "kjv:numbers:7:67",
+      "numberLabel": "67",
+      "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:67",
+        "verseKey": "kjv:numbers:7:67"
+      }
+    },
+    {
+      "id": "verse-068",
+      "type": "bible_verse",
+      "verse": 68,
+      "verseId": "kjv:numbers:7:68",
+      "numberLabel": "68",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:68",
+        "verseKey": "kjv:numbers:7:68"
+      }
+    },
+    {
+      "id": "verse-069",
+      "type": "bible_verse",
+      "verse": 69,
+      "verseId": "kjv:numbers:7:69",
+      "numberLabel": "69",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:69",
+        "verseKey": "kjv:numbers:7:69"
+      }
+    },
+    {
+      "id": "verse-070",
+      "type": "bible_verse",
+      "verse": 70,
+      "verseId": "kjv:numbers:7:70",
+      "numberLabel": "70",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:70",
+        "verseKey": "kjv:numbers:7:70"
+      }
+    },
+    {
+      "id": "verse-071",
+      "type": "bible_verse",
+      "verse": 71,
+      "verseId": "kjv:numbers:7:71",
+      "numberLabel": "71",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahiezer the son of Ammishaddai.",
+      "metadata": {
+        "reference": "Numbers 7:71",
+        "verseKey": "kjv:numbers:7:71"
+      }
+    },
+    {
+      "id": "verse-072",
+      "type": "bible_verse",
+      "verse": 72,
+      "verseId": "kjv:numbers:7:72",
+      "numberLabel": "72",
+      "text": "On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered:",
+      "metadata": {
+        "reference": "Numbers 7:72",
+        "verseKey": "kjv:numbers:7:72"
+      }
+    },
+    {
+      "id": "verse-073",
+      "type": "bible_verse",
+      "verse": 73,
+      "verseId": "kjv:numbers:7:73",
+      "numberLabel": "73",
+      "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:73",
+        "verseKey": "kjv:numbers:7:73"
+      }
+    },
+    {
+      "id": "verse-074",
+      "type": "bible_verse",
+      "verse": 74,
+      "verseId": "kjv:numbers:7:74",
+      "numberLabel": "74",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:74",
+        "verseKey": "kjv:numbers:7:74"
+      }
+    },
+    {
+      "id": "verse-075",
+      "type": "bible_verse",
+      "verse": 75,
+      "verseId": "kjv:numbers:7:75",
+      "numberLabel": "75",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:75",
+        "verseKey": "kjv:numbers:7:75"
+      }
+    },
+    {
+      "id": "verse-076",
+      "type": "bible_verse",
+      "verse": 76,
+      "verseId": "kjv:numbers:7:76",
+      "numberLabel": "76",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:76",
+        "verseKey": "kjv:numbers:7:76"
+      }
+    },
+    {
+      "id": "verse-077",
+      "type": "bible_verse",
+      "verse": 77,
+      "verseId": "kjv:numbers:7:77",
+      "numberLabel": "77",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Pagiel the son of Ocran.",
+      "metadata": {
+        "reference": "Numbers 7:77",
+        "verseKey": "kjv:numbers:7:77"
+      }
+    },
+    {
+      "id": "verse-078",
+      "type": "bible_verse",
+      "verse": 78,
+      "verseId": "kjv:numbers:7:78",
+      "numberLabel": "78",
+      "text": "On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered:",
+      "metadata": {
+        "reference": "Numbers 7:78",
+        "verseKey": "kjv:numbers:7:78"
+      }
+    },
+    {
+      "id": "verse-079",
+      "type": "bible_verse",
+      "verse": 79,
+      "verseId": "kjv:numbers:7:79",
+      "numberLabel": "79",
+      "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+      "metadata": {
+        "reference": "Numbers 7:79",
+        "verseKey": "kjv:numbers:7:79"
+      }
+    },
+    {
+      "id": "verse-080",
+      "type": "bible_verse",
+      "verse": 80,
+      "verseId": "kjv:numbers:7:80",
+      "numberLabel": "80",
+      "text": "One golden spoon of ten shekels, full of incense:",
+      "metadata": {
+        "reference": "Numbers 7:80",
+        "verseKey": "kjv:numbers:7:80"
+      }
+    },
+    {
+      "id": "verse-081",
+      "type": "bible_verse",
+      "verse": 81,
+      "verseId": "kjv:numbers:7:81",
+      "numberLabel": "81",
+      "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+      "metadata": {
+        "reference": "Numbers 7:81",
+        "verseKey": "kjv:numbers:7:81"
+      }
+    },
+    {
+      "id": "verse-082",
+      "type": "bible_verse",
+      "verse": 82,
+      "verseId": "kjv:numbers:7:82",
+      "numberLabel": "82",
+      "text": "One kid of the goats for a sin offering:",
+      "metadata": {
+        "reference": "Numbers 7:82",
+        "verseKey": "kjv:numbers:7:82"
+      }
+    },
+    {
+      "id": "verse-083",
+      "type": "bible_verse",
+      "verse": 83,
+      "verseId": "kjv:numbers:7:83",
+      "numberLabel": "83",
+      "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahira the son of Enan.",
+      "metadata": {
+        "reference": "Numbers 7:83",
+        "verseKey": "kjv:numbers:7:83"
+      }
+    },
+    {
+      "id": "verse-084",
+      "type": "bible_verse",
+      "verse": 84,
+      "verseId": "kjv:numbers:7:84",
+      "numberLabel": "84",
+      "text": "This was the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve chargers of silver, twelve silver bowls, twelve spoons of gold:",
+      "metadata": {
+        "reference": "Numbers 7:84",
+        "verseKey": "kjv:numbers:7:84"
+      }
+    },
+    {
+      "id": "verse-085",
+      "type": "bible_verse",
+      "verse": 85,
+      "verseId": "kjv:numbers:7:85",
+      "numberLabel": "85",
+      "text": "Each charger of silver weighing an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:",
+      "metadata": {
+        "reference": "Numbers 7:85",
+        "verseKey": "kjv:numbers:7:85"
+      }
+    },
+    {
+      "id": "verse-086",
+      "type": "bible_verse",
+      "verse": 86,
+      "verseId": "kjv:numbers:7:86",
+      "numberLabel": "86",
+      "text": "The golden spoons were twelve, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels.",
+      "metadata": {
+        "reference": "Numbers 7:86",
+        "verseKey": "kjv:numbers:7:86"
+      }
+    },
+    {
+      "id": "verse-087",
+      "type": "bible_verse",
+      "verse": 87,
+      "verseId": "kjv:numbers:7:87",
+      "numberLabel": "87",
+      "text": "All the oxen for the burnt offering were twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve.",
+      "metadata": {
+        "reference": "Numbers 7:87",
+        "verseKey": "kjv:numbers:7:87"
+      }
+    },
+    {
+      "id": "verse-088",
+      "type": "bible_verse",
+      "verse": 88,
+      "verseId": "kjv:numbers:7:88",
+      "numberLabel": "88",
+      "text": "And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed.",
+      "metadata": {
+        "reference": "Numbers 7:88",
+        "verseKey": "kjv:numbers:7:88"
+      }
+    },
+    {
+      "id": "verse-089",
+      "type": "bible_verse",
+      "verse": 89,
+      "verseId": "kjv:numbers:7:89",
+      "numberLabel": "89",
+      "text": "And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.",
+      "metadata": {
+        "reference": "Numbers 7:89",
+        "verseKey": "kjv:numbers:7:89"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

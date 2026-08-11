@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-judges-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Judges 12",
+  "display_title": "Judges 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "judges",
+  "book": "Judges",
+  "bookName": "Judges",
+  "bookOrder": 7,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 7012,
+  "verseCount": 15,
+  "aliases": [
+    "Judg",
+    "Jdg",
+    "Jg"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:judges:12:1",
+      "numberLabel": "1",
+      "text": "And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.",
+      "metadata": {
+        "reference": "Judges 12:1",
+        "verseKey": "kjv:judges:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:judges:12:2",
+      "numberLabel": "2",
+      "text": "And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.",
+      "metadata": {
+        "reference": "Judges 12:2",
+        "verseKey": "kjv:judges:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:judges:12:3",
+      "numberLabel": "3",
+      "text": "And when I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the LORD delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?",
+      "metadata": {
+        "reference": "Judges 12:3",
+        "verseKey": "kjv:judges:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:judges:12:4",
+      "numberLabel": "4",
+      "text": "Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.",
+      "metadata": {
+        "reference": "Judges 12:4",
+        "verseKey": "kjv:judges:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:judges:12:5",
+      "numberLabel": "5",
+      "text": "And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;",
+      "metadata": {
+        "reference": "Judges 12:5",
+        "verseKey": "kjv:judges:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:judges:12:6",
+      "numberLabel": "6",
+      "text": "Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.",
+      "metadata": {
+        "reference": "Judges 12:6",
+        "verseKey": "kjv:judges:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:judges:12:7",
+      "numberLabel": "7",
+      "text": "And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead.",
+      "metadata": {
+        "reference": "Judges 12:7",
+        "verseKey": "kjv:judges:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:judges:12:8",
+      "numberLabel": "8",
+      "text": "And after him Ibzan of Bethlehem judged Israel.",
+      "metadata": {
+        "reference": "Judges 12:8",
+        "verseKey": "kjv:judges:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:judges:12:9",
+      "numberLabel": "9",
+      "text": "And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.",
+      "metadata": {
+        "reference": "Judges 12:9",
+        "verseKey": "kjv:judges:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:judges:12:10",
+      "numberLabel": "10",
+      "text": "Then died Ibzan, and was buried at Bethlehem.",
+      "metadata": {
+        "reference": "Judges 12:10",
+        "verseKey": "kjv:judges:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:judges:12:11",
+      "numberLabel": "11",
+      "text": "And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.",
+      "metadata": {
+        "reference": "Judges 12:11",
+        "verseKey": "kjv:judges:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:judges:12:12",
+      "numberLabel": "12",
+      "text": "And Elon the Zebulonite died, and was buried in Aijalon in the country of Zebulun.",
+      "metadata": {
+        "reference": "Judges 12:12",
+        "verseKey": "kjv:judges:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:judges:12:13",
+      "numberLabel": "13",
+      "text": "And after him Abdon the son of Hillel, a Pirathonite, judged Israel.",
+      "metadata": {
+        "reference": "Judges 12:13",
+        "verseKey": "kjv:judges:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:judges:12:14",
+      "numberLabel": "14",
+      "text": "And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.",
+      "metadata": {
+        "reference": "Judges 12:14",
+        "verseKey": "kjv:judges:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:judges:12:15",
+      "numberLabel": "15",
+      "text": "And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.",
+      "metadata": {
+        "reference": "Judges 12:15",
+        "verseKey": "kjv:judges:12:15"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Judges.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Judges.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

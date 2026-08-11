@@ -1,0 +1,574 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-014",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 14,
+  "title": "Numbers 14",
+  "display_title": "Numbers 14",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 14,
+  "sortOrder": 4014,
+  "verseCount": 45,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:14:1",
+      "numberLabel": "1",
+      "text": "And all the congregation lifted up their voice, and cried; and the people wept that night.",
+      "metadata": {
+        "reference": "Numbers 14:1",
+        "verseKey": "kjv:numbers:14:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:14:2",
+      "numberLabel": "2",
+      "text": "And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!",
+      "metadata": {
+        "reference": "Numbers 14:2",
+        "verseKey": "kjv:numbers:14:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:14:3",
+      "numberLabel": "3",
+      "text": "And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?",
+      "metadata": {
+        "reference": "Numbers 14:3",
+        "verseKey": "kjv:numbers:14:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:14:4",
+      "numberLabel": "4",
+      "text": "And they said one to another, Let us make a captain, and let us return into Egypt.",
+      "metadata": {
+        "reference": "Numbers 14:4",
+        "verseKey": "kjv:numbers:14:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:14:5",
+      "numberLabel": "5",
+      "text": "Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.",
+      "metadata": {
+        "reference": "Numbers 14:5",
+        "verseKey": "kjv:numbers:14:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:14:6",
+      "numberLabel": "6",
+      "text": "And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:",
+      "metadata": {
+        "reference": "Numbers 14:6",
+        "verseKey": "kjv:numbers:14:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:14:7",
+      "numberLabel": "7",
+      "text": "And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land.",
+      "metadata": {
+        "reference": "Numbers 14:7",
+        "verseKey": "kjv:numbers:14:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:14:8",
+      "numberLabel": "8",
+      "text": "If the LORD delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.",
+      "metadata": {
+        "reference": "Numbers 14:8",
+        "verseKey": "kjv:numbers:14:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:14:9",
+      "numberLabel": "9",
+      "text": "Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not.",
+      "metadata": {
+        "reference": "Numbers 14:9",
+        "verseKey": "kjv:numbers:14:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:14:10",
+      "numberLabel": "10",
+      "text": "But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel.",
+      "metadata": {
+        "reference": "Numbers 14:10",
+        "verseKey": "kjv:numbers:14:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:14:11",
+      "numberLabel": "11",
+      "text": "And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?",
+      "metadata": {
+        "reference": "Numbers 14:11",
+        "verseKey": "kjv:numbers:14:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:14:12",
+      "numberLabel": "12",
+      "text": "I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they.",
+      "metadata": {
+        "reference": "Numbers 14:12",
+        "verseKey": "kjv:numbers:14:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:14:13",
+      "numberLabel": "13",
+      "text": "And Moses said unto the LORD, Then the Egyptians shall hear it, (for thou broughtest up this people in thy might from among them;)",
+      "metadata": {
+        "reference": "Numbers 14:13",
+        "verseKey": "kjv:numbers:14:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:14:14",
+      "numberLabel": "14",
+      "text": "And they will tell it to the inhabitants of this land: for they have heard that thou LORD art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.",
+      "metadata": {
+        "reference": "Numbers 14:14",
+        "verseKey": "kjv:numbers:14:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:14:15",
+      "numberLabel": "15",
+      "text": "Now if thou shalt kill all this people as one man, then the nations which have heard the fame of thee will speak, saying,",
+      "metadata": {
+        "reference": "Numbers 14:15",
+        "verseKey": "kjv:numbers:14:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:14:16",
+      "numberLabel": "16",
+      "text": "Because the LORD was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness.",
+      "metadata": {
+        "reference": "Numbers 14:16",
+        "verseKey": "kjv:numbers:14:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:14:17",
+      "numberLabel": "17",
+      "text": "And now, I beseech thee, let the power of my LORD be great, according as thou hast spoken, saying,",
+      "metadata": {
+        "reference": "Numbers 14:17",
+        "verseKey": "kjv:numbers:14:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:14:18",
+      "numberLabel": "18",
+      "text": "The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.",
+      "metadata": {
+        "reference": "Numbers 14:18",
+        "verseKey": "kjv:numbers:14:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:14:19",
+      "numberLabel": "19",
+      "text": "Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now.",
+      "metadata": {
+        "reference": "Numbers 14:19",
+        "verseKey": "kjv:numbers:14:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:14:20",
+      "numberLabel": "20",
+      "text": "And the LORD said, I have pardoned according to thy word:",
+      "metadata": {
+        "reference": "Numbers 14:20",
+        "verseKey": "kjv:numbers:14:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:14:21",
+      "numberLabel": "21",
+      "text": "But as truly as I live, all the earth shall be filled with the glory of the LORD.",
+      "metadata": {
+        "reference": "Numbers 14:21",
+        "verseKey": "kjv:numbers:14:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:14:22",
+      "numberLabel": "22",
+      "text": "Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;",
+      "metadata": {
+        "reference": "Numbers 14:22",
+        "verseKey": "kjv:numbers:14:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:14:23",
+      "numberLabel": "23",
+      "text": "Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:",
+      "metadata": {
+        "reference": "Numbers 14:23",
+        "verseKey": "kjv:numbers:14:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:14:24",
+      "numberLabel": "24",
+      "text": "But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.",
+      "metadata": {
+        "reference": "Numbers 14:24",
+        "verseKey": "kjv:numbers:14:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:14:25",
+      "numberLabel": "25",
+      "text": "(Now the Amalekites and the Canaanites dwelt in the valley.) Tomorrow turn you, and get you into the wilderness by the way of the Red sea.",
+      "metadata": {
+        "reference": "Numbers 14:25",
+        "verseKey": "kjv:numbers:14:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:numbers:14:26",
+      "numberLabel": "26",
+      "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+      "metadata": {
+        "reference": "Numbers 14:26",
+        "verseKey": "kjv:numbers:14:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:numbers:14:27",
+      "numberLabel": "27",
+      "text": "How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.",
+      "metadata": {
+        "reference": "Numbers 14:27",
+        "verseKey": "kjv:numbers:14:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:numbers:14:28",
+      "numberLabel": "28",
+      "text": "Say unto them, As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you:",
+      "metadata": {
+        "reference": "Numbers 14:28",
+        "verseKey": "kjv:numbers:14:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:numbers:14:29",
+      "numberLabel": "29",
+      "text": "Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me,",
+      "metadata": {
+        "reference": "Numbers 14:29",
+        "verseKey": "kjv:numbers:14:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:numbers:14:30",
+      "numberLabel": "30",
+      "text": "Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.",
+      "metadata": {
+        "reference": "Numbers 14:30",
+        "verseKey": "kjv:numbers:14:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:numbers:14:31",
+      "numberLabel": "31",
+      "text": "But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.",
+      "metadata": {
+        "reference": "Numbers 14:31",
+        "verseKey": "kjv:numbers:14:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:numbers:14:32",
+      "numberLabel": "32",
+      "text": "But as for you, your carcases, they shall fall in this wilderness.",
+      "metadata": {
+        "reference": "Numbers 14:32",
+        "verseKey": "kjv:numbers:14:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:numbers:14:33",
+      "numberLabel": "33",
+      "text": "And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.",
+      "metadata": {
+        "reference": "Numbers 14:33",
+        "verseKey": "kjv:numbers:14:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:numbers:14:34",
+      "numberLabel": "34",
+      "text": "After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise.",
+      "metadata": {
+        "reference": "Numbers 14:34",
+        "verseKey": "kjv:numbers:14:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:numbers:14:35",
+      "numberLabel": "35",
+      "text": "I the LORD have said, I will surely do it unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die.",
+      "metadata": {
+        "reference": "Numbers 14:35",
+        "verseKey": "kjv:numbers:14:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:numbers:14:36",
+      "numberLabel": "36",
+      "text": "And the men, which Moses sent to search the land, who returned, and made all the congregation to murmur against him, by bringing up a slander upon the land,",
+      "metadata": {
+        "reference": "Numbers 14:36",
+        "verseKey": "kjv:numbers:14:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:numbers:14:37",
+      "numberLabel": "37",
+      "text": "Even those men that did bring up the evil report upon the land, died by the plague before the LORD.",
+      "metadata": {
+        "reference": "Numbers 14:37",
+        "verseKey": "kjv:numbers:14:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:numbers:14:38",
+      "numberLabel": "38",
+      "text": "But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search the land, lived still.",
+      "metadata": {
+        "reference": "Numbers 14:38",
+        "verseKey": "kjv:numbers:14:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:numbers:14:39",
+      "numberLabel": "39",
+      "text": "And Moses told these sayings unto all the children of Israel: and the people mourned greatly.",
+      "metadata": {
+        "reference": "Numbers 14:39",
+        "verseKey": "kjv:numbers:14:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:numbers:14:40",
+      "numberLabel": "40",
+      "text": "And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we be here, and will go up unto the place which the LORD hath promised: for we have sinned.",
+      "metadata": {
+        "reference": "Numbers 14:40",
+        "verseKey": "kjv:numbers:14:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:numbers:14:41",
+      "numberLabel": "41",
+      "text": "And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.",
+      "metadata": {
+        "reference": "Numbers 14:41",
+        "verseKey": "kjv:numbers:14:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:numbers:14:42",
+      "numberLabel": "42",
+      "text": "Go not up, for the LORD is not among you; that ye be not smitten before your enemies.",
+      "metadata": {
+        "reference": "Numbers 14:42",
+        "verseKey": "kjv:numbers:14:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:numbers:14:43",
+      "numberLabel": "43",
+      "text": "For the Amalekites and the Canaanites are there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.",
+      "metadata": {
+        "reference": "Numbers 14:43",
+        "verseKey": "kjv:numbers:14:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:numbers:14:44",
+      "numberLabel": "44",
+      "text": "But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp.",
+      "metadata": {
+        "reference": "Numbers 14:44",
+        "verseKey": "kjv:numbers:14:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:numbers:14:45",
+      "numberLabel": "45",
+      "text": "Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah.",
+      "metadata": {
+        "reference": "Numbers 14:45",
+        "verseKey": "kjv:numbers:14:45"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Numbers 5",
+  "display_title": "Numbers 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 4005,
+  "verseCount": 31,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:5:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 5:1",
+        "verseKey": "kjv:numbers:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:5:2",
+      "numberLabel": "2",
+      "text": "Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:",
+      "metadata": {
+        "reference": "Numbers 5:2",
+        "verseKey": "kjv:numbers:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:5:3",
+      "numberLabel": "3",
+      "text": "Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell.",
+      "metadata": {
+        "reference": "Numbers 5:3",
+        "verseKey": "kjv:numbers:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:5:4",
+      "numberLabel": "4",
+      "text": "And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel.",
+      "metadata": {
+        "reference": "Numbers 5:4",
+        "verseKey": "kjv:numbers:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:5:5",
+      "numberLabel": "5",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 5:5",
+        "verseKey": "kjv:numbers:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:5:6",
+      "numberLabel": "6",
+      "text": "Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;",
+      "metadata": {
+        "reference": "Numbers 5:6",
+        "verseKey": "kjv:numbers:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:5:7",
+      "numberLabel": "7",
+      "text": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof, and give it unto him against whom he hath trespassed.",
+      "metadata": {
+        "reference": "Numbers 5:7",
+        "verseKey": "kjv:numbers:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:5:8",
+      "numberLabel": "8",
+      "text": "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.",
+      "metadata": {
+        "reference": "Numbers 5:8",
+        "verseKey": "kjv:numbers:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:5:9",
+      "numberLabel": "9",
+      "text": "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.",
+      "metadata": {
+        "reference": "Numbers 5:9",
+        "verseKey": "kjv:numbers:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:5:10",
+      "numberLabel": "10",
+      "text": "And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.",
+      "metadata": {
+        "reference": "Numbers 5:10",
+        "verseKey": "kjv:numbers:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:5:11",
+      "numberLabel": "11",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 5:11",
+        "verseKey": "kjv:numbers:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:5:12",
+      "numberLabel": "12",
+      "text": "Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him,",
+      "metadata": {
+        "reference": "Numbers 5:12",
+        "verseKey": "kjv:numbers:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:5:13",
+      "numberLabel": "13",
+      "text": "And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner;",
+      "metadata": {
+        "reference": "Numbers 5:13",
+        "verseKey": "kjv:numbers:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:5:14",
+      "numberLabel": "14",
+      "text": "And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:",
+      "metadata": {
+        "reference": "Numbers 5:14",
+        "verseKey": "kjv:numbers:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:5:15",
+      "numberLabel": "15",
+      "text": "Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.",
+      "metadata": {
+        "reference": "Numbers 5:15",
+        "verseKey": "kjv:numbers:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:5:16",
+      "numberLabel": "16",
+      "text": "And the priest shall bring her near, and set her before the LORD:",
+      "metadata": {
+        "reference": "Numbers 5:16",
+        "verseKey": "kjv:numbers:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:5:17",
+      "numberLabel": "17",
+      "text": "And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water:",
+      "metadata": {
+        "reference": "Numbers 5:17",
+        "verseKey": "kjv:numbers:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:5:18",
+      "numberLabel": "18",
+      "text": "And the priest shall set the woman before the LORD, and uncover the woman’s head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:",
+      "metadata": {
+        "reference": "Numbers 5:18",
+        "verseKey": "kjv:numbers:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:5:19",
+      "numberLabel": "19",
+      "text": "And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse:",
+      "metadata": {
+        "reference": "Numbers 5:19",
+        "verseKey": "kjv:numbers:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:5:20",
+      "numberLabel": "20",
+      "text": "But if thou hast gone aside to another instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:",
+      "metadata": {
+        "reference": "Numbers 5:20",
+        "verseKey": "kjv:numbers:5:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:5:21",
+      "numberLabel": "21",
+      "text": "Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell;",
+      "metadata": {
+        "reference": "Numbers 5:21",
+        "verseKey": "kjv:numbers:5:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:5:22",
+      "numberLabel": "22",
+      "text": "And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen.",
+      "metadata": {
+        "reference": "Numbers 5:22",
+        "verseKey": "kjv:numbers:5:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:5:23",
+      "numberLabel": "23",
+      "text": "And the priest shall write these curses in a book, and he shall blot them out with the bitter water:",
+      "metadata": {
+        "reference": "Numbers 5:23",
+        "verseKey": "kjv:numbers:5:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:5:24",
+      "numberLabel": "24",
+      "text": "And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, and become bitter.",
+      "metadata": {
+        "reference": "Numbers 5:24",
+        "verseKey": "kjv:numbers:5:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:5:25",
+      "numberLabel": "25",
+      "text": "Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the LORD, and offer it upon the altar:",
+      "metadata": {
+        "reference": "Numbers 5:25",
+        "verseKey": "kjv:numbers:5:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:numbers:5:26",
+      "numberLabel": "26",
+      "text": "And the priest shall take an handful of the offering, even the memorial thereof, and burn it upon the altar, and afterward shall cause the woman to drink the water.",
+      "metadata": {
+        "reference": "Numbers 5:26",
+        "verseKey": "kjv:numbers:5:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:numbers:5:27",
+      "numberLabel": "27",
+      "text": "And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.",
+      "metadata": {
+        "reference": "Numbers 5:27",
+        "verseKey": "kjv:numbers:5:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:numbers:5:28",
+      "numberLabel": "28",
+      "text": "And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed.",
+      "metadata": {
+        "reference": "Numbers 5:28",
+        "verseKey": "kjv:numbers:5:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:numbers:5:29",
+      "numberLabel": "29",
+      "text": "This is the law of jealousies, when a wife goeth aside to another instead of her husband, and is defiled;",
+      "metadata": {
+        "reference": "Numbers 5:29",
+        "verseKey": "kjv:numbers:5:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:numbers:5:30",
+      "numberLabel": "30",
+      "text": "Or when the spirit of jealousy cometh upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.",
+      "metadata": {
+        "reference": "Numbers 5:30",
+        "verseKey": "kjv:numbers:5:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:numbers:5:31",
+      "numberLabel": "31",
+      "text": "Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity.",
+      "metadata": {
+        "reference": "Numbers 5:31",
+        "verseKey": "kjv:numbers:5:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

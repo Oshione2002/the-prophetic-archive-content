@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-amos-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Amos 2",
+  "display_title": "Amos 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "amos",
+  "book": "Amos",
+  "bookName": "Amos",
+  "bookOrder": 30,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 30002,
+  "verseCount": 16,
+  "aliases": [
+    "Amos",
+    "Am"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:amos:2:1",
+      "numberLabel": "1",
+      "text": "Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:",
+      "metadata": {
+        "reference": "Amos 2:1",
+        "verseKey": "kjv:amos:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:amos:2:2",
+      "numberLabel": "2",
+      "text": "But I will send a fire upon Moab, and it shall devour the palaces of Kirioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet:",
+      "metadata": {
+        "reference": "Amos 2:2",
+        "verseKey": "kjv:amos:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:amos:2:3",
+      "numberLabel": "3",
+      "text": "And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the LORD.",
+      "metadata": {
+        "reference": "Amos 2:3",
+        "verseKey": "kjv:amos:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:amos:2:4",
+      "numberLabel": "4",
+      "text": "Thus saith the LORD; For three transgressions of Judah, and for four, I will not turn away the punishment thereof; because they have despised the law of the LORD, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:",
+      "metadata": {
+        "reference": "Amos 2:4",
+        "verseKey": "kjv:amos:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:amos:2:5",
+      "numberLabel": "5",
+      "text": "But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.",
+      "metadata": {
+        "reference": "Amos 2:5",
+        "verseKey": "kjv:amos:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:amos:2:6",
+      "numberLabel": "6",
+      "text": "Thus saith the LORD; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;",
+      "metadata": {
+        "reference": "Amos 2:6",
+        "verseKey": "kjv:amos:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:amos:2:7",
+      "numberLabel": "7",
+      "text": "That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the same maid, to profane my holy name:",
+      "metadata": {
+        "reference": "Amos 2:7",
+        "verseKey": "kjv:amos:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:amos:2:8",
+      "numberLabel": "8",
+      "text": "And they lay themselves down upon clothes laid to pledge by every altar, and they drink the wine of the condemned in the house of their god.",
+      "metadata": {
+        "reference": "Amos 2:8",
+        "verseKey": "kjv:amos:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:amos:2:9",
+      "numberLabel": "9",
+      "text": "Yet destroyed I the Amorite before them, whose height was like the height of the cedars, and he was strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.",
+      "metadata": {
+        "reference": "Amos 2:9",
+        "verseKey": "kjv:amos:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:amos:2:10",
+      "numberLabel": "10",
+      "text": "Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.",
+      "metadata": {
+        "reference": "Amos 2:10",
+        "verseKey": "kjv:amos:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:amos:2:11",
+      "numberLabel": "11",
+      "text": "And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, O ye children of Israel? saith the LORD.",
+      "metadata": {
+        "reference": "Amos 2:11",
+        "verseKey": "kjv:amos:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:amos:2:12",
+      "numberLabel": "12",
+      "text": "But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.",
+      "metadata": {
+        "reference": "Amos 2:12",
+        "verseKey": "kjv:amos:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:amos:2:13",
+      "numberLabel": "13",
+      "text": "Behold, I am pressed under you, as a cart is pressed that is full of sheaves.",
+      "metadata": {
+        "reference": "Amos 2:13",
+        "verseKey": "kjv:amos:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:amos:2:14",
+      "numberLabel": "14",
+      "text": "Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself:",
+      "metadata": {
+        "reference": "Amos 2:14",
+        "verseKey": "kjv:amos:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:amos:2:15",
+      "numberLabel": "15",
+      "text": "Neither shall he stand that handleth the bow; and he that is swift of foot shall not deliver himself: neither shall he that rideth the horse deliver himself.",
+      "metadata": {
+        "reference": "Amos 2:15",
+        "verseKey": "kjv:amos:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:amos:2:16",
+      "numberLabel": "16",
+      "text": "And he that is courageous among the mighty shall flee away naked in that day, saith the LORD.",
+      "metadata": {
+        "reference": "Amos 2:16",
+        "verseKey": "kjv:amos:2:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Amos.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Amos.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

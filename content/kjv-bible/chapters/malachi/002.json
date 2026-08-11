@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-malachi-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Malachi 2",
+  "display_title": "Malachi 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "malachi",
+  "book": "Malachi",
+  "bookName": "Malachi",
+  "bookOrder": 39,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 39002,
+  "verseCount": 17,
+  "aliases": [
+    "Mal",
+    "Ml"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:malachi:2:1",
+      "numberLabel": "1",
+      "text": "And now, O ye priests, this commandment is for you.",
+      "metadata": {
+        "reference": "Malachi 2:1",
+        "verseKey": "kjv:malachi:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:malachi:2:2",
+      "numberLabel": "2",
+      "text": "If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart.",
+      "metadata": {
+        "reference": "Malachi 2:2",
+        "verseKey": "kjv:malachi:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:malachi:2:3",
+      "numberLabel": "3",
+      "text": "Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it.",
+      "metadata": {
+        "reference": "Malachi 2:3",
+        "verseKey": "kjv:malachi:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:malachi:2:4",
+      "numberLabel": "4",
+      "text": "And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts.",
+      "metadata": {
+        "reference": "Malachi 2:4",
+        "verseKey": "kjv:malachi:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:malachi:2:5",
+      "numberLabel": "5",
+      "text": "My covenant was with him of life and peace; and I gave them to him for the fear wherewith he feared me, and was afraid before my name.",
+      "metadata": {
+        "reference": "Malachi 2:5",
+        "verseKey": "kjv:malachi:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:malachi:2:6",
+      "numberLabel": "6",
+      "text": "The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.",
+      "metadata": {
+        "reference": "Malachi 2:6",
+        "verseKey": "kjv:malachi:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:malachi:2:7",
+      "numberLabel": "7",
+      "text": "For the priest’s lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts.",
+      "metadata": {
+        "reference": "Malachi 2:7",
+        "verseKey": "kjv:malachi:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:malachi:2:8",
+      "numberLabel": "8",
+      "text": "But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts.",
+      "metadata": {
+        "reference": "Malachi 2:8",
+        "verseKey": "kjv:malachi:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:malachi:2:9",
+      "numberLabel": "9",
+      "text": "Therefore have I also made you contemptible and base before all the people, according as ye have not kept my ways, but have been partial in the law.",
+      "metadata": {
+        "reference": "Malachi 2:9",
+        "verseKey": "kjv:malachi:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:malachi:2:10",
+      "numberLabel": "10",
+      "text": "Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?",
+      "metadata": {
+        "reference": "Malachi 2:10",
+        "verseKey": "kjv:malachi:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:malachi:2:11",
+      "numberLabel": "11",
+      "text": "Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god.",
+      "metadata": {
+        "reference": "Malachi 2:11",
+        "verseKey": "kjv:malachi:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:malachi:2:12",
+      "numberLabel": "12",
+      "text": "The LORD will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the LORD of hosts.",
+      "metadata": {
+        "reference": "Malachi 2:12",
+        "verseKey": "kjv:malachi:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:malachi:2:13",
+      "numberLabel": "13",
+      "text": "And this have ye done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth it with good will at your hand.",
+      "metadata": {
+        "reference": "Malachi 2:13",
+        "verseKey": "kjv:malachi:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:malachi:2:14",
+      "numberLabel": "14",
+      "text": "Yet ye say, Wherefore? Because the LORD hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.",
+      "metadata": {
+        "reference": "Malachi 2:14",
+        "verseKey": "kjv:malachi:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:malachi:2:15",
+      "numberLabel": "15",
+      "text": "And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.",
+      "metadata": {
+        "reference": "Malachi 2:15",
+        "verseKey": "kjv:malachi:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:malachi:2:16",
+      "numberLabel": "16",
+      "text": "For the LORD, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the LORD of hosts: therefore take heed to your spirit, that ye deal not treacherously.",
+      "metadata": {
+        "reference": "Malachi 2:16",
+        "verseKey": "kjv:malachi:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:malachi:2:17",
+      "numberLabel": "17",
+      "text": "Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the LORD, and he delighteth in them; or, Where is the God of judgment?",
+      "metadata": {
+        "reference": "Malachi 2:17",
+        "verseKey": "kjv:malachi:2:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Malachi.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Malachi.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

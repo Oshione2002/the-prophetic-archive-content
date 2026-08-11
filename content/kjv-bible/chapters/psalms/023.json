@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-023",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 23,
+  "title": "Psalms 23",
+  "display_title": "Psalms 23",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 23,
+  "sortOrder": 19023,
+  "verseCount": 6,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:23:1",
+      "numberLabel": "1",
+      "text": "The LORD is my shepherd; I shall not want.",
+      "metadata": {
+        "reference": "Psalms 23:1",
+        "verseKey": "kjv:psalms:23:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:23:2",
+      "numberLabel": "2",
+      "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+      "metadata": {
+        "reference": "Psalms 23:2",
+        "verseKey": "kjv:psalms:23:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:23:3",
+      "numberLabel": "3",
+      "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+      "metadata": {
+        "reference": "Psalms 23:3",
+        "verseKey": "kjv:psalms:23:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:23:4",
+      "numberLabel": "4",
+      "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+      "metadata": {
+        "reference": "Psalms 23:4",
+        "verseKey": "kjv:psalms:23:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:23:5",
+      "numberLabel": "5",
+      "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+      "metadata": {
+        "reference": "Psalms 23:5",
+        "verseKey": "kjv:psalms:23:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:23:6",
+      "numberLabel": "6",
+      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+      "metadata": {
+        "reference": "Psalms 23:6",
+        "verseKey": "kjv:psalms:23:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

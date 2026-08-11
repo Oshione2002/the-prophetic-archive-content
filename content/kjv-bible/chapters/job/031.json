@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-031",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 31,
+  "title": "Job 31",
+  "display_title": "Job 31",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 31,
+  "sortOrder": 18031,
+  "verseCount": 40,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:31:1",
+      "numberLabel": "1",
+      "text": "I made a covenant with mine eyes; why then should I think upon a maid?",
+      "metadata": {
+        "reference": "Job 31:1",
+        "verseKey": "kjv:job:31:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:31:2",
+      "numberLabel": "2",
+      "text": "For what portion of God is there from above? and what inheritance of the Almighty from on high?",
+      "metadata": {
+        "reference": "Job 31:2",
+        "verseKey": "kjv:job:31:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:31:3",
+      "numberLabel": "3",
+      "text": "Is not destruction to the wicked? and a strange punishment to the workers of iniquity?",
+      "metadata": {
+        "reference": "Job 31:3",
+        "verseKey": "kjv:job:31:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:31:4",
+      "numberLabel": "4",
+      "text": "Doth not he see my ways, and count all my steps?",
+      "metadata": {
+        "reference": "Job 31:4",
+        "verseKey": "kjv:job:31:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:31:5",
+      "numberLabel": "5",
+      "text": "If I have walked with vanity, or if my foot hath hasted to deceit;",
+      "metadata": {
+        "reference": "Job 31:5",
+        "verseKey": "kjv:job:31:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:31:6",
+      "numberLabel": "6",
+      "text": "Let me be weighed in an even balance that God may know mine integrity.",
+      "metadata": {
+        "reference": "Job 31:6",
+        "verseKey": "kjv:job:31:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:31:7",
+      "numberLabel": "7",
+      "text": "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;",
+      "metadata": {
+        "reference": "Job 31:7",
+        "verseKey": "kjv:job:31:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:31:8",
+      "numberLabel": "8",
+      "text": "Then let me sow, and let another eat; yea, let my offspring be rooted out.",
+      "metadata": {
+        "reference": "Job 31:8",
+        "verseKey": "kjv:job:31:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:31:9",
+      "numberLabel": "9",
+      "text": "If mine heart have been deceived by a woman, or if I have laid wait at my neighbour’s door;",
+      "metadata": {
+        "reference": "Job 31:9",
+        "verseKey": "kjv:job:31:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:31:10",
+      "numberLabel": "10",
+      "text": "Then let my wife grind unto another, and let others bow down upon her.",
+      "metadata": {
+        "reference": "Job 31:10",
+        "verseKey": "kjv:job:31:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:31:11",
+      "numberLabel": "11",
+      "text": "For this is an heinous crime; yea, it is an iniquity to be punished by the judges.",
+      "metadata": {
+        "reference": "Job 31:11",
+        "verseKey": "kjv:job:31:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:31:12",
+      "numberLabel": "12",
+      "text": "For it is a fire that consumeth to destruction, and would root out all mine increase.",
+      "metadata": {
+        "reference": "Job 31:12",
+        "verseKey": "kjv:job:31:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:31:13",
+      "numberLabel": "13",
+      "text": "If I did despise the cause of my manservant or of my maidservant, when they contended with me;",
+      "metadata": {
+        "reference": "Job 31:13",
+        "verseKey": "kjv:job:31:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:31:14",
+      "numberLabel": "14",
+      "text": "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?",
+      "metadata": {
+        "reference": "Job 31:14",
+        "verseKey": "kjv:job:31:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:31:15",
+      "numberLabel": "15",
+      "text": "Did not he that made me in the womb make him? and did not one fashion us in the womb?",
+      "metadata": {
+        "reference": "Job 31:15",
+        "verseKey": "kjv:job:31:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:31:16",
+      "numberLabel": "16",
+      "text": "If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;",
+      "metadata": {
+        "reference": "Job 31:16",
+        "verseKey": "kjv:job:31:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:31:17",
+      "numberLabel": "17",
+      "text": "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;",
+      "metadata": {
+        "reference": "Job 31:17",
+        "verseKey": "kjv:job:31:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:31:18",
+      "numberLabel": "18",
+      "text": "(For from my youth he was brought up with me, as with a father, and I have guided her from my mother’s womb;)",
+      "metadata": {
+        "reference": "Job 31:18",
+        "verseKey": "kjv:job:31:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:31:19",
+      "numberLabel": "19",
+      "text": "If I have seen any perish for want of clothing, or any poor without covering;",
+      "metadata": {
+        "reference": "Job 31:19",
+        "verseKey": "kjv:job:31:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:31:20",
+      "numberLabel": "20",
+      "text": "If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;",
+      "metadata": {
+        "reference": "Job 31:20",
+        "verseKey": "kjv:job:31:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:31:21",
+      "numberLabel": "21",
+      "text": "If I have lifted up my hand against the fatherless, when I saw my help in the gate:",
+      "metadata": {
+        "reference": "Job 31:21",
+        "verseKey": "kjv:job:31:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:31:22",
+      "numberLabel": "22",
+      "text": "Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone.",
+      "metadata": {
+        "reference": "Job 31:22",
+        "verseKey": "kjv:job:31:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:31:23",
+      "numberLabel": "23",
+      "text": "For destruction from God was a terror to me, and by reason of his highness I could not endure.",
+      "metadata": {
+        "reference": "Job 31:23",
+        "verseKey": "kjv:job:31:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:31:24",
+      "numberLabel": "24",
+      "text": "If I have made gold my hope, or have said to the fine gold, Thou art my confidence;",
+      "metadata": {
+        "reference": "Job 31:24",
+        "verseKey": "kjv:job:31:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:31:25",
+      "numberLabel": "25",
+      "text": "If I rejoiced because my wealth was great, and because mine hand had gotten much;",
+      "metadata": {
+        "reference": "Job 31:25",
+        "verseKey": "kjv:job:31:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:31:26",
+      "numberLabel": "26",
+      "text": "If I beheld the sun when it shined, or the moon walking in brightness;",
+      "metadata": {
+        "reference": "Job 31:26",
+        "verseKey": "kjv:job:31:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:31:27",
+      "numberLabel": "27",
+      "text": "And my heart hath been secretly enticed, or my mouth hath kissed my hand:",
+      "metadata": {
+        "reference": "Job 31:27",
+        "verseKey": "kjv:job:31:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:31:28",
+      "numberLabel": "28",
+      "text": "This also were an iniquity to be punished by the judge: for I should have denied the God that is above.",
+      "metadata": {
+        "reference": "Job 31:28",
+        "verseKey": "kjv:job:31:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:31:29",
+      "numberLabel": "29",
+      "text": "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:",
+      "metadata": {
+        "reference": "Job 31:29",
+        "verseKey": "kjv:job:31:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:31:30",
+      "numberLabel": "30",
+      "text": "Neither have I suffered my mouth to sin by wishing a curse to his soul.",
+      "metadata": {
+        "reference": "Job 31:30",
+        "verseKey": "kjv:job:31:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:job:31:31",
+      "numberLabel": "31",
+      "text": "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied.",
+      "metadata": {
+        "reference": "Job 31:31",
+        "verseKey": "kjv:job:31:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:job:31:32",
+      "numberLabel": "32",
+      "text": "The stranger did not lodge in the street: but I opened my doors to the traveller.",
+      "metadata": {
+        "reference": "Job 31:32",
+        "verseKey": "kjv:job:31:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:job:31:33",
+      "numberLabel": "33",
+      "text": "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:",
+      "metadata": {
+        "reference": "Job 31:33",
+        "verseKey": "kjv:job:31:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:job:31:34",
+      "numberLabel": "34",
+      "text": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?",
+      "metadata": {
+        "reference": "Job 31:34",
+        "verseKey": "kjv:job:31:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:job:31:35",
+      "numberLabel": "35",
+      "text": "Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.",
+      "metadata": {
+        "reference": "Job 31:35",
+        "verseKey": "kjv:job:31:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:job:31:36",
+      "numberLabel": "36",
+      "text": "Surely I would take it upon my shoulder, and bind it as a crown to me.",
+      "metadata": {
+        "reference": "Job 31:36",
+        "verseKey": "kjv:job:31:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:job:31:37",
+      "numberLabel": "37",
+      "text": "I would declare unto him the number of my steps; as a prince would I go near unto him.",
+      "metadata": {
+        "reference": "Job 31:37",
+        "verseKey": "kjv:job:31:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:job:31:38",
+      "numberLabel": "38",
+      "text": "If my land cry against me, or that the furrows likewise thereof complain;",
+      "metadata": {
+        "reference": "Job 31:38",
+        "verseKey": "kjv:job:31:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:job:31:39",
+      "numberLabel": "39",
+      "text": "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:",
+      "metadata": {
+        "reference": "Job 31:39",
+        "verseKey": "kjv:job:31:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:job:31:40",
+      "numberLabel": "40",
+      "text": "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.",
+      "metadata": {
+        "reference": "Job 31:40",
+        "verseKey": "kjv:job:31:40"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

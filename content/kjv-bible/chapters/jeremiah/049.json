@@ -1,0 +1,501 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-049",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 49,
+  "title": "Jeremiah 49",
+  "display_title": "Jeremiah 49",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 49,
+  "sortOrder": 24049,
+  "verseCount": 39,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:49:1",
+      "numberLabel": "1",
+      "text": "Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why then doth their king inherit Gad, and his people dwell in his cities?",
+      "metadata": {
+        "reference": "Jeremiah 49:1",
+        "verseKey": "kjv:jeremiah:49:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:49:2",
+      "numberLabel": "2",
+      "text": "Therefore, behold, the days come, saith the LORD, that I will cause an alarm of war to be heard in Rabbah of the Ammonites; and it shall be a desolate heap, and her daughters shall be burned with fire: then shall Israel be heir unto them that were his heirs, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 49:2",
+        "verseKey": "kjv:jeremiah:49:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:49:3",
+      "numberLabel": "3",
+      "text": "Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, and his priests and his princes together.",
+      "metadata": {
+        "reference": "Jeremiah 49:3",
+        "verseKey": "kjv:jeremiah:49:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:49:4",
+      "numberLabel": "4",
+      "text": "Wherefore gloriest thou in the valleys, thy flowing valley, O backsliding daughter? that trusted in her treasures, saying, Who shall come unto me?",
+      "metadata": {
+        "reference": "Jeremiah 49:4",
+        "verseKey": "kjv:jeremiah:49:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:49:5",
+      "numberLabel": "5",
+      "text": "Behold, I will bring a fear upon thee, saith the Lord GOD of hosts, from all those that be about thee; and ye shall be driven out every man right forth; and none shall gather up him that wandereth.",
+      "metadata": {
+        "reference": "Jeremiah 49:5",
+        "verseKey": "kjv:jeremiah:49:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:49:6",
+      "numberLabel": "6",
+      "text": "And afterward I will bring again the captivity of the children of Ammon, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 49:6",
+        "verseKey": "kjv:jeremiah:49:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:49:7",
+      "numberLabel": "7",
+      "text": "Concerning Edom, thus saith the LORD of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?",
+      "metadata": {
+        "reference": "Jeremiah 49:7",
+        "verseKey": "kjv:jeremiah:49:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:49:8",
+      "numberLabel": "8",
+      "text": "Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time that I will visit him.",
+      "metadata": {
+        "reference": "Jeremiah 49:8",
+        "verseKey": "kjv:jeremiah:49:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:49:9",
+      "numberLabel": "9",
+      "text": "If grapegatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough.",
+      "metadata": {
+        "reference": "Jeremiah 49:9",
+        "verseKey": "kjv:jeremiah:49:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:49:10",
+      "numberLabel": "10",
+      "text": "But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he is not.",
+      "metadata": {
+        "reference": "Jeremiah 49:10",
+        "verseKey": "kjv:jeremiah:49:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:49:11",
+      "numberLabel": "11",
+      "text": "Leave thy fatherless children, I will preserve them alive; and let thy widows trust in me.",
+      "metadata": {
+        "reference": "Jeremiah 49:11",
+        "verseKey": "kjv:jeremiah:49:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:49:12",
+      "numberLabel": "12",
+      "text": "For thus saith the LORD; Behold, they whose judgment was not to drink of the cup have assuredly drunken; and art thou he that shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink of it.",
+      "metadata": {
+        "reference": "Jeremiah 49:12",
+        "verseKey": "kjv:jeremiah:49:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:49:13",
+      "numberLabel": "13",
+      "text": "For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes.",
+      "metadata": {
+        "reference": "Jeremiah 49:13",
+        "verseKey": "kjv:jeremiah:49:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:49:14",
+      "numberLabel": "14",
+      "text": "I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, saying, Gather ye together, and come against her, and rise up to the battle.",
+      "metadata": {
+        "reference": "Jeremiah 49:14",
+        "verseKey": "kjv:jeremiah:49:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:49:15",
+      "numberLabel": "15",
+      "text": "For, lo, I will make thee small among the heathen, and despised among men.",
+      "metadata": {
+        "reference": "Jeremiah 49:15",
+        "verseKey": "kjv:jeremiah:49:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:49:16",
+      "numberLabel": "16",
+      "text": "Thy terribleness hath deceived thee, and the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill: though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 49:16",
+        "verseKey": "kjv:jeremiah:49:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:49:17",
+      "numberLabel": "17",
+      "text": "Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof.",
+      "metadata": {
+        "reference": "Jeremiah 49:17",
+        "verseKey": "kjv:jeremiah:49:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:49:18",
+      "numberLabel": "18",
+      "text": "As in the overthrow of Sodom and Gomorrah and the neighbour cities thereof, saith the LORD, no man shall abide there, neither shall a son of man dwell in it.",
+      "metadata": {
+        "reference": "Jeremiah 49:18",
+        "verseKey": "kjv:jeremiah:49:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:49:19",
+      "numberLabel": "19",
+      "text": "Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?",
+      "metadata": {
+        "reference": "Jeremiah 49:19",
+        "verseKey": "kjv:jeremiah:49:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:49:20",
+      "numberLabel": "20",
+      "text": "Therefore hear the counsel of the LORD, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their habitations desolate with them.",
+      "metadata": {
+        "reference": "Jeremiah 49:20",
+        "verseKey": "kjv:jeremiah:49:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:49:21",
+      "numberLabel": "21",
+      "text": "The earth is moved at the noise of their fall, at the cry the noise thereof was heard in the Red sea.",
+      "metadata": {
+        "reference": "Jeremiah 49:21",
+        "verseKey": "kjv:jeremiah:49:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:49:22",
+      "numberLabel": "22",
+      "text": "Behold, he shall come up and fly as the eagle, and spread his wings over Bozrah: and at that day shall the heart of the mighty men of Edom be as the heart of a woman in her pangs.",
+      "metadata": {
+        "reference": "Jeremiah 49:22",
+        "verseKey": "kjv:jeremiah:49:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:jeremiah:49:23",
+      "numberLabel": "23",
+      "text": "Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; there is sorrow on the sea; it cannot be quiet.",
+      "metadata": {
+        "reference": "Jeremiah 49:23",
+        "verseKey": "kjv:jeremiah:49:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:jeremiah:49:24",
+      "numberLabel": "24",
+      "text": "Damascus is waxed feeble, and turneth herself to flee, and fear hath seized on her: anguish and sorrows have taken her, as a woman in travail.",
+      "metadata": {
+        "reference": "Jeremiah 49:24",
+        "verseKey": "kjv:jeremiah:49:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:jeremiah:49:25",
+      "numberLabel": "25",
+      "text": "How is the city of praise not left, the city of my joy!",
+      "metadata": {
+        "reference": "Jeremiah 49:25",
+        "verseKey": "kjv:jeremiah:49:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:jeremiah:49:26",
+      "numberLabel": "26",
+      "text": "Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the LORD of hosts.",
+      "metadata": {
+        "reference": "Jeremiah 49:26",
+        "verseKey": "kjv:jeremiah:49:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:jeremiah:49:27",
+      "numberLabel": "27",
+      "text": "And I will kindle a fire in the wall of Damascus, and it shall consume the palaces of Benhadad.",
+      "metadata": {
+        "reference": "Jeremiah 49:27",
+        "verseKey": "kjv:jeremiah:49:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:jeremiah:49:28",
+      "numberLabel": "28",
+      "text": "Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east.",
+      "metadata": {
+        "reference": "Jeremiah 49:28",
+        "verseKey": "kjv:jeremiah:49:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:jeremiah:49:29",
+      "numberLabel": "29",
+      "text": "Their tents and their flocks shall they take away: they shall take to themselves their curtains, and all their vessels, and their camels; and they shall cry unto them, Fear is on every side.",
+      "metadata": {
+        "reference": "Jeremiah 49:29",
+        "verseKey": "kjv:jeremiah:49:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:jeremiah:49:30",
+      "numberLabel": "30",
+      "text": "Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; for Nebuchadrezzar king of Babylon hath taken counsel against you, and hath conceived a purpose against you.",
+      "metadata": {
+        "reference": "Jeremiah 49:30",
+        "verseKey": "kjv:jeremiah:49:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:jeremiah:49:31",
+      "numberLabel": "31",
+      "text": "Arise, get you up unto the wealthy nation, that dwelleth without care, saith the LORD, which have neither gates nor bars, which dwell alone.",
+      "metadata": {
+        "reference": "Jeremiah 49:31",
+        "verseKey": "kjv:jeremiah:49:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:jeremiah:49:32",
+      "numberLabel": "32",
+      "text": "And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them that are in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 49:32",
+        "verseKey": "kjv:jeremiah:49:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:jeremiah:49:33",
+      "numberLabel": "33",
+      "text": "And Hazor shall be a dwelling for dragons, and a desolation for ever: there shall no man abide there, nor any son of man dwell in it.",
+      "metadata": {
+        "reference": "Jeremiah 49:33",
+        "verseKey": "kjv:jeremiah:49:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:jeremiah:49:34",
+      "numberLabel": "34",
+      "text": "The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,",
+      "metadata": {
+        "reference": "Jeremiah 49:34",
+        "verseKey": "kjv:jeremiah:49:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:jeremiah:49:35",
+      "numberLabel": "35",
+      "text": "Thus saith the LORD of hosts; Behold, I will break the bow of Elam, the chief of their might.",
+      "metadata": {
+        "reference": "Jeremiah 49:35",
+        "verseKey": "kjv:jeremiah:49:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:jeremiah:49:36",
+      "numberLabel": "36",
+      "text": "And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come.",
+      "metadata": {
+        "reference": "Jeremiah 49:36",
+        "verseKey": "kjv:jeremiah:49:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:jeremiah:49:37",
+      "numberLabel": "37",
+      "text": "For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them:",
+      "metadata": {
+        "reference": "Jeremiah 49:37",
+        "verseKey": "kjv:jeremiah:49:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:jeremiah:49:38",
+      "numberLabel": "38",
+      "text": "And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 49:38",
+        "verseKey": "kjv:jeremiah:49:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:jeremiah:49:39",
+      "numberLabel": "39",
+      "text": "But it shall come to pass in the latter days, that I will bring again the captivity of Elam, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 49:39",
+        "verseKey": "kjv:jeremiah:49:39"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

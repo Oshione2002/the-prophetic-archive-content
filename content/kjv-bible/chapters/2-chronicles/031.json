@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-chronicles-031",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 31,
+  "title": "2 Chronicles 31",
+  "display_title": "2 Chronicles 31",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-chronicles",
+  "book": "2 Chronicles",
+  "bookName": "2 Chronicles",
+  "bookOrder": 14,
+  "testament": "old",
+  "chapter": 31,
+  "sortOrder": 14031,
+  "verseCount": 21,
+  "aliases": [
+    "2 Chr",
+    "2Chr",
+    "2 Ch",
+    "2Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-chronicles:31:1",
+      "numberLabel": "1",
+      "text": "Now when all this was finished, all Israel that were present went out to the cities of Judah, and brake the images in pieces, and cut down the groves, and threw down the high places and the altars out of all Judah and Benjamin, in Ephraim also and Manasseh, until they had utterly destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.",
+      "metadata": {
+        "reference": "2 Chronicles 31:1",
+        "verseKey": "kjv:2-chronicles:31:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-chronicles:31:2",
+      "numberLabel": "2",
+      "text": "And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD.",
+      "metadata": {
+        "reference": "2 Chronicles 31:2",
+        "verseKey": "kjv:2-chronicles:31:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-chronicles:31:3",
+      "numberLabel": "3",
+      "text": "He appointed also the king’s portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of the LORD.",
+      "metadata": {
+        "reference": "2 Chronicles 31:3",
+        "verseKey": "kjv:2-chronicles:31:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-chronicles:31:4",
+      "numberLabel": "4",
+      "text": "Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD.",
+      "metadata": {
+        "reference": "2 Chronicles 31:4",
+        "verseKey": "kjv:2-chronicles:31:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-chronicles:31:5",
+      "numberLabel": "5",
+      "text": "And as soon as the commandment came abroad, the children of Israel brought in abundance the firstfruits of corn, wine, and oil, and honey, and of all the increase of the field; and the tithe of all things brought they in abundantly.",
+      "metadata": {
+        "reference": "2 Chronicles 31:5",
+        "verseKey": "kjv:2-chronicles:31:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-chronicles:31:6",
+      "numberLabel": "6",
+      "text": "And concerning the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto the LORD their God, and laid them by heaps.",
+      "metadata": {
+        "reference": "2 Chronicles 31:6",
+        "verseKey": "kjv:2-chronicles:31:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-chronicles:31:7",
+      "numberLabel": "7",
+      "text": "In the third month they began to lay the foundation of the heaps, and finished them in the seventh month.",
+      "metadata": {
+        "reference": "2 Chronicles 31:7",
+        "verseKey": "kjv:2-chronicles:31:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-chronicles:31:8",
+      "numberLabel": "8",
+      "text": "And when Hezekiah and the princes came and saw the heaps, they blessed the LORD, and his people Israel.",
+      "metadata": {
+        "reference": "2 Chronicles 31:8",
+        "verseKey": "kjv:2-chronicles:31:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-chronicles:31:9",
+      "numberLabel": "9",
+      "text": "Then Hezekiah questioned with the priests and the Levites concerning the heaps.",
+      "metadata": {
+        "reference": "2 Chronicles 31:9",
+        "verseKey": "kjv:2-chronicles:31:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-chronicles:31:10",
+      "numberLabel": "10",
+      "text": "And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD hath blessed his people; and that which is left is this great store.",
+      "metadata": {
+        "reference": "2 Chronicles 31:10",
+        "verseKey": "kjv:2-chronicles:31:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-chronicles:31:11",
+      "numberLabel": "11",
+      "text": "Then Hezekiah commanded to prepare chambers in the house of the LORD; and they prepared them,",
+      "metadata": {
+        "reference": "2 Chronicles 31:11",
+        "verseKey": "kjv:2-chronicles:31:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-chronicles:31:12",
+      "numberLabel": "12",
+      "text": "And brought in the offerings and the tithes and the dedicated things faithfully: over which Cononiah the Levite was ruler, and Shimei his brother was the next.",
+      "metadata": {
+        "reference": "2 Chronicles 31:12",
+        "verseKey": "kjv:2-chronicles:31:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-chronicles:31:13",
+      "numberLabel": "13",
+      "text": "And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, were overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.",
+      "metadata": {
+        "reference": "2 Chronicles 31:13",
+        "verseKey": "kjv:2-chronicles:31:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-chronicles:31:14",
+      "numberLabel": "14",
+      "text": "And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things.",
+      "metadata": {
+        "reference": "2 Chronicles 31:14",
+        "verseKey": "kjv:2-chronicles:31:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-chronicles:31:15",
+      "numberLabel": "15",
+      "text": "And next him were Eden, and Miniamin, and Jeshua, and Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their set office, to give to their brethren by courses, as well to the great as to the small:",
+      "metadata": {
+        "reference": "2 Chronicles 31:15",
+        "verseKey": "kjv:2-chronicles:31:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-chronicles:31:16",
+      "numberLabel": "16",
+      "text": "Beside their genealogy of males, from three years old and upward, even unto every one that entereth into the house of the LORD, his daily portion for their service in their charges according to their courses;",
+      "metadata": {
+        "reference": "2 Chronicles 31:16",
+        "verseKey": "kjv:2-chronicles:31:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-chronicles:31:17",
+      "numberLabel": "17",
+      "text": "Both to the genealogy of the priests by the house of their fathers, and the Levites from twenty years old and upward, in their charges by their courses;",
+      "metadata": {
+        "reference": "2 Chronicles 31:17",
+        "verseKey": "kjv:2-chronicles:31:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-chronicles:31:18",
+      "numberLabel": "18",
+      "text": "And to the genealogy of all their little ones, their wives, and their sons, and their daughters, through all the congregation: for in their set office they sanctified themselves in holiness:",
+      "metadata": {
+        "reference": "2 Chronicles 31:18",
+        "verseKey": "kjv:2-chronicles:31:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-chronicles:31:19",
+      "numberLabel": "19",
+      "text": "Also of the sons of Aaron the priests, which were in the fields of the suburbs of their cities, in every several city, the men that were expressed by name, to give portions to all the males among the priests, and to all that were reckoned by genealogies among the Levites.",
+      "metadata": {
+        "reference": "2 Chronicles 31:19",
+        "verseKey": "kjv:2-chronicles:31:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-chronicles:31:20",
+      "numberLabel": "20",
+      "text": "And thus did Hezekiah throughout all Judah, and wrought that which was good and right and truth before the LORD his God.",
+      "metadata": {
+        "reference": "2 Chronicles 31:20",
+        "verseKey": "kjv:2-chronicles:31:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-chronicles:31:21",
+      "numberLabel": "21",
+      "text": "And in every work that he began in the service of the house of God, and in the law, and in the commandments, to seek his God, he did it with all his heart, and prospered.",
+      "metadata": {
+        "reference": "2 Chronicles 31:21",
+        "verseKey": "kjv:2-chronicles:31:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

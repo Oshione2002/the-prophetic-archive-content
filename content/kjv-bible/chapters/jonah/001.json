@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jonah-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Jonah 1",
+  "display_title": "Jonah 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jonah",
+  "book": "Jonah",
+  "bookName": "Jonah",
+  "bookOrder": 32,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 32001,
+  "verseCount": 17,
+  "aliases": [
+    "Jonah",
+    "Jon"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jonah:1:1",
+      "numberLabel": "1",
+      "text": "Now the word of the LORD came unto Jonah the son of Amittai, saying,",
+      "metadata": {
+        "reference": "Jonah 1:1",
+        "verseKey": "kjv:jonah:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jonah:1:2",
+      "numberLabel": "2",
+      "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+      "metadata": {
+        "reference": "Jonah 1:2",
+        "verseKey": "kjv:jonah:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jonah:1:3",
+      "numberLabel": "3",
+      "text": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.",
+      "metadata": {
+        "reference": "Jonah 1:3",
+        "verseKey": "kjv:jonah:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jonah:1:4",
+      "numberLabel": "4",
+      "text": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+      "metadata": {
+        "reference": "Jonah 1:4",
+        "verseKey": "kjv:jonah:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jonah:1:5",
+      "numberLabel": "5",
+      "text": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+      "metadata": {
+        "reference": "Jonah 1:5",
+        "verseKey": "kjv:jonah:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jonah:1:6",
+      "numberLabel": "6",
+      "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+      "metadata": {
+        "reference": "Jonah 1:6",
+        "verseKey": "kjv:jonah:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jonah:1:7",
+      "numberLabel": "7",
+      "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.",
+      "metadata": {
+        "reference": "Jonah 1:7",
+        "verseKey": "kjv:jonah:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jonah:1:8",
+      "numberLabel": "8",
+      "text": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?",
+      "metadata": {
+        "reference": "Jonah 1:8",
+        "verseKey": "kjv:jonah:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jonah:1:9",
+      "numberLabel": "9",
+      "text": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.",
+      "metadata": {
+        "reference": "Jonah 1:9",
+        "verseKey": "kjv:jonah:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jonah:1:10",
+      "numberLabel": "10",
+      "text": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.",
+      "metadata": {
+        "reference": "Jonah 1:10",
+        "verseKey": "kjv:jonah:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jonah:1:11",
+      "numberLabel": "11",
+      "text": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
+      "metadata": {
+        "reference": "Jonah 1:11",
+        "verseKey": "kjv:jonah:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jonah:1:12",
+      "numberLabel": "12",
+      "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.",
+      "metadata": {
+        "reference": "Jonah 1:12",
+        "verseKey": "kjv:jonah:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jonah:1:13",
+      "numberLabel": "13",
+      "text": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.",
+      "metadata": {
+        "reference": "Jonah 1:13",
+        "verseKey": "kjv:jonah:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jonah:1:14",
+      "numberLabel": "14",
+      "text": "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.",
+      "metadata": {
+        "reference": "Jonah 1:14",
+        "verseKey": "kjv:jonah:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jonah:1:15",
+      "numberLabel": "15",
+      "text": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
+      "metadata": {
+        "reference": "Jonah 1:15",
+        "verseKey": "kjv:jonah:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jonah:1:16",
+      "numberLabel": "16",
+      "text": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.",
+      "metadata": {
+        "reference": "Jonah 1:16",
+        "verseKey": "kjv:jonah:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jonah:1:17",
+      "numberLabel": "17",
+      "text": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+      "metadata": {
+        "reference": "Jonah 1:17",
+        "verseKey": "kjv:jonah:1:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jonah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jonah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

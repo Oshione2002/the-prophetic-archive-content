@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "1 Samuel 25",
+  "display_title": "1 Samuel 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 9025,
+  "verseCount": 44,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:25:1",
+      "numberLabel": "1",
+      "text": "And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.",
+      "metadata": {
+        "reference": "1 Samuel 25:1",
+        "verseKey": "kjv:1-samuel:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:25:2",
+      "numberLabel": "2",
+      "text": "And there was a man in Maon, whose possessions were in Carmel; and the man was very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.",
+      "metadata": {
+        "reference": "1 Samuel 25:2",
+        "verseKey": "kjv:1-samuel:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:25:3",
+      "numberLabel": "3",
+      "text": "Now the name of the man was Nabal; and the name of his wife Abigail: and she was a woman of good understanding, and of a beautiful countenance: but the man was churlish and evil in his doings; and he was of the house of Caleb.",
+      "metadata": {
+        "reference": "1 Samuel 25:3",
+        "verseKey": "kjv:1-samuel:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:25:4",
+      "numberLabel": "4",
+      "text": "And David heard in the wilderness that Nabal did shear his sheep.",
+      "metadata": {
+        "reference": "1 Samuel 25:4",
+        "verseKey": "kjv:1-samuel:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:25:5",
+      "numberLabel": "5",
+      "text": "And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:",
+      "metadata": {
+        "reference": "1 Samuel 25:5",
+        "verseKey": "kjv:1-samuel:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:25:6",
+      "numberLabel": "6",
+      "text": "And thus shall ye say to him that liveth in prosperity, Peace be both to thee, and peace be to thine house, and peace be unto all that thou hast.",
+      "metadata": {
+        "reference": "1 Samuel 25:6",
+        "verseKey": "kjv:1-samuel:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:25:7",
+      "numberLabel": "7",
+      "text": "And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.",
+      "metadata": {
+        "reference": "1 Samuel 25:7",
+        "verseKey": "kjv:1-samuel:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:25:8",
+      "numberLabel": "8",
+      "text": "Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.",
+      "metadata": {
+        "reference": "1 Samuel 25:8",
+        "verseKey": "kjv:1-samuel:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:25:9",
+      "numberLabel": "9",
+      "text": "And when David’s young men came, they spake to Nabal according to all those words in the name of David, and ceased.",
+      "metadata": {
+        "reference": "1 Samuel 25:9",
+        "verseKey": "kjv:1-samuel:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:25:10",
+      "numberLabel": "10",
+      "text": "And Nabal answered David’s servants, and said, Who is David? and who is the son of Jesse? there be many servants now a days that break away every man from his master.",
+      "metadata": {
+        "reference": "1 Samuel 25:10",
+        "verseKey": "kjv:1-samuel:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:25:11",
+      "numberLabel": "11",
+      "text": "Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it unto men, whom I know not whence they be?",
+      "metadata": {
+        "reference": "1 Samuel 25:11",
+        "verseKey": "kjv:1-samuel:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:25:12",
+      "numberLabel": "12",
+      "text": "So David’s young men turned their way, and went again, and came and told him all those sayings.",
+      "metadata": {
+        "reference": "1 Samuel 25:12",
+        "verseKey": "kjv:1-samuel:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:25:13",
+      "numberLabel": "13",
+      "text": "And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.",
+      "metadata": {
+        "reference": "1 Samuel 25:13",
+        "verseKey": "kjv:1-samuel:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:25:14",
+      "numberLabel": "14",
+      "text": "But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.",
+      "metadata": {
+        "reference": "1 Samuel 25:14",
+        "verseKey": "kjv:1-samuel:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:25:15",
+      "numberLabel": "15",
+      "text": "But the men were very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:",
+      "metadata": {
+        "reference": "1 Samuel 25:15",
+        "verseKey": "kjv:1-samuel:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:25:16",
+      "numberLabel": "16",
+      "text": "They were a wall unto us both by night and day, all the while we were with them keeping the sheep.",
+      "metadata": {
+        "reference": "1 Samuel 25:16",
+        "verseKey": "kjv:1-samuel:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:25:17",
+      "numberLabel": "17",
+      "text": "Now therefore know and consider what thou wilt do; for evil is determined against our master, and against all his household: for he is such a son of Belial, that a man cannot speak to him.",
+      "metadata": {
+        "reference": "1 Samuel 25:17",
+        "verseKey": "kjv:1-samuel:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:25:18",
+      "numberLabel": "18",
+      "text": "Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched corn, and an hundred clusters of raisins, and two hundred cakes of figs, and laid them on asses.",
+      "metadata": {
+        "reference": "1 Samuel 25:18",
+        "verseKey": "kjv:1-samuel:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:25:19",
+      "numberLabel": "19",
+      "text": "And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.",
+      "metadata": {
+        "reference": "1 Samuel 25:19",
+        "verseKey": "kjv:1-samuel:25:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:25:20",
+      "numberLabel": "20",
+      "text": "And it was so, as she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.",
+      "metadata": {
+        "reference": "1 Samuel 25:20",
+        "verseKey": "kjv:1-samuel:25:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:25:21",
+      "numberLabel": "21",
+      "text": "Now David had said, Surely in vain have I kept all that this fellow hath in the wilderness, so that nothing was missed of all that pertained unto him: and he hath requited me evil for good.",
+      "metadata": {
+        "reference": "1 Samuel 25:21",
+        "verseKey": "kjv:1-samuel:25:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:25:22",
+      "numberLabel": "22",
+      "text": "So and more also do God unto the enemies of David, if I leave of all that pertain to him by the morning light any that pisseth against the wall.",
+      "metadata": {
+        "reference": "1 Samuel 25:22",
+        "verseKey": "kjv:1-samuel:25:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:25:23",
+      "numberLabel": "23",
+      "text": "And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,",
+      "metadata": {
+        "reference": "1 Samuel 25:23",
+        "verseKey": "kjv:1-samuel:25:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:25:24",
+      "numberLabel": "24",
+      "text": "And fell at his feet, and said, Upon me, my lord, upon me let this iniquity be: and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid.",
+      "metadata": {
+        "reference": "1 Samuel 25:24",
+        "verseKey": "kjv:1-samuel:25:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:25:25",
+      "numberLabel": "25",
+      "text": "Let not my lord, I pray thee, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.",
+      "metadata": {
+        "reference": "1 Samuel 25:25",
+        "verseKey": "kjv:1-samuel:25:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-samuel:25:26",
+      "numberLabel": "26",
+      "text": "Now therefore, my lord, as the LORD liveth, and as thy soul liveth, seeing the LORD hath withholden thee from coming to shed blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal.",
+      "metadata": {
+        "reference": "1 Samuel 25:26",
+        "verseKey": "kjv:1-samuel:25:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-samuel:25:27",
+      "numberLabel": "27",
+      "text": "And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord.",
+      "metadata": {
+        "reference": "1 Samuel 25:27",
+        "verseKey": "kjv:1-samuel:25:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-samuel:25:28",
+      "numberLabel": "28",
+      "text": "I pray thee, forgive the trespass of thine handmaid: for the LORD will certainly make my lord a sure house; because my lord fighteth the battles of the LORD, and evil hath not been found in thee all thy days.",
+      "metadata": {
+        "reference": "1 Samuel 25:28",
+        "verseKey": "kjv:1-samuel:25:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-samuel:25:29",
+      "numberLabel": "29",
+      "text": "Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, as out of the middle of a sling.",
+      "metadata": {
+        "reference": "1 Samuel 25:29",
+        "verseKey": "kjv:1-samuel:25:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-samuel:25:30",
+      "numberLabel": "30",
+      "text": "And it shall come to pass, when the LORD shall have done to my lord according to all the good that he hath spoken concerning thee, and shall have appointed thee ruler over Israel;",
+      "metadata": {
+        "reference": "1 Samuel 25:30",
+        "verseKey": "kjv:1-samuel:25:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-samuel:25:31",
+      "numberLabel": "31",
+      "text": "That this shall be no grief unto thee, nor offence of heart unto my lord, either that thou hast shed blood causeless, or that my lord hath avenged himself: but when the LORD shall have dealt well with my lord, then remember thine handmaid.",
+      "metadata": {
+        "reference": "1 Samuel 25:31",
+        "verseKey": "kjv:1-samuel:25:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-samuel:25:32",
+      "numberLabel": "32",
+      "text": "And David said to Abigail, Blessed be the LORD God of Israel, which sent thee this day to meet me:",
+      "metadata": {
+        "reference": "1 Samuel 25:32",
+        "verseKey": "kjv:1-samuel:25:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-samuel:25:33",
+      "numberLabel": "33",
+      "text": "And blessed be thy advice, and blessed be thou, which hast kept me this day from coming to shed blood, and from avenging myself with mine own hand.",
+      "metadata": {
+        "reference": "1 Samuel 25:33",
+        "verseKey": "kjv:1-samuel:25:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-samuel:25:34",
+      "numberLabel": "34",
+      "text": "For in very deed, as the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.",
+      "metadata": {
+        "reference": "1 Samuel 25:34",
+        "verseKey": "kjv:1-samuel:25:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-samuel:25:35",
+      "numberLabel": "35",
+      "text": "So David received of her hand that which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.",
+      "metadata": {
+        "reference": "1 Samuel 25:35",
+        "verseKey": "kjv:1-samuel:25:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-samuel:25:36",
+      "numberLabel": "36",
+      "text": "And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal’s heart was merry within him, for he was very drunken: wherefore she told him nothing, less or more, until the morning light.",
+      "metadata": {
+        "reference": "1 Samuel 25:36",
+        "verseKey": "kjv:1-samuel:25:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-samuel:25:37",
+      "numberLabel": "37",
+      "text": "But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him these things, that his heart died within him, and he became as a stone.",
+      "metadata": {
+        "reference": "1 Samuel 25:37",
+        "verseKey": "kjv:1-samuel:25:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-samuel:25:38",
+      "numberLabel": "38",
+      "text": "And it came to pass about ten days after, that the LORD smote Nabal, that he died.",
+      "metadata": {
+        "reference": "1 Samuel 25:38",
+        "verseKey": "kjv:1-samuel:25:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-samuel:25:39",
+      "numberLabel": "39",
+      "text": "And when David heard that Nabal was dead, he said, Blessed be the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.",
+      "metadata": {
+        "reference": "1 Samuel 25:39",
+        "verseKey": "kjv:1-samuel:25:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-samuel:25:40",
+      "numberLabel": "40",
+      "text": "And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.",
+      "metadata": {
+        "reference": "1 Samuel 25:40",
+        "verseKey": "kjv:1-samuel:25:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:1-samuel:25:41",
+      "numberLabel": "41",
+      "text": "And she arose, and bowed herself on her face to the earth, and said, Behold, let thine handmaid be a servant to wash the feet of the servants of my lord.",
+      "metadata": {
+        "reference": "1 Samuel 25:41",
+        "verseKey": "kjv:1-samuel:25:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:1-samuel:25:42",
+      "numberLabel": "42",
+      "text": "And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.",
+      "metadata": {
+        "reference": "1 Samuel 25:42",
+        "verseKey": "kjv:1-samuel:25:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:1-samuel:25:43",
+      "numberLabel": "43",
+      "text": "David also took Ahinoam of Jezreel; and they were also both of them his wives.",
+      "metadata": {
+        "reference": "1 Samuel 25:43",
+        "verseKey": "kjv:1-samuel:25:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:1-samuel:25:44",
+      "numberLabel": "44",
+      "text": "But Saul had given Michal his daughter, David’s wife, to Phalti the son of Laish, which was of Gallim.",
+      "metadata": {
+        "reference": "1 Samuel 25:44",
+        "verseKey": "kjv:1-samuel:25:44"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-thessalonians-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "1 Thessalonians 1",
+  "display_title": "1 Thessalonians 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-thessalonians",
+  "book": "1 Thessalonians",
+  "bookName": "1 Thessalonians",
+  "bookOrder": 52,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 52001,
+  "verseCount": 10,
+  "aliases": [
+    "1 Thess",
+    "1Thess",
+    "1 Th",
+    "1Th"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-thessalonians:1:1",
+      "numberLabel": "1",
+      "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.",
+      "metadata": {
+        "reference": "1 Thessalonians 1:1",
+        "verseKey": "kjv:1-thessalonians:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-thessalonians:1:2",
+      "numberLabel": "2",
+      "text": "We give thanks to God always for you all, making mention of you in our prayers;",
+      "metadata": {
+        "reference": "1 Thessalonians 1:2",
+        "verseKey": "kjv:1-thessalonians:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-thessalonians:1:3",
+      "numberLabel": "3",
+      "text": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;",
+      "metadata": {
+        "reference": "1 Thessalonians 1:3",
+        "verseKey": "kjv:1-thessalonians:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-thessalonians:1:4",
+      "numberLabel": "4",
+      "text": "Knowing, brethren beloved, your election of God.",
+      "metadata": {
+        "reference": "1 Thessalonians 1:4",
+        "verseKey": "kjv:1-thessalonians:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-thessalonians:1:5",
+      "numberLabel": "5",
+      "text": "For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.",
+      "metadata": {
+        "reference": "1 Thessalonians 1:5",
+        "verseKey": "kjv:1-thessalonians:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-thessalonians:1:6",
+      "numberLabel": "6",
+      "text": "And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:",
+      "metadata": {
+        "reference": "1 Thessalonians 1:6",
+        "verseKey": "kjv:1-thessalonians:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-thessalonians:1:7",
+      "numberLabel": "7",
+      "text": "So that ye were ensamples to all that believe in Macedonia and Achaia.",
+      "metadata": {
+        "reference": "1 Thessalonians 1:7",
+        "verseKey": "kjv:1-thessalonians:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-thessalonians:1:8",
+      "numberLabel": "8",
+      "text": "For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.",
+      "metadata": {
+        "reference": "1 Thessalonians 1:8",
+        "verseKey": "kjv:1-thessalonians:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-thessalonians:1:9",
+      "numberLabel": "9",
+      "text": "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;",
+      "metadata": {
+        "reference": "1 Thessalonians 1:9",
+        "verseKey": "kjv:1-thessalonians:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-thessalonians:1:10",
+      "numberLabel": "10",
+      "text": "And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.",
+      "metadata": {
+        "reference": "1 Thessalonians 1:10",
+        "verseKey": "kjv:1-thessalonians:1:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Thessalonians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Thessalonians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

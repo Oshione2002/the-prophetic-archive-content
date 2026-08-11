@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Revelation 4",
+  "display_title": "Revelation 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 66004,
+  "verseCount": 11,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:4:1",
+      "numberLabel": "1",
+      "text": "After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.",
+      "metadata": {
+        "reference": "Revelation 4:1",
+        "verseKey": "kjv:revelation:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:4:2",
+      "numberLabel": "2",
+      "text": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.",
+      "metadata": {
+        "reference": "Revelation 4:2",
+        "verseKey": "kjv:revelation:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:4:3",
+      "numberLabel": "3",
+      "text": "And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.",
+      "metadata": {
+        "reference": "Revelation 4:3",
+        "verseKey": "kjv:revelation:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:4:4",
+      "numberLabel": "4",
+      "text": "And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.",
+      "metadata": {
+        "reference": "Revelation 4:4",
+        "verseKey": "kjv:revelation:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:4:5",
+      "numberLabel": "5",
+      "text": "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.",
+      "metadata": {
+        "reference": "Revelation 4:5",
+        "verseKey": "kjv:revelation:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:4:6",
+      "numberLabel": "6",
+      "text": "And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.",
+      "metadata": {
+        "reference": "Revelation 4:6",
+        "verseKey": "kjv:revelation:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:4:7",
+      "numberLabel": "7",
+      "text": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.",
+      "metadata": {
+        "reference": "Revelation 4:7",
+        "verseKey": "kjv:revelation:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:4:8",
+      "numberLabel": "8",
+      "text": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, LORD God Almighty, which was, and is, and is to come.",
+      "metadata": {
+        "reference": "Revelation 4:8",
+        "verseKey": "kjv:revelation:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:4:9",
+      "numberLabel": "9",
+      "text": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,",
+      "metadata": {
+        "reference": "Revelation 4:9",
+        "verseKey": "kjv:revelation:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:4:10",
+      "numberLabel": "10",
+      "text": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,",
+      "metadata": {
+        "reference": "Revelation 4:10",
+        "verseKey": "kjv:revelation:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:4:11",
+      "numberLabel": "11",
+      "text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+      "metadata": {
+        "reference": "Revelation 4:11",
+        "verseKey": "kjv:revelation:4:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-nehemiah-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Nehemiah 7",
+  "display_title": "Nehemiah 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "nehemiah",
+  "book": "Nehemiah",
+  "bookName": "Nehemiah",
+  "bookOrder": 16,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 16007,
+  "verseCount": 73,
+  "aliases": [
+    "Neh",
+    "Ne"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:nehemiah:7:1",
+      "numberLabel": "1",
+      "text": "Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,",
+      "metadata": {
+        "reference": "Nehemiah 7:1",
+        "verseKey": "kjv:nehemiah:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:nehemiah:7:2",
+      "numberLabel": "2",
+      "text": "That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many.",
+      "metadata": {
+        "reference": "Nehemiah 7:2",
+        "verseKey": "kjv:nehemiah:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:nehemiah:7:3",
+      "numberLabel": "3",
+      "text": "And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be over against his house.",
+      "metadata": {
+        "reference": "Nehemiah 7:3",
+        "verseKey": "kjv:nehemiah:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:nehemiah:7:4",
+      "numberLabel": "4",
+      "text": "Now the city was large and great: but the people were few therein, and the houses were not builded.",
+      "metadata": {
+        "reference": "Nehemiah 7:4",
+        "verseKey": "kjv:nehemiah:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:nehemiah:7:5",
+      "numberLabel": "5",
+      "text": "And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,",
+      "metadata": {
+        "reference": "Nehemiah 7:5",
+        "verseKey": "kjv:nehemiah:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:nehemiah:7:6",
+      "numberLabel": "6",
+      "text": "These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;",
+      "metadata": {
+        "reference": "Nehemiah 7:6",
+        "verseKey": "kjv:nehemiah:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:nehemiah:7:7",
+      "numberLabel": "7",
+      "text": "Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;",
+      "metadata": {
+        "reference": "Nehemiah 7:7",
+        "verseKey": "kjv:nehemiah:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:nehemiah:7:8",
+      "numberLabel": "8",
+      "text": "The children of Parosh, two thousand an hundred seventy and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:8",
+        "verseKey": "kjv:nehemiah:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:nehemiah:7:9",
+      "numberLabel": "9",
+      "text": "The children of Shephatiah, three hundred seventy and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:9",
+        "verseKey": "kjv:nehemiah:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:nehemiah:7:10",
+      "numberLabel": "10",
+      "text": "The children of Arah, six hundred fifty and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:10",
+        "verseKey": "kjv:nehemiah:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:nehemiah:7:11",
+      "numberLabel": "11",
+      "text": "The children of Pahathmoab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen.",
+      "metadata": {
+        "reference": "Nehemiah 7:11",
+        "verseKey": "kjv:nehemiah:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:nehemiah:7:12",
+      "numberLabel": "12",
+      "text": "The children of Elam, a thousand two hundred fifty and four.",
+      "metadata": {
+        "reference": "Nehemiah 7:12",
+        "verseKey": "kjv:nehemiah:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:nehemiah:7:13",
+      "numberLabel": "13",
+      "text": "The children of Zattu, eight hundred forty and five.",
+      "metadata": {
+        "reference": "Nehemiah 7:13",
+        "verseKey": "kjv:nehemiah:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:nehemiah:7:14",
+      "numberLabel": "14",
+      "text": "The children of Zaccai, seven hundred and threescore.",
+      "metadata": {
+        "reference": "Nehemiah 7:14",
+        "verseKey": "kjv:nehemiah:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:nehemiah:7:15",
+      "numberLabel": "15",
+      "text": "The children of Binnui, six hundred forty and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:15",
+        "verseKey": "kjv:nehemiah:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:nehemiah:7:16",
+      "numberLabel": "16",
+      "text": "The children of Bebai, six hundred twenty and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:16",
+        "verseKey": "kjv:nehemiah:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:nehemiah:7:17",
+      "numberLabel": "17",
+      "text": "The children of Azgad, two thousand three hundred twenty and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:17",
+        "verseKey": "kjv:nehemiah:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:nehemiah:7:18",
+      "numberLabel": "18",
+      "text": "The children of Adonikam, six hundred threescore and seven.",
+      "metadata": {
+        "reference": "Nehemiah 7:18",
+        "verseKey": "kjv:nehemiah:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:nehemiah:7:19",
+      "numberLabel": "19",
+      "text": "The children of Bigvai, two thousand threescore and seven.",
+      "metadata": {
+        "reference": "Nehemiah 7:19",
+        "verseKey": "kjv:nehemiah:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:nehemiah:7:20",
+      "numberLabel": "20",
+      "text": "The children of Adin, six hundred fifty and five.",
+      "metadata": {
+        "reference": "Nehemiah 7:20",
+        "verseKey": "kjv:nehemiah:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:nehemiah:7:21",
+      "numberLabel": "21",
+      "text": "The children of Ater of Hezekiah, ninety and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:21",
+        "verseKey": "kjv:nehemiah:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:nehemiah:7:22",
+      "numberLabel": "22",
+      "text": "The children of Hashum, three hundred twenty and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:22",
+        "verseKey": "kjv:nehemiah:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:nehemiah:7:23",
+      "numberLabel": "23",
+      "text": "The children of Bezai, three hundred twenty and four.",
+      "metadata": {
+        "reference": "Nehemiah 7:23",
+        "verseKey": "kjv:nehemiah:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:nehemiah:7:24",
+      "numberLabel": "24",
+      "text": "The children of Hariph, an hundred and twelve.",
+      "metadata": {
+        "reference": "Nehemiah 7:24",
+        "verseKey": "kjv:nehemiah:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:nehemiah:7:25",
+      "numberLabel": "25",
+      "text": "The children of Gibeon, ninety and five.",
+      "metadata": {
+        "reference": "Nehemiah 7:25",
+        "verseKey": "kjv:nehemiah:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:nehemiah:7:26",
+      "numberLabel": "26",
+      "text": "The men of Bethlehem and Netophah, an hundred fourscore and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:26",
+        "verseKey": "kjv:nehemiah:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:nehemiah:7:27",
+      "numberLabel": "27",
+      "text": "The men of Anathoth, an hundred twenty and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:27",
+        "verseKey": "kjv:nehemiah:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:nehemiah:7:28",
+      "numberLabel": "28",
+      "text": "The men of Bethazmaveth, forty and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:28",
+        "verseKey": "kjv:nehemiah:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:nehemiah:7:29",
+      "numberLabel": "29",
+      "text": "The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.",
+      "metadata": {
+        "reference": "Nehemiah 7:29",
+        "verseKey": "kjv:nehemiah:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:nehemiah:7:30",
+      "numberLabel": "30",
+      "text": "The men of Ramah and Gaba, six hundred twenty and one.",
+      "metadata": {
+        "reference": "Nehemiah 7:30",
+        "verseKey": "kjv:nehemiah:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:nehemiah:7:31",
+      "numberLabel": "31",
+      "text": "The men of Michmas, an hundred and twenty and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:31",
+        "verseKey": "kjv:nehemiah:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:nehemiah:7:32",
+      "numberLabel": "32",
+      "text": "The men of Bethel and Ai, an hundred twenty and three.",
+      "metadata": {
+        "reference": "Nehemiah 7:32",
+        "verseKey": "kjv:nehemiah:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:nehemiah:7:33",
+      "numberLabel": "33",
+      "text": "The men of the other Nebo, fifty and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:33",
+        "verseKey": "kjv:nehemiah:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:nehemiah:7:34",
+      "numberLabel": "34",
+      "text": "The children of the other Elam, a thousand two hundred fifty and four.",
+      "metadata": {
+        "reference": "Nehemiah 7:34",
+        "verseKey": "kjv:nehemiah:7:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:nehemiah:7:35",
+      "numberLabel": "35",
+      "text": "The children of Harim, three hundred and twenty.",
+      "metadata": {
+        "reference": "Nehemiah 7:35",
+        "verseKey": "kjv:nehemiah:7:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:nehemiah:7:36",
+      "numberLabel": "36",
+      "text": "The children of Jericho, three hundred forty and five.",
+      "metadata": {
+        "reference": "Nehemiah 7:36",
+        "verseKey": "kjv:nehemiah:7:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:nehemiah:7:37",
+      "numberLabel": "37",
+      "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and one.",
+      "metadata": {
+        "reference": "Nehemiah 7:37",
+        "verseKey": "kjv:nehemiah:7:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:nehemiah:7:38",
+      "numberLabel": "38",
+      "text": "The children of Senaah, three thousand nine hundred and thirty.",
+      "metadata": {
+        "reference": "Nehemiah 7:38",
+        "verseKey": "kjv:nehemiah:7:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:nehemiah:7:39",
+      "numberLabel": "39",
+      "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+      "metadata": {
+        "reference": "Nehemiah 7:39",
+        "verseKey": "kjv:nehemiah:7:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:nehemiah:7:40",
+      "numberLabel": "40",
+      "text": "The children of Immer, a thousand fifty and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:40",
+        "verseKey": "kjv:nehemiah:7:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:nehemiah:7:41",
+      "numberLabel": "41",
+      "text": "The children of Pashur, a thousand two hundred forty and seven.",
+      "metadata": {
+        "reference": "Nehemiah 7:41",
+        "verseKey": "kjv:nehemiah:7:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:nehemiah:7:42",
+      "numberLabel": "42",
+      "text": "The children of Harim, a thousand and seventeen.",
+      "metadata": {
+        "reference": "Nehemiah 7:42",
+        "verseKey": "kjv:nehemiah:7:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:nehemiah:7:43",
+      "numberLabel": "43",
+      "text": "The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four.",
+      "metadata": {
+        "reference": "Nehemiah 7:43",
+        "verseKey": "kjv:nehemiah:7:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:nehemiah:7:44",
+      "numberLabel": "44",
+      "text": "The singers: the children of Asaph, an hundred forty and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:44",
+        "verseKey": "kjv:nehemiah:7:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:nehemiah:7:45",
+      "numberLabel": "45",
+      "text": "The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight.",
+      "metadata": {
+        "reference": "Nehemiah 7:45",
+        "verseKey": "kjv:nehemiah:7:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:nehemiah:7:46",
+      "numberLabel": "46",
+      "text": "The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,",
+      "metadata": {
+        "reference": "Nehemiah 7:46",
+        "verseKey": "kjv:nehemiah:7:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:nehemiah:7:47",
+      "numberLabel": "47",
+      "text": "The children of Keros, the children of Sia, the children of Padon,",
+      "metadata": {
+        "reference": "Nehemiah 7:47",
+        "verseKey": "kjv:nehemiah:7:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:nehemiah:7:48",
+      "numberLabel": "48",
+      "text": "The children of Lebana, the children of Hagaba, the children of Shalmai,",
+      "metadata": {
+        "reference": "Nehemiah 7:48",
+        "verseKey": "kjv:nehemiah:7:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:nehemiah:7:49",
+      "numberLabel": "49",
+      "text": "The children of Hanan, the children of Giddel, the children of Gahar,",
+      "metadata": {
+        "reference": "Nehemiah 7:49",
+        "verseKey": "kjv:nehemiah:7:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:nehemiah:7:50",
+      "numberLabel": "50",
+      "text": "The children of Reaiah, the children of Rezin, the children of Nekoda,",
+      "metadata": {
+        "reference": "Nehemiah 7:50",
+        "verseKey": "kjv:nehemiah:7:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:nehemiah:7:51",
+      "numberLabel": "51",
+      "text": "The children of Gazzam, the children of Uzza, the children of Phaseah,",
+      "metadata": {
+        "reference": "Nehemiah 7:51",
+        "verseKey": "kjv:nehemiah:7:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:nehemiah:7:52",
+      "numberLabel": "52",
+      "text": "The children of Besai, the children of Meunim, the children of Nephishesim,",
+      "metadata": {
+        "reference": "Nehemiah 7:52",
+        "verseKey": "kjv:nehemiah:7:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:nehemiah:7:53",
+      "numberLabel": "53",
+      "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,",
+      "metadata": {
+        "reference": "Nehemiah 7:53",
+        "verseKey": "kjv:nehemiah:7:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:nehemiah:7:54",
+      "numberLabel": "54",
+      "text": "The children of Bazlith, the children of Mehida, the children of Harsha,",
+      "metadata": {
+        "reference": "Nehemiah 7:54",
+        "verseKey": "kjv:nehemiah:7:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:nehemiah:7:55",
+      "numberLabel": "55",
+      "text": "The children of Barkos, the children of Sisera, the children of Tamah,",
+      "metadata": {
+        "reference": "Nehemiah 7:55",
+        "verseKey": "kjv:nehemiah:7:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:nehemiah:7:56",
+      "numberLabel": "56",
+      "text": "The children of Neziah, the children of Hatipha.",
+      "metadata": {
+        "reference": "Nehemiah 7:56",
+        "verseKey": "kjv:nehemiah:7:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:nehemiah:7:57",
+      "numberLabel": "57",
+      "text": "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,",
+      "metadata": {
+        "reference": "Nehemiah 7:57",
+        "verseKey": "kjv:nehemiah:7:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:nehemiah:7:58",
+      "numberLabel": "58",
+      "text": "The children of Jaala, the children of Darkon, the children of Giddel,",
+      "metadata": {
+        "reference": "Nehemiah 7:58",
+        "verseKey": "kjv:nehemiah:7:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:nehemiah:7:59",
+      "numberLabel": "59",
+      "text": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.",
+      "metadata": {
+        "reference": "Nehemiah 7:59",
+        "verseKey": "kjv:nehemiah:7:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:nehemiah:7:60",
+      "numberLabel": "60",
+      "text": "All the Nethinims, and the children of Solomon’s servants, were three hundred ninety and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:60",
+        "verseKey": "kjv:nehemiah:7:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:nehemiah:7:61",
+      "numberLabel": "61",
+      "text": "And these were they which went up also from Telmelah, Telharesha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they were of Israel.",
+      "metadata": {
+        "reference": "Nehemiah 7:61",
+        "verseKey": "kjv:nehemiah:7:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:nehemiah:7:62",
+      "numberLabel": "62",
+      "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.",
+      "metadata": {
+        "reference": "Nehemiah 7:62",
+        "verseKey": "kjv:nehemiah:7:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:nehemiah:7:63",
+      "numberLabel": "63",
+      "text": "And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name.",
+      "metadata": {
+        "reference": "Nehemiah 7:63",
+        "verseKey": "kjv:nehemiah:7:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:nehemiah:7:64",
+      "numberLabel": "64",
+      "text": "These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.",
+      "metadata": {
+        "reference": "Nehemiah 7:64",
+        "verseKey": "kjv:nehemiah:7:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:nehemiah:7:65",
+      "numberLabel": "65",
+      "text": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim.",
+      "metadata": {
+        "reference": "Nehemiah 7:65",
+        "verseKey": "kjv:nehemiah:7:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:nehemiah:7:66",
+      "numberLabel": "66",
+      "text": "The whole congregation together was forty and two thousand three hundred and threescore,",
+      "metadata": {
+        "reference": "Nehemiah 7:66",
+        "verseKey": "kjv:nehemiah:7:66"
+      }
+    },
+    {
+      "id": "verse-067",
+      "type": "bible_verse",
+      "verse": 67,
+      "verseId": "kjv:nehemiah:7:67",
+      "numberLabel": "67",
+      "text": "Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.",
+      "metadata": {
+        "reference": "Nehemiah 7:67",
+        "verseKey": "kjv:nehemiah:7:67"
+      }
+    },
+    {
+      "id": "verse-068",
+      "type": "bible_verse",
+      "verse": 68,
+      "verseId": "kjv:nehemiah:7:68",
+      "numberLabel": "68",
+      "text": "Their horses, seven hundred thirty and six: their mules, two hundred forty and five:",
+      "metadata": {
+        "reference": "Nehemiah 7:68",
+        "verseKey": "kjv:nehemiah:7:68"
+      }
+    },
+    {
+      "id": "verse-069",
+      "type": "bible_verse",
+      "verse": 69,
+      "verseId": "kjv:nehemiah:7:69",
+      "numberLabel": "69",
+      "text": "Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses.",
+      "metadata": {
+        "reference": "Nehemiah 7:69",
+        "verseKey": "kjv:nehemiah:7:69"
+      }
+    },
+    {
+      "id": "verse-070",
+      "type": "bible_verse",
+      "verse": 70,
+      "verseId": "kjv:nehemiah:7:70",
+      "numberLabel": "70",
+      "text": "And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments.",
+      "metadata": {
+        "reference": "Nehemiah 7:70",
+        "verseKey": "kjv:nehemiah:7:70"
+      }
+    },
+    {
+      "id": "verse-071",
+      "type": "bible_verse",
+      "verse": 71,
+      "verseId": "kjv:nehemiah:7:71",
+      "numberLabel": "71",
+      "text": "And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.",
+      "metadata": {
+        "reference": "Nehemiah 7:71",
+        "verseKey": "kjv:nehemiah:7:71"
+      }
+    },
+    {
+      "id": "verse-072",
+      "type": "bible_verse",
+      "verse": 72,
+      "verseId": "kjv:nehemiah:7:72",
+      "numberLabel": "72",
+      "text": "And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments.",
+      "metadata": {
+        "reference": "Nehemiah 7:72",
+        "verseKey": "kjv:nehemiah:7:72"
+      }
+    },
+    {
+      "id": "verse-073",
+      "type": "bible_verse",
+      "verse": 73,
+      "verseId": "kjv:nehemiah:7:73",
+      "numberLabel": "73",
+      "text": "So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.",
+      "metadata": {
+        "reference": "Nehemiah 7:73",
+        "verseKey": "kjv:nehemiah:7:73"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Nehemiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Nehemiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

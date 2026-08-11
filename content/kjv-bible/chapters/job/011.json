@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Job 11",
+  "display_title": "Job 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 18011,
+  "verseCount": 20,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:11:1",
+      "numberLabel": "1",
+      "text": "Then answered Zophar the Naamathite, and said,",
+      "metadata": {
+        "reference": "Job 11:1",
+        "verseKey": "kjv:job:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:11:2",
+      "numberLabel": "2",
+      "text": "Should not the multitude of words be answered? and should a man full of talk be justified?",
+      "metadata": {
+        "reference": "Job 11:2",
+        "verseKey": "kjv:job:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:11:3",
+      "numberLabel": "3",
+      "text": "Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?",
+      "metadata": {
+        "reference": "Job 11:3",
+        "verseKey": "kjv:job:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:11:4",
+      "numberLabel": "4",
+      "text": "For thou hast said, My doctrine is pure, and I am clean in thine eyes.",
+      "metadata": {
+        "reference": "Job 11:4",
+        "verseKey": "kjv:job:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:11:5",
+      "numberLabel": "5",
+      "text": "But oh that God would speak, and open his lips against thee;",
+      "metadata": {
+        "reference": "Job 11:5",
+        "verseKey": "kjv:job:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:11:6",
+      "numberLabel": "6",
+      "text": "And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth.",
+      "metadata": {
+        "reference": "Job 11:6",
+        "verseKey": "kjv:job:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:11:7",
+      "numberLabel": "7",
+      "text": "Canst thou by searching find out God? canst thou find out the Almighty unto perfection?",
+      "metadata": {
+        "reference": "Job 11:7",
+        "verseKey": "kjv:job:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:11:8",
+      "numberLabel": "8",
+      "text": "It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?",
+      "metadata": {
+        "reference": "Job 11:8",
+        "verseKey": "kjv:job:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:11:9",
+      "numberLabel": "9",
+      "text": "The measure thereof is longer than the earth, and broader than the sea.",
+      "metadata": {
+        "reference": "Job 11:9",
+        "verseKey": "kjv:job:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:11:10",
+      "numberLabel": "10",
+      "text": "If he cut off, and shut up, or gather together, then who can hinder him?",
+      "metadata": {
+        "reference": "Job 11:10",
+        "verseKey": "kjv:job:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:11:11",
+      "numberLabel": "11",
+      "text": "For he knoweth vain men: he seeth wickedness also; will he not then consider it?",
+      "metadata": {
+        "reference": "Job 11:11",
+        "verseKey": "kjv:job:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:11:12",
+      "numberLabel": "12",
+      "text": "For vain man would be wise, though man be born like a wild ass’s colt.",
+      "metadata": {
+        "reference": "Job 11:12",
+        "verseKey": "kjv:job:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:11:13",
+      "numberLabel": "13",
+      "text": "If thou prepare thine heart, and stretch out thine hands toward him;",
+      "metadata": {
+        "reference": "Job 11:13",
+        "verseKey": "kjv:job:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:11:14",
+      "numberLabel": "14",
+      "text": "If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.",
+      "metadata": {
+        "reference": "Job 11:14",
+        "verseKey": "kjv:job:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:11:15",
+      "numberLabel": "15",
+      "text": "For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:",
+      "metadata": {
+        "reference": "Job 11:15",
+        "verseKey": "kjv:job:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:11:16",
+      "numberLabel": "16",
+      "text": "Because thou shalt forget thy misery, and remember it as waters that pass away:",
+      "metadata": {
+        "reference": "Job 11:16",
+        "verseKey": "kjv:job:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:11:17",
+      "numberLabel": "17",
+      "text": "And thine age shall be clearer than the noonday: thou shalt shine forth, thou shalt be as the morning.",
+      "metadata": {
+        "reference": "Job 11:17",
+        "verseKey": "kjv:job:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:11:18",
+      "numberLabel": "18",
+      "text": "And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.",
+      "metadata": {
+        "reference": "Job 11:18",
+        "verseKey": "kjv:job:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:11:19",
+      "numberLabel": "19",
+      "text": "Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.",
+      "metadata": {
+        "reference": "Job 11:19",
+        "verseKey": "kjv:job:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:11:20",
+      "numberLabel": "20",
+      "text": "But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.",
+      "metadata": {
+        "reference": "Job 11:20",
+        "verseKey": "kjv:job:11:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-046",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 46,
+  "title": "Genesis 46",
+  "display_title": "Genesis 46",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 46,
+  "sortOrder": 1046,
+  "verseCount": 34,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:46:1",
+      "numberLabel": "1",
+      "text": "And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.",
+      "metadata": {
+        "reference": "Genesis 46:1",
+        "verseKey": "kjv:genesis:46:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:46:2",
+      "numberLabel": "2",
+      "text": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I.",
+      "metadata": {
+        "reference": "Genesis 46:2",
+        "verseKey": "kjv:genesis:46:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:46:3",
+      "numberLabel": "3",
+      "text": "And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:",
+      "metadata": {
+        "reference": "Genesis 46:3",
+        "verseKey": "kjv:genesis:46:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:46:4",
+      "numberLabel": "4",
+      "text": "I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes.",
+      "metadata": {
+        "reference": "Genesis 46:4",
+        "verseKey": "kjv:genesis:46:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:46:5",
+      "numberLabel": "5",
+      "text": "And Jacob rose up from Beersheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.",
+      "metadata": {
+        "reference": "Genesis 46:5",
+        "verseKey": "kjv:genesis:46:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:46:6",
+      "numberLabel": "6",
+      "text": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:",
+      "metadata": {
+        "reference": "Genesis 46:6",
+        "verseKey": "kjv:genesis:46:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:46:7",
+      "numberLabel": "7",
+      "text": "His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.",
+      "metadata": {
+        "reference": "Genesis 46:7",
+        "verseKey": "kjv:genesis:46:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:46:8",
+      "numberLabel": "8",
+      "text": "And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.",
+      "metadata": {
+        "reference": "Genesis 46:8",
+        "verseKey": "kjv:genesis:46:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:46:9",
+      "numberLabel": "9",
+      "text": "And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.",
+      "metadata": {
+        "reference": "Genesis 46:9",
+        "verseKey": "kjv:genesis:46:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:46:10",
+      "numberLabel": "10",
+      "text": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.",
+      "metadata": {
+        "reference": "Genesis 46:10",
+        "verseKey": "kjv:genesis:46:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:46:11",
+      "numberLabel": "11",
+      "text": "And the sons of Levi; Gershon, Kohath, and Merari.",
+      "metadata": {
+        "reference": "Genesis 46:11",
+        "verseKey": "kjv:genesis:46:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:46:12",
+      "numberLabel": "12",
+      "text": "And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zarah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.",
+      "metadata": {
+        "reference": "Genesis 46:12",
+        "verseKey": "kjv:genesis:46:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:46:13",
+      "numberLabel": "13",
+      "text": "And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.",
+      "metadata": {
+        "reference": "Genesis 46:13",
+        "verseKey": "kjv:genesis:46:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:46:14",
+      "numberLabel": "14",
+      "text": "And the sons of Zebulun; Sered, and Elon, and Jahleel.",
+      "metadata": {
+        "reference": "Genesis 46:14",
+        "verseKey": "kjv:genesis:46:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:46:15",
+      "numberLabel": "15",
+      "text": "These be the sons of Leah, which she bare unto Jacob in Padanaram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three.",
+      "metadata": {
+        "reference": "Genesis 46:15",
+        "verseKey": "kjv:genesis:46:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:46:16",
+      "numberLabel": "16",
+      "text": "And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.",
+      "metadata": {
+        "reference": "Genesis 46:16",
+        "verseKey": "kjv:genesis:46:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:46:17",
+      "numberLabel": "17",
+      "text": "And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.",
+      "metadata": {
+        "reference": "Genesis 46:17",
+        "verseKey": "kjv:genesis:46:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:46:18",
+      "numberLabel": "18",
+      "text": "These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.",
+      "metadata": {
+        "reference": "Genesis 46:18",
+        "verseKey": "kjv:genesis:46:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:46:19",
+      "numberLabel": "19",
+      "text": "The sons of Rachel Jacob’s wife; Joseph, and Benjamin.",
+      "metadata": {
+        "reference": "Genesis 46:19",
+        "verseKey": "kjv:genesis:46:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:46:20",
+      "numberLabel": "20",
+      "text": "And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.",
+      "metadata": {
+        "reference": "Genesis 46:20",
+        "verseKey": "kjv:genesis:46:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:46:21",
+      "numberLabel": "21",
+      "text": "And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.",
+      "metadata": {
+        "reference": "Genesis 46:21",
+        "verseKey": "kjv:genesis:46:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:46:22",
+      "numberLabel": "22",
+      "text": "These are the sons of Rachel, which were born to Jacob: all the souls were fourteen.",
+      "metadata": {
+        "reference": "Genesis 46:22",
+        "verseKey": "kjv:genesis:46:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:46:23",
+      "numberLabel": "23",
+      "text": "And the sons of Dan; Hushim.",
+      "metadata": {
+        "reference": "Genesis 46:23",
+        "verseKey": "kjv:genesis:46:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:46:24",
+      "numberLabel": "24",
+      "text": "And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.",
+      "metadata": {
+        "reference": "Genesis 46:24",
+        "verseKey": "kjv:genesis:46:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:46:25",
+      "numberLabel": "25",
+      "text": "These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.",
+      "metadata": {
+        "reference": "Genesis 46:25",
+        "verseKey": "kjv:genesis:46:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:46:26",
+      "numberLabel": "26",
+      "text": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls were threescore and six;",
+      "metadata": {
+        "reference": "Genesis 46:26",
+        "verseKey": "kjv:genesis:46:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:46:27",
+      "numberLabel": "27",
+      "text": "And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten.",
+      "metadata": {
+        "reference": "Genesis 46:27",
+        "verseKey": "kjv:genesis:46:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:46:28",
+      "numberLabel": "28",
+      "text": "And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.",
+      "metadata": {
+        "reference": "Genesis 46:28",
+        "verseKey": "kjv:genesis:46:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:46:29",
+      "numberLabel": "29",
+      "text": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.",
+      "metadata": {
+        "reference": "Genesis 46:29",
+        "verseKey": "kjv:genesis:46:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:46:30",
+      "numberLabel": "30",
+      "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.",
+      "metadata": {
+        "reference": "Genesis 46:30",
+        "verseKey": "kjv:genesis:46:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:46:31",
+      "numberLabel": "31",
+      "text": "And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which were in the land of Canaan, are come unto me;",
+      "metadata": {
+        "reference": "Genesis 46:31",
+        "verseKey": "kjv:genesis:46:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:46:32",
+      "numberLabel": "32",
+      "text": "And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.",
+      "metadata": {
+        "reference": "Genesis 46:32",
+        "verseKey": "kjv:genesis:46:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:46:33",
+      "numberLabel": "33",
+      "text": "And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?",
+      "metadata": {
+        "reference": "Genesis 46:33",
+        "verseKey": "kjv:genesis:46:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:46:34",
+      "numberLabel": "34",
+      "text": "That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.",
+      "metadata": {
+        "reference": "Genesis 46:34",
+        "verseKey": "kjv:genesis:46:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

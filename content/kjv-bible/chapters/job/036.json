@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-036",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 36,
+  "title": "Job 36",
+  "display_title": "Job 36",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 36,
+  "sortOrder": 18036,
+  "verseCount": 33,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:36:1",
+      "numberLabel": "1",
+      "text": "Elihu also proceeded, and said,",
+      "metadata": {
+        "reference": "Job 36:1",
+        "verseKey": "kjv:job:36:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:36:2",
+      "numberLabel": "2",
+      "text": "Suffer me a little, and I will shew thee that I have yet to speak on God’s behalf.",
+      "metadata": {
+        "reference": "Job 36:2",
+        "verseKey": "kjv:job:36:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:36:3",
+      "numberLabel": "3",
+      "text": "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.",
+      "metadata": {
+        "reference": "Job 36:3",
+        "verseKey": "kjv:job:36:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:36:4",
+      "numberLabel": "4",
+      "text": "For truly my words shall not be false: he that is perfect in knowledge is with thee.",
+      "metadata": {
+        "reference": "Job 36:4",
+        "verseKey": "kjv:job:36:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:36:5",
+      "numberLabel": "5",
+      "text": "Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom.",
+      "metadata": {
+        "reference": "Job 36:5",
+        "verseKey": "kjv:job:36:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:36:6",
+      "numberLabel": "6",
+      "text": "He preserveth not the life of the wicked: but giveth right to the poor.",
+      "metadata": {
+        "reference": "Job 36:6",
+        "verseKey": "kjv:job:36:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:36:7",
+      "numberLabel": "7",
+      "text": "He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted.",
+      "metadata": {
+        "reference": "Job 36:7",
+        "verseKey": "kjv:job:36:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:36:8",
+      "numberLabel": "8",
+      "text": "And if they be bound in fetters, and be holden in cords of affliction;",
+      "metadata": {
+        "reference": "Job 36:8",
+        "verseKey": "kjv:job:36:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:36:9",
+      "numberLabel": "9",
+      "text": "Then he sheweth them their work, and their transgressions that they have exceeded.",
+      "metadata": {
+        "reference": "Job 36:9",
+        "verseKey": "kjv:job:36:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:36:10",
+      "numberLabel": "10",
+      "text": "He openeth also their ear to discipline, and commandeth that they return from iniquity.",
+      "metadata": {
+        "reference": "Job 36:10",
+        "verseKey": "kjv:job:36:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:36:11",
+      "numberLabel": "11",
+      "text": "If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures.",
+      "metadata": {
+        "reference": "Job 36:11",
+        "verseKey": "kjv:job:36:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:36:12",
+      "numberLabel": "12",
+      "text": "But if they obey not, they shall perish by the sword, and they shall die without knowledge.",
+      "metadata": {
+        "reference": "Job 36:12",
+        "verseKey": "kjv:job:36:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:36:13",
+      "numberLabel": "13",
+      "text": "But the hypocrites in heart heap up wrath: they cry not when he bindeth them.",
+      "metadata": {
+        "reference": "Job 36:13",
+        "verseKey": "kjv:job:36:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:36:14",
+      "numberLabel": "14",
+      "text": "They die in youth, and their life is among the unclean.",
+      "metadata": {
+        "reference": "Job 36:14",
+        "verseKey": "kjv:job:36:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:36:15",
+      "numberLabel": "15",
+      "text": "He delivereth the poor in his affliction, and openeth their ears in oppression.",
+      "metadata": {
+        "reference": "Job 36:15",
+        "verseKey": "kjv:job:36:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:36:16",
+      "numberLabel": "16",
+      "text": "Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness.",
+      "metadata": {
+        "reference": "Job 36:16",
+        "verseKey": "kjv:job:36:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:36:17",
+      "numberLabel": "17",
+      "text": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee.",
+      "metadata": {
+        "reference": "Job 36:17",
+        "verseKey": "kjv:job:36:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:36:18",
+      "numberLabel": "18",
+      "text": "Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee.",
+      "metadata": {
+        "reference": "Job 36:18",
+        "verseKey": "kjv:job:36:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:36:19",
+      "numberLabel": "19",
+      "text": "Will he esteem thy riches? no, not gold, nor all the forces of strength.",
+      "metadata": {
+        "reference": "Job 36:19",
+        "verseKey": "kjv:job:36:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:36:20",
+      "numberLabel": "20",
+      "text": "Desire not the night, when people are cut off in their place.",
+      "metadata": {
+        "reference": "Job 36:20",
+        "verseKey": "kjv:job:36:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:36:21",
+      "numberLabel": "21",
+      "text": "Take heed, regard not iniquity: for this hast thou chosen rather than affliction.",
+      "metadata": {
+        "reference": "Job 36:21",
+        "verseKey": "kjv:job:36:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:36:22",
+      "numberLabel": "22",
+      "text": "Behold, God exalteth by his power: who teacheth like him?",
+      "metadata": {
+        "reference": "Job 36:22",
+        "verseKey": "kjv:job:36:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:36:23",
+      "numberLabel": "23",
+      "text": "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?",
+      "metadata": {
+        "reference": "Job 36:23",
+        "verseKey": "kjv:job:36:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:36:24",
+      "numberLabel": "24",
+      "text": "Remember that thou magnify his work, which men behold.",
+      "metadata": {
+        "reference": "Job 36:24",
+        "verseKey": "kjv:job:36:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:36:25",
+      "numberLabel": "25",
+      "text": "Every man may see it; man may behold it afar off.",
+      "metadata": {
+        "reference": "Job 36:25",
+        "verseKey": "kjv:job:36:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:36:26",
+      "numberLabel": "26",
+      "text": "Behold, God is great, and we know him not, neither can the number of his years be searched out.",
+      "metadata": {
+        "reference": "Job 36:26",
+        "verseKey": "kjv:job:36:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:36:27",
+      "numberLabel": "27",
+      "text": "For he maketh small the drops of water: they pour down rain according to the vapour thereof:",
+      "metadata": {
+        "reference": "Job 36:27",
+        "verseKey": "kjv:job:36:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:36:28",
+      "numberLabel": "28",
+      "text": "Which the clouds do drop and distil upon man abundantly.",
+      "metadata": {
+        "reference": "Job 36:28",
+        "verseKey": "kjv:job:36:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:36:29",
+      "numberLabel": "29",
+      "text": "Also can any understand the spreadings of the clouds, or the noise of his tabernacle?",
+      "metadata": {
+        "reference": "Job 36:29",
+        "verseKey": "kjv:job:36:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:36:30",
+      "numberLabel": "30",
+      "text": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea.",
+      "metadata": {
+        "reference": "Job 36:30",
+        "verseKey": "kjv:job:36:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:job:36:31",
+      "numberLabel": "31",
+      "text": "For by them judgeth he the people; he giveth meat in abundance.",
+      "metadata": {
+        "reference": "Job 36:31",
+        "verseKey": "kjv:job:36:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:job:36:32",
+      "numberLabel": "32",
+      "text": "With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt.",
+      "metadata": {
+        "reference": "Job 36:32",
+        "verseKey": "kjv:job:36:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:job:36:33",
+      "numberLabel": "33",
+      "text": "The noise thereof sheweth concerning it, the cattle also concerning the vapour.",
+      "metadata": {
+        "reference": "Job 36:33",
+        "verseKey": "kjv:job:36:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

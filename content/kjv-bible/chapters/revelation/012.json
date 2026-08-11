@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Revelation 12",
+  "display_title": "Revelation 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 12,
+  "sortOrder": 66012,
+  "verseCount": 17,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:12:1",
+      "numberLabel": "1",
+      "text": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:",
+      "metadata": {
+        "reference": "Revelation 12:1",
+        "verseKey": "kjv:revelation:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:12:2",
+      "numberLabel": "2",
+      "text": "And she being with child cried, travailing in birth, and pained to be delivered.",
+      "metadata": {
+        "reference": "Revelation 12:2",
+        "verseKey": "kjv:revelation:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:12:3",
+      "numberLabel": "3",
+      "text": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.",
+      "metadata": {
+        "reference": "Revelation 12:3",
+        "verseKey": "kjv:revelation:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:12:4",
+      "numberLabel": "4",
+      "text": "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.",
+      "metadata": {
+        "reference": "Revelation 12:4",
+        "verseKey": "kjv:revelation:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:12:5",
+      "numberLabel": "5",
+      "text": "And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne.",
+      "metadata": {
+        "reference": "Revelation 12:5",
+        "verseKey": "kjv:revelation:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:12:6",
+      "numberLabel": "6",
+      "text": "And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days.",
+      "metadata": {
+        "reference": "Revelation 12:6",
+        "verseKey": "kjv:revelation:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:12:7",
+      "numberLabel": "7",
+      "text": "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,",
+      "metadata": {
+        "reference": "Revelation 12:7",
+        "verseKey": "kjv:revelation:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:12:8",
+      "numberLabel": "8",
+      "text": "And prevailed not; neither was their place found any more in heaven.",
+      "metadata": {
+        "reference": "Revelation 12:8",
+        "verseKey": "kjv:revelation:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:12:9",
+      "numberLabel": "9",
+      "text": "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.",
+      "metadata": {
+        "reference": "Revelation 12:9",
+        "verseKey": "kjv:revelation:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:12:10",
+      "numberLabel": "10",
+      "text": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.",
+      "metadata": {
+        "reference": "Revelation 12:10",
+        "verseKey": "kjv:revelation:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:12:11",
+      "numberLabel": "11",
+      "text": "And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.",
+      "metadata": {
+        "reference": "Revelation 12:11",
+        "verseKey": "kjv:revelation:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:revelation:12:12",
+      "numberLabel": "12",
+      "text": "Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.",
+      "metadata": {
+        "reference": "Revelation 12:12",
+        "verseKey": "kjv:revelation:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:revelation:12:13",
+      "numberLabel": "13",
+      "text": "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child.",
+      "metadata": {
+        "reference": "Revelation 12:13",
+        "verseKey": "kjv:revelation:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:revelation:12:14",
+      "numberLabel": "14",
+      "text": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.",
+      "metadata": {
+        "reference": "Revelation 12:14",
+        "verseKey": "kjv:revelation:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:revelation:12:15",
+      "numberLabel": "15",
+      "text": "And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.",
+      "metadata": {
+        "reference": "Revelation 12:15",
+        "verseKey": "kjv:revelation:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:revelation:12:16",
+      "numberLabel": "16",
+      "text": "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.",
+      "metadata": {
+        "reference": "Revelation 12:16",
+        "verseKey": "kjv:revelation:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:revelation:12:17",
+      "numberLabel": "17",
+      "text": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.",
+      "metadata": {
+        "reference": "Revelation 12:17",
+        "verseKey": "kjv:revelation:12:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

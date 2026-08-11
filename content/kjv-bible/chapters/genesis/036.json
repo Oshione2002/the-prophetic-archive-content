@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-036",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 36,
+  "title": "Genesis 36",
+  "display_title": "Genesis 36",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 36,
+  "sortOrder": 1036,
+  "verseCount": 43,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:36:1",
+      "numberLabel": "1",
+      "text": "Now these are the generations of Esau, who is Edom.",
+      "metadata": {
+        "reference": "Genesis 36:1",
+        "verseKey": "kjv:genesis:36:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:36:2",
+      "numberLabel": "2",
+      "text": "Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;",
+      "metadata": {
+        "reference": "Genesis 36:2",
+        "verseKey": "kjv:genesis:36:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:36:3",
+      "numberLabel": "3",
+      "text": "And Bashemath Ishmael’s daughter, sister of Nebajoth.",
+      "metadata": {
+        "reference": "Genesis 36:3",
+        "verseKey": "kjv:genesis:36:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:36:4",
+      "numberLabel": "4",
+      "text": "And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;",
+      "metadata": {
+        "reference": "Genesis 36:4",
+        "verseKey": "kjv:genesis:36:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:36:5",
+      "numberLabel": "5",
+      "text": "And Aholibamah bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan.",
+      "metadata": {
+        "reference": "Genesis 36:5",
+        "verseKey": "kjv:genesis:36:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:36:6",
+      "numberLabel": "6",
+      "text": "And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.",
+      "metadata": {
+        "reference": "Genesis 36:6",
+        "verseKey": "kjv:genesis:36:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:36:7",
+      "numberLabel": "7",
+      "text": "For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.",
+      "metadata": {
+        "reference": "Genesis 36:7",
+        "verseKey": "kjv:genesis:36:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:36:8",
+      "numberLabel": "8",
+      "text": "Thus dwelt Esau in mount Seir: Esau is Edom.",
+      "metadata": {
+        "reference": "Genesis 36:8",
+        "verseKey": "kjv:genesis:36:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:36:9",
+      "numberLabel": "9",
+      "text": "And these are the generations of Esau the father of the Edomites in mount Seir:",
+      "metadata": {
+        "reference": "Genesis 36:9",
+        "verseKey": "kjv:genesis:36:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:36:10",
+      "numberLabel": "10",
+      "text": "These are the names of Esau’s sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.",
+      "metadata": {
+        "reference": "Genesis 36:10",
+        "verseKey": "kjv:genesis:36:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:36:11",
+      "numberLabel": "11",
+      "text": "And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.",
+      "metadata": {
+        "reference": "Genesis 36:11",
+        "verseKey": "kjv:genesis:36:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:36:12",
+      "numberLabel": "12",
+      "text": "And Timna was concubine to Eliphaz Esau’s son; and she bare to Eliphaz Amalek: these were the sons of Adah Esau’s wife.",
+      "metadata": {
+        "reference": "Genesis 36:12",
+        "verseKey": "kjv:genesis:36:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:36:13",
+      "numberLabel": "13",
+      "text": "And these are the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau’s wife.",
+      "metadata": {
+        "reference": "Genesis 36:13",
+        "verseKey": "kjv:genesis:36:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:36:14",
+      "numberLabel": "14",
+      "text": "And these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau’s wife: and she bare to Esau Jeush, and Jaalam, and Korah.",
+      "metadata": {
+        "reference": "Genesis 36:14",
+        "verseKey": "kjv:genesis:36:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:36:15",
+      "numberLabel": "15",
+      "text": "These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,",
+      "metadata": {
+        "reference": "Genesis 36:15",
+        "verseKey": "kjv:genesis:36:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:36:16",
+      "numberLabel": "16",
+      "text": "Duke Korah, duke Gatam, and duke Amalek: these are the dukes that came of Eliphaz in the land of Edom; these were the sons of Adah.",
+      "metadata": {
+        "reference": "Genesis 36:16",
+        "verseKey": "kjv:genesis:36:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:36:17",
+      "numberLabel": "17",
+      "text": "And these are the sons of Reuel Esau’s son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these are the dukes that came of Reuel in the land of Edom; these are the sons of Bashemath Esau’s wife.",
+      "metadata": {
+        "reference": "Genesis 36:17",
+        "verseKey": "kjv:genesis:36:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:36:18",
+      "numberLabel": "18",
+      "text": "And these are the sons of Aholibamah Esau’s wife; duke Jeush, duke Jaalam, duke Korah: these were the dukes that came of Aholibamah the daughter of Anah, Esau’s wife.",
+      "metadata": {
+        "reference": "Genesis 36:18",
+        "verseKey": "kjv:genesis:36:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:36:19",
+      "numberLabel": "19",
+      "text": "These are the sons of Esau, who is Edom, and these are their dukes.",
+      "metadata": {
+        "reference": "Genesis 36:19",
+        "verseKey": "kjv:genesis:36:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:36:20",
+      "numberLabel": "20",
+      "text": "These are the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,",
+      "metadata": {
+        "reference": "Genesis 36:20",
+        "verseKey": "kjv:genesis:36:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:36:21",
+      "numberLabel": "21",
+      "text": "And Dishon, and Ezer, and Dishan: these are the dukes of the Horites, the children of Seir in the land of Edom.",
+      "metadata": {
+        "reference": "Genesis 36:21",
+        "verseKey": "kjv:genesis:36:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:36:22",
+      "numberLabel": "22",
+      "text": "And the children of Lotan were Hori and Hemam; and Lotan’s sister was Timna.",
+      "metadata": {
+        "reference": "Genesis 36:22",
+        "verseKey": "kjv:genesis:36:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:36:23",
+      "numberLabel": "23",
+      "text": "And the children of Shobal were these; Alvan, and Manahath, and Ebal, Shepho, and Onam.",
+      "metadata": {
+        "reference": "Genesis 36:23",
+        "verseKey": "kjv:genesis:36:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:36:24",
+      "numberLabel": "24",
+      "text": "And these are the children of Zibeon; both Ajah, and Anah: this was that Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father.",
+      "metadata": {
+        "reference": "Genesis 36:24",
+        "verseKey": "kjv:genesis:36:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:36:25",
+      "numberLabel": "25",
+      "text": "And the children of Anah were these; Dishon, and Aholibamah the daughter of Anah.",
+      "metadata": {
+        "reference": "Genesis 36:25",
+        "verseKey": "kjv:genesis:36:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:36:26",
+      "numberLabel": "26",
+      "text": "And these are the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran.",
+      "metadata": {
+        "reference": "Genesis 36:26",
+        "verseKey": "kjv:genesis:36:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:36:27",
+      "numberLabel": "27",
+      "text": "The children of Ezer are these; Bilhan, and Zaavan, and Akan.",
+      "metadata": {
+        "reference": "Genesis 36:27",
+        "verseKey": "kjv:genesis:36:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:36:28",
+      "numberLabel": "28",
+      "text": "The children of Dishan are these; Uz, and Aran.",
+      "metadata": {
+        "reference": "Genesis 36:28",
+        "verseKey": "kjv:genesis:36:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:36:29",
+      "numberLabel": "29",
+      "text": "These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah,",
+      "metadata": {
+        "reference": "Genesis 36:29",
+        "verseKey": "kjv:genesis:36:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:36:30",
+      "numberLabel": "30",
+      "text": "Duke Dishon, duke Ezer, duke Dishan: these are the dukes that came of Hori, among their dukes in the land of Seir.",
+      "metadata": {
+        "reference": "Genesis 36:30",
+        "verseKey": "kjv:genesis:36:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:36:31",
+      "numberLabel": "31",
+      "text": "And these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.",
+      "metadata": {
+        "reference": "Genesis 36:31",
+        "verseKey": "kjv:genesis:36:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:36:32",
+      "numberLabel": "32",
+      "text": "And Bela the son of Beor reigned in Edom: and the name of his city was Dinhabah.",
+      "metadata": {
+        "reference": "Genesis 36:32",
+        "verseKey": "kjv:genesis:36:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:36:33",
+      "numberLabel": "33",
+      "text": "And Bela died, and Jobab the son of Zerah of Bozrah reigned in his stead.",
+      "metadata": {
+        "reference": "Genesis 36:33",
+        "verseKey": "kjv:genesis:36:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:36:34",
+      "numberLabel": "34",
+      "text": "And Jobab died, and Husham of the land of Temani reigned in his stead.",
+      "metadata": {
+        "reference": "Genesis 36:34",
+        "verseKey": "kjv:genesis:36:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:genesis:36:35",
+      "numberLabel": "35",
+      "text": "And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.",
+      "metadata": {
+        "reference": "Genesis 36:35",
+        "verseKey": "kjv:genesis:36:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:genesis:36:36",
+      "numberLabel": "36",
+      "text": "And Hadad died, and Samlah of Masrekah reigned in his stead.",
+      "metadata": {
+        "reference": "Genesis 36:36",
+        "verseKey": "kjv:genesis:36:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:genesis:36:37",
+      "numberLabel": "37",
+      "text": "And Samlah died, and Saul of Rehoboth by the river reigned in his stead.",
+      "metadata": {
+        "reference": "Genesis 36:37",
+        "verseKey": "kjv:genesis:36:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:genesis:36:38",
+      "numberLabel": "38",
+      "text": "And Saul died, and Baalhanan the son of Achbor reigned in his stead.",
+      "metadata": {
+        "reference": "Genesis 36:38",
+        "verseKey": "kjv:genesis:36:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:genesis:36:39",
+      "numberLabel": "39",
+      "text": "And Baalhanan the son of Achbor died, and Hadar reigned in his stead: and the name of his city was Pau; and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.",
+      "metadata": {
+        "reference": "Genesis 36:39",
+        "verseKey": "kjv:genesis:36:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:genesis:36:40",
+      "numberLabel": "40",
+      "text": "And these are the names of the dukes that came of Esau, according to their families, after their places, by their names; duke Timnah, duke Alvah, duke Jetheth,",
+      "metadata": {
+        "reference": "Genesis 36:40",
+        "verseKey": "kjv:genesis:36:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:genesis:36:41",
+      "numberLabel": "41",
+      "text": "Duke Aholibamah, duke Elah, duke Pinon,",
+      "metadata": {
+        "reference": "Genesis 36:41",
+        "verseKey": "kjv:genesis:36:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:genesis:36:42",
+      "numberLabel": "42",
+      "text": "Duke Kenaz, duke Teman, duke Mibzar,",
+      "metadata": {
+        "reference": "Genesis 36:42",
+        "verseKey": "kjv:genesis:36:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:genesis:36:43",
+      "numberLabel": "43",
+      "text": "Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites.",
+      "metadata": {
+        "reference": "Genesis 36:43",
+        "verseKey": "kjv:genesis:36:43"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

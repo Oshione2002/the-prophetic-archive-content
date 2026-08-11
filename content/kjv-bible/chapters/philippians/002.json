@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-philippians-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Philippians 2",
+  "display_title": "Philippians 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "philippians",
+  "book": "Philippians",
+  "bookName": "Philippians",
+  "bookOrder": 50,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 50002,
+  "verseCount": 30,
+  "aliases": [
+    "Phil",
+    "Php"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:philippians:2:1",
+      "numberLabel": "1",
+      "text": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,",
+      "metadata": {
+        "reference": "Philippians 2:1",
+        "verseKey": "kjv:philippians:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:philippians:2:2",
+      "numberLabel": "2",
+      "text": "Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.",
+      "metadata": {
+        "reference": "Philippians 2:2",
+        "verseKey": "kjv:philippians:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:philippians:2:3",
+      "numberLabel": "3",
+      "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+      "metadata": {
+        "reference": "Philippians 2:3",
+        "verseKey": "kjv:philippians:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:philippians:2:4",
+      "numberLabel": "4",
+      "text": "Look not every man on his own things, but every man also on the things of others.",
+      "metadata": {
+        "reference": "Philippians 2:4",
+        "verseKey": "kjv:philippians:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:philippians:2:5",
+      "numberLabel": "5",
+      "text": "Let this mind be in you, which was also in Christ Jesus:",
+      "metadata": {
+        "reference": "Philippians 2:5",
+        "verseKey": "kjv:philippians:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:philippians:2:6",
+      "numberLabel": "6",
+      "text": "Who, being in the form of God, thought it not robbery to be equal with God:",
+      "metadata": {
+        "reference": "Philippians 2:6",
+        "verseKey": "kjv:philippians:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:philippians:2:7",
+      "numberLabel": "7",
+      "text": "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:",
+      "metadata": {
+        "reference": "Philippians 2:7",
+        "verseKey": "kjv:philippians:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:philippians:2:8",
+      "numberLabel": "8",
+      "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.",
+      "metadata": {
+        "reference": "Philippians 2:8",
+        "verseKey": "kjv:philippians:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:philippians:2:9",
+      "numberLabel": "9",
+      "text": "Wherefore God also hath highly exalted him, and given him a name which is above every name:",
+      "metadata": {
+        "reference": "Philippians 2:9",
+        "verseKey": "kjv:philippians:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:philippians:2:10",
+      "numberLabel": "10",
+      "text": "That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;",
+      "metadata": {
+        "reference": "Philippians 2:10",
+        "verseKey": "kjv:philippians:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:philippians:2:11",
+      "numberLabel": "11",
+      "text": "And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+      "metadata": {
+        "reference": "Philippians 2:11",
+        "verseKey": "kjv:philippians:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:philippians:2:12",
+      "numberLabel": "12",
+      "text": "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.",
+      "metadata": {
+        "reference": "Philippians 2:12",
+        "verseKey": "kjv:philippians:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:philippians:2:13",
+      "numberLabel": "13",
+      "text": "For it is God which worketh in you both to will and to do of his good pleasure.",
+      "metadata": {
+        "reference": "Philippians 2:13",
+        "verseKey": "kjv:philippians:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:philippians:2:14",
+      "numberLabel": "14",
+      "text": "Do all things without murmurings and disputings:",
+      "metadata": {
+        "reference": "Philippians 2:14",
+        "verseKey": "kjv:philippians:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:philippians:2:15",
+      "numberLabel": "15",
+      "text": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;",
+      "metadata": {
+        "reference": "Philippians 2:15",
+        "verseKey": "kjv:philippians:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:philippians:2:16",
+      "numberLabel": "16",
+      "text": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.",
+      "metadata": {
+        "reference": "Philippians 2:16",
+        "verseKey": "kjv:philippians:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:philippians:2:17",
+      "numberLabel": "17",
+      "text": "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.",
+      "metadata": {
+        "reference": "Philippians 2:17",
+        "verseKey": "kjv:philippians:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:philippians:2:18",
+      "numberLabel": "18",
+      "text": "For the same cause also do ye joy, and rejoice with me.",
+      "metadata": {
+        "reference": "Philippians 2:18",
+        "verseKey": "kjv:philippians:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:philippians:2:19",
+      "numberLabel": "19",
+      "text": "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.",
+      "metadata": {
+        "reference": "Philippians 2:19",
+        "verseKey": "kjv:philippians:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:philippians:2:20",
+      "numberLabel": "20",
+      "text": "For I have no man likeminded, who will naturally care for your state.",
+      "metadata": {
+        "reference": "Philippians 2:20",
+        "verseKey": "kjv:philippians:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:philippians:2:21",
+      "numberLabel": "21",
+      "text": "For all seek their own, not the things which are Jesus Christ’s.",
+      "metadata": {
+        "reference": "Philippians 2:21",
+        "verseKey": "kjv:philippians:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:philippians:2:22",
+      "numberLabel": "22",
+      "text": "But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.",
+      "metadata": {
+        "reference": "Philippians 2:22",
+        "verseKey": "kjv:philippians:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:philippians:2:23",
+      "numberLabel": "23",
+      "text": "Him therefore I hope to send presently, so soon as I shall see how it will go with me.",
+      "metadata": {
+        "reference": "Philippians 2:23",
+        "verseKey": "kjv:philippians:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:philippians:2:24",
+      "numberLabel": "24",
+      "text": "But I trust in the Lord that I also myself shall come shortly.",
+      "metadata": {
+        "reference": "Philippians 2:24",
+        "verseKey": "kjv:philippians:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:philippians:2:25",
+      "numberLabel": "25",
+      "text": "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.",
+      "metadata": {
+        "reference": "Philippians 2:25",
+        "verseKey": "kjv:philippians:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:philippians:2:26",
+      "numberLabel": "26",
+      "text": "For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.",
+      "metadata": {
+        "reference": "Philippians 2:26",
+        "verseKey": "kjv:philippians:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:philippians:2:27",
+      "numberLabel": "27",
+      "text": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.",
+      "metadata": {
+        "reference": "Philippians 2:27",
+        "verseKey": "kjv:philippians:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:philippians:2:28",
+      "numberLabel": "28",
+      "text": "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.",
+      "metadata": {
+        "reference": "Philippians 2:28",
+        "verseKey": "kjv:philippians:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:philippians:2:29",
+      "numberLabel": "29",
+      "text": "Receive him therefore in the Lord with all gladness; and hold such in reputation:",
+      "metadata": {
+        "reference": "Philippians 2:29",
+        "verseKey": "kjv:philippians:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:philippians:2:30",
+      "numberLabel": "30",
+      "text": "Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.",
+      "metadata": {
+        "reference": "Philippians 2:30",
+        "verseKey": "kjv:philippians:2:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Philippians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Philippians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

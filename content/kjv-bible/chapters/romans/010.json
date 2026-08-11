@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Romans 10",
+  "display_title": "Romans 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 10,
+  "sortOrder": 45010,
+  "verseCount": 21,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:10:1",
+      "numberLabel": "1",
+      "text": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.",
+      "metadata": {
+        "reference": "Romans 10:1",
+        "verseKey": "kjv:romans:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:10:2",
+      "numberLabel": "2",
+      "text": "For I bear them record that they have a zeal of God, but not according to knowledge.",
+      "metadata": {
+        "reference": "Romans 10:2",
+        "verseKey": "kjv:romans:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:10:3",
+      "numberLabel": "3",
+      "text": "For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.",
+      "metadata": {
+        "reference": "Romans 10:3",
+        "verseKey": "kjv:romans:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:10:4",
+      "numberLabel": "4",
+      "text": "For Christ is the end of the law for righteousness to every one that believeth.",
+      "metadata": {
+        "reference": "Romans 10:4",
+        "verseKey": "kjv:romans:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:10:5",
+      "numberLabel": "5",
+      "text": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.",
+      "metadata": {
+        "reference": "Romans 10:5",
+        "verseKey": "kjv:romans:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:10:6",
+      "numberLabel": "6",
+      "text": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)",
+      "metadata": {
+        "reference": "Romans 10:6",
+        "verseKey": "kjv:romans:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:10:7",
+      "numberLabel": "7",
+      "text": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)",
+      "metadata": {
+        "reference": "Romans 10:7",
+        "verseKey": "kjv:romans:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:10:8",
+      "numberLabel": "8",
+      "text": "But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;",
+      "metadata": {
+        "reference": "Romans 10:8",
+        "verseKey": "kjv:romans:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:10:9",
+      "numberLabel": "9",
+      "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
+      "metadata": {
+        "reference": "Romans 10:9",
+        "verseKey": "kjv:romans:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:10:10",
+      "numberLabel": "10",
+      "text": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.",
+      "metadata": {
+        "reference": "Romans 10:10",
+        "verseKey": "kjv:romans:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:10:11",
+      "numberLabel": "11",
+      "text": "For the scripture saith, Whosoever believeth on him shall not be ashamed.",
+      "metadata": {
+        "reference": "Romans 10:11",
+        "verseKey": "kjv:romans:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:10:12",
+      "numberLabel": "12",
+      "text": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.",
+      "metadata": {
+        "reference": "Romans 10:12",
+        "verseKey": "kjv:romans:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:10:13",
+      "numberLabel": "13",
+      "text": "For whosoever shall call upon the name of the Lord shall be saved.",
+      "metadata": {
+        "reference": "Romans 10:13",
+        "verseKey": "kjv:romans:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:10:14",
+      "numberLabel": "14",
+      "text": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?",
+      "metadata": {
+        "reference": "Romans 10:14",
+        "verseKey": "kjv:romans:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:romans:10:15",
+      "numberLabel": "15",
+      "text": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!",
+      "metadata": {
+        "reference": "Romans 10:15",
+        "verseKey": "kjv:romans:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:romans:10:16",
+      "numberLabel": "16",
+      "text": "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?",
+      "metadata": {
+        "reference": "Romans 10:16",
+        "verseKey": "kjv:romans:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:romans:10:17",
+      "numberLabel": "17",
+      "text": "So then faith cometh by hearing, and hearing by the word of God.",
+      "metadata": {
+        "reference": "Romans 10:17",
+        "verseKey": "kjv:romans:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:romans:10:18",
+      "numberLabel": "18",
+      "text": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.",
+      "metadata": {
+        "reference": "Romans 10:18",
+        "verseKey": "kjv:romans:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:romans:10:19",
+      "numberLabel": "19",
+      "text": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.",
+      "metadata": {
+        "reference": "Romans 10:19",
+        "verseKey": "kjv:romans:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:romans:10:20",
+      "numberLabel": "20",
+      "text": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.",
+      "metadata": {
+        "reference": "Romans 10:20",
+        "verseKey": "kjv:romans:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:romans:10:21",
+      "numberLabel": "21",
+      "text": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.",
+      "metadata": {
+        "reference": "Romans 10:21",
+        "verseKey": "kjv:romans:10:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

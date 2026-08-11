@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Jeremiah 25",
+  "display_title": "Jeremiah 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 24025,
+  "verseCount": 38,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:25:1",
+      "numberLabel": "1",
+      "text": "The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that was the first year of Nebuchadrezzar king of Babylon;",
+      "metadata": {
+        "reference": "Jeremiah 25:1",
+        "verseKey": "kjv:jeremiah:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:25:2",
+      "numberLabel": "2",
+      "text": "The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,",
+      "metadata": {
+        "reference": "Jeremiah 25:2",
+        "verseKey": "kjv:jeremiah:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:25:3",
+      "numberLabel": "3",
+      "text": "From the thirteenth year of Josiah the son of Amon king of Judah, even unto this day, that is the three and twentieth year, the word of the LORD hath come unto me, and I have spoken unto you, rising early and speaking; but ye have not hearkened.",
+      "metadata": {
+        "reference": "Jeremiah 25:3",
+        "verseKey": "kjv:jeremiah:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:25:4",
+      "numberLabel": "4",
+      "text": "And the LORD hath sent unto you all his servants the prophets, rising early and sending them; but ye have not hearkened, nor inclined your ear to hear.",
+      "metadata": {
+        "reference": "Jeremiah 25:4",
+        "verseKey": "kjv:jeremiah:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:25:5",
+      "numberLabel": "5",
+      "text": "They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the LORD hath given unto you and to your fathers for ever and ever:",
+      "metadata": {
+        "reference": "Jeremiah 25:5",
+        "verseKey": "kjv:jeremiah:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:25:6",
+      "numberLabel": "6",
+      "text": "And go not after other gods to serve them, and to worship them, and provoke me not to anger with the works of your hands; and I will do you no hurt.",
+      "metadata": {
+        "reference": "Jeremiah 25:6",
+        "verseKey": "kjv:jeremiah:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:25:7",
+      "numberLabel": "7",
+      "text": "Yet ye have not hearkened unto me, saith the LORD; that ye might provoke me to anger with the works of your hands to your own hurt.",
+      "metadata": {
+        "reference": "Jeremiah 25:7",
+        "verseKey": "kjv:jeremiah:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:25:8",
+      "numberLabel": "8",
+      "text": "Therefore thus saith the LORD of hosts; Because ye have not heard my words,",
+      "metadata": {
+        "reference": "Jeremiah 25:8",
+        "verseKey": "kjv:jeremiah:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:25:9",
+      "numberLabel": "9",
+      "text": "Behold, I will send and take all the families of the north, saith the LORD, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land, and against the inhabitants thereof, and against all these nations round about, and will utterly destroy them, and make them an astonishment, and an hissing, and perpetual desolations.",
+      "metadata": {
+        "reference": "Jeremiah 25:9",
+        "verseKey": "kjv:jeremiah:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:25:10",
+      "numberLabel": "10",
+      "text": "Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.",
+      "metadata": {
+        "reference": "Jeremiah 25:10",
+        "verseKey": "kjv:jeremiah:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:25:11",
+      "numberLabel": "11",
+      "text": "And this whole land shall be a desolation, and an astonishment; and these nations shall serve the king of Babylon seventy years.",
+      "metadata": {
+        "reference": "Jeremiah 25:11",
+        "verseKey": "kjv:jeremiah:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:25:12",
+      "numberLabel": "12",
+      "text": "And it shall come to pass, when seventy years are accomplished, that I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.",
+      "metadata": {
+        "reference": "Jeremiah 25:12",
+        "verseKey": "kjv:jeremiah:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:25:13",
+      "numberLabel": "13",
+      "text": "And I will bring upon that land all my words which I have pronounced against it, even all that is written in this book, which Jeremiah hath prophesied against all the nations.",
+      "metadata": {
+        "reference": "Jeremiah 25:13",
+        "verseKey": "kjv:jeremiah:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:25:14",
+      "numberLabel": "14",
+      "text": "For many nations and great kings shall serve themselves of them also: and I will recompense them according to their deeds, and according to the works of their own hands.",
+      "metadata": {
+        "reference": "Jeremiah 25:14",
+        "verseKey": "kjv:jeremiah:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:25:15",
+      "numberLabel": "15",
+      "text": "For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at my hand, and cause all the nations, to whom I send thee, to drink it.",
+      "metadata": {
+        "reference": "Jeremiah 25:15",
+        "verseKey": "kjv:jeremiah:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:25:16",
+      "numberLabel": "16",
+      "text": "And they shall drink, and be moved, and be mad, because of the sword that I will send among them.",
+      "metadata": {
+        "reference": "Jeremiah 25:16",
+        "verseKey": "kjv:jeremiah:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:25:17",
+      "numberLabel": "17",
+      "text": "Then took I the cup at the LORD’s hand, and made all the nations to drink, unto whom the LORD had sent me:",
+      "metadata": {
+        "reference": "Jeremiah 25:17",
+        "verseKey": "kjv:jeremiah:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:25:18",
+      "numberLabel": "18",
+      "text": "To wit, Jerusalem, and the cities of Judah, and the kings thereof, and the princes thereof, to make them a desolation, an astonishment, an hissing, and a curse; as it is this day;",
+      "metadata": {
+        "reference": "Jeremiah 25:18",
+        "verseKey": "kjv:jeremiah:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:25:19",
+      "numberLabel": "19",
+      "text": "Pharaoh king of Egypt, and his servants, and his princes, and all his people;",
+      "metadata": {
+        "reference": "Jeremiah 25:19",
+        "verseKey": "kjv:jeremiah:25:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:25:20",
+      "numberLabel": "20",
+      "text": "And all the mingled people, and all the kings of the land of Uz, and all the kings of the land of the Philistines, and Ashkelon, and Azzah, and Ekron, and the remnant of Ashdod,",
+      "metadata": {
+        "reference": "Jeremiah 25:20",
+        "verseKey": "kjv:jeremiah:25:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:25:21",
+      "numberLabel": "21",
+      "text": "Edom, and Moab, and the children of Ammon,",
+      "metadata": {
+        "reference": "Jeremiah 25:21",
+        "verseKey": "kjv:jeremiah:25:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:25:22",
+      "numberLabel": "22",
+      "text": "And all the kings of Tyrus, and all the kings of Zidon, and the kings of the isles which are beyond the sea,",
+      "metadata": {
+        "reference": "Jeremiah 25:22",
+        "verseKey": "kjv:jeremiah:25:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:jeremiah:25:23",
+      "numberLabel": "23",
+      "text": "Dedan, and Tema, and Buz, and all that are in the utmost corners,",
+      "metadata": {
+        "reference": "Jeremiah 25:23",
+        "verseKey": "kjv:jeremiah:25:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:jeremiah:25:24",
+      "numberLabel": "24",
+      "text": "And all the kings of Arabia, and all the kings of the mingled people that dwell in the desert,",
+      "metadata": {
+        "reference": "Jeremiah 25:24",
+        "verseKey": "kjv:jeremiah:25:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:jeremiah:25:25",
+      "numberLabel": "25",
+      "text": "And all the kings of Zimri, and all the kings of Elam, and all the kings of the Medes,",
+      "metadata": {
+        "reference": "Jeremiah 25:25",
+        "verseKey": "kjv:jeremiah:25:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:jeremiah:25:26",
+      "numberLabel": "26",
+      "text": "And all the kings of the north, far and near, one with another, and all the kingdoms of the world, which are upon the face of the earth: and the king of Sheshach shall drink after them.",
+      "metadata": {
+        "reference": "Jeremiah 25:26",
+        "verseKey": "kjv:jeremiah:25:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:jeremiah:25:27",
+      "numberLabel": "27",
+      "text": "Therefore thou shalt say unto them, Thus saith the LORD of hosts, the God of Israel; Drink ye, and be drunken, and spue, and fall, and rise no more, because of the sword which I will send among you.",
+      "metadata": {
+        "reference": "Jeremiah 25:27",
+        "verseKey": "kjv:jeremiah:25:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:jeremiah:25:28",
+      "numberLabel": "28",
+      "text": "And it shall be, if they refuse to take the cup at thine hand to drink, then shalt thou say unto them, Thus saith the LORD of hosts; Ye shall certainly drink.",
+      "metadata": {
+        "reference": "Jeremiah 25:28",
+        "verseKey": "kjv:jeremiah:25:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:jeremiah:25:29",
+      "numberLabel": "29",
+      "text": "For, lo, I begin to bring evil on the city which is called by my name, and should ye be utterly unpunished? Ye shall not be unpunished: for I will call for a sword upon all the inhabitants of the earth, saith the LORD of hosts.",
+      "metadata": {
+        "reference": "Jeremiah 25:29",
+        "verseKey": "kjv:jeremiah:25:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:jeremiah:25:30",
+      "numberLabel": "30",
+      "text": "Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread the grapes, against all the inhabitants of the earth.",
+      "metadata": {
+        "reference": "Jeremiah 25:30",
+        "verseKey": "kjv:jeremiah:25:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:jeremiah:25:31",
+      "numberLabel": "31",
+      "text": "A noise shall come even to the ends of the earth; for the LORD hath a controversy with the nations, he will plead with all flesh; he will give them that are wicked to the sword, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 25:31",
+        "verseKey": "kjv:jeremiah:25:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:jeremiah:25:32",
+      "numberLabel": "32",
+      "text": "Thus saith the LORD of hosts, Behold, evil shall go forth from nation to nation, and a great whirlwind shall be raised up from the coasts of the earth.",
+      "metadata": {
+        "reference": "Jeremiah 25:32",
+        "verseKey": "kjv:jeremiah:25:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:jeremiah:25:33",
+      "numberLabel": "33",
+      "text": "And the slain of the LORD shall be at that day from one end of the earth even unto the other end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground.",
+      "metadata": {
+        "reference": "Jeremiah 25:33",
+        "verseKey": "kjv:jeremiah:25:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:jeremiah:25:34",
+      "numberLabel": "34",
+      "text": "Howl, ye shepherds, and cry; and wallow yourselves in the ashes, ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel.",
+      "metadata": {
+        "reference": "Jeremiah 25:34",
+        "verseKey": "kjv:jeremiah:25:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:jeremiah:25:35",
+      "numberLabel": "35",
+      "text": "And the shepherds shall have no way to flee, nor the principal of the flock to escape.",
+      "metadata": {
+        "reference": "Jeremiah 25:35",
+        "verseKey": "kjv:jeremiah:25:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:jeremiah:25:36",
+      "numberLabel": "36",
+      "text": "A voice of the cry of the shepherds, and an howling of the principal of the flock, shall be heard: for the LORD hath spoiled their pasture.",
+      "metadata": {
+        "reference": "Jeremiah 25:36",
+        "verseKey": "kjv:jeremiah:25:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:jeremiah:25:37",
+      "numberLabel": "37",
+      "text": "And the peaceable habitations are cut down because of the fierce anger of the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 25:37",
+        "verseKey": "kjv:jeremiah:25:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:jeremiah:25:38",
+      "numberLabel": "38",
+      "text": "He hath forsaken his covert, as the lion: for their land is desolate because of the fierceness of the oppressor, and because of his fierce anger.",
+      "metadata": {
+        "reference": "Jeremiah 25:38",
+        "verseKey": "kjv:jeremiah:25:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

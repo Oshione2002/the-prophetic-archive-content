@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Matthew 19",
+  "display_title": "Matthew 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 19,
+  "sortOrder": 40019,
+  "verseCount": 30,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:19:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;",
+      "metadata": {
+        "reference": "Matthew 19:1",
+        "verseKey": "kjv:matthew:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:19:2",
+      "numberLabel": "2",
+      "text": "And great multitudes followed him; and he healed them there.",
+      "metadata": {
+        "reference": "Matthew 19:2",
+        "verseKey": "kjv:matthew:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:19:3",
+      "numberLabel": "3",
+      "text": "The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause?",
+      "metadata": {
+        "reference": "Matthew 19:3",
+        "verseKey": "kjv:matthew:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:19:4",
+      "numberLabel": "4",
+      "text": "And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female,",
+      "metadata": {
+        "reference": "Matthew 19:4",
+        "verseKey": "kjv:matthew:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:19:5",
+      "numberLabel": "5",
+      "text": "And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?",
+      "metadata": {
+        "reference": "Matthew 19:5",
+        "verseKey": "kjv:matthew:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:19:6",
+      "numberLabel": "6",
+      "text": "Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.",
+      "metadata": {
+        "reference": "Matthew 19:6",
+        "verseKey": "kjv:matthew:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:19:7",
+      "numberLabel": "7",
+      "text": "They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?",
+      "metadata": {
+        "reference": "Matthew 19:7",
+        "verseKey": "kjv:matthew:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:19:8",
+      "numberLabel": "8",
+      "text": "He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.",
+      "metadata": {
+        "reference": "Matthew 19:8",
+        "verseKey": "kjv:matthew:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:19:9",
+      "numberLabel": "9",
+      "text": "And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.",
+      "metadata": {
+        "reference": "Matthew 19:9",
+        "verseKey": "kjv:matthew:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:19:10",
+      "numberLabel": "10",
+      "text": "His disciples say unto him, If the case of the man be so with his wife, it is not good to marry.",
+      "metadata": {
+        "reference": "Matthew 19:10",
+        "verseKey": "kjv:matthew:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:19:11",
+      "numberLabel": "11",
+      "text": "But he said unto them, All men cannot receive this saying, save they to whom it is given.",
+      "metadata": {
+        "reference": "Matthew 19:11",
+        "verseKey": "kjv:matthew:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:19:12",
+      "numberLabel": "12",
+      "text": "For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.",
+      "metadata": {
+        "reference": "Matthew 19:12",
+        "verseKey": "kjv:matthew:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:19:13",
+      "numberLabel": "13",
+      "text": "Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them.",
+      "metadata": {
+        "reference": "Matthew 19:13",
+        "verseKey": "kjv:matthew:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:19:14",
+      "numberLabel": "14",
+      "text": "But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.",
+      "metadata": {
+        "reference": "Matthew 19:14",
+        "verseKey": "kjv:matthew:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:19:15",
+      "numberLabel": "15",
+      "text": "And he laid his hands on them, and departed thence.",
+      "metadata": {
+        "reference": "Matthew 19:15",
+        "verseKey": "kjv:matthew:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:19:16",
+      "numberLabel": "16",
+      "text": "And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?",
+      "metadata": {
+        "reference": "Matthew 19:16",
+        "verseKey": "kjv:matthew:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:19:17",
+      "numberLabel": "17",
+      "text": "And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.",
+      "metadata": {
+        "reference": "Matthew 19:17",
+        "verseKey": "kjv:matthew:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:19:18",
+      "numberLabel": "18",
+      "text": "He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,",
+      "metadata": {
+        "reference": "Matthew 19:18",
+        "verseKey": "kjv:matthew:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:19:19",
+      "numberLabel": "19",
+      "text": "Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.",
+      "metadata": {
+        "reference": "Matthew 19:19",
+        "verseKey": "kjv:matthew:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:19:20",
+      "numberLabel": "20",
+      "text": "The young man saith unto him, All these things have I kept from my youth up: what lack I yet?",
+      "metadata": {
+        "reference": "Matthew 19:20",
+        "verseKey": "kjv:matthew:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:19:21",
+      "numberLabel": "21",
+      "text": "Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.",
+      "metadata": {
+        "reference": "Matthew 19:21",
+        "verseKey": "kjv:matthew:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:19:22",
+      "numberLabel": "22",
+      "text": "But when the young man heard that saying, he went away sorrowful: for he had great possessions.",
+      "metadata": {
+        "reference": "Matthew 19:22",
+        "verseKey": "kjv:matthew:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:19:23",
+      "numberLabel": "23",
+      "text": "Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.",
+      "metadata": {
+        "reference": "Matthew 19:23",
+        "verseKey": "kjv:matthew:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:19:24",
+      "numberLabel": "24",
+      "text": "And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.",
+      "metadata": {
+        "reference": "Matthew 19:24",
+        "verseKey": "kjv:matthew:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:19:25",
+      "numberLabel": "25",
+      "text": "When his disciples heard it, they were exceedingly amazed, saying, Who then can be saved?",
+      "metadata": {
+        "reference": "Matthew 19:25",
+        "verseKey": "kjv:matthew:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:19:26",
+      "numberLabel": "26",
+      "text": "But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.",
+      "metadata": {
+        "reference": "Matthew 19:26",
+        "verseKey": "kjv:matthew:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:19:27",
+      "numberLabel": "27",
+      "text": "Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?",
+      "metadata": {
+        "reference": "Matthew 19:27",
+        "verseKey": "kjv:matthew:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:19:28",
+      "numberLabel": "28",
+      "text": "And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.",
+      "metadata": {
+        "reference": "Matthew 19:28",
+        "verseKey": "kjv:matthew:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:19:29",
+      "numberLabel": "29",
+      "text": "And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.",
+      "metadata": {
+        "reference": "Matthew 19:29",
+        "verseKey": "kjv:matthew:19:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:19:30",
+      "numberLabel": "30",
+      "text": "But many that are first shall be last; and the last shall be first.",
+      "metadata": {
+        "reference": "Matthew 19:30",
+        "verseKey": "kjv:matthew:19:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

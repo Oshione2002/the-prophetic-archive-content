@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-036",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 36,
+  "title": "Psalms 36",
+  "display_title": "Psalms 36",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 36,
+  "sortOrder": 19036,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:36:1",
+      "numberLabel": "1",
+      "text": "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.",
+      "metadata": {
+        "reference": "Psalms 36:1",
+        "verseKey": "kjv:psalms:36:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:36:2",
+      "numberLabel": "2",
+      "text": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
+      "metadata": {
+        "reference": "Psalms 36:2",
+        "verseKey": "kjv:psalms:36:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:36:3",
+      "numberLabel": "3",
+      "text": "The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good.",
+      "metadata": {
+        "reference": "Psalms 36:3",
+        "verseKey": "kjv:psalms:36:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:36:4",
+      "numberLabel": "4",
+      "text": "He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil.",
+      "metadata": {
+        "reference": "Psalms 36:4",
+        "verseKey": "kjv:psalms:36:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:36:5",
+      "numberLabel": "5",
+      "text": "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds.",
+      "metadata": {
+        "reference": "Psalms 36:5",
+        "verseKey": "kjv:psalms:36:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:36:6",
+      "numberLabel": "6",
+      "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast.",
+      "metadata": {
+        "reference": "Psalms 36:6",
+        "verseKey": "kjv:psalms:36:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:36:7",
+      "numberLabel": "7",
+      "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+      "metadata": {
+        "reference": "Psalms 36:7",
+        "verseKey": "kjv:psalms:36:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:36:8",
+      "numberLabel": "8",
+      "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
+      "metadata": {
+        "reference": "Psalms 36:8",
+        "verseKey": "kjv:psalms:36:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:36:9",
+      "numberLabel": "9",
+      "text": "For with thee is the fountain of life: in thy light shall we see light.",
+      "metadata": {
+        "reference": "Psalms 36:9",
+        "verseKey": "kjv:psalms:36:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:36:10",
+      "numberLabel": "10",
+      "text": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
+      "metadata": {
+        "reference": "Psalms 36:10",
+        "verseKey": "kjv:psalms:36:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:36:11",
+      "numberLabel": "11",
+      "text": "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
+      "metadata": {
+        "reference": "Psalms 36:11",
+        "verseKey": "kjv:psalms:36:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:36:12",
+      "numberLabel": "12",
+      "text": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
+      "metadata": {
+        "reference": "Psalms 36:12",
+        "verseKey": "kjv:psalms:36:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

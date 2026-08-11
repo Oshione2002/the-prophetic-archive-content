@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Psalms 24",
+  "display_title": "Psalms 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 19024,
+  "verseCount": 10,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:24:1",
+      "numberLabel": "1",
+      "text": "The earth is the LORD’s, and the fulness thereof; the world, and they that dwell therein.",
+      "metadata": {
+        "reference": "Psalms 24:1",
+        "verseKey": "kjv:psalms:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:24:2",
+      "numberLabel": "2",
+      "text": "For he hath founded it upon the seas, and established it upon the floods.",
+      "metadata": {
+        "reference": "Psalms 24:2",
+        "verseKey": "kjv:psalms:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:24:3",
+      "numberLabel": "3",
+      "text": "Who shall ascend into the hill of the LORD? or who shall stand in his holy place?",
+      "metadata": {
+        "reference": "Psalms 24:3",
+        "verseKey": "kjv:psalms:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:24:4",
+      "numberLabel": "4",
+      "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
+      "metadata": {
+        "reference": "Psalms 24:4",
+        "verseKey": "kjv:psalms:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:24:5",
+      "numberLabel": "5",
+      "text": "He shall receive the blessing from the LORD, and righteousness from the God of his salvation.",
+      "metadata": {
+        "reference": "Psalms 24:5",
+        "verseKey": "kjv:psalms:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:24:6",
+      "numberLabel": "6",
+      "text": "This is the generation of them that seek him, that seek thy face, O Jacob. Selah.",
+      "metadata": {
+        "reference": "Psalms 24:6",
+        "verseKey": "kjv:psalms:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:24:7",
+      "numberLabel": "7",
+      "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
+      "metadata": {
+        "reference": "Psalms 24:7",
+        "verseKey": "kjv:psalms:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:24:8",
+      "numberLabel": "8",
+      "text": "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle.",
+      "metadata": {
+        "reference": "Psalms 24:8",
+        "verseKey": "kjv:psalms:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:24:9",
+      "numberLabel": "9",
+      "text": "Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in.",
+      "metadata": {
+        "reference": "Psalms 24:9",
+        "verseKey": "kjv:psalms:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:24:10",
+      "numberLabel": "10",
+      "text": "Who is this King of glory? The LORD of hosts, he is the King of glory. Selah.",
+      "metadata": {
+        "reference": "Psalms 24:10",
+        "verseKey": "kjv:psalms:24:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

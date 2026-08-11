@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-142",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 142,
+  "title": "Psalms 142",
+  "display_title": "Psalms 142",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 142,
+  "sortOrder": 19142,
+  "verseCount": 7,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:142:1",
+      "numberLabel": "1",
+      "text": "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.",
+      "metadata": {
+        "reference": "Psalms 142:1",
+        "verseKey": "kjv:psalms:142:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:142:2",
+      "numberLabel": "2",
+      "text": "I poured out my complaint before him; I shewed before him my trouble.",
+      "metadata": {
+        "reference": "Psalms 142:2",
+        "verseKey": "kjv:psalms:142:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:142:3",
+      "numberLabel": "3",
+      "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
+      "metadata": {
+        "reference": "Psalms 142:3",
+        "verseKey": "kjv:psalms:142:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:142:4",
+      "numberLabel": "4",
+      "text": "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.",
+      "metadata": {
+        "reference": "Psalms 142:4",
+        "verseKey": "kjv:psalms:142:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:142:5",
+      "numberLabel": "5",
+      "text": "I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living.",
+      "metadata": {
+        "reference": "Psalms 142:5",
+        "verseKey": "kjv:psalms:142:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:142:6",
+      "numberLabel": "6",
+      "text": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
+      "metadata": {
+        "reference": "Psalms 142:6",
+        "verseKey": "kjv:psalms:142:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:142:7",
+      "numberLabel": "7",
+      "text": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
+      "metadata": {
+        "reference": "Psalms 142:7",
+        "verseKey": "kjv:psalms:142:7"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-020",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 20,
+  "title": "Jeremiah 20",
+  "display_title": "Jeremiah 20",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 20,
+  "sortOrder": 24020,
+  "verseCount": 18,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:20:1",
+      "numberLabel": "1",
+      "text": "Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.",
+      "metadata": {
+        "reference": "Jeremiah 20:1",
+        "verseKey": "kjv:jeremiah:20:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:20:2",
+      "numberLabel": "2",
+      "text": "Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 20:2",
+        "verseKey": "kjv:jeremiah:20:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:20:3",
+      "numberLabel": "3",
+      "text": "And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him, The LORD hath not called thy name Pashur, but Magormissabib.",
+      "metadata": {
+        "reference": "Jeremiah 20:3",
+        "verseKey": "kjv:jeremiah:20:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:20:4",
+      "numberLabel": "4",
+      "text": "For thus saith the LORD, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.",
+      "metadata": {
+        "reference": "Jeremiah 20:4",
+        "verseKey": "kjv:jeremiah:20:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:20:5",
+      "numberLabel": "5",
+      "text": "Moreover I will deliver all the strength of this city, and all the labours thereof, and all the precious things thereof, and all the treasures of the kings of Judah will I give into the hand of their enemies, which shall spoil them, and take them, and carry them to Babylon.",
+      "metadata": {
+        "reference": "Jeremiah 20:5",
+        "verseKey": "kjv:jeremiah:20:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:20:6",
+      "numberLabel": "6",
+      "text": "And thou, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, thou, and all thy friends, to whom thou hast prophesied lies.",
+      "metadata": {
+        "reference": "Jeremiah 20:6",
+        "verseKey": "kjv:jeremiah:20:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:20:7",
+      "numberLabel": "7",
+      "text": "O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.",
+      "metadata": {
+        "reference": "Jeremiah 20:7",
+        "verseKey": "kjv:jeremiah:20:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:20:8",
+      "numberLabel": "8",
+      "text": "For since I spake, I cried out, I cried violence and spoil; because the word of the LORD was made a reproach unto me, and a derision, daily.",
+      "metadata": {
+        "reference": "Jeremiah 20:8",
+        "verseKey": "kjv:jeremiah:20:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:20:9",
+      "numberLabel": "9",
+      "text": "Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.",
+      "metadata": {
+        "reference": "Jeremiah 20:9",
+        "verseKey": "kjv:jeremiah:20:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:20:10",
+      "numberLabel": "10",
+      "text": "For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.",
+      "metadata": {
+        "reference": "Jeremiah 20:10",
+        "verseKey": "kjv:jeremiah:20:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:20:11",
+      "numberLabel": "11",
+      "text": "But the LORD is with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: their everlasting confusion shall never be forgotten.",
+      "metadata": {
+        "reference": "Jeremiah 20:11",
+        "verseKey": "kjv:jeremiah:20:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:20:12",
+      "numberLabel": "12",
+      "text": "But, O LORD of hosts, that triest the righteous, and seest the reins and the heart, let me see thy vengeance on them: for unto thee have I opened my cause.",
+      "metadata": {
+        "reference": "Jeremiah 20:12",
+        "verseKey": "kjv:jeremiah:20:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:20:13",
+      "numberLabel": "13",
+      "text": "Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers.",
+      "metadata": {
+        "reference": "Jeremiah 20:13",
+        "verseKey": "kjv:jeremiah:20:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:20:14",
+      "numberLabel": "14",
+      "text": "Cursed be the day wherein I was born: let not the day wherein my mother bare me be blessed.",
+      "metadata": {
+        "reference": "Jeremiah 20:14",
+        "verseKey": "kjv:jeremiah:20:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:20:15",
+      "numberLabel": "15",
+      "text": "Cursed be the man who brought tidings to my father, saying, A man child is born unto thee; making him very glad.",
+      "metadata": {
+        "reference": "Jeremiah 20:15",
+        "verseKey": "kjv:jeremiah:20:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:20:16",
+      "numberLabel": "16",
+      "text": "And let that man be as the cities which the LORD overthrew, and repented not: and let him hear the cry in the morning, and the shouting at noontide;",
+      "metadata": {
+        "reference": "Jeremiah 20:16",
+        "verseKey": "kjv:jeremiah:20:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:20:17",
+      "numberLabel": "17",
+      "text": "Because he slew me not from the womb; or that my mother might have been my grave, and her womb to be always great with me.",
+      "metadata": {
+        "reference": "Jeremiah 20:17",
+        "verseKey": "kjv:jeremiah:20:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:20:18",
+      "numberLabel": "18",
+      "text": "Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame?",
+      "metadata": {
+        "reference": "Jeremiah 20:18",
+        "verseKey": "kjv:jeremiah:20:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

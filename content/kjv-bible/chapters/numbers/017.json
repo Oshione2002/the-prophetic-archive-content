@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Numbers 17",
+  "display_title": "Numbers 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 4017,
+  "verseCount": 13,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:17:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 17:1",
+        "verseKey": "kjv:numbers:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:17:2",
+      "numberLabel": "2",
+      "text": "Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write thou every man’s name upon his rod.",
+      "metadata": {
+        "reference": "Numbers 17:2",
+        "verseKey": "kjv:numbers:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:17:3",
+      "numberLabel": "3",
+      "text": "And thou shalt write Aaron’s name upon the rod of Levi: for one rod shall be for the head of the house of their fathers.",
+      "metadata": {
+        "reference": "Numbers 17:3",
+        "verseKey": "kjv:numbers:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:17:4",
+      "numberLabel": "4",
+      "text": "And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.",
+      "metadata": {
+        "reference": "Numbers 17:4",
+        "verseKey": "kjv:numbers:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:17:5",
+      "numberLabel": "5",
+      "text": "And it shall come to pass, that the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.",
+      "metadata": {
+        "reference": "Numbers 17:5",
+        "verseKey": "kjv:numbers:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:17:6",
+      "numberLabel": "6",
+      "text": "And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, even twelve rods: and the rod of Aaron was among their rods.",
+      "metadata": {
+        "reference": "Numbers 17:6",
+        "verseKey": "kjv:numbers:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:17:7",
+      "numberLabel": "7",
+      "text": "And Moses laid up the rods before the LORD in the tabernacle of witness.",
+      "metadata": {
+        "reference": "Numbers 17:7",
+        "verseKey": "kjv:numbers:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:17:8",
+      "numberLabel": "8",
+      "text": "And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.",
+      "metadata": {
+        "reference": "Numbers 17:8",
+        "verseKey": "kjv:numbers:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:17:9",
+      "numberLabel": "9",
+      "text": "And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod.",
+      "metadata": {
+        "reference": "Numbers 17:9",
+        "verseKey": "kjv:numbers:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:17:10",
+      "numberLabel": "10",
+      "text": "And the LORD said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.",
+      "metadata": {
+        "reference": "Numbers 17:10",
+        "verseKey": "kjv:numbers:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:17:11",
+      "numberLabel": "11",
+      "text": "And Moses did so: as the LORD commanded him, so did he.",
+      "metadata": {
+        "reference": "Numbers 17:11",
+        "verseKey": "kjv:numbers:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:17:12",
+      "numberLabel": "12",
+      "text": "And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.",
+      "metadata": {
+        "reference": "Numbers 17:12",
+        "verseKey": "kjv:numbers:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:17:13",
+      "numberLabel": "13",
+      "text": "Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?",
+      "metadata": {
+        "reference": "Numbers 17:13",
+        "verseKey": "kjv:numbers:17:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

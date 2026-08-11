@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-judges-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Judges 1",
+  "display_title": "Judges 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "judges",
+  "book": "Judges",
+  "bookName": "Judges",
+  "bookOrder": 7,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 7001,
+  "verseCount": 36,
+  "aliases": [
+    "Judg",
+    "Jdg",
+    "Jg"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:judges:1:1",
+      "numberLabel": "1",
+      "text": "Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?",
+      "metadata": {
+        "reference": "Judges 1:1",
+        "verseKey": "kjv:judges:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:judges:1:2",
+      "numberLabel": "2",
+      "text": "And the LORD said, Judah shall go up: behold, I have delivered the land into his hand.",
+      "metadata": {
+        "reference": "Judges 1:2",
+        "verseKey": "kjv:judges:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:judges:1:3",
+      "numberLabel": "3",
+      "text": "And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him.",
+      "metadata": {
+        "reference": "Judges 1:3",
+        "verseKey": "kjv:judges:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:judges:1:4",
+      "numberLabel": "4",
+      "text": "And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.",
+      "metadata": {
+        "reference": "Judges 1:4",
+        "verseKey": "kjv:judges:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:judges:1:5",
+      "numberLabel": "5",
+      "text": "And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.",
+      "metadata": {
+        "reference": "Judges 1:5",
+        "verseKey": "kjv:judges:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:judges:1:6",
+      "numberLabel": "6",
+      "text": "But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes.",
+      "metadata": {
+        "reference": "Judges 1:6",
+        "verseKey": "kjv:judges:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:judges:1:7",
+      "numberLabel": "7",
+      "text": "And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died.",
+      "metadata": {
+        "reference": "Judges 1:7",
+        "verseKey": "kjv:judges:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:judges:1:8",
+      "numberLabel": "8",
+      "text": "Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire.",
+      "metadata": {
+        "reference": "Judges 1:8",
+        "verseKey": "kjv:judges:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:judges:1:9",
+      "numberLabel": "9",
+      "text": "And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley.",
+      "metadata": {
+        "reference": "Judges 1:9",
+        "verseKey": "kjv:judges:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:judges:1:10",
+      "numberLabel": "10",
+      "text": "And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai.",
+      "metadata": {
+        "reference": "Judges 1:10",
+        "verseKey": "kjv:judges:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:judges:1:11",
+      "numberLabel": "11",
+      "text": "And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:",
+      "metadata": {
+        "reference": "Judges 1:11",
+        "verseKey": "kjv:judges:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:judges:1:12",
+      "numberLabel": "12",
+      "text": "And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.",
+      "metadata": {
+        "reference": "Judges 1:12",
+        "verseKey": "kjv:judges:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:judges:1:13",
+      "numberLabel": "13",
+      "text": "And Othniel the son of Kenaz, Caleb’s younger brother, took it: and he gave him Achsah his daughter to wife.",
+      "metadata": {
+        "reference": "Judges 1:13",
+        "verseKey": "kjv:judges:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:judges:1:14",
+      "numberLabel": "14",
+      "text": "And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt thou?",
+      "metadata": {
+        "reference": "Judges 1:14",
+        "verseKey": "kjv:judges:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:judges:1:15",
+      "numberLabel": "15",
+      "text": "And she said unto him, Give me a blessing: for thou hast given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs.",
+      "metadata": {
+        "reference": "Judges 1:15",
+        "verseKey": "kjv:judges:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:judges:1:16",
+      "numberLabel": "16",
+      "text": "And the children of the Kenite, Moses’ father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lieth in the south of Arad; and they went and dwelt among the people.",
+      "metadata": {
+        "reference": "Judges 1:16",
+        "verseKey": "kjv:judges:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:judges:1:17",
+      "numberLabel": "17",
+      "text": "And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah.",
+      "metadata": {
+        "reference": "Judges 1:17",
+        "verseKey": "kjv:judges:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:judges:1:18",
+      "numberLabel": "18",
+      "text": "Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof.",
+      "metadata": {
+        "reference": "Judges 1:18",
+        "verseKey": "kjv:judges:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:judges:1:19",
+      "numberLabel": "19",
+      "text": "And the LORD was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.",
+      "metadata": {
+        "reference": "Judges 1:19",
+        "verseKey": "kjv:judges:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:judges:1:20",
+      "numberLabel": "20",
+      "text": "And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak.",
+      "metadata": {
+        "reference": "Judges 1:20",
+        "verseKey": "kjv:judges:1:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:judges:1:21",
+      "numberLabel": "21",
+      "text": "And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.",
+      "metadata": {
+        "reference": "Judges 1:21",
+        "verseKey": "kjv:judges:1:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:judges:1:22",
+      "numberLabel": "22",
+      "text": "And the house of Joseph, they also went up against Bethel: and the LORD was with them.",
+      "metadata": {
+        "reference": "Judges 1:22",
+        "verseKey": "kjv:judges:1:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:judges:1:23",
+      "numberLabel": "23",
+      "text": "And the house of Joseph sent to descry Bethel. (Now the name of the city before was Luz.)",
+      "metadata": {
+        "reference": "Judges 1:23",
+        "verseKey": "kjv:judges:1:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:judges:1:24",
+      "numberLabel": "24",
+      "text": "And the spies saw a man come forth out of the city, and they said unto him, Shew us, we pray thee, the entrance into the city, and we will shew thee mercy.",
+      "metadata": {
+        "reference": "Judges 1:24",
+        "verseKey": "kjv:judges:1:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:judges:1:25",
+      "numberLabel": "25",
+      "text": "And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family.",
+      "metadata": {
+        "reference": "Judges 1:25",
+        "verseKey": "kjv:judges:1:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:judges:1:26",
+      "numberLabel": "26",
+      "text": "And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which is the name thereof unto this day.",
+      "metadata": {
+        "reference": "Judges 1:26",
+        "verseKey": "kjv:judges:1:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:judges:1:27",
+      "numberLabel": "27",
+      "text": "Neither did Manasseh drive out the inhabitants of Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land.",
+      "metadata": {
+        "reference": "Judges 1:27",
+        "verseKey": "kjv:judges:1:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:judges:1:28",
+      "numberLabel": "28",
+      "text": "And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out.",
+      "metadata": {
+        "reference": "Judges 1:28",
+        "verseKey": "kjv:judges:1:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:judges:1:29",
+      "numberLabel": "29",
+      "text": "Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them.",
+      "metadata": {
+        "reference": "Judges 1:29",
+        "verseKey": "kjv:judges:1:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:judges:1:30",
+      "numberLabel": "30",
+      "text": "Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries.",
+      "metadata": {
+        "reference": "Judges 1:30",
+        "verseKey": "kjv:judges:1:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:judges:1:31",
+      "numberLabel": "31",
+      "text": "Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob:",
+      "metadata": {
+        "reference": "Judges 1:31",
+        "verseKey": "kjv:judges:1:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:judges:1:32",
+      "numberLabel": "32",
+      "text": "But the Asherites dwelt among the Canaanites, the inhabitants of the land: for they did not drive them out.",
+      "metadata": {
+        "reference": "Judges 1:32",
+        "verseKey": "kjv:judges:1:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:judges:1:33",
+      "numberLabel": "33",
+      "text": "Neither did Naphtali drive out the inhabitants of Bethshemesh, nor the inhabitants of Bethanath; but he dwelt among the Canaanites, the inhabitants of the land: nevertheless the inhabitants of Bethshemesh and of Bethanath became tributaries unto them.",
+      "metadata": {
+        "reference": "Judges 1:33",
+        "verseKey": "kjv:judges:1:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:judges:1:34",
+      "numberLabel": "34",
+      "text": "And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:",
+      "metadata": {
+        "reference": "Judges 1:34",
+        "verseKey": "kjv:judges:1:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:judges:1:35",
+      "numberLabel": "35",
+      "text": "But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.",
+      "metadata": {
+        "reference": "Judges 1:35",
+        "verseKey": "kjv:judges:1:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:judges:1:36",
+      "numberLabel": "36",
+      "text": "And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward.",
+      "metadata": {
+        "reference": "Judges 1:36",
+        "verseKey": "kjv:judges:1:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Judges.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Judges.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

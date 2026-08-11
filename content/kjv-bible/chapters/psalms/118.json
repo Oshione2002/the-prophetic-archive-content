@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-118",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 118,
+  "title": "Psalms 118",
+  "display_title": "Psalms 118",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 118,
+  "sortOrder": 19118,
+  "verseCount": 29,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:118:1",
+      "numberLabel": "1",
+      "text": "O give thanks unto the LORD; for he is good: because his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 118:1",
+        "verseKey": "kjv:psalms:118:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:118:2",
+      "numberLabel": "2",
+      "text": "Let Israel now say, that his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 118:2",
+        "verseKey": "kjv:psalms:118:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:118:3",
+      "numberLabel": "3",
+      "text": "Let the house of Aaron now say, that his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 118:3",
+        "verseKey": "kjv:psalms:118:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:118:4",
+      "numberLabel": "4",
+      "text": "Let them now that fear the LORD say, that his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 118:4",
+        "verseKey": "kjv:psalms:118:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:118:5",
+      "numberLabel": "5",
+      "text": "I called upon the LORD in distress: the LORD answered me, and set me in a large place.",
+      "metadata": {
+        "reference": "Psalms 118:5",
+        "verseKey": "kjv:psalms:118:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:118:6",
+      "numberLabel": "6",
+      "text": "The LORD is on my side; I will not fear: what can man do unto me?",
+      "metadata": {
+        "reference": "Psalms 118:6",
+        "verseKey": "kjv:psalms:118:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:118:7",
+      "numberLabel": "7",
+      "text": "The LORD taketh my part with them that help me: therefore shall I see my desire upon them that hate me.",
+      "metadata": {
+        "reference": "Psalms 118:7",
+        "verseKey": "kjv:psalms:118:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:118:8",
+      "numberLabel": "8",
+      "text": "It is better to trust in the LORD than to put confidence in man.",
+      "metadata": {
+        "reference": "Psalms 118:8",
+        "verseKey": "kjv:psalms:118:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:118:9",
+      "numberLabel": "9",
+      "text": "It is better to trust in the LORD than to put confidence in princes.",
+      "metadata": {
+        "reference": "Psalms 118:9",
+        "verseKey": "kjv:psalms:118:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:118:10",
+      "numberLabel": "10",
+      "text": "All nations compassed me about: but in the name of the LORD will I destroy them.",
+      "metadata": {
+        "reference": "Psalms 118:10",
+        "verseKey": "kjv:psalms:118:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:118:11",
+      "numberLabel": "11",
+      "text": "They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.",
+      "metadata": {
+        "reference": "Psalms 118:11",
+        "verseKey": "kjv:psalms:118:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:118:12",
+      "numberLabel": "12",
+      "text": "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.",
+      "metadata": {
+        "reference": "Psalms 118:12",
+        "verseKey": "kjv:psalms:118:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:118:13",
+      "numberLabel": "13",
+      "text": "Thou hast thrust sore at me that I might fall: but the LORD helped me.",
+      "metadata": {
+        "reference": "Psalms 118:13",
+        "verseKey": "kjv:psalms:118:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:118:14",
+      "numberLabel": "14",
+      "text": "The LORD is my strength and song, and is become my salvation.",
+      "metadata": {
+        "reference": "Psalms 118:14",
+        "verseKey": "kjv:psalms:118:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:118:15",
+      "numberLabel": "15",
+      "text": "The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.",
+      "metadata": {
+        "reference": "Psalms 118:15",
+        "verseKey": "kjv:psalms:118:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:118:16",
+      "numberLabel": "16",
+      "text": "The right hand of the LORD is exalted: the right hand of the LORD doeth valiantly.",
+      "metadata": {
+        "reference": "Psalms 118:16",
+        "verseKey": "kjv:psalms:118:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:118:17",
+      "numberLabel": "17",
+      "text": "I shall not die, but live, and declare the works of the LORD.",
+      "metadata": {
+        "reference": "Psalms 118:17",
+        "verseKey": "kjv:psalms:118:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:118:18",
+      "numberLabel": "18",
+      "text": "The LORD hath chastened me sore: but he hath not given me over unto death.",
+      "metadata": {
+        "reference": "Psalms 118:18",
+        "verseKey": "kjv:psalms:118:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:118:19",
+      "numberLabel": "19",
+      "text": "Open to me the gates of righteousness: I will go into them, and I will praise the LORD:",
+      "metadata": {
+        "reference": "Psalms 118:19",
+        "verseKey": "kjv:psalms:118:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:118:20",
+      "numberLabel": "20",
+      "text": "This gate of the LORD, into which the righteous shall enter.",
+      "metadata": {
+        "reference": "Psalms 118:20",
+        "verseKey": "kjv:psalms:118:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:118:21",
+      "numberLabel": "21",
+      "text": "I will praise thee: for thou hast heard me, and art become my salvation.",
+      "metadata": {
+        "reference": "Psalms 118:21",
+        "verseKey": "kjv:psalms:118:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:118:22",
+      "numberLabel": "22",
+      "text": "The stone which the builders refused is become the head stone of the corner.",
+      "metadata": {
+        "reference": "Psalms 118:22",
+        "verseKey": "kjv:psalms:118:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:118:23",
+      "numberLabel": "23",
+      "text": "This is the LORD’s doing; it is marvellous in our eyes.",
+      "metadata": {
+        "reference": "Psalms 118:23",
+        "verseKey": "kjv:psalms:118:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:118:24",
+      "numberLabel": "24",
+      "text": "This is the day which the LORD hath made; we will rejoice and be glad in it.",
+      "metadata": {
+        "reference": "Psalms 118:24",
+        "verseKey": "kjv:psalms:118:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:118:25",
+      "numberLabel": "25",
+      "text": "Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity.",
+      "metadata": {
+        "reference": "Psalms 118:25",
+        "verseKey": "kjv:psalms:118:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:118:26",
+      "numberLabel": "26",
+      "text": "Blessed be he that cometh in the name of the LORD: we have blessed you out of the house of the LORD.",
+      "metadata": {
+        "reference": "Psalms 118:26",
+        "verseKey": "kjv:psalms:118:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:118:27",
+      "numberLabel": "27",
+      "text": "God is the LORD, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.",
+      "metadata": {
+        "reference": "Psalms 118:27",
+        "verseKey": "kjv:psalms:118:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:118:28",
+      "numberLabel": "28",
+      "text": "Thou art my God, and I will praise thee: thou art my God, I will exalt thee.",
+      "metadata": {
+        "reference": "Psalms 118:28",
+        "verseKey": "kjv:psalms:118:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:psalms:118:29",
+      "numberLabel": "29",
+      "text": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 118:29",
+        "verseKey": "kjv:psalms:118:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

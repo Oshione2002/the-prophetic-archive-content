@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-song-of-solomon-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Song of Solomon 2",
+  "display_title": "Song of Solomon 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "song-of-solomon",
+  "book": "Song of Solomon",
+  "bookName": "Song of Solomon",
+  "bookOrder": 22,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 22002,
+  "verseCount": 17,
+  "aliases": [
+    "Song",
+    "Song of Songs",
+    "SOS",
+    "Canticles"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:song-of-solomon:2:1",
+      "numberLabel": "1",
+      "text": "I am the rose of Sharon, and the lily of the valleys.",
+      "metadata": {
+        "reference": "Song of Solomon 2:1",
+        "verseKey": "kjv:song-of-solomon:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:song-of-solomon:2:2",
+      "numberLabel": "2",
+      "text": "As the lily among thorns, so is my love among the daughters.",
+      "metadata": {
+        "reference": "Song of Solomon 2:2",
+        "verseKey": "kjv:song-of-solomon:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:song-of-solomon:2:3",
+      "numberLabel": "3",
+      "text": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.",
+      "metadata": {
+        "reference": "Song of Solomon 2:3",
+        "verseKey": "kjv:song-of-solomon:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:song-of-solomon:2:4",
+      "numberLabel": "4",
+      "text": "He brought me to the banqueting house, and his banner over me was love.",
+      "metadata": {
+        "reference": "Song of Solomon 2:4",
+        "verseKey": "kjv:song-of-solomon:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:song-of-solomon:2:5",
+      "numberLabel": "5",
+      "text": "Stay me with flagons, comfort me with apples: for I am sick of love.",
+      "metadata": {
+        "reference": "Song of Solomon 2:5",
+        "verseKey": "kjv:song-of-solomon:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:song-of-solomon:2:6",
+      "numberLabel": "6",
+      "text": "His left hand is under my head, and his right hand doth embrace me.",
+      "metadata": {
+        "reference": "Song of Solomon 2:6",
+        "verseKey": "kjv:song-of-solomon:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:song-of-solomon:2:7",
+      "numberLabel": "7",
+      "text": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
+      "metadata": {
+        "reference": "Song of Solomon 2:7",
+        "verseKey": "kjv:song-of-solomon:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:song-of-solomon:2:8",
+      "numberLabel": "8",
+      "text": "The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.",
+      "metadata": {
+        "reference": "Song of Solomon 2:8",
+        "verseKey": "kjv:song-of-solomon:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:song-of-solomon:2:9",
+      "numberLabel": "9",
+      "text": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.",
+      "metadata": {
+        "reference": "Song of Solomon 2:9",
+        "verseKey": "kjv:song-of-solomon:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:song-of-solomon:2:10",
+      "numberLabel": "10",
+      "text": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.",
+      "metadata": {
+        "reference": "Song of Solomon 2:10",
+        "verseKey": "kjv:song-of-solomon:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:song-of-solomon:2:11",
+      "numberLabel": "11",
+      "text": "For, lo, the winter is past, the rain is over and gone;",
+      "metadata": {
+        "reference": "Song of Solomon 2:11",
+        "verseKey": "kjv:song-of-solomon:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:song-of-solomon:2:12",
+      "numberLabel": "12",
+      "text": "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;",
+      "metadata": {
+        "reference": "Song of Solomon 2:12",
+        "verseKey": "kjv:song-of-solomon:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:song-of-solomon:2:13",
+      "numberLabel": "13",
+      "text": "The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.",
+      "metadata": {
+        "reference": "Song of Solomon 2:13",
+        "verseKey": "kjv:song-of-solomon:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:song-of-solomon:2:14",
+      "numberLabel": "14",
+      "text": "O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance, let me hear thy voice; for sweet is thy voice, and thy countenance is comely.",
+      "metadata": {
+        "reference": "Song of Solomon 2:14",
+        "verseKey": "kjv:song-of-solomon:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:song-of-solomon:2:15",
+      "numberLabel": "15",
+      "text": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.",
+      "metadata": {
+        "reference": "Song of Solomon 2:15",
+        "verseKey": "kjv:song-of-solomon:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:song-of-solomon:2:16",
+      "numberLabel": "16",
+      "text": "My beloved is mine, and I am his: he feedeth among the lilies.",
+      "metadata": {
+        "reference": "Song of Solomon 2:16",
+        "verseKey": "kjv:song-of-solomon:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:song-of-solomon:2:17",
+      "numberLabel": "17",
+      "text": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.",
+      "metadata": {
+        "reference": "Song of Solomon 2:17",
+        "verseKey": "kjv:song-of-solomon:2:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "SongofSolomon.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/SongofSolomon.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

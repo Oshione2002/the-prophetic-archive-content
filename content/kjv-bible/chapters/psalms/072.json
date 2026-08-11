@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-072",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 72,
+  "title": "Psalms 72",
+  "display_title": "Psalms 72",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 72,
+  "sortOrder": 19072,
+  "verseCount": 20,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:72:1",
+      "numberLabel": "1",
+      "text": "Give the king thy judgments, O God, and thy righteousness unto the king’s son.",
+      "metadata": {
+        "reference": "Psalms 72:1",
+        "verseKey": "kjv:psalms:72:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:72:2",
+      "numberLabel": "2",
+      "text": "He shall judge thy people with righteousness, and thy poor with judgment.",
+      "metadata": {
+        "reference": "Psalms 72:2",
+        "verseKey": "kjv:psalms:72:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:72:3",
+      "numberLabel": "3",
+      "text": "The mountains shall bring peace to the people, and the little hills, by righteousness.",
+      "metadata": {
+        "reference": "Psalms 72:3",
+        "verseKey": "kjv:psalms:72:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:72:4",
+      "numberLabel": "4",
+      "text": "He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.",
+      "metadata": {
+        "reference": "Psalms 72:4",
+        "verseKey": "kjv:psalms:72:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:72:5",
+      "numberLabel": "5",
+      "text": "They shall fear thee as long as the sun and moon endure, throughout all generations.",
+      "metadata": {
+        "reference": "Psalms 72:5",
+        "verseKey": "kjv:psalms:72:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:72:6",
+      "numberLabel": "6",
+      "text": "He shall come down like rain upon the mown grass: as showers that water the earth.",
+      "metadata": {
+        "reference": "Psalms 72:6",
+        "verseKey": "kjv:psalms:72:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:72:7",
+      "numberLabel": "7",
+      "text": "In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.",
+      "metadata": {
+        "reference": "Psalms 72:7",
+        "verseKey": "kjv:psalms:72:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:72:8",
+      "numberLabel": "8",
+      "text": "He shall have dominion also from sea to sea, and from the river unto the ends of the earth.",
+      "metadata": {
+        "reference": "Psalms 72:8",
+        "verseKey": "kjv:psalms:72:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:72:9",
+      "numberLabel": "9",
+      "text": "They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust.",
+      "metadata": {
+        "reference": "Psalms 72:9",
+        "verseKey": "kjv:psalms:72:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:72:10",
+      "numberLabel": "10",
+      "text": "The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.",
+      "metadata": {
+        "reference": "Psalms 72:10",
+        "verseKey": "kjv:psalms:72:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:72:11",
+      "numberLabel": "11",
+      "text": "Yea, all kings shall fall down before him: all nations shall serve him.",
+      "metadata": {
+        "reference": "Psalms 72:11",
+        "verseKey": "kjv:psalms:72:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:72:12",
+      "numberLabel": "12",
+      "text": "For he shall deliver the needy when he crieth; the poor also, and him that hath no helper.",
+      "metadata": {
+        "reference": "Psalms 72:12",
+        "verseKey": "kjv:psalms:72:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:72:13",
+      "numberLabel": "13",
+      "text": "He shall spare the poor and needy, and shall save the souls of the needy.",
+      "metadata": {
+        "reference": "Psalms 72:13",
+        "verseKey": "kjv:psalms:72:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:72:14",
+      "numberLabel": "14",
+      "text": "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.",
+      "metadata": {
+        "reference": "Psalms 72:14",
+        "verseKey": "kjv:psalms:72:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:72:15",
+      "numberLabel": "15",
+      "text": "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised.",
+      "metadata": {
+        "reference": "Psalms 72:15",
+        "verseKey": "kjv:psalms:72:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:72:16",
+      "numberLabel": "16",
+      "text": "There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.",
+      "metadata": {
+        "reference": "Psalms 72:16",
+        "verseKey": "kjv:psalms:72:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:72:17",
+      "numberLabel": "17",
+      "text": "His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed.",
+      "metadata": {
+        "reference": "Psalms 72:17",
+        "verseKey": "kjv:psalms:72:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:72:18",
+      "numberLabel": "18",
+      "text": "Blessed be the LORD God, the God of Israel, who only doeth wondrous things.",
+      "metadata": {
+        "reference": "Psalms 72:18",
+        "verseKey": "kjv:psalms:72:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:72:19",
+      "numberLabel": "19",
+      "text": "And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.",
+      "metadata": {
+        "reference": "Psalms 72:19",
+        "verseKey": "kjv:psalms:72:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:72:20",
+      "numberLabel": "20",
+      "text": "The prayers of David the son of Jesse are ended.",
+      "metadata": {
+        "reference": "Psalms 72:20",
+        "verseKey": "kjv:psalms:72:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

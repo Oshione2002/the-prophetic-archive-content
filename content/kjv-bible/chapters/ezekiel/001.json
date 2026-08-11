@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Ezekiel 1",
+  "display_title": "Ezekiel 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 26001,
+  "verseCount": 28,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:1:1",
+      "numberLabel": "1",
+      "text": "Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.",
+      "metadata": {
+        "reference": "Ezekiel 1:1",
+        "verseKey": "kjv:ezekiel:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:1:2",
+      "numberLabel": "2",
+      "text": "In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity,",
+      "metadata": {
+        "reference": "Ezekiel 1:2",
+        "verseKey": "kjv:ezekiel:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:1:3",
+      "numberLabel": "3",
+      "text": "The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.",
+      "metadata": {
+        "reference": "Ezekiel 1:3",
+        "verseKey": "kjv:ezekiel:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:1:4",
+      "numberLabel": "4",
+      "text": "And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.",
+      "metadata": {
+        "reference": "Ezekiel 1:4",
+        "verseKey": "kjv:ezekiel:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:1:5",
+      "numberLabel": "5",
+      "text": "Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.",
+      "metadata": {
+        "reference": "Ezekiel 1:5",
+        "verseKey": "kjv:ezekiel:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:1:6",
+      "numberLabel": "6",
+      "text": "And every one had four faces, and every one had four wings.",
+      "metadata": {
+        "reference": "Ezekiel 1:6",
+        "verseKey": "kjv:ezekiel:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:1:7",
+      "numberLabel": "7",
+      "text": "And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.",
+      "metadata": {
+        "reference": "Ezekiel 1:7",
+        "verseKey": "kjv:ezekiel:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:1:8",
+      "numberLabel": "8",
+      "text": "And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.",
+      "metadata": {
+        "reference": "Ezekiel 1:8",
+        "verseKey": "kjv:ezekiel:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:1:9",
+      "numberLabel": "9",
+      "text": "Their wings were joined one to another; they turned not when they went; they went every one straight forward.",
+      "metadata": {
+        "reference": "Ezekiel 1:9",
+        "verseKey": "kjv:ezekiel:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:1:10",
+      "numberLabel": "10",
+      "text": "As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.",
+      "metadata": {
+        "reference": "Ezekiel 1:10",
+        "verseKey": "kjv:ezekiel:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:1:11",
+      "numberLabel": "11",
+      "text": "Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.",
+      "metadata": {
+        "reference": "Ezekiel 1:11",
+        "verseKey": "kjv:ezekiel:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:1:12",
+      "numberLabel": "12",
+      "text": "And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.",
+      "metadata": {
+        "reference": "Ezekiel 1:12",
+        "verseKey": "kjv:ezekiel:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:1:13",
+      "numberLabel": "13",
+      "text": "As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.",
+      "metadata": {
+        "reference": "Ezekiel 1:13",
+        "verseKey": "kjv:ezekiel:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:1:14",
+      "numberLabel": "14",
+      "text": "And the living creatures ran and returned as the appearance of a flash of lightning.",
+      "metadata": {
+        "reference": "Ezekiel 1:14",
+        "verseKey": "kjv:ezekiel:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:1:15",
+      "numberLabel": "15",
+      "text": "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.",
+      "metadata": {
+        "reference": "Ezekiel 1:15",
+        "verseKey": "kjv:ezekiel:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:1:16",
+      "numberLabel": "16",
+      "text": "The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.",
+      "metadata": {
+        "reference": "Ezekiel 1:16",
+        "verseKey": "kjv:ezekiel:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:1:17",
+      "numberLabel": "17",
+      "text": "When they went, they went upon their four sides: and they turned not when they went.",
+      "metadata": {
+        "reference": "Ezekiel 1:17",
+        "verseKey": "kjv:ezekiel:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezekiel:1:18",
+      "numberLabel": "18",
+      "text": "As for their rings, they were so high that they were dreadful; and their rings were full of eyes round about them four.",
+      "metadata": {
+        "reference": "Ezekiel 1:18",
+        "verseKey": "kjv:ezekiel:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezekiel:1:19",
+      "numberLabel": "19",
+      "text": "And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.",
+      "metadata": {
+        "reference": "Ezekiel 1:19",
+        "verseKey": "kjv:ezekiel:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezekiel:1:20",
+      "numberLabel": "20",
+      "text": "Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.",
+      "metadata": {
+        "reference": "Ezekiel 1:20",
+        "verseKey": "kjv:ezekiel:1:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezekiel:1:21",
+      "numberLabel": "21",
+      "text": "When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.",
+      "metadata": {
+        "reference": "Ezekiel 1:21",
+        "verseKey": "kjv:ezekiel:1:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezekiel:1:22",
+      "numberLabel": "22",
+      "text": "And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above.",
+      "metadata": {
+        "reference": "Ezekiel 1:22",
+        "verseKey": "kjv:ezekiel:1:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezekiel:1:23",
+      "numberLabel": "23",
+      "text": "And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.",
+      "metadata": {
+        "reference": "Ezekiel 1:23",
+        "verseKey": "kjv:ezekiel:1:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezekiel:1:24",
+      "numberLabel": "24",
+      "text": "And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.",
+      "metadata": {
+        "reference": "Ezekiel 1:24",
+        "verseKey": "kjv:ezekiel:1:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ezekiel:1:25",
+      "numberLabel": "25",
+      "text": "And there was a voice from the firmament that was over their heads, when they stood, and had let down their wings.",
+      "metadata": {
+        "reference": "Ezekiel 1:25",
+        "verseKey": "kjv:ezekiel:1:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ezekiel:1:26",
+      "numberLabel": "26",
+      "text": "And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.",
+      "metadata": {
+        "reference": "Ezekiel 1:26",
+        "verseKey": "kjv:ezekiel:1:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:ezekiel:1:27",
+      "numberLabel": "27",
+      "text": "And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.",
+      "metadata": {
+        "reference": "Ezekiel 1:27",
+        "verseKey": "kjv:ezekiel:1:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:ezekiel:1:28",
+      "numberLabel": "28",
+      "text": "As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake.",
+      "metadata": {
+        "reference": "Ezekiel 1:28",
+        "verseKey": "kjv:ezekiel:1:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

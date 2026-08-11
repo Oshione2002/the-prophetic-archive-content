@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Psalms 7",
+  "display_title": "Psalms 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 19007,
+  "verseCount": 17,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:7:1",
+      "numberLabel": "1",
+      "text": "O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:",
+      "metadata": {
+        "reference": "Psalms 7:1",
+        "verseKey": "kjv:psalms:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:7:2",
+      "numberLabel": "2",
+      "text": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.",
+      "metadata": {
+        "reference": "Psalms 7:2",
+        "verseKey": "kjv:psalms:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:7:3",
+      "numberLabel": "3",
+      "text": "O LORD my God, if I have done this; if there be iniquity in my hands;",
+      "metadata": {
+        "reference": "Psalms 7:3",
+        "verseKey": "kjv:psalms:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:7:4",
+      "numberLabel": "4",
+      "text": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)",
+      "metadata": {
+        "reference": "Psalms 7:4",
+        "verseKey": "kjv:psalms:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:7:5",
+      "numberLabel": "5",
+      "text": "Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.",
+      "metadata": {
+        "reference": "Psalms 7:5",
+        "verseKey": "kjv:psalms:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:7:6",
+      "numberLabel": "6",
+      "text": "Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.",
+      "metadata": {
+        "reference": "Psalms 7:6",
+        "verseKey": "kjv:psalms:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:7:7",
+      "numberLabel": "7",
+      "text": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.",
+      "metadata": {
+        "reference": "Psalms 7:7",
+        "verseKey": "kjv:psalms:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:7:8",
+      "numberLabel": "8",
+      "text": "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.",
+      "metadata": {
+        "reference": "Psalms 7:8",
+        "verseKey": "kjv:psalms:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:7:9",
+      "numberLabel": "9",
+      "text": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.",
+      "metadata": {
+        "reference": "Psalms 7:9",
+        "verseKey": "kjv:psalms:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:7:10",
+      "numberLabel": "10",
+      "text": "My defence is of God, which saveth the upright in heart.",
+      "metadata": {
+        "reference": "Psalms 7:10",
+        "verseKey": "kjv:psalms:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:7:11",
+      "numberLabel": "11",
+      "text": "God judgeth the righteous, and God is angry with the wicked every day.",
+      "metadata": {
+        "reference": "Psalms 7:11",
+        "verseKey": "kjv:psalms:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:7:12",
+      "numberLabel": "12",
+      "text": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready.",
+      "metadata": {
+        "reference": "Psalms 7:12",
+        "verseKey": "kjv:psalms:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:7:13",
+      "numberLabel": "13",
+      "text": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.",
+      "metadata": {
+        "reference": "Psalms 7:13",
+        "verseKey": "kjv:psalms:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:7:14",
+      "numberLabel": "14",
+      "text": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.",
+      "metadata": {
+        "reference": "Psalms 7:14",
+        "verseKey": "kjv:psalms:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:7:15",
+      "numberLabel": "15",
+      "text": "He made a pit, and digged it, and is fallen into the ditch which he made.",
+      "metadata": {
+        "reference": "Psalms 7:15",
+        "verseKey": "kjv:psalms:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:7:16",
+      "numberLabel": "16",
+      "text": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.",
+      "metadata": {
+        "reference": "Psalms 7:16",
+        "verseKey": "kjv:psalms:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:7:17",
+      "numberLabel": "17",
+      "text": "I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.",
+      "metadata": {
+        "reference": "Psalms 7:17",
+        "verseKey": "kjv:psalms:7:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

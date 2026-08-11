@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Romans 9",
+  "display_title": "Romans 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 9,
+  "sortOrder": 45009,
+  "verseCount": 33,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:9:1",
+      "numberLabel": "1",
+      "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,",
+      "metadata": {
+        "reference": "Romans 9:1",
+        "verseKey": "kjv:romans:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:9:2",
+      "numberLabel": "2",
+      "text": "That I have great heaviness and continual sorrow in my heart.",
+      "metadata": {
+        "reference": "Romans 9:2",
+        "verseKey": "kjv:romans:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:9:3",
+      "numberLabel": "3",
+      "text": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:",
+      "metadata": {
+        "reference": "Romans 9:3",
+        "verseKey": "kjv:romans:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:9:4",
+      "numberLabel": "4",
+      "text": "Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;",
+      "metadata": {
+        "reference": "Romans 9:4",
+        "verseKey": "kjv:romans:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:9:5",
+      "numberLabel": "5",
+      "text": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.",
+      "metadata": {
+        "reference": "Romans 9:5",
+        "verseKey": "kjv:romans:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:9:6",
+      "numberLabel": "6",
+      "text": "Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:",
+      "metadata": {
+        "reference": "Romans 9:6",
+        "verseKey": "kjv:romans:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:9:7",
+      "numberLabel": "7",
+      "text": "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.",
+      "metadata": {
+        "reference": "Romans 9:7",
+        "verseKey": "kjv:romans:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:9:8",
+      "numberLabel": "8",
+      "text": "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.",
+      "metadata": {
+        "reference": "Romans 9:8",
+        "verseKey": "kjv:romans:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:9:9",
+      "numberLabel": "9",
+      "text": "For this is the word of promise, At this time will I come, and Sarah shall have a son.",
+      "metadata": {
+        "reference": "Romans 9:9",
+        "verseKey": "kjv:romans:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:9:10",
+      "numberLabel": "10",
+      "text": "And not only this; but when Rebecca also had conceived by one, even by our father Isaac;",
+      "metadata": {
+        "reference": "Romans 9:10",
+        "verseKey": "kjv:romans:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:9:11",
+      "numberLabel": "11",
+      "text": "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)",
+      "metadata": {
+        "reference": "Romans 9:11",
+        "verseKey": "kjv:romans:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:9:12",
+      "numberLabel": "12",
+      "text": "It was said unto her, The elder shall serve the younger.",
+      "metadata": {
+        "reference": "Romans 9:12",
+        "verseKey": "kjv:romans:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:9:13",
+      "numberLabel": "13",
+      "text": "As it is written, Jacob have I loved, but Esau have I hated.",
+      "metadata": {
+        "reference": "Romans 9:13",
+        "verseKey": "kjv:romans:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:9:14",
+      "numberLabel": "14",
+      "text": "What shall we say then? Is there unrighteousness with God? God forbid.",
+      "metadata": {
+        "reference": "Romans 9:14",
+        "verseKey": "kjv:romans:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:romans:9:15",
+      "numberLabel": "15",
+      "text": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.",
+      "metadata": {
+        "reference": "Romans 9:15",
+        "verseKey": "kjv:romans:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:romans:9:16",
+      "numberLabel": "16",
+      "text": "So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.",
+      "metadata": {
+        "reference": "Romans 9:16",
+        "verseKey": "kjv:romans:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:romans:9:17",
+      "numberLabel": "17",
+      "text": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.",
+      "metadata": {
+        "reference": "Romans 9:17",
+        "verseKey": "kjv:romans:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:romans:9:18",
+      "numberLabel": "18",
+      "text": "Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.",
+      "metadata": {
+        "reference": "Romans 9:18",
+        "verseKey": "kjv:romans:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:romans:9:19",
+      "numberLabel": "19",
+      "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?",
+      "metadata": {
+        "reference": "Romans 9:19",
+        "verseKey": "kjv:romans:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:romans:9:20",
+      "numberLabel": "20",
+      "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?",
+      "metadata": {
+        "reference": "Romans 9:20",
+        "verseKey": "kjv:romans:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:romans:9:21",
+      "numberLabel": "21",
+      "text": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?",
+      "metadata": {
+        "reference": "Romans 9:21",
+        "verseKey": "kjv:romans:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:romans:9:22",
+      "numberLabel": "22",
+      "text": "What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:",
+      "metadata": {
+        "reference": "Romans 9:22",
+        "verseKey": "kjv:romans:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:romans:9:23",
+      "numberLabel": "23",
+      "text": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,",
+      "metadata": {
+        "reference": "Romans 9:23",
+        "verseKey": "kjv:romans:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:romans:9:24",
+      "numberLabel": "24",
+      "text": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?",
+      "metadata": {
+        "reference": "Romans 9:24",
+        "verseKey": "kjv:romans:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:romans:9:25",
+      "numberLabel": "25",
+      "text": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.",
+      "metadata": {
+        "reference": "Romans 9:25",
+        "verseKey": "kjv:romans:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:romans:9:26",
+      "numberLabel": "26",
+      "text": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.",
+      "metadata": {
+        "reference": "Romans 9:26",
+        "verseKey": "kjv:romans:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:romans:9:27",
+      "numberLabel": "27",
+      "text": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:",
+      "metadata": {
+        "reference": "Romans 9:27",
+        "verseKey": "kjv:romans:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:romans:9:28",
+      "numberLabel": "28",
+      "text": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.",
+      "metadata": {
+        "reference": "Romans 9:28",
+        "verseKey": "kjv:romans:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:romans:9:29",
+      "numberLabel": "29",
+      "text": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.",
+      "metadata": {
+        "reference": "Romans 9:29",
+        "verseKey": "kjv:romans:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:romans:9:30",
+      "numberLabel": "30",
+      "text": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.",
+      "metadata": {
+        "reference": "Romans 9:30",
+        "verseKey": "kjv:romans:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:romans:9:31",
+      "numberLabel": "31",
+      "text": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.",
+      "metadata": {
+        "reference": "Romans 9:31",
+        "verseKey": "kjv:romans:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:romans:9:32",
+      "numberLabel": "32",
+      "text": "Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;",
+      "metadata": {
+        "reference": "Romans 9:32",
+        "verseKey": "kjv:romans:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:romans:9:33",
+      "numberLabel": "33",
+      "text": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.",
+      "metadata": {
+        "reference": "Romans 9:33",
+        "verseKey": "kjv:romans:9:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-050",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 50,
+  "title": "Isaiah 50",
+  "display_title": "Isaiah 50",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 50,
+  "sortOrder": 23050,
+  "verseCount": 11,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:50:1",
+      "numberLabel": "1",
+      "text": "Thus saith the LORD, Where is the bill of your mother’s divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+      "metadata": {
+        "reference": "Isaiah 50:1",
+        "verseKey": "kjv:isaiah:50:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:50:2",
+      "numberLabel": "2",
+      "text": "Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.",
+      "metadata": {
+        "reference": "Isaiah 50:2",
+        "verseKey": "kjv:isaiah:50:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:50:3",
+      "numberLabel": "3",
+      "text": "I clothe the heavens with blackness, and I make sackcloth their covering.",
+      "metadata": {
+        "reference": "Isaiah 50:3",
+        "verseKey": "kjv:isaiah:50:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:50:4",
+      "numberLabel": "4",
+      "text": "The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+      "metadata": {
+        "reference": "Isaiah 50:4",
+        "verseKey": "kjv:isaiah:50:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:50:5",
+      "numberLabel": "5",
+      "text": "The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.",
+      "metadata": {
+        "reference": "Isaiah 50:5",
+        "verseKey": "kjv:isaiah:50:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:50:6",
+      "numberLabel": "6",
+      "text": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+      "metadata": {
+        "reference": "Isaiah 50:6",
+        "verseKey": "kjv:isaiah:50:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:50:7",
+      "numberLabel": "7",
+      "text": "For the Lord GOD will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+      "metadata": {
+        "reference": "Isaiah 50:7",
+        "verseKey": "kjv:isaiah:50:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:50:8",
+      "numberLabel": "8",
+      "text": "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.",
+      "metadata": {
+        "reference": "Isaiah 50:8",
+        "verseKey": "kjv:isaiah:50:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:50:9",
+      "numberLabel": "9",
+      "text": "Behold, the Lord GOD will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+      "metadata": {
+        "reference": "Isaiah 50:9",
+        "verseKey": "kjv:isaiah:50:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:50:10",
+      "numberLabel": "10",
+      "text": "Who is among you that feareth the LORD, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the LORD, and stay upon his God.",
+      "metadata": {
+        "reference": "Isaiah 50:10",
+        "verseKey": "kjv:isaiah:50:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:50:11",
+      "numberLabel": "11",
+      "text": "Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.",
+      "metadata": {
+        "reference": "Isaiah 50:11",
+        "verseKey": "kjv:isaiah:50:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

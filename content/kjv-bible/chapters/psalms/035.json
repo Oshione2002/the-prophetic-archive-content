@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-035",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 35,
+  "title": "Psalms 35",
+  "display_title": "Psalms 35",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 35,
+  "sortOrder": 19035,
+  "verseCount": 28,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:35:1",
+      "numberLabel": "1",
+      "text": "Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.",
+      "metadata": {
+        "reference": "Psalms 35:1",
+        "verseKey": "kjv:psalms:35:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:35:2",
+      "numberLabel": "2",
+      "text": "Take hold of shield and buckler, and stand up for mine help.",
+      "metadata": {
+        "reference": "Psalms 35:2",
+        "verseKey": "kjv:psalms:35:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:35:3",
+      "numberLabel": "3",
+      "text": "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am thy salvation.",
+      "metadata": {
+        "reference": "Psalms 35:3",
+        "verseKey": "kjv:psalms:35:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:35:4",
+      "numberLabel": "4",
+      "text": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.",
+      "metadata": {
+        "reference": "Psalms 35:4",
+        "verseKey": "kjv:psalms:35:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:35:5",
+      "numberLabel": "5",
+      "text": "Let them be as chaff before the wind: and let the angel of the LORD chase them.",
+      "metadata": {
+        "reference": "Psalms 35:5",
+        "verseKey": "kjv:psalms:35:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:35:6",
+      "numberLabel": "6",
+      "text": "Let their way be dark and slippery: and let the angel of the LORD persecute them.",
+      "metadata": {
+        "reference": "Psalms 35:6",
+        "verseKey": "kjv:psalms:35:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:35:7",
+      "numberLabel": "7",
+      "text": "For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.",
+      "metadata": {
+        "reference": "Psalms 35:7",
+        "verseKey": "kjv:psalms:35:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:35:8",
+      "numberLabel": "8",
+      "text": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.",
+      "metadata": {
+        "reference": "Psalms 35:8",
+        "verseKey": "kjv:psalms:35:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:35:9",
+      "numberLabel": "9",
+      "text": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation.",
+      "metadata": {
+        "reference": "Psalms 35:9",
+        "verseKey": "kjv:psalms:35:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:35:10",
+      "numberLabel": "10",
+      "text": "All my bones shall say, LORD, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?",
+      "metadata": {
+        "reference": "Psalms 35:10",
+        "verseKey": "kjv:psalms:35:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:35:11",
+      "numberLabel": "11",
+      "text": "False witnesses did rise up; they laid to my charge things that I knew not.",
+      "metadata": {
+        "reference": "Psalms 35:11",
+        "verseKey": "kjv:psalms:35:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:35:12",
+      "numberLabel": "12",
+      "text": "They rewarded me evil for good to the spoiling of my soul.",
+      "metadata": {
+        "reference": "Psalms 35:12",
+        "verseKey": "kjv:psalms:35:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:35:13",
+      "numberLabel": "13",
+      "text": "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
+      "metadata": {
+        "reference": "Psalms 35:13",
+        "verseKey": "kjv:psalms:35:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:35:14",
+      "numberLabel": "14",
+      "text": "I behaved myself as though he had been my friend or brother: I bowed down heavily, as one that mourneth for his mother.",
+      "metadata": {
+        "reference": "Psalms 35:14",
+        "verseKey": "kjv:psalms:35:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:35:15",
+      "numberLabel": "15",
+      "text": "But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:",
+      "metadata": {
+        "reference": "Psalms 35:15",
+        "verseKey": "kjv:psalms:35:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:35:16",
+      "numberLabel": "16",
+      "text": "With hypocritical mockers in feasts, they gnashed upon me with their teeth.",
+      "metadata": {
+        "reference": "Psalms 35:16",
+        "verseKey": "kjv:psalms:35:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:35:17",
+      "numberLabel": "17",
+      "text": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.",
+      "metadata": {
+        "reference": "Psalms 35:17",
+        "verseKey": "kjv:psalms:35:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:35:18",
+      "numberLabel": "18",
+      "text": "I will give thee thanks in the great congregation: I will praise thee among much people.",
+      "metadata": {
+        "reference": "Psalms 35:18",
+        "verseKey": "kjv:psalms:35:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:35:19",
+      "numberLabel": "19",
+      "text": "Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.",
+      "metadata": {
+        "reference": "Psalms 35:19",
+        "verseKey": "kjv:psalms:35:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:35:20",
+      "numberLabel": "20",
+      "text": "For they speak not peace: but they devise deceitful matters against them that are quiet in the land.",
+      "metadata": {
+        "reference": "Psalms 35:20",
+        "verseKey": "kjv:psalms:35:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:35:21",
+      "numberLabel": "21",
+      "text": "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.",
+      "metadata": {
+        "reference": "Psalms 35:21",
+        "verseKey": "kjv:psalms:35:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:35:22",
+      "numberLabel": "22",
+      "text": "This thou hast seen, O LORD: keep not silence: O Lord, be not far from me.",
+      "metadata": {
+        "reference": "Psalms 35:22",
+        "verseKey": "kjv:psalms:35:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:35:23",
+      "numberLabel": "23",
+      "text": "Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.",
+      "metadata": {
+        "reference": "Psalms 35:23",
+        "verseKey": "kjv:psalms:35:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:35:24",
+      "numberLabel": "24",
+      "text": "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me.",
+      "metadata": {
+        "reference": "Psalms 35:24",
+        "verseKey": "kjv:psalms:35:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:35:25",
+      "numberLabel": "25",
+      "text": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
+      "metadata": {
+        "reference": "Psalms 35:25",
+        "verseKey": "kjv:psalms:35:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:35:26",
+      "numberLabel": "26",
+      "text": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me.",
+      "metadata": {
+        "reference": "Psalms 35:26",
+        "verseKey": "kjv:psalms:35:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:35:27",
+      "numberLabel": "27",
+      "text": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.",
+      "metadata": {
+        "reference": "Psalms 35:27",
+        "verseKey": "kjv:psalms:35:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:35:28",
+      "numberLabel": "28",
+      "text": "And my tongue shall speak of thy righteousness and of thy praise all the day long.",
+      "metadata": {
+        "reference": "Psalms 35:28",
+        "verseKey": "kjv:psalms:35:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

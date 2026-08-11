@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-041",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 41,
+  "title": "Psalms 41",
+  "display_title": "Psalms 41",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 41,
+  "sortOrder": 19041,
+  "verseCount": 13,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:41:1",
+      "numberLabel": "1",
+      "text": "Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.",
+      "metadata": {
+        "reference": "Psalms 41:1",
+        "verseKey": "kjv:psalms:41:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:41:2",
+      "numberLabel": "2",
+      "text": "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.",
+      "metadata": {
+        "reference": "Psalms 41:2",
+        "verseKey": "kjv:psalms:41:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:41:3",
+      "numberLabel": "3",
+      "text": "The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.",
+      "metadata": {
+        "reference": "Psalms 41:3",
+        "verseKey": "kjv:psalms:41:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:41:4",
+      "numberLabel": "4",
+      "text": "I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.",
+      "metadata": {
+        "reference": "Psalms 41:4",
+        "verseKey": "kjv:psalms:41:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:41:5",
+      "numberLabel": "5",
+      "text": "Mine enemies speak evil of me, When shall he die, and his name perish?",
+      "metadata": {
+        "reference": "Psalms 41:5",
+        "verseKey": "kjv:psalms:41:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:41:6",
+      "numberLabel": "6",
+      "text": "And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it.",
+      "metadata": {
+        "reference": "Psalms 41:6",
+        "verseKey": "kjv:psalms:41:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:41:7",
+      "numberLabel": "7",
+      "text": "All that hate me whisper together against me: against me do they devise my hurt.",
+      "metadata": {
+        "reference": "Psalms 41:7",
+        "verseKey": "kjv:psalms:41:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:41:8",
+      "numberLabel": "8",
+      "text": "An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.",
+      "metadata": {
+        "reference": "Psalms 41:8",
+        "verseKey": "kjv:psalms:41:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:41:9",
+      "numberLabel": "9",
+      "text": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.",
+      "metadata": {
+        "reference": "Psalms 41:9",
+        "verseKey": "kjv:psalms:41:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:41:10",
+      "numberLabel": "10",
+      "text": "But thou, O LORD, be merciful unto me, and raise me up, that I may requite them.",
+      "metadata": {
+        "reference": "Psalms 41:10",
+        "verseKey": "kjv:psalms:41:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:41:11",
+      "numberLabel": "11",
+      "text": "By this I know that thou favourest me, because mine enemy doth not triumph over me.",
+      "metadata": {
+        "reference": "Psalms 41:11",
+        "verseKey": "kjv:psalms:41:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:41:12",
+      "numberLabel": "12",
+      "text": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.",
+      "metadata": {
+        "reference": "Psalms 41:12",
+        "verseKey": "kjv:psalms:41:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:41:13",
+      "numberLabel": "13",
+      "text": "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.",
+      "metadata": {
+        "reference": "Psalms 41:13",
+        "verseKey": "kjv:psalms:41:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

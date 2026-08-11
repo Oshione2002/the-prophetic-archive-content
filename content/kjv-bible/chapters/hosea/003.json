@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hosea-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Hosea 3",
+  "display_title": "Hosea 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hosea",
+  "book": "Hosea",
+  "bookName": "Hosea",
+  "bookOrder": 28,
+  "testament": "old",
+  "chapter": 3,
+  "sortOrder": 28003,
+  "verseCount": 5,
+  "aliases": [
+    "Hos",
+    "Ho"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hosea:3:1",
+      "numberLabel": "1",
+      "text": "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.",
+      "metadata": {
+        "reference": "Hosea 3:1",
+        "verseKey": "kjv:hosea:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hosea:3:2",
+      "numberLabel": "2",
+      "text": "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:",
+      "metadata": {
+        "reference": "Hosea 3:2",
+        "verseKey": "kjv:hosea:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hosea:3:3",
+      "numberLabel": "3",
+      "text": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee.",
+      "metadata": {
+        "reference": "Hosea 3:3",
+        "verseKey": "kjv:hosea:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hosea:3:4",
+      "numberLabel": "4",
+      "text": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:",
+      "metadata": {
+        "reference": "Hosea 3:4",
+        "verseKey": "kjv:hosea:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hosea:3:5",
+      "numberLabel": "5",
+      "text": "Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.",
+      "metadata": {
+        "reference": "Hosea 3:5",
+        "verseKey": "kjv:hosea:3:5"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hosea.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hosea.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

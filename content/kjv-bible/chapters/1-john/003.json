@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-john-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "1 John 3",
+  "display_title": "1 John 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-john",
+  "book": "1 John",
+  "bookName": "1 John",
+  "bookOrder": 62,
+  "testament": "new",
+  "chapter": 3,
+  "sortOrder": 62003,
+  "verseCount": 24,
+  "aliases": [
+    "1 John",
+    "1John",
+    "1 Jn",
+    "1Jn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-john:3:1",
+      "numberLabel": "1",
+      "text": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+      "metadata": {
+        "reference": "1 John 3:1",
+        "verseKey": "kjv:1-john:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-john:3:2",
+      "numberLabel": "2",
+      "text": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.",
+      "metadata": {
+        "reference": "1 John 3:2",
+        "verseKey": "kjv:1-john:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-john:3:3",
+      "numberLabel": "3",
+      "text": "And every man that hath this hope in him purifieth himself, even as he is pure.",
+      "metadata": {
+        "reference": "1 John 3:3",
+        "verseKey": "kjv:1-john:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-john:3:4",
+      "numberLabel": "4",
+      "text": "Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.",
+      "metadata": {
+        "reference": "1 John 3:4",
+        "verseKey": "kjv:1-john:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-john:3:5",
+      "numberLabel": "5",
+      "text": "And ye know that he was manifested to take away our sins; and in him is no sin.",
+      "metadata": {
+        "reference": "1 John 3:5",
+        "verseKey": "kjv:1-john:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-john:3:6",
+      "numberLabel": "6",
+      "text": "Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.",
+      "metadata": {
+        "reference": "1 John 3:6",
+        "verseKey": "kjv:1-john:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-john:3:7",
+      "numberLabel": "7",
+      "text": "Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.",
+      "metadata": {
+        "reference": "1 John 3:7",
+        "verseKey": "kjv:1-john:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-john:3:8",
+      "numberLabel": "8",
+      "text": "He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.",
+      "metadata": {
+        "reference": "1 John 3:8",
+        "verseKey": "kjv:1-john:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-john:3:9",
+      "numberLabel": "9",
+      "text": "Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.",
+      "metadata": {
+        "reference": "1 John 3:9",
+        "verseKey": "kjv:1-john:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-john:3:10",
+      "numberLabel": "10",
+      "text": "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.",
+      "metadata": {
+        "reference": "1 John 3:10",
+        "verseKey": "kjv:1-john:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-john:3:11",
+      "numberLabel": "11",
+      "text": "For this is the message that ye heard from the beginning, that we should love one another.",
+      "metadata": {
+        "reference": "1 John 3:11",
+        "verseKey": "kjv:1-john:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-john:3:12",
+      "numberLabel": "12",
+      "text": "Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.",
+      "metadata": {
+        "reference": "1 John 3:12",
+        "verseKey": "kjv:1-john:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-john:3:13",
+      "numberLabel": "13",
+      "text": "Marvel not, my brethren, if the world hate you.",
+      "metadata": {
+        "reference": "1 John 3:13",
+        "verseKey": "kjv:1-john:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-john:3:14",
+      "numberLabel": "14",
+      "text": "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.",
+      "metadata": {
+        "reference": "1 John 3:14",
+        "verseKey": "kjv:1-john:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-john:3:15",
+      "numberLabel": "15",
+      "text": "Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.",
+      "metadata": {
+        "reference": "1 John 3:15",
+        "verseKey": "kjv:1-john:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-john:3:16",
+      "numberLabel": "16",
+      "text": "Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.",
+      "metadata": {
+        "reference": "1 John 3:16",
+        "verseKey": "kjv:1-john:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-john:3:17",
+      "numberLabel": "17",
+      "text": "But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?",
+      "metadata": {
+        "reference": "1 John 3:17",
+        "verseKey": "kjv:1-john:3:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-john:3:18",
+      "numberLabel": "18",
+      "text": "My little children, let us not love in word, neither in tongue; but in deed and in truth.",
+      "metadata": {
+        "reference": "1 John 3:18",
+        "verseKey": "kjv:1-john:3:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-john:3:19",
+      "numberLabel": "19",
+      "text": "And hereby we know that we are of the truth, and shall assure our hearts before him.",
+      "metadata": {
+        "reference": "1 John 3:19",
+        "verseKey": "kjv:1-john:3:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-john:3:20",
+      "numberLabel": "20",
+      "text": "For if our heart condemn us, God is greater than our heart, and knoweth all things.",
+      "metadata": {
+        "reference": "1 John 3:20",
+        "verseKey": "kjv:1-john:3:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-john:3:21",
+      "numberLabel": "21",
+      "text": "Beloved, if our heart condemn us not, then have we confidence toward God.",
+      "metadata": {
+        "reference": "1 John 3:21",
+        "verseKey": "kjv:1-john:3:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-john:3:22",
+      "numberLabel": "22",
+      "text": "And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.",
+      "metadata": {
+        "reference": "1 John 3:22",
+        "verseKey": "kjv:1-john:3:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-john:3:23",
+      "numberLabel": "23",
+      "text": "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.",
+      "metadata": {
+        "reference": "1 John 3:23",
+        "verseKey": "kjv:1-john:3:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-john:3:24",
+      "numberLabel": "24",
+      "text": "And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.",
+      "metadata": {
+        "reference": "1 John 3:24",
+        "verseKey": "kjv:1-john:3:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Revelation 9",
+  "display_title": "Revelation 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 9,
+  "sortOrder": 66009,
+  "verseCount": 21,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:9:1",
+      "numberLabel": "1",
+      "text": "And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.",
+      "metadata": {
+        "reference": "Revelation 9:1",
+        "verseKey": "kjv:revelation:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:9:2",
+      "numberLabel": "2",
+      "text": "And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.",
+      "metadata": {
+        "reference": "Revelation 9:2",
+        "verseKey": "kjv:revelation:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:9:3",
+      "numberLabel": "3",
+      "text": "And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power.",
+      "metadata": {
+        "reference": "Revelation 9:3",
+        "verseKey": "kjv:revelation:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:9:4",
+      "numberLabel": "4",
+      "text": "And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads.",
+      "metadata": {
+        "reference": "Revelation 9:4",
+        "verseKey": "kjv:revelation:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:9:5",
+      "numberLabel": "5",
+      "text": "And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he striketh a man.",
+      "metadata": {
+        "reference": "Revelation 9:5",
+        "verseKey": "kjv:revelation:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:9:6",
+      "numberLabel": "6",
+      "text": "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.",
+      "metadata": {
+        "reference": "Revelation 9:6",
+        "verseKey": "kjv:revelation:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:9:7",
+      "numberLabel": "7",
+      "text": "And the shapes of the locusts were like unto horses prepared unto battle; and on their heads were as it were crowns like gold, and their faces were as the faces of men.",
+      "metadata": {
+        "reference": "Revelation 9:7",
+        "verseKey": "kjv:revelation:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:9:8",
+      "numberLabel": "8",
+      "text": "And they had hair as the hair of women, and their teeth were as the teeth of lions.",
+      "metadata": {
+        "reference": "Revelation 9:8",
+        "verseKey": "kjv:revelation:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:9:9",
+      "numberLabel": "9",
+      "text": "And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle.",
+      "metadata": {
+        "reference": "Revelation 9:9",
+        "verseKey": "kjv:revelation:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:9:10",
+      "numberLabel": "10",
+      "text": "And they had tails like unto scorpions, and there were stings in their tails: and their power was to hurt men five months.",
+      "metadata": {
+        "reference": "Revelation 9:10",
+        "verseKey": "kjv:revelation:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:9:11",
+      "numberLabel": "11",
+      "text": "And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon.",
+      "metadata": {
+        "reference": "Revelation 9:11",
+        "verseKey": "kjv:revelation:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:revelation:9:12",
+      "numberLabel": "12",
+      "text": "One woe is past; and, behold, there come two woes more hereafter.",
+      "metadata": {
+        "reference": "Revelation 9:12",
+        "verseKey": "kjv:revelation:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:revelation:9:13",
+      "numberLabel": "13",
+      "text": "And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,",
+      "metadata": {
+        "reference": "Revelation 9:13",
+        "verseKey": "kjv:revelation:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:revelation:9:14",
+      "numberLabel": "14",
+      "text": "Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.",
+      "metadata": {
+        "reference": "Revelation 9:14",
+        "verseKey": "kjv:revelation:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:revelation:9:15",
+      "numberLabel": "15",
+      "text": "And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men.",
+      "metadata": {
+        "reference": "Revelation 9:15",
+        "verseKey": "kjv:revelation:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:revelation:9:16",
+      "numberLabel": "16",
+      "text": "And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them.",
+      "metadata": {
+        "reference": "Revelation 9:16",
+        "verseKey": "kjv:revelation:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:revelation:9:17",
+      "numberLabel": "17",
+      "text": "And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses were as the heads of lions; and out of their mouths issued fire and smoke and brimstone.",
+      "metadata": {
+        "reference": "Revelation 9:17",
+        "verseKey": "kjv:revelation:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:revelation:9:18",
+      "numberLabel": "18",
+      "text": "By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.",
+      "metadata": {
+        "reference": "Revelation 9:18",
+        "verseKey": "kjv:revelation:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:revelation:9:19",
+      "numberLabel": "19",
+      "text": "For their power is in their mouth, and in their tails: for their tails were like unto serpents, and had heads, and with them they do hurt.",
+      "metadata": {
+        "reference": "Revelation 9:19",
+        "verseKey": "kjv:revelation:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:revelation:9:20",
+      "numberLabel": "20",
+      "text": "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:",
+      "metadata": {
+        "reference": "Revelation 9:20",
+        "verseKey": "kjv:revelation:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:revelation:9:21",
+      "numberLabel": "21",
+      "text": "Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.",
+      "metadata": {
+        "reference": "Revelation 9:21",
+        "verseKey": "kjv:revelation:9:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

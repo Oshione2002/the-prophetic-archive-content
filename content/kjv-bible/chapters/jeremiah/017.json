@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Jeremiah 17",
+  "display_title": "Jeremiah 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 24017,
+  "verseCount": 27,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:17:1",
+      "numberLabel": "1",
+      "text": "The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars;",
+      "metadata": {
+        "reference": "Jeremiah 17:1",
+        "verseKey": "kjv:jeremiah:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:17:2",
+      "numberLabel": "2",
+      "text": "Whilst their children remember their altars and their groves by the green trees upon the high hills.",
+      "metadata": {
+        "reference": "Jeremiah 17:2",
+        "verseKey": "kjv:jeremiah:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:17:3",
+      "numberLabel": "3",
+      "text": "O my mountain in the field, I will give thy substance and all thy treasures to the spoil, and thy high places for sin, throughout all thy borders.",
+      "metadata": {
+        "reference": "Jeremiah 17:3",
+        "verseKey": "kjv:jeremiah:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:17:4",
+      "numberLabel": "4",
+      "text": "And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.",
+      "metadata": {
+        "reference": "Jeremiah 17:4",
+        "verseKey": "kjv:jeremiah:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:17:5",
+      "numberLabel": "5",
+      "text": "Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 17:5",
+        "verseKey": "kjv:jeremiah:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:17:6",
+      "numberLabel": "6",
+      "text": "For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited.",
+      "metadata": {
+        "reference": "Jeremiah 17:6",
+        "verseKey": "kjv:jeremiah:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:17:7",
+      "numberLabel": "7",
+      "text": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is.",
+      "metadata": {
+        "reference": "Jeremiah 17:7",
+        "verseKey": "kjv:jeremiah:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:17:8",
+      "numberLabel": "8",
+      "text": "For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.",
+      "metadata": {
+        "reference": "Jeremiah 17:8",
+        "verseKey": "kjv:jeremiah:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:17:9",
+      "numberLabel": "9",
+      "text": "The heart is deceitful above all things, and desperately wicked: who can know it?",
+      "metadata": {
+        "reference": "Jeremiah 17:9",
+        "verseKey": "kjv:jeremiah:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:17:10",
+      "numberLabel": "10",
+      "text": "I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings.",
+      "metadata": {
+        "reference": "Jeremiah 17:10",
+        "verseKey": "kjv:jeremiah:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:17:11",
+      "numberLabel": "11",
+      "text": "As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.",
+      "metadata": {
+        "reference": "Jeremiah 17:11",
+        "verseKey": "kjv:jeremiah:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:17:12",
+      "numberLabel": "12",
+      "text": "A glorious high throne from the beginning is the place of our sanctuary.",
+      "metadata": {
+        "reference": "Jeremiah 17:12",
+        "verseKey": "kjv:jeremiah:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:17:13",
+      "numberLabel": "13",
+      "text": "O LORD, the hope of Israel, all that forsake thee shall be ashamed, and they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters.",
+      "metadata": {
+        "reference": "Jeremiah 17:13",
+        "verseKey": "kjv:jeremiah:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:17:14",
+      "numberLabel": "14",
+      "text": "Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise.",
+      "metadata": {
+        "reference": "Jeremiah 17:14",
+        "verseKey": "kjv:jeremiah:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:17:15",
+      "numberLabel": "15",
+      "text": "Behold, they say unto me, Where is the word of the LORD? let it come now.",
+      "metadata": {
+        "reference": "Jeremiah 17:15",
+        "verseKey": "kjv:jeremiah:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:17:16",
+      "numberLabel": "16",
+      "text": "As for me, I have not hastened from being a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was right before thee.",
+      "metadata": {
+        "reference": "Jeremiah 17:16",
+        "verseKey": "kjv:jeremiah:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:17:17",
+      "numberLabel": "17",
+      "text": "Be not a terror unto me: thou art my hope in the day of evil.",
+      "metadata": {
+        "reference": "Jeremiah 17:17",
+        "verseKey": "kjv:jeremiah:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:17:18",
+      "numberLabel": "18",
+      "text": "Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction.",
+      "metadata": {
+        "reference": "Jeremiah 17:18",
+        "verseKey": "kjv:jeremiah:17:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:17:19",
+      "numberLabel": "19",
+      "text": "Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;",
+      "metadata": {
+        "reference": "Jeremiah 17:19",
+        "verseKey": "kjv:jeremiah:17:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:17:20",
+      "numberLabel": "20",
+      "text": "And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:",
+      "metadata": {
+        "reference": "Jeremiah 17:20",
+        "verseKey": "kjv:jeremiah:17:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:17:21",
+      "numberLabel": "21",
+      "text": "Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;",
+      "metadata": {
+        "reference": "Jeremiah 17:21",
+        "verseKey": "kjv:jeremiah:17:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:17:22",
+      "numberLabel": "22",
+      "text": "Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.",
+      "metadata": {
+        "reference": "Jeremiah 17:22",
+        "verseKey": "kjv:jeremiah:17:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:jeremiah:17:23",
+      "numberLabel": "23",
+      "text": "But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction.",
+      "metadata": {
+        "reference": "Jeremiah 17:23",
+        "verseKey": "kjv:jeremiah:17:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:jeremiah:17:24",
+      "numberLabel": "24",
+      "text": "And it shall come to pass, if ye diligently hearken unto me, saith the LORD, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein;",
+      "metadata": {
+        "reference": "Jeremiah 17:24",
+        "verseKey": "kjv:jeremiah:17:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:jeremiah:17:25",
+      "numberLabel": "25",
+      "text": "Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.",
+      "metadata": {
+        "reference": "Jeremiah 17:25",
+        "verseKey": "kjv:jeremiah:17:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:jeremiah:17:26",
+      "numberLabel": "26",
+      "text": "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 17:26",
+        "verseKey": "kjv:jeremiah:17:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:jeremiah:17:27",
+      "numberLabel": "27",
+      "text": "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.",
+      "metadata": {
+        "reference": "Jeremiah 17:27",
+        "verseKey": "kjv:jeremiah:17:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

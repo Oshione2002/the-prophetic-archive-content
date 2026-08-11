@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Genesis 8",
+  "display_title": "Genesis 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 1008,
+  "verseCount": 22,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:8:1",
+      "numberLabel": "1",
+      "text": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;",
+      "metadata": {
+        "reference": "Genesis 8:1",
+        "verseKey": "kjv:genesis:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:8:2",
+      "numberLabel": "2",
+      "text": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
+      "metadata": {
+        "reference": "Genesis 8:2",
+        "verseKey": "kjv:genesis:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:8:3",
+      "numberLabel": "3",
+      "text": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
+      "metadata": {
+        "reference": "Genesis 8:3",
+        "verseKey": "kjv:genesis:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:8:4",
+      "numberLabel": "4",
+      "text": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
+      "metadata": {
+        "reference": "Genesis 8:4",
+        "verseKey": "kjv:genesis:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:8:5",
+      "numberLabel": "5",
+      "text": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.",
+      "metadata": {
+        "reference": "Genesis 8:5",
+        "verseKey": "kjv:genesis:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:8:6",
+      "numberLabel": "6",
+      "text": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
+      "metadata": {
+        "reference": "Genesis 8:6",
+        "verseKey": "kjv:genesis:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:8:7",
+      "numberLabel": "7",
+      "text": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.",
+      "metadata": {
+        "reference": "Genesis 8:7",
+        "verseKey": "kjv:genesis:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:8:8",
+      "numberLabel": "8",
+      "text": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;",
+      "metadata": {
+        "reference": "Genesis 8:8",
+        "verseKey": "kjv:genesis:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:8:9",
+      "numberLabel": "9",
+      "text": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.",
+      "metadata": {
+        "reference": "Genesis 8:9",
+        "verseKey": "kjv:genesis:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:8:10",
+      "numberLabel": "10",
+      "text": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;",
+      "metadata": {
+        "reference": "Genesis 8:10",
+        "verseKey": "kjv:genesis:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:8:11",
+      "numberLabel": "11",
+      "text": "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.",
+      "metadata": {
+        "reference": "Genesis 8:11",
+        "verseKey": "kjv:genesis:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:8:12",
+      "numberLabel": "12",
+      "text": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.",
+      "metadata": {
+        "reference": "Genesis 8:12",
+        "verseKey": "kjv:genesis:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:8:13",
+      "numberLabel": "13",
+      "text": "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
+      "metadata": {
+        "reference": "Genesis 8:13",
+        "verseKey": "kjv:genesis:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:8:14",
+      "numberLabel": "14",
+      "text": "And in the second month, on the seven and twentieth day of the month, was the earth dried.",
+      "metadata": {
+        "reference": "Genesis 8:14",
+        "verseKey": "kjv:genesis:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:8:15",
+      "numberLabel": "15",
+      "text": "And God spake unto Noah, saying,",
+      "metadata": {
+        "reference": "Genesis 8:15",
+        "verseKey": "kjv:genesis:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:8:16",
+      "numberLabel": "16",
+      "text": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee.",
+      "metadata": {
+        "reference": "Genesis 8:16",
+        "verseKey": "kjv:genesis:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:8:17",
+      "numberLabel": "17",
+      "text": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
+      "metadata": {
+        "reference": "Genesis 8:17",
+        "verseKey": "kjv:genesis:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:8:18",
+      "numberLabel": "18",
+      "text": "And Noah went forth, and his sons, and his wife, and his sons’ wives with him:",
+      "metadata": {
+        "reference": "Genesis 8:18",
+        "verseKey": "kjv:genesis:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:8:19",
+      "numberLabel": "19",
+      "text": "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.",
+      "metadata": {
+        "reference": "Genesis 8:19",
+        "verseKey": "kjv:genesis:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:8:20",
+      "numberLabel": "20",
+      "text": "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
+      "metadata": {
+        "reference": "Genesis 8:20",
+        "verseKey": "kjv:genesis:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:8:21",
+      "numberLabel": "21",
+      "text": "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+      "metadata": {
+        "reference": "Genesis 8:21",
+        "verseKey": "kjv:genesis:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:8:22",
+      "numberLabel": "22",
+      "text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+      "metadata": {
+        "reference": "Genesis 8:22",
+        "verseKey": "kjv:genesis:8:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

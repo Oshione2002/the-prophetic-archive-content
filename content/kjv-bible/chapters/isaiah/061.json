@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-061",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 61,
+  "title": "Isaiah 61",
+  "display_title": "Isaiah 61",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 61,
+  "sortOrder": 23061,
+  "verseCount": 11,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:61:1",
+      "numberLabel": "1",
+      "text": "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;",
+      "metadata": {
+        "reference": "Isaiah 61:1",
+        "verseKey": "kjv:isaiah:61:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:61:2",
+      "numberLabel": "2",
+      "text": "To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;",
+      "metadata": {
+        "reference": "Isaiah 61:2",
+        "verseKey": "kjv:isaiah:61:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:61:3",
+      "numberLabel": "3",
+      "text": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.",
+      "metadata": {
+        "reference": "Isaiah 61:3",
+        "verseKey": "kjv:isaiah:61:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:61:4",
+      "numberLabel": "4",
+      "text": "And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.",
+      "metadata": {
+        "reference": "Isaiah 61:4",
+        "verseKey": "kjv:isaiah:61:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:61:5",
+      "numberLabel": "5",
+      "text": "And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers.",
+      "metadata": {
+        "reference": "Isaiah 61:5",
+        "verseKey": "kjv:isaiah:61:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:61:6",
+      "numberLabel": "6",
+      "text": "But ye shall be named the Priests of the LORD: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.",
+      "metadata": {
+        "reference": "Isaiah 61:6",
+        "verseKey": "kjv:isaiah:61:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:61:7",
+      "numberLabel": "7",
+      "text": "For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.",
+      "metadata": {
+        "reference": "Isaiah 61:7",
+        "verseKey": "kjv:isaiah:61:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:61:8",
+      "numberLabel": "8",
+      "text": "For I the LORD love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.",
+      "metadata": {
+        "reference": "Isaiah 61:8",
+        "verseKey": "kjv:isaiah:61:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:61:9",
+      "numberLabel": "9",
+      "text": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the LORD hath blessed.",
+      "metadata": {
+        "reference": "Isaiah 61:9",
+        "verseKey": "kjv:isaiah:61:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:61:10",
+      "numberLabel": "10",
+      "text": "I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels.",
+      "metadata": {
+        "reference": "Isaiah 61:10",
+        "verseKey": "kjv:isaiah:61:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:61:11",
+      "numberLabel": "11",
+      "text": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations.",
+      "metadata": {
+        "reference": "Isaiah 61:11",
+        "verseKey": "kjv:isaiah:61:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

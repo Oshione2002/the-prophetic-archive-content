@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Ezekiel 25",
+  "display_title": "Ezekiel 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 26025,
+  "verseCount": 17,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:25:1",
+      "numberLabel": "1",
+      "text": "The word of the LORD came again unto me, saying,",
+      "metadata": {
+        "reference": "Ezekiel 25:1",
+        "verseKey": "kjv:ezekiel:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:25:2",
+      "numberLabel": "2",
+      "text": "Son of man, set thy face against the Ammonites, and prophesy against them;",
+      "metadata": {
+        "reference": "Ezekiel 25:2",
+        "verseKey": "kjv:ezekiel:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:25:3",
+      "numberLabel": "3",
+      "text": "And say unto the Ammonites, Hear the word of the Lord GOD; Thus saith the Lord GOD; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;",
+      "metadata": {
+        "reference": "Ezekiel 25:3",
+        "verseKey": "kjv:ezekiel:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:25:4",
+      "numberLabel": "4",
+      "text": "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk.",
+      "metadata": {
+        "reference": "Ezekiel 25:4",
+        "verseKey": "kjv:ezekiel:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:25:5",
+      "numberLabel": "5",
+      "text": "And I will make Rabbah a stable for camels, and the Ammonites a couching place for flocks: and ye shall know that I am the LORD.",
+      "metadata": {
+        "reference": "Ezekiel 25:5",
+        "verseKey": "kjv:ezekiel:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:25:6",
+      "numberLabel": "6",
+      "text": "For thus saith the Lord GOD; Because thou hast clapped thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;",
+      "metadata": {
+        "reference": "Ezekiel 25:6",
+        "verseKey": "kjv:ezekiel:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:25:7",
+      "numberLabel": "7",
+      "text": "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I am the LORD.",
+      "metadata": {
+        "reference": "Ezekiel 25:7",
+        "verseKey": "kjv:ezekiel:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:25:8",
+      "numberLabel": "8",
+      "text": "Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;",
+      "metadata": {
+        "reference": "Ezekiel 25:8",
+        "verseKey": "kjv:ezekiel:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:25:9",
+      "numberLabel": "9",
+      "text": "Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,",
+      "metadata": {
+        "reference": "Ezekiel 25:9",
+        "verseKey": "kjv:ezekiel:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:25:10",
+      "numberLabel": "10",
+      "text": "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.",
+      "metadata": {
+        "reference": "Ezekiel 25:10",
+        "verseKey": "kjv:ezekiel:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:25:11",
+      "numberLabel": "11",
+      "text": "And I will execute judgments upon Moab; and they shall know that I am the LORD.",
+      "metadata": {
+        "reference": "Ezekiel 25:11",
+        "verseKey": "kjv:ezekiel:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:25:12",
+      "numberLabel": "12",
+      "text": "Thus saith the Lord GOD; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;",
+      "metadata": {
+        "reference": "Ezekiel 25:12",
+        "verseKey": "kjv:ezekiel:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:25:13",
+      "numberLabel": "13",
+      "text": "Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.",
+      "metadata": {
+        "reference": "Ezekiel 25:13",
+        "verseKey": "kjv:ezekiel:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:25:14",
+      "numberLabel": "14",
+      "text": "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 25:14",
+        "verseKey": "kjv:ezekiel:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:25:15",
+      "numberLabel": "15",
+      "text": "Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy it for the old hatred;",
+      "metadata": {
+        "reference": "Ezekiel 25:15",
+        "verseKey": "kjv:ezekiel:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:25:16",
+      "numberLabel": "16",
+      "text": "Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.",
+      "metadata": {
+        "reference": "Ezekiel 25:16",
+        "verseKey": "kjv:ezekiel:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:25:17",
+      "numberLabel": "17",
+      "text": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them.",
+      "metadata": {
+        "reference": "Ezekiel 25:17",
+        "verseKey": "kjv:ezekiel:25:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

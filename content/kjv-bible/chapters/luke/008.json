@@ -1,0 +1,704 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Luke 8",
+  "display_title": "Luke 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 8,
+  "sortOrder": 42008,
+  "verseCount": 56,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:8:1",
+      "numberLabel": "1",
+      "text": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,",
+      "metadata": {
+        "reference": "Luke 8:1",
+        "verseKey": "kjv:luke:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:8:2",
+      "numberLabel": "2",
+      "text": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,",
+      "metadata": {
+        "reference": "Luke 8:2",
+        "verseKey": "kjv:luke:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:8:3",
+      "numberLabel": "3",
+      "text": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.",
+      "metadata": {
+        "reference": "Luke 8:3",
+        "verseKey": "kjv:luke:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:8:4",
+      "numberLabel": "4",
+      "text": "And when much people were gathered together, and were come to him out of every city, he spake by a parable:",
+      "metadata": {
+        "reference": "Luke 8:4",
+        "verseKey": "kjv:luke:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:8:5",
+      "numberLabel": "5",
+      "text": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.",
+      "metadata": {
+        "reference": "Luke 8:5",
+        "verseKey": "kjv:luke:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:8:6",
+      "numberLabel": "6",
+      "text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.",
+      "metadata": {
+        "reference": "Luke 8:6",
+        "verseKey": "kjv:luke:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:8:7",
+      "numberLabel": "7",
+      "text": "And some fell among thorns; and the thorns sprang up with it, and choked it.",
+      "metadata": {
+        "reference": "Luke 8:7",
+        "verseKey": "kjv:luke:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:8:8",
+      "numberLabel": "8",
+      "text": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear.",
+      "metadata": {
+        "reference": "Luke 8:8",
+        "verseKey": "kjv:luke:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:8:9",
+      "numberLabel": "9",
+      "text": "And his disciples asked him, saying, What might this parable be?",
+      "metadata": {
+        "reference": "Luke 8:9",
+        "verseKey": "kjv:luke:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:8:10",
+      "numberLabel": "10",
+      "text": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.",
+      "metadata": {
+        "reference": "Luke 8:10",
+        "verseKey": "kjv:luke:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:8:11",
+      "numberLabel": "11",
+      "text": "Now the parable is this: The seed is the word of God.",
+      "metadata": {
+        "reference": "Luke 8:11",
+        "verseKey": "kjv:luke:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:8:12",
+      "numberLabel": "12",
+      "text": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.",
+      "metadata": {
+        "reference": "Luke 8:12",
+        "verseKey": "kjv:luke:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:8:13",
+      "numberLabel": "13",
+      "text": "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.",
+      "metadata": {
+        "reference": "Luke 8:13",
+        "verseKey": "kjv:luke:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:8:14",
+      "numberLabel": "14",
+      "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection.",
+      "metadata": {
+        "reference": "Luke 8:14",
+        "verseKey": "kjv:luke:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:8:15",
+      "numberLabel": "15",
+      "text": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.",
+      "metadata": {
+        "reference": "Luke 8:15",
+        "verseKey": "kjv:luke:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:8:16",
+      "numberLabel": "16",
+      "text": "No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light.",
+      "metadata": {
+        "reference": "Luke 8:16",
+        "verseKey": "kjv:luke:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:8:17",
+      "numberLabel": "17",
+      "text": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad.",
+      "metadata": {
+        "reference": "Luke 8:17",
+        "verseKey": "kjv:luke:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:8:18",
+      "numberLabel": "18",
+      "text": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.",
+      "metadata": {
+        "reference": "Luke 8:18",
+        "verseKey": "kjv:luke:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:8:19",
+      "numberLabel": "19",
+      "text": "Then came to him his mother and his brethren, and could not come at him for the press.",
+      "metadata": {
+        "reference": "Luke 8:19",
+        "verseKey": "kjv:luke:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:8:20",
+      "numberLabel": "20",
+      "text": "And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee.",
+      "metadata": {
+        "reference": "Luke 8:20",
+        "verseKey": "kjv:luke:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:8:21",
+      "numberLabel": "21",
+      "text": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.",
+      "metadata": {
+        "reference": "Luke 8:21",
+        "verseKey": "kjv:luke:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:8:22",
+      "numberLabel": "22",
+      "text": "Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.",
+      "metadata": {
+        "reference": "Luke 8:22",
+        "verseKey": "kjv:luke:8:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:8:23",
+      "numberLabel": "23",
+      "text": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.",
+      "metadata": {
+        "reference": "Luke 8:23",
+        "verseKey": "kjv:luke:8:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:8:24",
+      "numberLabel": "24",
+      "text": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.",
+      "metadata": {
+        "reference": "Luke 8:24",
+        "verseKey": "kjv:luke:8:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:8:25",
+      "numberLabel": "25",
+      "text": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.",
+      "metadata": {
+        "reference": "Luke 8:25",
+        "verseKey": "kjv:luke:8:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:8:26",
+      "numberLabel": "26",
+      "text": "And they arrived at the country of the Gadarenes, which is over against Galilee.",
+      "metadata": {
+        "reference": "Luke 8:26",
+        "verseKey": "kjv:luke:8:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:8:27",
+      "numberLabel": "27",
+      "text": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs.",
+      "metadata": {
+        "reference": "Luke 8:27",
+        "verseKey": "kjv:luke:8:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:8:28",
+      "numberLabel": "28",
+      "text": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.",
+      "metadata": {
+        "reference": "Luke 8:28",
+        "verseKey": "kjv:luke:8:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:8:29",
+      "numberLabel": "29",
+      "text": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)",
+      "metadata": {
+        "reference": "Luke 8:29",
+        "verseKey": "kjv:luke:8:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:8:30",
+      "numberLabel": "30",
+      "text": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.",
+      "metadata": {
+        "reference": "Luke 8:30",
+        "verseKey": "kjv:luke:8:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:8:31",
+      "numberLabel": "31",
+      "text": "And they besought him that he would not command them to go out into the deep.",
+      "metadata": {
+        "reference": "Luke 8:31",
+        "verseKey": "kjv:luke:8:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:8:32",
+      "numberLabel": "32",
+      "text": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.",
+      "metadata": {
+        "reference": "Luke 8:32",
+        "verseKey": "kjv:luke:8:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:luke:8:33",
+      "numberLabel": "33",
+      "text": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.",
+      "metadata": {
+        "reference": "Luke 8:33",
+        "verseKey": "kjv:luke:8:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:luke:8:34",
+      "numberLabel": "34",
+      "text": "When they that fed them saw what was done, they fled, and went and told it in the city and in the country.",
+      "metadata": {
+        "reference": "Luke 8:34",
+        "verseKey": "kjv:luke:8:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:luke:8:35",
+      "numberLabel": "35",
+      "text": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.",
+      "metadata": {
+        "reference": "Luke 8:35",
+        "verseKey": "kjv:luke:8:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:luke:8:36",
+      "numberLabel": "36",
+      "text": "They also which saw it told them by what means he that was possessed of the devils was healed.",
+      "metadata": {
+        "reference": "Luke 8:36",
+        "verseKey": "kjv:luke:8:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:luke:8:37",
+      "numberLabel": "37",
+      "text": "Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.",
+      "metadata": {
+        "reference": "Luke 8:37",
+        "verseKey": "kjv:luke:8:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:luke:8:38",
+      "numberLabel": "38",
+      "text": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,",
+      "metadata": {
+        "reference": "Luke 8:38",
+        "verseKey": "kjv:luke:8:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:luke:8:39",
+      "numberLabel": "39",
+      "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
+      "metadata": {
+        "reference": "Luke 8:39",
+        "verseKey": "kjv:luke:8:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:luke:8:40",
+      "numberLabel": "40",
+      "text": "And it came to pass, that, when Jesus was returned, the people gladly received him: for they were all waiting for him.",
+      "metadata": {
+        "reference": "Luke 8:40",
+        "verseKey": "kjv:luke:8:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:luke:8:41",
+      "numberLabel": "41",
+      "text": "And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:",
+      "metadata": {
+        "reference": "Luke 8:41",
+        "verseKey": "kjv:luke:8:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:luke:8:42",
+      "numberLabel": "42",
+      "text": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.",
+      "metadata": {
+        "reference": "Luke 8:42",
+        "verseKey": "kjv:luke:8:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:luke:8:43",
+      "numberLabel": "43",
+      "text": "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,",
+      "metadata": {
+        "reference": "Luke 8:43",
+        "verseKey": "kjv:luke:8:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:luke:8:44",
+      "numberLabel": "44",
+      "text": "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched.",
+      "metadata": {
+        "reference": "Luke 8:44",
+        "verseKey": "kjv:luke:8:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:luke:8:45",
+      "numberLabel": "45",
+      "text": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?",
+      "metadata": {
+        "reference": "Luke 8:45",
+        "verseKey": "kjv:luke:8:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:luke:8:46",
+      "numberLabel": "46",
+      "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.",
+      "metadata": {
+        "reference": "Luke 8:46",
+        "verseKey": "kjv:luke:8:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:luke:8:47",
+      "numberLabel": "47",
+      "text": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.",
+      "metadata": {
+        "reference": "Luke 8:47",
+        "verseKey": "kjv:luke:8:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:luke:8:48",
+      "numberLabel": "48",
+      "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.",
+      "metadata": {
+        "reference": "Luke 8:48",
+        "verseKey": "kjv:luke:8:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:luke:8:49",
+      "numberLabel": "49",
+      "text": "While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master.",
+      "metadata": {
+        "reference": "Luke 8:49",
+        "verseKey": "kjv:luke:8:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:luke:8:50",
+      "numberLabel": "50",
+      "text": "But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole.",
+      "metadata": {
+        "reference": "Luke 8:50",
+        "verseKey": "kjv:luke:8:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:luke:8:51",
+      "numberLabel": "51",
+      "text": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.",
+      "metadata": {
+        "reference": "Luke 8:51",
+        "verseKey": "kjv:luke:8:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:luke:8:52",
+      "numberLabel": "52",
+      "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.",
+      "metadata": {
+        "reference": "Luke 8:52",
+        "verseKey": "kjv:luke:8:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:luke:8:53",
+      "numberLabel": "53",
+      "text": "And they laughed him to scorn, knowing that she was dead.",
+      "metadata": {
+        "reference": "Luke 8:53",
+        "verseKey": "kjv:luke:8:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:luke:8:54",
+      "numberLabel": "54",
+      "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise.",
+      "metadata": {
+        "reference": "Luke 8:54",
+        "verseKey": "kjv:luke:8:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:luke:8:55",
+      "numberLabel": "55",
+      "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
+      "metadata": {
+        "reference": "Luke 8:55",
+        "verseKey": "kjv:luke:8:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:luke:8:56",
+      "numberLabel": "56",
+      "text": "And her parents were astonished: but he charged them that they should tell no man what was done.",
+      "metadata": {
+        "reference": "Luke 8:56",
+        "verseKey": "kjv:luke:8:56"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-timothy-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "2 Timothy 1",
+  "display_title": "2 Timothy 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-timothy",
+  "book": "2 Timothy",
+  "bookName": "2 Timothy",
+  "bookOrder": 55,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 55001,
+  "verseCount": 18,
+  "aliases": [
+    "2 Tim",
+    "2Tim",
+    "2 Ti",
+    "2Ti"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-timothy:1:1",
+      "numberLabel": "1",
+      "text": "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,",
+      "metadata": {
+        "reference": "2 Timothy 1:1",
+        "verseKey": "kjv:2-timothy:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-timothy:1:2",
+      "numberLabel": "2",
+      "text": "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.",
+      "metadata": {
+        "reference": "2 Timothy 1:2",
+        "verseKey": "kjv:2-timothy:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-timothy:1:3",
+      "numberLabel": "3",
+      "text": "I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;",
+      "metadata": {
+        "reference": "2 Timothy 1:3",
+        "verseKey": "kjv:2-timothy:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-timothy:1:4",
+      "numberLabel": "4",
+      "text": "Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;",
+      "metadata": {
+        "reference": "2 Timothy 1:4",
+        "verseKey": "kjv:2-timothy:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-timothy:1:5",
+      "numberLabel": "5",
+      "text": "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.",
+      "metadata": {
+        "reference": "2 Timothy 1:5",
+        "verseKey": "kjv:2-timothy:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-timothy:1:6",
+      "numberLabel": "6",
+      "text": "Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.",
+      "metadata": {
+        "reference": "2 Timothy 1:6",
+        "verseKey": "kjv:2-timothy:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-timothy:1:7",
+      "numberLabel": "7",
+      "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+      "metadata": {
+        "reference": "2 Timothy 1:7",
+        "verseKey": "kjv:2-timothy:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-timothy:1:8",
+      "numberLabel": "8",
+      "text": "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;",
+      "metadata": {
+        "reference": "2 Timothy 1:8",
+        "verseKey": "kjv:2-timothy:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-timothy:1:9",
+      "numberLabel": "9",
+      "text": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+      "metadata": {
+        "reference": "2 Timothy 1:9",
+        "verseKey": "kjv:2-timothy:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-timothy:1:10",
+      "numberLabel": "10",
+      "text": "But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:",
+      "metadata": {
+        "reference": "2 Timothy 1:10",
+        "verseKey": "kjv:2-timothy:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-timothy:1:11",
+      "numberLabel": "11",
+      "text": "Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.",
+      "metadata": {
+        "reference": "2 Timothy 1:11",
+        "verseKey": "kjv:2-timothy:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-timothy:1:12",
+      "numberLabel": "12",
+      "text": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.",
+      "metadata": {
+        "reference": "2 Timothy 1:12",
+        "verseKey": "kjv:2-timothy:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-timothy:1:13",
+      "numberLabel": "13",
+      "text": "Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.",
+      "metadata": {
+        "reference": "2 Timothy 1:13",
+        "verseKey": "kjv:2-timothy:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-timothy:1:14",
+      "numberLabel": "14",
+      "text": "That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.",
+      "metadata": {
+        "reference": "2 Timothy 1:14",
+        "verseKey": "kjv:2-timothy:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-timothy:1:15",
+      "numberLabel": "15",
+      "text": "This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.",
+      "metadata": {
+        "reference": "2 Timothy 1:15",
+        "verseKey": "kjv:2-timothy:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-timothy:1:16",
+      "numberLabel": "16",
+      "text": "The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:",
+      "metadata": {
+        "reference": "2 Timothy 1:16",
+        "verseKey": "kjv:2-timothy:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-timothy:1:17",
+      "numberLabel": "17",
+      "text": "But, when he was in Rome, he sought me out very diligently, and found me.",
+      "metadata": {
+        "reference": "2 Timothy 1:17",
+        "verseKey": "kjv:2-timothy:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-timothy:1:18",
+      "numberLabel": "18",
+      "text": "The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.",
+      "metadata": {
+        "reference": "2 Timothy 1:18",
+        "verseKey": "kjv:2-timothy:1:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Timothy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Timothy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

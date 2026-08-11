@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-timothy-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "1 Timothy 3",
+  "display_title": "1 Timothy 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-timothy",
+  "book": "1 Timothy",
+  "bookName": "1 Timothy",
+  "bookOrder": 54,
+  "testament": "new",
+  "chapter": 3,
+  "sortOrder": 54003,
+  "verseCount": 16,
+  "aliases": [
+    "1 Tim",
+    "1Tim",
+    "1 Ti",
+    "1Ti"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-timothy:3:1",
+      "numberLabel": "1",
+      "text": "This is a true saying, If a man desire the office of a bishop, he desireth a good work.",
+      "metadata": {
+        "reference": "1 Timothy 3:1",
+        "verseKey": "kjv:1-timothy:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-timothy:3:2",
+      "numberLabel": "2",
+      "text": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;",
+      "metadata": {
+        "reference": "1 Timothy 3:2",
+        "verseKey": "kjv:1-timothy:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-timothy:3:3",
+      "numberLabel": "3",
+      "text": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;",
+      "metadata": {
+        "reference": "1 Timothy 3:3",
+        "verseKey": "kjv:1-timothy:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-timothy:3:4",
+      "numberLabel": "4",
+      "text": "One that ruleth well his own house, having his children in subjection with all gravity;",
+      "metadata": {
+        "reference": "1 Timothy 3:4",
+        "verseKey": "kjv:1-timothy:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-timothy:3:5",
+      "numberLabel": "5",
+      "text": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)",
+      "metadata": {
+        "reference": "1 Timothy 3:5",
+        "verseKey": "kjv:1-timothy:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-timothy:3:6",
+      "numberLabel": "6",
+      "text": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.",
+      "metadata": {
+        "reference": "1 Timothy 3:6",
+        "verseKey": "kjv:1-timothy:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-timothy:3:7",
+      "numberLabel": "7",
+      "text": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.",
+      "metadata": {
+        "reference": "1 Timothy 3:7",
+        "verseKey": "kjv:1-timothy:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-timothy:3:8",
+      "numberLabel": "8",
+      "text": "Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;",
+      "metadata": {
+        "reference": "1 Timothy 3:8",
+        "verseKey": "kjv:1-timothy:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-timothy:3:9",
+      "numberLabel": "9",
+      "text": "Holding the mystery of the faith in a pure conscience.",
+      "metadata": {
+        "reference": "1 Timothy 3:9",
+        "verseKey": "kjv:1-timothy:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-timothy:3:10",
+      "numberLabel": "10",
+      "text": "And let these also first be proved; then let them use the office of a deacon, being found blameless.",
+      "metadata": {
+        "reference": "1 Timothy 3:10",
+        "verseKey": "kjv:1-timothy:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-timothy:3:11",
+      "numberLabel": "11",
+      "text": "Even so must their wives be grave, not slanderers, sober, faithful in all things.",
+      "metadata": {
+        "reference": "1 Timothy 3:11",
+        "verseKey": "kjv:1-timothy:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-timothy:3:12",
+      "numberLabel": "12",
+      "text": "Let the deacons be the husbands of one wife, ruling their children and their own houses well.",
+      "metadata": {
+        "reference": "1 Timothy 3:12",
+        "verseKey": "kjv:1-timothy:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-timothy:3:13",
+      "numberLabel": "13",
+      "text": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.",
+      "metadata": {
+        "reference": "1 Timothy 3:13",
+        "verseKey": "kjv:1-timothy:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-timothy:3:14",
+      "numberLabel": "14",
+      "text": "These things write I unto thee, hoping to come unto thee shortly:",
+      "metadata": {
+        "reference": "1 Timothy 3:14",
+        "verseKey": "kjv:1-timothy:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-timothy:3:15",
+      "numberLabel": "15",
+      "text": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+      "metadata": {
+        "reference": "1 Timothy 3:15",
+        "verseKey": "kjv:1-timothy:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-timothy:3:16",
+      "numberLabel": "16",
+      "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.",
+      "metadata": {
+        "reference": "1 Timothy 3:16",
+        "verseKey": "kjv:1-timothy:3:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Timothy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Timothy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

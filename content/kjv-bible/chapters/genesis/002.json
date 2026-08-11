@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Genesis 2",
+  "display_title": "Genesis 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 1002,
+  "verseCount": 25,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:2:1",
+      "numberLabel": "1",
+      "text": "Thus the heavens and the earth were finished, and all the host of them.",
+      "metadata": {
+        "reference": "Genesis 2:1",
+        "verseKey": "kjv:genesis:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:2:2",
+      "numberLabel": "2",
+      "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+      "metadata": {
+        "reference": "Genesis 2:2",
+        "verseKey": "kjv:genesis:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:2:3",
+      "numberLabel": "3",
+      "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
+      "metadata": {
+        "reference": "Genesis 2:3",
+        "verseKey": "kjv:genesis:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:2:4",
+      "numberLabel": "4",
+      "text": "These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,",
+      "metadata": {
+        "reference": "Genesis 2:4",
+        "verseKey": "kjv:genesis:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:2:5",
+      "numberLabel": "5",
+      "text": "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground.",
+      "metadata": {
+        "reference": "Genesis 2:5",
+        "verseKey": "kjv:genesis:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:2:6",
+      "numberLabel": "6",
+      "text": "But there went up a mist from the earth, and watered the whole face of the ground.",
+      "metadata": {
+        "reference": "Genesis 2:6",
+        "verseKey": "kjv:genesis:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:2:7",
+      "numberLabel": "7",
+      "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+      "metadata": {
+        "reference": "Genesis 2:7",
+        "verseKey": "kjv:genesis:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:2:8",
+      "numberLabel": "8",
+      "text": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.",
+      "metadata": {
+        "reference": "Genesis 2:8",
+        "verseKey": "kjv:genesis:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:2:9",
+      "numberLabel": "9",
+      "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.",
+      "metadata": {
+        "reference": "Genesis 2:9",
+        "verseKey": "kjv:genesis:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:2:10",
+      "numberLabel": "10",
+      "text": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.",
+      "metadata": {
+        "reference": "Genesis 2:10",
+        "verseKey": "kjv:genesis:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:2:11",
+      "numberLabel": "11",
+      "text": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;",
+      "metadata": {
+        "reference": "Genesis 2:11",
+        "verseKey": "kjv:genesis:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:2:12",
+      "numberLabel": "12",
+      "text": "And the gold of that land is good: there is bdellium and the onyx stone.",
+      "metadata": {
+        "reference": "Genesis 2:12",
+        "verseKey": "kjv:genesis:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:2:13",
+      "numberLabel": "13",
+      "text": "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia.",
+      "metadata": {
+        "reference": "Genesis 2:13",
+        "verseKey": "kjv:genesis:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:2:14",
+      "numberLabel": "14",
+      "text": "And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates.",
+      "metadata": {
+        "reference": "Genesis 2:14",
+        "verseKey": "kjv:genesis:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:2:15",
+      "numberLabel": "15",
+      "text": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+      "metadata": {
+        "reference": "Genesis 2:15",
+        "verseKey": "kjv:genesis:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:2:16",
+      "numberLabel": "16",
+      "text": "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:",
+      "metadata": {
+        "reference": "Genesis 2:16",
+        "verseKey": "kjv:genesis:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:2:17",
+      "numberLabel": "17",
+      "text": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.",
+      "metadata": {
+        "reference": "Genesis 2:17",
+        "verseKey": "kjv:genesis:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:2:18",
+      "numberLabel": "18",
+      "text": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.",
+      "metadata": {
+        "reference": "Genesis 2:18",
+        "verseKey": "kjv:genesis:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:2:19",
+      "numberLabel": "19",
+      "text": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.",
+      "metadata": {
+        "reference": "Genesis 2:19",
+        "verseKey": "kjv:genesis:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:2:20",
+      "numberLabel": "20",
+      "text": "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.",
+      "metadata": {
+        "reference": "Genesis 2:20",
+        "verseKey": "kjv:genesis:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:2:21",
+      "numberLabel": "21",
+      "text": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;",
+      "metadata": {
+        "reference": "Genesis 2:21",
+        "verseKey": "kjv:genesis:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:2:22",
+      "numberLabel": "22",
+      "text": "And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.",
+      "metadata": {
+        "reference": "Genesis 2:22",
+        "verseKey": "kjv:genesis:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:2:23",
+      "numberLabel": "23",
+      "text": "And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.",
+      "metadata": {
+        "reference": "Genesis 2:23",
+        "verseKey": "kjv:genesis:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:2:24",
+      "numberLabel": "24",
+      "text": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.",
+      "metadata": {
+        "reference": "Genesis 2:24",
+        "verseKey": "kjv:genesis:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:2:25",
+      "numberLabel": "25",
+      "text": "And they were both naked, the man and his wife, and were not ashamed.",
+      "metadata": {
+        "reference": "Genesis 2:25",
+        "verseKey": "kjv:genesis:2:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

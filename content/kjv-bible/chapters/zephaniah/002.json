@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-zephaniah-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Zephaniah 2",
+  "display_title": "Zephaniah 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "zephaniah",
+  "book": "Zephaniah",
+  "bookName": "Zephaniah",
+  "bookOrder": 36,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 36002,
+  "verseCount": 15,
+  "aliases": [
+    "Zeph",
+    "Zep",
+    "Zp"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:zephaniah:2:1",
+      "numberLabel": "1",
+      "text": "Gather yourselves together, yea, gather together, O nation not desired;",
+      "metadata": {
+        "reference": "Zephaniah 2:1",
+        "verseKey": "kjv:zephaniah:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:zephaniah:2:2",
+      "numberLabel": "2",
+      "text": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD’s anger come upon you.",
+      "metadata": {
+        "reference": "Zephaniah 2:2",
+        "verseKey": "kjv:zephaniah:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:zephaniah:2:3",
+      "numberLabel": "3",
+      "text": "Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD’s anger.",
+      "metadata": {
+        "reference": "Zephaniah 2:3",
+        "verseKey": "kjv:zephaniah:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:zephaniah:2:4",
+      "numberLabel": "4",
+      "text": "For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.",
+      "metadata": {
+        "reference": "Zephaniah 2:4",
+        "verseKey": "kjv:zephaniah:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:zephaniah:2:5",
+      "numberLabel": "5",
+      "text": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
+      "metadata": {
+        "reference": "Zephaniah 2:5",
+        "verseKey": "kjv:zephaniah:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:zephaniah:2:6",
+      "numberLabel": "6",
+      "text": "And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks.",
+      "metadata": {
+        "reference": "Zephaniah 2:6",
+        "verseKey": "kjv:zephaniah:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:zephaniah:2:7",
+      "numberLabel": "7",
+      "text": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity.",
+      "metadata": {
+        "reference": "Zephaniah 2:7",
+        "verseKey": "kjv:zephaniah:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:zephaniah:2:8",
+      "numberLabel": "8",
+      "text": "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.",
+      "metadata": {
+        "reference": "Zephaniah 2:8",
+        "verseKey": "kjv:zephaniah:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:zephaniah:2:9",
+      "numberLabel": "9",
+      "text": "Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
+      "metadata": {
+        "reference": "Zephaniah 2:9",
+        "verseKey": "kjv:zephaniah:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:zephaniah:2:10",
+      "numberLabel": "10",
+      "text": "This shall they have for their pride, because they have reproached and magnified themselves against the people of the LORD of hosts.",
+      "metadata": {
+        "reference": "Zephaniah 2:10",
+        "verseKey": "kjv:zephaniah:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:zephaniah:2:11",
+      "numberLabel": "11",
+      "text": "The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen.",
+      "metadata": {
+        "reference": "Zephaniah 2:11",
+        "verseKey": "kjv:zephaniah:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:zephaniah:2:12",
+      "numberLabel": "12",
+      "text": "Ye Ethiopians also, ye shall be slain by my sword.",
+      "metadata": {
+        "reference": "Zephaniah 2:12",
+        "verseKey": "kjv:zephaniah:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:zephaniah:2:13",
+      "numberLabel": "13",
+      "text": "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness.",
+      "metadata": {
+        "reference": "Zephaniah 2:13",
+        "verseKey": "kjv:zephaniah:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:zephaniah:2:14",
+      "numberLabel": "14",
+      "text": "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work.",
+      "metadata": {
+        "reference": "Zephaniah 2:14",
+        "verseKey": "kjv:zephaniah:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:zephaniah:2:15",
+      "numberLabel": "15",
+      "text": "This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.",
+      "metadata": {
+        "reference": "Zephaniah 2:15",
+        "verseKey": "kjv:zephaniah:2:15"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Zephaniah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Zephaniah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

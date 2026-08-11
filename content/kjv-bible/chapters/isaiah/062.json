@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-062",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 62,
+  "title": "Isaiah 62",
+  "display_title": "Isaiah 62",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 62,
+  "sortOrder": 23062,
+  "verseCount": 12,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:62:1",
+      "numberLabel": "1",
+      "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.",
+      "metadata": {
+        "reference": "Isaiah 62:1",
+        "verseKey": "kjv:isaiah:62:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:62:2",
+      "numberLabel": "2",
+      "text": "And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the LORD shall name.",
+      "metadata": {
+        "reference": "Isaiah 62:2",
+        "verseKey": "kjv:isaiah:62:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:62:3",
+      "numberLabel": "3",
+      "text": "Thou shalt also be a crown of glory in the hand of the LORD, and a royal diadem in the hand of thy God.",
+      "metadata": {
+        "reference": "Isaiah 62:3",
+        "verseKey": "kjv:isaiah:62:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:62:4",
+      "numberLabel": "4",
+      "text": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzibah, and thy land Beulah: for the LORD delighteth in thee, and thy land shall be married.",
+      "metadata": {
+        "reference": "Isaiah 62:4",
+        "verseKey": "kjv:isaiah:62:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:62:5",
+      "numberLabel": "5",
+      "text": "For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.",
+      "metadata": {
+        "reference": "Isaiah 62:5",
+        "verseKey": "kjv:isaiah:62:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:62:6",
+      "numberLabel": "6",
+      "text": "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,",
+      "metadata": {
+        "reference": "Isaiah 62:6",
+        "verseKey": "kjv:isaiah:62:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:62:7",
+      "numberLabel": "7",
+      "text": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.",
+      "metadata": {
+        "reference": "Isaiah 62:7",
+        "verseKey": "kjv:isaiah:62:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:62:8",
+      "numberLabel": "8",
+      "text": "The LORD hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:",
+      "metadata": {
+        "reference": "Isaiah 62:8",
+        "verseKey": "kjv:isaiah:62:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:62:9",
+      "numberLabel": "9",
+      "text": "But they that have gathered it shall eat it, and praise the LORD; and they that have brought it together shall drink it in the courts of my holiness.",
+      "metadata": {
+        "reference": "Isaiah 62:9",
+        "verseKey": "kjv:isaiah:62:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:62:10",
+      "numberLabel": "10",
+      "text": "Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.",
+      "metadata": {
+        "reference": "Isaiah 62:10",
+        "verseKey": "kjv:isaiah:62:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:62:11",
+      "numberLabel": "11",
+      "text": "Behold, the LORD hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him.",
+      "metadata": {
+        "reference": "Isaiah 62:11",
+        "verseKey": "kjv:isaiah:62:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:62:12",
+      "numberLabel": "12",
+      "text": "And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken.",
+      "metadata": {
+        "reference": "Isaiah 62:12",
+        "verseKey": "kjv:isaiah:62:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

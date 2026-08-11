@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-055",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 55,
+  "title": "Psalms 55",
+  "display_title": "Psalms 55",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 55,
+  "sortOrder": 19055,
+  "verseCount": 23,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:55:1",
+      "numberLabel": "1",
+      "text": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
+      "metadata": {
+        "reference": "Psalms 55:1",
+        "verseKey": "kjv:psalms:55:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:55:2",
+      "numberLabel": "2",
+      "text": "Attend unto me, and hear me: I mourn in my complaint, and make a noise;",
+      "metadata": {
+        "reference": "Psalms 55:2",
+        "verseKey": "kjv:psalms:55:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:55:3",
+      "numberLabel": "3",
+      "text": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.",
+      "metadata": {
+        "reference": "Psalms 55:3",
+        "verseKey": "kjv:psalms:55:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:55:4",
+      "numberLabel": "4",
+      "text": "My heart is sore pained within me: and the terrors of death are fallen upon me.",
+      "metadata": {
+        "reference": "Psalms 55:4",
+        "verseKey": "kjv:psalms:55:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:55:5",
+      "numberLabel": "5",
+      "text": "Fearfulness and trembling are come upon me, and horror hath overwhelmed me.",
+      "metadata": {
+        "reference": "Psalms 55:5",
+        "verseKey": "kjv:psalms:55:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:55:6",
+      "numberLabel": "6",
+      "text": "And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest.",
+      "metadata": {
+        "reference": "Psalms 55:6",
+        "verseKey": "kjv:psalms:55:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:55:7",
+      "numberLabel": "7",
+      "text": "Lo, then would I wander far off, and remain in the wilderness. Selah.",
+      "metadata": {
+        "reference": "Psalms 55:7",
+        "verseKey": "kjv:psalms:55:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:55:8",
+      "numberLabel": "8",
+      "text": "I would hasten my escape from the windy storm and tempest.",
+      "metadata": {
+        "reference": "Psalms 55:8",
+        "verseKey": "kjv:psalms:55:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:55:9",
+      "numberLabel": "9",
+      "text": "Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.",
+      "metadata": {
+        "reference": "Psalms 55:9",
+        "verseKey": "kjv:psalms:55:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:55:10",
+      "numberLabel": "10",
+      "text": "Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.",
+      "metadata": {
+        "reference": "Psalms 55:10",
+        "verseKey": "kjv:psalms:55:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:55:11",
+      "numberLabel": "11",
+      "text": "Wickedness is in the midst thereof: deceit and guile depart not from her streets.",
+      "metadata": {
+        "reference": "Psalms 55:11",
+        "verseKey": "kjv:psalms:55:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:55:12",
+      "numberLabel": "12",
+      "text": "For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:",
+      "metadata": {
+        "reference": "Psalms 55:12",
+        "verseKey": "kjv:psalms:55:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:55:13",
+      "numberLabel": "13",
+      "text": "But it was thou, a man mine equal, my guide, and mine acquaintance.",
+      "metadata": {
+        "reference": "Psalms 55:13",
+        "verseKey": "kjv:psalms:55:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:55:14",
+      "numberLabel": "14",
+      "text": "We took sweet counsel together, and walked unto the house of God in company.",
+      "metadata": {
+        "reference": "Psalms 55:14",
+        "verseKey": "kjv:psalms:55:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:55:15",
+      "numberLabel": "15",
+      "text": "Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.",
+      "metadata": {
+        "reference": "Psalms 55:15",
+        "verseKey": "kjv:psalms:55:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:55:16",
+      "numberLabel": "16",
+      "text": "As for me, I will call upon God; and the LORD shall save me.",
+      "metadata": {
+        "reference": "Psalms 55:16",
+        "verseKey": "kjv:psalms:55:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:55:17",
+      "numberLabel": "17",
+      "text": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
+      "metadata": {
+        "reference": "Psalms 55:17",
+        "verseKey": "kjv:psalms:55:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:55:18",
+      "numberLabel": "18",
+      "text": "He hath delivered my soul in peace from the battle that was against me: for there were many with me.",
+      "metadata": {
+        "reference": "Psalms 55:18",
+        "verseKey": "kjv:psalms:55:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:55:19",
+      "numberLabel": "19",
+      "text": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.",
+      "metadata": {
+        "reference": "Psalms 55:19",
+        "verseKey": "kjv:psalms:55:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:55:20",
+      "numberLabel": "20",
+      "text": "He hath put forth his hands against such as be at peace with him: he hath broken his covenant.",
+      "metadata": {
+        "reference": "Psalms 55:20",
+        "verseKey": "kjv:psalms:55:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:55:21",
+      "numberLabel": "21",
+      "text": "The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.",
+      "metadata": {
+        "reference": "Psalms 55:21",
+        "verseKey": "kjv:psalms:55:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:55:22",
+      "numberLabel": "22",
+      "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+      "metadata": {
+        "reference": "Psalms 55:22",
+        "verseKey": "kjv:psalms:55:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:55:23",
+      "numberLabel": "23",
+      "text": "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.",
+      "metadata": {
+        "reference": "Psalms 55:23",
+        "verseKey": "kjv:psalms:55:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

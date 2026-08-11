@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-042",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 42,
+  "title": "Ezekiel 42",
+  "display_title": "Ezekiel 42",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 42,
+  "sortOrder": 26042,
+  "verseCount": 20,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:42:1",
+      "numberLabel": "1",
+      "text": "Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was before the building toward the north.",
+      "metadata": {
+        "reference": "Ezekiel 42:1",
+        "verseKey": "kjv:ezekiel:42:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:42:2",
+      "numberLabel": "2",
+      "text": "Before the length of an hundred cubits was the north door, and the breadth was fifty cubits.",
+      "metadata": {
+        "reference": "Ezekiel 42:2",
+        "verseKey": "kjv:ezekiel:42:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:42:3",
+      "numberLabel": "3",
+      "text": "Over against the twenty cubits which were for the inner court, and over against the pavement which was for the utter court, was gallery against gallery in three stories.",
+      "metadata": {
+        "reference": "Ezekiel 42:3",
+        "verseKey": "kjv:ezekiel:42:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:42:4",
+      "numberLabel": "4",
+      "text": "And before the chambers was a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north.",
+      "metadata": {
+        "reference": "Ezekiel 42:4",
+        "verseKey": "kjv:ezekiel:42:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:42:5",
+      "numberLabel": "5",
+      "text": "Now the upper chambers were shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.",
+      "metadata": {
+        "reference": "Ezekiel 42:5",
+        "verseKey": "kjv:ezekiel:42:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:42:6",
+      "numberLabel": "6",
+      "text": "For they were in three stories, but had not pillars as the pillars of the courts: therefore the building was straitened more than the lowest and the middlemost from the ground.",
+      "metadata": {
+        "reference": "Ezekiel 42:6",
+        "verseKey": "kjv:ezekiel:42:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:42:7",
+      "numberLabel": "7",
+      "text": "And the wall that was without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof was fifty cubits.",
+      "metadata": {
+        "reference": "Ezekiel 42:7",
+        "verseKey": "kjv:ezekiel:42:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:42:8",
+      "numberLabel": "8",
+      "text": "For the length of the chambers that were in the utter court was fifty cubits: and, lo, before the temple were an hundred cubits.",
+      "metadata": {
+        "reference": "Ezekiel 42:8",
+        "verseKey": "kjv:ezekiel:42:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:42:9",
+      "numberLabel": "9",
+      "text": "And from under these chambers was the entry on the east side, as one goeth into them from the utter court.",
+      "metadata": {
+        "reference": "Ezekiel 42:9",
+        "verseKey": "kjv:ezekiel:42:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:42:10",
+      "numberLabel": "10",
+      "text": "The chambers were in the thickness of the wall of the court toward the east, over against the separate place, and over against the building.",
+      "metadata": {
+        "reference": "Ezekiel 42:10",
+        "verseKey": "kjv:ezekiel:42:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:42:11",
+      "numberLabel": "11",
+      "text": "And the way before them was like the appearance of the chambers which were toward the north, as long as they, and as broad as they: and all their goings out were both according to their fashions, and according to their doors.",
+      "metadata": {
+        "reference": "Ezekiel 42:11",
+        "verseKey": "kjv:ezekiel:42:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:42:12",
+      "numberLabel": "12",
+      "text": "And according to the doors of the chambers that were toward the south was a door in the head of the way, even the way directly before the wall toward the east, as one entereth into them.",
+      "metadata": {
+        "reference": "Ezekiel 42:12",
+        "verseKey": "kjv:ezekiel:42:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:42:13",
+      "numberLabel": "13",
+      "text": "Then said he unto me, The north chambers and the south chambers, which are before the separate place, they be holy chambers, where the priests that approach unto the LORD shall eat the most holy things: there shall they lay the most holy things, and the meat offering, and the sin offering, and the trespass offering; for the place is holy.",
+      "metadata": {
+        "reference": "Ezekiel 42:13",
+        "verseKey": "kjv:ezekiel:42:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:42:14",
+      "numberLabel": "14",
+      "text": "When the priests enter therein, then shall they not go out of the holy place into the utter court, but there they shall lay their garments wherein they minister; for they are holy; and shall put on other garments, and shall approach to those things which are for the people.",
+      "metadata": {
+        "reference": "Ezekiel 42:14",
+        "verseKey": "kjv:ezekiel:42:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:42:15",
+      "numberLabel": "15",
+      "text": "Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect is toward the east, and measured it round about.",
+      "metadata": {
+        "reference": "Ezekiel 42:15",
+        "verseKey": "kjv:ezekiel:42:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:42:16",
+      "numberLabel": "16",
+      "text": "He measured the east side with the measuring reed, five hundred reeds, with the measuring reed round about.",
+      "metadata": {
+        "reference": "Ezekiel 42:16",
+        "verseKey": "kjv:ezekiel:42:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:42:17",
+      "numberLabel": "17",
+      "text": "He measured the north side, five hundred reeds, with the measuring reed round about.",
+      "metadata": {
+        "reference": "Ezekiel 42:17",
+        "verseKey": "kjv:ezekiel:42:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezekiel:42:18",
+      "numberLabel": "18",
+      "text": "He measured the south side, five hundred reeds, with the measuring reed.",
+      "metadata": {
+        "reference": "Ezekiel 42:18",
+        "verseKey": "kjv:ezekiel:42:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezekiel:42:19",
+      "numberLabel": "19",
+      "text": "He turned about to the west side, and measured five hundred reeds with the measuring reed.",
+      "metadata": {
+        "reference": "Ezekiel 42:19",
+        "verseKey": "kjv:ezekiel:42:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezekiel:42:20",
+      "numberLabel": "20",
+      "text": "He measured it by the four sides: it had a wall round about, five hundred reeds long, and five hundred broad, to make a separation between the sanctuary and the profane place.",
+      "metadata": {
+        "reference": "Ezekiel 42:20",
+        "verseKey": "kjv:ezekiel:42:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

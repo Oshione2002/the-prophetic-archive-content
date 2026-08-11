@@ -26,37 +26,31 @@
       "name": "Monthly Letters",
       "documentCount": 199,
       "manifest": "manifests/monthly-letters.json"
-    }
-    },
+},
     {
-      "id": "kjv-bible",
-      "slug": "kjv-bible",
-      "name": "KJV Bible",
-      "description": "King James Version Bible, 66-book Protestant canon.",
-      "collectionType": "bible",
-      "displayOrder": 5,
-      "documentCount": 66,
-      "uniqueItemCount": 66,
-      "contentVersion": 1,
-      "downloadSize": 27964190,
-      "manifest": "manifests/kjv-bible.json",
-      "translationCode": "KJV",
-      "capabilities": {
-        "responsiveText": true,
-        "search": true,
-        "offlineSearch": true,
-        "bibleReader": true,
-        "verseNavigation": true,
-        "scriptureDeepLinks": true,
-        "bookmarks": true,
-        "highlights": true,
-        "notes": true,
-        "textToSpeech": true,
-        "cleanPdf": false,
-        "originalScan": false,
-        "audio": false,
-        "video": false
-       }
-     }
-  ]
+  "id": "kjv-bible",
+  "slug": "kjv-bible",
+  "name": "KJV Bible",
+  "description": "King James Version Bible, 66-book Protestant canon.",
+  "collectionType": "bible",
+  "displayOrder": 5,
+  "documentCount": 1189,
+  "uniqueItemCount": 66,
+  "contentVersion": 1,
+  "downloadSize": 13686758,
+  "manifest": "manifests/kjv-bible.json",
+  "translationCode": "KJV",
+  "capabilities": {
+    "responsiveText": true,
+    "search": true,
+    "bibleReader": true,
+    "verseNavigation": true,
+    "cleanPdf": false,
+    "originalScan": false,
+    "audio": false,
+    "video": false
+  }
+}
+
+    ]
 }

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-026",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 26,
+  "title": "Job 26",
+  "display_title": "Job 26",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 26,
+  "sortOrder": 18026,
+  "verseCount": 14,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:26:1",
+      "numberLabel": "1",
+      "text": "But Job answered and said,",
+      "metadata": {
+        "reference": "Job 26:1",
+        "verseKey": "kjv:job:26:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:26:2",
+      "numberLabel": "2",
+      "text": "How hast thou helped him that is without power? how savest thou the arm that hath no strength?",
+      "metadata": {
+        "reference": "Job 26:2",
+        "verseKey": "kjv:job:26:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:26:3",
+      "numberLabel": "3",
+      "text": "How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?",
+      "metadata": {
+        "reference": "Job 26:3",
+        "verseKey": "kjv:job:26:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:26:4",
+      "numberLabel": "4",
+      "text": "To whom hast thou uttered words? and whose spirit came from thee?",
+      "metadata": {
+        "reference": "Job 26:4",
+        "verseKey": "kjv:job:26:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:26:5",
+      "numberLabel": "5",
+      "text": "Dead things are formed from under the waters, and the inhabitants thereof.",
+      "metadata": {
+        "reference": "Job 26:5",
+        "verseKey": "kjv:job:26:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:26:6",
+      "numberLabel": "6",
+      "text": "Hell is naked before him, and destruction hath no covering.",
+      "metadata": {
+        "reference": "Job 26:6",
+        "verseKey": "kjv:job:26:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:26:7",
+      "numberLabel": "7",
+      "text": "He stretcheth out the north over the empty place, and hangeth the earth upon nothing.",
+      "metadata": {
+        "reference": "Job 26:7",
+        "verseKey": "kjv:job:26:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:26:8",
+      "numberLabel": "8",
+      "text": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them.",
+      "metadata": {
+        "reference": "Job 26:8",
+        "verseKey": "kjv:job:26:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:26:9",
+      "numberLabel": "9",
+      "text": "He holdeth back the face of his throne, and spreadeth his cloud upon it.",
+      "metadata": {
+        "reference": "Job 26:9",
+        "verseKey": "kjv:job:26:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:26:10",
+      "numberLabel": "10",
+      "text": "He hath compassed the waters with bounds, until the day and night come to an end.",
+      "metadata": {
+        "reference": "Job 26:10",
+        "verseKey": "kjv:job:26:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:26:11",
+      "numberLabel": "11",
+      "text": "The pillars of heaven tremble and are astonished at his reproof.",
+      "metadata": {
+        "reference": "Job 26:11",
+        "verseKey": "kjv:job:26:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:26:12",
+      "numberLabel": "12",
+      "text": "He divideth the sea with his power, and by his understanding he smiteth through the proud.",
+      "metadata": {
+        "reference": "Job 26:12",
+        "verseKey": "kjv:job:26:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:26:13",
+      "numberLabel": "13",
+      "text": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.",
+      "metadata": {
+        "reference": "Job 26:13",
+        "verseKey": "kjv:job:26:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:26:14",
+      "numberLabel": "14",
+      "text": "Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?",
+      "metadata": {
+        "reference": "Job 26:14",
+        "verseKey": "kjv:job:26:14"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

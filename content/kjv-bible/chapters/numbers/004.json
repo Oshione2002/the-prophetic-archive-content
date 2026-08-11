@@ -1,0 +1,622 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Numbers 4",
+  "display_title": "Numbers 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 4004,
+  "verseCount": 49,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:4:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+      "metadata": {
+        "reference": "Numbers 4:1",
+        "verseKey": "kjv:numbers:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:4:2",
+      "numberLabel": "2",
+      "text": "Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,",
+      "metadata": {
+        "reference": "Numbers 4:2",
+        "verseKey": "kjv:numbers:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:4:3",
+      "numberLabel": "3",
+      "text": "From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "Numbers 4:3",
+        "verseKey": "kjv:numbers:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:4:4",
+      "numberLabel": "4",
+      "text": "This shall be the service of the sons of Kohath in the tabernacle of the congregation, about the most holy things:",
+      "metadata": {
+        "reference": "Numbers 4:4",
+        "verseKey": "kjv:numbers:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:4:5",
+      "numberLabel": "5",
+      "text": "And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:",
+      "metadata": {
+        "reference": "Numbers 4:5",
+        "verseKey": "kjv:numbers:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:4:6",
+      "numberLabel": "6",
+      "text": "And shall put thereon the covering of badgers’ skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof.",
+      "metadata": {
+        "reference": "Numbers 4:6",
+        "verseKey": "kjv:numbers:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:4:7",
+      "numberLabel": "7",
+      "text": "And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:",
+      "metadata": {
+        "reference": "Numbers 4:7",
+        "verseKey": "kjv:numbers:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:4:8",
+      "numberLabel": "8",
+      "text": "And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers’ skins, and shall put in the staves thereof.",
+      "metadata": {
+        "reference": "Numbers 4:8",
+        "verseKey": "kjv:numbers:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:4:9",
+      "numberLabel": "9",
+      "text": "And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:",
+      "metadata": {
+        "reference": "Numbers 4:9",
+        "verseKey": "kjv:numbers:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:4:10",
+      "numberLabel": "10",
+      "text": "And they shall put it and all the vessels thereof within a covering of badgers’ skins, and shall put it upon a bar.",
+      "metadata": {
+        "reference": "Numbers 4:10",
+        "verseKey": "kjv:numbers:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:4:11",
+      "numberLabel": "11",
+      "text": "And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers’ skins, and shall put to the staves thereof:",
+      "metadata": {
+        "reference": "Numbers 4:11",
+        "verseKey": "kjv:numbers:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:4:12",
+      "numberLabel": "12",
+      "text": "And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of badgers’ skins, and shall put them on a bar:",
+      "metadata": {
+        "reference": "Numbers 4:12",
+        "verseKey": "kjv:numbers:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:4:13",
+      "numberLabel": "13",
+      "text": "And they shall take away the ashes from the altar, and spread a purple cloth thereon:",
+      "metadata": {
+        "reference": "Numbers 4:13",
+        "verseKey": "kjv:numbers:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:4:14",
+      "numberLabel": "14",
+      "text": "And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers’ skins, and put to the staves of it.",
+      "metadata": {
+        "reference": "Numbers 4:14",
+        "verseKey": "kjv:numbers:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:4:15",
+      "numberLabel": "15",
+      "text": "And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "Numbers 4:15",
+        "verseKey": "kjv:numbers:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:4:16",
+      "numberLabel": "16",
+      "text": "And to the office of Eleazar the son of Aaron the priest pertaineth the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, and the oversight of all the tabernacle, and of all that therein is, in the sanctuary, and in the vessels thereof.",
+      "metadata": {
+        "reference": "Numbers 4:16",
+        "verseKey": "kjv:numbers:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:4:17",
+      "numberLabel": "17",
+      "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+      "metadata": {
+        "reference": "Numbers 4:17",
+        "verseKey": "kjv:numbers:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:4:18",
+      "numberLabel": "18",
+      "text": "Cut ye not off the tribe of the families of the Kohathites from among the Levites:",
+      "metadata": {
+        "reference": "Numbers 4:18",
+        "verseKey": "kjv:numbers:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:4:19",
+      "numberLabel": "19",
+      "text": "But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:",
+      "metadata": {
+        "reference": "Numbers 4:19",
+        "verseKey": "kjv:numbers:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:4:20",
+      "numberLabel": "20",
+      "text": "But they shall not go in to see when the holy things are covered, lest they die.",
+      "metadata": {
+        "reference": "Numbers 4:20",
+        "verseKey": "kjv:numbers:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:4:21",
+      "numberLabel": "21",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 4:21",
+        "verseKey": "kjv:numbers:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:4:22",
+      "numberLabel": "22",
+      "text": "Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;",
+      "metadata": {
+        "reference": "Numbers 4:22",
+        "verseKey": "kjv:numbers:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:4:23",
+      "numberLabel": "23",
+      "text": "From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "Numbers 4:23",
+        "verseKey": "kjv:numbers:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:4:24",
+      "numberLabel": "24",
+      "text": "This is the service of the families of the Gershonites, to serve, and for burdens:",
+      "metadata": {
+        "reference": "Numbers 4:24",
+        "verseKey": "kjv:numbers:4:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:4:25",
+      "numberLabel": "25",
+      "text": "And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers’ skins that is above upon it, and the hanging for the door of the tabernacle of the congregation,",
+      "metadata": {
+        "reference": "Numbers 4:25",
+        "verseKey": "kjv:numbers:4:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:numbers:4:26",
+      "numberLabel": "26",
+      "text": "And the hangings of the court, and the hanging for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve.",
+      "metadata": {
+        "reference": "Numbers 4:26",
+        "verseKey": "kjv:numbers:4:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:numbers:4:27",
+      "numberLabel": "27",
+      "text": "At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.",
+      "metadata": {
+        "reference": "Numbers 4:27",
+        "verseKey": "kjv:numbers:4:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:numbers:4:28",
+      "numberLabel": "28",
+      "text": "This is the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge shall be under the hand of Ithamar the son of Aaron the priest.",
+      "metadata": {
+        "reference": "Numbers 4:28",
+        "verseKey": "kjv:numbers:4:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:numbers:4:29",
+      "numberLabel": "29",
+      "text": "As for the sons of Merari, thou shalt number them after their families, by the house of their fathers;",
+      "metadata": {
+        "reference": "Numbers 4:29",
+        "verseKey": "kjv:numbers:4:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:numbers:4:30",
+      "numberLabel": "30",
+      "text": "From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "Numbers 4:30",
+        "verseKey": "kjv:numbers:4:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:numbers:4:31",
+      "numberLabel": "31",
+      "text": "And this is the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,",
+      "metadata": {
+        "reference": "Numbers 4:31",
+        "verseKey": "kjv:numbers:4:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:numbers:4:32",
+      "numberLabel": "32",
+      "text": "And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall reckon the instruments of the charge of their burden.",
+      "metadata": {
+        "reference": "Numbers 4:32",
+        "verseKey": "kjv:numbers:4:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:numbers:4:33",
+      "numberLabel": "33",
+      "text": "This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.",
+      "metadata": {
+        "reference": "Numbers 4:33",
+        "verseKey": "kjv:numbers:4:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:numbers:4:34",
+      "numberLabel": "34",
+      "text": "And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,",
+      "metadata": {
+        "reference": "Numbers 4:34",
+        "verseKey": "kjv:numbers:4:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:numbers:4:35",
+      "numberLabel": "35",
+      "text": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation:",
+      "metadata": {
+        "reference": "Numbers 4:35",
+        "verseKey": "kjv:numbers:4:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:numbers:4:36",
+      "numberLabel": "36",
+      "text": "And those that were numbered of them by their families were two thousand seven hundred and fifty.",
+      "metadata": {
+        "reference": "Numbers 4:36",
+        "verseKey": "kjv:numbers:4:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:numbers:4:37",
+      "numberLabel": "37",
+      "text": "These were they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses.",
+      "metadata": {
+        "reference": "Numbers 4:37",
+        "verseKey": "kjv:numbers:4:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:numbers:4:38",
+      "numberLabel": "38",
+      "text": "And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,",
+      "metadata": {
+        "reference": "Numbers 4:38",
+        "verseKey": "kjv:numbers:4:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:numbers:4:39",
+      "numberLabel": "39",
+      "text": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+      "metadata": {
+        "reference": "Numbers 4:39",
+        "verseKey": "kjv:numbers:4:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:numbers:4:40",
+      "numberLabel": "40",
+      "text": "Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty.",
+      "metadata": {
+        "reference": "Numbers 4:40",
+        "verseKey": "kjv:numbers:4:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:numbers:4:41",
+      "numberLabel": "41",
+      "text": "These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD.",
+      "metadata": {
+        "reference": "Numbers 4:41",
+        "verseKey": "kjv:numbers:4:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:numbers:4:42",
+      "numberLabel": "42",
+      "text": "And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers,",
+      "metadata": {
+        "reference": "Numbers 4:42",
+        "verseKey": "kjv:numbers:4:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:numbers:4:43",
+      "numberLabel": "43",
+      "text": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+      "metadata": {
+        "reference": "Numbers 4:43",
+        "verseKey": "kjv:numbers:4:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:numbers:4:44",
+      "numberLabel": "44",
+      "text": "Even those that were numbered of them after their families, were three thousand and two hundred.",
+      "metadata": {
+        "reference": "Numbers 4:44",
+        "verseKey": "kjv:numbers:4:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:numbers:4:45",
+      "numberLabel": "45",
+      "text": "These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses.",
+      "metadata": {
+        "reference": "Numbers 4:45",
+        "verseKey": "kjv:numbers:4:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:numbers:4:46",
+      "numberLabel": "46",
+      "text": "All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,",
+      "metadata": {
+        "reference": "Numbers 4:46",
+        "verseKey": "kjv:numbers:4:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:numbers:4:47",
+      "numberLabel": "47",
+      "text": "From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,",
+      "metadata": {
+        "reference": "Numbers 4:47",
+        "verseKey": "kjv:numbers:4:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:numbers:4:48",
+      "numberLabel": "48",
+      "text": "Even those that were numbered of them, were eight thousand and five hundred and fourscore.",
+      "metadata": {
+        "reference": "Numbers 4:48",
+        "verseKey": "kjv:numbers:4:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:numbers:4:49",
+      "numberLabel": "49",
+      "text": "According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Numbers 4:49",
+        "verseKey": "kjv:numbers:4:49"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

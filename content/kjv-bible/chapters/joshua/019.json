@@ -1,0 +1,644 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joshua-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Joshua 19",
+  "display_title": "Joshua 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joshua",
+  "book": "Joshua",
+  "bookName": "Joshua",
+  "bookOrder": 6,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 6019,
+  "verseCount": 51,
+  "aliases": [
+    "Josh",
+    "Jos"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joshua:19:1",
+      "numberLabel": "1",
+      "text": "And the second lot came forth to Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.",
+      "metadata": {
+        "reference": "Joshua 19:1",
+        "verseKey": "kjv:joshua:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joshua:19:2",
+      "numberLabel": "2",
+      "text": "And they had in their inheritance Beersheba, and Sheba, and Moladah,",
+      "metadata": {
+        "reference": "Joshua 19:2",
+        "verseKey": "kjv:joshua:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joshua:19:3",
+      "numberLabel": "3",
+      "text": "And Hazarshual, and Balah, and Azem,",
+      "metadata": {
+        "reference": "Joshua 19:3",
+        "verseKey": "kjv:joshua:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joshua:19:4",
+      "numberLabel": "4",
+      "text": "And Eltolad, and Bethul, and Hormah,",
+      "metadata": {
+        "reference": "Joshua 19:4",
+        "verseKey": "kjv:joshua:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joshua:19:5",
+      "numberLabel": "5",
+      "text": "And Ziklag, and Bethmarcaboth, and Hazarsusah,",
+      "metadata": {
+        "reference": "Joshua 19:5",
+        "verseKey": "kjv:joshua:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joshua:19:6",
+      "numberLabel": "6",
+      "text": "And Bethlebaoth, and Sharuhen; thirteen cities and their villages:",
+      "metadata": {
+        "reference": "Joshua 19:6",
+        "verseKey": "kjv:joshua:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joshua:19:7",
+      "numberLabel": "7",
+      "text": "Ain, Remmon, and Ether, and Ashan; four cities and their villages:",
+      "metadata": {
+        "reference": "Joshua 19:7",
+        "verseKey": "kjv:joshua:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joshua:19:8",
+      "numberLabel": "8",
+      "text": "And all the villages that were round about these cities to Baalathbeer, Ramath of the south. This is the inheritance of the tribe of the children of Simeon according to their families.",
+      "metadata": {
+        "reference": "Joshua 19:8",
+        "verseKey": "kjv:joshua:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joshua:19:9",
+      "numberLabel": "9",
+      "text": "Out of the portion of the children of Judah was the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.",
+      "metadata": {
+        "reference": "Joshua 19:9",
+        "verseKey": "kjv:joshua:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joshua:19:10",
+      "numberLabel": "10",
+      "text": "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:",
+      "metadata": {
+        "reference": "Joshua 19:10",
+        "verseKey": "kjv:joshua:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joshua:19:11",
+      "numberLabel": "11",
+      "text": "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that is before Jokneam;",
+      "metadata": {
+        "reference": "Joshua 19:11",
+        "verseKey": "kjv:joshua:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joshua:19:12",
+      "numberLabel": "12",
+      "text": "And turned from Sarid eastward toward the sunrising unto the border of Chislothtabor, and then goeth out to Daberath, and goeth up to Japhia,",
+      "metadata": {
+        "reference": "Joshua 19:12",
+        "verseKey": "kjv:joshua:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joshua:19:13",
+      "numberLabel": "13",
+      "text": "And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;",
+      "metadata": {
+        "reference": "Joshua 19:13",
+        "verseKey": "kjv:joshua:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joshua:19:14",
+      "numberLabel": "14",
+      "text": "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthahel:",
+      "metadata": {
+        "reference": "Joshua 19:14",
+        "verseKey": "kjv:joshua:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joshua:19:15",
+      "numberLabel": "15",
+      "text": "And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 19:15",
+        "verseKey": "kjv:joshua:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joshua:19:16",
+      "numberLabel": "16",
+      "text": "This is the inheritance of the children of Zebulun according to their families, these cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 19:16",
+        "verseKey": "kjv:joshua:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joshua:19:17",
+      "numberLabel": "17",
+      "text": "And the fourth lot came out to Issachar, for the children of Issachar according to their families.",
+      "metadata": {
+        "reference": "Joshua 19:17",
+        "verseKey": "kjv:joshua:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joshua:19:18",
+      "numberLabel": "18",
+      "text": "And their border was toward Jezreel, and Chesulloth, and Shunem,",
+      "metadata": {
+        "reference": "Joshua 19:18",
+        "verseKey": "kjv:joshua:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:joshua:19:19",
+      "numberLabel": "19",
+      "text": "And Haphraim, and Shihon, and Anaharath,",
+      "metadata": {
+        "reference": "Joshua 19:19",
+        "verseKey": "kjv:joshua:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:joshua:19:20",
+      "numberLabel": "20",
+      "text": "And Rabbith, and Kishion, and Abez,",
+      "metadata": {
+        "reference": "Joshua 19:20",
+        "verseKey": "kjv:joshua:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:joshua:19:21",
+      "numberLabel": "21",
+      "text": "And Remeth, and Engannim, and Enhaddah, and Bethpazzez;",
+      "metadata": {
+        "reference": "Joshua 19:21",
+        "verseKey": "kjv:joshua:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:joshua:19:22",
+      "numberLabel": "22",
+      "text": "And the coast reacheth to Tabor, and Shahazimah, and Bethshemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 19:22",
+        "verseKey": "kjv:joshua:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:joshua:19:23",
+      "numberLabel": "23",
+      "text": "This is the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages.",
+      "metadata": {
+        "reference": "Joshua 19:23",
+        "verseKey": "kjv:joshua:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:joshua:19:24",
+      "numberLabel": "24",
+      "text": "And the fifth lot came out for the tribe of the children of Asher according to their families.",
+      "metadata": {
+        "reference": "Joshua 19:24",
+        "verseKey": "kjv:joshua:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:joshua:19:25",
+      "numberLabel": "25",
+      "text": "And their border was Helkath, and Hali, and Beten, and Achshaph,",
+      "metadata": {
+        "reference": "Joshua 19:25",
+        "verseKey": "kjv:joshua:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:joshua:19:26",
+      "numberLabel": "26",
+      "text": "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;",
+      "metadata": {
+        "reference": "Joshua 19:26",
+        "verseKey": "kjv:joshua:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:joshua:19:27",
+      "numberLabel": "27",
+      "text": "And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,",
+      "metadata": {
+        "reference": "Joshua 19:27",
+        "verseKey": "kjv:joshua:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:joshua:19:28",
+      "numberLabel": "28",
+      "text": "And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon;",
+      "metadata": {
+        "reference": "Joshua 19:28",
+        "verseKey": "kjv:joshua:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:joshua:19:29",
+      "numberLabel": "29",
+      "text": "And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:",
+      "metadata": {
+        "reference": "Joshua 19:29",
+        "verseKey": "kjv:joshua:19:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:joshua:19:30",
+      "numberLabel": "30",
+      "text": "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 19:30",
+        "verseKey": "kjv:joshua:19:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:joshua:19:31",
+      "numberLabel": "31",
+      "text": "This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 19:31",
+        "verseKey": "kjv:joshua:19:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:joshua:19:32",
+      "numberLabel": "32",
+      "text": "The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families.",
+      "metadata": {
+        "reference": "Joshua 19:32",
+        "verseKey": "kjv:joshua:19:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:joshua:19:33",
+      "numberLabel": "33",
+      "text": "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:",
+      "metadata": {
+        "reference": "Joshua 19:33",
+        "verseKey": "kjv:joshua:19:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:joshua:19:34",
+      "numberLabel": "34",
+      "text": "And then the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.",
+      "metadata": {
+        "reference": "Joshua 19:34",
+        "verseKey": "kjv:joshua:19:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:joshua:19:35",
+      "numberLabel": "35",
+      "text": "And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,",
+      "metadata": {
+        "reference": "Joshua 19:35",
+        "verseKey": "kjv:joshua:19:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:joshua:19:36",
+      "numberLabel": "36",
+      "text": "And Adamah, and Ramah, and Hazor,",
+      "metadata": {
+        "reference": "Joshua 19:36",
+        "verseKey": "kjv:joshua:19:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:joshua:19:37",
+      "numberLabel": "37",
+      "text": "And Kedesh, and Edrei, and Enhazor,",
+      "metadata": {
+        "reference": "Joshua 19:37",
+        "verseKey": "kjv:joshua:19:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:joshua:19:38",
+      "numberLabel": "38",
+      "text": "And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 19:38",
+        "verseKey": "kjv:joshua:19:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:joshua:19:39",
+      "numberLabel": "39",
+      "text": "This is the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages.",
+      "metadata": {
+        "reference": "Joshua 19:39",
+        "verseKey": "kjv:joshua:19:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:joshua:19:40",
+      "numberLabel": "40",
+      "text": "And the seventh lot came out for the tribe of the children of Dan according to their families.",
+      "metadata": {
+        "reference": "Joshua 19:40",
+        "verseKey": "kjv:joshua:19:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:joshua:19:41",
+      "numberLabel": "41",
+      "text": "And the coast of their inheritance was Zorah, and Eshtaol, and Irshemesh,",
+      "metadata": {
+        "reference": "Joshua 19:41",
+        "verseKey": "kjv:joshua:19:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:joshua:19:42",
+      "numberLabel": "42",
+      "text": "And Shaalabbin, and Ajalon, and Jethlah,",
+      "metadata": {
+        "reference": "Joshua 19:42",
+        "verseKey": "kjv:joshua:19:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:joshua:19:43",
+      "numberLabel": "43",
+      "text": "And Elon, and Thimnathah, and Ekron,",
+      "metadata": {
+        "reference": "Joshua 19:43",
+        "verseKey": "kjv:joshua:19:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:joshua:19:44",
+      "numberLabel": "44",
+      "text": "And Eltekeh, and Gibbethon, and Baalath,",
+      "metadata": {
+        "reference": "Joshua 19:44",
+        "verseKey": "kjv:joshua:19:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:joshua:19:45",
+      "numberLabel": "45",
+      "text": "And Jehud, and Beneberak, and Gathrimmon,",
+      "metadata": {
+        "reference": "Joshua 19:45",
+        "verseKey": "kjv:joshua:19:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:joshua:19:46",
+      "numberLabel": "46",
+      "text": "And Mejarkon, and Rakkon, with the border before Japho.",
+      "metadata": {
+        "reference": "Joshua 19:46",
+        "verseKey": "kjv:joshua:19:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:joshua:19:47",
+      "numberLabel": "47",
+      "text": "And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.",
+      "metadata": {
+        "reference": "Joshua 19:47",
+        "verseKey": "kjv:joshua:19:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:joshua:19:48",
+      "numberLabel": "48",
+      "text": "This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 19:48",
+        "verseKey": "kjv:joshua:19:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:joshua:19:49",
+      "numberLabel": "49",
+      "text": "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:",
+      "metadata": {
+        "reference": "Joshua 19:49",
+        "verseKey": "kjv:joshua:19:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:joshua:19:50",
+      "numberLabel": "50",
+      "text": "According to the word of the LORD they gave him the city which he asked, even Timnathserah in mount Ephraim: and he built the city, and dwelt therein.",
+      "metadata": {
+        "reference": "Joshua 19:50",
+        "verseKey": "kjv:joshua:19:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:joshua:19:51",
+      "numberLabel": "51",
+      "text": "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country.",
+      "metadata": {
+        "reference": "Joshua 19:51",
+        "verseKey": "kjv:joshua:19:51"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joshua.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joshua.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

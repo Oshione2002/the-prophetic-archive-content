@@ -1,0 +1,561 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Mark 12",
+  "display_title": "Mark 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 12,
+  "sortOrder": 41012,
+  "verseCount": 44,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:12:1",
+      "numberLabel": "1",
+      "text": "And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.",
+      "metadata": {
+        "reference": "Mark 12:1",
+        "verseKey": "kjv:mark:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:12:2",
+      "numberLabel": "2",
+      "text": "And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard.",
+      "metadata": {
+        "reference": "Mark 12:2",
+        "verseKey": "kjv:mark:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:12:3",
+      "numberLabel": "3",
+      "text": "And they caught him, and beat him, and sent him away empty.",
+      "metadata": {
+        "reference": "Mark 12:3",
+        "verseKey": "kjv:mark:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:12:4",
+      "numberLabel": "4",
+      "text": "And again he sent unto them another servant; and at him they cast stones, and wounded him in the head, and sent him away shamefully handled.",
+      "metadata": {
+        "reference": "Mark 12:4",
+        "verseKey": "kjv:mark:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:12:5",
+      "numberLabel": "5",
+      "text": "And again he sent another; and him they killed, and many others; beating some, and killing some.",
+      "metadata": {
+        "reference": "Mark 12:5",
+        "verseKey": "kjv:mark:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:12:6",
+      "numberLabel": "6",
+      "text": "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.",
+      "metadata": {
+        "reference": "Mark 12:6",
+        "verseKey": "kjv:mark:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:12:7",
+      "numberLabel": "7",
+      "text": "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be our’s.",
+      "metadata": {
+        "reference": "Mark 12:7",
+        "verseKey": "kjv:mark:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:12:8",
+      "numberLabel": "8",
+      "text": "And they took him, and killed him, and cast him out of the vineyard.",
+      "metadata": {
+        "reference": "Mark 12:8",
+        "verseKey": "kjv:mark:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:12:9",
+      "numberLabel": "9",
+      "text": "What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others.",
+      "metadata": {
+        "reference": "Mark 12:9",
+        "verseKey": "kjv:mark:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:12:10",
+      "numberLabel": "10",
+      "text": "And have ye not read this scripture; The stone which the builders rejected is become the head of the corner:",
+      "metadata": {
+        "reference": "Mark 12:10",
+        "verseKey": "kjv:mark:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:12:11",
+      "numberLabel": "11",
+      "text": "This was the Lord’s doing, and it is marvellous in our eyes?",
+      "metadata": {
+        "reference": "Mark 12:11",
+        "verseKey": "kjv:mark:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:12:12",
+      "numberLabel": "12",
+      "text": "And they sought to lay hold on him, but feared the people: for they knew that he had spoken the parable against them: and they left him, and went their way.",
+      "metadata": {
+        "reference": "Mark 12:12",
+        "verseKey": "kjv:mark:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:12:13",
+      "numberLabel": "13",
+      "text": "And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words.",
+      "metadata": {
+        "reference": "Mark 12:13",
+        "verseKey": "kjv:mark:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:12:14",
+      "numberLabel": "14",
+      "text": "And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not?",
+      "metadata": {
+        "reference": "Mark 12:14",
+        "verseKey": "kjv:mark:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:12:15",
+      "numberLabel": "15",
+      "text": "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see it.",
+      "metadata": {
+        "reference": "Mark 12:15",
+        "verseKey": "kjv:mark:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:12:16",
+      "numberLabel": "16",
+      "text": "And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Caesar’s.",
+      "metadata": {
+        "reference": "Mark 12:16",
+        "verseKey": "kjv:mark:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:12:17",
+      "numberLabel": "17",
+      "text": "And Jesus answering said unto them, Render to Caesar the things that are Caesar’s, and to God the things that are God’s. And they marvelled at him.",
+      "metadata": {
+        "reference": "Mark 12:17",
+        "verseKey": "kjv:mark:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:12:18",
+      "numberLabel": "18",
+      "text": "Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying,",
+      "metadata": {
+        "reference": "Mark 12:18",
+        "verseKey": "kjv:mark:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:12:19",
+      "numberLabel": "19",
+      "text": "Master, Moses wrote unto us, If a man’s brother die, and leave his wife behind him, and leave no children, that his brother should take his wife, and raise up seed unto his brother.",
+      "metadata": {
+        "reference": "Mark 12:19",
+        "verseKey": "kjv:mark:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:12:20",
+      "numberLabel": "20",
+      "text": "Now there were seven brethren: and the first took a wife, and dying left no seed.",
+      "metadata": {
+        "reference": "Mark 12:20",
+        "verseKey": "kjv:mark:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:12:21",
+      "numberLabel": "21",
+      "text": "And the second took her, and died, neither left he any seed: and the third likewise.",
+      "metadata": {
+        "reference": "Mark 12:21",
+        "verseKey": "kjv:mark:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:12:22",
+      "numberLabel": "22",
+      "text": "And the seven had her, and left no seed: last of all the woman died also.",
+      "metadata": {
+        "reference": "Mark 12:22",
+        "verseKey": "kjv:mark:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:12:23",
+      "numberLabel": "23",
+      "text": "In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.",
+      "metadata": {
+        "reference": "Mark 12:23",
+        "verseKey": "kjv:mark:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:12:24",
+      "numberLabel": "24",
+      "text": "And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?",
+      "metadata": {
+        "reference": "Mark 12:24",
+        "verseKey": "kjv:mark:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:12:25",
+      "numberLabel": "25",
+      "text": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.",
+      "metadata": {
+        "reference": "Mark 12:25",
+        "verseKey": "kjv:mark:12:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:12:26",
+      "numberLabel": "26",
+      "text": "And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?",
+      "metadata": {
+        "reference": "Mark 12:26",
+        "verseKey": "kjv:mark:12:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:12:27",
+      "numberLabel": "27",
+      "text": "He is not the God of the dead, but the God of the living: ye therefore do greatly err.",
+      "metadata": {
+        "reference": "Mark 12:27",
+        "verseKey": "kjv:mark:12:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:12:28",
+      "numberLabel": "28",
+      "text": "And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?",
+      "metadata": {
+        "reference": "Mark 12:28",
+        "verseKey": "kjv:mark:12:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:12:29",
+      "numberLabel": "29",
+      "text": "And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:",
+      "metadata": {
+        "reference": "Mark 12:29",
+        "verseKey": "kjv:mark:12:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:12:30",
+      "numberLabel": "30",
+      "text": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment.",
+      "metadata": {
+        "reference": "Mark 12:30",
+        "verseKey": "kjv:mark:12:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:12:31",
+      "numberLabel": "31",
+      "text": "And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.",
+      "metadata": {
+        "reference": "Mark 12:31",
+        "verseKey": "kjv:mark:12:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:12:32",
+      "numberLabel": "32",
+      "text": "And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:",
+      "metadata": {
+        "reference": "Mark 12:32",
+        "verseKey": "kjv:mark:12:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:12:33",
+      "numberLabel": "33",
+      "text": "And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices.",
+      "metadata": {
+        "reference": "Mark 12:33",
+        "verseKey": "kjv:mark:12:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:mark:12:34",
+      "numberLabel": "34",
+      "text": "And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question.",
+      "metadata": {
+        "reference": "Mark 12:34",
+        "verseKey": "kjv:mark:12:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:mark:12:35",
+      "numberLabel": "35",
+      "text": "And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the son of David?",
+      "metadata": {
+        "reference": "Mark 12:35",
+        "verseKey": "kjv:mark:12:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:mark:12:36",
+      "numberLabel": "36",
+      "text": "For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.",
+      "metadata": {
+        "reference": "Mark 12:36",
+        "verseKey": "kjv:mark:12:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:mark:12:37",
+      "numberLabel": "37",
+      "text": "David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly.",
+      "metadata": {
+        "reference": "Mark 12:37",
+        "verseKey": "kjv:mark:12:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:mark:12:38",
+      "numberLabel": "38",
+      "text": "And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,",
+      "metadata": {
+        "reference": "Mark 12:38",
+        "verseKey": "kjv:mark:12:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:mark:12:39",
+      "numberLabel": "39",
+      "text": "And the chief seats in the synagogues, and the uppermost rooms at feasts:",
+      "metadata": {
+        "reference": "Mark 12:39",
+        "verseKey": "kjv:mark:12:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:mark:12:40",
+      "numberLabel": "40",
+      "text": "Which devour widows’ houses, and for a pretence make long prayers: these shall receive greater damnation.",
+      "metadata": {
+        "reference": "Mark 12:40",
+        "verseKey": "kjv:mark:12:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:mark:12:41",
+      "numberLabel": "41",
+      "text": "And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.",
+      "metadata": {
+        "reference": "Mark 12:41",
+        "verseKey": "kjv:mark:12:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:mark:12:42",
+      "numberLabel": "42",
+      "text": "And there came a certain poor widow, and she threw in two mites, which make a farthing.",
+      "metadata": {
+        "reference": "Mark 12:42",
+        "verseKey": "kjv:mark:12:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:mark:12:43",
+      "numberLabel": "43",
+      "text": "And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:",
+      "metadata": {
+        "reference": "Mark 12:43",
+        "verseKey": "kjv:mark:12:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:mark:12:44",
+      "numberLabel": "44",
+      "text": "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living.",
+      "metadata": {
+        "reference": "Mark 12:44",
+        "verseKey": "kjv:mark:12:44"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

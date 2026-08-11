@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Exodus 2",
+  "display_title": "Exodus 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 2002,
+  "verseCount": 25,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:2:1",
+      "numberLabel": "1",
+      "text": "And there went a man of the house of Levi, and took to wife a daughter of Levi.",
+      "metadata": {
+        "reference": "Exodus 2:1",
+        "verseKey": "kjv:exodus:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:2:2",
+      "numberLabel": "2",
+      "text": "And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.",
+      "metadata": {
+        "reference": "Exodus 2:2",
+        "verseKey": "kjv:exodus:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:2:3",
+      "numberLabel": "3",
+      "text": "And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river’s brink.",
+      "metadata": {
+        "reference": "Exodus 2:3",
+        "verseKey": "kjv:exodus:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:2:4",
+      "numberLabel": "4",
+      "text": "And his sister stood afar off, to wit what would be done to him.",
+      "metadata": {
+        "reference": "Exodus 2:4",
+        "verseKey": "kjv:exodus:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:2:5",
+      "numberLabel": "5",
+      "text": "And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it.",
+      "metadata": {
+        "reference": "Exodus 2:5",
+        "verseKey": "kjv:exodus:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:2:6",
+      "numberLabel": "6",
+      "text": "And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children.",
+      "metadata": {
+        "reference": "Exodus 2:6",
+        "verseKey": "kjv:exodus:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:2:7",
+      "numberLabel": "7",
+      "text": "Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?",
+      "metadata": {
+        "reference": "Exodus 2:7",
+        "verseKey": "kjv:exodus:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:2:8",
+      "numberLabel": "8",
+      "text": "And Pharaoh’s daughter said to her, Go. And the maid went and called the child’s mother.",
+      "metadata": {
+        "reference": "Exodus 2:8",
+        "verseKey": "kjv:exodus:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:2:9",
+      "numberLabel": "9",
+      "text": "And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it.",
+      "metadata": {
+        "reference": "Exodus 2:9",
+        "verseKey": "kjv:exodus:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:2:10",
+      "numberLabel": "10",
+      "text": "And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.",
+      "metadata": {
+        "reference": "Exodus 2:10",
+        "verseKey": "kjv:exodus:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:2:11",
+      "numberLabel": "11",
+      "text": "And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.",
+      "metadata": {
+        "reference": "Exodus 2:11",
+        "verseKey": "kjv:exodus:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:2:12",
+      "numberLabel": "12",
+      "text": "And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand.",
+      "metadata": {
+        "reference": "Exodus 2:12",
+        "verseKey": "kjv:exodus:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:2:13",
+      "numberLabel": "13",
+      "text": "And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?",
+      "metadata": {
+        "reference": "Exodus 2:13",
+        "verseKey": "kjv:exodus:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:2:14",
+      "numberLabel": "14",
+      "text": "And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.",
+      "metadata": {
+        "reference": "Exodus 2:14",
+        "verseKey": "kjv:exodus:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:2:15",
+      "numberLabel": "15",
+      "text": "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well.",
+      "metadata": {
+        "reference": "Exodus 2:15",
+        "verseKey": "kjv:exodus:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:2:16",
+      "numberLabel": "16",
+      "text": "Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father’s flock.",
+      "metadata": {
+        "reference": "Exodus 2:16",
+        "verseKey": "kjv:exodus:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:2:17",
+      "numberLabel": "17",
+      "text": "And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.",
+      "metadata": {
+        "reference": "Exodus 2:17",
+        "verseKey": "kjv:exodus:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:2:18",
+      "numberLabel": "18",
+      "text": "And when they came to Reuel their father, he said, How is it that ye are come so soon to day?",
+      "metadata": {
+        "reference": "Exodus 2:18",
+        "verseKey": "kjv:exodus:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:2:19",
+      "numberLabel": "19",
+      "text": "And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew water enough for us, and watered the flock.",
+      "metadata": {
+        "reference": "Exodus 2:19",
+        "verseKey": "kjv:exodus:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:2:20",
+      "numberLabel": "20",
+      "text": "And he said unto his daughters, And where is he? why is it that ye have left the man? call him, that he may eat bread.",
+      "metadata": {
+        "reference": "Exodus 2:20",
+        "verseKey": "kjv:exodus:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:2:21",
+      "numberLabel": "21",
+      "text": "And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter.",
+      "metadata": {
+        "reference": "Exodus 2:21",
+        "verseKey": "kjv:exodus:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:2:22",
+      "numberLabel": "22",
+      "text": "And she bare him a son, and he called his name Gershom: for he said, I have been a stranger in a strange land.",
+      "metadata": {
+        "reference": "Exodus 2:22",
+        "verseKey": "kjv:exodus:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:2:23",
+      "numberLabel": "23",
+      "text": "And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.",
+      "metadata": {
+        "reference": "Exodus 2:23",
+        "verseKey": "kjv:exodus:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:2:24",
+      "numberLabel": "24",
+      "text": "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.",
+      "metadata": {
+        "reference": "Exodus 2:24",
+        "verseKey": "kjv:exodus:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:2:25",
+      "numberLabel": "25",
+      "text": "And God looked upon the children of Israel, and God had respect unto them.",
+      "metadata": {
+        "reference": "Exodus 2:25",
+        "verseKey": "kjv:exodus:2:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

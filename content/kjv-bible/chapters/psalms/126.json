@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-126",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 126,
+  "title": "Psalms 126",
+  "display_title": "Psalms 126",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 126,
+  "sortOrder": 19126,
+  "verseCount": 6,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:126:1",
+      "numberLabel": "1",
+      "text": "When the LORD turned again the captivity of Zion, we were like them that dream.",
+      "metadata": {
+        "reference": "Psalms 126:1",
+        "verseKey": "kjv:psalms:126:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:126:2",
+      "numberLabel": "2",
+      "text": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.",
+      "metadata": {
+        "reference": "Psalms 126:2",
+        "verseKey": "kjv:psalms:126:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:126:3",
+      "numberLabel": "3",
+      "text": "The LORD hath done great things for us; whereof we are glad.",
+      "metadata": {
+        "reference": "Psalms 126:3",
+        "verseKey": "kjv:psalms:126:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:126:4",
+      "numberLabel": "4",
+      "text": "Turn again our captivity, O LORD, as the streams in the south.",
+      "metadata": {
+        "reference": "Psalms 126:4",
+        "verseKey": "kjv:psalms:126:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:126:5",
+      "numberLabel": "5",
+      "text": "They that sow in tears shall reap in joy.",
+      "metadata": {
+        "reference": "Psalms 126:5",
+        "verseKey": "kjv:psalms:126:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:126:6",
+      "numberLabel": "6",
+      "text": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.",
+      "metadata": {
+        "reference": "Psalms 126:6",
+        "verseKey": "kjv:psalms:126:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

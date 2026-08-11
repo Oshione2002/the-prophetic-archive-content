@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-101",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 101,
+  "title": "Psalms 101",
+  "display_title": "Psalms 101",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 101,
+  "sortOrder": 19101,
+  "verseCount": 8,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:101:1",
+      "numberLabel": "1",
+      "text": "I will sing of mercy and judgment: unto thee, O LORD, will I sing.",
+      "metadata": {
+        "reference": "Psalms 101:1",
+        "verseKey": "kjv:psalms:101:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:101:2",
+      "numberLabel": "2",
+      "text": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+      "metadata": {
+        "reference": "Psalms 101:2",
+        "verseKey": "kjv:psalms:101:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:101:3",
+      "numberLabel": "3",
+      "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.",
+      "metadata": {
+        "reference": "Psalms 101:3",
+        "verseKey": "kjv:psalms:101:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:101:4",
+      "numberLabel": "4",
+      "text": "A froward heart shall depart from me: I will not know a wicked person.",
+      "metadata": {
+        "reference": "Psalms 101:4",
+        "verseKey": "kjv:psalms:101:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:101:5",
+      "numberLabel": "5",
+      "text": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+      "metadata": {
+        "reference": "Psalms 101:5",
+        "verseKey": "kjv:psalms:101:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:101:6",
+      "numberLabel": "6",
+      "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+      "metadata": {
+        "reference": "Psalms 101:6",
+        "verseKey": "kjv:psalms:101:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:101:7",
+      "numberLabel": "7",
+      "text": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
+      "metadata": {
+        "reference": "Psalms 101:7",
+        "verseKey": "kjv:psalms:101:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:101:8",
+      "numberLabel": "8",
+      "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.",
+      "metadata": {
+        "reference": "Psalms 101:8",
+        "verseKey": "kjv:psalms:101:8"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

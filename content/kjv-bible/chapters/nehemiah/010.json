@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-nehemiah-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Nehemiah 10",
+  "display_title": "Nehemiah 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "nehemiah",
+  "book": "Nehemiah",
+  "bookName": "Nehemiah",
+  "bookOrder": 16,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 16010,
+  "verseCount": 39,
+  "aliases": [
+    "Neh",
+    "Ne"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:nehemiah:10:1",
+      "numberLabel": "1",
+      "text": "Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,",
+      "metadata": {
+        "reference": "Nehemiah 10:1",
+        "verseKey": "kjv:nehemiah:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:nehemiah:10:2",
+      "numberLabel": "2",
+      "text": "Seraiah, Azariah, Jeremiah,",
+      "metadata": {
+        "reference": "Nehemiah 10:2",
+        "verseKey": "kjv:nehemiah:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:nehemiah:10:3",
+      "numberLabel": "3",
+      "text": "Pashur, Amariah, Malchijah,",
+      "metadata": {
+        "reference": "Nehemiah 10:3",
+        "verseKey": "kjv:nehemiah:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:nehemiah:10:4",
+      "numberLabel": "4",
+      "text": "Hattush, Shebaniah, Malluch,",
+      "metadata": {
+        "reference": "Nehemiah 10:4",
+        "verseKey": "kjv:nehemiah:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:nehemiah:10:5",
+      "numberLabel": "5",
+      "text": "Harim, Meremoth, Obadiah,",
+      "metadata": {
+        "reference": "Nehemiah 10:5",
+        "verseKey": "kjv:nehemiah:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:nehemiah:10:6",
+      "numberLabel": "6",
+      "text": "Daniel, Ginnethon, Baruch,",
+      "metadata": {
+        "reference": "Nehemiah 10:6",
+        "verseKey": "kjv:nehemiah:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:nehemiah:10:7",
+      "numberLabel": "7",
+      "text": "Meshullam, Abijah, Mijamin,",
+      "metadata": {
+        "reference": "Nehemiah 10:7",
+        "verseKey": "kjv:nehemiah:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:nehemiah:10:8",
+      "numberLabel": "8",
+      "text": "Maaziah, Bilgai, Shemaiah: these were the priests.",
+      "metadata": {
+        "reference": "Nehemiah 10:8",
+        "verseKey": "kjv:nehemiah:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:nehemiah:10:9",
+      "numberLabel": "9",
+      "text": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+      "metadata": {
+        "reference": "Nehemiah 10:9",
+        "verseKey": "kjv:nehemiah:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:nehemiah:10:10",
+      "numberLabel": "10",
+      "text": "And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,",
+      "metadata": {
+        "reference": "Nehemiah 10:10",
+        "verseKey": "kjv:nehemiah:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:nehemiah:10:11",
+      "numberLabel": "11",
+      "text": "Micha, Rehob, Hashabiah,",
+      "metadata": {
+        "reference": "Nehemiah 10:11",
+        "verseKey": "kjv:nehemiah:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:nehemiah:10:12",
+      "numberLabel": "12",
+      "text": "Zaccur, Sherebiah, Shebaniah,",
+      "metadata": {
+        "reference": "Nehemiah 10:12",
+        "verseKey": "kjv:nehemiah:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:nehemiah:10:13",
+      "numberLabel": "13",
+      "text": "Hodijah, Bani, Beninu.",
+      "metadata": {
+        "reference": "Nehemiah 10:13",
+        "verseKey": "kjv:nehemiah:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:nehemiah:10:14",
+      "numberLabel": "14",
+      "text": "The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,",
+      "metadata": {
+        "reference": "Nehemiah 10:14",
+        "verseKey": "kjv:nehemiah:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:nehemiah:10:15",
+      "numberLabel": "15",
+      "text": "Bunni, Azgad, Bebai,",
+      "metadata": {
+        "reference": "Nehemiah 10:15",
+        "verseKey": "kjv:nehemiah:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:nehemiah:10:16",
+      "numberLabel": "16",
+      "text": "Adonijah, Bigvai, Adin,",
+      "metadata": {
+        "reference": "Nehemiah 10:16",
+        "verseKey": "kjv:nehemiah:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:nehemiah:10:17",
+      "numberLabel": "17",
+      "text": "Ater, Hizkijah, Azzur,",
+      "metadata": {
+        "reference": "Nehemiah 10:17",
+        "verseKey": "kjv:nehemiah:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:nehemiah:10:18",
+      "numberLabel": "18",
+      "text": "Hodijah, Hashum, Bezai,",
+      "metadata": {
+        "reference": "Nehemiah 10:18",
+        "verseKey": "kjv:nehemiah:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:nehemiah:10:19",
+      "numberLabel": "19",
+      "text": "Hariph, Anathoth, Nebai,",
+      "metadata": {
+        "reference": "Nehemiah 10:19",
+        "verseKey": "kjv:nehemiah:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:nehemiah:10:20",
+      "numberLabel": "20",
+      "text": "Magpiash, Meshullam, Hezir,",
+      "metadata": {
+        "reference": "Nehemiah 10:20",
+        "verseKey": "kjv:nehemiah:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:nehemiah:10:21",
+      "numberLabel": "21",
+      "text": "Meshezabeel, Zadok, Jaddua,",
+      "metadata": {
+        "reference": "Nehemiah 10:21",
+        "verseKey": "kjv:nehemiah:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:nehemiah:10:22",
+      "numberLabel": "22",
+      "text": "Pelatiah, Hanan, Anaiah,",
+      "metadata": {
+        "reference": "Nehemiah 10:22",
+        "verseKey": "kjv:nehemiah:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:nehemiah:10:23",
+      "numberLabel": "23",
+      "text": "Hoshea, Hananiah, Hashub,",
+      "metadata": {
+        "reference": "Nehemiah 10:23",
+        "verseKey": "kjv:nehemiah:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:nehemiah:10:24",
+      "numberLabel": "24",
+      "text": "Hallohesh, Pileha, Shobek,",
+      "metadata": {
+        "reference": "Nehemiah 10:24",
+        "verseKey": "kjv:nehemiah:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:nehemiah:10:25",
+      "numberLabel": "25",
+      "text": "Rehum, Hashabnah, Maaseiah,",
+      "metadata": {
+        "reference": "Nehemiah 10:25",
+        "verseKey": "kjv:nehemiah:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:nehemiah:10:26",
+      "numberLabel": "26",
+      "text": "And Ahijah, Hanan, Anan,",
+      "metadata": {
+        "reference": "Nehemiah 10:26",
+        "verseKey": "kjv:nehemiah:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:nehemiah:10:27",
+      "numberLabel": "27",
+      "text": "Malluch, Harim, Baanah.",
+      "metadata": {
+        "reference": "Nehemiah 10:27",
+        "verseKey": "kjv:nehemiah:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:nehemiah:10:28",
+      "numberLabel": "28",
+      "text": "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;",
+      "metadata": {
+        "reference": "Nehemiah 10:28",
+        "verseKey": "kjv:nehemiah:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:nehemiah:10:29",
+      "numberLabel": "29",
+      "text": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;",
+      "metadata": {
+        "reference": "Nehemiah 10:29",
+        "verseKey": "kjv:nehemiah:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:nehemiah:10:30",
+      "numberLabel": "30",
+      "text": "And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:",
+      "metadata": {
+        "reference": "Nehemiah 10:30",
+        "verseKey": "kjv:nehemiah:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:nehemiah:10:31",
+      "numberLabel": "31",
+      "text": "And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt.",
+      "metadata": {
+        "reference": "Nehemiah 10:31",
+        "verseKey": "kjv:nehemiah:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:nehemiah:10:32",
+      "numberLabel": "32",
+      "text": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;",
+      "metadata": {
+        "reference": "Nehemiah 10:32",
+        "verseKey": "kjv:nehemiah:10:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:nehemiah:10:33",
+      "numberLabel": "33",
+      "text": "For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.",
+      "metadata": {
+        "reference": "Nehemiah 10:33",
+        "verseKey": "kjv:nehemiah:10:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:nehemiah:10:34",
+      "numberLabel": "34",
+      "text": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law:",
+      "metadata": {
+        "reference": "Nehemiah 10:34",
+        "verseKey": "kjv:nehemiah:10:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:nehemiah:10:35",
+      "numberLabel": "35",
+      "text": "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:",
+      "metadata": {
+        "reference": "Nehemiah 10:35",
+        "verseKey": "kjv:nehemiah:10:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:nehemiah:10:36",
+      "numberLabel": "36",
+      "text": "Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:",
+      "metadata": {
+        "reference": "Nehemiah 10:36",
+        "verseKey": "kjv:nehemiah:10:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:nehemiah:10:37",
+      "numberLabel": "37",
+      "text": "And that we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.",
+      "metadata": {
+        "reference": "Nehemiah 10:37",
+        "verseKey": "kjv:nehemiah:10:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:nehemiah:10:38",
+      "numberLabel": "38",
+      "text": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.",
+      "metadata": {
+        "reference": "Nehemiah 10:38",
+        "verseKey": "kjv:nehemiah:10:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:nehemiah:10:39",
+      "numberLabel": "39",
+      "text": "For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+      "metadata": {
+        "reference": "Nehemiah 10:39",
+        "verseKey": "kjv:nehemiah:10:39"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Nehemiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Nehemiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

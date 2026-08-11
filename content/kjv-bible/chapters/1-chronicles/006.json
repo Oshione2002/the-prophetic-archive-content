@@ -1,0 +1,1006 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-chronicles-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "1 Chronicles 6",
+  "display_title": "1 Chronicles 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-chronicles",
+  "book": "1 Chronicles",
+  "bookName": "1 Chronicles",
+  "bookOrder": 13,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 13006,
+  "verseCount": 81,
+  "aliases": [
+    "1 Chr",
+    "1Chr",
+    "1 Ch",
+    "1Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-chronicles:6:1",
+      "numberLabel": "1",
+      "text": "The sons of Levi; Gershon, Kohath, and Merari.",
+      "metadata": {
+        "reference": "1 Chronicles 6:1",
+        "verseKey": "kjv:1-chronicles:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-chronicles:6:2",
+      "numberLabel": "2",
+      "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.",
+      "metadata": {
+        "reference": "1 Chronicles 6:2",
+        "verseKey": "kjv:1-chronicles:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-chronicles:6:3",
+      "numberLabel": "3",
+      "text": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+      "metadata": {
+        "reference": "1 Chronicles 6:3",
+        "verseKey": "kjv:1-chronicles:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-chronicles:6:4",
+      "numberLabel": "4",
+      "text": "Eleazar begat Phinehas, Phinehas begat Abishua,",
+      "metadata": {
+        "reference": "1 Chronicles 6:4",
+        "verseKey": "kjv:1-chronicles:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-chronicles:6:5",
+      "numberLabel": "5",
+      "text": "And Abishua begat Bukki, and Bukki begat Uzzi,",
+      "metadata": {
+        "reference": "1 Chronicles 6:5",
+        "verseKey": "kjv:1-chronicles:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-chronicles:6:6",
+      "numberLabel": "6",
+      "text": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,",
+      "metadata": {
+        "reference": "1 Chronicles 6:6",
+        "verseKey": "kjv:1-chronicles:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-chronicles:6:7",
+      "numberLabel": "7",
+      "text": "Meraioth begat Amariah, and Amariah begat Ahitub,",
+      "metadata": {
+        "reference": "1 Chronicles 6:7",
+        "verseKey": "kjv:1-chronicles:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-chronicles:6:8",
+      "numberLabel": "8",
+      "text": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,",
+      "metadata": {
+        "reference": "1 Chronicles 6:8",
+        "verseKey": "kjv:1-chronicles:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-chronicles:6:9",
+      "numberLabel": "9",
+      "text": "And Ahimaaz begat Azariah, and Azariah begat Johanan,",
+      "metadata": {
+        "reference": "1 Chronicles 6:9",
+        "verseKey": "kjv:1-chronicles:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-chronicles:6:10",
+      "numberLabel": "10",
+      "text": "And Johanan begat Azariah, (he it is that executed the priest’s office in the temple that Solomon built in Jerusalem:)",
+      "metadata": {
+        "reference": "1 Chronicles 6:10",
+        "verseKey": "kjv:1-chronicles:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-chronicles:6:11",
+      "numberLabel": "11",
+      "text": "And Azariah begat Amariah, and Amariah begat Ahitub,",
+      "metadata": {
+        "reference": "1 Chronicles 6:11",
+        "verseKey": "kjv:1-chronicles:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-chronicles:6:12",
+      "numberLabel": "12",
+      "text": "And Ahitub begat Zadok, and Zadok begat Shallum,",
+      "metadata": {
+        "reference": "1 Chronicles 6:12",
+        "verseKey": "kjv:1-chronicles:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-chronicles:6:13",
+      "numberLabel": "13",
+      "text": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,",
+      "metadata": {
+        "reference": "1 Chronicles 6:13",
+        "verseKey": "kjv:1-chronicles:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-chronicles:6:14",
+      "numberLabel": "14",
+      "text": "And Azariah begat Seraiah, and Seraiah begat Jehozadak,",
+      "metadata": {
+        "reference": "1 Chronicles 6:14",
+        "verseKey": "kjv:1-chronicles:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-chronicles:6:15",
+      "numberLabel": "15",
+      "text": "And Jehozadak went into captivity, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
+      "metadata": {
+        "reference": "1 Chronicles 6:15",
+        "verseKey": "kjv:1-chronicles:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-chronicles:6:16",
+      "numberLabel": "16",
+      "text": "The sons of Levi; Gershom, Kohath, and Merari.",
+      "metadata": {
+        "reference": "1 Chronicles 6:16",
+        "verseKey": "kjv:1-chronicles:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-chronicles:6:17",
+      "numberLabel": "17",
+      "text": "And these be the names of the sons of Gershom; Libni, and Shimei.",
+      "metadata": {
+        "reference": "1 Chronicles 6:17",
+        "verseKey": "kjv:1-chronicles:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-chronicles:6:18",
+      "numberLabel": "18",
+      "text": "And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.",
+      "metadata": {
+        "reference": "1 Chronicles 6:18",
+        "verseKey": "kjv:1-chronicles:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-chronicles:6:19",
+      "numberLabel": "19",
+      "text": "The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers.",
+      "metadata": {
+        "reference": "1 Chronicles 6:19",
+        "verseKey": "kjv:1-chronicles:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-chronicles:6:20",
+      "numberLabel": "20",
+      "text": "Of Gershom; Libni his son, Jahath his son, Zimmah his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:20",
+        "verseKey": "kjv:1-chronicles:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-chronicles:6:21",
+      "numberLabel": "21",
+      "text": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son.",
+      "metadata": {
+        "reference": "1 Chronicles 6:21",
+        "verseKey": "kjv:1-chronicles:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-chronicles:6:22",
+      "numberLabel": "22",
+      "text": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:22",
+        "verseKey": "kjv:1-chronicles:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-chronicles:6:23",
+      "numberLabel": "23",
+      "text": "Elkanah his son, and Ebiasaph his son, and Assir his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:23",
+        "verseKey": "kjv:1-chronicles:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-chronicles:6:24",
+      "numberLabel": "24",
+      "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
+      "metadata": {
+        "reference": "1 Chronicles 6:24",
+        "verseKey": "kjv:1-chronicles:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-chronicles:6:25",
+      "numberLabel": "25",
+      "text": "And the sons of Elkanah; Amasai, and Ahimoth.",
+      "metadata": {
+        "reference": "1 Chronicles 6:25",
+        "verseKey": "kjv:1-chronicles:6:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-chronicles:6:26",
+      "numberLabel": "26",
+      "text": "As for Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:26",
+        "verseKey": "kjv:1-chronicles:6:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-chronicles:6:27",
+      "numberLabel": "27",
+      "text": "Eliab his son, Jeroham his son, Elkanah his son.",
+      "metadata": {
+        "reference": "1 Chronicles 6:27",
+        "verseKey": "kjv:1-chronicles:6:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-chronicles:6:28",
+      "numberLabel": "28",
+      "text": "And the sons of Samuel; the firstborn Vashni, and Abiah.",
+      "metadata": {
+        "reference": "1 Chronicles 6:28",
+        "verseKey": "kjv:1-chronicles:6:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-chronicles:6:29",
+      "numberLabel": "29",
+      "text": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:29",
+        "verseKey": "kjv:1-chronicles:6:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-chronicles:6:30",
+      "numberLabel": "30",
+      "text": "Shimea his son, Haggiah his son, Asaiah his son.",
+      "metadata": {
+        "reference": "1 Chronicles 6:30",
+        "verseKey": "kjv:1-chronicles:6:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-chronicles:6:31",
+      "numberLabel": "31",
+      "text": "And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest.",
+      "metadata": {
+        "reference": "1 Chronicles 6:31",
+        "verseKey": "kjv:1-chronicles:6:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-chronicles:6:32",
+      "numberLabel": "32",
+      "text": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order.",
+      "metadata": {
+        "reference": "1 Chronicles 6:32",
+        "verseKey": "kjv:1-chronicles:6:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-chronicles:6:33",
+      "numberLabel": "33",
+      "text": "And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,",
+      "metadata": {
+        "reference": "1 Chronicles 6:33",
+        "verseKey": "kjv:1-chronicles:6:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-chronicles:6:34",
+      "numberLabel": "34",
+      "text": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
+      "metadata": {
+        "reference": "1 Chronicles 6:34",
+        "verseKey": "kjv:1-chronicles:6:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-chronicles:6:35",
+      "numberLabel": "35",
+      "text": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
+      "metadata": {
+        "reference": "1 Chronicles 6:35",
+        "verseKey": "kjv:1-chronicles:6:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-chronicles:6:36",
+      "numberLabel": "36",
+      "text": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
+      "metadata": {
+        "reference": "1 Chronicles 6:36",
+        "verseKey": "kjv:1-chronicles:6:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-chronicles:6:37",
+      "numberLabel": "37",
+      "text": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+      "metadata": {
+        "reference": "1 Chronicles 6:37",
+        "verseKey": "kjv:1-chronicles:6:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-chronicles:6:38",
+      "numberLabel": "38",
+      "text": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel.",
+      "metadata": {
+        "reference": "1 Chronicles 6:38",
+        "verseKey": "kjv:1-chronicles:6:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-chronicles:6:39",
+      "numberLabel": "39",
+      "text": "And his brother Asaph, who stood on his right hand, even Asaph the son of Berachiah, the son of Shimea,",
+      "metadata": {
+        "reference": "1 Chronicles 6:39",
+        "verseKey": "kjv:1-chronicles:6:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-chronicles:6:40",
+      "numberLabel": "40",
+      "text": "The son of Michael, the son of Baaseiah, the son of Malchiah,",
+      "metadata": {
+        "reference": "1 Chronicles 6:40",
+        "verseKey": "kjv:1-chronicles:6:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:1-chronicles:6:41",
+      "numberLabel": "41",
+      "text": "The son of Ethni, the son of Zerah, the son of Adaiah,",
+      "metadata": {
+        "reference": "1 Chronicles 6:41",
+        "verseKey": "kjv:1-chronicles:6:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:1-chronicles:6:42",
+      "numberLabel": "42",
+      "text": "The son of Ethan, the son of Zimmah, the son of Shimei,",
+      "metadata": {
+        "reference": "1 Chronicles 6:42",
+        "verseKey": "kjv:1-chronicles:6:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:1-chronicles:6:43",
+      "numberLabel": "43",
+      "text": "The son of Jahath, the son of Gershom, the son of Levi.",
+      "metadata": {
+        "reference": "1 Chronicles 6:43",
+        "verseKey": "kjv:1-chronicles:6:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:1-chronicles:6:44",
+      "numberLabel": "44",
+      "text": "And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,",
+      "metadata": {
+        "reference": "1 Chronicles 6:44",
+        "verseKey": "kjv:1-chronicles:6:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:1-chronicles:6:45",
+      "numberLabel": "45",
+      "text": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
+      "metadata": {
+        "reference": "1 Chronicles 6:45",
+        "verseKey": "kjv:1-chronicles:6:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:1-chronicles:6:46",
+      "numberLabel": "46",
+      "text": "The son of Amzi, the son of Bani, the son of Shamer,",
+      "metadata": {
+        "reference": "1 Chronicles 6:46",
+        "verseKey": "kjv:1-chronicles:6:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:1-chronicles:6:47",
+      "numberLabel": "47",
+      "text": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+      "metadata": {
+        "reference": "1 Chronicles 6:47",
+        "verseKey": "kjv:1-chronicles:6:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:1-chronicles:6:48",
+      "numberLabel": "48",
+      "text": "Their brethren also the Levites were appointed unto all manner of service of the tabernacle of the house of God.",
+      "metadata": {
+        "reference": "1 Chronicles 6:48",
+        "verseKey": "kjv:1-chronicles:6:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:1-chronicles:6:49",
+      "numberLabel": "49",
+      "text": "But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
+      "metadata": {
+        "reference": "1 Chronicles 6:49",
+        "verseKey": "kjv:1-chronicles:6:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:1-chronicles:6:50",
+      "numberLabel": "50",
+      "text": "And these are the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:50",
+        "verseKey": "kjv:1-chronicles:6:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:1-chronicles:6:51",
+      "numberLabel": "51",
+      "text": "Bukki his son, Uzzi his son, Zerahiah his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:51",
+        "verseKey": "kjv:1-chronicles:6:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:1-chronicles:6:52",
+      "numberLabel": "52",
+      "text": "Meraioth his son, Amariah his son, Ahitub his son,",
+      "metadata": {
+        "reference": "1 Chronicles 6:52",
+        "verseKey": "kjv:1-chronicles:6:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:1-chronicles:6:53",
+      "numberLabel": "53",
+      "text": "Zadok his son, Ahimaaz his son.",
+      "metadata": {
+        "reference": "1 Chronicles 6:53",
+        "verseKey": "kjv:1-chronicles:6:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:1-chronicles:6:54",
+      "numberLabel": "54",
+      "text": "Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.",
+      "metadata": {
+        "reference": "1 Chronicles 6:54",
+        "verseKey": "kjv:1-chronicles:6:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:1-chronicles:6:55",
+      "numberLabel": "55",
+      "text": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.",
+      "metadata": {
+        "reference": "1 Chronicles 6:55",
+        "verseKey": "kjv:1-chronicles:6:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:1-chronicles:6:56",
+      "numberLabel": "56",
+      "text": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.",
+      "metadata": {
+        "reference": "1 Chronicles 6:56",
+        "verseKey": "kjv:1-chronicles:6:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:1-chronicles:6:57",
+      "numberLabel": "57",
+      "text": "And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:57",
+        "verseKey": "kjv:1-chronicles:6:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:1-chronicles:6:58",
+      "numberLabel": "58",
+      "text": "And Hilen with her suburbs, Debir with her suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:58",
+        "verseKey": "kjv:1-chronicles:6:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:1-chronicles:6:59",
+      "numberLabel": "59",
+      "text": "And Ashan with her suburbs, and Bethshemesh with her suburbs:",
+      "metadata": {
+        "reference": "1 Chronicles 6:59",
+        "verseKey": "kjv:1-chronicles:6:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:1-chronicles:6:60",
+      "numberLabel": "60",
+      "text": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities.",
+      "metadata": {
+        "reference": "1 Chronicles 6:60",
+        "verseKey": "kjv:1-chronicles:6:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:1-chronicles:6:61",
+      "numberLabel": "61",
+      "text": "And unto the sons of Kohath, which were left of the family of that tribe, were cities given out of the half tribe, namely, out of the half tribe of Manasseh, by lot, ten cities.",
+      "metadata": {
+        "reference": "1 Chronicles 6:61",
+        "verseKey": "kjv:1-chronicles:6:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:1-chronicles:6:62",
+      "numberLabel": "62",
+      "text": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.",
+      "metadata": {
+        "reference": "1 Chronicles 6:62",
+        "verseKey": "kjv:1-chronicles:6:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:1-chronicles:6:63",
+      "numberLabel": "63",
+      "text": "Unto the sons of Merari were given by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+      "metadata": {
+        "reference": "1 Chronicles 6:63",
+        "verseKey": "kjv:1-chronicles:6:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:1-chronicles:6:64",
+      "numberLabel": "64",
+      "text": "And the children of Israel gave to the Levites these cities with their suburbs.",
+      "metadata": {
+        "reference": "1 Chronicles 6:64",
+        "verseKey": "kjv:1-chronicles:6:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:1-chronicles:6:65",
+      "numberLabel": "65",
+      "text": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names.",
+      "metadata": {
+        "reference": "1 Chronicles 6:65",
+        "verseKey": "kjv:1-chronicles:6:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:1-chronicles:6:66",
+      "numberLabel": "66",
+      "text": "And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.",
+      "metadata": {
+        "reference": "1 Chronicles 6:66",
+        "verseKey": "kjv:1-chronicles:6:66"
+      }
+    },
+    {
+      "id": "verse-067",
+      "type": "bible_verse",
+      "verse": 67,
+      "verseId": "kjv:1-chronicles:6:67",
+      "numberLabel": "67",
+      "text": "And they gave unto them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:67",
+        "verseKey": "kjv:1-chronicles:6:67"
+      }
+    },
+    {
+      "id": "verse-068",
+      "type": "bible_verse",
+      "verse": 68,
+      "verseId": "kjv:1-chronicles:6:68",
+      "numberLabel": "68",
+      "text": "And Jokmeam with her suburbs, and Bethhoron with her suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:68",
+        "verseKey": "kjv:1-chronicles:6:68"
+      }
+    },
+    {
+      "id": "verse-069",
+      "type": "bible_verse",
+      "verse": 69,
+      "verseId": "kjv:1-chronicles:6:69",
+      "numberLabel": "69",
+      "text": "And Aijalon with her suburbs, and Gathrimmon with her suburbs:",
+      "metadata": {
+        "reference": "1 Chronicles 6:69",
+        "verseKey": "kjv:1-chronicles:6:69"
+      }
+    },
+    {
+      "id": "verse-070",
+      "type": "bible_verse",
+      "verse": 70,
+      "verseId": "kjv:1-chronicles:6:70",
+      "numberLabel": "70",
+      "text": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.",
+      "metadata": {
+        "reference": "1 Chronicles 6:70",
+        "verseKey": "kjv:1-chronicles:6:70"
+      }
+    },
+    {
+      "id": "verse-071",
+      "type": "bible_verse",
+      "verse": 71,
+      "verseId": "kjv:1-chronicles:6:71",
+      "numberLabel": "71",
+      "text": "Unto the sons of Gershom were given out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:",
+      "metadata": {
+        "reference": "1 Chronicles 6:71",
+        "verseKey": "kjv:1-chronicles:6:71"
+      }
+    },
+    {
+      "id": "verse-072",
+      "type": "bible_verse",
+      "verse": 72,
+      "verseId": "kjv:1-chronicles:6:72",
+      "numberLabel": "72",
+      "text": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:72",
+        "verseKey": "kjv:1-chronicles:6:72"
+      }
+    },
+    {
+      "id": "verse-073",
+      "type": "bible_verse",
+      "verse": 73,
+      "verseId": "kjv:1-chronicles:6:73",
+      "numberLabel": "73",
+      "text": "And Ramoth with her suburbs, and Anem with her suburbs:",
+      "metadata": {
+        "reference": "1 Chronicles 6:73",
+        "verseKey": "kjv:1-chronicles:6:73"
+      }
+    },
+    {
+      "id": "verse-074",
+      "type": "bible_verse",
+      "verse": 74,
+      "verseId": "kjv:1-chronicles:6:74",
+      "numberLabel": "74",
+      "text": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:74",
+        "verseKey": "kjv:1-chronicles:6:74"
+      }
+    },
+    {
+      "id": "verse-075",
+      "type": "bible_verse",
+      "verse": 75,
+      "verseId": "kjv:1-chronicles:6:75",
+      "numberLabel": "75",
+      "text": "And Hukok with her suburbs, and Rehob with her suburbs:",
+      "metadata": {
+        "reference": "1 Chronicles 6:75",
+        "verseKey": "kjv:1-chronicles:6:75"
+      }
+    },
+    {
+      "id": "verse-076",
+      "type": "bible_verse",
+      "verse": 76,
+      "verseId": "kjv:1-chronicles:6:76",
+      "numberLabel": "76",
+      "text": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.",
+      "metadata": {
+        "reference": "1 Chronicles 6:76",
+        "verseKey": "kjv:1-chronicles:6:76"
+      }
+    },
+    {
+      "id": "verse-077",
+      "type": "bible_verse",
+      "verse": 77,
+      "verseId": "kjv:1-chronicles:6:77",
+      "numberLabel": "77",
+      "text": "Unto the rest of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:",
+      "metadata": {
+        "reference": "1 Chronicles 6:77",
+        "verseKey": "kjv:1-chronicles:6:77"
+      }
+    },
+    {
+      "id": "verse-078",
+      "type": "bible_verse",
+      "verse": 78,
+      "verseId": "kjv:1-chronicles:6:78",
+      "numberLabel": "78",
+      "text": "And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:78",
+        "verseKey": "kjv:1-chronicles:6:78"
+      }
+    },
+    {
+      "id": "verse-079",
+      "type": "bible_verse",
+      "verse": 79,
+      "verseId": "kjv:1-chronicles:6:79",
+      "numberLabel": "79",
+      "text": "Kedemoth also with her suburbs, and Mephaath with her suburbs:",
+      "metadata": {
+        "reference": "1 Chronicles 6:79",
+        "verseKey": "kjv:1-chronicles:6:79"
+      }
+    },
+    {
+      "id": "verse-080",
+      "type": "bible_verse",
+      "verse": 80,
+      "verseId": "kjv:1-chronicles:6:80",
+      "numberLabel": "80",
+      "text": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,",
+      "metadata": {
+        "reference": "1 Chronicles 6:80",
+        "verseKey": "kjv:1-chronicles:6:80"
+      }
+    },
+    {
+      "id": "verse-081",
+      "type": "bible_verse",
+      "verse": 81,
+      "verseId": "kjv:1-chronicles:6:81",
+      "numberLabel": "81",
+      "text": "And Heshbon with her suburbs, and Jazer with her suburbs.",
+      "metadata": {
+        "reference": "1 Chronicles 6:81",
+        "verseKey": "kjv:1-chronicles:6:81"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

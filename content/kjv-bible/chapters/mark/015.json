@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Mark 15",
+  "display_title": "Mark 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 15,
+  "sortOrder": 41015,
+  "verseCount": 47,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:15:1",
+      "numberLabel": "1",
+      "text": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.",
+      "metadata": {
+        "reference": "Mark 15:1",
+        "verseKey": "kjv:mark:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:15:2",
+      "numberLabel": "2",
+      "text": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it.",
+      "metadata": {
+        "reference": "Mark 15:2",
+        "verseKey": "kjv:mark:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:15:3",
+      "numberLabel": "3",
+      "text": "And the chief priests accused him of many things: but he answered nothing.",
+      "metadata": {
+        "reference": "Mark 15:3",
+        "verseKey": "kjv:mark:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:15:4",
+      "numberLabel": "4",
+      "text": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.",
+      "metadata": {
+        "reference": "Mark 15:4",
+        "verseKey": "kjv:mark:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:15:5",
+      "numberLabel": "5",
+      "text": "But Jesus yet answered nothing; so that Pilate marvelled.",
+      "metadata": {
+        "reference": "Mark 15:5",
+        "verseKey": "kjv:mark:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:15:6",
+      "numberLabel": "6",
+      "text": "Now at that feast he released unto them one prisoner, whomsoever they desired.",
+      "metadata": {
+        "reference": "Mark 15:6",
+        "verseKey": "kjv:mark:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:15:7",
+      "numberLabel": "7",
+      "text": "And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection.",
+      "metadata": {
+        "reference": "Mark 15:7",
+        "verseKey": "kjv:mark:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:15:8",
+      "numberLabel": "8",
+      "text": "And the multitude crying aloud began to desire him to do as he had ever done unto them.",
+      "metadata": {
+        "reference": "Mark 15:8",
+        "verseKey": "kjv:mark:15:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:15:9",
+      "numberLabel": "9",
+      "text": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?",
+      "metadata": {
+        "reference": "Mark 15:9",
+        "verseKey": "kjv:mark:15:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:15:10",
+      "numberLabel": "10",
+      "text": "For he knew that the chief priests had delivered him for envy.",
+      "metadata": {
+        "reference": "Mark 15:10",
+        "verseKey": "kjv:mark:15:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:15:11",
+      "numberLabel": "11",
+      "text": "But the chief priests moved the people, that he should rather release Barabbas unto them.",
+      "metadata": {
+        "reference": "Mark 15:11",
+        "verseKey": "kjv:mark:15:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:15:12",
+      "numberLabel": "12",
+      "text": "And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?",
+      "metadata": {
+        "reference": "Mark 15:12",
+        "verseKey": "kjv:mark:15:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:15:13",
+      "numberLabel": "13",
+      "text": "And they cried out again, Crucify him.",
+      "metadata": {
+        "reference": "Mark 15:13",
+        "verseKey": "kjv:mark:15:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:15:14",
+      "numberLabel": "14",
+      "text": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.",
+      "metadata": {
+        "reference": "Mark 15:14",
+        "verseKey": "kjv:mark:15:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:15:15",
+      "numberLabel": "15",
+      "text": "And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified.",
+      "metadata": {
+        "reference": "Mark 15:15",
+        "verseKey": "kjv:mark:15:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:15:16",
+      "numberLabel": "16",
+      "text": "And the soldiers led him away into the hall, called Praetorium; and they call together the whole band.",
+      "metadata": {
+        "reference": "Mark 15:16",
+        "verseKey": "kjv:mark:15:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:15:17",
+      "numberLabel": "17",
+      "text": "And they clothed him with purple, and platted a crown of thorns, and put it about his head,",
+      "metadata": {
+        "reference": "Mark 15:17",
+        "verseKey": "kjv:mark:15:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:15:18",
+      "numberLabel": "18",
+      "text": "And began to salute him, Hail, King of the Jews!",
+      "metadata": {
+        "reference": "Mark 15:18",
+        "verseKey": "kjv:mark:15:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:15:19",
+      "numberLabel": "19",
+      "text": "And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him.",
+      "metadata": {
+        "reference": "Mark 15:19",
+        "verseKey": "kjv:mark:15:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:15:20",
+      "numberLabel": "20",
+      "text": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.",
+      "metadata": {
+        "reference": "Mark 15:20",
+        "verseKey": "kjv:mark:15:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:15:21",
+      "numberLabel": "21",
+      "text": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.",
+      "metadata": {
+        "reference": "Mark 15:21",
+        "verseKey": "kjv:mark:15:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:15:22",
+      "numberLabel": "22",
+      "text": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.",
+      "metadata": {
+        "reference": "Mark 15:22",
+        "verseKey": "kjv:mark:15:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:15:23",
+      "numberLabel": "23",
+      "text": "And they gave him to drink wine mingled with myrrh: but he received it not.",
+      "metadata": {
+        "reference": "Mark 15:23",
+        "verseKey": "kjv:mark:15:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:15:24",
+      "numberLabel": "24",
+      "text": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.",
+      "metadata": {
+        "reference": "Mark 15:24",
+        "verseKey": "kjv:mark:15:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:15:25",
+      "numberLabel": "25",
+      "text": "And it was the third hour, and they crucified him.",
+      "metadata": {
+        "reference": "Mark 15:25",
+        "verseKey": "kjv:mark:15:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:15:26",
+      "numberLabel": "26",
+      "text": "And the superscription of his accusation was written over, THE KING OF THE JEWS.",
+      "metadata": {
+        "reference": "Mark 15:26",
+        "verseKey": "kjv:mark:15:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:15:27",
+      "numberLabel": "27",
+      "text": "And with him they crucify two thieves; the one on his right hand, and the other on his left.",
+      "metadata": {
+        "reference": "Mark 15:27",
+        "verseKey": "kjv:mark:15:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:15:28",
+      "numberLabel": "28",
+      "text": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors.",
+      "metadata": {
+        "reference": "Mark 15:28",
+        "verseKey": "kjv:mark:15:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:15:29",
+      "numberLabel": "29",
+      "text": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,",
+      "metadata": {
+        "reference": "Mark 15:29",
+        "verseKey": "kjv:mark:15:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:15:30",
+      "numberLabel": "30",
+      "text": "Save thyself, and come down from the cross.",
+      "metadata": {
+        "reference": "Mark 15:30",
+        "verseKey": "kjv:mark:15:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:15:31",
+      "numberLabel": "31",
+      "text": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.",
+      "metadata": {
+        "reference": "Mark 15:31",
+        "verseKey": "kjv:mark:15:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:15:32",
+      "numberLabel": "32",
+      "text": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.",
+      "metadata": {
+        "reference": "Mark 15:32",
+        "verseKey": "kjv:mark:15:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:15:33",
+      "numberLabel": "33",
+      "text": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour.",
+      "metadata": {
+        "reference": "Mark 15:33",
+        "verseKey": "kjv:mark:15:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:mark:15:34",
+      "numberLabel": "34",
+      "text": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?",
+      "metadata": {
+        "reference": "Mark 15:34",
+        "verseKey": "kjv:mark:15:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:mark:15:35",
+      "numberLabel": "35",
+      "text": "And some of them that stood by, when they heard it, said, Behold, he calleth Elias.",
+      "metadata": {
+        "reference": "Mark 15:35",
+        "verseKey": "kjv:mark:15:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:mark:15:36",
+      "numberLabel": "36",
+      "text": "And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.",
+      "metadata": {
+        "reference": "Mark 15:36",
+        "verseKey": "kjv:mark:15:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:mark:15:37",
+      "numberLabel": "37",
+      "text": "And Jesus cried with a loud voice, and gave up the ghost.",
+      "metadata": {
+        "reference": "Mark 15:37",
+        "verseKey": "kjv:mark:15:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:mark:15:38",
+      "numberLabel": "38",
+      "text": "And the veil of the temple was rent in twain from the top to the bottom.",
+      "metadata": {
+        "reference": "Mark 15:38",
+        "verseKey": "kjv:mark:15:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:mark:15:39",
+      "numberLabel": "39",
+      "text": "And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.",
+      "metadata": {
+        "reference": "Mark 15:39",
+        "verseKey": "kjv:mark:15:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:mark:15:40",
+      "numberLabel": "40",
+      "text": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;",
+      "metadata": {
+        "reference": "Mark 15:40",
+        "verseKey": "kjv:mark:15:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:mark:15:41",
+      "numberLabel": "41",
+      "text": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.",
+      "metadata": {
+        "reference": "Mark 15:41",
+        "verseKey": "kjv:mark:15:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:mark:15:42",
+      "numberLabel": "42",
+      "text": "And now when the even was come, because it was the preparation, that is, the day before the sabbath,",
+      "metadata": {
+        "reference": "Mark 15:42",
+        "verseKey": "kjv:mark:15:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:mark:15:43",
+      "numberLabel": "43",
+      "text": "Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.",
+      "metadata": {
+        "reference": "Mark 15:43",
+        "verseKey": "kjv:mark:15:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:mark:15:44",
+      "numberLabel": "44",
+      "text": "And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead.",
+      "metadata": {
+        "reference": "Mark 15:44",
+        "verseKey": "kjv:mark:15:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:mark:15:45",
+      "numberLabel": "45",
+      "text": "And when he knew it of the centurion, he gave the body to Joseph.",
+      "metadata": {
+        "reference": "Mark 15:45",
+        "verseKey": "kjv:mark:15:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:mark:15:46",
+      "numberLabel": "46",
+      "text": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.",
+      "metadata": {
+        "reference": "Mark 15:46",
+        "verseKey": "kjv:mark:15:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:mark:15:47",
+      "numberLabel": "47",
+      "text": "And Mary Magdalene and Mary the mother of Joses beheld where he was laid.",
+      "metadata": {
+        "reference": "Mark 15:47",
+        "verseKey": "kjv:mark:15:47"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

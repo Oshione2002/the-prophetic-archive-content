@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hosea-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Hosea 9",
+  "display_title": "Hosea 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hosea",
+  "book": "Hosea",
+  "bookName": "Hosea",
+  "bookOrder": 28,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 28009,
+  "verseCount": 17,
+  "aliases": [
+    "Hos",
+    "Ho"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hosea:9:1",
+      "numberLabel": "1",
+      "text": "Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.",
+      "metadata": {
+        "reference": "Hosea 9:1",
+        "verseKey": "kjv:hosea:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hosea:9:2",
+      "numberLabel": "2",
+      "text": "The floor and the winepress shall not feed them, and the new wine shall fail in her.",
+      "metadata": {
+        "reference": "Hosea 9:2",
+        "verseKey": "kjv:hosea:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hosea:9:3",
+      "numberLabel": "3",
+      "text": "They shall not dwell in the LORD’s land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria.",
+      "metadata": {
+        "reference": "Hosea 9:3",
+        "verseKey": "kjv:hosea:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hosea:9:4",
+      "numberLabel": "4",
+      "text": "They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.",
+      "metadata": {
+        "reference": "Hosea 9:4",
+        "verseKey": "kjv:hosea:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hosea:9:5",
+      "numberLabel": "5",
+      "text": "What will ye do in the solemn day, and in the day of the feast of the LORD?",
+      "metadata": {
+        "reference": "Hosea 9:5",
+        "verseKey": "kjv:hosea:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hosea:9:6",
+      "numberLabel": "6",
+      "text": "For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles.",
+      "metadata": {
+        "reference": "Hosea 9:6",
+        "verseKey": "kjv:hosea:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hosea:9:7",
+      "numberLabel": "7",
+      "text": "The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of thine iniquity, and the great hatred.",
+      "metadata": {
+        "reference": "Hosea 9:7",
+        "verseKey": "kjv:hosea:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hosea:9:8",
+      "numberLabel": "8",
+      "text": "The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God.",
+      "metadata": {
+        "reference": "Hosea 9:8",
+        "verseKey": "kjv:hosea:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hosea:9:9",
+      "numberLabel": "9",
+      "text": "They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.",
+      "metadata": {
+        "reference": "Hosea 9:9",
+        "verseKey": "kjv:hosea:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hosea:9:10",
+      "numberLabel": "10",
+      "text": "I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved.",
+      "metadata": {
+        "reference": "Hosea 9:10",
+        "verseKey": "kjv:hosea:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hosea:9:11",
+      "numberLabel": "11",
+      "text": "As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception.",
+      "metadata": {
+        "reference": "Hosea 9:11",
+        "verseKey": "kjv:hosea:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:hosea:9:12",
+      "numberLabel": "12",
+      "text": "Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!",
+      "metadata": {
+        "reference": "Hosea 9:12",
+        "verseKey": "kjv:hosea:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:hosea:9:13",
+      "numberLabel": "13",
+      "text": "Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer.",
+      "metadata": {
+        "reference": "Hosea 9:13",
+        "verseKey": "kjv:hosea:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:hosea:9:14",
+      "numberLabel": "14",
+      "text": "Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.",
+      "metadata": {
+        "reference": "Hosea 9:14",
+        "verseKey": "kjv:hosea:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:hosea:9:15",
+      "numberLabel": "15",
+      "text": "All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters.",
+      "metadata": {
+        "reference": "Hosea 9:15",
+        "verseKey": "kjv:hosea:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:hosea:9:16",
+      "numberLabel": "16",
+      "text": "Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb.",
+      "metadata": {
+        "reference": "Hosea 9:16",
+        "verseKey": "kjv:hosea:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:hosea:9:17",
+      "numberLabel": "17",
+      "text": "My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.",
+      "metadata": {
+        "reference": "Hosea 9:17",
+        "verseKey": "kjv:hosea:9:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hosea.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hosea.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

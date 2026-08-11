@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Deuteronomy 12",
+  "display_title": "Deuteronomy 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 5012,
+  "verseCount": 32,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:12:1",
+      "numberLabel": "1",
+      "text": "These are the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.",
+      "metadata": {
+        "reference": "Deuteronomy 12:1",
+        "verseKey": "kjv:deuteronomy:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:12:2",
+      "numberLabel": "2",
+      "text": "Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:",
+      "metadata": {
+        "reference": "Deuteronomy 12:2",
+        "verseKey": "kjv:deuteronomy:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:12:3",
+      "numberLabel": "3",
+      "text": "And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place.",
+      "metadata": {
+        "reference": "Deuteronomy 12:3",
+        "verseKey": "kjv:deuteronomy:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:12:4",
+      "numberLabel": "4",
+      "text": "Ye shall not do so unto the LORD your God.",
+      "metadata": {
+        "reference": "Deuteronomy 12:4",
+        "verseKey": "kjv:deuteronomy:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:12:5",
+      "numberLabel": "5",
+      "text": "But unto the place which the LORD your God shall choose out of all your tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come:",
+      "metadata": {
+        "reference": "Deuteronomy 12:5",
+        "verseKey": "kjv:deuteronomy:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:12:6",
+      "numberLabel": "6",
+      "text": "And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:",
+      "metadata": {
+        "reference": "Deuteronomy 12:6",
+        "verseKey": "kjv:deuteronomy:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:12:7",
+      "numberLabel": "7",
+      "text": "And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee.",
+      "metadata": {
+        "reference": "Deuteronomy 12:7",
+        "verseKey": "kjv:deuteronomy:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:12:8",
+      "numberLabel": "8",
+      "text": "Ye shall not do after all the things that we do here this day, every man whatsoever is right in his own eyes.",
+      "metadata": {
+        "reference": "Deuteronomy 12:8",
+        "verseKey": "kjv:deuteronomy:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:12:9",
+      "numberLabel": "9",
+      "text": "For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.",
+      "metadata": {
+        "reference": "Deuteronomy 12:9",
+        "verseKey": "kjv:deuteronomy:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:12:10",
+      "numberLabel": "10",
+      "text": "But when ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and when he giveth you rest from all your enemies round about, so that ye dwell in safety;",
+      "metadata": {
+        "reference": "Deuteronomy 12:10",
+        "verseKey": "kjv:deuteronomy:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:12:11",
+      "numberLabel": "11",
+      "text": "Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the LORD:",
+      "metadata": {
+        "reference": "Deuteronomy 12:11",
+        "verseKey": "kjv:deuteronomy:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:12:12",
+      "numberLabel": "12",
+      "text": "And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates; forasmuch as he hath no part nor inheritance with you.",
+      "metadata": {
+        "reference": "Deuteronomy 12:12",
+        "verseKey": "kjv:deuteronomy:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:12:13",
+      "numberLabel": "13",
+      "text": "Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest:",
+      "metadata": {
+        "reference": "Deuteronomy 12:13",
+        "verseKey": "kjv:deuteronomy:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:12:14",
+      "numberLabel": "14",
+      "text": "But in the place which the LORD shall choose in one of thy tribes, there thou shalt offer thy burnt offerings, and there thou shalt do all that I command thee.",
+      "metadata": {
+        "reference": "Deuteronomy 12:14",
+        "verseKey": "kjv:deuteronomy:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:12:15",
+      "numberLabel": "15",
+      "text": "Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of the LORD thy God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart.",
+      "metadata": {
+        "reference": "Deuteronomy 12:15",
+        "verseKey": "kjv:deuteronomy:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:12:16",
+      "numberLabel": "16",
+      "text": "Only ye shall not eat the blood; ye shall pour it upon the earth as water.",
+      "metadata": {
+        "reference": "Deuteronomy 12:16",
+        "verseKey": "kjv:deuteronomy:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:12:17",
+      "numberLabel": "17",
+      "text": "Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:",
+      "metadata": {
+        "reference": "Deuteronomy 12:17",
+        "verseKey": "kjv:deuteronomy:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:12:18",
+      "numberLabel": "18",
+      "text": "But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto.",
+      "metadata": {
+        "reference": "Deuteronomy 12:18",
+        "verseKey": "kjv:deuteronomy:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:12:19",
+      "numberLabel": "19",
+      "text": "Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.",
+      "metadata": {
+        "reference": "Deuteronomy 12:19",
+        "verseKey": "kjv:deuteronomy:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:12:20",
+      "numberLabel": "20",
+      "text": "When the LORD thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; thou mayest eat flesh, whatsoever thy soul lusteth after.",
+      "metadata": {
+        "reference": "Deuteronomy 12:20",
+        "verseKey": "kjv:deuteronomy:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:12:21",
+      "numberLabel": "21",
+      "text": "If the place which the LORD thy God hath chosen to put his name there be too far from thee, then thou shalt kill of thy herd and of thy flock, which the LORD hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thy soul lusteth after.",
+      "metadata": {
+        "reference": "Deuteronomy 12:21",
+        "verseKey": "kjv:deuteronomy:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:12:22",
+      "numberLabel": "22",
+      "text": "Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat of them alike.",
+      "metadata": {
+        "reference": "Deuteronomy 12:22",
+        "verseKey": "kjv:deuteronomy:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:12:23",
+      "numberLabel": "23",
+      "text": "Only be sure that thou eat not the blood: for the blood is the life; and thou mayest not eat the life with the flesh.",
+      "metadata": {
+        "reference": "Deuteronomy 12:23",
+        "verseKey": "kjv:deuteronomy:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:deuteronomy:12:24",
+      "numberLabel": "24",
+      "text": "Thou shalt not eat it; thou shalt pour it upon the earth as water.",
+      "metadata": {
+        "reference": "Deuteronomy 12:24",
+        "verseKey": "kjv:deuteronomy:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:deuteronomy:12:25",
+      "numberLabel": "25",
+      "text": "Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do that which is right in the sight of the LORD.",
+      "metadata": {
+        "reference": "Deuteronomy 12:25",
+        "verseKey": "kjv:deuteronomy:12:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:deuteronomy:12:26",
+      "numberLabel": "26",
+      "text": "Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place which the LORD shall choose:",
+      "metadata": {
+        "reference": "Deuteronomy 12:26",
+        "verseKey": "kjv:deuteronomy:12:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:deuteronomy:12:27",
+      "numberLabel": "27",
+      "text": "And thou shalt offer thy burnt offerings, the flesh and the blood, upon the altar of the LORD thy God: and the blood of thy sacrifices shall be poured out upon the altar of the LORD thy God, and thou shalt eat the flesh.",
+      "metadata": {
+        "reference": "Deuteronomy 12:27",
+        "verseKey": "kjv:deuteronomy:12:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:deuteronomy:12:28",
+      "numberLabel": "28",
+      "text": "Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest that which is good and right in the sight of the LORD thy God.",
+      "metadata": {
+        "reference": "Deuteronomy 12:28",
+        "verseKey": "kjv:deuteronomy:12:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:deuteronomy:12:29",
+      "numberLabel": "29",
+      "text": "When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;",
+      "metadata": {
+        "reference": "Deuteronomy 12:29",
+        "verseKey": "kjv:deuteronomy:12:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:deuteronomy:12:30",
+      "numberLabel": "30",
+      "text": "Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou enquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.",
+      "metadata": {
+        "reference": "Deuteronomy 12:30",
+        "verseKey": "kjv:deuteronomy:12:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:deuteronomy:12:31",
+      "numberLabel": "31",
+      "text": "Thou shalt not do so unto the LORD thy God: for every abomination to the LORD, which he hateth, have they done unto their gods; for even their sons and their daughters they have burnt in the fire to their gods.",
+      "metadata": {
+        "reference": "Deuteronomy 12:31",
+        "verseKey": "kjv:deuteronomy:12:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:deuteronomy:12:32",
+      "numberLabel": "32",
+      "text": "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.",
+      "metadata": {
+        "reference": "Deuteronomy 12:32",
+        "verseKey": "kjv:deuteronomy:12:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

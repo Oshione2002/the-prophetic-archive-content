@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-026",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 26,
+  "title": "Genesis 26",
+  "display_title": "Genesis 26",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 26,
+  "sortOrder": 1026,
+  "verseCount": 35,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:26:1",
+      "numberLabel": "1",
+      "text": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.",
+      "metadata": {
+        "reference": "Genesis 26:1",
+        "verseKey": "kjv:genesis:26:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:26:2",
+      "numberLabel": "2",
+      "text": "And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:",
+      "metadata": {
+        "reference": "Genesis 26:2",
+        "verseKey": "kjv:genesis:26:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:26:3",
+      "numberLabel": "3",
+      "text": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;",
+      "metadata": {
+        "reference": "Genesis 26:3",
+        "verseKey": "kjv:genesis:26:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:26:4",
+      "numberLabel": "4",
+      "text": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;",
+      "metadata": {
+        "reference": "Genesis 26:4",
+        "verseKey": "kjv:genesis:26:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:26:5",
+      "numberLabel": "5",
+      "text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.",
+      "metadata": {
+        "reference": "Genesis 26:5",
+        "verseKey": "kjv:genesis:26:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:26:6",
+      "numberLabel": "6",
+      "text": "And Isaac dwelt in Gerar:",
+      "metadata": {
+        "reference": "Genesis 26:6",
+        "verseKey": "kjv:genesis:26:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:26:7",
+      "numberLabel": "7",
+      "text": "And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon.",
+      "metadata": {
+        "reference": "Genesis 26:7",
+        "verseKey": "kjv:genesis:26:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:26:8",
+      "numberLabel": "8",
+      "text": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife.",
+      "metadata": {
+        "reference": "Genesis 26:8",
+        "verseKey": "kjv:genesis:26:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:26:9",
+      "numberLabel": "9",
+      "text": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her.",
+      "metadata": {
+        "reference": "Genesis 26:9",
+        "verseKey": "kjv:genesis:26:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:26:10",
+      "numberLabel": "10",
+      "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.",
+      "metadata": {
+        "reference": "Genesis 26:10",
+        "verseKey": "kjv:genesis:26:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:26:11",
+      "numberLabel": "11",
+      "text": "And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.",
+      "metadata": {
+        "reference": "Genesis 26:11",
+        "verseKey": "kjv:genesis:26:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:26:12",
+      "numberLabel": "12",
+      "text": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.",
+      "metadata": {
+        "reference": "Genesis 26:12",
+        "verseKey": "kjv:genesis:26:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:26:13",
+      "numberLabel": "13",
+      "text": "And the man waxed great, and went forward, and grew until he became very great:",
+      "metadata": {
+        "reference": "Genesis 26:13",
+        "verseKey": "kjv:genesis:26:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:26:14",
+      "numberLabel": "14",
+      "text": "For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him.",
+      "metadata": {
+        "reference": "Genesis 26:14",
+        "verseKey": "kjv:genesis:26:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:26:15",
+      "numberLabel": "15",
+      "text": "For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.",
+      "metadata": {
+        "reference": "Genesis 26:15",
+        "verseKey": "kjv:genesis:26:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:26:16",
+      "numberLabel": "16",
+      "text": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.",
+      "metadata": {
+        "reference": "Genesis 26:16",
+        "verseKey": "kjv:genesis:26:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:26:17",
+      "numberLabel": "17",
+      "text": "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.",
+      "metadata": {
+        "reference": "Genesis 26:17",
+        "verseKey": "kjv:genesis:26:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:26:18",
+      "numberLabel": "18",
+      "text": "And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.",
+      "metadata": {
+        "reference": "Genesis 26:18",
+        "verseKey": "kjv:genesis:26:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:26:19",
+      "numberLabel": "19",
+      "text": "And Isaac’s servants digged in the valley, and found there a well of springing water.",
+      "metadata": {
+        "reference": "Genesis 26:19",
+        "verseKey": "kjv:genesis:26:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:26:20",
+      "numberLabel": "20",
+      "text": "And the herdmen of Gerar did strive with Isaac’s herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him.",
+      "metadata": {
+        "reference": "Genesis 26:20",
+        "verseKey": "kjv:genesis:26:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:26:21",
+      "numberLabel": "21",
+      "text": "And they digged another well, and strove for that also: and he called the name of it Sitnah.",
+      "metadata": {
+        "reference": "Genesis 26:21",
+        "verseKey": "kjv:genesis:26:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:26:22",
+      "numberLabel": "22",
+      "text": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be fruitful in the land.",
+      "metadata": {
+        "reference": "Genesis 26:22",
+        "verseKey": "kjv:genesis:26:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:26:23",
+      "numberLabel": "23",
+      "text": "And he went up from thence to Beersheba.",
+      "metadata": {
+        "reference": "Genesis 26:23",
+        "verseKey": "kjv:genesis:26:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:26:24",
+      "numberLabel": "24",
+      "text": "And the LORD appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake.",
+      "metadata": {
+        "reference": "Genesis 26:24",
+        "verseKey": "kjv:genesis:26:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:26:25",
+      "numberLabel": "25",
+      "text": "And he builded an altar there, and called upon the name of the LORD, and pitched his tent there: and there Isaac’s servants digged a well.",
+      "metadata": {
+        "reference": "Genesis 26:25",
+        "verseKey": "kjv:genesis:26:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:26:26",
+      "numberLabel": "26",
+      "text": "Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.",
+      "metadata": {
+        "reference": "Genesis 26:26",
+        "verseKey": "kjv:genesis:26:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:26:27",
+      "numberLabel": "27",
+      "text": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?",
+      "metadata": {
+        "reference": "Genesis 26:27",
+        "verseKey": "kjv:genesis:26:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:26:28",
+      "numberLabel": "28",
+      "text": "And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;",
+      "metadata": {
+        "reference": "Genesis 26:28",
+        "verseKey": "kjv:genesis:26:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:26:29",
+      "numberLabel": "29",
+      "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the LORD.",
+      "metadata": {
+        "reference": "Genesis 26:29",
+        "verseKey": "kjv:genesis:26:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:26:30",
+      "numberLabel": "30",
+      "text": "And he made them a feast, and they did eat and drink.",
+      "metadata": {
+        "reference": "Genesis 26:30",
+        "verseKey": "kjv:genesis:26:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:26:31",
+      "numberLabel": "31",
+      "text": "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.",
+      "metadata": {
+        "reference": "Genesis 26:31",
+        "verseKey": "kjv:genesis:26:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:26:32",
+      "numberLabel": "32",
+      "text": "And it came to pass the same day, that Isaac’s servants came, and told him concerning the well which they had digged, and said unto him, We have found water.",
+      "metadata": {
+        "reference": "Genesis 26:32",
+        "verseKey": "kjv:genesis:26:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:26:33",
+      "numberLabel": "33",
+      "text": "And he called it Shebah: therefore the name of the city is Beersheba unto this day.",
+      "metadata": {
+        "reference": "Genesis 26:33",
+        "verseKey": "kjv:genesis:26:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:26:34",
+      "numberLabel": "34",
+      "text": "And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:",
+      "metadata": {
+        "reference": "Genesis 26:34",
+        "verseKey": "kjv:genesis:26:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:genesis:26:35",
+      "numberLabel": "35",
+      "text": "Which were a grief of mind unto Isaac and to Rebekah.",
+      "metadata": {
+        "reference": "Genesis 26:35",
+        "verseKey": "kjv:genesis:26:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

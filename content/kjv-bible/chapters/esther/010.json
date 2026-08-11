@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-esther-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Esther 10",
+  "display_title": "Esther 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "esther",
+  "book": "Esther",
+  "bookName": "Esther",
+  "bookOrder": 17,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 17010,
+  "verseCount": 3,
+  "aliases": [
+    "Esth",
+    "Est"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:esther:10:1",
+      "numberLabel": "1",
+      "text": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.",
+      "metadata": {
+        "reference": "Esther 10:1",
+        "verseKey": "kjv:esther:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:esther:10:2",
+      "numberLabel": "2",
+      "text": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?",
+      "metadata": {
+        "reference": "Esther 10:2",
+        "verseKey": "kjv:esther:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:esther:10:3",
+      "numberLabel": "3",
+      "text": "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+      "metadata": {
+        "reference": "Esther 10:3",
+        "verseKey": "kjv:esther:10:3"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Esther.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Esther.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

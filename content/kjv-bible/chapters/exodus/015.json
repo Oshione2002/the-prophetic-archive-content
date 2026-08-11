@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Exodus 15",
+  "display_title": "Exodus 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 15,
+  "sortOrder": 2015,
+  "verseCount": 27,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:15:1",
+      "numberLabel": "1",
+      "text": "Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.",
+      "metadata": {
+        "reference": "Exodus 15:1",
+        "verseKey": "kjv:exodus:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:15:2",
+      "numberLabel": "2",
+      "text": "The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.",
+      "metadata": {
+        "reference": "Exodus 15:2",
+        "verseKey": "kjv:exodus:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:15:3",
+      "numberLabel": "3",
+      "text": "The LORD is a man of war: the LORD is his name.",
+      "metadata": {
+        "reference": "Exodus 15:3",
+        "verseKey": "kjv:exodus:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:15:4",
+      "numberLabel": "4",
+      "text": "Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.",
+      "metadata": {
+        "reference": "Exodus 15:4",
+        "verseKey": "kjv:exodus:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:15:5",
+      "numberLabel": "5",
+      "text": "The depths have covered them: they sank into the bottom as a stone.",
+      "metadata": {
+        "reference": "Exodus 15:5",
+        "verseKey": "kjv:exodus:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:15:6",
+      "numberLabel": "6",
+      "text": "Thy right hand, O LORD, is become glorious in power: thy right hand, O LORD, hath dashed in pieces the enemy.",
+      "metadata": {
+        "reference": "Exodus 15:6",
+        "verseKey": "kjv:exodus:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:15:7",
+      "numberLabel": "7",
+      "text": "And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, which consumed them as stubble.",
+      "metadata": {
+        "reference": "Exodus 15:7",
+        "verseKey": "kjv:exodus:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:15:8",
+      "numberLabel": "8",
+      "text": "And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea.",
+      "metadata": {
+        "reference": "Exodus 15:8",
+        "verseKey": "kjv:exodus:15:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:15:9",
+      "numberLabel": "9",
+      "text": "The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.",
+      "metadata": {
+        "reference": "Exodus 15:9",
+        "verseKey": "kjv:exodus:15:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:15:10",
+      "numberLabel": "10",
+      "text": "Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.",
+      "metadata": {
+        "reference": "Exodus 15:10",
+        "verseKey": "kjv:exodus:15:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:15:11",
+      "numberLabel": "11",
+      "text": "Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?",
+      "metadata": {
+        "reference": "Exodus 15:11",
+        "verseKey": "kjv:exodus:15:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:15:12",
+      "numberLabel": "12",
+      "text": "Thou stretchedst out thy right hand, the earth swallowed them.",
+      "metadata": {
+        "reference": "Exodus 15:12",
+        "verseKey": "kjv:exodus:15:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:15:13",
+      "numberLabel": "13",
+      "text": "Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy habitation.",
+      "metadata": {
+        "reference": "Exodus 15:13",
+        "verseKey": "kjv:exodus:15:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:15:14",
+      "numberLabel": "14",
+      "text": "The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina.",
+      "metadata": {
+        "reference": "Exodus 15:14",
+        "verseKey": "kjv:exodus:15:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:15:15",
+      "numberLabel": "15",
+      "text": "Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.",
+      "metadata": {
+        "reference": "Exodus 15:15",
+        "verseKey": "kjv:exodus:15:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:15:16",
+      "numberLabel": "16",
+      "text": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O LORD, till the people pass over, which thou hast purchased.",
+      "metadata": {
+        "reference": "Exodus 15:16",
+        "verseKey": "kjv:exodus:15:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:15:17",
+      "numberLabel": "17",
+      "text": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O LORD, which thou hast made for thee to dwell in, in the Sanctuary, O LORD, which thy hands have established.",
+      "metadata": {
+        "reference": "Exodus 15:17",
+        "verseKey": "kjv:exodus:15:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:15:18",
+      "numberLabel": "18",
+      "text": "The LORD shall reign for ever and ever.",
+      "metadata": {
+        "reference": "Exodus 15:18",
+        "verseKey": "kjv:exodus:15:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:15:19",
+      "numberLabel": "19",
+      "text": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea.",
+      "metadata": {
+        "reference": "Exodus 15:19",
+        "verseKey": "kjv:exodus:15:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:15:20",
+      "numberLabel": "20",
+      "text": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.",
+      "metadata": {
+        "reference": "Exodus 15:20",
+        "verseKey": "kjv:exodus:15:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:15:21",
+      "numberLabel": "21",
+      "text": "And Miriam answered them, Sing ye to the LORD, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.",
+      "metadata": {
+        "reference": "Exodus 15:21",
+        "verseKey": "kjv:exodus:15:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:15:22",
+      "numberLabel": "22",
+      "text": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.",
+      "metadata": {
+        "reference": "Exodus 15:22",
+        "verseKey": "kjv:exodus:15:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:15:23",
+      "numberLabel": "23",
+      "text": "And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.",
+      "metadata": {
+        "reference": "Exodus 15:23",
+        "verseKey": "kjv:exodus:15:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:15:24",
+      "numberLabel": "24",
+      "text": "And the people murmured against Moses, saying, What shall we drink?",
+      "metadata": {
+        "reference": "Exodus 15:24",
+        "verseKey": "kjv:exodus:15:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:15:25",
+      "numberLabel": "25",
+      "text": "And he cried unto the LORD; and the LORD shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,",
+      "metadata": {
+        "reference": "Exodus 15:25",
+        "verseKey": "kjv:exodus:15:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:15:26",
+      "numberLabel": "26",
+      "text": "And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee.",
+      "metadata": {
+        "reference": "Exodus 15:26",
+        "verseKey": "kjv:exodus:15:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:15:27",
+      "numberLabel": "27",
+      "text": "And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.",
+      "metadata": {
+        "reference": "Exodus 15:27",
+        "verseKey": "kjv:exodus:15:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

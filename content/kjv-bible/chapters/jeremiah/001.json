@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Jeremiah 1",
+  "display_title": "Jeremiah 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 24001,
+  "verseCount": 19,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:1:1",
+      "numberLabel": "1",
+      "text": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:",
+      "metadata": {
+        "reference": "Jeremiah 1:1",
+        "verseKey": "kjv:jeremiah:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:1:2",
+      "numberLabel": "2",
+      "text": "To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.",
+      "metadata": {
+        "reference": "Jeremiah 1:2",
+        "verseKey": "kjv:jeremiah:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:1:3",
+      "numberLabel": "3",
+      "text": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.",
+      "metadata": {
+        "reference": "Jeremiah 1:3",
+        "verseKey": "kjv:jeremiah:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:1:4",
+      "numberLabel": "4",
+      "text": "Then the word of the LORD came unto me, saying,",
+      "metadata": {
+        "reference": "Jeremiah 1:4",
+        "verseKey": "kjv:jeremiah:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:1:5",
+      "numberLabel": "5",
+      "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
+      "metadata": {
+        "reference": "Jeremiah 1:5",
+        "verseKey": "kjv:jeremiah:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:1:6",
+      "numberLabel": "6",
+      "text": "Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child.",
+      "metadata": {
+        "reference": "Jeremiah 1:6",
+        "verseKey": "kjv:jeremiah:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:1:7",
+      "numberLabel": "7",
+      "text": "But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.",
+      "metadata": {
+        "reference": "Jeremiah 1:7",
+        "verseKey": "kjv:jeremiah:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:1:8",
+      "numberLabel": "8",
+      "text": "Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 1:8",
+        "verseKey": "kjv:jeremiah:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:1:9",
+      "numberLabel": "9",
+      "text": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth.",
+      "metadata": {
+        "reference": "Jeremiah 1:9",
+        "verseKey": "kjv:jeremiah:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:1:10",
+      "numberLabel": "10",
+      "text": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant.",
+      "metadata": {
+        "reference": "Jeremiah 1:10",
+        "verseKey": "kjv:jeremiah:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:1:11",
+      "numberLabel": "11",
+      "text": "Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.",
+      "metadata": {
+        "reference": "Jeremiah 1:11",
+        "verseKey": "kjv:jeremiah:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:1:12",
+      "numberLabel": "12",
+      "text": "Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it.",
+      "metadata": {
+        "reference": "Jeremiah 1:12",
+        "verseKey": "kjv:jeremiah:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:1:13",
+      "numberLabel": "13",
+      "text": "And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north.",
+      "metadata": {
+        "reference": "Jeremiah 1:13",
+        "verseKey": "kjv:jeremiah:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:1:14",
+      "numberLabel": "14",
+      "text": "Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.",
+      "metadata": {
+        "reference": "Jeremiah 1:14",
+        "verseKey": "kjv:jeremiah:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:1:15",
+      "numberLabel": "15",
+      "text": "For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.",
+      "metadata": {
+        "reference": "Jeremiah 1:15",
+        "verseKey": "kjv:jeremiah:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:1:16",
+      "numberLabel": "16",
+      "text": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.",
+      "metadata": {
+        "reference": "Jeremiah 1:16",
+        "verseKey": "kjv:jeremiah:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:1:17",
+      "numberLabel": "17",
+      "text": "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.",
+      "metadata": {
+        "reference": "Jeremiah 1:17",
+        "verseKey": "kjv:jeremiah:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:1:18",
+      "numberLabel": "18",
+      "text": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.",
+      "metadata": {
+        "reference": "Jeremiah 1:18",
+        "verseKey": "kjv:jeremiah:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:1:19",
+      "numberLabel": "19",
+      "text": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee.",
+      "metadata": {
+        "reference": "Jeremiah 1:19",
+        "verseKey": "kjv:jeremiah:1:19"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

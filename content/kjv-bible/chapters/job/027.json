@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "Job 27",
+  "display_title": "Job 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 18027,
+  "verseCount": 23,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:27:1",
+      "numberLabel": "1",
+      "text": "Moreover Job continued his parable, and said,",
+      "metadata": {
+        "reference": "Job 27:1",
+        "verseKey": "kjv:job:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:27:2",
+      "numberLabel": "2",
+      "text": "As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;",
+      "metadata": {
+        "reference": "Job 27:2",
+        "verseKey": "kjv:job:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:27:3",
+      "numberLabel": "3",
+      "text": "All the while my breath is in me, and the spirit of God is in my nostrils;",
+      "metadata": {
+        "reference": "Job 27:3",
+        "verseKey": "kjv:job:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:27:4",
+      "numberLabel": "4",
+      "text": "My lips shall not speak wickedness, nor my tongue utter deceit.",
+      "metadata": {
+        "reference": "Job 27:4",
+        "verseKey": "kjv:job:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:27:5",
+      "numberLabel": "5",
+      "text": "God forbid that I should justify you: till I die I will not remove mine integrity from me.",
+      "metadata": {
+        "reference": "Job 27:5",
+        "verseKey": "kjv:job:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:27:6",
+      "numberLabel": "6",
+      "text": "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.",
+      "metadata": {
+        "reference": "Job 27:6",
+        "verseKey": "kjv:job:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:27:7",
+      "numberLabel": "7",
+      "text": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+      "metadata": {
+        "reference": "Job 27:7",
+        "verseKey": "kjv:job:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:27:8",
+      "numberLabel": "8",
+      "text": "For what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?",
+      "metadata": {
+        "reference": "Job 27:8",
+        "verseKey": "kjv:job:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:27:9",
+      "numberLabel": "9",
+      "text": "Will God hear his cry when trouble cometh upon him?",
+      "metadata": {
+        "reference": "Job 27:9",
+        "verseKey": "kjv:job:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:27:10",
+      "numberLabel": "10",
+      "text": "Will he delight himself in the Almighty? will he always call upon God?",
+      "metadata": {
+        "reference": "Job 27:10",
+        "verseKey": "kjv:job:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:27:11",
+      "numberLabel": "11",
+      "text": "I will teach you by the hand of God: that which is with the Almighty will I not conceal.",
+      "metadata": {
+        "reference": "Job 27:11",
+        "verseKey": "kjv:job:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:27:12",
+      "numberLabel": "12",
+      "text": "Behold, all ye yourselves have seen it; why then are ye thus altogether vain?",
+      "metadata": {
+        "reference": "Job 27:12",
+        "verseKey": "kjv:job:27:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:27:13",
+      "numberLabel": "13",
+      "text": "This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty.",
+      "metadata": {
+        "reference": "Job 27:13",
+        "verseKey": "kjv:job:27:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:27:14",
+      "numberLabel": "14",
+      "text": "If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.",
+      "metadata": {
+        "reference": "Job 27:14",
+        "verseKey": "kjv:job:27:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:27:15",
+      "numberLabel": "15",
+      "text": "Those that remain of him shall be buried in death: and his widows shall not weep.",
+      "metadata": {
+        "reference": "Job 27:15",
+        "verseKey": "kjv:job:27:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:27:16",
+      "numberLabel": "16",
+      "text": "Though he heap up silver as the dust, and prepare raiment as the clay;",
+      "metadata": {
+        "reference": "Job 27:16",
+        "verseKey": "kjv:job:27:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:27:17",
+      "numberLabel": "17",
+      "text": "He may prepare it, but the just shall put it on, and the innocent shall divide the silver.",
+      "metadata": {
+        "reference": "Job 27:17",
+        "verseKey": "kjv:job:27:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:27:18",
+      "numberLabel": "18",
+      "text": "He buildeth his house as a moth, and as a booth that the keeper maketh.",
+      "metadata": {
+        "reference": "Job 27:18",
+        "verseKey": "kjv:job:27:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:27:19",
+      "numberLabel": "19",
+      "text": "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he is not.",
+      "metadata": {
+        "reference": "Job 27:19",
+        "verseKey": "kjv:job:27:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:27:20",
+      "numberLabel": "20",
+      "text": "Terrors take hold on him as waters, a tempest stealeth him away in the night.",
+      "metadata": {
+        "reference": "Job 27:20",
+        "verseKey": "kjv:job:27:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:27:21",
+      "numberLabel": "21",
+      "text": "The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.",
+      "metadata": {
+        "reference": "Job 27:21",
+        "verseKey": "kjv:job:27:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:27:22",
+      "numberLabel": "22",
+      "text": "For God shall cast upon him, and not spare: he would fain flee out of his hand.",
+      "metadata": {
+        "reference": "Job 27:22",
+        "verseKey": "kjv:job:27:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:27:23",
+      "numberLabel": "23",
+      "text": "Men shall clap their hands at him, and shall hiss him out of his place.",
+      "metadata": {
+        "reference": "Job 27:23",
+        "verseKey": "kjv:job:27:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

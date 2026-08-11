@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-037",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 37,
+  "title": "Job 37",
+  "display_title": "Job 37",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 37,
+  "sortOrder": 18037,
+  "verseCount": 24,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:37:1",
+      "numberLabel": "1",
+      "text": "At this also my heart trembleth, and is moved out of his place.",
+      "metadata": {
+        "reference": "Job 37:1",
+        "verseKey": "kjv:job:37:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:37:2",
+      "numberLabel": "2",
+      "text": "Hear attentively the noise of his voice, and the sound that goeth out of his mouth.",
+      "metadata": {
+        "reference": "Job 37:2",
+        "verseKey": "kjv:job:37:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:37:3",
+      "numberLabel": "3",
+      "text": "He directeth it under the whole heaven, and his lightning unto the ends of the earth.",
+      "metadata": {
+        "reference": "Job 37:3",
+        "verseKey": "kjv:job:37:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:37:4",
+      "numberLabel": "4",
+      "text": "After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard.",
+      "metadata": {
+        "reference": "Job 37:4",
+        "verseKey": "kjv:job:37:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:37:5",
+      "numberLabel": "5",
+      "text": "God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.",
+      "metadata": {
+        "reference": "Job 37:5",
+        "verseKey": "kjv:job:37:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:37:6",
+      "numberLabel": "6",
+      "text": "For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength.",
+      "metadata": {
+        "reference": "Job 37:6",
+        "verseKey": "kjv:job:37:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:37:7",
+      "numberLabel": "7",
+      "text": "He sealeth up the hand of every man; that all men may know his work.",
+      "metadata": {
+        "reference": "Job 37:7",
+        "verseKey": "kjv:job:37:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:37:8",
+      "numberLabel": "8",
+      "text": "Then the beasts go into dens, and remain in their places.",
+      "metadata": {
+        "reference": "Job 37:8",
+        "verseKey": "kjv:job:37:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:37:9",
+      "numberLabel": "9",
+      "text": "Out of the south cometh the whirlwind: and cold out of the north.",
+      "metadata": {
+        "reference": "Job 37:9",
+        "verseKey": "kjv:job:37:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:37:10",
+      "numberLabel": "10",
+      "text": "By the breath of God frost is given: and the breadth of the waters is straitened.",
+      "metadata": {
+        "reference": "Job 37:10",
+        "verseKey": "kjv:job:37:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:37:11",
+      "numberLabel": "11",
+      "text": "Also by watering he wearieth the thick cloud: he scattereth his bright cloud:",
+      "metadata": {
+        "reference": "Job 37:11",
+        "verseKey": "kjv:job:37:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:37:12",
+      "numberLabel": "12",
+      "text": "And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth.",
+      "metadata": {
+        "reference": "Job 37:12",
+        "verseKey": "kjv:job:37:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:37:13",
+      "numberLabel": "13",
+      "text": "He causeth it to come, whether for correction, or for his land, or for mercy.",
+      "metadata": {
+        "reference": "Job 37:13",
+        "verseKey": "kjv:job:37:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:37:14",
+      "numberLabel": "14",
+      "text": "Hearken unto this, O Job: stand still, and consider the wondrous works of God.",
+      "metadata": {
+        "reference": "Job 37:14",
+        "verseKey": "kjv:job:37:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:37:15",
+      "numberLabel": "15",
+      "text": "Dost thou know when God disposed them, and caused the light of his cloud to shine?",
+      "metadata": {
+        "reference": "Job 37:15",
+        "verseKey": "kjv:job:37:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:37:16",
+      "numberLabel": "16",
+      "text": "Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?",
+      "metadata": {
+        "reference": "Job 37:16",
+        "verseKey": "kjv:job:37:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:37:17",
+      "numberLabel": "17",
+      "text": "How thy garments are warm, when he quieteth the earth by the south wind?",
+      "metadata": {
+        "reference": "Job 37:17",
+        "verseKey": "kjv:job:37:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:37:18",
+      "numberLabel": "18",
+      "text": "Hast thou with him spread out the sky, which is strong, and as a molten looking glass?",
+      "metadata": {
+        "reference": "Job 37:18",
+        "verseKey": "kjv:job:37:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:37:19",
+      "numberLabel": "19",
+      "text": "Teach us what we shall say unto him; for we cannot order our speech by reason of darkness.",
+      "metadata": {
+        "reference": "Job 37:19",
+        "verseKey": "kjv:job:37:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:37:20",
+      "numberLabel": "20",
+      "text": "Shall it be told him that I speak? if a man speak, surely he shall be swallowed up.",
+      "metadata": {
+        "reference": "Job 37:20",
+        "verseKey": "kjv:job:37:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:37:21",
+      "numberLabel": "21",
+      "text": "And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them.",
+      "metadata": {
+        "reference": "Job 37:21",
+        "verseKey": "kjv:job:37:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:37:22",
+      "numberLabel": "22",
+      "text": "Fair weather cometh out of the north: with God is terrible majesty.",
+      "metadata": {
+        "reference": "Job 37:22",
+        "verseKey": "kjv:job:37:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:37:23",
+      "numberLabel": "23",
+      "text": "Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict.",
+      "metadata": {
+        "reference": "Job 37:23",
+        "verseKey": "kjv:job:37:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:37:24",
+      "numberLabel": "24",
+      "text": "Men do therefore fear him: he respecteth not any that are wise of heart.",
+      "metadata": {
+        "reference": "Job 37:24",
+        "verseKey": "kjv:job:37:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

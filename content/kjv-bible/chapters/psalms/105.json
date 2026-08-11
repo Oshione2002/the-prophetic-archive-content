@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-105",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 105,
+  "title": "Psalms 105",
+  "display_title": "Psalms 105",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 105,
+  "sortOrder": 19105,
+  "verseCount": 45,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:105:1",
+      "numberLabel": "1",
+      "text": "O give thanks unto the LORD; call upon his name: make known his deeds among the people.",
+      "metadata": {
+        "reference": "Psalms 105:1",
+        "verseKey": "kjv:psalms:105:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:105:2",
+      "numberLabel": "2",
+      "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.",
+      "metadata": {
+        "reference": "Psalms 105:2",
+        "verseKey": "kjv:psalms:105:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:105:3",
+      "numberLabel": "3",
+      "text": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD.",
+      "metadata": {
+        "reference": "Psalms 105:3",
+        "verseKey": "kjv:psalms:105:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:105:4",
+      "numberLabel": "4",
+      "text": "Seek the LORD, and his strength: seek his face evermore.",
+      "metadata": {
+        "reference": "Psalms 105:4",
+        "verseKey": "kjv:psalms:105:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:105:5",
+      "numberLabel": "5",
+      "text": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;",
+      "metadata": {
+        "reference": "Psalms 105:5",
+        "verseKey": "kjv:psalms:105:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:105:6",
+      "numberLabel": "6",
+      "text": "O ye seed of Abraham his servant, ye children of Jacob his chosen.",
+      "metadata": {
+        "reference": "Psalms 105:6",
+        "verseKey": "kjv:psalms:105:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:105:7",
+      "numberLabel": "7",
+      "text": "He is the LORD our God: his judgments are in all the earth.",
+      "metadata": {
+        "reference": "Psalms 105:7",
+        "verseKey": "kjv:psalms:105:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:105:8",
+      "numberLabel": "8",
+      "text": "He hath remembered his covenant for ever, the word which he commanded to a thousand generations.",
+      "metadata": {
+        "reference": "Psalms 105:8",
+        "verseKey": "kjv:psalms:105:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:105:9",
+      "numberLabel": "9",
+      "text": "Which covenant he made with Abraham, and his oath unto Isaac;",
+      "metadata": {
+        "reference": "Psalms 105:9",
+        "verseKey": "kjv:psalms:105:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:105:10",
+      "numberLabel": "10",
+      "text": "And confirmed the same unto Jacob for a law, and to Israel for an everlasting covenant:",
+      "metadata": {
+        "reference": "Psalms 105:10",
+        "verseKey": "kjv:psalms:105:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:105:11",
+      "numberLabel": "11",
+      "text": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:",
+      "metadata": {
+        "reference": "Psalms 105:11",
+        "verseKey": "kjv:psalms:105:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:105:12",
+      "numberLabel": "12",
+      "text": "When they were but a few men in number; yea, very few, and strangers in it.",
+      "metadata": {
+        "reference": "Psalms 105:12",
+        "verseKey": "kjv:psalms:105:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:105:13",
+      "numberLabel": "13",
+      "text": "When they went from one nation to another, from one kingdom to another people;",
+      "metadata": {
+        "reference": "Psalms 105:13",
+        "verseKey": "kjv:psalms:105:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:105:14",
+      "numberLabel": "14",
+      "text": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;",
+      "metadata": {
+        "reference": "Psalms 105:14",
+        "verseKey": "kjv:psalms:105:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:105:15",
+      "numberLabel": "15",
+      "text": "Saying, Touch not mine anointed, and do my prophets no harm.",
+      "metadata": {
+        "reference": "Psalms 105:15",
+        "verseKey": "kjv:psalms:105:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:105:16",
+      "numberLabel": "16",
+      "text": "Moreover he called for a famine upon the land: he brake the whole staff of bread.",
+      "metadata": {
+        "reference": "Psalms 105:16",
+        "verseKey": "kjv:psalms:105:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:105:17",
+      "numberLabel": "17",
+      "text": "He sent a man before them, even Joseph, who was sold for a servant:",
+      "metadata": {
+        "reference": "Psalms 105:17",
+        "verseKey": "kjv:psalms:105:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:105:18",
+      "numberLabel": "18",
+      "text": "Whose feet they hurt with fetters: he was laid in iron:",
+      "metadata": {
+        "reference": "Psalms 105:18",
+        "verseKey": "kjv:psalms:105:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:105:19",
+      "numberLabel": "19",
+      "text": "Until the time that his word came: the word of the LORD tried him.",
+      "metadata": {
+        "reference": "Psalms 105:19",
+        "verseKey": "kjv:psalms:105:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:105:20",
+      "numberLabel": "20",
+      "text": "The king sent and loosed him; even the ruler of the people, and let him go free.",
+      "metadata": {
+        "reference": "Psalms 105:20",
+        "verseKey": "kjv:psalms:105:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:105:21",
+      "numberLabel": "21",
+      "text": "He made him lord of his house, and ruler of all his substance:",
+      "metadata": {
+        "reference": "Psalms 105:21",
+        "verseKey": "kjv:psalms:105:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:105:22",
+      "numberLabel": "22",
+      "text": "To bind his princes at his pleasure; and teach his senators wisdom.",
+      "metadata": {
+        "reference": "Psalms 105:22",
+        "verseKey": "kjv:psalms:105:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:105:23",
+      "numberLabel": "23",
+      "text": "Israel also came into Egypt; and Jacob sojourned in the land of Ham.",
+      "metadata": {
+        "reference": "Psalms 105:23",
+        "verseKey": "kjv:psalms:105:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:105:24",
+      "numberLabel": "24",
+      "text": "And he increased his people greatly; and made them stronger than their enemies.",
+      "metadata": {
+        "reference": "Psalms 105:24",
+        "verseKey": "kjv:psalms:105:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:105:25",
+      "numberLabel": "25",
+      "text": "He turned their heart to hate his people, to deal subtilly with his servants.",
+      "metadata": {
+        "reference": "Psalms 105:25",
+        "verseKey": "kjv:psalms:105:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:105:26",
+      "numberLabel": "26",
+      "text": "He sent Moses his servant; and Aaron whom he had chosen.",
+      "metadata": {
+        "reference": "Psalms 105:26",
+        "verseKey": "kjv:psalms:105:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:105:27",
+      "numberLabel": "27",
+      "text": "They shewed his signs among them, and wonders in the land of Ham.",
+      "metadata": {
+        "reference": "Psalms 105:27",
+        "verseKey": "kjv:psalms:105:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:105:28",
+      "numberLabel": "28",
+      "text": "He sent darkness, and made it dark; and they rebelled not against his word.",
+      "metadata": {
+        "reference": "Psalms 105:28",
+        "verseKey": "kjv:psalms:105:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:psalms:105:29",
+      "numberLabel": "29",
+      "text": "He turned their waters into blood, and slew their fish.",
+      "metadata": {
+        "reference": "Psalms 105:29",
+        "verseKey": "kjv:psalms:105:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:psalms:105:30",
+      "numberLabel": "30",
+      "text": "Their land brought forth frogs in abundance, in the chambers of their kings.",
+      "metadata": {
+        "reference": "Psalms 105:30",
+        "verseKey": "kjv:psalms:105:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:psalms:105:31",
+      "numberLabel": "31",
+      "text": "He spake, and there came divers sorts of flies, and lice in all their coasts.",
+      "metadata": {
+        "reference": "Psalms 105:31",
+        "verseKey": "kjv:psalms:105:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:psalms:105:32",
+      "numberLabel": "32",
+      "text": "He gave them hail for rain, and flaming fire in their land.",
+      "metadata": {
+        "reference": "Psalms 105:32",
+        "verseKey": "kjv:psalms:105:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:psalms:105:33",
+      "numberLabel": "33",
+      "text": "He smote their vines also and their fig trees; and brake the trees of their coasts.",
+      "metadata": {
+        "reference": "Psalms 105:33",
+        "verseKey": "kjv:psalms:105:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:psalms:105:34",
+      "numberLabel": "34",
+      "text": "He spake, and the locusts came, and caterpillers, and that without number,",
+      "metadata": {
+        "reference": "Psalms 105:34",
+        "verseKey": "kjv:psalms:105:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:psalms:105:35",
+      "numberLabel": "35",
+      "text": "And did eat up all the herbs in their land, and devoured the fruit of their ground.",
+      "metadata": {
+        "reference": "Psalms 105:35",
+        "verseKey": "kjv:psalms:105:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:psalms:105:36",
+      "numberLabel": "36",
+      "text": "He smote also all the firstborn in their land, the chief of all their strength.",
+      "metadata": {
+        "reference": "Psalms 105:36",
+        "verseKey": "kjv:psalms:105:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:psalms:105:37",
+      "numberLabel": "37",
+      "text": "He brought them forth also with silver and gold: and there was not one feeble person among their tribes.",
+      "metadata": {
+        "reference": "Psalms 105:37",
+        "verseKey": "kjv:psalms:105:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:psalms:105:38",
+      "numberLabel": "38",
+      "text": "Egypt was glad when they departed: for the fear of them fell upon them.",
+      "metadata": {
+        "reference": "Psalms 105:38",
+        "verseKey": "kjv:psalms:105:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:psalms:105:39",
+      "numberLabel": "39",
+      "text": "He spread a cloud for a covering; and fire to give light in the night.",
+      "metadata": {
+        "reference": "Psalms 105:39",
+        "verseKey": "kjv:psalms:105:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:psalms:105:40",
+      "numberLabel": "40",
+      "text": "The people asked, and he brought quails, and satisfied them with the bread of heaven.",
+      "metadata": {
+        "reference": "Psalms 105:40",
+        "verseKey": "kjv:psalms:105:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:psalms:105:41",
+      "numberLabel": "41",
+      "text": "He opened the rock, and the waters gushed out; they ran in the dry places like a river.",
+      "metadata": {
+        "reference": "Psalms 105:41",
+        "verseKey": "kjv:psalms:105:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:psalms:105:42",
+      "numberLabel": "42",
+      "text": "For he remembered his holy promise, and Abraham his servant.",
+      "metadata": {
+        "reference": "Psalms 105:42",
+        "verseKey": "kjv:psalms:105:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:psalms:105:43",
+      "numberLabel": "43",
+      "text": "And he brought forth his people with joy, and his chosen with gladness:",
+      "metadata": {
+        "reference": "Psalms 105:43",
+        "verseKey": "kjv:psalms:105:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:psalms:105:44",
+      "numberLabel": "44",
+      "text": "And gave them the lands of the heathen: and they inherited the labour of the people;",
+      "metadata": {
+        "reference": "Psalms 105:44",
+        "verseKey": "kjv:psalms:105:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:psalms:105:45",
+      "numberLabel": "45",
+      "text": "That they might observe his statutes, and keep his laws. Praise ye the LORD.",
+      "metadata": {
+        "reference": "Psalms 105:45",
+        "verseKey": "kjv:psalms:105:45"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

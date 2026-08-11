@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ecclesiastes-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Ecclesiastes 11",
+  "display_title": "Ecclesiastes 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ecclesiastes",
+  "book": "Ecclesiastes",
+  "bookName": "Ecclesiastes",
+  "bookOrder": 21,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 21011,
+  "verseCount": 10,
+  "aliases": [
+    "Eccl",
+    "Ecc",
+    "Qoheleth"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ecclesiastes:11:1",
+      "numberLabel": "1",
+      "text": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:1",
+        "verseKey": "kjv:ecclesiastes:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ecclesiastes:11:2",
+      "numberLabel": "2",
+      "text": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:2",
+        "verseKey": "kjv:ecclesiastes:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ecclesiastes:11:3",
+      "numberLabel": "3",
+      "text": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:3",
+        "verseKey": "kjv:ecclesiastes:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ecclesiastes:11:4",
+      "numberLabel": "4",
+      "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:4",
+        "verseKey": "kjv:ecclesiastes:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ecclesiastes:11:5",
+      "numberLabel": "5",
+      "text": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:5",
+        "verseKey": "kjv:ecclesiastes:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ecclesiastes:11:6",
+      "numberLabel": "6",
+      "text": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:6",
+        "verseKey": "kjv:ecclesiastes:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ecclesiastes:11:7",
+      "numberLabel": "7",
+      "text": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:",
+      "metadata": {
+        "reference": "Ecclesiastes 11:7",
+        "verseKey": "kjv:ecclesiastes:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ecclesiastes:11:8",
+      "numberLabel": "8",
+      "text": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:8",
+        "verseKey": "kjv:ecclesiastes:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ecclesiastes:11:9",
+      "numberLabel": "9",
+      "text": "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:9",
+        "verseKey": "kjv:ecclesiastes:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ecclesiastes:11:10",
+      "numberLabel": "10",
+      "text": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 11:10",
+        "verseKey": "kjv:ecclesiastes:11:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ecclesiastes.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ecclesiastes.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

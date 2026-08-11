@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-133",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 133,
+  "title": "Psalms 133",
+  "display_title": "Psalms 133",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 133,
+  "sortOrder": 19133,
+  "verseCount": 3,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:133:1",
+      "numberLabel": "1",
+      "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+      "metadata": {
+        "reference": "Psalms 133:1",
+        "verseKey": "kjv:psalms:133:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:133:2",
+      "numberLabel": "2",
+      "text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;",
+      "metadata": {
+        "reference": "Psalms 133:2",
+        "verseKey": "kjv:psalms:133:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:133:3",
+      "numberLabel": "3",
+      "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore.",
+      "metadata": {
+        "reference": "Psalms 133:3",
+        "verseKey": "kjv:psalms:133:3"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

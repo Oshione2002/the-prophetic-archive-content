@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hebrews-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Hebrews 4",
+  "display_title": "Hebrews 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hebrews",
+  "book": "Hebrews",
+  "bookName": "Hebrews",
+  "bookOrder": 58,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 58004,
+  "verseCount": 16,
+  "aliases": [
+    "Heb",
+    "He"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hebrews:4:1",
+      "numberLabel": "1",
+      "text": "Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.",
+      "metadata": {
+        "reference": "Hebrews 4:1",
+        "verseKey": "kjv:hebrews:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hebrews:4:2",
+      "numberLabel": "2",
+      "text": "For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.",
+      "metadata": {
+        "reference": "Hebrews 4:2",
+        "verseKey": "kjv:hebrews:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hebrews:4:3",
+      "numberLabel": "3",
+      "text": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.",
+      "metadata": {
+        "reference": "Hebrews 4:3",
+        "verseKey": "kjv:hebrews:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hebrews:4:4",
+      "numberLabel": "4",
+      "text": "For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.",
+      "metadata": {
+        "reference": "Hebrews 4:4",
+        "verseKey": "kjv:hebrews:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hebrews:4:5",
+      "numberLabel": "5",
+      "text": "And in this place again, If they shall enter into my rest.",
+      "metadata": {
+        "reference": "Hebrews 4:5",
+        "verseKey": "kjv:hebrews:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hebrews:4:6",
+      "numberLabel": "6",
+      "text": "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:",
+      "metadata": {
+        "reference": "Hebrews 4:6",
+        "verseKey": "kjv:hebrews:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hebrews:4:7",
+      "numberLabel": "7",
+      "text": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
+      "metadata": {
+        "reference": "Hebrews 4:7",
+        "verseKey": "kjv:hebrews:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hebrews:4:8",
+      "numberLabel": "8",
+      "text": "For if Jesus had given them rest, then would he not afterward have spoken of another day.",
+      "metadata": {
+        "reference": "Hebrews 4:8",
+        "verseKey": "kjv:hebrews:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hebrews:4:9",
+      "numberLabel": "9",
+      "text": "There remaineth therefore a rest to the people of God.",
+      "metadata": {
+        "reference": "Hebrews 4:9",
+        "verseKey": "kjv:hebrews:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hebrews:4:10",
+      "numberLabel": "10",
+      "text": "For he that is entered into his rest, he also hath ceased from his own works, as God did from his.",
+      "metadata": {
+        "reference": "Hebrews 4:10",
+        "verseKey": "kjv:hebrews:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hebrews:4:11",
+      "numberLabel": "11",
+      "text": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.",
+      "metadata": {
+        "reference": "Hebrews 4:11",
+        "verseKey": "kjv:hebrews:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:hebrews:4:12",
+      "numberLabel": "12",
+      "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+      "metadata": {
+        "reference": "Hebrews 4:12",
+        "verseKey": "kjv:hebrews:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:hebrews:4:13",
+      "numberLabel": "13",
+      "text": "Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.",
+      "metadata": {
+        "reference": "Hebrews 4:13",
+        "verseKey": "kjv:hebrews:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:hebrews:4:14",
+      "numberLabel": "14",
+      "text": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.",
+      "metadata": {
+        "reference": "Hebrews 4:14",
+        "verseKey": "kjv:hebrews:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:hebrews:4:15",
+      "numberLabel": "15",
+      "text": "For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.",
+      "metadata": {
+        "reference": "Hebrews 4:15",
+        "verseKey": "kjv:hebrews:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:hebrews:4:16",
+      "numberLabel": "16",
+      "text": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.",
+      "metadata": {
+        "reference": "Hebrews 4:16",
+        "verseKey": "kjv:hebrews:4:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hebrews.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hebrews.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

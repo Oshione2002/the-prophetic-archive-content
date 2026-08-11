@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-034",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 34,
+  "title": "Deuteronomy 34",
+  "display_title": "Deuteronomy 34",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 34,
+  "sortOrder": 5034,
+  "verseCount": 12,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:34:1",
+      "numberLabel": "1",
+      "text": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,",
+      "metadata": {
+        "reference": "Deuteronomy 34:1",
+        "verseKey": "kjv:deuteronomy:34:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:34:2",
+      "numberLabel": "2",
+      "text": "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,",
+      "metadata": {
+        "reference": "Deuteronomy 34:2",
+        "verseKey": "kjv:deuteronomy:34:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:34:3",
+      "numberLabel": "3",
+      "text": "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar.",
+      "metadata": {
+        "reference": "Deuteronomy 34:3",
+        "verseKey": "kjv:deuteronomy:34:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:34:4",
+      "numberLabel": "4",
+      "text": "And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.",
+      "metadata": {
+        "reference": "Deuteronomy 34:4",
+        "verseKey": "kjv:deuteronomy:34:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:34:5",
+      "numberLabel": "5",
+      "text": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD.",
+      "metadata": {
+        "reference": "Deuteronomy 34:5",
+        "verseKey": "kjv:deuteronomy:34:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:34:6",
+      "numberLabel": "6",
+      "text": "And he buried him in a valley in the land of Moab, over against Bethpeor: but no man knoweth of his sepulchre unto this day.",
+      "metadata": {
+        "reference": "Deuteronomy 34:6",
+        "verseKey": "kjv:deuteronomy:34:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:34:7",
+      "numberLabel": "7",
+      "text": "And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.",
+      "metadata": {
+        "reference": "Deuteronomy 34:7",
+        "verseKey": "kjv:deuteronomy:34:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:34:8",
+      "numberLabel": "8",
+      "text": "And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended.",
+      "metadata": {
+        "reference": "Deuteronomy 34:8",
+        "verseKey": "kjv:deuteronomy:34:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:34:9",
+      "numberLabel": "9",
+      "text": "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Deuteronomy 34:9",
+        "verseKey": "kjv:deuteronomy:34:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:34:10",
+      "numberLabel": "10",
+      "text": "And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,",
+      "metadata": {
+        "reference": "Deuteronomy 34:10",
+        "verseKey": "kjv:deuteronomy:34:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:34:11",
+      "numberLabel": "11",
+      "text": "In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,",
+      "metadata": {
+        "reference": "Deuteronomy 34:11",
+        "verseKey": "kjv:deuteronomy:34:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:34:12",
+      "numberLabel": "12",
+      "text": "And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.",
+      "metadata": {
+        "reference": "Deuteronomy 34:12",
+        "verseKey": "kjv:deuteronomy:34:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

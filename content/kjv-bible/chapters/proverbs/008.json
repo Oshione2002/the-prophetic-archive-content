@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Proverbs 8",
+  "display_title": "Proverbs 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 20008,
+  "verseCount": 36,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:8:1",
+      "numberLabel": "1",
+      "text": "Doth not wisdom cry? and understanding put forth her voice?",
+      "metadata": {
+        "reference": "Proverbs 8:1",
+        "verseKey": "kjv:proverbs:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:8:2",
+      "numberLabel": "2",
+      "text": "She standeth in the top of high places, by the way in the places of the paths.",
+      "metadata": {
+        "reference": "Proverbs 8:2",
+        "verseKey": "kjv:proverbs:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:8:3",
+      "numberLabel": "3",
+      "text": "She crieth at the gates, at the entry of the city, at the coming in at the doors.",
+      "metadata": {
+        "reference": "Proverbs 8:3",
+        "verseKey": "kjv:proverbs:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:8:4",
+      "numberLabel": "4",
+      "text": "Unto you, O men, I call; and my voice is to the sons of man.",
+      "metadata": {
+        "reference": "Proverbs 8:4",
+        "verseKey": "kjv:proverbs:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:8:5",
+      "numberLabel": "5",
+      "text": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.",
+      "metadata": {
+        "reference": "Proverbs 8:5",
+        "verseKey": "kjv:proverbs:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:8:6",
+      "numberLabel": "6",
+      "text": "Hear; for I will speak of excellent things; and the opening of my lips shall be right things.",
+      "metadata": {
+        "reference": "Proverbs 8:6",
+        "verseKey": "kjv:proverbs:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:8:7",
+      "numberLabel": "7",
+      "text": "For my mouth shall speak truth; and wickedness is an abomination to my lips.",
+      "metadata": {
+        "reference": "Proverbs 8:7",
+        "verseKey": "kjv:proverbs:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:8:8",
+      "numberLabel": "8",
+      "text": "All the words of my mouth are in righteousness; there is nothing froward or perverse in them.",
+      "metadata": {
+        "reference": "Proverbs 8:8",
+        "verseKey": "kjv:proverbs:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:8:9",
+      "numberLabel": "9",
+      "text": "They are all plain to him that understandeth, and right to them that find knowledge.",
+      "metadata": {
+        "reference": "Proverbs 8:9",
+        "verseKey": "kjv:proverbs:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:8:10",
+      "numberLabel": "10",
+      "text": "Receive my instruction, and not silver; and knowledge rather than choice gold.",
+      "metadata": {
+        "reference": "Proverbs 8:10",
+        "verseKey": "kjv:proverbs:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:8:11",
+      "numberLabel": "11",
+      "text": "For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.",
+      "metadata": {
+        "reference": "Proverbs 8:11",
+        "verseKey": "kjv:proverbs:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:8:12",
+      "numberLabel": "12",
+      "text": "I wisdom dwell with prudence, and find out knowledge of witty inventions.",
+      "metadata": {
+        "reference": "Proverbs 8:12",
+        "verseKey": "kjv:proverbs:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:8:13",
+      "numberLabel": "13",
+      "text": "The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
+      "metadata": {
+        "reference": "Proverbs 8:13",
+        "verseKey": "kjv:proverbs:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:8:14",
+      "numberLabel": "14",
+      "text": "Counsel is mine, and sound wisdom: I am understanding; I have strength.",
+      "metadata": {
+        "reference": "Proverbs 8:14",
+        "verseKey": "kjv:proverbs:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:8:15",
+      "numberLabel": "15",
+      "text": "By me kings reign, and princes decree justice.",
+      "metadata": {
+        "reference": "Proverbs 8:15",
+        "verseKey": "kjv:proverbs:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:8:16",
+      "numberLabel": "16",
+      "text": "By me princes rule, and nobles, even all the judges of the earth.",
+      "metadata": {
+        "reference": "Proverbs 8:16",
+        "verseKey": "kjv:proverbs:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:8:17",
+      "numberLabel": "17",
+      "text": "I love them that love me; and those that seek me early shall find me.",
+      "metadata": {
+        "reference": "Proverbs 8:17",
+        "verseKey": "kjv:proverbs:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:8:18",
+      "numberLabel": "18",
+      "text": "Riches and honour are with me; yea, durable riches and righteousness.",
+      "metadata": {
+        "reference": "Proverbs 8:18",
+        "verseKey": "kjv:proverbs:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:8:19",
+      "numberLabel": "19",
+      "text": "My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.",
+      "metadata": {
+        "reference": "Proverbs 8:19",
+        "verseKey": "kjv:proverbs:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:8:20",
+      "numberLabel": "20",
+      "text": "I lead in the way of righteousness, in the midst of the paths of judgment:",
+      "metadata": {
+        "reference": "Proverbs 8:20",
+        "verseKey": "kjv:proverbs:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:8:21",
+      "numberLabel": "21",
+      "text": "That I may cause those that love me to inherit substance; and I will fill their treasures.",
+      "metadata": {
+        "reference": "Proverbs 8:21",
+        "verseKey": "kjv:proverbs:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:8:22",
+      "numberLabel": "22",
+      "text": "The LORD possessed me in the beginning of his way, before his works of old.",
+      "metadata": {
+        "reference": "Proverbs 8:22",
+        "verseKey": "kjv:proverbs:8:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:8:23",
+      "numberLabel": "23",
+      "text": "I was set up from everlasting, from the beginning, or ever the earth was.",
+      "metadata": {
+        "reference": "Proverbs 8:23",
+        "verseKey": "kjv:proverbs:8:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:8:24",
+      "numberLabel": "24",
+      "text": "When there were no depths, I was brought forth; when there were no fountains abounding with water.",
+      "metadata": {
+        "reference": "Proverbs 8:24",
+        "verseKey": "kjv:proverbs:8:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:8:25",
+      "numberLabel": "25",
+      "text": "Before the mountains were settled, before the hills was I brought forth:",
+      "metadata": {
+        "reference": "Proverbs 8:25",
+        "verseKey": "kjv:proverbs:8:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:8:26",
+      "numberLabel": "26",
+      "text": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.",
+      "metadata": {
+        "reference": "Proverbs 8:26",
+        "verseKey": "kjv:proverbs:8:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:8:27",
+      "numberLabel": "27",
+      "text": "When he prepared the heavens, I was there: when he set a compass upon the face of the depth:",
+      "metadata": {
+        "reference": "Proverbs 8:27",
+        "verseKey": "kjv:proverbs:8:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:8:28",
+      "numberLabel": "28",
+      "text": "When he established the clouds above: when he strengthened the fountains of the deep:",
+      "metadata": {
+        "reference": "Proverbs 8:28",
+        "verseKey": "kjv:proverbs:8:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:proverbs:8:29",
+      "numberLabel": "29",
+      "text": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:",
+      "metadata": {
+        "reference": "Proverbs 8:29",
+        "verseKey": "kjv:proverbs:8:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:proverbs:8:30",
+      "numberLabel": "30",
+      "text": "Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;",
+      "metadata": {
+        "reference": "Proverbs 8:30",
+        "verseKey": "kjv:proverbs:8:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:proverbs:8:31",
+      "numberLabel": "31",
+      "text": "Rejoicing in the habitable part of his earth; and my delights were with the sons of men.",
+      "metadata": {
+        "reference": "Proverbs 8:31",
+        "verseKey": "kjv:proverbs:8:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:proverbs:8:32",
+      "numberLabel": "32",
+      "text": "Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.",
+      "metadata": {
+        "reference": "Proverbs 8:32",
+        "verseKey": "kjv:proverbs:8:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:proverbs:8:33",
+      "numberLabel": "33",
+      "text": "Hear instruction, and be wise, and refuse it not.",
+      "metadata": {
+        "reference": "Proverbs 8:33",
+        "verseKey": "kjv:proverbs:8:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:proverbs:8:34",
+      "numberLabel": "34",
+      "text": "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.",
+      "metadata": {
+        "reference": "Proverbs 8:34",
+        "verseKey": "kjv:proverbs:8:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:proverbs:8:35",
+      "numberLabel": "35",
+      "text": "For whoso findeth me findeth life, and shall obtain favour of the LORD.",
+      "metadata": {
+        "reference": "Proverbs 8:35",
+        "verseKey": "kjv:proverbs:8:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:proverbs:8:36",
+      "numberLabel": "36",
+      "text": "But he that sinneth against me wrongeth his own soul: all they that hate me love death.",
+      "metadata": {
+        "reference": "Proverbs 8:36",
+        "verseKey": "kjv:proverbs:8:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Psalms 12",
+  "display_title": "Psalms 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 19012,
+  "verseCount": 8,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:12:1",
+      "numberLabel": "1",
+      "text": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.",
+      "metadata": {
+        "reference": "Psalms 12:1",
+        "verseKey": "kjv:psalms:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:12:2",
+      "numberLabel": "2",
+      "text": "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.",
+      "metadata": {
+        "reference": "Psalms 12:2",
+        "verseKey": "kjv:psalms:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:12:3",
+      "numberLabel": "3",
+      "text": "The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:",
+      "metadata": {
+        "reference": "Psalms 12:3",
+        "verseKey": "kjv:psalms:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:12:4",
+      "numberLabel": "4",
+      "text": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?",
+      "metadata": {
+        "reference": "Psalms 12:4",
+        "verseKey": "kjv:psalms:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:12:5",
+      "numberLabel": "5",
+      "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him.",
+      "metadata": {
+        "reference": "Psalms 12:5",
+        "verseKey": "kjv:psalms:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:12:6",
+      "numberLabel": "6",
+      "text": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.",
+      "metadata": {
+        "reference": "Psalms 12:6",
+        "verseKey": "kjv:psalms:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:12:7",
+      "numberLabel": "7",
+      "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.",
+      "metadata": {
+        "reference": "Psalms 12:7",
+        "verseKey": "kjv:psalms:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:12:8",
+      "numberLabel": "8",
+      "text": "The wicked walk on every side, when the vilest men are exalted.",
+      "metadata": {
+        "reference": "Psalms 12:8",
+        "verseKey": "kjv:psalms:12:8"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

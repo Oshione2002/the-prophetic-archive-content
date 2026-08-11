@@ -1,0 +1,670 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-kings-022",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 22,
+  "title": "1 Kings 22",
+  "display_title": "1 Kings 22",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-kings",
+  "book": "1 Kings",
+  "bookName": "1 Kings",
+  "bookOrder": 11,
+  "testament": "old",
+  "chapter": 22,
+  "sortOrder": 11022,
+  "verseCount": 53,
+  "aliases": [
+    "1 Kgs",
+    "1Kgs",
+    "1 Ki",
+    "1Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-kings:22:1",
+      "numberLabel": "1",
+      "text": "And they continued three years without war between Syria and Israel.",
+      "metadata": {
+        "reference": "1 Kings 22:1",
+        "verseKey": "kjv:1-kings:22:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-kings:22:2",
+      "numberLabel": "2",
+      "text": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.",
+      "metadata": {
+        "reference": "1 Kings 22:2",
+        "verseKey": "kjv:1-kings:22:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-kings:22:3",
+      "numberLabel": "3",
+      "text": "And the king of Israel said unto his servants, Know ye that Ramoth in Gilead is ours, and we be still, and take it not out of the hand of the king of Syria?",
+      "metadata": {
+        "reference": "1 Kings 22:3",
+        "verseKey": "kjv:1-kings:22:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-kings:22:4",
+      "numberLabel": "4",
+      "text": "And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramothgilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses.",
+      "metadata": {
+        "reference": "1 Kings 22:4",
+        "verseKey": "kjv:1-kings:22:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-kings:22:5",
+      "numberLabel": "5",
+      "text": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day.",
+      "metadata": {
+        "reference": "1 Kings 22:5",
+        "verseKey": "kjv:1-kings:22:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-kings:22:6",
+      "numberLabel": "6",
+      "text": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramothgilead to battle, or shall I forbear? And they said, Go up; for the LORD shall deliver it into the hand of the king.",
+      "metadata": {
+        "reference": "1 Kings 22:6",
+        "verseKey": "kjv:1-kings:22:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-kings:22:7",
+      "numberLabel": "7",
+      "text": "And Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him?",
+      "metadata": {
+        "reference": "1 Kings 22:7",
+        "verseKey": "kjv:1-kings:22:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-kings:22:8",
+      "numberLabel": "8",
+      "text": "And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.",
+      "metadata": {
+        "reference": "1 Kings 22:8",
+        "verseKey": "kjv:1-kings:22:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-kings:22:9",
+      "numberLabel": "9",
+      "text": "Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah.",
+      "metadata": {
+        "reference": "1 Kings 22:9",
+        "verseKey": "kjv:1-kings:22:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-kings:22:10",
+      "numberLabel": "10",
+      "text": "And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.",
+      "metadata": {
+        "reference": "1 Kings 22:10",
+        "verseKey": "kjv:1-kings:22:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-kings:22:11",
+      "numberLabel": "11",
+      "text": "And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them.",
+      "metadata": {
+        "reference": "1 Kings 22:11",
+        "verseKey": "kjv:1-kings:22:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-kings:22:12",
+      "numberLabel": "12",
+      "text": "And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver it into the king’s hand.",
+      "metadata": {
+        "reference": "1 Kings 22:12",
+        "verseKey": "kjv:1-kings:22:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-kings:22:13",
+      "numberLabel": "13",
+      "text": "And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good.",
+      "metadata": {
+        "reference": "1 Kings 22:13",
+        "verseKey": "kjv:1-kings:22:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-kings:22:14",
+      "numberLabel": "14",
+      "text": "And Micaiah said, As the LORD liveth, what the LORD saith unto me, that will I speak.",
+      "metadata": {
+        "reference": "1 Kings 22:14",
+        "verseKey": "kjv:1-kings:22:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-kings:22:15",
+      "numberLabel": "15",
+      "text": "So he came to the king. And the king said unto him, Micaiah, shall we go against Ramothgilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver it into the hand of the king.",
+      "metadata": {
+        "reference": "1 Kings 22:15",
+        "verseKey": "kjv:1-kings:22:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-kings:22:16",
+      "numberLabel": "16",
+      "text": "And the king said unto him, How many times shall I adjure thee that thou tell me nothing but that which is true in the name of the LORD?",
+      "metadata": {
+        "reference": "1 Kings 22:16",
+        "verseKey": "kjv:1-kings:22:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-kings:22:17",
+      "numberLabel": "17",
+      "text": "And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the LORD said, These have no master: let them return every man to his house in peace.",
+      "metadata": {
+        "reference": "1 Kings 22:17",
+        "verseKey": "kjv:1-kings:22:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-kings:22:18",
+      "numberLabel": "18",
+      "text": "And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil?",
+      "metadata": {
+        "reference": "1 Kings 22:18",
+        "verseKey": "kjv:1-kings:22:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-kings:22:19",
+      "numberLabel": "19",
+      "text": "And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
+      "metadata": {
+        "reference": "1 Kings 22:19",
+        "verseKey": "kjv:1-kings:22:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-kings:22:20",
+      "numberLabel": "20",
+      "text": "And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner.",
+      "metadata": {
+        "reference": "1 Kings 22:20",
+        "verseKey": "kjv:1-kings:22:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-kings:22:21",
+      "numberLabel": "21",
+      "text": "And there came forth a spirit, and stood before the LORD, and said, I will persuade him.",
+      "metadata": {
+        "reference": "1 Kings 22:21",
+        "verseKey": "kjv:1-kings:22:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-kings:22:22",
+      "numberLabel": "22",
+      "text": "And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so.",
+      "metadata": {
+        "reference": "1 Kings 22:22",
+        "verseKey": "kjv:1-kings:22:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-kings:22:23",
+      "numberLabel": "23",
+      "text": "Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.",
+      "metadata": {
+        "reference": "1 Kings 22:23",
+        "verseKey": "kjv:1-kings:22:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-kings:22:24",
+      "numberLabel": "24",
+      "text": "But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?",
+      "metadata": {
+        "reference": "1 Kings 22:24",
+        "verseKey": "kjv:1-kings:22:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-kings:22:25",
+      "numberLabel": "25",
+      "text": "And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself.",
+      "metadata": {
+        "reference": "1 Kings 22:25",
+        "verseKey": "kjv:1-kings:22:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-kings:22:26",
+      "numberLabel": "26",
+      "text": "And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;",
+      "metadata": {
+        "reference": "1 Kings 22:26",
+        "verseKey": "kjv:1-kings:22:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-kings:22:27",
+      "numberLabel": "27",
+      "text": "And say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.",
+      "metadata": {
+        "reference": "1 Kings 22:27",
+        "verseKey": "kjv:1-kings:22:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-kings:22:28",
+      "numberLabel": "28",
+      "text": "And Micaiah said, If thou return at all in peace, the LORD hath not spoken by me. And he said, Hearken, O people, every one of you.",
+      "metadata": {
+        "reference": "1 Kings 22:28",
+        "verseKey": "kjv:1-kings:22:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-kings:22:29",
+      "numberLabel": "29",
+      "text": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramothgilead.",
+      "metadata": {
+        "reference": "1 Kings 22:29",
+        "verseKey": "kjv:1-kings:22:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-kings:22:30",
+      "numberLabel": "30",
+      "text": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.",
+      "metadata": {
+        "reference": "1 Kings 22:30",
+        "verseKey": "kjv:1-kings:22:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-kings:22:31",
+      "numberLabel": "31",
+      "text": "But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.",
+      "metadata": {
+        "reference": "1 Kings 22:31",
+        "verseKey": "kjv:1-kings:22:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-kings:22:32",
+      "numberLabel": "32",
+      "text": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out.",
+      "metadata": {
+        "reference": "1 Kings 22:32",
+        "verseKey": "kjv:1-kings:22:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-kings:22:33",
+      "numberLabel": "33",
+      "text": "And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him.",
+      "metadata": {
+        "reference": "1 Kings 22:33",
+        "verseKey": "kjv:1-kings:22:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-kings:22:34",
+      "numberLabel": "34",
+      "text": "And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded.",
+      "metadata": {
+        "reference": "1 Kings 22:34",
+        "verseKey": "kjv:1-kings:22:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-kings:22:35",
+      "numberLabel": "35",
+      "text": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.",
+      "metadata": {
+        "reference": "1 Kings 22:35",
+        "verseKey": "kjv:1-kings:22:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-kings:22:36",
+      "numberLabel": "36",
+      "text": "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country.",
+      "metadata": {
+        "reference": "1 Kings 22:36",
+        "verseKey": "kjv:1-kings:22:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-kings:22:37",
+      "numberLabel": "37",
+      "text": "So the king died, and was brought to Samaria; and they buried the king in Samaria.",
+      "metadata": {
+        "reference": "1 Kings 22:37",
+        "verseKey": "kjv:1-kings:22:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-kings:22:38",
+      "numberLabel": "38",
+      "text": "And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake.",
+      "metadata": {
+        "reference": "1 Kings 22:38",
+        "verseKey": "kjv:1-kings:22:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-kings:22:39",
+      "numberLabel": "39",
+      "text": "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?",
+      "metadata": {
+        "reference": "1 Kings 22:39",
+        "verseKey": "kjv:1-kings:22:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-kings:22:40",
+      "numberLabel": "40",
+      "text": "So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.",
+      "metadata": {
+        "reference": "1 Kings 22:40",
+        "verseKey": "kjv:1-kings:22:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:1-kings:22:41",
+      "numberLabel": "41",
+      "text": "And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.",
+      "metadata": {
+        "reference": "1 Kings 22:41",
+        "verseKey": "kjv:1-kings:22:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:1-kings:22:42",
+      "numberLabel": "42",
+      "text": "Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi.",
+      "metadata": {
+        "reference": "1 Kings 22:42",
+        "verseKey": "kjv:1-kings:22:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:1-kings:22:43",
+      "numberLabel": "43",
+      "text": "And he walked in all the ways of Asa his father; he turned not aside from it, doing that which was right in the eyes of the LORD: nevertheless the high places were not taken away; for the people offered and burnt incense yet in the high places.",
+      "metadata": {
+        "reference": "1 Kings 22:43",
+        "verseKey": "kjv:1-kings:22:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:1-kings:22:44",
+      "numberLabel": "44",
+      "text": "And Jehoshaphat made peace with the king of Israel.",
+      "metadata": {
+        "reference": "1 Kings 22:44",
+        "verseKey": "kjv:1-kings:22:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:1-kings:22:45",
+      "numberLabel": "45",
+      "text": "Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?",
+      "metadata": {
+        "reference": "1 Kings 22:45",
+        "verseKey": "kjv:1-kings:22:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:1-kings:22:46",
+      "numberLabel": "46",
+      "text": "And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.",
+      "metadata": {
+        "reference": "1 Kings 22:46",
+        "verseKey": "kjv:1-kings:22:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:1-kings:22:47",
+      "numberLabel": "47",
+      "text": "There was then no king in Edom: a deputy was king.",
+      "metadata": {
+        "reference": "1 Kings 22:47",
+        "verseKey": "kjv:1-kings:22:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:1-kings:22:48",
+      "numberLabel": "48",
+      "text": "Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Eziongeber.",
+      "metadata": {
+        "reference": "1 Kings 22:48",
+        "verseKey": "kjv:1-kings:22:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:1-kings:22:49",
+      "numberLabel": "49",
+      "text": "Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.",
+      "metadata": {
+        "reference": "1 Kings 22:49",
+        "verseKey": "kjv:1-kings:22:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:1-kings:22:50",
+      "numberLabel": "50",
+      "text": "And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.",
+      "metadata": {
+        "reference": "1 Kings 22:50",
+        "verseKey": "kjv:1-kings:22:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:1-kings:22:51",
+      "numberLabel": "51",
+      "text": "Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.",
+      "metadata": {
+        "reference": "1 Kings 22:51",
+        "verseKey": "kjv:1-kings:22:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:1-kings:22:52",
+      "numberLabel": "52",
+      "text": "And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:",
+      "metadata": {
+        "reference": "1 Kings 22:52",
+        "verseKey": "kjv:1-kings:22:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:1-kings:22:53",
+      "numberLabel": "53",
+      "text": "For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.",
+      "metadata": {
+        "reference": "1 Kings 22:53",
+        "verseKey": "kjv:1-kings:22:53"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

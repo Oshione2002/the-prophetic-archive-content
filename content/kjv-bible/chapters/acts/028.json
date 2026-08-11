@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "Acts 28",
+  "display_title": "Acts 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 28,
+  "sortOrder": 44028,
+  "verseCount": 31,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:28:1",
+      "numberLabel": "1",
+      "text": "And when they were escaped, then they knew that the island was called Melita.",
+      "metadata": {
+        "reference": "Acts 28:1",
+        "verseKey": "kjv:acts:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:28:2",
+      "numberLabel": "2",
+      "text": "And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.",
+      "metadata": {
+        "reference": "Acts 28:2",
+        "verseKey": "kjv:acts:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:28:3",
+      "numberLabel": "3",
+      "text": "And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand.",
+      "metadata": {
+        "reference": "Acts 28:3",
+        "verseKey": "kjv:acts:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:28:4",
+      "numberLabel": "4",
+      "text": "And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.",
+      "metadata": {
+        "reference": "Acts 28:4",
+        "verseKey": "kjv:acts:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:28:5",
+      "numberLabel": "5",
+      "text": "And he shook off the beast into the fire, and felt no harm.",
+      "metadata": {
+        "reference": "Acts 28:5",
+        "verseKey": "kjv:acts:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:28:6",
+      "numberLabel": "6",
+      "text": "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.",
+      "metadata": {
+        "reference": "Acts 28:6",
+        "verseKey": "kjv:acts:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:28:7",
+      "numberLabel": "7",
+      "text": "In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.",
+      "metadata": {
+        "reference": "Acts 28:7",
+        "verseKey": "kjv:acts:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:28:8",
+      "numberLabel": "8",
+      "text": "And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.",
+      "metadata": {
+        "reference": "Acts 28:8",
+        "verseKey": "kjv:acts:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:28:9",
+      "numberLabel": "9",
+      "text": "So when this was done, others also, which had diseases in the island, came, and were healed:",
+      "metadata": {
+        "reference": "Acts 28:9",
+        "verseKey": "kjv:acts:28:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:28:10",
+      "numberLabel": "10",
+      "text": "Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary.",
+      "metadata": {
+        "reference": "Acts 28:10",
+        "verseKey": "kjv:acts:28:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:28:11",
+      "numberLabel": "11",
+      "text": "And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.",
+      "metadata": {
+        "reference": "Acts 28:11",
+        "verseKey": "kjv:acts:28:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:28:12",
+      "numberLabel": "12",
+      "text": "And landing at Syracuse, we tarried there three days.",
+      "metadata": {
+        "reference": "Acts 28:12",
+        "verseKey": "kjv:acts:28:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:28:13",
+      "numberLabel": "13",
+      "text": "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:",
+      "metadata": {
+        "reference": "Acts 28:13",
+        "verseKey": "kjv:acts:28:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:28:14",
+      "numberLabel": "14",
+      "text": "Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.",
+      "metadata": {
+        "reference": "Acts 28:14",
+        "verseKey": "kjv:acts:28:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:28:15",
+      "numberLabel": "15",
+      "text": "And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.",
+      "metadata": {
+        "reference": "Acts 28:15",
+        "verseKey": "kjv:acts:28:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:28:16",
+      "numberLabel": "16",
+      "text": "And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.",
+      "metadata": {
+        "reference": "Acts 28:16",
+        "verseKey": "kjv:acts:28:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:28:17",
+      "numberLabel": "17",
+      "text": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.",
+      "metadata": {
+        "reference": "Acts 28:17",
+        "verseKey": "kjv:acts:28:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:28:18",
+      "numberLabel": "18",
+      "text": "Who, when they had examined me, would have let me go, because there was no cause of death in me.",
+      "metadata": {
+        "reference": "Acts 28:18",
+        "verseKey": "kjv:acts:28:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:28:19",
+      "numberLabel": "19",
+      "text": "But when the Jews spake against it, I was constrained to appeal unto Caesar; not that I had ought to accuse my nation of.",
+      "metadata": {
+        "reference": "Acts 28:19",
+        "verseKey": "kjv:acts:28:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:28:20",
+      "numberLabel": "20",
+      "text": "For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain.",
+      "metadata": {
+        "reference": "Acts 28:20",
+        "verseKey": "kjv:acts:28:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:28:21",
+      "numberLabel": "21",
+      "text": "And they said unto him, We neither received letters out of Judaea concerning thee, neither any of the brethren that came shewed or spake any harm of thee.",
+      "metadata": {
+        "reference": "Acts 28:21",
+        "verseKey": "kjv:acts:28:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:28:22",
+      "numberLabel": "22",
+      "text": "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.",
+      "metadata": {
+        "reference": "Acts 28:22",
+        "verseKey": "kjv:acts:28:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:28:23",
+      "numberLabel": "23",
+      "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.",
+      "metadata": {
+        "reference": "Acts 28:23",
+        "verseKey": "kjv:acts:28:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:28:24",
+      "numberLabel": "24",
+      "text": "And some believed the things which were spoken, and some believed not.",
+      "metadata": {
+        "reference": "Acts 28:24",
+        "verseKey": "kjv:acts:28:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:28:25",
+      "numberLabel": "25",
+      "text": "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,",
+      "metadata": {
+        "reference": "Acts 28:25",
+        "verseKey": "kjv:acts:28:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:28:26",
+      "numberLabel": "26",
+      "text": "Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive:",
+      "metadata": {
+        "reference": "Acts 28:26",
+        "verseKey": "kjv:acts:28:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:28:27",
+      "numberLabel": "27",
+      "text": "For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.",
+      "metadata": {
+        "reference": "Acts 28:27",
+        "verseKey": "kjv:acts:28:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:28:28",
+      "numberLabel": "28",
+      "text": "Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and that they will hear it.",
+      "metadata": {
+        "reference": "Acts 28:28",
+        "verseKey": "kjv:acts:28:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:28:29",
+      "numberLabel": "29",
+      "text": "And when he had said these words, the Jews departed, and had great reasoning among themselves.",
+      "metadata": {
+        "reference": "Acts 28:29",
+        "verseKey": "kjv:acts:28:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:28:30",
+      "numberLabel": "30",
+      "text": "And Paul dwelt two whole years in his own hired house, and received all that came in unto him,",
+      "metadata": {
+        "reference": "Acts 28:30",
+        "verseKey": "kjv:acts:28:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:acts:28:31",
+      "numberLabel": "31",
+      "text": "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.",
+      "metadata": {
+        "reference": "Acts 28:31",
+        "verseKey": "kjv:acts:28:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

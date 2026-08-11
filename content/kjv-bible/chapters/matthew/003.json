@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Matthew 3",
+  "display_title": "Matthew 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 3,
+  "sortOrder": 40003,
+  "verseCount": 17,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:3:1",
+      "numberLabel": "1",
+      "text": "In those days came John the Baptist, preaching in the wilderness of Judaea,",
+      "metadata": {
+        "reference": "Matthew 3:1",
+        "verseKey": "kjv:matthew:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:3:2",
+      "numberLabel": "2",
+      "text": "And saying, Repent ye: for the kingdom of heaven is at hand.",
+      "metadata": {
+        "reference": "Matthew 3:2",
+        "verseKey": "kjv:matthew:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:3:3",
+      "numberLabel": "3",
+      "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+      "metadata": {
+        "reference": "Matthew 3:3",
+        "verseKey": "kjv:matthew:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:3:4",
+      "numberLabel": "4",
+      "text": "And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
+      "metadata": {
+        "reference": "Matthew 3:4",
+        "verseKey": "kjv:matthew:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:3:5",
+      "numberLabel": "5",
+      "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
+      "metadata": {
+        "reference": "Matthew 3:5",
+        "verseKey": "kjv:matthew:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:3:6",
+      "numberLabel": "6",
+      "text": "And were baptized of him in Jordan, confessing their sins.",
+      "metadata": {
+        "reference": "Matthew 3:6",
+        "verseKey": "kjv:matthew:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:3:7",
+      "numberLabel": "7",
+      "text": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?",
+      "metadata": {
+        "reference": "Matthew 3:7",
+        "verseKey": "kjv:matthew:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:3:8",
+      "numberLabel": "8",
+      "text": "Bring forth therefore fruits meet for repentance:",
+      "metadata": {
+        "reference": "Matthew 3:8",
+        "verseKey": "kjv:matthew:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:3:9",
+      "numberLabel": "9",
+      "text": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.",
+      "metadata": {
+        "reference": "Matthew 3:9",
+        "verseKey": "kjv:matthew:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:3:10",
+      "numberLabel": "10",
+      "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.",
+      "metadata": {
+        "reference": "Matthew 3:10",
+        "verseKey": "kjv:matthew:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:3:11",
+      "numberLabel": "11",
+      "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:",
+      "metadata": {
+        "reference": "Matthew 3:11",
+        "verseKey": "kjv:matthew:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:3:12",
+      "numberLabel": "12",
+      "text": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
+      "metadata": {
+        "reference": "Matthew 3:12",
+        "verseKey": "kjv:matthew:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:3:13",
+      "numberLabel": "13",
+      "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
+      "metadata": {
+        "reference": "Matthew 3:13",
+        "verseKey": "kjv:matthew:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:3:14",
+      "numberLabel": "14",
+      "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
+      "metadata": {
+        "reference": "Matthew 3:14",
+        "verseKey": "kjv:matthew:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:3:15",
+      "numberLabel": "15",
+      "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.",
+      "metadata": {
+        "reference": "Matthew 3:15",
+        "verseKey": "kjv:matthew:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:3:16",
+      "numberLabel": "16",
+      "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
+      "metadata": {
+        "reference": "Matthew 3:16",
+        "verseKey": "kjv:matthew:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:3:17",
+      "numberLabel": "17",
+      "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
+      "metadata": {
+        "reference": "Matthew 3:17",
+        "verseKey": "kjv:matthew:3:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

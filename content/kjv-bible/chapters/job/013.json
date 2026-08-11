@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Job 13",
+  "display_title": "Job 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 13,
+  "sortOrder": 18013,
+  "verseCount": 28,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:13:1",
+      "numberLabel": "1",
+      "text": "Lo, mine eye hath seen all this, mine ear hath heard and understood it.",
+      "metadata": {
+        "reference": "Job 13:1",
+        "verseKey": "kjv:job:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:13:2",
+      "numberLabel": "2",
+      "text": "What ye know, the same do I know also: I am not inferior unto you.",
+      "metadata": {
+        "reference": "Job 13:2",
+        "verseKey": "kjv:job:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:13:3",
+      "numberLabel": "3",
+      "text": "Surely I would speak to the Almighty, and I desire to reason with God.",
+      "metadata": {
+        "reference": "Job 13:3",
+        "verseKey": "kjv:job:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:13:4",
+      "numberLabel": "4",
+      "text": "But ye are forgers of lies, ye are all physicians of no value.",
+      "metadata": {
+        "reference": "Job 13:4",
+        "verseKey": "kjv:job:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:13:5",
+      "numberLabel": "5",
+      "text": "O that ye would altogether hold your peace! and it should be your wisdom.",
+      "metadata": {
+        "reference": "Job 13:5",
+        "verseKey": "kjv:job:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:13:6",
+      "numberLabel": "6",
+      "text": "Hear now my reasoning, and hearken to the pleadings of my lips.",
+      "metadata": {
+        "reference": "Job 13:6",
+        "verseKey": "kjv:job:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:13:7",
+      "numberLabel": "7",
+      "text": "Will ye speak wickedly for God? and talk deceitfully for him?",
+      "metadata": {
+        "reference": "Job 13:7",
+        "verseKey": "kjv:job:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:13:8",
+      "numberLabel": "8",
+      "text": "Will ye accept his person? will ye contend for God?",
+      "metadata": {
+        "reference": "Job 13:8",
+        "verseKey": "kjv:job:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:13:9",
+      "numberLabel": "9",
+      "text": "Is it good that he should search you out? or as one man mocketh another, do ye so mock him?",
+      "metadata": {
+        "reference": "Job 13:9",
+        "verseKey": "kjv:job:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:13:10",
+      "numberLabel": "10",
+      "text": "He will surely reprove you, if ye do secretly accept persons.",
+      "metadata": {
+        "reference": "Job 13:10",
+        "verseKey": "kjv:job:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:13:11",
+      "numberLabel": "11",
+      "text": "Shall not his excellency make you afraid? and his dread fall upon you?",
+      "metadata": {
+        "reference": "Job 13:11",
+        "verseKey": "kjv:job:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:13:12",
+      "numberLabel": "12",
+      "text": "Your remembrances are like unto ashes, your bodies to bodies of clay.",
+      "metadata": {
+        "reference": "Job 13:12",
+        "verseKey": "kjv:job:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:13:13",
+      "numberLabel": "13",
+      "text": "Hold your peace, let me alone, that I may speak, and let come on me what will.",
+      "metadata": {
+        "reference": "Job 13:13",
+        "verseKey": "kjv:job:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:13:14",
+      "numberLabel": "14",
+      "text": "Wherefore do I take my flesh in my teeth, and put my life in mine hand?",
+      "metadata": {
+        "reference": "Job 13:14",
+        "verseKey": "kjv:job:13:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:13:15",
+      "numberLabel": "15",
+      "text": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.",
+      "metadata": {
+        "reference": "Job 13:15",
+        "verseKey": "kjv:job:13:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:13:16",
+      "numberLabel": "16",
+      "text": "He also shall be my salvation: for an hypocrite shall not come before him.",
+      "metadata": {
+        "reference": "Job 13:16",
+        "verseKey": "kjv:job:13:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:13:17",
+      "numberLabel": "17",
+      "text": "Hear diligently my speech, and my declaration with your ears.",
+      "metadata": {
+        "reference": "Job 13:17",
+        "verseKey": "kjv:job:13:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:13:18",
+      "numberLabel": "18",
+      "text": "Behold now, I have ordered my cause; I know that I shall be justified.",
+      "metadata": {
+        "reference": "Job 13:18",
+        "verseKey": "kjv:job:13:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:13:19",
+      "numberLabel": "19",
+      "text": "Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost.",
+      "metadata": {
+        "reference": "Job 13:19",
+        "verseKey": "kjv:job:13:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:13:20",
+      "numberLabel": "20",
+      "text": "Only do not two things unto me: then will I not hide myself from thee.",
+      "metadata": {
+        "reference": "Job 13:20",
+        "verseKey": "kjv:job:13:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:13:21",
+      "numberLabel": "21",
+      "text": "Withdraw thine hand far from me: and let not thy dread make me afraid.",
+      "metadata": {
+        "reference": "Job 13:21",
+        "verseKey": "kjv:job:13:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:13:22",
+      "numberLabel": "22",
+      "text": "Then call thou, and I will answer: or let me speak, and answer thou me.",
+      "metadata": {
+        "reference": "Job 13:22",
+        "verseKey": "kjv:job:13:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:13:23",
+      "numberLabel": "23",
+      "text": "How many are mine iniquities and sins? make me to know my transgression and my sin.",
+      "metadata": {
+        "reference": "Job 13:23",
+        "verseKey": "kjv:job:13:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:13:24",
+      "numberLabel": "24",
+      "text": "Wherefore hidest thou thy face, and holdest me for thine enemy?",
+      "metadata": {
+        "reference": "Job 13:24",
+        "verseKey": "kjv:job:13:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:13:25",
+      "numberLabel": "25",
+      "text": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?",
+      "metadata": {
+        "reference": "Job 13:25",
+        "verseKey": "kjv:job:13:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:13:26",
+      "numberLabel": "26",
+      "text": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth.",
+      "metadata": {
+        "reference": "Job 13:26",
+        "verseKey": "kjv:job:13:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:13:27",
+      "numberLabel": "27",
+      "text": "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.",
+      "metadata": {
+        "reference": "Job 13:27",
+        "verseKey": "kjv:job:13:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:13:28",
+      "numberLabel": "28",
+      "text": "And he, as a rotten thing, consumeth, as a garment that is moth eaten.",
+      "metadata": {
+        "reference": "Job 13:28",
+        "verseKey": "kjv:job:13:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-022",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 22,
+  "title": "Deuteronomy 22",
+  "display_title": "Deuteronomy 22",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 22,
+  "sortOrder": 5022,
+  "verseCount": 30,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:22:1",
+      "numberLabel": "1",
+      "text": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.",
+      "metadata": {
+        "reference": "Deuteronomy 22:1",
+        "verseKey": "kjv:deuteronomy:22:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:22:2",
+      "numberLabel": "2",
+      "text": "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again.",
+      "metadata": {
+        "reference": "Deuteronomy 22:2",
+        "verseKey": "kjv:deuteronomy:22:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:22:3",
+      "numberLabel": "3",
+      "text": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself.",
+      "metadata": {
+        "reference": "Deuteronomy 22:3",
+        "verseKey": "kjv:deuteronomy:22:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:22:4",
+      "numberLabel": "4",
+      "text": "Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again.",
+      "metadata": {
+        "reference": "Deuteronomy 22:4",
+        "verseKey": "kjv:deuteronomy:22:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:22:5",
+      "numberLabel": "5",
+      "text": "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so are abomination unto the LORD thy God.",
+      "metadata": {
+        "reference": "Deuteronomy 22:5",
+        "verseKey": "kjv:deuteronomy:22:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:22:6",
+      "numberLabel": "6",
+      "text": "If a bird’s nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:",
+      "metadata": {
+        "reference": "Deuteronomy 22:6",
+        "verseKey": "kjv:deuteronomy:22:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:22:7",
+      "numberLabel": "7",
+      "text": "But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days.",
+      "metadata": {
+        "reference": "Deuteronomy 22:7",
+        "verseKey": "kjv:deuteronomy:22:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:22:8",
+      "numberLabel": "8",
+      "text": "When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.",
+      "metadata": {
+        "reference": "Deuteronomy 22:8",
+        "verseKey": "kjv:deuteronomy:22:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:22:9",
+      "numberLabel": "9",
+      "text": "Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.",
+      "metadata": {
+        "reference": "Deuteronomy 22:9",
+        "verseKey": "kjv:deuteronomy:22:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:22:10",
+      "numberLabel": "10",
+      "text": "Thou shalt not plow with an ox and an ass together.",
+      "metadata": {
+        "reference": "Deuteronomy 22:10",
+        "verseKey": "kjv:deuteronomy:22:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:22:11",
+      "numberLabel": "11",
+      "text": "Thou shalt not wear a garment of divers sorts, as of woollen and linen together.",
+      "metadata": {
+        "reference": "Deuteronomy 22:11",
+        "verseKey": "kjv:deuteronomy:22:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:22:12",
+      "numberLabel": "12",
+      "text": "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself.",
+      "metadata": {
+        "reference": "Deuteronomy 22:12",
+        "verseKey": "kjv:deuteronomy:22:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:22:13",
+      "numberLabel": "13",
+      "text": "If any man take a wife, and go in unto her, and hate her,",
+      "metadata": {
+        "reference": "Deuteronomy 22:13",
+        "verseKey": "kjv:deuteronomy:22:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:22:14",
+      "numberLabel": "14",
+      "text": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:",
+      "metadata": {
+        "reference": "Deuteronomy 22:14",
+        "verseKey": "kjv:deuteronomy:22:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:22:15",
+      "numberLabel": "15",
+      "text": "Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel’s virginity unto the elders of the city in the gate:",
+      "metadata": {
+        "reference": "Deuteronomy 22:15",
+        "verseKey": "kjv:deuteronomy:22:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:22:16",
+      "numberLabel": "16",
+      "text": "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;",
+      "metadata": {
+        "reference": "Deuteronomy 22:16",
+        "verseKey": "kjv:deuteronomy:22:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:22:17",
+      "numberLabel": "17",
+      "text": "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter’s virginity. And they shall spread the cloth before the elders of the city.",
+      "metadata": {
+        "reference": "Deuteronomy 22:17",
+        "verseKey": "kjv:deuteronomy:22:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:22:18",
+      "numberLabel": "18",
+      "text": "And the elders of that city shall take that man and chastise him;",
+      "metadata": {
+        "reference": "Deuteronomy 22:18",
+        "verseKey": "kjv:deuteronomy:22:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:22:19",
+      "numberLabel": "19",
+      "text": "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.",
+      "metadata": {
+        "reference": "Deuteronomy 22:19",
+        "verseKey": "kjv:deuteronomy:22:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:22:20",
+      "numberLabel": "20",
+      "text": "But if this thing be true, and the tokens of virginity be not found for the damsel:",
+      "metadata": {
+        "reference": "Deuteronomy 22:20",
+        "verseKey": "kjv:deuteronomy:22:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:22:21",
+      "numberLabel": "21",
+      "text": "Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you.",
+      "metadata": {
+        "reference": "Deuteronomy 22:21",
+        "verseKey": "kjv:deuteronomy:22:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:22:22",
+      "numberLabel": "22",
+      "text": "If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.",
+      "metadata": {
+        "reference": "Deuteronomy 22:22",
+        "verseKey": "kjv:deuteronomy:22:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:22:23",
+      "numberLabel": "23",
+      "text": "If a damsel that is a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;",
+      "metadata": {
+        "reference": "Deuteronomy 22:23",
+        "verseKey": "kjv:deuteronomy:22:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:deuteronomy:22:24",
+      "numberLabel": "24",
+      "text": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you.",
+      "metadata": {
+        "reference": "Deuteronomy 22:24",
+        "verseKey": "kjv:deuteronomy:22:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:deuteronomy:22:25",
+      "numberLabel": "25",
+      "text": "But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:",
+      "metadata": {
+        "reference": "Deuteronomy 22:25",
+        "verseKey": "kjv:deuteronomy:22:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:deuteronomy:22:26",
+      "numberLabel": "26",
+      "text": "But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:",
+      "metadata": {
+        "reference": "Deuteronomy 22:26",
+        "verseKey": "kjv:deuteronomy:22:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:deuteronomy:22:27",
+      "numberLabel": "27",
+      "text": "For he found her in the field, and the betrothed damsel cried, and there was none to save her.",
+      "metadata": {
+        "reference": "Deuteronomy 22:27",
+        "verseKey": "kjv:deuteronomy:22:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:deuteronomy:22:28",
+      "numberLabel": "28",
+      "text": "If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;",
+      "metadata": {
+        "reference": "Deuteronomy 22:28",
+        "verseKey": "kjv:deuteronomy:22:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:deuteronomy:22:29",
+      "numberLabel": "29",
+      "text": "Then the man that lay with her shall give unto the damsel’s father fifty shekels of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.",
+      "metadata": {
+        "reference": "Deuteronomy 22:29",
+        "verseKey": "kjv:deuteronomy:22:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:deuteronomy:22:30",
+      "numberLabel": "30",
+      "text": "A man shall not take his father’s wife, nor discover his father’s skirt.",
+      "metadata": {
+        "reference": "Deuteronomy 22:30",
+        "verseKey": "kjv:deuteronomy:22:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

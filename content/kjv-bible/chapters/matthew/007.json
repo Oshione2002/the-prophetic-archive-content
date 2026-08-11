@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Matthew 7",
+  "display_title": "Matthew 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 7,
+  "sortOrder": 40007,
+  "verseCount": 29,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:7:1",
+      "numberLabel": "1",
+      "text": "Judge not, that ye be not judged.",
+      "metadata": {
+        "reference": "Matthew 7:1",
+        "verseKey": "kjv:matthew:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:7:2",
+      "numberLabel": "2",
+      "text": "For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.",
+      "metadata": {
+        "reference": "Matthew 7:2",
+        "verseKey": "kjv:matthew:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:7:3",
+      "numberLabel": "3",
+      "text": "And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?",
+      "metadata": {
+        "reference": "Matthew 7:3",
+        "verseKey": "kjv:matthew:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:7:4",
+      "numberLabel": "4",
+      "text": "Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?",
+      "metadata": {
+        "reference": "Matthew 7:4",
+        "verseKey": "kjv:matthew:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:7:5",
+      "numberLabel": "5",
+      "text": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.",
+      "metadata": {
+        "reference": "Matthew 7:5",
+        "verseKey": "kjv:matthew:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:7:6",
+      "numberLabel": "6",
+      "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
+      "metadata": {
+        "reference": "Matthew 7:6",
+        "verseKey": "kjv:matthew:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:7:7",
+      "numberLabel": "7",
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+      "metadata": {
+        "reference": "Matthew 7:7",
+        "verseKey": "kjv:matthew:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:7:8",
+      "numberLabel": "8",
+      "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.",
+      "metadata": {
+        "reference": "Matthew 7:8",
+        "verseKey": "kjv:matthew:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:7:9",
+      "numberLabel": "9",
+      "text": "Or what man is there of you, whom if his son ask bread, will he give him a stone?",
+      "metadata": {
+        "reference": "Matthew 7:9",
+        "verseKey": "kjv:matthew:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:7:10",
+      "numberLabel": "10",
+      "text": "Or if he ask a fish, will he give him a serpent?",
+      "metadata": {
+        "reference": "Matthew 7:10",
+        "verseKey": "kjv:matthew:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:7:11",
+      "numberLabel": "11",
+      "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?",
+      "metadata": {
+        "reference": "Matthew 7:11",
+        "verseKey": "kjv:matthew:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:7:12",
+      "numberLabel": "12",
+      "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+      "metadata": {
+        "reference": "Matthew 7:12",
+        "verseKey": "kjv:matthew:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:7:13",
+      "numberLabel": "13",
+      "text": "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:",
+      "metadata": {
+        "reference": "Matthew 7:13",
+        "verseKey": "kjv:matthew:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:7:14",
+      "numberLabel": "14",
+      "text": "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.",
+      "metadata": {
+        "reference": "Matthew 7:14",
+        "verseKey": "kjv:matthew:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:7:15",
+      "numberLabel": "15",
+      "text": "Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.",
+      "metadata": {
+        "reference": "Matthew 7:15",
+        "verseKey": "kjv:matthew:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:7:16",
+      "numberLabel": "16",
+      "text": "Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?",
+      "metadata": {
+        "reference": "Matthew 7:16",
+        "verseKey": "kjv:matthew:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:7:17",
+      "numberLabel": "17",
+      "text": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.",
+      "metadata": {
+        "reference": "Matthew 7:17",
+        "verseKey": "kjv:matthew:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:7:18",
+      "numberLabel": "18",
+      "text": "A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.",
+      "metadata": {
+        "reference": "Matthew 7:18",
+        "verseKey": "kjv:matthew:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:7:19",
+      "numberLabel": "19",
+      "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+      "metadata": {
+        "reference": "Matthew 7:19",
+        "verseKey": "kjv:matthew:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:7:20",
+      "numberLabel": "20",
+      "text": "Wherefore by their fruits ye shall know them.",
+      "metadata": {
+        "reference": "Matthew 7:20",
+        "verseKey": "kjv:matthew:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:7:21",
+      "numberLabel": "21",
+      "text": "Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.",
+      "metadata": {
+        "reference": "Matthew 7:21",
+        "verseKey": "kjv:matthew:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:7:22",
+      "numberLabel": "22",
+      "text": "Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?",
+      "metadata": {
+        "reference": "Matthew 7:22",
+        "verseKey": "kjv:matthew:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:7:23",
+      "numberLabel": "23",
+      "text": "And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.",
+      "metadata": {
+        "reference": "Matthew 7:23",
+        "verseKey": "kjv:matthew:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:7:24",
+      "numberLabel": "24",
+      "text": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:",
+      "metadata": {
+        "reference": "Matthew 7:24",
+        "verseKey": "kjv:matthew:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:7:25",
+      "numberLabel": "25",
+      "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.",
+      "metadata": {
+        "reference": "Matthew 7:25",
+        "verseKey": "kjv:matthew:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:7:26",
+      "numberLabel": "26",
+      "text": "And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:",
+      "metadata": {
+        "reference": "Matthew 7:26",
+        "verseKey": "kjv:matthew:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:7:27",
+      "numberLabel": "27",
+      "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.",
+      "metadata": {
+        "reference": "Matthew 7:27",
+        "verseKey": "kjv:matthew:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:7:28",
+      "numberLabel": "28",
+      "text": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:",
+      "metadata": {
+        "reference": "Matthew 7:28",
+        "verseKey": "kjv:matthew:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:7:29",
+      "numberLabel": "29",
+      "text": "For he taught them as one having authority, and not as the scribes.",
+      "metadata": {
+        "reference": "Matthew 7:29",
+        "verseKey": "kjv:matthew:7:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Acts 11",
+  "display_title": "Acts 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 11,
+  "sortOrder": 44011,
+  "verseCount": 30,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:11:1",
+      "numberLabel": "1",
+      "text": "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.",
+      "metadata": {
+        "reference": "Acts 11:1",
+        "verseKey": "kjv:acts:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:11:2",
+      "numberLabel": "2",
+      "text": "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,",
+      "metadata": {
+        "reference": "Acts 11:2",
+        "verseKey": "kjv:acts:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:11:3",
+      "numberLabel": "3",
+      "text": "Saying, Thou wentest in to men uncircumcised, and didst eat with them.",
+      "metadata": {
+        "reference": "Acts 11:3",
+        "verseKey": "kjv:acts:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:11:4",
+      "numberLabel": "4",
+      "text": "But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying,",
+      "metadata": {
+        "reference": "Acts 11:4",
+        "verseKey": "kjv:acts:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:11:5",
+      "numberLabel": "5",
+      "text": "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:",
+      "metadata": {
+        "reference": "Acts 11:5",
+        "verseKey": "kjv:acts:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:11:6",
+      "numberLabel": "6",
+      "text": "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
+      "metadata": {
+        "reference": "Acts 11:6",
+        "verseKey": "kjv:acts:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:11:7",
+      "numberLabel": "7",
+      "text": "And I heard a voice saying unto me, Arise, Peter; slay and eat.",
+      "metadata": {
+        "reference": "Acts 11:7",
+        "verseKey": "kjv:acts:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:11:8",
+      "numberLabel": "8",
+      "text": "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth.",
+      "metadata": {
+        "reference": "Acts 11:8",
+        "verseKey": "kjv:acts:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:11:9",
+      "numberLabel": "9",
+      "text": "But the voice answered me again from heaven, What God hath cleansed, that call not thou common.",
+      "metadata": {
+        "reference": "Acts 11:9",
+        "verseKey": "kjv:acts:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:11:10",
+      "numberLabel": "10",
+      "text": "And this was done three times: and all were drawn up again into heaven.",
+      "metadata": {
+        "reference": "Acts 11:10",
+        "verseKey": "kjv:acts:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:11:11",
+      "numberLabel": "11",
+      "text": "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me.",
+      "metadata": {
+        "reference": "Acts 11:11",
+        "verseKey": "kjv:acts:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:11:12",
+      "numberLabel": "12",
+      "text": "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man’s house:",
+      "metadata": {
+        "reference": "Acts 11:12",
+        "verseKey": "kjv:acts:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:11:13",
+      "numberLabel": "13",
+      "text": "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;",
+      "metadata": {
+        "reference": "Acts 11:13",
+        "verseKey": "kjv:acts:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:11:14",
+      "numberLabel": "14",
+      "text": "Who shall tell thee words, whereby thou and all thy house shall be saved.",
+      "metadata": {
+        "reference": "Acts 11:14",
+        "verseKey": "kjv:acts:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:11:15",
+      "numberLabel": "15",
+      "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.",
+      "metadata": {
+        "reference": "Acts 11:15",
+        "verseKey": "kjv:acts:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:11:16",
+      "numberLabel": "16",
+      "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.",
+      "metadata": {
+        "reference": "Acts 11:16",
+        "verseKey": "kjv:acts:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:11:17",
+      "numberLabel": "17",
+      "text": "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?",
+      "metadata": {
+        "reference": "Acts 11:17",
+        "verseKey": "kjv:acts:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:11:18",
+      "numberLabel": "18",
+      "text": "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.",
+      "metadata": {
+        "reference": "Acts 11:18",
+        "verseKey": "kjv:acts:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:11:19",
+      "numberLabel": "19",
+      "text": "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.",
+      "metadata": {
+        "reference": "Acts 11:19",
+        "verseKey": "kjv:acts:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:11:20",
+      "numberLabel": "20",
+      "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the LORD Jesus.",
+      "metadata": {
+        "reference": "Acts 11:20",
+        "verseKey": "kjv:acts:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:11:21",
+      "numberLabel": "21",
+      "text": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.",
+      "metadata": {
+        "reference": "Acts 11:21",
+        "verseKey": "kjv:acts:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:11:22",
+      "numberLabel": "22",
+      "text": "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.",
+      "metadata": {
+        "reference": "Acts 11:22",
+        "verseKey": "kjv:acts:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:11:23",
+      "numberLabel": "23",
+      "text": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.",
+      "metadata": {
+        "reference": "Acts 11:23",
+        "verseKey": "kjv:acts:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:11:24",
+      "numberLabel": "24",
+      "text": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.",
+      "metadata": {
+        "reference": "Acts 11:24",
+        "verseKey": "kjv:acts:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:11:25",
+      "numberLabel": "25",
+      "text": "Then departed Barnabas to Tarsus, for to seek Saul:",
+      "metadata": {
+        "reference": "Acts 11:25",
+        "verseKey": "kjv:acts:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:11:26",
+      "numberLabel": "26",
+      "text": "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.",
+      "metadata": {
+        "reference": "Acts 11:26",
+        "verseKey": "kjv:acts:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:11:27",
+      "numberLabel": "27",
+      "text": "And in these days came prophets from Jerusalem unto Antioch.",
+      "metadata": {
+        "reference": "Acts 11:27",
+        "verseKey": "kjv:acts:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:11:28",
+      "numberLabel": "28",
+      "text": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.",
+      "metadata": {
+        "reference": "Acts 11:28",
+        "verseKey": "kjv:acts:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:11:29",
+      "numberLabel": "29",
+      "text": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:",
+      "metadata": {
+        "reference": "Acts 11:29",
+        "verseKey": "kjv:acts:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:11:30",
+      "numberLabel": "30",
+      "text": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul.",
+      "metadata": {
+        "reference": "Acts 11:30",
+        "verseKey": "kjv:acts:11:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

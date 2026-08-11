@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Psalms 8",
+  "display_title": "Psalms 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 19008,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:8:1",
+      "numberLabel": "1",
+      "text": "O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
+      "metadata": {
+        "reference": "Psalms 8:1",
+        "verseKey": "kjv:psalms:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:8:2",
+      "numberLabel": "2",
+      "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.",
+      "metadata": {
+        "reference": "Psalms 8:2",
+        "verseKey": "kjv:psalms:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:8:3",
+      "numberLabel": "3",
+      "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+      "metadata": {
+        "reference": "Psalms 8:3",
+        "verseKey": "kjv:psalms:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:8:4",
+      "numberLabel": "4",
+      "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
+      "metadata": {
+        "reference": "Psalms 8:4",
+        "verseKey": "kjv:psalms:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:8:5",
+      "numberLabel": "5",
+      "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.",
+      "metadata": {
+        "reference": "Psalms 8:5",
+        "verseKey": "kjv:psalms:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:8:6",
+      "numberLabel": "6",
+      "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:",
+      "metadata": {
+        "reference": "Psalms 8:6",
+        "verseKey": "kjv:psalms:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:8:7",
+      "numberLabel": "7",
+      "text": "All sheep and oxen, yea, and the beasts of the field;",
+      "metadata": {
+        "reference": "Psalms 8:7",
+        "verseKey": "kjv:psalms:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:8:8",
+      "numberLabel": "8",
+      "text": "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.",
+      "metadata": {
+        "reference": "Psalms 8:8",
+        "verseKey": "kjv:psalms:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:8:9",
+      "numberLabel": "9",
+      "text": "O LORD our Lord, how excellent is thy name in all the earth!",
+      "metadata": {
+        "reference": "Psalms 8:9",
+        "verseKey": "kjv:psalms:8:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

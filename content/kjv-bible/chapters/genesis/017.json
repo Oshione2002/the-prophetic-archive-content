@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Genesis 17",
+  "display_title": "Genesis 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 1017,
+  "verseCount": 27,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:17:1",
+      "numberLabel": "1",
+      "text": "And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.",
+      "metadata": {
+        "reference": "Genesis 17:1",
+        "verseKey": "kjv:genesis:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:17:2",
+      "numberLabel": "2",
+      "text": "And I will make my covenant between me and thee, and will multiply thee exceedingly.",
+      "metadata": {
+        "reference": "Genesis 17:2",
+        "verseKey": "kjv:genesis:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:17:3",
+      "numberLabel": "3",
+      "text": "And Abram fell on his face: and God talked with him, saying,",
+      "metadata": {
+        "reference": "Genesis 17:3",
+        "verseKey": "kjv:genesis:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:17:4",
+      "numberLabel": "4",
+      "text": "As for me, behold, my covenant is with thee, and thou shalt be a father of many nations.",
+      "metadata": {
+        "reference": "Genesis 17:4",
+        "verseKey": "kjv:genesis:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:17:5",
+      "numberLabel": "5",
+      "text": "Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.",
+      "metadata": {
+        "reference": "Genesis 17:5",
+        "verseKey": "kjv:genesis:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:17:6",
+      "numberLabel": "6",
+      "text": "And I will make thee exceeding fruitful, and I will make nations of thee, and kings shall come out of thee.",
+      "metadata": {
+        "reference": "Genesis 17:6",
+        "verseKey": "kjv:genesis:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:17:7",
+      "numberLabel": "7",
+      "text": "And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee.",
+      "metadata": {
+        "reference": "Genesis 17:7",
+        "verseKey": "kjv:genesis:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:17:8",
+      "numberLabel": "8",
+      "text": "And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an everlasting possession; and I will be their God.",
+      "metadata": {
+        "reference": "Genesis 17:8",
+        "verseKey": "kjv:genesis:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:17:9",
+      "numberLabel": "9",
+      "text": "And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.",
+      "metadata": {
+        "reference": "Genesis 17:9",
+        "verseKey": "kjv:genesis:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:17:10",
+      "numberLabel": "10",
+      "text": "This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.",
+      "metadata": {
+        "reference": "Genesis 17:10",
+        "verseKey": "kjv:genesis:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:17:11",
+      "numberLabel": "11",
+      "text": "And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.",
+      "metadata": {
+        "reference": "Genesis 17:11",
+        "verseKey": "kjv:genesis:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:17:12",
+      "numberLabel": "12",
+      "text": "And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed.",
+      "metadata": {
+        "reference": "Genesis 17:12",
+        "verseKey": "kjv:genesis:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:17:13",
+      "numberLabel": "13",
+      "text": "He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant.",
+      "metadata": {
+        "reference": "Genesis 17:13",
+        "verseKey": "kjv:genesis:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:17:14",
+      "numberLabel": "14",
+      "text": "And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant.",
+      "metadata": {
+        "reference": "Genesis 17:14",
+        "verseKey": "kjv:genesis:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:17:15",
+      "numberLabel": "15",
+      "text": "And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah shall her name be.",
+      "metadata": {
+        "reference": "Genesis 17:15",
+        "verseKey": "kjv:genesis:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:17:16",
+      "numberLabel": "16",
+      "text": "And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be a mother of nations; kings of people shall be of her.",
+      "metadata": {
+        "reference": "Genesis 17:16",
+        "verseKey": "kjv:genesis:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:17:17",
+      "numberLabel": "17",
+      "text": "Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?",
+      "metadata": {
+        "reference": "Genesis 17:17",
+        "verseKey": "kjv:genesis:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:17:18",
+      "numberLabel": "18",
+      "text": "And Abraham said unto God, O that Ishmael might live before thee!",
+      "metadata": {
+        "reference": "Genesis 17:18",
+        "verseKey": "kjv:genesis:17:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:17:19",
+      "numberLabel": "19",
+      "text": "And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him.",
+      "metadata": {
+        "reference": "Genesis 17:19",
+        "verseKey": "kjv:genesis:17:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:17:20",
+      "numberLabel": "20",
+      "text": "And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.",
+      "metadata": {
+        "reference": "Genesis 17:20",
+        "verseKey": "kjv:genesis:17:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:17:21",
+      "numberLabel": "21",
+      "text": "But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.",
+      "metadata": {
+        "reference": "Genesis 17:21",
+        "verseKey": "kjv:genesis:17:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:17:22",
+      "numberLabel": "22",
+      "text": "And he left off talking with him, and God went up from Abraham.",
+      "metadata": {
+        "reference": "Genesis 17:22",
+        "verseKey": "kjv:genesis:17:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:17:23",
+      "numberLabel": "23",
+      "text": "And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham’s house; and circumcised the flesh of their foreskin in the selfsame day, as God had said unto him.",
+      "metadata": {
+        "reference": "Genesis 17:23",
+        "verseKey": "kjv:genesis:17:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:17:24",
+      "numberLabel": "24",
+      "text": "And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin.",
+      "metadata": {
+        "reference": "Genesis 17:24",
+        "verseKey": "kjv:genesis:17:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:17:25",
+      "numberLabel": "25",
+      "text": "And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin.",
+      "metadata": {
+        "reference": "Genesis 17:25",
+        "verseKey": "kjv:genesis:17:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:17:26",
+      "numberLabel": "26",
+      "text": "In the selfsame day was Abraham circumcised, and Ishmael his son.",
+      "metadata": {
+        "reference": "Genesis 17:26",
+        "verseKey": "kjv:genesis:17:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:17:27",
+      "numberLabel": "27",
+      "text": "And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him.",
+      "metadata": {
+        "reference": "Genesis 17:27",
+        "verseKey": "kjv:genesis:17:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

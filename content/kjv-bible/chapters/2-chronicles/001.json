@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-chronicles-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "2 Chronicles 1",
+  "display_title": "2 Chronicles 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-chronicles",
+  "book": "2 Chronicles",
+  "bookName": "2 Chronicles",
+  "bookOrder": 14,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 14001,
+  "verseCount": 17,
+  "aliases": [
+    "2 Chr",
+    "2Chr",
+    "2 Ch",
+    "2Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-chronicles:1:1",
+      "numberLabel": "1",
+      "text": "And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.",
+      "metadata": {
+        "reference": "2 Chronicles 1:1",
+        "verseKey": "kjv:2-chronicles:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-chronicles:1:2",
+      "numberLabel": "2",
+      "text": "Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.",
+      "metadata": {
+        "reference": "2 Chronicles 1:2",
+        "verseKey": "kjv:2-chronicles:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-chronicles:1:3",
+      "numberLabel": "3",
+      "text": "So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.",
+      "metadata": {
+        "reference": "2 Chronicles 1:3",
+        "verseKey": "kjv:2-chronicles:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-chronicles:1:4",
+      "numberLabel": "4",
+      "text": "But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem.",
+      "metadata": {
+        "reference": "2 Chronicles 1:4",
+        "verseKey": "kjv:2-chronicles:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-chronicles:1:5",
+      "numberLabel": "5",
+      "text": "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.",
+      "metadata": {
+        "reference": "2 Chronicles 1:5",
+        "verseKey": "kjv:2-chronicles:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-chronicles:1:6",
+      "numberLabel": "6",
+      "text": "And Solomon went up thither to the brasen altar before the LORD, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.",
+      "metadata": {
+        "reference": "2 Chronicles 1:6",
+        "verseKey": "kjv:2-chronicles:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-chronicles:1:7",
+      "numberLabel": "7",
+      "text": "In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee.",
+      "metadata": {
+        "reference": "2 Chronicles 1:7",
+        "verseKey": "kjv:2-chronicles:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-chronicles:1:8",
+      "numberLabel": "8",
+      "text": "And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.",
+      "metadata": {
+        "reference": "2 Chronicles 1:8",
+        "verseKey": "kjv:2-chronicles:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-chronicles:1:9",
+      "numberLabel": "9",
+      "text": "Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.",
+      "metadata": {
+        "reference": "2 Chronicles 1:9",
+        "verseKey": "kjv:2-chronicles:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-chronicles:1:10",
+      "numberLabel": "10",
+      "text": "Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this thy people, that is so great?",
+      "metadata": {
+        "reference": "2 Chronicles 1:10",
+        "verseKey": "kjv:2-chronicles:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-chronicles:1:11",
+      "numberLabel": "11",
+      "text": "And God said to Solomon, Because this was in thine heart, and thou hast not asked riches, wealth, or honour, nor the life of thine enemies, neither yet hast asked long life; but hast asked wisdom and knowledge for thyself, that thou mayest judge my people, over whom I have made thee king:",
+      "metadata": {
+        "reference": "2 Chronicles 1:11",
+        "verseKey": "kjv:2-chronicles:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-chronicles:1:12",
+      "numberLabel": "12",
+      "text": "Wisdom and knowledge is granted unto thee; and I will give thee riches, and wealth, and honour, such as none of the kings have had that have been before thee, neither shall there any after thee have the like.",
+      "metadata": {
+        "reference": "2 Chronicles 1:12",
+        "verseKey": "kjv:2-chronicles:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-chronicles:1:13",
+      "numberLabel": "13",
+      "text": "Then Solomon came from his journey to the high place that was at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel.",
+      "metadata": {
+        "reference": "2 Chronicles 1:13",
+        "verseKey": "kjv:2-chronicles:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-chronicles:1:14",
+      "numberLabel": "14",
+      "text": "And Solomon gathered chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, which he placed in the chariot cities, and with the king at Jerusalem.",
+      "metadata": {
+        "reference": "2 Chronicles 1:14",
+        "verseKey": "kjv:2-chronicles:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-chronicles:1:15",
+      "numberLabel": "15",
+      "text": "And the king made silver and gold at Jerusalem as plenteous as stones, and cedar trees made he as the sycomore trees that are in the vale for abundance.",
+      "metadata": {
+        "reference": "2 Chronicles 1:15",
+        "verseKey": "kjv:2-chronicles:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-chronicles:1:16",
+      "numberLabel": "16",
+      "text": "And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price.",
+      "metadata": {
+        "reference": "2 Chronicles 1:16",
+        "verseKey": "kjv:2-chronicles:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-chronicles:1:17",
+      "numberLabel": "17",
+      "text": "And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means.",
+      "metadata": {
+        "reference": "2 Chronicles 1:17",
+        "verseKey": "kjv:2-chronicles:1:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

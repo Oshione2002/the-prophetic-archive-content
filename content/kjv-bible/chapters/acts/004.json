@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Acts 4",
+  "display_title": "Acts 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 44004,
+  "verseCount": 37,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:4:1",
+      "numberLabel": "1",
+      "text": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,",
+      "metadata": {
+        "reference": "Acts 4:1",
+        "verseKey": "kjv:acts:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:4:2",
+      "numberLabel": "2",
+      "text": "Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.",
+      "metadata": {
+        "reference": "Acts 4:2",
+        "verseKey": "kjv:acts:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:4:3",
+      "numberLabel": "3",
+      "text": "And they laid hands on them, and put them in hold unto the next day: for it was now eventide.",
+      "metadata": {
+        "reference": "Acts 4:3",
+        "verseKey": "kjv:acts:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:4:4",
+      "numberLabel": "4",
+      "text": "Howbeit many of them which heard the word believed; and the number of the men was about five thousand.",
+      "metadata": {
+        "reference": "Acts 4:4",
+        "verseKey": "kjv:acts:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:4:5",
+      "numberLabel": "5",
+      "text": "And it came to pass on the morrow, that their rulers, and elders, and scribes,",
+      "metadata": {
+        "reference": "Acts 4:5",
+        "verseKey": "kjv:acts:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:4:6",
+      "numberLabel": "6",
+      "text": "And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem.",
+      "metadata": {
+        "reference": "Acts 4:6",
+        "verseKey": "kjv:acts:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:4:7",
+      "numberLabel": "7",
+      "text": "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?",
+      "metadata": {
+        "reference": "Acts 4:7",
+        "verseKey": "kjv:acts:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:4:8",
+      "numberLabel": "8",
+      "text": "Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,",
+      "metadata": {
+        "reference": "Acts 4:8",
+        "verseKey": "kjv:acts:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:4:9",
+      "numberLabel": "9",
+      "text": "If we this day be examined of the good deed done to the impotent man, by what means he is made whole;",
+      "metadata": {
+        "reference": "Acts 4:9",
+        "verseKey": "kjv:acts:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:4:10",
+      "numberLabel": "10",
+      "text": "Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole.",
+      "metadata": {
+        "reference": "Acts 4:10",
+        "verseKey": "kjv:acts:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:4:11",
+      "numberLabel": "11",
+      "text": "This is the stone which was set at nought of you builders, which is become the head of the corner.",
+      "metadata": {
+        "reference": "Acts 4:11",
+        "verseKey": "kjv:acts:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:4:12",
+      "numberLabel": "12",
+      "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+      "metadata": {
+        "reference": "Acts 4:12",
+        "verseKey": "kjv:acts:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:4:13",
+      "numberLabel": "13",
+      "text": "Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.",
+      "metadata": {
+        "reference": "Acts 4:13",
+        "verseKey": "kjv:acts:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:4:14",
+      "numberLabel": "14",
+      "text": "And beholding the man which was healed standing with them, they could say nothing against it.",
+      "metadata": {
+        "reference": "Acts 4:14",
+        "verseKey": "kjv:acts:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:4:15",
+      "numberLabel": "15",
+      "text": "But when they had commanded them to go aside out of the council, they conferred among themselves,",
+      "metadata": {
+        "reference": "Acts 4:15",
+        "verseKey": "kjv:acts:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:4:16",
+      "numberLabel": "16",
+      "text": "Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it.",
+      "metadata": {
+        "reference": "Acts 4:16",
+        "verseKey": "kjv:acts:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:4:17",
+      "numberLabel": "17",
+      "text": "But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.",
+      "metadata": {
+        "reference": "Acts 4:17",
+        "verseKey": "kjv:acts:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:4:18",
+      "numberLabel": "18",
+      "text": "And they called them, and commanded them not to speak at all nor teach in the name of Jesus.",
+      "metadata": {
+        "reference": "Acts 4:18",
+        "verseKey": "kjv:acts:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:4:19",
+      "numberLabel": "19",
+      "text": "But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye.",
+      "metadata": {
+        "reference": "Acts 4:19",
+        "verseKey": "kjv:acts:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:4:20",
+      "numberLabel": "20",
+      "text": "For we cannot but speak the things which we have seen and heard.",
+      "metadata": {
+        "reference": "Acts 4:20",
+        "verseKey": "kjv:acts:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:4:21",
+      "numberLabel": "21",
+      "text": "So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all men glorified God for that which was done.",
+      "metadata": {
+        "reference": "Acts 4:21",
+        "verseKey": "kjv:acts:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:4:22",
+      "numberLabel": "22",
+      "text": "For the man was above forty years old, on whom this miracle of healing was shewed.",
+      "metadata": {
+        "reference": "Acts 4:22",
+        "verseKey": "kjv:acts:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:4:23",
+      "numberLabel": "23",
+      "text": "And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them.",
+      "metadata": {
+        "reference": "Acts 4:23",
+        "verseKey": "kjv:acts:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:4:24",
+      "numberLabel": "24",
+      "text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is:",
+      "metadata": {
+        "reference": "Acts 4:24",
+        "verseKey": "kjv:acts:4:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:4:25",
+      "numberLabel": "25",
+      "text": "Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?",
+      "metadata": {
+        "reference": "Acts 4:25",
+        "verseKey": "kjv:acts:4:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:4:26",
+      "numberLabel": "26",
+      "text": "The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ.",
+      "metadata": {
+        "reference": "Acts 4:26",
+        "verseKey": "kjv:acts:4:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:4:27",
+      "numberLabel": "27",
+      "text": "For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,",
+      "metadata": {
+        "reference": "Acts 4:27",
+        "verseKey": "kjv:acts:4:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:4:28",
+      "numberLabel": "28",
+      "text": "For to do whatsoever thy hand and thy counsel determined before to be done.",
+      "metadata": {
+        "reference": "Acts 4:28",
+        "verseKey": "kjv:acts:4:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:4:29",
+      "numberLabel": "29",
+      "text": "And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,",
+      "metadata": {
+        "reference": "Acts 4:29",
+        "verseKey": "kjv:acts:4:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:4:30",
+      "numberLabel": "30",
+      "text": "By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.",
+      "metadata": {
+        "reference": "Acts 4:30",
+        "verseKey": "kjv:acts:4:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:acts:4:31",
+      "numberLabel": "31",
+      "text": "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.",
+      "metadata": {
+        "reference": "Acts 4:31",
+        "verseKey": "kjv:acts:4:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:acts:4:32",
+      "numberLabel": "32",
+      "text": "And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common.",
+      "metadata": {
+        "reference": "Acts 4:32",
+        "verseKey": "kjv:acts:4:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:acts:4:33",
+      "numberLabel": "33",
+      "text": "And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.",
+      "metadata": {
+        "reference": "Acts 4:33",
+        "verseKey": "kjv:acts:4:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:acts:4:34",
+      "numberLabel": "34",
+      "text": "Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,",
+      "metadata": {
+        "reference": "Acts 4:34",
+        "verseKey": "kjv:acts:4:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:acts:4:35",
+      "numberLabel": "35",
+      "text": "And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.",
+      "metadata": {
+        "reference": "Acts 4:35",
+        "verseKey": "kjv:acts:4:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:acts:4:36",
+      "numberLabel": "36",
+      "text": "And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus,",
+      "metadata": {
+        "reference": "Acts 4:36",
+        "verseKey": "kjv:acts:4:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:acts:4:37",
+      "numberLabel": "37",
+      "text": "Having land, sold it, and brought the money, and laid it at the apostles’ feet.",
+      "metadata": {
+        "reference": "Acts 4:37",
+        "verseKey": "kjv:acts:4:37"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

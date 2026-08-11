@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-kings-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "1 Kings 17",
+  "display_title": "1 Kings 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-kings",
+  "book": "1 Kings",
+  "bookName": "1 Kings",
+  "bookOrder": 11,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 11017,
+  "verseCount": 24,
+  "aliases": [
+    "1 Kgs",
+    "1Kgs",
+    "1 Ki",
+    "1Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-kings:17:1",
+      "numberLabel": "1",
+      "text": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.",
+      "metadata": {
+        "reference": "1 Kings 17:1",
+        "verseKey": "kjv:1-kings:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-kings:17:2",
+      "numberLabel": "2",
+      "text": "And the word of the LORD came unto him, saying,",
+      "metadata": {
+        "reference": "1 Kings 17:2",
+        "verseKey": "kjv:1-kings:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-kings:17:3",
+      "numberLabel": "3",
+      "text": "Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan.",
+      "metadata": {
+        "reference": "1 Kings 17:3",
+        "verseKey": "kjv:1-kings:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-kings:17:4",
+      "numberLabel": "4",
+      "text": "And it shall be, that thou shalt drink of the brook; and I have commanded the ravens to feed thee there.",
+      "metadata": {
+        "reference": "1 Kings 17:4",
+        "verseKey": "kjv:1-kings:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-kings:17:5",
+      "numberLabel": "5",
+      "text": "So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan.",
+      "metadata": {
+        "reference": "1 Kings 17:5",
+        "verseKey": "kjv:1-kings:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-kings:17:6",
+      "numberLabel": "6",
+      "text": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.",
+      "metadata": {
+        "reference": "1 Kings 17:6",
+        "verseKey": "kjv:1-kings:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-kings:17:7",
+      "numberLabel": "7",
+      "text": "And it came to pass after a while, that the brook dried up, because there had been no rain in the land.",
+      "metadata": {
+        "reference": "1 Kings 17:7",
+        "verseKey": "kjv:1-kings:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-kings:17:8",
+      "numberLabel": "8",
+      "text": "And the word of the LORD came unto him, saying,",
+      "metadata": {
+        "reference": "1 Kings 17:8",
+        "verseKey": "kjv:1-kings:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-kings:17:9",
+      "numberLabel": "9",
+      "text": "Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.",
+      "metadata": {
+        "reference": "1 Kings 17:9",
+        "verseKey": "kjv:1-kings:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-kings:17:10",
+      "numberLabel": "10",
+      "text": "So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.",
+      "metadata": {
+        "reference": "1 Kings 17:10",
+        "verseKey": "kjv:1-kings:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-kings:17:11",
+      "numberLabel": "11",
+      "text": "And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.",
+      "metadata": {
+        "reference": "1 Kings 17:11",
+        "verseKey": "kjv:1-kings:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-kings:17:12",
+      "numberLabel": "12",
+      "text": "And she said, As the LORD thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.",
+      "metadata": {
+        "reference": "1 Kings 17:12",
+        "verseKey": "kjv:1-kings:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-kings:17:13",
+      "numberLabel": "13",
+      "text": "And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.",
+      "metadata": {
+        "reference": "1 Kings 17:13",
+        "verseKey": "kjv:1-kings:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-kings:17:14",
+      "numberLabel": "14",
+      "text": "For thus saith the LORD God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the LORD sendeth rain upon the earth.",
+      "metadata": {
+        "reference": "1 Kings 17:14",
+        "verseKey": "kjv:1-kings:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-kings:17:15",
+      "numberLabel": "15",
+      "text": "And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.",
+      "metadata": {
+        "reference": "1 Kings 17:15",
+        "verseKey": "kjv:1-kings:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-kings:17:16",
+      "numberLabel": "16",
+      "text": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spake by Elijah.",
+      "metadata": {
+        "reference": "1 Kings 17:16",
+        "verseKey": "kjv:1-kings:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-kings:17:17",
+      "numberLabel": "17",
+      "text": "And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.",
+      "metadata": {
+        "reference": "1 Kings 17:17",
+        "verseKey": "kjv:1-kings:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-kings:17:18",
+      "numberLabel": "18",
+      "text": "And she said unto Elijah, What have I to do with thee, O thou man of God? art thou come unto me to call my sin to remembrance, and to slay my son?",
+      "metadata": {
+        "reference": "1 Kings 17:18",
+        "verseKey": "kjv:1-kings:17:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-kings:17:19",
+      "numberLabel": "19",
+      "text": "And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.",
+      "metadata": {
+        "reference": "1 Kings 17:19",
+        "verseKey": "kjv:1-kings:17:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-kings:17:20",
+      "numberLabel": "20",
+      "text": "And he cried unto the LORD, and said, O LORD my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?",
+      "metadata": {
+        "reference": "1 Kings 17:20",
+        "verseKey": "kjv:1-kings:17:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-kings:17:21",
+      "numberLabel": "21",
+      "text": "And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child’s soul come into him again.",
+      "metadata": {
+        "reference": "1 Kings 17:21",
+        "verseKey": "kjv:1-kings:17:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-kings:17:22",
+      "numberLabel": "22",
+      "text": "And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived.",
+      "metadata": {
+        "reference": "1 Kings 17:22",
+        "verseKey": "kjv:1-kings:17:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-kings:17:23",
+      "numberLabel": "23",
+      "text": "And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, thy son liveth.",
+      "metadata": {
+        "reference": "1 Kings 17:23",
+        "verseKey": "kjv:1-kings:17:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-kings:17:24",
+      "numberLabel": "24",
+      "text": "And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the LORD in thy mouth is truth.",
+      "metadata": {
+        "reference": "1 Kings 17:24",
+        "verseKey": "kjv:1-kings:17:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

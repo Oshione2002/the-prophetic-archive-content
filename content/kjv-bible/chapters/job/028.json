@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "Job 28",
+  "display_title": "Job 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 28,
+  "sortOrder": 18028,
+  "verseCount": 28,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:28:1",
+      "numberLabel": "1",
+      "text": "Surely there is a vein for the silver, and a place for gold where they fine it.",
+      "metadata": {
+        "reference": "Job 28:1",
+        "verseKey": "kjv:job:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:28:2",
+      "numberLabel": "2",
+      "text": "Iron is taken out of the earth, and brass is molten out of the stone.",
+      "metadata": {
+        "reference": "Job 28:2",
+        "verseKey": "kjv:job:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:28:3",
+      "numberLabel": "3",
+      "text": "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.",
+      "metadata": {
+        "reference": "Job 28:3",
+        "verseKey": "kjv:job:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:28:4",
+      "numberLabel": "4",
+      "text": "The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.",
+      "metadata": {
+        "reference": "Job 28:4",
+        "verseKey": "kjv:job:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:28:5",
+      "numberLabel": "5",
+      "text": "As for the earth, out of it cometh bread: and under it is turned up as it were fire.",
+      "metadata": {
+        "reference": "Job 28:5",
+        "verseKey": "kjv:job:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:28:6",
+      "numberLabel": "6",
+      "text": "The stones of it are the place of sapphires: and it hath dust of gold.",
+      "metadata": {
+        "reference": "Job 28:6",
+        "verseKey": "kjv:job:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:28:7",
+      "numberLabel": "7",
+      "text": "There is a path which no fowl knoweth, and which the vulture’s eye hath not seen:",
+      "metadata": {
+        "reference": "Job 28:7",
+        "verseKey": "kjv:job:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:28:8",
+      "numberLabel": "8",
+      "text": "The lion’s whelps have not trodden it, nor the fierce lion passed by it.",
+      "metadata": {
+        "reference": "Job 28:8",
+        "verseKey": "kjv:job:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:28:9",
+      "numberLabel": "9",
+      "text": "He putteth forth his hand upon the rock; he overturneth the mountains by the roots.",
+      "metadata": {
+        "reference": "Job 28:9",
+        "verseKey": "kjv:job:28:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:28:10",
+      "numberLabel": "10",
+      "text": "He cutteth out rivers among the rocks; and his eye seeth every precious thing.",
+      "metadata": {
+        "reference": "Job 28:10",
+        "verseKey": "kjv:job:28:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:28:11",
+      "numberLabel": "11",
+      "text": "He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light.",
+      "metadata": {
+        "reference": "Job 28:11",
+        "verseKey": "kjv:job:28:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:28:12",
+      "numberLabel": "12",
+      "text": "But where shall wisdom be found? and where is the place of understanding?",
+      "metadata": {
+        "reference": "Job 28:12",
+        "verseKey": "kjv:job:28:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:28:13",
+      "numberLabel": "13",
+      "text": "Man knoweth not the price thereof; neither is it found in the land of the living.",
+      "metadata": {
+        "reference": "Job 28:13",
+        "verseKey": "kjv:job:28:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:28:14",
+      "numberLabel": "14",
+      "text": "The depth saith, It is not in me: and the sea saith, It is not with me.",
+      "metadata": {
+        "reference": "Job 28:14",
+        "verseKey": "kjv:job:28:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:28:15",
+      "numberLabel": "15",
+      "text": "It cannot be gotten for gold, neither shall silver be weighed for the price thereof.",
+      "metadata": {
+        "reference": "Job 28:15",
+        "verseKey": "kjv:job:28:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:28:16",
+      "numberLabel": "16",
+      "text": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.",
+      "metadata": {
+        "reference": "Job 28:16",
+        "verseKey": "kjv:job:28:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:28:17",
+      "numberLabel": "17",
+      "text": "The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold.",
+      "metadata": {
+        "reference": "Job 28:17",
+        "verseKey": "kjv:job:28:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:28:18",
+      "numberLabel": "18",
+      "text": "No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies.",
+      "metadata": {
+        "reference": "Job 28:18",
+        "verseKey": "kjv:job:28:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:28:19",
+      "numberLabel": "19",
+      "text": "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.",
+      "metadata": {
+        "reference": "Job 28:19",
+        "verseKey": "kjv:job:28:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:28:20",
+      "numberLabel": "20",
+      "text": "Whence then cometh wisdom? and where is the place of understanding?",
+      "metadata": {
+        "reference": "Job 28:20",
+        "verseKey": "kjv:job:28:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:28:21",
+      "numberLabel": "21",
+      "text": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.",
+      "metadata": {
+        "reference": "Job 28:21",
+        "verseKey": "kjv:job:28:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:28:22",
+      "numberLabel": "22",
+      "text": "Destruction and death say, We have heard the fame thereof with our ears.",
+      "metadata": {
+        "reference": "Job 28:22",
+        "verseKey": "kjv:job:28:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:28:23",
+      "numberLabel": "23",
+      "text": "God understandeth the way thereof, and he knoweth the place thereof.",
+      "metadata": {
+        "reference": "Job 28:23",
+        "verseKey": "kjv:job:28:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:28:24",
+      "numberLabel": "24",
+      "text": "For he looketh to the ends of the earth, and seeth under the whole heaven;",
+      "metadata": {
+        "reference": "Job 28:24",
+        "verseKey": "kjv:job:28:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:28:25",
+      "numberLabel": "25",
+      "text": "To make the weight for the winds; and he weigheth the waters by measure.",
+      "metadata": {
+        "reference": "Job 28:25",
+        "verseKey": "kjv:job:28:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:28:26",
+      "numberLabel": "26",
+      "text": "When he made a decree for the rain, and a way for the lightning of the thunder:",
+      "metadata": {
+        "reference": "Job 28:26",
+        "verseKey": "kjv:job:28:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:28:27",
+      "numberLabel": "27",
+      "text": "Then did he see it, and declare it; he prepared it, yea, and searched it out.",
+      "metadata": {
+        "reference": "Job 28:27",
+        "verseKey": "kjv:job:28:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:28:28",
+      "numberLabel": "28",
+      "text": "And unto man he said, Behold, the fear of the LORD, that is wisdom; and to depart from evil is understanding.",
+      "metadata": {
+        "reference": "Job 28:28",
+        "verseKey": "kjv:job:28:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

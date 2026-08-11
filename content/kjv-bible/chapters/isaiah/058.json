@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-058",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 58,
+  "title": "Isaiah 58",
+  "display_title": "Isaiah 58",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 58,
+  "sortOrder": 23058,
+  "verseCount": 14,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:58:1",
+      "numberLabel": "1",
+      "text": "Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.",
+      "metadata": {
+        "reference": "Isaiah 58:1",
+        "verseKey": "kjv:isaiah:58:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:58:2",
+      "numberLabel": "2",
+      "text": "Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.",
+      "metadata": {
+        "reference": "Isaiah 58:2",
+        "verseKey": "kjv:isaiah:58:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:58:3",
+      "numberLabel": "3",
+      "text": "Wherefore have we fasted, say they, and thou seest not? wherefore have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find pleasure, and exact all your labours.",
+      "metadata": {
+        "reference": "Isaiah 58:3",
+        "verseKey": "kjv:isaiah:58:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:58:4",
+      "numberLabel": "4",
+      "text": "Behold, ye fast for strife and debate, and to smite with the fist of wickedness: ye shall not fast as ye do this day, to make your voice to be heard on high.",
+      "metadata": {
+        "reference": "Isaiah 58:4",
+        "verseKey": "kjv:isaiah:58:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:58:5",
+      "numberLabel": "5",
+      "text": "Is it such a fast that I have chosen? a day for a man to afflict his soul? is it to bow down his head as a bulrush, and to spread sackcloth and ashes under him? wilt thou call this a fast, and an acceptable day to the LORD?",
+      "metadata": {
+        "reference": "Isaiah 58:5",
+        "verseKey": "kjv:isaiah:58:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:58:6",
+      "numberLabel": "6",
+      "text": "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?",
+      "metadata": {
+        "reference": "Isaiah 58:6",
+        "verseKey": "kjv:isaiah:58:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:58:7",
+      "numberLabel": "7",
+      "text": "Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?",
+      "metadata": {
+        "reference": "Isaiah 58:7",
+        "verseKey": "kjv:isaiah:58:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:58:8",
+      "numberLabel": "8",
+      "text": "Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the LORD shall be thy rereward.",
+      "metadata": {
+        "reference": "Isaiah 58:8",
+        "verseKey": "kjv:isaiah:58:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:58:9",
+      "numberLabel": "9",
+      "text": "Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I am. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;",
+      "metadata": {
+        "reference": "Isaiah 58:9",
+        "verseKey": "kjv:isaiah:58:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:58:10",
+      "numberLabel": "10",
+      "text": "And if thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness be as the noon day:",
+      "metadata": {
+        "reference": "Isaiah 58:10",
+        "verseKey": "kjv:isaiah:58:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:58:11",
+      "numberLabel": "11",
+      "text": "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.",
+      "metadata": {
+        "reference": "Isaiah 58:11",
+        "verseKey": "kjv:isaiah:58:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:58:12",
+      "numberLabel": "12",
+      "text": "And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.",
+      "metadata": {
+        "reference": "Isaiah 58:12",
+        "verseKey": "kjv:isaiah:58:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:58:13",
+      "numberLabel": "13",
+      "text": "If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words:",
+      "metadata": {
+        "reference": "Isaiah 58:13",
+        "verseKey": "kjv:isaiah:58:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:58:14",
+      "numberLabel": "14",
+      "text": "Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken it.",
+      "metadata": {
+        "reference": "Isaiah 58:14",
+        "verseKey": "kjv:isaiah:58:14"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

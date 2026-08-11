@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-081",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 81,
+  "title": "Psalms 81",
+  "display_title": "Psalms 81",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 81,
+  "sortOrder": 19081,
+  "verseCount": 16,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:81:1",
+      "numberLabel": "1",
+      "text": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
+      "metadata": {
+        "reference": "Psalms 81:1",
+        "verseKey": "kjv:psalms:81:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:81:2",
+      "numberLabel": "2",
+      "text": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
+      "metadata": {
+        "reference": "Psalms 81:2",
+        "verseKey": "kjv:psalms:81:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:81:3",
+      "numberLabel": "3",
+      "text": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.",
+      "metadata": {
+        "reference": "Psalms 81:3",
+        "verseKey": "kjv:psalms:81:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:81:4",
+      "numberLabel": "4",
+      "text": "For this was a statute for Israel, and a law of the God of Jacob.",
+      "metadata": {
+        "reference": "Psalms 81:4",
+        "verseKey": "kjv:psalms:81:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:81:5",
+      "numberLabel": "5",
+      "text": "This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.",
+      "metadata": {
+        "reference": "Psalms 81:5",
+        "verseKey": "kjv:psalms:81:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:81:6",
+      "numberLabel": "6",
+      "text": "I removed his shoulder from the burden: his hands were delivered from the pots.",
+      "metadata": {
+        "reference": "Psalms 81:6",
+        "verseKey": "kjv:psalms:81:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:81:7",
+      "numberLabel": "7",
+      "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.",
+      "metadata": {
+        "reference": "Psalms 81:7",
+        "verseKey": "kjv:psalms:81:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:81:8",
+      "numberLabel": "8",
+      "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;",
+      "metadata": {
+        "reference": "Psalms 81:8",
+        "verseKey": "kjv:psalms:81:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:81:9",
+      "numberLabel": "9",
+      "text": "There shall no strange god be in thee; neither shalt thou worship any strange god.",
+      "metadata": {
+        "reference": "Psalms 81:9",
+        "verseKey": "kjv:psalms:81:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:81:10",
+      "numberLabel": "10",
+      "text": "I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
+      "metadata": {
+        "reference": "Psalms 81:10",
+        "verseKey": "kjv:psalms:81:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:81:11",
+      "numberLabel": "11",
+      "text": "But my people would not hearken to my voice; and Israel would none of me.",
+      "metadata": {
+        "reference": "Psalms 81:11",
+        "verseKey": "kjv:psalms:81:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:81:12",
+      "numberLabel": "12",
+      "text": "So I gave them up unto their own hearts’ lust: and they walked in their own counsels.",
+      "metadata": {
+        "reference": "Psalms 81:12",
+        "verseKey": "kjv:psalms:81:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:81:13",
+      "numberLabel": "13",
+      "text": "Oh that my people had hearkened unto me, and Israel had walked in my ways!",
+      "metadata": {
+        "reference": "Psalms 81:13",
+        "verseKey": "kjv:psalms:81:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:81:14",
+      "numberLabel": "14",
+      "text": "I should soon have subdued their enemies, and turned my hand against their adversaries.",
+      "metadata": {
+        "reference": "Psalms 81:14",
+        "verseKey": "kjv:psalms:81:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:81:15",
+      "numberLabel": "15",
+      "text": "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever.",
+      "metadata": {
+        "reference": "Psalms 81:15",
+        "verseKey": "kjv:psalms:81:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:81:16",
+      "numberLabel": "16",
+      "text": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.",
+      "metadata": {
+        "reference": "Psalms 81:16",
+        "verseKey": "kjv:psalms:81:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ecclesiastes-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Ecclesiastes 2",
+  "display_title": "Ecclesiastes 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ecclesiastes",
+  "book": "Ecclesiastes",
+  "bookName": "Ecclesiastes",
+  "bookOrder": 21,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 21002,
+  "verseCount": 26,
+  "aliases": [
+    "Eccl",
+    "Ecc",
+    "Qoheleth"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ecclesiastes:2:1",
+      "numberLabel": "1",
+      "text": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:1",
+        "verseKey": "kjv:ecclesiastes:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ecclesiastes:2:2",
+      "numberLabel": "2",
+      "text": "I said of laughter, It is mad: and of mirth, What doeth it?",
+      "metadata": {
+        "reference": "Ecclesiastes 2:2",
+        "verseKey": "kjv:ecclesiastes:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ecclesiastes:2:3",
+      "numberLabel": "3",
+      "text": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:3",
+        "verseKey": "kjv:ecclesiastes:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ecclesiastes:2:4",
+      "numberLabel": "4",
+      "text": "I made me great works; I builded me houses; I planted me vineyards:",
+      "metadata": {
+        "reference": "Ecclesiastes 2:4",
+        "verseKey": "kjv:ecclesiastes:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ecclesiastes:2:5",
+      "numberLabel": "5",
+      "text": "I made me gardens and orchards, and I planted trees in them of all kind of fruits:",
+      "metadata": {
+        "reference": "Ecclesiastes 2:5",
+        "verseKey": "kjv:ecclesiastes:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ecclesiastes:2:6",
+      "numberLabel": "6",
+      "text": "I made me pools of water, to water therewith the wood that bringeth forth trees:",
+      "metadata": {
+        "reference": "Ecclesiastes 2:6",
+        "verseKey": "kjv:ecclesiastes:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ecclesiastes:2:7",
+      "numberLabel": "7",
+      "text": "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
+      "metadata": {
+        "reference": "Ecclesiastes 2:7",
+        "verseKey": "kjv:ecclesiastes:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ecclesiastes:2:8",
+      "numberLabel": "8",
+      "text": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:8",
+        "verseKey": "kjv:ecclesiastes:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ecclesiastes:2:9",
+      "numberLabel": "9",
+      "text": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:9",
+        "verseKey": "kjv:ecclesiastes:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ecclesiastes:2:10",
+      "numberLabel": "10",
+      "text": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:10",
+        "verseKey": "kjv:ecclesiastes:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ecclesiastes:2:11",
+      "numberLabel": "11",
+      "text": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:11",
+        "verseKey": "kjv:ecclesiastes:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ecclesiastes:2:12",
+      "numberLabel": "12",
+      "text": "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:12",
+        "verseKey": "kjv:ecclesiastes:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ecclesiastes:2:13",
+      "numberLabel": "13",
+      "text": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:13",
+        "verseKey": "kjv:ecclesiastes:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ecclesiastes:2:14",
+      "numberLabel": "14",
+      "text": "The wise man’s eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:14",
+        "verseKey": "kjv:ecclesiastes:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ecclesiastes:2:15",
+      "numberLabel": "15",
+      "text": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:15",
+        "verseKey": "kjv:ecclesiastes:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ecclesiastes:2:16",
+      "numberLabel": "16",
+      "text": "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:16",
+        "verseKey": "kjv:ecclesiastes:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ecclesiastes:2:17",
+      "numberLabel": "17",
+      "text": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:17",
+        "verseKey": "kjv:ecclesiastes:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ecclesiastes:2:18",
+      "numberLabel": "18",
+      "text": "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:18",
+        "verseKey": "kjv:ecclesiastes:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ecclesiastes:2:19",
+      "numberLabel": "19",
+      "text": "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:19",
+        "verseKey": "kjv:ecclesiastes:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ecclesiastes:2:20",
+      "numberLabel": "20",
+      "text": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:20",
+        "verseKey": "kjv:ecclesiastes:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ecclesiastes:2:21",
+      "numberLabel": "21",
+      "text": "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:21",
+        "verseKey": "kjv:ecclesiastes:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ecclesiastes:2:22",
+      "numberLabel": "22",
+      "text": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
+      "metadata": {
+        "reference": "Ecclesiastes 2:22",
+        "verseKey": "kjv:ecclesiastes:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ecclesiastes:2:23",
+      "numberLabel": "23",
+      "text": "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:23",
+        "verseKey": "kjv:ecclesiastes:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ecclesiastes:2:24",
+      "numberLabel": "24",
+      "text": "There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:24",
+        "verseKey": "kjv:ecclesiastes:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ecclesiastes:2:25",
+      "numberLabel": "25",
+      "text": "For who can eat, or who else can hasten hereunto, more than I?",
+      "metadata": {
+        "reference": "Ecclesiastes 2:25",
+        "verseKey": "kjv:ecclesiastes:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ecclesiastes:2:26",
+      "numberLabel": "26",
+      "text": "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.",
+      "metadata": {
+        "reference": "Ecclesiastes 2:26",
+        "verseKey": "kjv:ecclesiastes:2:26"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ecclesiastes.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ecclesiastes.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Matthew 8",
+  "display_title": "Matthew 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 8,
+  "sortOrder": 40008,
+  "verseCount": 34,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:8:1",
+      "numberLabel": "1",
+      "text": "When he was come down from the mountain, great multitudes followed him.",
+      "metadata": {
+        "reference": "Matthew 8:1",
+        "verseKey": "kjv:matthew:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:8:2",
+      "numberLabel": "2",
+      "text": "And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.",
+      "metadata": {
+        "reference": "Matthew 8:2",
+        "verseKey": "kjv:matthew:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:8:3",
+      "numberLabel": "3",
+      "text": "And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.",
+      "metadata": {
+        "reference": "Matthew 8:3",
+        "verseKey": "kjv:matthew:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:8:4",
+      "numberLabel": "4",
+      "text": "And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.",
+      "metadata": {
+        "reference": "Matthew 8:4",
+        "verseKey": "kjv:matthew:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:8:5",
+      "numberLabel": "5",
+      "text": "And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,",
+      "metadata": {
+        "reference": "Matthew 8:5",
+        "verseKey": "kjv:matthew:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:8:6",
+      "numberLabel": "6",
+      "text": "And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.",
+      "metadata": {
+        "reference": "Matthew 8:6",
+        "verseKey": "kjv:matthew:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:8:7",
+      "numberLabel": "7",
+      "text": "And Jesus saith unto him, I will come and heal him.",
+      "metadata": {
+        "reference": "Matthew 8:7",
+        "verseKey": "kjv:matthew:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:8:8",
+      "numberLabel": "8",
+      "text": "The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.",
+      "metadata": {
+        "reference": "Matthew 8:8",
+        "verseKey": "kjv:matthew:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:8:9",
+      "numberLabel": "9",
+      "text": "For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.",
+      "metadata": {
+        "reference": "Matthew 8:9",
+        "verseKey": "kjv:matthew:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:8:10",
+      "numberLabel": "10",
+      "text": "When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.",
+      "metadata": {
+        "reference": "Matthew 8:10",
+        "verseKey": "kjv:matthew:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:8:11",
+      "numberLabel": "11",
+      "text": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.",
+      "metadata": {
+        "reference": "Matthew 8:11",
+        "verseKey": "kjv:matthew:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:8:12",
+      "numberLabel": "12",
+      "text": "But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.",
+      "metadata": {
+        "reference": "Matthew 8:12",
+        "verseKey": "kjv:matthew:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:8:13",
+      "numberLabel": "13",
+      "text": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.",
+      "metadata": {
+        "reference": "Matthew 8:13",
+        "verseKey": "kjv:matthew:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:8:14",
+      "numberLabel": "14",
+      "text": "And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever.",
+      "metadata": {
+        "reference": "Matthew 8:14",
+        "verseKey": "kjv:matthew:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:8:15",
+      "numberLabel": "15",
+      "text": "And he touched her hand, and the fever left her: and she arose, and ministered unto them.",
+      "metadata": {
+        "reference": "Matthew 8:15",
+        "verseKey": "kjv:matthew:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:8:16",
+      "numberLabel": "16",
+      "text": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:",
+      "metadata": {
+        "reference": "Matthew 8:16",
+        "verseKey": "kjv:matthew:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:8:17",
+      "numberLabel": "17",
+      "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.",
+      "metadata": {
+        "reference": "Matthew 8:17",
+        "verseKey": "kjv:matthew:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:8:18",
+      "numberLabel": "18",
+      "text": "Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.",
+      "metadata": {
+        "reference": "Matthew 8:18",
+        "verseKey": "kjv:matthew:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:8:19",
+      "numberLabel": "19",
+      "text": "And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest.",
+      "metadata": {
+        "reference": "Matthew 8:19",
+        "verseKey": "kjv:matthew:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:8:20",
+      "numberLabel": "20",
+      "text": "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head.",
+      "metadata": {
+        "reference": "Matthew 8:20",
+        "verseKey": "kjv:matthew:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:8:21",
+      "numberLabel": "21",
+      "text": "And another of his disciples said unto him, Lord, suffer me first to go and bury my father.",
+      "metadata": {
+        "reference": "Matthew 8:21",
+        "verseKey": "kjv:matthew:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:8:22",
+      "numberLabel": "22",
+      "text": "But Jesus said unto him, Follow me; and let the dead bury their dead.",
+      "metadata": {
+        "reference": "Matthew 8:22",
+        "verseKey": "kjv:matthew:8:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:8:23",
+      "numberLabel": "23",
+      "text": "And when he was entered into a ship, his disciples followed him.",
+      "metadata": {
+        "reference": "Matthew 8:23",
+        "verseKey": "kjv:matthew:8:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:8:24",
+      "numberLabel": "24",
+      "text": "And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep.",
+      "metadata": {
+        "reference": "Matthew 8:24",
+        "verseKey": "kjv:matthew:8:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:8:25",
+      "numberLabel": "25",
+      "text": "And his disciples came to him, and awoke him, saying, Lord, save us: we perish.",
+      "metadata": {
+        "reference": "Matthew 8:25",
+        "verseKey": "kjv:matthew:8:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:8:26",
+      "numberLabel": "26",
+      "text": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.",
+      "metadata": {
+        "reference": "Matthew 8:26",
+        "verseKey": "kjv:matthew:8:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:8:27",
+      "numberLabel": "27",
+      "text": "But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!",
+      "metadata": {
+        "reference": "Matthew 8:27",
+        "verseKey": "kjv:matthew:8:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:8:28",
+      "numberLabel": "28",
+      "text": "And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.",
+      "metadata": {
+        "reference": "Matthew 8:28",
+        "verseKey": "kjv:matthew:8:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:8:29",
+      "numberLabel": "29",
+      "text": "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?",
+      "metadata": {
+        "reference": "Matthew 8:29",
+        "verseKey": "kjv:matthew:8:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:8:30",
+      "numberLabel": "30",
+      "text": "And there was a good way off from them an herd of many swine feeding.",
+      "metadata": {
+        "reference": "Matthew 8:30",
+        "verseKey": "kjv:matthew:8:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:8:31",
+      "numberLabel": "31",
+      "text": "So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.",
+      "metadata": {
+        "reference": "Matthew 8:31",
+        "verseKey": "kjv:matthew:8:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:8:32",
+      "numberLabel": "32",
+      "text": "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.",
+      "metadata": {
+        "reference": "Matthew 8:32",
+        "verseKey": "kjv:matthew:8:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:8:33",
+      "numberLabel": "33",
+      "text": "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.",
+      "metadata": {
+        "reference": "Matthew 8:33",
+        "verseKey": "kjv:matthew:8:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:8:34",
+      "numberLabel": "34",
+      "text": "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.",
+      "metadata": {
+        "reference": "Matthew 8:34",
+        "verseKey": "kjv:matthew:8:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

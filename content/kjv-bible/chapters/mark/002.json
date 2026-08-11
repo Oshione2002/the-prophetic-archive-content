@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Mark 2",
+  "display_title": "Mark 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 41002,
+  "verseCount": 28,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:2:1",
+      "numberLabel": "1",
+      "text": "And again he entered into Capernaum after some days; and it was noised that he was in the house.",
+      "metadata": {
+        "reference": "Mark 2:1",
+        "verseKey": "kjv:mark:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:2:2",
+      "numberLabel": "2",
+      "text": "And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them.",
+      "metadata": {
+        "reference": "Mark 2:2",
+        "verseKey": "kjv:mark:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:2:3",
+      "numberLabel": "3",
+      "text": "And they come unto him, bringing one sick of the palsy, which was borne of four.",
+      "metadata": {
+        "reference": "Mark 2:3",
+        "verseKey": "kjv:mark:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:2:4",
+      "numberLabel": "4",
+      "text": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay.",
+      "metadata": {
+        "reference": "Mark 2:4",
+        "verseKey": "kjv:mark:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:2:5",
+      "numberLabel": "5",
+      "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.",
+      "metadata": {
+        "reference": "Mark 2:5",
+        "verseKey": "kjv:mark:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:2:6",
+      "numberLabel": "6",
+      "text": "But there were certain of the scribes sitting there, and reasoning in their hearts,",
+      "metadata": {
+        "reference": "Mark 2:6",
+        "verseKey": "kjv:mark:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:2:7",
+      "numberLabel": "7",
+      "text": "Why doth this man thus speak blasphemies? who can forgive sins but God only?",
+      "metadata": {
+        "reference": "Mark 2:7",
+        "verseKey": "kjv:mark:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:2:8",
+      "numberLabel": "8",
+      "text": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?",
+      "metadata": {
+        "reference": "Mark 2:8",
+        "verseKey": "kjv:mark:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:2:9",
+      "numberLabel": "9",
+      "text": "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?",
+      "metadata": {
+        "reference": "Mark 2:9",
+        "verseKey": "kjv:mark:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:2:10",
+      "numberLabel": "10",
+      "text": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)",
+      "metadata": {
+        "reference": "Mark 2:10",
+        "verseKey": "kjv:mark:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:2:11",
+      "numberLabel": "11",
+      "text": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house.",
+      "metadata": {
+        "reference": "Mark 2:11",
+        "verseKey": "kjv:mark:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:2:12",
+      "numberLabel": "12",
+      "text": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion.",
+      "metadata": {
+        "reference": "Mark 2:12",
+        "verseKey": "kjv:mark:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:2:13",
+      "numberLabel": "13",
+      "text": "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.",
+      "metadata": {
+        "reference": "Mark 2:13",
+        "verseKey": "kjv:mark:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:2:14",
+      "numberLabel": "14",
+      "text": "And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him.",
+      "metadata": {
+        "reference": "Mark 2:14",
+        "verseKey": "kjv:mark:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:2:15",
+      "numberLabel": "15",
+      "text": "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.",
+      "metadata": {
+        "reference": "Mark 2:15",
+        "verseKey": "kjv:mark:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:2:16",
+      "numberLabel": "16",
+      "text": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?",
+      "metadata": {
+        "reference": "Mark 2:16",
+        "verseKey": "kjv:mark:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:2:17",
+      "numberLabel": "17",
+      "text": "When Jesus heard it, he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.",
+      "metadata": {
+        "reference": "Mark 2:17",
+        "verseKey": "kjv:mark:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:2:18",
+      "numberLabel": "18",
+      "text": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?",
+      "metadata": {
+        "reference": "Mark 2:18",
+        "verseKey": "kjv:mark:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:2:19",
+      "numberLabel": "19",
+      "text": "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.",
+      "metadata": {
+        "reference": "Mark 2:19",
+        "verseKey": "kjv:mark:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:2:20",
+      "numberLabel": "20",
+      "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+      "metadata": {
+        "reference": "Mark 2:20",
+        "verseKey": "kjv:mark:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:2:21",
+      "numberLabel": "21",
+      "text": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.",
+      "metadata": {
+        "reference": "Mark 2:21",
+        "verseKey": "kjv:mark:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:2:22",
+      "numberLabel": "22",
+      "text": "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.",
+      "metadata": {
+        "reference": "Mark 2:22",
+        "verseKey": "kjv:mark:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:2:23",
+      "numberLabel": "23",
+      "text": "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.",
+      "metadata": {
+        "reference": "Mark 2:23",
+        "verseKey": "kjv:mark:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:2:24",
+      "numberLabel": "24",
+      "text": "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?",
+      "metadata": {
+        "reference": "Mark 2:24",
+        "verseKey": "kjv:mark:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:2:25",
+      "numberLabel": "25",
+      "text": "And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?",
+      "metadata": {
+        "reference": "Mark 2:25",
+        "verseKey": "kjv:mark:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:2:26",
+      "numberLabel": "26",
+      "text": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?",
+      "metadata": {
+        "reference": "Mark 2:26",
+        "verseKey": "kjv:mark:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:2:27",
+      "numberLabel": "27",
+      "text": "And he said unto them, The sabbath was made for man, and not man for the sabbath:",
+      "metadata": {
+        "reference": "Mark 2:27",
+        "verseKey": "kjv:mark:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:2:28",
+      "numberLabel": "28",
+      "text": "Therefore the Son of man is Lord also of the sabbath.",
+      "metadata": {
+        "reference": "Mark 2:28",
+        "verseKey": "kjv:mark:2:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

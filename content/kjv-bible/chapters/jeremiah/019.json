@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Jeremiah 19",
+  "display_title": "Jeremiah 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 24019,
+  "verseCount": 15,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:19:1",
+      "numberLabel": "1",
+      "text": "Thus saith the LORD, Go and get a potter’s earthen bottle, and take of the ancients of the people, and of the ancients of the priests;",
+      "metadata": {
+        "reference": "Jeremiah 19:1",
+        "verseKey": "kjv:jeremiah:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:19:2",
+      "numberLabel": "2",
+      "text": "And go forth unto the valley of the son of Hinnom, which is by the entry of the east gate, and proclaim there the words that I shall tell thee,",
+      "metadata": {
+        "reference": "Jeremiah 19:2",
+        "verseKey": "kjv:jeremiah:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:19:3",
+      "numberLabel": "3",
+      "text": "And say, Hear ye the word of the LORD, O kings of Judah, and inhabitants of Jerusalem; Thus saith the LORD of hosts, the God of Israel; Behold, I will bring evil upon this place, the which whosoever heareth, his ears shall tingle.",
+      "metadata": {
+        "reference": "Jeremiah 19:3",
+        "verseKey": "kjv:jeremiah:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:19:4",
+      "numberLabel": "4",
+      "text": "Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;",
+      "metadata": {
+        "reference": "Jeremiah 19:4",
+        "verseKey": "kjv:jeremiah:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:19:5",
+      "numberLabel": "5",
+      "text": "They have built also the high places of Baal, to burn their sons with fire for burnt offerings unto Baal, which I commanded not, nor spake it, neither came it into my mind:",
+      "metadata": {
+        "reference": "Jeremiah 19:5",
+        "verseKey": "kjv:jeremiah:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:19:6",
+      "numberLabel": "6",
+      "text": "Therefore, behold, the days come, saith the LORD, that this place shall no more be called Tophet, nor The valley of the son of Hinnom, but The valley of slaughter.",
+      "metadata": {
+        "reference": "Jeremiah 19:6",
+        "verseKey": "kjv:jeremiah:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:19:7",
+      "numberLabel": "7",
+      "text": "And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.",
+      "metadata": {
+        "reference": "Jeremiah 19:7",
+        "verseKey": "kjv:jeremiah:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:19:8",
+      "numberLabel": "8",
+      "text": "And I will make this city desolate, and an hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof.",
+      "metadata": {
+        "reference": "Jeremiah 19:8",
+        "verseKey": "kjv:jeremiah:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:19:9",
+      "numberLabel": "9",
+      "text": "And I will cause them to eat the flesh of their sons and the flesh of their daughters, and they shall eat every one the flesh of his friend in the siege and straitness, wherewith their enemies, and they that seek their lives, shall straiten them.",
+      "metadata": {
+        "reference": "Jeremiah 19:9",
+        "verseKey": "kjv:jeremiah:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:19:10",
+      "numberLabel": "10",
+      "text": "Then shalt thou break the bottle in the sight of the men that go with thee,",
+      "metadata": {
+        "reference": "Jeremiah 19:10",
+        "verseKey": "kjv:jeremiah:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:19:11",
+      "numberLabel": "11",
+      "text": "And shalt say unto them, Thus saith the LORD of hosts; Even so will I break this people and this city, as one breaketh a potter’s vessel, that cannot be made whole again: and they shall bury them in Tophet, till there be no place to bury.",
+      "metadata": {
+        "reference": "Jeremiah 19:11",
+        "verseKey": "kjv:jeremiah:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:19:12",
+      "numberLabel": "12",
+      "text": "Thus will I do unto this place, saith the LORD, and to the inhabitants thereof, and even make this city as Tophet:",
+      "metadata": {
+        "reference": "Jeremiah 19:12",
+        "verseKey": "kjv:jeremiah:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:19:13",
+      "numberLabel": "13",
+      "text": "And the houses of Jerusalem, and the houses of the kings of Judah, shall be defiled as the place of Tophet, because of all the houses upon whose roofs they have burned incense unto all the host of heaven, and have poured out drink offerings unto other gods.",
+      "metadata": {
+        "reference": "Jeremiah 19:13",
+        "verseKey": "kjv:jeremiah:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:19:14",
+      "numberLabel": "14",
+      "text": "Then came Jeremiah from Tophet, whither the LORD had sent him to prophesy; and he stood in the court of the LORD’s house; and said to all the people,",
+      "metadata": {
+        "reference": "Jeremiah 19:14",
+        "verseKey": "kjv:jeremiah:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:19:15",
+      "numberLabel": "15",
+      "text": "Thus saith the LORD of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words.",
+      "metadata": {
+        "reference": "Jeremiah 19:15",
+        "verseKey": "kjv:jeremiah:19:15"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-079",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 79,
+  "title": "Psalms 79",
+  "display_title": "Psalms 79",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 79,
+  "sortOrder": 19079,
+  "verseCount": 13,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:79:1",
+      "numberLabel": "1",
+      "text": "O GOD, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
+      "metadata": {
+        "reference": "Psalms 79:1",
+        "verseKey": "kjv:psalms:79:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:79:2",
+      "numberLabel": "2",
+      "text": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.",
+      "metadata": {
+        "reference": "Psalms 79:2",
+        "verseKey": "kjv:psalms:79:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:79:3",
+      "numberLabel": "3",
+      "text": "Their blood have they shed like water round about Jerusalem; and there was none to bury them.",
+      "metadata": {
+        "reference": "Psalms 79:3",
+        "verseKey": "kjv:psalms:79:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:79:4",
+      "numberLabel": "4",
+      "text": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us.",
+      "metadata": {
+        "reference": "Psalms 79:4",
+        "verseKey": "kjv:psalms:79:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:79:5",
+      "numberLabel": "5",
+      "text": "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+      "metadata": {
+        "reference": "Psalms 79:5",
+        "verseKey": "kjv:psalms:79:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:79:6",
+      "numberLabel": "6",
+      "text": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.",
+      "metadata": {
+        "reference": "Psalms 79:6",
+        "verseKey": "kjv:psalms:79:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:79:7",
+      "numberLabel": "7",
+      "text": "For they have devoured Jacob, and laid waste his dwelling place.",
+      "metadata": {
+        "reference": "Psalms 79:7",
+        "verseKey": "kjv:psalms:79:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:79:8",
+      "numberLabel": "8",
+      "text": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.",
+      "metadata": {
+        "reference": "Psalms 79:8",
+        "verseKey": "kjv:psalms:79:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:79:9",
+      "numberLabel": "9",
+      "text": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name’s sake.",
+      "metadata": {
+        "reference": "Psalms 79:9",
+        "verseKey": "kjv:psalms:79:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:79:10",
+      "numberLabel": "10",
+      "text": "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed.",
+      "metadata": {
+        "reference": "Psalms 79:10",
+        "verseKey": "kjv:psalms:79:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:79:11",
+      "numberLabel": "11",
+      "text": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;",
+      "metadata": {
+        "reference": "Psalms 79:11",
+        "verseKey": "kjv:psalms:79:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:79:12",
+      "numberLabel": "12",
+      "text": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.",
+      "metadata": {
+        "reference": "Psalms 79:12",
+        "verseKey": "kjv:psalms:79:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:79:13",
+      "numberLabel": "13",
+      "text": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.",
+      "metadata": {
+        "reference": "Psalms 79:13",
+        "verseKey": "kjv:psalms:79:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

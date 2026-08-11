@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-micah-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Micah 5",
+  "display_title": "Micah 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "micah",
+  "book": "Micah",
+  "bookName": "Micah",
+  "bookOrder": 33,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 33005,
+  "verseCount": 15,
+  "aliases": [
+    "Mic",
+    "Mi"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:micah:5:1",
+      "numberLabel": "1",
+      "text": "Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.",
+      "metadata": {
+        "reference": "Micah 5:1",
+        "verseKey": "kjv:micah:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:micah:5:2",
+      "numberLabel": "2",
+      "text": "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.",
+      "metadata": {
+        "reference": "Micah 5:2",
+        "verseKey": "kjv:micah:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:micah:5:3",
+      "numberLabel": "3",
+      "text": "Therefore will he give them up, until the time that she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel.",
+      "metadata": {
+        "reference": "Micah 5:3",
+        "verseKey": "kjv:micah:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:micah:5:4",
+      "numberLabel": "4",
+      "text": "And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth.",
+      "metadata": {
+        "reference": "Micah 5:4",
+        "verseKey": "kjv:micah:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:micah:5:5",
+      "numberLabel": "5",
+      "text": "And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.",
+      "metadata": {
+        "reference": "Micah 5:5",
+        "verseKey": "kjv:micah:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:micah:5:6",
+      "numberLabel": "6",
+      "text": "And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.",
+      "metadata": {
+        "reference": "Micah 5:6",
+        "verseKey": "kjv:micah:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:micah:5:7",
+      "numberLabel": "7",
+      "text": "And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.",
+      "metadata": {
+        "reference": "Micah 5:7",
+        "verseKey": "kjv:micah:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:micah:5:8",
+      "numberLabel": "8",
+      "text": "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.",
+      "metadata": {
+        "reference": "Micah 5:8",
+        "verseKey": "kjv:micah:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:micah:5:9",
+      "numberLabel": "9",
+      "text": "Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.",
+      "metadata": {
+        "reference": "Micah 5:9",
+        "verseKey": "kjv:micah:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:micah:5:10",
+      "numberLabel": "10",
+      "text": "And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:",
+      "metadata": {
+        "reference": "Micah 5:10",
+        "verseKey": "kjv:micah:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:micah:5:11",
+      "numberLabel": "11",
+      "text": "And I will cut off the cities of thy land, and throw down all thy strong holds:",
+      "metadata": {
+        "reference": "Micah 5:11",
+        "verseKey": "kjv:micah:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:micah:5:12",
+      "numberLabel": "12",
+      "text": "And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:",
+      "metadata": {
+        "reference": "Micah 5:12",
+        "verseKey": "kjv:micah:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:micah:5:13",
+      "numberLabel": "13",
+      "text": "Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.",
+      "metadata": {
+        "reference": "Micah 5:13",
+        "verseKey": "kjv:micah:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:micah:5:14",
+      "numberLabel": "14",
+      "text": "And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.",
+      "metadata": {
+        "reference": "Micah 5:14",
+        "verseKey": "kjv:micah:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:micah:5:15",
+      "numberLabel": "15",
+      "text": "And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.",
+      "metadata": {
+        "reference": "Micah 5:15",
+        "verseKey": "kjv:micah:5:15"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Micah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Micah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

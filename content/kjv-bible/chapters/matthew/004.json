@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Matthew 4",
+  "display_title": "Matthew 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 40004,
+  "verseCount": 25,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:4:1",
+      "numberLabel": "1",
+      "text": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
+      "metadata": {
+        "reference": "Matthew 4:1",
+        "verseKey": "kjv:matthew:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:4:2",
+      "numberLabel": "2",
+      "text": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
+      "metadata": {
+        "reference": "Matthew 4:2",
+        "verseKey": "kjv:matthew:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:4:3",
+      "numberLabel": "3",
+      "text": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
+      "metadata": {
+        "reference": "Matthew 4:3",
+        "verseKey": "kjv:matthew:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:4:4",
+      "numberLabel": "4",
+      "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+      "metadata": {
+        "reference": "Matthew 4:4",
+        "verseKey": "kjv:matthew:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:4:5",
+      "numberLabel": "5",
+      "text": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,",
+      "metadata": {
+        "reference": "Matthew 4:5",
+        "verseKey": "kjv:matthew:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:4:6",
+      "numberLabel": "6",
+      "text": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
+      "metadata": {
+        "reference": "Matthew 4:6",
+        "verseKey": "kjv:matthew:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:4:7",
+      "numberLabel": "7",
+      "text": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.",
+      "metadata": {
+        "reference": "Matthew 4:7",
+        "verseKey": "kjv:matthew:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:4:8",
+      "numberLabel": "8",
+      "text": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
+      "metadata": {
+        "reference": "Matthew 4:8",
+        "verseKey": "kjv:matthew:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:4:9",
+      "numberLabel": "9",
+      "text": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
+      "metadata": {
+        "reference": "Matthew 4:9",
+        "verseKey": "kjv:matthew:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:4:10",
+      "numberLabel": "10",
+      "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.",
+      "metadata": {
+        "reference": "Matthew 4:10",
+        "verseKey": "kjv:matthew:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:4:11",
+      "numberLabel": "11",
+      "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
+      "metadata": {
+        "reference": "Matthew 4:11",
+        "verseKey": "kjv:matthew:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:4:12",
+      "numberLabel": "12",
+      "text": "Now when Jesus had heard that John was cast into prison, he departed into Galilee;",
+      "metadata": {
+        "reference": "Matthew 4:12",
+        "verseKey": "kjv:matthew:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:4:13",
+      "numberLabel": "13",
+      "text": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:",
+      "metadata": {
+        "reference": "Matthew 4:13",
+        "verseKey": "kjv:matthew:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:4:14",
+      "numberLabel": "14",
+      "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
+      "metadata": {
+        "reference": "Matthew 4:14",
+        "verseKey": "kjv:matthew:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:4:15",
+      "numberLabel": "15",
+      "text": "The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;",
+      "metadata": {
+        "reference": "Matthew 4:15",
+        "verseKey": "kjv:matthew:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:4:16",
+      "numberLabel": "16",
+      "text": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.",
+      "metadata": {
+        "reference": "Matthew 4:16",
+        "verseKey": "kjv:matthew:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:4:17",
+      "numberLabel": "17",
+      "text": "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.",
+      "metadata": {
+        "reference": "Matthew 4:17",
+        "verseKey": "kjv:matthew:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:4:18",
+      "numberLabel": "18",
+      "text": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.",
+      "metadata": {
+        "reference": "Matthew 4:18",
+        "verseKey": "kjv:matthew:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:4:19",
+      "numberLabel": "19",
+      "text": "And he saith unto them, Follow me, and I will make you fishers of men.",
+      "metadata": {
+        "reference": "Matthew 4:19",
+        "verseKey": "kjv:matthew:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:4:20",
+      "numberLabel": "20",
+      "text": "And they straightway left their nets, and followed him.",
+      "metadata": {
+        "reference": "Matthew 4:20",
+        "verseKey": "kjv:matthew:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:4:21",
+      "numberLabel": "21",
+      "text": "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
+      "metadata": {
+        "reference": "Matthew 4:21",
+        "verseKey": "kjv:matthew:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:4:22",
+      "numberLabel": "22",
+      "text": "And they immediately left the ship and their father, and followed him.",
+      "metadata": {
+        "reference": "Matthew 4:22",
+        "verseKey": "kjv:matthew:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:4:23",
+      "numberLabel": "23",
+      "text": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.",
+      "metadata": {
+        "reference": "Matthew 4:23",
+        "verseKey": "kjv:matthew:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:4:24",
+      "numberLabel": "24",
+      "text": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.",
+      "metadata": {
+        "reference": "Matthew 4:24",
+        "verseKey": "kjv:matthew:4:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:4:25",
+      "numberLabel": "25",
+      "text": "And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.",
+      "metadata": {
+        "reference": "Matthew 4:25",
+        "verseKey": "kjv:matthew:4:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

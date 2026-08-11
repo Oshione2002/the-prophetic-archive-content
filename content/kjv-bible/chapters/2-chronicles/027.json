@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-chronicles-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "2 Chronicles 27",
+  "display_title": "2 Chronicles 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-chronicles",
+  "book": "2 Chronicles",
+  "bookName": "2 Chronicles",
+  "bookOrder": 14,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 14027,
+  "verseCount": 9,
+  "aliases": [
+    "2 Chr",
+    "2Chr",
+    "2 Ch",
+    "2Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-chronicles:27:1",
+      "numberLabel": "1",
+      "text": "Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also was Jerushah, the daughter of Zadok.",
+      "metadata": {
+        "reference": "2 Chronicles 27:1",
+        "verseKey": "kjv:2-chronicles:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-chronicles:27:2",
+      "numberLabel": "2",
+      "text": "And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly.",
+      "metadata": {
+        "reference": "2 Chronicles 27:2",
+        "verseKey": "kjv:2-chronicles:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-chronicles:27:3",
+      "numberLabel": "3",
+      "text": "He built the high gate of the house of the LORD, and on the wall of Ophel he built much.",
+      "metadata": {
+        "reference": "2 Chronicles 27:3",
+        "verseKey": "kjv:2-chronicles:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-chronicles:27:4",
+      "numberLabel": "4",
+      "text": "Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.",
+      "metadata": {
+        "reference": "2 Chronicles 27:4",
+        "verseKey": "kjv:2-chronicles:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-chronicles:27:5",
+      "numberLabel": "5",
+      "text": "He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third.",
+      "metadata": {
+        "reference": "2 Chronicles 27:5",
+        "verseKey": "kjv:2-chronicles:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-chronicles:27:6",
+      "numberLabel": "6",
+      "text": "So Jotham became mighty, because he prepared his ways before the LORD his God.",
+      "metadata": {
+        "reference": "2 Chronicles 27:6",
+        "verseKey": "kjv:2-chronicles:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-chronicles:27:7",
+      "numberLabel": "7",
+      "text": "Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah.",
+      "metadata": {
+        "reference": "2 Chronicles 27:7",
+        "verseKey": "kjv:2-chronicles:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-chronicles:27:8",
+      "numberLabel": "8",
+      "text": "He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.",
+      "metadata": {
+        "reference": "2 Chronicles 27:8",
+        "verseKey": "kjv:2-chronicles:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-chronicles:27:9",
+      "numberLabel": "9",
+      "text": "And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.",
+      "metadata": {
+        "reference": "2 Chronicles 27:9",
+        "verseKey": "kjv:2-chronicles:27:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

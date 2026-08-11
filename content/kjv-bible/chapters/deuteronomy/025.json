@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Deuteronomy 25",
+  "display_title": "Deuteronomy 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 5025,
+  "verseCount": 19,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:25:1",
+      "numberLabel": "1",
+      "text": "If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.",
+      "metadata": {
+        "reference": "Deuteronomy 25:1",
+        "verseKey": "kjv:deuteronomy:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:25:2",
+      "numberLabel": "2",
+      "text": "And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.",
+      "metadata": {
+        "reference": "Deuteronomy 25:2",
+        "verseKey": "kjv:deuteronomy:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:25:3",
+      "numberLabel": "3",
+      "text": "Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.",
+      "metadata": {
+        "reference": "Deuteronomy 25:3",
+        "verseKey": "kjv:deuteronomy:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:25:4",
+      "numberLabel": "4",
+      "text": "Thou shalt not muzzle the ox when he treadeth out the corn.",
+      "metadata": {
+        "reference": "Deuteronomy 25:4",
+        "verseKey": "kjv:deuteronomy:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:25:5",
+      "numberLabel": "5",
+      "text": "If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her.",
+      "metadata": {
+        "reference": "Deuteronomy 25:5",
+        "verseKey": "kjv:deuteronomy:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:25:6",
+      "numberLabel": "6",
+      "text": "And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel.",
+      "metadata": {
+        "reference": "Deuteronomy 25:6",
+        "verseKey": "kjv:deuteronomy:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:25:7",
+      "numberLabel": "7",
+      "text": "And if the man like not to take his brother’s wife, then let his brother’s wife go up to the gate unto the elders, and say, My husband’s brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband’s brother.",
+      "metadata": {
+        "reference": "Deuteronomy 25:7",
+        "verseKey": "kjv:deuteronomy:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:25:8",
+      "numberLabel": "8",
+      "text": "Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her;",
+      "metadata": {
+        "reference": "Deuteronomy 25:8",
+        "verseKey": "kjv:deuteronomy:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:25:9",
+      "numberLabel": "9",
+      "text": "Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house.",
+      "metadata": {
+        "reference": "Deuteronomy 25:9",
+        "verseKey": "kjv:deuteronomy:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:25:10",
+      "numberLabel": "10",
+      "text": "And his name shall be called in Israel, The house of him that hath his shoe loosed.",
+      "metadata": {
+        "reference": "Deuteronomy 25:10",
+        "verseKey": "kjv:deuteronomy:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:25:11",
+      "numberLabel": "11",
+      "text": "When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:",
+      "metadata": {
+        "reference": "Deuteronomy 25:11",
+        "verseKey": "kjv:deuteronomy:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:25:12",
+      "numberLabel": "12",
+      "text": "Then thou shalt cut off her hand, thine eye shall not pity her.",
+      "metadata": {
+        "reference": "Deuteronomy 25:12",
+        "verseKey": "kjv:deuteronomy:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:25:13",
+      "numberLabel": "13",
+      "text": "Thou shalt not have in thy bag divers weights, a great and a small.",
+      "metadata": {
+        "reference": "Deuteronomy 25:13",
+        "verseKey": "kjv:deuteronomy:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:25:14",
+      "numberLabel": "14",
+      "text": "Thou shalt not have in thine house divers measures, a great and a small.",
+      "metadata": {
+        "reference": "Deuteronomy 25:14",
+        "verseKey": "kjv:deuteronomy:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:25:15",
+      "numberLabel": "15",
+      "text": "But thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee.",
+      "metadata": {
+        "reference": "Deuteronomy 25:15",
+        "verseKey": "kjv:deuteronomy:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:25:16",
+      "numberLabel": "16",
+      "text": "For all that do such things, and all that do unrighteously, are an abomination unto the LORD thy God.",
+      "metadata": {
+        "reference": "Deuteronomy 25:16",
+        "verseKey": "kjv:deuteronomy:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:25:17",
+      "numberLabel": "17",
+      "text": "Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;",
+      "metadata": {
+        "reference": "Deuteronomy 25:17",
+        "verseKey": "kjv:deuteronomy:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:25:18",
+      "numberLabel": "18",
+      "text": "How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God.",
+      "metadata": {
+        "reference": "Deuteronomy 25:18",
+        "verseKey": "kjv:deuteronomy:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:25:19",
+      "numberLabel": "19",
+      "text": "Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it.",
+      "metadata": {
+        "reference": "Deuteronomy 25:19",
+        "verseKey": "kjv:deuteronomy:25:19"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-3-john-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "3 John 1",
+  "display_title": "3 John 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "3-john",
+  "book": "3 John",
+  "bookName": "3 John",
+  "bookOrder": 64,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 64001,
+  "verseCount": 14,
+  "aliases": [
+    "3 John",
+    "3John",
+    "3 Jn",
+    "3Jn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:3-john:1:1",
+      "numberLabel": "1",
+      "text": "The elder unto the wellbeloved Gaius, whom I love in the truth.",
+      "metadata": {
+        "reference": "3 John 1:1",
+        "verseKey": "kjv:3-john:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:3-john:1:2",
+      "numberLabel": "2",
+      "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.",
+      "metadata": {
+        "reference": "3 John 1:2",
+        "verseKey": "kjv:3-john:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:3-john:1:3",
+      "numberLabel": "3",
+      "text": "For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.",
+      "metadata": {
+        "reference": "3 John 1:3",
+        "verseKey": "kjv:3-john:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:3-john:1:4",
+      "numberLabel": "4",
+      "text": "I have no greater joy than to hear that my children walk in truth.",
+      "metadata": {
+        "reference": "3 John 1:4",
+        "verseKey": "kjv:3-john:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:3-john:1:5",
+      "numberLabel": "5",
+      "text": "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;",
+      "metadata": {
+        "reference": "3 John 1:5",
+        "verseKey": "kjv:3-john:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:3-john:1:6",
+      "numberLabel": "6",
+      "text": "Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:",
+      "metadata": {
+        "reference": "3 John 1:6",
+        "verseKey": "kjv:3-john:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:3-john:1:7",
+      "numberLabel": "7",
+      "text": "Because that for his name’s sake they went forth, taking nothing of the Gentiles.",
+      "metadata": {
+        "reference": "3 John 1:7",
+        "verseKey": "kjv:3-john:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:3-john:1:8",
+      "numberLabel": "8",
+      "text": "We therefore ought to receive such, that we might be fellowhelpers to the truth.",
+      "metadata": {
+        "reference": "3 John 1:8",
+        "verseKey": "kjv:3-john:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:3-john:1:9",
+      "numberLabel": "9",
+      "text": "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.",
+      "metadata": {
+        "reference": "3 John 1:9",
+        "verseKey": "kjv:3-john:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:3-john:1:10",
+      "numberLabel": "10",
+      "text": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.",
+      "metadata": {
+        "reference": "3 John 1:10",
+        "verseKey": "kjv:3-john:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:3-john:1:11",
+      "numberLabel": "11",
+      "text": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.",
+      "metadata": {
+        "reference": "3 John 1:11",
+        "verseKey": "kjv:3-john:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:3-john:1:12",
+      "numberLabel": "12",
+      "text": "Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.",
+      "metadata": {
+        "reference": "3 John 1:12",
+        "verseKey": "kjv:3-john:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:3-john:1:13",
+      "numberLabel": "13",
+      "text": "I had many things to write, but I will not with ink and pen write unto thee:",
+      "metadata": {
+        "reference": "3 John 1:13",
+        "verseKey": "kjv:3-john:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:3-john:1:14",
+      "numberLabel": "14",
+      "text": "But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name.",
+      "metadata": {
+        "reference": "3 John 1:14",
+        "verseKey": "kjv:3-john:1:14"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "3John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/3John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

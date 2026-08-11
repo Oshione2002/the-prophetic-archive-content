@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joshua-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Joshua 6",
+  "display_title": "Joshua 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joshua",
+  "book": "Joshua",
+  "bookName": "Joshua",
+  "bookOrder": 6,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 6006,
+  "verseCount": 27,
+  "aliases": [
+    "Josh",
+    "Jos"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joshua:6:1",
+      "numberLabel": "1",
+      "text": "Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.",
+      "metadata": {
+        "reference": "Joshua 6:1",
+        "verseKey": "kjv:joshua:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joshua:6:2",
+      "numberLabel": "2",
+      "text": "And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valour.",
+      "metadata": {
+        "reference": "Joshua 6:2",
+        "verseKey": "kjv:joshua:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joshua:6:3",
+      "numberLabel": "3",
+      "text": "And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days.",
+      "metadata": {
+        "reference": "Joshua 6:3",
+        "verseKey": "kjv:joshua:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joshua:6:4",
+      "numberLabel": "4",
+      "text": "And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.",
+      "metadata": {
+        "reference": "Joshua 6:4",
+        "verseKey": "kjv:joshua:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joshua:6:5",
+      "numberLabel": "5",
+      "text": "And it shall come to pass, that when they make a long blast with the ram’s horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.",
+      "metadata": {
+        "reference": "Joshua 6:5",
+        "verseKey": "kjv:joshua:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joshua:6:6",
+      "numberLabel": "6",
+      "text": "And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the LORD.",
+      "metadata": {
+        "reference": "Joshua 6:6",
+        "verseKey": "kjv:joshua:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joshua:6:7",
+      "numberLabel": "7",
+      "text": "And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD.",
+      "metadata": {
+        "reference": "Joshua 6:7",
+        "verseKey": "kjv:joshua:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joshua:6:8",
+      "numberLabel": "8",
+      "text": "And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the LORD, and blew with the trumpets: and the ark of the covenant of the LORD followed them.",
+      "metadata": {
+        "reference": "Joshua 6:8",
+        "verseKey": "kjv:joshua:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joshua:6:9",
+      "numberLabel": "9",
+      "text": "And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, the priests going on, and blowing with the trumpets.",
+      "metadata": {
+        "reference": "Joshua 6:9",
+        "verseKey": "kjv:joshua:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joshua:6:10",
+      "numberLabel": "10",
+      "text": "And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.",
+      "metadata": {
+        "reference": "Joshua 6:10",
+        "verseKey": "kjv:joshua:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joshua:6:11",
+      "numberLabel": "11",
+      "text": "So the ark of the LORD compassed the city, going about it once: and they came into the camp, and lodged in the camp.",
+      "metadata": {
+        "reference": "Joshua 6:11",
+        "verseKey": "kjv:joshua:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joshua:6:12",
+      "numberLabel": "12",
+      "text": "And Joshua rose early in the morning, and the priests took up the ark of the LORD.",
+      "metadata": {
+        "reference": "Joshua 6:12",
+        "verseKey": "kjv:joshua:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joshua:6:13",
+      "numberLabel": "13",
+      "text": "And seven priests bearing seven trumpets of rams’ horns before the ark of the LORD went on continually, and blew with the trumpets: and the armed men went before them; but the rereward came after the ark of the LORD, the priests going on, and blowing with the trumpets.",
+      "metadata": {
+        "reference": "Joshua 6:13",
+        "verseKey": "kjv:joshua:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joshua:6:14",
+      "numberLabel": "14",
+      "text": "And the second day they compassed the city once, and returned into the camp: so they did six days.",
+      "metadata": {
+        "reference": "Joshua 6:14",
+        "verseKey": "kjv:joshua:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joshua:6:15",
+      "numberLabel": "15",
+      "text": "And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times.",
+      "metadata": {
+        "reference": "Joshua 6:15",
+        "verseKey": "kjv:joshua:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joshua:6:16",
+      "numberLabel": "16",
+      "text": "And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the LORD hath given you the city.",
+      "metadata": {
+        "reference": "Joshua 6:16",
+        "verseKey": "kjv:joshua:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joshua:6:17",
+      "numberLabel": "17",
+      "text": "And the city shall be accursed, even it, and all that are therein, to the LORD: only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent.",
+      "metadata": {
+        "reference": "Joshua 6:17",
+        "verseKey": "kjv:joshua:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joshua:6:18",
+      "numberLabel": "18",
+      "text": "And ye, in any wise keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.",
+      "metadata": {
+        "reference": "Joshua 6:18",
+        "verseKey": "kjv:joshua:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:joshua:6:19",
+      "numberLabel": "19",
+      "text": "But all the silver, and gold, and vessels of brass and iron, are consecrated unto the LORD: they shall come into the treasury of the LORD.",
+      "metadata": {
+        "reference": "Joshua 6:19",
+        "verseKey": "kjv:joshua:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:joshua:6:20",
+      "numberLabel": "20",
+      "text": "So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.",
+      "metadata": {
+        "reference": "Joshua 6:20",
+        "verseKey": "kjv:joshua:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:joshua:6:21",
+      "numberLabel": "21",
+      "text": "And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.",
+      "metadata": {
+        "reference": "Joshua 6:21",
+        "verseKey": "kjv:joshua:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:joshua:6:22",
+      "numberLabel": "22",
+      "text": "But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her.",
+      "metadata": {
+        "reference": "Joshua 6:22",
+        "verseKey": "kjv:joshua:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:joshua:6:23",
+      "numberLabel": "23",
+      "text": "And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.",
+      "metadata": {
+        "reference": "Joshua 6:23",
+        "verseKey": "kjv:joshua:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:joshua:6:24",
+      "numberLabel": "24",
+      "text": "And they burnt the city with fire, and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD.",
+      "metadata": {
+        "reference": "Joshua 6:24",
+        "verseKey": "kjv:joshua:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:joshua:6:25",
+      "numberLabel": "25",
+      "text": "And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.",
+      "metadata": {
+        "reference": "Joshua 6:25",
+        "verseKey": "kjv:joshua:6:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:joshua:6:26",
+      "numberLabel": "26",
+      "text": "And Joshua adjured them at that time, saying, Cursed be the man before the LORD, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest son shall he set up the gates of it.",
+      "metadata": {
+        "reference": "Joshua 6:26",
+        "verseKey": "kjv:joshua:6:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:joshua:6:27",
+      "numberLabel": "27",
+      "text": "So the LORD was with Joshua; and his fame was noised throughout all the country.",
+      "metadata": {
+        "reference": "Joshua 6:27",
+        "verseKey": "kjv:joshua:6:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joshua.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joshua.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

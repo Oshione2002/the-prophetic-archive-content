@@ -1,0 +1,512 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hebrews-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Hebrews 11",
+  "display_title": "Hebrews 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hebrews",
+  "book": "Hebrews",
+  "bookName": "Hebrews",
+  "bookOrder": 58,
+  "testament": "new",
+  "chapter": 11,
+  "sortOrder": 58011,
+  "verseCount": 40,
+  "aliases": [
+    "Heb",
+    "He"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hebrews:11:1",
+      "numberLabel": "1",
+      "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+      "metadata": {
+        "reference": "Hebrews 11:1",
+        "verseKey": "kjv:hebrews:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hebrews:11:2",
+      "numberLabel": "2",
+      "text": "For by it the elders obtained a good report.",
+      "metadata": {
+        "reference": "Hebrews 11:2",
+        "verseKey": "kjv:hebrews:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hebrews:11:3",
+      "numberLabel": "3",
+      "text": "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.",
+      "metadata": {
+        "reference": "Hebrews 11:3",
+        "verseKey": "kjv:hebrews:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hebrews:11:4",
+      "numberLabel": "4",
+      "text": "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.",
+      "metadata": {
+        "reference": "Hebrews 11:4",
+        "verseKey": "kjv:hebrews:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hebrews:11:5",
+      "numberLabel": "5",
+      "text": "By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.",
+      "metadata": {
+        "reference": "Hebrews 11:5",
+        "verseKey": "kjv:hebrews:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hebrews:11:6",
+      "numberLabel": "6",
+      "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+      "metadata": {
+        "reference": "Hebrews 11:6",
+        "verseKey": "kjv:hebrews:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hebrews:11:7",
+      "numberLabel": "7",
+      "text": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.",
+      "metadata": {
+        "reference": "Hebrews 11:7",
+        "verseKey": "kjv:hebrews:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hebrews:11:8",
+      "numberLabel": "8",
+      "text": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.",
+      "metadata": {
+        "reference": "Hebrews 11:8",
+        "verseKey": "kjv:hebrews:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hebrews:11:9",
+      "numberLabel": "9",
+      "text": "By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:",
+      "metadata": {
+        "reference": "Hebrews 11:9",
+        "verseKey": "kjv:hebrews:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hebrews:11:10",
+      "numberLabel": "10",
+      "text": "For he looked for a city which hath foundations, whose builder and maker is God.",
+      "metadata": {
+        "reference": "Hebrews 11:10",
+        "verseKey": "kjv:hebrews:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hebrews:11:11",
+      "numberLabel": "11",
+      "text": "Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised.",
+      "metadata": {
+        "reference": "Hebrews 11:11",
+        "verseKey": "kjv:hebrews:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:hebrews:11:12",
+      "numberLabel": "12",
+      "text": "Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.",
+      "metadata": {
+        "reference": "Hebrews 11:12",
+        "verseKey": "kjv:hebrews:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:hebrews:11:13",
+      "numberLabel": "13",
+      "text": "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.",
+      "metadata": {
+        "reference": "Hebrews 11:13",
+        "verseKey": "kjv:hebrews:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:hebrews:11:14",
+      "numberLabel": "14",
+      "text": "For they that say such things declare plainly that they seek a country.",
+      "metadata": {
+        "reference": "Hebrews 11:14",
+        "verseKey": "kjv:hebrews:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:hebrews:11:15",
+      "numberLabel": "15",
+      "text": "And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.",
+      "metadata": {
+        "reference": "Hebrews 11:15",
+        "verseKey": "kjv:hebrews:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:hebrews:11:16",
+      "numberLabel": "16",
+      "text": "But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.",
+      "metadata": {
+        "reference": "Hebrews 11:16",
+        "verseKey": "kjv:hebrews:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:hebrews:11:17",
+      "numberLabel": "17",
+      "text": "By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,",
+      "metadata": {
+        "reference": "Hebrews 11:17",
+        "verseKey": "kjv:hebrews:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:hebrews:11:18",
+      "numberLabel": "18",
+      "text": "Of whom it was said, That in Isaac shall thy seed be called:",
+      "metadata": {
+        "reference": "Hebrews 11:18",
+        "verseKey": "kjv:hebrews:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:hebrews:11:19",
+      "numberLabel": "19",
+      "text": "Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.",
+      "metadata": {
+        "reference": "Hebrews 11:19",
+        "verseKey": "kjv:hebrews:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:hebrews:11:20",
+      "numberLabel": "20",
+      "text": "By faith Isaac blessed Jacob and Esau concerning things to come.",
+      "metadata": {
+        "reference": "Hebrews 11:20",
+        "verseKey": "kjv:hebrews:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:hebrews:11:21",
+      "numberLabel": "21",
+      "text": "By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff.",
+      "metadata": {
+        "reference": "Hebrews 11:21",
+        "verseKey": "kjv:hebrews:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:hebrews:11:22",
+      "numberLabel": "22",
+      "text": "By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.",
+      "metadata": {
+        "reference": "Hebrews 11:22",
+        "verseKey": "kjv:hebrews:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:hebrews:11:23",
+      "numberLabel": "23",
+      "text": "By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king’s commandment.",
+      "metadata": {
+        "reference": "Hebrews 11:23",
+        "verseKey": "kjv:hebrews:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:hebrews:11:24",
+      "numberLabel": "24",
+      "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;",
+      "metadata": {
+        "reference": "Hebrews 11:24",
+        "verseKey": "kjv:hebrews:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:hebrews:11:25",
+      "numberLabel": "25",
+      "text": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;",
+      "metadata": {
+        "reference": "Hebrews 11:25",
+        "verseKey": "kjv:hebrews:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:hebrews:11:26",
+      "numberLabel": "26",
+      "text": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.",
+      "metadata": {
+        "reference": "Hebrews 11:26",
+        "verseKey": "kjv:hebrews:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:hebrews:11:27",
+      "numberLabel": "27",
+      "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
+      "metadata": {
+        "reference": "Hebrews 11:27",
+        "verseKey": "kjv:hebrews:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:hebrews:11:28",
+      "numberLabel": "28",
+      "text": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.",
+      "metadata": {
+        "reference": "Hebrews 11:28",
+        "verseKey": "kjv:hebrews:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:hebrews:11:29",
+      "numberLabel": "29",
+      "text": "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.",
+      "metadata": {
+        "reference": "Hebrews 11:29",
+        "verseKey": "kjv:hebrews:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:hebrews:11:30",
+      "numberLabel": "30",
+      "text": "By faith the walls of Jericho fell down, after they were compassed about seven days.",
+      "metadata": {
+        "reference": "Hebrews 11:30",
+        "verseKey": "kjv:hebrews:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:hebrews:11:31",
+      "numberLabel": "31",
+      "text": "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.",
+      "metadata": {
+        "reference": "Hebrews 11:31",
+        "verseKey": "kjv:hebrews:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:hebrews:11:32",
+      "numberLabel": "32",
+      "text": "And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:",
+      "metadata": {
+        "reference": "Hebrews 11:32",
+        "verseKey": "kjv:hebrews:11:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:hebrews:11:33",
+      "numberLabel": "33",
+      "text": "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,",
+      "metadata": {
+        "reference": "Hebrews 11:33",
+        "verseKey": "kjv:hebrews:11:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:hebrews:11:34",
+      "numberLabel": "34",
+      "text": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.",
+      "metadata": {
+        "reference": "Hebrews 11:34",
+        "verseKey": "kjv:hebrews:11:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:hebrews:11:35",
+      "numberLabel": "35",
+      "text": "Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:",
+      "metadata": {
+        "reference": "Hebrews 11:35",
+        "verseKey": "kjv:hebrews:11:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:hebrews:11:36",
+      "numberLabel": "36",
+      "text": "And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:",
+      "metadata": {
+        "reference": "Hebrews 11:36",
+        "verseKey": "kjv:hebrews:11:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:hebrews:11:37",
+      "numberLabel": "37",
+      "text": "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;",
+      "metadata": {
+        "reference": "Hebrews 11:37",
+        "verseKey": "kjv:hebrews:11:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:hebrews:11:38",
+      "numberLabel": "38",
+      "text": "(Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.",
+      "metadata": {
+        "reference": "Hebrews 11:38",
+        "verseKey": "kjv:hebrews:11:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:hebrews:11:39",
+      "numberLabel": "39",
+      "text": "And these all, having obtained a good report through faith, received not the promise:",
+      "metadata": {
+        "reference": "Hebrews 11:39",
+        "verseKey": "kjv:hebrews:11:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:hebrews:11:40",
+      "numberLabel": "40",
+      "text": "God having provided some better thing for us, that they without us should not be made perfect.",
+      "metadata": {
+        "reference": "Hebrews 11:40",
+        "verseKey": "kjv:hebrews:11:40"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hebrews.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hebrews.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

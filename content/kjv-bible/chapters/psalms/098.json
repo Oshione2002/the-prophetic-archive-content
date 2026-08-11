@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-098",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 98,
+  "title": "Psalms 98",
+  "display_title": "Psalms 98",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 98,
+  "sortOrder": 19098,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:98:1",
+      "numberLabel": "1",
+      "text": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+      "metadata": {
+        "reference": "Psalms 98:1",
+        "verseKey": "kjv:psalms:98:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:98:2",
+      "numberLabel": "2",
+      "text": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
+      "metadata": {
+        "reference": "Psalms 98:2",
+        "verseKey": "kjv:psalms:98:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:98:3",
+      "numberLabel": "3",
+      "text": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+      "metadata": {
+        "reference": "Psalms 98:3",
+        "verseKey": "kjv:psalms:98:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:98:4",
+      "numberLabel": "4",
+      "text": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+      "metadata": {
+        "reference": "Psalms 98:4",
+        "verseKey": "kjv:psalms:98:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:98:5",
+      "numberLabel": "5",
+      "text": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm.",
+      "metadata": {
+        "reference": "Psalms 98:5",
+        "verseKey": "kjv:psalms:98:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:98:6",
+      "numberLabel": "6",
+      "text": "With trumpets and sound of cornet make a joyful noise before the LORD, the King.",
+      "metadata": {
+        "reference": "Psalms 98:6",
+        "verseKey": "kjv:psalms:98:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:98:7",
+      "numberLabel": "7",
+      "text": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
+      "metadata": {
+        "reference": "Psalms 98:7",
+        "verseKey": "kjv:psalms:98:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:98:8",
+      "numberLabel": "8",
+      "text": "Let the floods clap their hands: let the hills be joyful together",
+      "metadata": {
+        "reference": "Psalms 98:8",
+        "verseKey": "kjv:psalms:98:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:98:9",
+      "numberLabel": "9",
+      "text": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+      "metadata": {
+        "reference": "Psalms 98:9",
+        "verseKey": "kjv:psalms:98:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

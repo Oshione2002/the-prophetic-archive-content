@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-035",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 35,
+  "title": "Isaiah 35",
+  "display_title": "Isaiah 35",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 35,
+  "sortOrder": 23035,
+  "verseCount": 10,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:35:1",
+      "numberLabel": "1",
+      "text": "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.",
+      "metadata": {
+        "reference": "Isaiah 35:1",
+        "verseKey": "kjv:isaiah:35:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:35:2",
+      "numberLabel": "2",
+      "text": "It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the LORD, and the excellency of our God.",
+      "metadata": {
+        "reference": "Isaiah 35:2",
+        "verseKey": "kjv:isaiah:35:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:35:3",
+      "numberLabel": "3",
+      "text": "Strengthen ye the weak hands, and confirm the feeble knees.",
+      "metadata": {
+        "reference": "Isaiah 35:3",
+        "verseKey": "kjv:isaiah:35:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:35:4",
+      "numberLabel": "4",
+      "text": "Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you.",
+      "metadata": {
+        "reference": "Isaiah 35:4",
+        "verseKey": "kjv:isaiah:35:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:35:5",
+      "numberLabel": "5",
+      "text": "Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.",
+      "metadata": {
+        "reference": "Isaiah 35:5",
+        "verseKey": "kjv:isaiah:35:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:35:6",
+      "numberLabel": "6",
+      "text": "Then shall the lame man leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert.",
+      "metadata": {
+        "reference": "Isaiah 35:6",
+        "verseKey": "kjv:isaiah:35:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:35:7",
+      "numberLabel": "7",
+      "text": "And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, shall be grass with reeds and rushes.",
+      "metadata": {
+        "reference": "Isaiah 35:7",
+        "verseKey": "kjv:isaiah:35:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:35:8",
+      "numberLabel": "8",
+      "text": "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein.",
+      "metadata": {
+        "reference": "Isaiah 35:8",
+        "verseKey": "kjv:isaiah:35:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:35:9",
+      "numberLabel": "9",
+      "text": "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:",
+      "metadata": {
+        "reference": "Isaiah 35:9",
+        "verseKey": "kjv:isaiah:35:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:35:10",
+      "numberLabel": "10",
+      "text": "And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.",
+      "metadata": {
+        "reference": "Isaiah 35:10",
+        "verseKey": "kjv:isaiah:35:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "1 Samuel 11",
+  "display_title": "1 Samuel 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 9011,
+  "verseCount": 15,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:11:1",
+      "numberLabel": "1",
+      "text": "Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.",
+      "metadata": {
+        "reference": "1 Samuel 11:1",
+        "verseKey": "kjv:1-samuel:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:11:2",
+      "numberLabel": "2",
+      "text": "And Nahash the Ammonite answered them, On this condition will I make a covenant with you, that I may thrust out all your right eyes, and lay it for a reproach upon all Israel.",
+      "metadata": {
+        "reference": "1 Samuel 11:2",
+        "verseKey": "kjv:1-samuel:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:11:3",
+      "numberLabel": "3",
+      "text": "And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.",
+      "metadata": {
+        "reference": "1 Samuel 11:3",
+        "verseKey": "kjv:1-samuel:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:11:4",
+      "numberLabel": "4",
+      "text": "Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.",
+      "metadata": {
+        "reference": "1 Samuel 11:4",
+        "verseKey": "kjv:1-samuel:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:11:5",
+      "numberLabel": "5",
+      "text": "And, behold, Saul came after the herd out of the field; and Saul said, What aileth the people that they weep? And they told him the tidings of the men of Jabesh.",
+      "metadata": {
+        "reference": "1 Samuel 11:5",
+        "verseKey": "kjv:1-samuel:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:11:6",
+      "numberLabel": "6",
+      "text": "And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.",
+      "metadata": {
+        "reference": "1 Samuel 11:6",
+        "verseKey": "kjv:1-samuel:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:11:7",
+      "numberLabel": "7",
+      "text": "And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.",
+      "metadata": {
+        "reference": "1 Samuel 11:7",
+        "verseKey": "kjv:1-samuel:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:11:8",
+      "numberLabel": "8",
+      "text": "And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.",
+      "metadata": {
+        "reference": "1 Samuel 11:8",
+        "verseKey": "kjv:1-samuel:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:11:9",
+      "numberLabel": "9",
+      "text": "And they said unto the messengers that came, Thus shall ye say unto the men of Jabeshgilead, To morrow, by that time the sun be hot, ye shall have help. And the messengers came and shewed it to the men of Jabesh; and they were glad.",
+      "metadata": {
+        "reference": "1 Samuel 11:9",
+        "verseKey": "kjv:1-samuel:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:11:10",
+      "numberLabel": "10",
+      "text": "Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.",
+      "metadata": {
+        "reference": "1 Samuel 11:10",
+        "verseKey": "kjv:1-samuel:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:11:11",
+      "numberLabel": "11",
+      "text": "And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.",
+      "metadata": {
+        "reference": "1 Samuel 11:11",
+        "verseKey": "kjv:1-samuel:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:11:12",
+      "numberLabel": "12",
+      "text": "And the people said unto Samuel, Who is he that said, Shall Saul reign over us? bring the men, that we may put them to death.",
+      "metadata": {
+        "reference": "1 Samuel 11:12",
+        "verseKey": "kjv:1-samuel:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:11:13",
+      "numberLabel": "13",
+      "text": "And Saul said, There shall not a man be put to death this day: for to day the LORD hath wrought salvation in Israel.",
+      "metadata": {
+        "reference": "1 Samuel 11:13",
+        "verseKey": "kjv:1-samuel:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:11:14",
+      "numberLabel": "14",
+      "text": "Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there.",
+      "metadata": {
+        "reference": "1 Samuel 11:14",
+        "verseKey": "kjv:1-samuel:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:11:15",
+      "numberLabel": "15",
+      "text": "And all the people went to Gilgal; and there they made Saul king before the LORD in Gilgal; and there they sacrificed sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly.",
+      "metadata": {
+        "reference": "1 Samuel 11:15",
+        "verseKey": "kjv:1-samuel:11:15"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

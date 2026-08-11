@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-kings-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "2 Kings 6",
+  "display_title": "2 Kings 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-kings",
+  "book": "2 Kings",
+  "bookName": "2 Kings",
+  "bookOrder": 12,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 12006,
+  "verseCount": 33,
+  "aliases": [
+    "2 Kgs",
+    "2Kgs",
+    "2 Ki",
+    "2Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-kings:6:1",
+      "numberLabel": "1",
+      "text": "And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.",
+      "metadata": {
+        "reference": "2 Kings 6:1",
+        "verseKey": "kjv:2-kings:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-kings:6:2",
+      "numberLabel": "2",
+      "text": "Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye.",
+      "metadata": {
+        "reference": "2 Kings 6:2",
+        "verseKey": "kjv:2-kings:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-kings:6:3",
+      "numberLabel": "3",
+      "text": "And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.",
+      "metadata": {
+        "reference": "2 Kings 6:3",
+        "verseKey": "kjv:2-kings:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-kings:6:4",
+      "numberLabel": "4",
+      "text": "So he went with them. And when they came to Jordan, they cut down wood.",
+      "metadata": {
+        "reference": "2 Kings 6:4",
+        "verseKey": "kjv:2-kings:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-kings:6:5",
+      "numberLabel": "5",
+      "text": "But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.",
+      "metadata": {
+        "reference": "2 Kings 6:5",
+        "verseKey": "kjv:2-kings:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-kings:6:6",
+      "numberLabel": "6",
+      "text": "And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast it in thither; and the iron did swim.",
+      "metadata": {
+        "reference": "2 Kings 6:6",
+        "verseKey": "kjv:2-kings:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-kings:6:7",
+      "numberLabel": "7",
+      "text": "Therefore said he, Take it up to thee. And he put out his hand, and took it.",
+      "metadata": {
+        "reference": "2 Kings 6:7",
+        "verseKey": "kjv:2-kings:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-kings:6:8",
+      "numberLabel": "8",
+      "text": "Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp.",
+      "metadata": {
+        "reference": "2 Kings 6:8",
+        "verseKey": "kjv:2-kings:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-kings:6:9",
+      "numberLabel": "9",
+      "text": "And the man of God sent unto the king of Israel, saying, Beware that thou pass not such a place; for thither the Syrians are come down.",
+      "metadata": {
+        "reference": "2 Kings 6:9",
+        "verseKey": "kjv:2-kings:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-kings:6:10",
+      "numberLabel": "10",
+      "text": "And the king of Israel sent to the place which the man of God told him and warned him of, and saved himself there, not once nor twice.",
+      "metadata": {
+        "reference": "2 Kings 6:10",
+        "verseKey": "kjv:2-kings:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-kings:6:11",
+      "numberLabel": "11",
+      "text": "Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said unto them, Will ye not shew me which of us is for the king of Israel?",
+      "metadata": {
+        "reference": "2 Kings 6:11",
+        "verseKey": "kjv:2-kings:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-kings:6:12",
+      "numberLabel": "12",
+      "text": "And one of his servants said, None, my lord, O king: but Elisha, the prophet that is in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.",
+      "metadata": {
+        "reference": "2 Kings 6:12",
+        "verseKey": "kjv:2-kings:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-kings:6:13",
+      "numberLabel": "13",
+      "text": "And he said, Go and spy where he is, that I may send and fetch him. And it was told him, saying, Behold, he is in Dothan.",
+      "metadata": {
+        "reference": "2 Kings 6:13",
+        "verseKey": "kjv:2-kings:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-kings:6:14",
+      "numberLabel": "14",
+      "text": "Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about.",
+      "metadata": {
+        "reference": "2 Kings 6:14",
+        "verseKey": "kjv:2-kings:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-kings:6:15",
+      "numberLabel": "15",
+      "text": "And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?",
+      "metadata": {
+        "reference": "2 Kings 6:15",
+        "verseKey": "kjv:2-kings:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-kings:6:16",
+      "numberLabel": "16",
+      "text": "And he answered, Fear not: for they that be with us are more than they that be with them.",
+      "metadata": {
+        "reference": "2 Kings 6:16",
+        "verseKey": "kjv:2-kings:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-kings:6:17",
+      "numberLabel": "17",
+      "text": "And Elisha prayed, and said, LORD, I pray thee, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and, behold, the mountain was full of horses and chariots of fire round about Elisha.",
+      "metadata": {
+        "reference": "2 Kings 6:17",
+        "verseKey": "kjv:2-kings:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-kings:6:18",
+      "numberLabel": "18",
+      "text": "And when they came down to him, Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha.",
+      "metadata": {
+        "reference": "2 Kings 6:18",
+        "verseKey": "kjv:2-kings:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-kings:6:19",
+      "numberLabel": "19",
+      "text": "And Elisha said unto them, This is not the way, neither is this the city: follow me, and I will bring you to the man whom ye seek. But he led them to Samaria.",
+      "metadata": {
+        "reference": "2 Kings 6:19",
+        "verseKey": "kjv:2-kings:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-kings:6:20",
+      "numberLabel": "20",
+      "text": "And it came to pass, when they were come into Samaria, that Elisha said, LORD, open the eyes of these men, that they may see. And the LORD opened their eyes, and they saw; and, behold, they were in the midst of Samaria.",
+      "metadata": {
+        "reference": "2 Kings 6:20",
+        "verseKey": "kjv:2-kings:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-kings:6:21",
+      "numberLabel": "21",
+      "text": "And the king of Israel said unto Elisha, when he saw them, My father, shall I smite them? shall I smite them?",
+      "metadata": {
+        "reference": "2 Kings 6:21",
+        "verseKey": "kjv:2-kings:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-kings:6:22",
+      "numberLabel": "22",
+      "text": "And he answered, Thou shalt not smite them: wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.",
+      "metadata": {
+        "reference": "2 Kings 6:22",
+        "verseKey": "kjv:2-kings:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-kings:6:23",
+      "numberLabel": "23",
+      "text": "And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.",
+      "metadata": {
+        "reference": "2 Kings 6:23",
+        "verseKey": "kjv:2-kings:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-kings:6:24",
+      "numberLabel": "24",
+      "text": "And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.",
+      "metadata": {
+        "reference": "2 Kings 6:24",
+        "verseKey": "kjv:2-kings:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-kings:6:25",
+      "numberLabel": "25",
+      "text": "And there was a great famine in Samaria: and, behold, they besieged it, until an ass’s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove’s dung for five pieces of silver.",
+      "metadata": {
+        "reference": "2 Kings 6:25",
+        "verseKey": "kjv:2-kings:6:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-kings:6:26",
+      "numberLabel": "26",
+      "text": "And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.",
+      "metadata": {
+        "reference": "2 Kings 6:26",
+        "verseKey": "kjv:2-kings:6:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-kings:6:27",
+      "numberLabel": "27",
+      "text": "And he said, If the LORD do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?",
+      "metadata": {
+        "reference": "2 Kings 6:27",
+        "verseKey": "kjv:2-kings:6:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-kings:6:28",
+      "numberLabel": "28",
+      "text": "And the king said unto her, What aileth thee? And she answered, This woman said unto me, Give thy son, that we may eat him to day, and we will eat my son to morrow.",
+      "metadata": {
+        "reference": "2 Kings 6:28",
+        "verseKey": "kjv:2-kings:6:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-kings:6:29",
+      "numberLabel": "29",
+      "text": "So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son.",
+      "metadata": {
+        "reference": "2 Kings 6:29",
+        "verseKey": "kjv:2-kings:6:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-kings:6:30",
+      "numberLabel": "30",
+      "text": "And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, he had sackcloth within upon his flesh.",
+      "metadata": {
+        "reference": "2 Kings 6:30",
+        "verseKey": "kjv:2-kings:6:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-kings:6:31",
+      "numberLabel": "31",
+      "text": "Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.",
+      "metadata": {
+        "reference": "2 Kings 6:31",
+        "verseKey": "kjv:2-kings:6:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:2-kings:6:32",
+      "numberLabel": "32",
+      "text": "But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: is not the sound of his master’s feet behind him?",
+      "metadata": {
+        "reference": "2 Kings 6:32",
+        "verseKey": "kjv:2-kings:6:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:2-kings:6:33",
+      "numberLabel": "33",
+      "text": "And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the LORD; what should I wait for the LORD any longer?",
+      "metadata": {
+        "reference": "2 Kings 6:33",
+        "verseKey": "kjv:2-kings:6:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

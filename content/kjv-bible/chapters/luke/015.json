@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Luke 15",
+  "display_title": "Luke 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 15,
+  "sortOrder": 42015,
+  "verseCount": 32,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:15:1",
+      "numberLabel": "1",
+      "text": "Then drew near unto him all the publicans and sinners for to hear him.",
+      "metadata": {
+        "reference": "Luke 15:1",
+        "verseKey": "kjv:luke:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:15:2",
+      "numberLabel": "2",
+      "text": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.",
+      "metadata": {
+        "reference": "Luke 15:2",
+        "verseKey": "kjv:luke:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:15:3",
+      "numberLabel": "3",
+      "text": "And he spake this parable unto them, saying,",
+      "metadata": {
+        "reference": "Luke 15:3",
+        "verseKey": "kjv:luke:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:15:4",
+      "numberLabel": "4",
+      "text": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?",
+      "metadata": {
+        "reference": "Luke 15:4",
+        "verseKey": "kjv:luke:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:15:5",
+      "numberLabel": "5",
+      "text": "And when he hath found it, he layeth it on his shoulders, rejoicing.",
+      "metadata": {
+        "reference": "Luke 15:5",
+        "verseKey": "kjv:luke:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:15:6",
+      "numberLabel": "6",
+      "text": "And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.",
+      "metadata": {
+        "reference": "Luke 15:6",
+        "verseKey": "kjv:luke:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:15:7",
+      "numberLabel": "7",
+      "text": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.",
+      "metadata": {
+        "reference": "Luke 15:7",
+        "verseKey": "kjv:luke:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:15:8",
+      "numberLabel": "8",
+      "text": "Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?",
+      "metadata": {
+        "reference": "Luke 15:8",
+        "verseKey": "kjv:luke:15:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:15:9",
+      "numberLabel": "9",
+      "text": "And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.",
+      "metadata": {
+        "reference": "Luke 15:9",
+        "verseKey": "kjv:luke:15:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:15:10",
+      "numberLabel": "10",
+      "text": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.",
+      "metadata": {
+        "reference": "Luke 15:10",
+        "verseKey": "kjv:luke:15:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:15:11",
+      "numberLabel": "11",
+      "text": "And he said, A certain man had two sons:",
+      "metadata": {
+        "reference": "Luke 15:11",
+        "verseKey": "kjv:luke:15:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:15:12",
+      "numberLabel": "12",
+      "text": "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.",
+      "metadata": {
+        "reference": "Luke 15:12",
+        "verseKey": "kjv:luke:15:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:15:13",
+      "numberLabel": "13",
+      "text": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.",
+      "metadata": {
+        "reference": "Luke 15:13",
+        "verseKey": "kjv:luke:15:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:15:14",
+      "numberLabel": "14",
+      "text": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want.",
+      "metadata": {
+        "reference": "Luke 15:14",
+        "verseKey": "kjv:luke:15:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:15:15",
+      "numberLabel": "15",
+      "text": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.",
+      "metadata": {
+        "reference": "Luke 15:15",
+        "verseKey": "kjv:luke:15:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:15:16",
+      "numberLabel": "16",
+      "text": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.",
+      "metadata": {
+        "reference": "Luke 15:16",
+        "verseKey": "kjv:luke:15:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:15:17",
+      "numberLabel": "17",
+      "text": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!",
+      "metadata": {
+        "reference": "Luke 15:17",
+        "verseKey": "kjv:luke:15:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:15:18",
+      "numberLabel": "18",
+      "text": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,",
+      "metadata": {
+        "reference": "Luke 15:18",
+        "verseKey": "kjv:luke:15:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:15:19",
+      "numberLabel": "19",
+      "text": "And am no more worthy to be called thy son: make me as one of thy hired servants.",
+      "metadata": {
+        "reference": "Luke 15:19",
+        "verseKey": "kjv:luke:15:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:15:20",
+      "numberLabel": "20",
+      "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+      "metadata": {
+        "reference": "Luke 15:20",
+        "verseKey": "kjv:luke:15:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:15:21",
+      "numberLabel": "21",
+      "text": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.",
+      "metadata": {
+        "reference": "Luke 15:21",
+        "verseKey": "kjv:luke:15:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:15:22",
+      "numberLabel": "22",
+      "text": "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:",
+      "metadata": {
+        "reference": "Luke 15:22",
+        "verseKey": "kjv:luke:15:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:15:23",
+      "numberLabel": "23",
+      "text": "And bring hither the fatted calf, and kill it; and let us eat, and be merry:",
+      "metadata": {
+        "reference": "Luke 15:23",
+        "verseKey": "kjv:luke:15:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:15:24",
+      "numberLabel": "24",
+      "text": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+      "metadata": {
+        "reference": "Luke 15:24",
+        "verseKey": "kjv:luke:15:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:15:25",
+      "numberLabel": "25",
+      "text": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.",
+      "metadata": {
+        "reference": "Luke 15:25",
+        "verseKey": "kjv:luke:15:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:15:26",
+      "numberLabel": "26",
+      "text": "And he called one of the servants, and asked what these things meant.",
+      "metadata": {
+        "reference": "Luke 15:26",
+        "verseKey": "kjv:luke:15:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:15:27",
+      "numberLabel": "27",
+      "text": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.",
+      "metadata": {
+        "reference": "Luke 15:27",
+        "verseKey": "kjv:luke:15:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:15:28",
+      "numberLabel": "28",
+      "text": "And he was angry, and would not go in: therefore came his father out, and intreated him.",
+      "metadata": {
+        "reference": "Luke 15:28",
+        "verseKey": "kjv:luke:15:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:15:29",
+      "numberLabel": "29",
+      "text": "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:",
+      "metadata": {
+        "reference": "Luke 15:29",
+        "verseKey": "kjv:luke:15:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:15:30",
+      "numberLabel": "30",
+      "text": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.",
+      "metadata": {
+        "reference": "Luke 15:30",
+        "verseKey": "kjv:luke:15:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:15:31",
+      "numberLabel": "31",
+      "text": "And he said unto him, Son, thou art ever with me, and all that I have is thine.",
+      "metadata": {
+        "reference": "Luke 15:31",
+        "verseKey": "kjv:luke:15:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:15:32",
+      "numberLabel": "32",
+      "text": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.",
+      "metadata": {
+        "reference": "Luke 15:32",
+        "verseKey": "kjv:luke:15:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

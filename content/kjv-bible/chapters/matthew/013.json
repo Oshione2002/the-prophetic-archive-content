@@ -1,0 +1,728 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Matthew 13",
+  "display_title": "Matthew 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 13,
+  "sortOrder": 40013,
+  "verseCount": 58,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:13:1",
+      "numberLabel": "1",
+      "text": "The same day went Jesus out of the house, and sat by the sea side.",
+      "metadata": {
+        "reference": "Matthew 13:1",
+        "verseKey": "kjv:matthew:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:13:2",
+      "numberLabel": "2",
+      "text": "And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.",
+      "metadata": {
+        "reference": "Matthew 13:2",
+        "verseKey": "kjv:matthew:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:13:3",
+      "numberLabel": "3",
+      "text": "And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;",
+      "metadata": {
+        "reference": "Matthew 13:3",
+        "verseKey": "kjv:matthew:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:13:4",
+      "numberLabel": "4",
+      "text": "And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:",
+      "metadata": {
+        "reference": "Matthew 13:4",
+        "verseKey": "kjv:matthew:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:13:5",
+      "numberLabel": "5",
+      "text": "Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:",
+      "metadata": {
+        "reference": "Matthew 13:5",
+        "verseKey": "kjv:matthew:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:13:6",
+      "numberLabel": "6",
+      "text": "And when the sun was up, they were scorched; and because they had no root, they withered away.",
+      "metadata": {
+        "reference": "Matthew 13:6",
+        "verseKey": "kjv:matthew:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:13:7",
+      "numberLabel": "7",
+      "text": "And some fell among thorns; and the thorns sprung up, and choked them:",
+      "metadata": {
+        "reference": "Matthew 13:7",
+        "verseKey": "kjv:matthew:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:13:8",
+      "numberLabel": "8",
+      "text": "But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.",
+      "metadata": {
+        "reference": "Matthew 13:8",
+        "verseKey": "kjv:matthew:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:13:9",
+      "numberLabel": "9",
+      "text": "Who hath ears to hear, let him hear.",
+      "metadata": {
+        "reference": "Matthew 13:9",
+        "verseKey": "kjv:matthew:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:13:10",
+      "numberLabel": "10",
+      "text": "And the disciples came, and said unto him, Why speakest thou unto them in parables?",
+      "metadata": {
+        "reference": "Matthew 13:10",
+        "verseKey": "kjv:matthew:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:13:11",
+      "numberLabel": "11",
+      "text": "He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.",
+      "metadata": {
+        "reference": "Matthew 13:11",
+        "verseKey": "kjv:matthew:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:13:12",
+      "numberLabel": "12",
+      "text": "For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.",
+      "metadata": {
+        "reference": "Matthew 13:12",
+        "verseKey": "kjv:matthew:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:13:13",
+      "numberLabel": "13",
+      "text": "Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.",
+      "metadata": {
+        "reference": "Matthew 13:13",
+        "verseKey": "kjv:matthew:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:13:14",
+      "numberLabel": "14",
+      "text": "And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:",
+      "metadata": {
+        "reference": "Matthew 13:14",
+        "verseKey": "kjv:matthew:13:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:13:15",
+      "numberLabel": "15",
+      "text": "For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.",
+      "metadata": {
+        "reference": "Matthew 13:15",
+        "verseKey": "kjv:matthew:13:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:13:16",
+      "numberLabel": "16",
+      "text": "But blessed are your eyes, for they see: and your ears, for they hear.",
+      "metadata": {
+        "reference": "Matthew 13:16",
+        "verseKey": "kjv:matthew:13:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:13:17",
+      "numberLabel": "17",
+      "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.",
+      "metadata": {
+        "reference": "Matthew 13:17",
+        "verseKey": "kjv:matthew:13:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:13:18",
+      "numberLabel": "18",
+      "text": "Hear ye therefore the parable of the sower.",
+      "metadata": {
+        "reference": "Matthew 13:18",
+        "verseKey": "kjv:matthew:13:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:13:19",
+      "numberLabel": "19",
+      "text": "When any one heareth the word of the kingdom, and understandeth it not, then cometh the wicked one, and catcheth away that which was sown in his heart. This is he which received seed by the way side.",
+      "metadata": {
+        "reference": "Matthew 13:19",
+        "verseKey": "kjv:matthew:13:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:13:20",
+      "numberLabel": "20",
+      "text": "But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;",
+      "metadata": {
+        "reference": "Matthew 13:20",
+        "verseKey": "kjv:matthew:13:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:13:21",
+      "numberLabel": "21",
+      "text": "Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.",
+      "metadata": {
+        "reference": "Matthew 13:21",
+        "verseKey": "kjv:matthew:13:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:13:22",
+      "numberLabel": "22",
+      "text": "He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.",
+      "metadata": {
+        "reference": "Matthew 13:22",
+        "verseKey": "kjv:matthew:13:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:13:23",
+      "numberLabel": "23",
+      "text": "But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.",
+      "metadata": {
+        "reference": "Matthew 13:23",
+        "verseKey": "kjv:matthew:13:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:13:24",
+      "numberLabel": "24",
+      "text": "Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:",
+      "metadata": {
+        "reference": "Matthew 13:24",
+        "verseKey": "kjv:matthew:13:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:13:25",
+      "numberLabel": "25",
+      "text": "But while men slept, his enemy came and sowed tares among the wheat, and went his way.",
+      "metadata": {
+        "reference": "Matthew 13:25",
+        "verseKey": "kjv:matthew:13:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:13:26",
+      "numberLabel": "26",
+      "text": "But when the blade was sprung up, and brought forth fruit, then appeared the tares also.",
+      "metadata": {
+        "reference": "Matthew 13:26",
+        "verseKey": "kjv:matthew:13:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:13:27",
+      "numberLabel": "27",
+      "text": "So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?",
+      "metadata": {
+        "reference": "Matthew 13:27",
+        "verseKey": "kjv:matthew:13:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:13:28",
+      "numberLabel": "28",
+      "text": "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?",
+      "metadata": {
+        "reference": "Matthew 13:28",
+        "verseKey": "kjv:matthew:13:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:13:29",
+      "numberLabel": "29",
+      "text": "But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.",
+      "metadata": {
+        "reference": "Matthew 13:29",
+        "verseKey": "kjv:matthew:13:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:13:30",
+      "numberLabel": "30",
+      "text": "Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.",
+      "metadata": {
+        "reference": "Matthew 13:30",
+        "verseKey": "kjv:matthew:13:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:13:31",
+      "numberLabel": "31",
+      "text": "Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:",
+      "metadata": {
+        "reference": "Matthew 13:31",
+        "verseKey": "kjv:matthew:13:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:13:32",
+      "numberLabel": "32",
+      "text": "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.",
+      "metadata": {
+        "reference": "Matthew 13:32",
+        "verseKey": "kjv:matthew:13:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:13:33",
+      "numberLabel": "33",
+      "text": "Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.",
+      "metadata": {
+        "reference": "Matthew 13:33",
+        "verseKey": "kjv:matthew:13:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:13:34",
+      "numberLabel": "34",
+      "text": "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:",
+      "metadata": {
+        "reference": "Matthew 13:34",
+        "verseKey": "kjv:matthew:13:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:13:35",
+      "numberLabel": "35",
+      "text": "That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.",
+      "metadata": {
+        "reference": "Matthew 13:35",
+        "verseKey": "kjv:matthew:13:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:13:36",
+      "numberLabel": "36",
+      "text": "Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.",
+      "metadata": {
+        "reference": "Matthew 13:36",
+        "verseKey": "kjv:matthew:13:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:matthew:13:37",
+      "numberLabel": "37",
+      "text": "He answered and said unto them, He that soweth the good seed is the Son of man;",
+      "metadata": {
+        "reference": "Matthew 13:37",
+        "verseKey": "kjv:matthew:13:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:matthew:13:38",
+      "numberLabel": "38",
+      "text": "The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;",
+      "metadata": {
+        "reference": "Matthew 13:38",
+        "verseKey": "kjv:matthew:13:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:matthew:13:39",
+      "numberLabel": "39",
+      "text": "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.",
+      "metadata": {
+        "reference": "Matthew 13:39",
+        "verseKey": "kjv:matthew:13:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:matthew:13:40",
+      "numberLabel": "40",
+      "text": "As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.",
+      "metadata": {
+        "reference": "Matthew 13:40",
+        "verseKey": "kjv:matthew:13:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:matthew:13:41",
+      "numberLabel": "41",
+      "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;",
+      "metadata": {
+        "reference": "Matthew 13:41",
+        "verseKey": "kjv:matthew:13:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:matthew:13:42",
+      "numberLabel": "42",
+      "text": "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.",
+      "metadata": {
+        "reference": "Matthew 13:42",
+        "verseKey": "kjv:matthew:13:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:matthew:13:43",
+      "numberLabel": "43",
+      "text": "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.",
+      "metadata": {
+        "reference": "Matthew 13:43",
+        "verseKey": "kjv:matthew:13:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:matthew:13:44",
+      "numberLabel": "44",
+      "text": "Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.",
+      "metadata": {
+        "reference": "Matthew 13:44",
+        "verseKey": "kjv:matthew:13:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:matthew:13:45",
+      "numberLabel": "45",
+      "text": "Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:",
+      "metadata": {
+        "reference": "Matthew 13:45",
+        "verseKey": "kjv:matthew:13:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:matthew:13:46",
+      "numberLabel": "46",
+      "text": "Who, when he had found one pearl of great price, went and sold all that he had, and bought it.",
+      "metadata": {
+        "reference": "Matthew 13:46",
+        "verseKey": "kjv:matthew:13:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:matthew:13:47",
+      "numberLabel": "47",
+      "text": "Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:",
+      "metadata": {
+        "reference": "Matthew 13:47",
+        "verseKey": "kjv:matthew:13:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:matthew:13:48",
+      "numberLabel": "48",
+      "text": "Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.",
+      "metadata": {
+        "reference": "Matthew 13:48",
+        "verseKey": "kjv:matthew:13:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:matthew:13:49",
+      "numberLabel": "49",
+      "text": "So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,",
+      "metadata": {
+        "reference": "Matthew 13:49",
+        "verseKey": "kjv:matthew:13:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:matthew:13:50",
+      "numberLabel": "50",
+      "text": "And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.",
+      "metadata": {
+        "reference": "Matthew 13:50",
+        "verseKey": "kjv:matthew:13:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:matthew:13:51",
+      "numberLabel": "51",
+      "text": "Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord.",
+      "metadata": {
+        "reference": "Matthew 13:51",
+        "verseKey": "kjv:matthew:13:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:matthew:13:52",
+      "numberLabel": "52",
+      "text": "Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.",
+      "metadata": {
+        "reference": "Matthew 13:52",
+        "verseKey": "kjv:matthew:13:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:matthew:13:53",
+      "numberLabel": "53",
+      "text": "And it came to pass, that when Jesus had finished these parables, he departed thence.",
+      "metadata": {
+        "reference": "Matthew 13:53",
+        "verseKey": "kjv:matthew:13:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:matthew:13:54",
+      "numberLabel": "54",
+      "text": "And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?",
+      "metadata": {
+        "reference": "Matthew 13:54",
+        "verseKey": "kjv:matthew:13:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:matthew:13:55",
+      "numberLabel": "55",
+      "text": "Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?",
+      "metadata": {
+        "reference": "Matthew 13:55",
+        "verseKey": "kjv:matthew:13:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:matthew:13:56",
+      "numberLabel": "56",
+      "text": "And his sisters, are they not all with us? Whence then hath this man all these things?",
+      "metadata": {
+        "reference": "Matthew 13:56",
+        "verseKey": "kjv:matthew:13:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:matthew:13:57",
+      "numberLabel": "57",
+      "text": "And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.",
+      "metadata": {
+        "reference": "Matthew 13:57",
+        "verseKey": "kjv:matthew:13:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:matthew:13:58",
+      "numberLabel": "58",
+      "text": "And he did not many mighty works there because of their unbelief.",
+      "metadata": {
+        "reference": "Matthew 13:58",
+        "verseKey": "kjv:matthew:13:58"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

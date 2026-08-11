@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Deuteronomy 3",
+  "display_title": "Deuteronomy 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 3,
+  "sortOrder": 5003,
+  "verseCount": 29,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:3:1",
+      "numberLabel": "1",
+      "text": "Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.",
+      "metadata": {
+        "reference": "Deuteronomy 3:1",
+        "verseKey": "kjv:deuteronomy:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:3:2",
+      "numberLabel": "2",
+      "text": "And the LORD said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.",
+      "metadata": {
+        "reference": "Deuteronomy 3:2",
+        "verseKey": "kjv:deuteronomy:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:3:3",
+      "numberLabel": "3",
+      "text": "So the LORD our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.",
+      "metadata": {
+        "reference": "Deuteronomy 3:3",
+        "verseKey": "kjv:deuteronomy:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:3:4",
+      "numberLabel": "4",
+      "text": "And we took all his cities at that time, there was not a city which we took not from them, threescore cities, all the region of Argob, the kingdom of Og in Bashan.",
+      "metadata": {
+        "reference": "Deuteronomy 3:4",
+        "verseKey": "kjv:deuteronomy:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:3:5",
+      "numberLabel": "5",
+      "text": "All these cities were fenced with high walls, gates, and bars; beside unwalled towns a great many.",
+      "metadata": {
+        "reference": "Deuteronomy 3:5",
+        "verseKey": "kjv:deuteronomy:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:3:6",
+      "numberLabel": "6",
+      "text": "And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city.",
+      "metadata": {
+        "reference": "Deuteronomy 3:6",
+        "verseKey": "kjv:deuteronomy:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:3:7",
+      "numberLabel": "7",
+      "text": "But all the cattle, and the spoil of the cities, we took for a prey to ourselves.",
+      "metadata": {
+        "reference": "Deuteronomy 3:7",
+        "verseKey": "kjv:deuteronomy:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:3:8",
+      "numberLabel": "8",
+      "text": "And we took at that time out of the hand of the two kings of the Amorites the land that was on this side Jordan, from the river of Arnon unto mount Hermon;",
+      "metadata": {
+        "reference": "Deuteronomy 3:8",
+        "verseKey": "kjv:deuteronomy:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:3:9",
+      "numberLabel": "9",
+      "text": "(Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)",
+      "metadata": {
+        "reference": "Deuteronomy 3:9",
+        "verseKey": "kjv:deuteronomy:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:3:10",
+      "numberLabel": "10",
+      "text": "All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.",
+      "metadata": {
+        "reference": "Deuteronomy 3:10",
+        "verseKey": "kjv:deuteronomy:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:3:11",
+      "numberLabel": "11",
+      "text": "For only Og king of Bashan remained of the remnant of giants; behold, his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man.",
+      "metadata": {
+        "reference": "Deuteronomy 3:11",
+        "verseKey": "kjv:deuteronomy:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:3:12",
+      "numberLabel": "12",
+      "text": "And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.",
+      "metadata": {
+        "reference": "Deuteronomy 3:12",
+        "verseKey": "kjv:deuteronomy:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:3:13",
+      "numberLabel": "13",
+      "text": "And the rest of Gilead, and all Bashan, being the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.",
+      "metadata": {
+        "reference": "Deuteronomy 3:13",
+        "verseKey": "kjv:deuteronomy:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:3:14",
+      "numberLabel": "14",
+      "text": "Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashanhavothjair, unto this day.",
+      "metadata": {
+        "reference": "Deuteronomy 3:14",
+        "verseKey": "kjv:deuteronomy:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:3:15",
+      "numberLabel": "15",
+      "text": "And I gave Gilead unto Machir.",
+      "metadata": {
+        "reference": "Deuteronomy 3:15",
+        "verseKey": "kjv:deuteronomy:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:3:16",
+      "numberLabel": "16",
+      "text": "And unto the Reubenites and unto the Gadites I gave from Gilead even unto the river Arnon half the valley, and the border even unto the river Jabbok, which is the border of the children of Ammon;",
+      "metadata": {
+        "reference": "Deuteronomy 3:16",
+        "verseKey": "kjv:deuteronomy:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:3:17",
+      "numberLabel": "17",
+      "text": "The plain also, and Jordan, and the coast thereof, from Chinnereth even unto the sea of the plain, even the salt sea, under Ashdothpisgah eastward.",
+      "metadata": {
+        "reference": "Deuteronomy 3:17",
+        "verseKey": "kjv:deuteronomy:3:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:3:18",
+      "numberLabel": "18",
+      "text": "And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all that are meet for the war.",
+      "metadata": {
+        "reference": "Deuteronomy 3:18",
+        "verseKey": "kjv:deuteronomy:3:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:3:19",
+      "numberLabel": "19",
+      "text": "But your wives, and your little ones, and your cattle, (for I know that ye have much cattle,) shall abide in your cities which I have given you;",
+      "metadata": {
+        "reference": "Deuteronomy 3:19",
+        "verseKey": "kjv:deuteronomy:3:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:3:20",
+      "numberLabel": "20",
+      "text": "Until the LORD have given rest unto your brethren, as well as unto you, and until they also possess the land which the LORD your God hath given them beyond Jordan: and then shall ye return every man unto his possession, which I have given you.",
+      "metadata": {
+        "reference": "Deuteronomy 3:20",
+        "verseKey": "kjv:deuteronomy:3:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:3:21",
+      "numberLabel": "21",
+      "text": "And I commanded Joshua at that time, saying, Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest.",
+      "metadata": {
+        "reference": "Deuteronomy 3:21",
+        "verseKey": "kjv:deuteronomy:3:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:3:22",
+      "numberLabel": "22",
+      "text": "Ye shall not fear them: for the LORD your God he shall fight for you.",
+      "metadata": {
+        "reference": "Deuteronomy 3:22",
+        "verseKey": "kjv:deuteronomy:3:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:3:23",
+      "numberLabel": "23",
+      "text": "And I besought the LORD at that time, saying,",
+      "metadata": {
+        "reference": "Deuteronomy 3:23",
+        "verseKey": "kjv:deuteronomy:3:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:deuteronomy:3:24",
+      "numberLabel": "24",
+      "text": "O Lord GOD, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?",
+      "metadata": {
+        "reference": "Deuteronomy 3:24",
+        "verseKey": "kjv:deuteronomy:3:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:deuteronomy:3:25",
+      "numberLabel": "25",
+      "text": "I pray thee, let me go over, and see the good land that is beyond Jordan, that goodly mountain, and Lebanon.",
+      "metadata": {
+        "reference": "Deuteronomy 3:25",
+        "verseKey": "kjv:deuteronomy:3:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:deuteronomy:3:26",
+      "numberLabel": "26",
+      "text": "But the LORD was wroth with me for your sakes, and would not hear me: and the LORD said unto me, Let it suffice thee; speak no more unto me of this matter.",
+      "metadata": {
+        "reference": "Deuteronomy 3:26",
+        "verseKey": "kjv:deuteronomy:3:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:deuteronomy:3:27",
+      "numberLabel": "27",
+      "text": "Get thee up into the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold it with thine eyes: for thou shalt not go over this Jordan.",
+      "metadata": {
+        "reference": "Deuteronomy 3:27",
+        "verseKey": "kjv:deuteronomy:3:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:deuteronomy:3:28",
+      "numberLabel": "28",
+      "text": "But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.",
+      "metadata": {
+        "reference": "Deuteronomy 3:28",
+        "verseKey": "kjv:deuteronomy:3:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:deuteronomy:3:29",
+      "numberLabel": "29",
+      "text": "So we abode in the valley over against Bethpeor.",
+      "metadata": {
+        "reference": "Deuteronomy 3:29",
+        "verseKey": "kjv:deuteronomy:3:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

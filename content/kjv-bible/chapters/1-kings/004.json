@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-kings-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "1 Kings 4",
+  "display_title": "1 Kings 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-kings",
+  "book": "1 Kings",
+  "bookName": "1 Kings",
+  "bookOrder": 11,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 11004,
+  "verseCount": 34,
+  "aliases": [
+    "1 Kgs",
+    "1Kgs",
+    "1 Ki",
+    "1Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-kings:4:1",
+      "numberLabel": "1",
+      "text": "So king Solomon was king over all Israel.",
+      "metadata": {
+        "reference": "1 Kings 4:1",
+        "verseKey": "kjv:1-kings:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-kings:4:2",
+      "numberLabel": "2",
+      "text": "And these were the princes which he had; Azariah the son of Zadok the priest,",
+      "metadata": {
+        "reference": "1 Kings 4:2",
+        "verseKey": "kjv:1-kings:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-kings:4:3",
+      "numberLabel": "3",
+      "text": "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.",
+      "metadata": {
+        "reference": "1 Kings 4:3",
+        "verseKey": "kjv:1-kings:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-kings:4:4",
+      "numberLabel": "4",
+      "text": "And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:",
+      "metadata": {
+        "reference": "1 Kings 4:4",
+        "verseKey": "kjv:1-kings:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-kings:4:5",
+      "numberLabel": "5",
+      "text": "And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king’s friend:",
+      "metadata": {
+        "reference": "1 Kings 4:5",
+        "verseKey": "kjv:1-kings:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-kings:4:6",
+      "numberLabel": "6",
+      "text": "And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.",
+      "metadata": {
+        "reference": "1 Kings 4:6",
+        "verseKey": "kjv:1-kings:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-kings:4:7",
+      "numberLabel": "7",
+      "text": "And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.",
+      "metadata": {
+        "reference": "1 Kings 4:7",
+        "verseKey": "kjv:1-kings:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-kings:4:8",
+      "numberLabel": "8",
+      "text": "And these are their names: The son of Hur, in mount Ephraim:",
+      "metadata": {
+        "reference": "1 Kings 4:8",
+        "verseKey": "kjv:1-kings:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-kings:4:9",
+      "numberLabel": "9",
+      "text": "The son of Dekar, in Makaz, and in Shaalbim, and Bethshemesh, and Elonbethhanan:",
+      "metadata": {
+        "reference": "1 Kings 4:9",
+        "verseKey": "kjv:1-kings:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-kings:4:10",
+      "numberLabel": "10",
+      "text": "The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:",
+      "metadata": {
+        "reference": "1 Kings 4:10",
+        "verseKey": "kjv:1-kings:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-kings:4:11",
+      "numberLabel": "11",
+      "text": "The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:",
+      "metadata": {
+        "reference": "1 Kings 4:11",
+        "verseKey": "kjv:1-kings:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-kings:4:12",
+      "numberLabel": "12",
+      "text": "Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Bethshean, which is by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, even unto the place that is beyond Jokneam:",
+      "metadata": {
+        "reference": "1 Kings 4:12",
+        "verseKey": "kjv:1-kings:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-kings:4:13",
+      "numberLabel": "13",
+      "text": "The son of Geber, in Ramothgilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:",
+      "metadata": {
+        "reference": "1 Kings 4:13",
+        "verseKey": "kjv:1-kings:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-kings:4:14",
+      "numberLabel": "14",
+      "text": "Ahinadab the son of Iddo had Mahanaim:",
+      "metadata": {
+        "reference": "1 Kings 4:14",
+        "verseKey": "kjv:1-kings:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-kings:4:15",
+      "numberLabel": "15",
+      "text": "Ahimaaz was in Naphtali; he also took Basmath the daughter of Solomon to wife:",
+      "metadata": {
+        "reference": "1 Kings 4:15",
+        "verseKey": "kjv:1-kings:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-kings:4:16",
+      "numberLabel": "16",
+      "text": "Baanah the son of Hushai was in Asher and in Aloth:",
+      "metadata": {
+        "reference": "1 Kings 4:16",
+        "verseKey": "kjv:1-kings:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-kings:4:17",
+      "numberLabel": "17",
+      "text": "Jehoshaphat the son of Paruah, in Issachar:",
+      "metadata": {
+        "reference": "1 Kings 4:17",
+        "verseKey": "kjv:1-kings:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-kings:4:18",
+      "numberLabel": "18",
+      "text": "Shimei the son of Elah, in Benjamin:",
+      "metadata": {
+        "reference": "1 Kings 4:18",
+        "verseKey": "kjv:1-kings:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-kings:4:19",
+      "numberLabel": "19",
+      "text": "Geber the son of Uri was in the country of Gilead, in the country of Sihon king of the Amorites, and of Og king of Bashan; and he was the only officer which was in the land.",
+      "metadata": {
+        "reference": "1 Kings 4:19",
+        "verseKey": "kjv:1-kings:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-kings:4:20",
+      "numberLabel": "20",
+      "text": "Judah and Israel were many, as the sand which is by the sea in multitude, eating and drinking, and making merry.",
+      "metadata": {
+        "reference": "1 Kings 4:20",
+        "verseKey": "kjv:1-kings:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-kings:4:21",
+      "numberLabel": "21",
+      "text": "And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.",
+      "metadata": {
+        "reference": "1 Kings 4:21",
+        "verseKey": "kjv:1-kings:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-kings:4:22",
+      "numberLabel": "22",
+      "text": "And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,",
+      "metadata": {
+        "reference": "1 Kings 4:22",
+        "verseKey": "kjv:1-kings:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-kings:4:23",
+      "numberLabel": "23",
+      "text": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.",
+      "metadata": {
+        "reference": "1 Kings 4:23",
+        "verseKey": "kjv:1-kings:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-kings:4:24",
+      "numberLabel": "24",
+      "text": "For he had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.",
+      "metadata": {
+        "reference": "1 Kings 4:24",
+        "verseKey": "kjv:1-kings:4:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-kings:4:25",
+      "numberLabel": "25",
+      "text": "And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.",
+      "metadata": {
+        "reference": "1 Kings 4:25",
+        "verseKey": "kjv:1-kings:4:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-kings:4:26",
+      "numberLabel": "26",
+      "text": "And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.",
+      "metadata": {
+        "reference": "1 Kings 4:26",
+        "verseKey": "kjv:1-kings:4:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-kings:4:27",
+      "numberLabel": "27",
+      "text": "And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing.",
+      "metadata": {
+        "reference": "1 Kings 4:27",
+        "verseKey": "kjv:1-kings:4:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-kings:4:28",
+      "numberLabel": "28",
+      "text": "Barley also and straw for the horses and dromedaries brought they unto the place where the officers were, every man according to his charge.",
+      "metadata": {
+        "reference": "1 Kings 4:28",
+        "verseKey": "kjv:1-kings:4:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-kings:4:29",
+      "numberLabel": "29",
+      "text": "And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.",
+      "metadata": {
+        "reference": "1 Kings 4:29",
+        "verseKey": "kjv:1-kings:4:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-kings:4:30",
+      "numberLabel": "30",
+      "text": "And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.",
+      "metadata": {
+        "reference": "1 Kings 4:30",
+        "verseKey": "kjv:1-kings:4:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-kings:4:31",
+      "numberLabel": "31",
+      "text": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.",
+      "metadata": {
+        "reference": "1 Kings 4:31",
+        "verseKey": "kjv:1-kings:4:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-kings:4:32",
+      "numberLabel": "32",
+      "text": "And he spake three thousand proverbs: and his songs were a thousand and five.",
+      "metadata": {
+        "reference": "1 Kings 4:32",
+        "verseKey": "kjv:1-kings:4:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-kings:4:33",
+      "numberLabel": "33",
+      "text": "And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.",
+      "metadata": {
+        "reference": "1 Kings 4:33",
+        "verseKey": "kjv:1-kings:4:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-kings:4:34",
+      "numberLabel": "34",
+      "text": "And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.",
+      "metadata": {
+        "reference": "1 Kings 4:34",
+        "verseKey": "kjv:1-kings:4:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

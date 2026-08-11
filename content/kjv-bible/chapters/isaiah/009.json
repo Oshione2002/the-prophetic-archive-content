@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Isaiah 9",
+  "display_title": "Isaiah 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 23009,
+  "verseCount": 21,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:9:1",
+      "numberLabel": "1",
+      "text": "Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.",
+      "metadata": {
+        "reference": "Isaiah 9:1",
+        "verseKey": "kjv:isaiah:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:9:2",
+      "numberLabel": "2",
+      "text": "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.",
+      "metadata": {
+        "reference": "Isaiah 9:2",
+        "verseKey": "kjv:isaiah:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:9:3",
+      "numberLabel": "3",
+      "text": "Thou hast multiplied the nation, and not increased the joy: they joy before thee according to the joy in harvest, and as men rejoice when they divide the spoil.",
+      "metadata": {
+        "reference": "Isaiah 9:3",
+        "verseKey": "kjv:isaiah:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:9:4",
+      "numberLabel": "4",
+      "text": "For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor, as in the day of Midian.",
+      "metadata": {
+        "reference": "Isaiah 9:4",
+        "verseKey": "kjv:isaiah:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:9:5",
+      "numberLabel": "5",
+      "text": "For every battle of the warrior is with confused noise, and garments rolled in blood; but this shall be with burning and fuel of fire.",
+      "metadata": {
+        "reference": "Isaiah 9:5",
+        "verseKey": "kjv:isaiah:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:9:6",
+      "numberLabel": "6",
+      "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+      "metadata": {
+        "reference": "Isaiah 9:6",
+        "verseKey": "kjv:isaiah:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:9:7",
+      "numberLabel": "7",
+      "text": "Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.",
+      "metadata": {
+        "reference": "Isaiah 9:7",
+        "verseKey": "kjv:isaiah:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:9:8",
+      "numberLabel": "8",
+      "text": "The Lord sent a word into Jacob, and it hath lighted upon Israel.",
+      "metadata": {
+        "reference": "Isaiah 9:8",
+        "verseKey": "kjv:isaiah:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:9:9",
+      "numberLabel": "9",
+      "text": "And all the people shall know, even Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,",
+      "metadata": {
+        "reference": "Isaiah 9:9",
+        "verseKey": "kjv:isaiah:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:9:10",
+      "numberLabel": "10",
+      "text": "The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change them into cedars.",
+      "metadata": {
+        "reference": "Isaiah 9:10",
+        "verseKey": "kjv:isaiah:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:9:11",
+      "numberLabel": "11",
+      "text": "Therefore the LORD shall set up the adversaries of Rezin against him, and join his enemies together;",
+      "metadata": {
+        "reference": "Isaiah 9:11",
+        "verseKey": "kjv:isaiah:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:9:12",
+      "numberLabel": "12",
+      "text": "The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand is stretched out still.",
+      "metadata": {
+        "reference": "Isaiah 9:12",
+        "verseKey": "kjv:isaiah:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:9:13",
+      "numberLabel": "13",
+      "text": "For the people turneth not unto him that smiteth them, neither do they seek the LORD of hosts.",
+      "metadata": {
+        "reference": "Isaiah 9:13",
+        "verseKey": "kjv:isaiah:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:9:14",
+      "numberLabel": "14",
+      "text": "Therefore the LORD will cut off from Israel head and tail, branch and rush, in one day.",
+      "metadata": {
+        "reference": "Isaiah 9:14",
+        "verseKey": "kjv:isaiah:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:9:15",
+      "numberLabel": "15",
+      "text": "The ancient and honourable, he is the head; and the prophet that teacheth lies, he is the tail.",
+      "metadata": {
+        "reference": "Isaiah 9:15",
+        "verseKey": "kjv:isaiah:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:9:16",
+      "numberLabel": "16",
+      "text": "For the leaders of this people cause them to err; and they that are led of them are destroyed.",
+      "metadata": {
+        "reference": "Isaiah 9:16",
+        "verseKey": "kjv:isaiah:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:9:17",
+      "numberLabel": "17",
+      "text": "Therefore the LORD shall have no joy in their young men, neither shall have mercy on their fatherless and widows: for every one is an hypocrite and an evildoer, and every mouth speaketh folly. For all this his anger is not turned away, but his hand is stretched out still.",
+      "metadata": {
+        "reference": "Isaiah 9:17",
+        "verseKey": "kjv:isaiah:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:9:18",
+      "numberLabel": "18",
+      "text": "For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up like the lifting up of smoke.",
+      "metadata": {
+        "reference": "Isaiah 9:18",
+        "verseKey": "kjv:isaiah:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:9:19",
+      "numberLabel": "19",
+      "text": "Through the wrath of the LORD of hosts is the land darkened, and the people shall be as the fuel of the fire: no man shall spare his brother.",
+      "metadata": {
+        "reference": "Isaiah 9:19",
+        "verseKey": "kjv:isaiah:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:9:20",
+      "numberLabel": "20",
+      "text": "And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:",
+      "metadata": {
+        "reference": "Isaiah 9:20",
+        "verseKey": "kjv:isaiah:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:9:21",
+      "numberLabel": "21",
+      "text": "Manasseh, Ephraim; and Ephraim, Manasseh: and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.",
+      "metadata": {
+        "reference": "Isaiah 9:21",
+        "verseKey": "kjv:isaiah:9:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

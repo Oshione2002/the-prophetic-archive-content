@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ephesians-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Ephesians 4",
+  "display_title": "Ephesians 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ephesians",
+  "book": "Ephesians",
+  "bookName": "Ephesians",
+  "bookOrder": 49,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 49004,
+  "verseCount": 32,
+  "aliases": [
+    "Eph",
+    "Ephes"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ephesians:4:1",
+      "numberLabel": "1",
+      "text": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
+      "metadata": {
+        "reference": "Ephesians 4:1",
+        "verseKey": "kjv:ephesians:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ephesians:4:2",
+      "numberLabel": "2",
+      "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
+      "metadata": {
+        "reference": "Ephesians 4:2",
+        "verseKey": "kjv:ephesians:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ephesians:4:3",
+      "numberLabel": "3",
+      "text": "Endeavouring to keep the unity of the Spirit in the bond of peace.",
+      "metadata": {
+        "reference": "Ephesians 4:3",
+        "verseKey": "kjv:ephesians:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ephesians:4:4",
+      "numberLabel": "4",
+      "text": "There is one body, and one Spirit, even as ye are called in one hope of your calling;",
+      "metadata": {
+        "reference": "Ephesians 4:4",
+        "verseKey": "kjv:ephesians:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ephesians:4:5",
+      "numberLabel": "5",
+      "text": "One Lord, one faith, one baptism,",
+      "metadata": {
+        "reference": "Ephesians 4:5",
+        "verseKey": "kjv:ephesians:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ephesians:4:6",
+      "numberLabel": "6",
+      "text": "One God and Father of all, who is above all, and through all, and in you all.",
+      "metadata": {
+        "reference": "Ephesians 4:6",
+        "verseKey": "kjv:ephesians:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ephesians:4:7",
+      "numberLabel": "7",
+      "text": "But unto every one of us is given grace according to the measure of the gift of Christ.",
+      "metadata": {
+        "reference": "Ephesians 4:7",
+        "verseKey": "kjv:ephesians:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ephesians:4:8",
+      "numberLabel": "8",
+      "text": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.",
+      "metadata": {
+        "reference": "Ephesians 4:8",
+        "verseKey": "kjv:ephesians:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ephesians:4:9",
+      "numberLabel": "9",
+      "text": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
+      "metadata": {
+        "reference": "Ephesians 4:9",
+        "verseKey": "kjv:ephesians:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ephesians:4:10",
+      "numberLabel": "10",
+      "text": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
+      "metadata": {
+        "reference": "Ephesians 4:10",
+        "verseKey": "kjv:ephesians:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ephesians:4:11",
+      "numberLabel": "11",
+      "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+      "metadata": {
+        "reference": "Ephesians 4:11",
+        "verseKey": "kjv:ephesians:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ephesians:4:12",
+      "numberLabel": "12",
+      "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+      "metadata": {
+        "reference": "Ephesians 4:12",
+        "verseKey": "kjv:ephesians:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ephesians:4:13",
+      "numberLabel": "13",
+      "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+      "metadata": {
+        "reference": "Ephesians 4:13",
+        "verseKey": "kjv:ephesians:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ephesians:4:14",
+      "numberLabel": "14",
+      "text": "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;",
+      "metadata": {
+        "reference": "Ephesians 4:14",
+        "verseKey": "kjv:ephesians:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ephesians:4:15",
+      "numberLabel": "15",
+      "text": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:",
+      "metadata": {
+        "reference": "Ephesians 4:15",
+        "verseKey": "kjv:ephesians:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ephesians:4:16",
+      "numberLabel": "16",
+      "text": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
+      "metadata": {
+        "reference": "Ephesians 4:16",
+        "verseKey": "kjv:ephesians:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ephesians:4:17",
+      "numberLabel": "17",
+      "text": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
+      "metadata": {
+        "reference": "Ephesians 4:17",
+        "verseKey": "kjv:ephesians:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ephesians:4:18",
+      "numberLabel": "18",
+      "text": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
+      "metadata": {
+        "reference": "Ephesians 4:18",
+        "verseKey": "kjv:ephesians:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ephesians:4:19",
+      "numberLabel": "19",
+      "text": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
+      "metadata": {
+        "reference": "Ephesians 4:19",
+        "verseKey": "kjv:ephesians:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ephesians:4:20",
+      "numberLabel": "20",
+      "text": "But ye have not so learned Christ;",
+      "metadata": {
+        "reference": "Ephesians 4:20",
+        "verseKey": "kjv:ephesians:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ephesians:4:21",
+      "numberLabel": "21",
+      "text": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
+      "metadata": {
+        "reference": "Ephesians 4:21",
+        "verseKey": "kjv:ephesians:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ephesians:4:22",
+      "numberLabel": "22",
+      "text": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
+      "metadata": {
+        "reference": "Ephesians 4:22",
+        "verseKey": "kjv:ephesians:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ephesians:4:23",
+      "numberLabel": "23",
+      "text": "And be renewed in the spirit of your mind;",
+      "metadata": {
+        "reference": "Ephesians 4:23",
+        "verseKey": "kjv:ephesians:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ephesians:4:24",
+      "numberLabel": "24",
+      "text": "And that ye put on the new man, which after God is created in righteousness and true holiness.",
+      "metadata": {
+        "reference": "Ephesians 4:24",
+        "verseKey": "kjv:ephesians:4:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ephesians:4:25",
+      "numberLabel": "25",
+      "text": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
+      "metadata": {
+        "reference": "Ephesians 4:25",
+        "verseKey": "kjv:ephesians:4:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ephesians:4:26",
+      "numberLabel": "26",
+      "text": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
+      "metadata": {
+        "reference": "Ephesians 4:26",
+        "verseKey": "kjv:ephesians:4:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:ephesians:4:27",
+      "numberLabel": "27",
+      "text": "Neither give place to the devil.",
+      "metadata": {
+        "reference": "Ephesians 4:27",
+        "verseKey": "kjv:ephesians:4:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:ephesians:4:28",
+      "numberLabel": "28",
+      "text": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.",
+      "metadata": {
+        "reference": "Ephesians 4:28",
+        "verseKey": "kjv:ephesians:4:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:ephesians:4:29",
+      "numberLabel": "29",
+      "text": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+      "metadata": {
+        "reference": "Ephesians 4:29",
+        "verseKey": "kjv:ephesians:4:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:ephesians:4:30",
+      "numberLabel": "30",
+      "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+      "metadata": {
+        "reference": "Ephesians 4:30",
+        "verseKey": "kjv:ephesians:4:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:ephesians:4:31",
+      "numberLabel": "31",
+      "text": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+      "metadata": {
+        "reference": "Ephesians 4:31",
+        "verseKey": "kjv:ephesians:4:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:ephesians:4:32",
+      "numberLabel": "32",
+      "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.",
+      "metadata": {
+        "reference": "Ephesians 4:32",
+        "verseKey": "kjv:ephesians:4:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ephesians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ephesians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

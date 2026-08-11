@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "Proverbs 28",
+  "display_title": "Proverbs 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 28,
+  "sortOrder": 20028,
+  "verseCount": 28,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:28:1",
+      "numberLabel": "1",
+      "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+      "metadata": {
+        "reference": "Proverbs 28:1",
+        "verseKey": "kjv:proverbs:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:28:2",
+      "numberLabel": "2",
+      "text": "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.",
+      "metadata": {
+        "reference": "Proverbs 28:2",
+        "verseKey": "kjv:proverbs:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:28:3",
+      "numberLabel": "3",
+      "text": "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.",
+      "metadata": {
+        "reference": "Proverbs 28:3",
+        "verseKey": "kjv:proverbs:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:28:4",
+      "numberLabel": "4",
+      "text": "They that forsake the law praise the wicked: but such as keep the law contend with them.",
+      "metadata": {
+        "reference": "Proverbs 28:4",
+        "verseKey": "kjv:proverbs:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:28:5",
+      "numberLabel": "5",
+      "text": "Evil men understand not judgment: but they that seek the LORD understand all things.",
+      "metadata": {
+        "reference": "Proverbs 28:5",
+        "verseKey": "kjv:proverbs:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:28:6",
+      "numberLabel": "6",
+      "text": "Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.",
+      "metadata": {
+        "reference": "Proverbs 28:6",
+        "verseKey": "kjv:proverbs:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:28:7",
+      "numberLabel": "7",
+      "text": "Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.",
+      "metadata": {
+        "reference": "Proverbs 28:7",
+        "verseKey": "kjv:proverbs:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:28:8",
+      "numberLabel": "8",
+      "text": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
+      "metadata": {
+        "reference": "Proverbs 28:8",
+        "verseKey": "kjv:proverbs:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:28:9",
+      "numberLabel": "9",
+      "text": "He that turneth away his ear from hearing the law, even his prayer shall be abomination.",
+      "metadata": {
+        "reference": "Proverbs 28:9",
+        "verseKey": "kjv:proverbs:28:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:28:10",
+      "numberLabel": "10",
+      "text": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.",
+      "metadata": {
+        "reference": "Proverbs 28:10",
+        "verseKey": "kjv:proverbs:28:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:28:11",
+      "numberLabel": "11",
+      "text": "The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.",
+      "metadata": {
+        "reference": "Proverbs 28:11",
+        "verseKey": "kjv:proverbs:28:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:28:12",
+      "numberLabel": "12",
+      "text": "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.",
+      "metadata": {
+        "reference": "Proverbs 28:12",
+        "verseKey": "kjv:proverbs:28:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:28:13",
+      "numberLabel": "13",
+      "text": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.",
+      "metadata": {
+        "reference": "Proverbs 28:13",
+        "verseKey": "kjv:proverbs:28:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:28:14",
+      "numberLabel": "14",
+      "text": "Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
+      "metadata": {
+        "reference": "Proverbs 28:14",
+        "verseKey": "kjv:proverbs:28:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:28:15",
+      "numberLabel": "15",
+      "text": "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.",
+      "metadata": {
+        "reference": "Proverbs 28:15",
+        "verseKey": "kjv:proverbs:28:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:28:16",
+      "numberLabel": "16",
+      "text": "The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.",
+      "metadata": {
+        "reference": "Proverbs 28:16",
+        "verseKey": "kjv:proverbs:28:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:28:17",
+      "numberLabel": "17",
+      "text": "A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.",
+      "metadata": {
+        "reference": "Proverbs 28:17",
+        "verseKey": "kjv:proverbs:28:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:28:18",
+      "numberLabel": "18",
+      "text": "Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.",
+      "metadata": {
+        "reference": "Proverbs 28:18",
+        "verseKey": "kjv:proverbs:28:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:28:19",
+      "numberLabel": "19",
+      "text": "He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.",
+      "metadata": {
+        "reference": "Proverbs 28:19",
+        "verseKey": "kjv:proverbs:28:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:28:20",
+      "numberLabel": "20",
+      "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+      "metadata": {
+        "reference": "Proverbs 28:20",
+        "verseKey": "kjv:proverbs:28:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:28:21",
+      "numberLabel": "21",
+      "text": "To have respect of persons is not good: for for a piece of bread that man will transgress.",
+      "metadata": {
+        "reference": "Proverbs 28:21",
+        "verseKey": "kjv:proverbs:28:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:28:22",
+      "numberLabel": "22",
+      "text": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
+      "metadata": {
+        "reference": "Proverbs 28:22",
+        "verseKey": "kjv:proverbs:28:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:28:23",
+      "numberLabel": "23",
+      "text": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
+      "metadata": {
+        "reference": "Proverbs 28:23",
+        "verseKey": "kjv:proverbs:28:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:28:24",
+      "numberLabel": "24",
+      "text": "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.",
+      "metadata": {
+        "reference": "Proverbs 28:24",
+        "verseKey": "kjv:proverbs:28:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:28:25",
+      "numberLabel": "25",
+      "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
+      "metadata": {
+        "reference": "Proverbs 28:25",
+        "verseKey": "kjv:proverbs:28:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:28:26",
+      "numberLabel": "26",
+      "text": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
+      "metadata": {
+        "reference": "Proverbs 28:26",
+        "verseKey": "kjv:proverbs:28:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:28:27",
+      "numberLabel": "27",
+      "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+      "metadata": {
+        "reference": "Proverbs 28:27",
+        "verseKey": "kjv:proverbs:28:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:28:28",
+      "numberLabel": "28",
+      "text": "When the wicked rise, men hide themselves: but when they perish, the righteous increase.",
+      "metadata": {
+        "reference": "Proverbs 28:28",
+        "verseKey": "kjv:proverbs:28:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

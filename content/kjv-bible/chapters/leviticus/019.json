@@ -1,0 +1,477 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Leviticus 19",
+  "display_title": "Leviticus 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 3019,
+  "verseCount": 37,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:19:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 19:1",
+        "verseKey": "kjv:leviticus:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:19:2",
+      "numberLabel": "2",
+      "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy.",
+      "metadata": {
+        "reference": "Leviticus 19:2",
+        "verseKey": "kjv:leviticus:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:19:3",
+      "numberLabel": "3",
+      "text": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 19:3",
+        "verseKey": "kjv:leviticus:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:19:4",
+      "numberLabel": "4",
+      "text": "Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 19:4",
+        "verseKey": "kjv:leviticus:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:19:5",
+      "numberLabel": "5",
+      "text": "And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.",
+      "metadata": {
+        "reference": "Leviticus 19:5",
+        "verseKey": "kjv:leviticus:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:19:6",
+      "numberLabel": "6",
+      "text": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.",
+      "metadata": {
+        "reference": "Leviticus 19:6",
+        "verseKey": "kjv:leviticus:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:19:7",
+      "numberLabel": "7",
+      "text": "And if it be eaten at all on the third day, it is abominable; it shall not be accepted.",
+      "metadata": {
+        "reference": "Leviticus 19:7",
+        "verseKey": "kjv:leviticus:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:19:8",
+      "numberLabel": "8",
+      "text": "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.",
+      "metadata": {
+        "reference": "Leviticus 19:8",
+        "verseKey": "kjv:leviticus:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:19:9",
+      "numberLabel": "9",
+      "text": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.",
+      "metadata": {
+        "reference": "Leviticus 19:9",
+        "verseKey": "kjv:leviticus:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:19:10",
+      "numberLabel": "10",
+      "text": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 19:10",
+        "verseKey": "kjv:leviticus:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:19:11",
+      "numberLabel": "11",
+      "text": "Ye shall not steal, neither deal falsely, neither lie one to another.",
+      "metadata": {
+        "reference": "Leviticus 19:11",
+        "verseKey": "kjv:leviticus:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:19:12",
+      "numberLabel": "12",
+      "text": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:12",
+        "verseKey": "kjv:leviticus:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:19:13",
+      "numberLabel": "13",
+      "text": "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning.",
+      "metadata": {
+        "reference": "Leviticus 19:13",
+        "verseKey": "kjv:leviticus:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:19:14",
+      "numberLabel": "14",
+      "text": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:14",
+        "verseKey": "kjv:leviticus:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:19:15",
+      "numberLabel": "15",
+      "text": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty: but in righteousness shalt thou judge thy neighbour.",
+      "metadata": {
+        "reference": "Leviticus 19:15",
+        "verseKey": "kjv:leviticus:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:19:16",
+      "numberLabel": "16",
+      "text": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:16",
+        "verseKey": "kjv:leviticus:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:19:17",
+      "numberLabel": "17",
+      "text": "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.",
+      "metadata": {
+        "reference": "Leviticus 19:17",
+        "verseKey": "kjv:leviticus:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:19:18",
+      "numberLabel": "18",
+      "text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:18",
+        "verseKey": "kjv:leviticus:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:19:19",
+      "numberLabel": "19",
+      "text": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.",
+      "metadata": {
+        "reference": "Leviticus 19:19",
+        "verseKey": "kjv:leviticus:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:19:20",
+      "numberLabel": "20",
+      "text": "And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.",
+      "metadata": {
+        "reference": "Leviticus 19:20",
+        "verseKey": "kjv:leviticus:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:19:21",
+      "numberLabel": "21",
+      "text": "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.",
+      "metadata": {
+        "reference": "Leviticus 19:21",
+        "verseKey": "kjv:leviticus:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:19:22",
+      "numberLabel": "22",
+      "text": "And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him.",
+      "metadata": {
+        "reference": "Leviticus 19:22",
+        "verseKey": "kjv:leviticus:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:19:23",
+      "numberLabel": "23",
+      "text": "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.",
+      "metadata": {
+        "reference": "Leviticus 19:23",
+        "verseKey": "kjv:leviticus:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:19:24",
+      "numberLabel": "24",
+      "text": "But in the fourth year all the fruit thereof shall be holy to praise the LORD withal.",
+      "metadata": {
+        "reference": "Leviticus 19:24",
+        "verseKey": "kjv:leviticus:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:19:25",
+      "numberLabel": "25",
+      "text": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 19:25",
+        "verseKey": "kjv:leviticus:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:19:26",
+      "numberLabel": "26",
+      "text": "Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times.",
+      "metadata": {
+        "reference": "Leviticus 19:26",
+        "verseKey": "kjv:leviticus:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:19:27",
+      "numberLabel": "27",
+      "text": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.",
+      "metadata": {
+        "reference": "Leviticus 19:27",
+        "verseKey": "kjv:leviticus:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:19:28",
+      "numberLabel": "28",
+      "text": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:28",
+        "verseKey": "kjv:leviticus:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:19:29",
+      "numberLabel": "29",
+      "text": "Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.",
+      "metadata": {
+        "reference": "Leviticus 19:29",
+        "verseKey": "kjv:leviticus:19:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:19:30",
+      "numberLabel": "30",
+      "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:30",
+        "verseKey": "kjv:leviticus:19:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:19:31",
+      "numberLabel": "31",
+      "text": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 19:31",
+        "verseKey": "kjv:leviticus:19:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:19:32",
+      "numberLabel": "32",
+      "text": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:32",
+        "verseKey": "kjv:leviticus:19:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:19:33",
+      "numberLabel": "33",
+      "text": "And if a stranger sojourn with thee in your land, ye shall not vex him.",
+      "metadata": {
+        "reference": "Leviticus 19:33",
+        "verseKey": "kjv:leviticus:19:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:19:34",
+      "numberLabel": "34",
+      "text": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 19:34",
+        "verseKey": "kjv:leviticus:19:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:leviticus:19:35",
+      "numberLabel": "35",
+      "text": "Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.",
+      "metadata": {
+        "reference": "Leviticus 19:35",
+        "verseKey": "kjv:leviticus:19:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:leviticus:19:36",
+      "numberLabel": "36",
+      "text": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the LORD your God, which brought you out of the land of Egypt.",
+      "metadata": {
+        "reference": "Leviticus 19:36",
+        "verseKey": "kjv:leviticus:19:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:leviticus:19:37",
+      "numberLabel": "37",
+      "text": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 19:37",
+        "verseKey": "kjv:leviticus:19:37"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

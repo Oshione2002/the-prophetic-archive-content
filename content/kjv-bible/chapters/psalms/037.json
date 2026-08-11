@@ -1,0 +1,515 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-037",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 37,
+  "title": "Psalms 37",
+  "display_title": "Psalms 37",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 37,
+  "sortOrder": 19037,
+  "verseCount": 40,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:37:1",
+      "numberLabel": "1",
+      "text": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
+      "metadata": {
+        "reference": "Psalms 37:1",
+        "verseKey": "kjv:psalms:37:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:37:2",
+      "numberLabel": "2",
+      "text": "For they shall soon be cut down like the grass, and wither as the green herb.",
+      "metadata": {
+        "reference": "Psalms 37:2",
+        "verseKey": "kjv:psalms:37:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:37:3",
+      "numberLabel": "3",
+      "text": "Trust in the LORD, and do good; so shalt thou dwell in the land, and verily thou shalt be fed.",
+      "metadata": {
+        "reference": "Psalms 37:3",
+        "verseKey": "kjv:psalms:37:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:37:4",
+      "numberLabel": "4",
+      "text": "Delight thyself also in the LORD: and he shall give thee the desires of thine heart.",
+      "metadata": {
+        "reference": "Psalms 37:4",
+        "verseKey": "kjv:psalms:37:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:37:5",
+      "numberLabel": "5",
+      "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass.",
+      "metadata": {
+        "reference": "Psalms 37:5",
+        "verseKey": "kjv:psalms:37:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:37:6",
+      "numberLabel": "6",
+      "text": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.",
+      "metadata": {
+        "reference": "Psalms 37:6",
+        "verseKey": "kjv:psalms:37:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:37:7",
+      "numberLabel": "7",
+      "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+      "metadata": {
+        "reference": "Psalms 37:7",
+        "verseKey": "kjv:psalms:37:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:37:8",
+      "numberLabel": "8",
+      "text": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.",
+      "metadata": {
+        "reference": "Psalms 37:8",
+        "verseKey": "kjv:psalms:37:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:37:9",
+      "numberLabel": "9",
+      "text": "For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth.",
+      "metadata": {
+        "reference": "Psalms 37:9",
+        "verseKey": "kjv:psalms:37:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:37:10",
+      "numberLabel": "10",
+      "text": "For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be.",
+      "metadata": {
+        "reference": "Psalms 37:10",
+        "verseKey": "kjv:psalms:37:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:37:11",
+      "numberLabel": "11",
+      "text": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.",
+      "metadata": {
+        "reference": "Psalms 37:11",
+        "verseKey": "kjv:psalms:37:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:37:12",
+      "numberLabel": "12",
+      "text": "The wicked plotteth against the just, and gnasheth upon him with his teeth.",
+      "metadata": {
+        "reference": "Psalms 37:12",
+        "verseKey": "kjv:psalms:37:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:37:13",
+      "numberLabel": "13",
+      "text": "The LORD shall laugh at him: for he seeth that his day is coming.",
+      "metadata": {
+        "reference": "Psalms 37:13",
+        "verseKey": "kjv:psalms:37:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:37:14",
+      "numberLabel": "14",
+      "text": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.",
+      "metadata": {
+        "reference": "Psalms 37:14",
+        "verseKey": "kjv:psalms:37:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:37:15",
+      "numberLabel": "15",
+      "text": "Their sword shall enter into their own heart, and their bows shall be broken.",
+      "metadata": {
+        "reference": "Psalms 37:15",
+        "verseKey": "kjv:psalms:37:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:37:16",
+      "numberLabel": "16",
+      "text": "A little that a righteous man hath is better than the riches of many wicked.",
+      "metadata": {
+        "reference": "Psalms 37:16",
+        "verseKey": "kjv:psalms:37:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:37:17",
+      "numberLabel": "17",
+      "text": "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous.",
+      "metadata": {
+        "reference": "Psalms 37:17",
+        "verseKey": "kjv:psalms:37:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:37:18",
+      "numberLabel": "18",
+      "text": "The LORD knoweth the days of the upright: and their inheritance shall be for ever.",
+      "metadata": {
+        "reference": "Psalms 37:18",
+        "verseKey": "kjv:psalms:37:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:37:19",
+      "numberLabel": "19",
+      "text": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.",
+      "metadata": {
+        "reference": "Psalms 37:19",
+        "verseKey": "kjv:psalms:37:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:37:20",
+      "numberLabel": "20",
+      "text": "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away.",
+      "metadata": {
+        "reference": "Psalms 37:20",
+        "verseKey": "kjv:psalms:37:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:37:21",
+      "numberLabel": "21",
+      "text": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.",
+      "metadata": {
+        "reference": "Psalms 37:21",
+        "verseKey": "kjv:psalms:37:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:37:22",
+      "numberLabel": "22",
+      "text": "For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off.",
+      "metadata": {
+        "reference": "Psalms 37:22",
+        "verseKey": "kjv:psalms:37:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:37:23",
+      "numberLabel": "23",
+      "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way.",
+      "metadata": {
+        "reference": "Psalms 37:23",
+        "verseKey": "kjv:psalms:37:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:37:24",
+      "numberLabel": "24",
+      "text": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand.",
+      "metadata": {
+        "reference": "Psalms 37:24",
+        "verseKey": "kjv:psalms:37:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:37:25",
+      "numberLabel": "25",
+      "text": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
+      "metadata": {
+        "reference": "Psalms 37:25",
+        "verseKey": "kjv:psalms:37:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:37:26",
+      "numberLabel": "26",
+      "text": "He is ever merciful, and lendeth; and his seed is blessed.",
+      "metadata": {
+        "reference": "Psalms 37:26",
+        "verseKey": "kjv:psalms:37:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:37:27",
+      "numberLabel": "27",
+      "text": "Depart from evil, and do good; and dwell for evermore.",
+      "metadata": {
+        "reference": "Psalms 37:27",
+        "verseKey": "kjv:psalms:37:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:37:28",
+      "numberLabel": "28",
+      "text": "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+      "metadata": {
+        "reference": "Psalms 37:28",
+        "verseKey": "kjv:psalms:37:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:psalms:37:29",
+      "numberLabel": "29",
+      "text": "The righteous shall inherit the land, and dwell therein for ever.",
+      "metadata": {
+        "reference": "Psalms 37:29",
+        "verseKey": "kjv:psalms:37:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:psalms:37:30",
+      "numberLabel": "30",
+      "text": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+      "metadata": {
+        "reference": "Psalms 37:30",
+        "verseKey": "kjv:psalms:37:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:psalms:37:31",
+      "numberLabel": "31",
+      "text": "The law of his God is in his heart; none of his steps shall slide.",
+      "metadata": {
+        "reference": "Psalms 37:31",
+        "verseKey": "kjv:psalms:37:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:psalms:37:32",
+      "numberLabel": "32",
+      "text": "The wicked watcheth the righteous, and seeketh to slay him.",
+      "metadata": {
+        "reference": "Psalms 37:32",
+        "verseKey": "kjv:psalms:37:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:psalms:37:33",
+      "numberLabel": "33",
+      "text": "The LORD will not leave him in his hand, nor condemn him when he is judged.",
+      "metadata": {
+        "reference": "Psalms 37:33",
+        "verseKey": "kjv:psalms:37:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:psalms:37:34",
+      "numberLabel": "34",
+      "text": "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.",
+      "metadata": {
+        "reference": "Psalms 37:34",
+        "verseKey": "kjv:psalms:37:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:psalms:37:35",
+      "numberLabel": "35",
+      "text": "I have seen the wicked in great power, and spreading himself like a green bay tree.",
+      "metadata": {
+        "reference": "Psalms 37:35",
+        "verseKey": "kjv:psalms:37:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:psalms:37:36",
+      "numberLabel": "36",
+      "text": "Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found.",
+      "metadata": {
+        "reference": "Psalms 37:36",
+        "verseKey": "kjv:psalms:37:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:psalms:37:37",
+      "numberLabel": "37",
+      "text": "Mark the perfect man, and behold the upright: for the end of that man is peace.",
+      "metadata": {
+        "reference": "Psalms 37:37",
+        "verseKey": "kjv:psalms:37:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:psalms:37:38",
+      "numberLabel": "38",
+      "text": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off.",
+      "metadata": {
+        "reference": "Psalms 37:38",
+        "verseKey": "kjv:psalms:37:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:psalms:37:39",
+      "numberLabel": "39",
+      "text": "But the salvation of the righteous is of the LORD: he is their strength in the time of trouble.",
+      "metadata": {
+        "reference": "Psalms 37:39",
+        "verseKey": "kjv:psalms:37:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:psalms:37:40",
+      "numberLabel": "40",
+      "text": "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
+      "metadata": {
+        "reference": "Psalms 37:40",
+        "verseKey": "kjv:psalms:37:40"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

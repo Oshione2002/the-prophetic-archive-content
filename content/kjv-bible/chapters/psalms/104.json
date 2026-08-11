@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-104",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 104,
+  "title": "Psalms 104",
+  "display_title": "Psalms 104",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 104,
+  "sortOrder": 19104,
+  "verseCount": 35,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:104:1",
+      "numberLabel": "1",
+      "text": "Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.",
+      "metadata": {
+        "reference": "Psalms 104:1",
+        "verseKey": "kjv:psalms:104:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:104:2",
+      "numberLabel": "2",
+      "text": "Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:",
+      "metadata": {
+        "reference": "Psalms 104:2",
+        "verseKey": "kjv:psalms:104:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:104:3",
+      "numberLabel": "3",
+      "text": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:",
+      "metadata": {
+        "reference": "Psalms 104:3",
+        "verseKey": "kjv:psalms:104:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:104:4",
+      "numberLabel": "4",
+      "text": "Who maketh his angels spirits; his ministers a flaming fire:",
+      "metadata": {
+        "reference": "Psalms 104:4",
+        "verseKey": "kjv:psalms:104:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:104:5",
+      "numberLabel": "5",
+      "text": "Who laid the foundations of the earth, that it should not be removed for ever.",
+      "metadata": {
+        "reference": "Psalms 104:5",
+        "verseKey": "kjv:psalms:104:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:104:6",
+      "numberLabel": "6",
+      "text": "Thou coveredst it with the deep as with a garment: the waters stood above the mountains.",
+      "metadata": {
+        "reference": "Psalms 104:6",
+        "verseKey": "kjv:psalms:104:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:104:7",
+      "numberLabel": "7",
+      "text": "At thy rebuke they fled; at the voice of thy thunder they hasted away.",
+      "metadata": {
+        "reference": "Psalms 104:7",
+        "verseKey": "kjv:psalms:104:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:104:8",
+      "numberLabel": "8",
+      "text": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them.",
+      "metadata": {
+        "reference": "Psalms 104:8",
+        "verseKey": "kjv:psalms:104:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:104:9",
+      "numberLabel": "9",
+      "text": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.",
+      "metadata": {
+        "reference": "Psalms 104:9",
+        "verseKey": "kjv:psalms:104:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:104:10",
+      "numberLabel": "10",
+      "text": "He sendeth the springs into the valleys, which run among the hills.",
+      "metadata": {
+        "reference": "Psalms 104:10",
+        "verseKey": "kjv:psalms:104:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:104:11",
+      "numberLabel": "11",
+      "text": "They give drink to every beast of the field: the wild asses quench their thirst.",
+      "metadata": {
+        "reference": "Psalms 104:11",
+        "verseKey": "kjv:psalms:104:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:104:12",
+      "numberLabel": "12",
+      "text": "By them shall the fowls of the heaven have their habitation, which sing among the branches.",
+      "metadata": {
+        "reference": "Psalms 104:12",
+        "verseKey": "kjv:psalms:104:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:104:13",
+      "numberLabel": "13",
+      "text": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.",
+      "metadata": {
+        "reference": "Psalms 104:13",
+        "verseKey": "kjv:psalms:104:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:104:14",
+      "numberLabel": "14",
+      "text": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;",
+      "metadata": {
+        "reference": "Psalms 104:14",
+        "verseKey": "kjv:psalms:104:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:104:15",
+      "numberLabel": "15",
+      "text": "And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.",
+      "metadata": {
+        "reference": "Psalms 104:15",
+        "verseKey": "kjv:psalms:104:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:104:16",
+      "numberLabel": "16",
+      "text": "The trees of the LORD are full of sap; the cedars of Lebanon, which he hath planted;",
+      "metadata": {
+        "reference": "Psalms 104:16",
+        "verseKey": "kjv:psalms:104:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:104:17",
+      "numberLabel": "17",
+      "text": "Where the birds make their nests: as for the stork, the fir trees are her house.",
+      "metadata": {
+        "reference": "Psalms 104:17",
+        "verseKey": "kjv:psalms:104:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:104:18",
+      "numberLabel": "18",
+      "text": "The high hills are a refuge for the wild goats; and the rocks for the conies.",
+      "metadata": {
+        "reference": "Psalms 104:18",
+        "verseKey": "kjv:psalms:104:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:104:19",
+      "numberLabel": "19",
+      "text": "He appointed the moon for seasons: the sun knoweth his going down.",
+      "metadata": {
+        "reference": "Psalms 104:19",
+        "verseKey": "kjv:psalms:104:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:104:20",
+      "numberLabel": "20",
+      "text": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.",
+      "metadata": {
+        "reference": "Psalms 104:20",
+        "verseKey": "kjv:psalms:104:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:104:21",
+      "numberLabel": "21",
+      "text": "The young lions roar after their prey, and seek their meat from God.",
+      "metadata": {
+        "reference": "Psalms 104:21",
+        "verseKey": "kjv:psalms:104:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:104:22",
+      "numberLabel": "22",
+      "text": "The sun ariseth, they gather themselves together, and lay them down in their dens.",
+      "metadata": {
+        "reference": "Psalms 104:22",
+        "verseKey": "kjv:psalms:104:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:104:23",
+      "numberLabel": "23",
+      "text": "Man goeth forth unto his work and to his labour until the evening.",
+      "metadata": {
+        "reference": "Psalms 104:23",
+        "verseKey": "kjv:psalms:104:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:104:24",
+      "numberLabel": "24",
+      "text": "O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
+      "metadata": {
+        "reference": "Psalms 104:24",
+        "verseKey": "kjv:psalms:104:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:104:25",
+      "numberLabel": "25",
+      "text": "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.",
+      "metadata": {
+        "reference": "Psalms 104:25",
+        "verseKey": "kjv:psalms:104:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:104:26",
+      "numberLabel": "26",
+      "text": "There go the ships: there is that leviathan, whom thou hast made to play therein.",
+      "metadata": {
+        "reference": "Psalms 104:26",
+        "verseKey": "kjv:psalms:104:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:104:27",
+      "numberLabel": "27",
+      "text": "These wait all upon thee; that thou mayest give them their meat in due season.",
+      "metadata": {
+        "reference": "Psalms 104:27",
+        "verseKey": "kjv:psalms:104:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:104:28",
+      "numberLabel": "28",
+      "text": "That thou givest them they gather: thou openest thine hand, they are filled with good.",
+      "metadata": {
+        "reference": "Psalms 104:28",
+        "verseKey": "kjv:psalms:104:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:psalms:104:29",
+      "numberLabel": "29",
+      "text": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
+      "metadata": {
+        "reference": "Psalms 104:29",
+        "verseKey": "kjv:psalms:104:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:psalms:104:30",
+      "numberLabel": "30",
+      "text": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
+      "metadata": {
+        "reference": "Psalms 104:30",
+        "verseKey": "kjv:psalms:104:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:psalms:104:31",
+      "numberLabel": "31",
+      "text": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.",
+      "metadata": {
+        "reference": "Psalms 104:31",
+        "verseKey": "kjv:psalms:104:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:psalms:104:32",
+      "numberLabel": "32",
+      "text": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.",
+      "metadata": {
+        "reference": "Psalms 104:32",
+        "verseKey": "kjv:psalms:104:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:psalms:104:33",
+      "numberLabel": "33",
+      "text": "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being.",
+      "metadata": {
+        "reference": "Psalms 104:33",
+        "verseKey": "kjv:psalms:104:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:psalms:104:34",
+      "numberLabel": "34",
+      "text": "My meditation of him shall be sweet: I will be glad in the LORD.",
+      "metadata": {
+        "reference": "Psalms 104:34",
+        "verseKey": "kjv:psalms:104:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:psalms:104:35",
+      "numberLabel": "35",
+      "text": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.",
+      "metadata": {
+        "reference": "Psalms 104:35",
+        "verseKey": "kjv:psalms:104:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

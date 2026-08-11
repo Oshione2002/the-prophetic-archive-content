@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Luke 9",
+  "display_title": "Luke 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 9,
+  "sortOrder": 42009,
+  "verseCount": 62,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:9:1",
+      "numberLabel": "1",
+      "text": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.",
+      "metadata": {
+        "reference": "Luke 9:1",
+        "verseKey": "kjv:luke:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:9:2",
+      "numberLabel": "2",
+      "text": "And he sent them to preach the kingdom of God, and to heal the sick.",
+      "metadata": {
+        "reference": "Luke 9:2",
+        "verseKey": "kjv:luke:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:9:3",
+      "numberLabel": "3",
+      "text": "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.",
+      "metadata": {
+        "reference": "Luke 9:3",
+        "verseKey": "kjv:luke:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:9:4",
+      "numberLabel": "4",
+      "text": "And whatsoever house ye enter into, there abide, and thence depart.",
+      "metadata": {
+        "reference": "Luke 9:4",
+        "verseKey": "kjv:luke:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:9:5",
+      "numberLabel": "5",
+      "text": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.",
+      "metadata": {
+        "reference": "Luke 9:5",
+        "verseKey": "kjv:luke:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:9:6",
+      "numberLabel": "6",
+      "text": "And they departed, and went through the towns, preaching the gospel, and healing every where.",
+      "metadata": {
+        "reference": "Luke 9:6",
+        "verseKey": "kjv:luke:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:9:7",
+      "numberLabel": "7",
+      "text": "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;",
+      "metadata": {
+        "reference": "Luke 9:7",
+        "verseKey": "kjv:luke:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:9:8",
+      "numberLabel": "8",
+      "text": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.",
+      "metadata": {
+        "reference": "Luke 9:8",
+        "verseKey": "kjv:luke:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:9:9",
+      "numberLabel": "9",
+      "text": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.",
+      "metadata": {
+        "reference": "Luke 9:9",
+        "verseKey": "kjv:luke:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:9:10",
+      "numberLabel": "10",
+      "text": "And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.",
+      "metadata": {
+        "reference": "Luke 9:10",
+        "verseKey": "kjv:luke:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:9:11",
+      "numberLabel": "11",
+      "text": "And the people, when they knew it, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing.",
+      "metadata": {
+        "reference": "Luke 9:11",
+        "verseKey": "kjv:luke:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:9:12",
+      "numberLabel": "12",
+      "text": "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place.",
+      "metadata": {
+        "reference": "Luke 9:12",
+        "verseKey": "kjv:luke:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:9:13",
+      "numberLabel": "13",
+      "text": "But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.",
+      "metadata": {
+        "reference": "Luke 9:13",
+        "verseKey": "kjv:luke:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:9:14",
+      "numberLabel": "14",
+      "text": "For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.",
+      "metadata": {
+        "reference": "Luke 9:14",
+        "verseKey": "kjv:luke:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:9:15",
+      "numberLabel": "15",
+      "text": "And they did so, and made them all sit down.",
+      "metadata": {
+        "reference": "Luke 9:15",
+        "verseKey": "kjv:luke:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:9:16",
+      "numberLabel": "16",
+      "text": "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude.",
+      "metadata": {
+        "reference": "Luke 9:16",
+        "verseKey": "kjv:luke:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:9:17",
+      "numberLabel": "17",
+      "text": "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets.",
+      "metadata": {
+        "reference": "Luke 9:17",
+        "verseKey": "kjv:luke:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:9:18",
+      "numberLabel": "18",
+      "text": "And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?",
+      "metadata": {
+        "reference": "Luke 9:18",
+        "verseKey": "kjv:luke:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:9:19",
+      "numberLabel": "19",
+      "text": "They answering said, John the Baptist; but some say, Elias; and others say, that one of the old prophets is risen again.",
+      "metadata": {
+        "reference": "Luke 9:19",
+        "verseKey": "kjv:luke:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:9:20",
+      "numberLabel": "20",
+      "text": "He said unto them, But whom say ye that I am? Peter answering said, The Christ of God.",
+      "metadata": {
+        "reference": "Luke 9:20",
+        "verseKey": "kjv:luke:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:9:21",
+      "numberLabel": "21",
+      "text": "And he straitly charged them, and commanded them to tell no man that thing;",
+      "metadata": {
+        "reference": "Luke 9:21",
+        "verseKey": "kjv:luke:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:9:22",
+      "numberLabel": "22",
+      "text": "Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.",
+      "metadata": {
+        "reference": "Luke 9:22",
+        "verseKey": "kjv:luke:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:9:23",
+      "numberLabel": "23",
+      "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.",
+      "metadata": {
+        "reference": "Luke 9:23",
+        "verseKey": "kjv:luke:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:9:24",
+      "numberLabel": "24",
+      "text": "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.",
+      "metadata": {
+        "reference": "Luke 9:24",
+        "verseKey": "kjv:luke:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:9:25",
+      "numberLabel": "25",
+      "text": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?",
+      "metadata": {
+        "reference": "Luke 9:25",
+        "verseKey": "kjv:luke:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:9:26",
+      "numberLabel": "26",
+      "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels.",
+      "metadata": {
+        "reference": "Luke 9:26",
+        "verseKey": "kjv:luke:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:9:27",
+      "numberLabel": "27",
+      "text": "But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God.",
+      "metadata": {
+        "reference": "Luke 9:27",
+        "verseKey": "kjv:luke:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:9:28",
+      "numberLabel": "28",
+      "text": "And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.",
+      "metadata": {
+        "reference": "Luke 9:28",
+        "verseKey": "kjv:luke:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:9:29",
+      "numberLabel": "29",
+      "text": "And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering.",
+      "metadata": {
+        "reference": "Luke 9:29",
+        "verseKey": "kjv:luke:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:9:30",
+      "numberLabel": "30",
+      "text": "And, behold, there talked with him two men, which were Moses and Elias:",
+      "metadata": {
+        "reference": "Luke 9:30",
+        "verseKey": "kjv:luke:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:9:31",
+      "numberLabel": "31",
+      "text": "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.",
+      "metadata": {
+        "reference": "Luke 9:31",
+        "verseKey": "kjv:luke:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:9:32",
+      "numberLabel": "32",
+      "text": "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.",
+      "metadata": {
+        "reference": "Luke 9:32",
+        "verseKey": "kjv:luke:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:luke:9:33",
+      "numberLabel": "33",
+      "text": "And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said.",
+      "metadata": {
+        "reference": "Luke 9:33",
+        "verseKey": "kjv:luke:9:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:luke:9:34",
+      "numberLabel": "34",
+      "text": "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud.",
+      "metadata": {
+        "reference": "Luke 9:34",
+        "verseKey": "kjv:luke:9:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:luke:9:35",
+      "numberLabel": "35",
+      "text": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him.",
+      "metadata": {
+        "reference": "Luke 9:35",
+        "verseKey": "kjv:luke:9:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:luke:9:36",
+      "numberLabel": "36",
+      "text": "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen.",
+      "metadata": {
+        "reference": "Luke 9:36",
+        "verseKey": "kjv:luke:9:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:luke:9:37",
+      "numberLabel": "37",
+      "text": "And it came to pass, that on the next day, when they were come down from the hill, much people met him.",
+      "metadata": {
+        "reference": "Luke 9:37",
+        "verseKey": "kjv:luke:9:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:luke:9:38",
+      "numberLabel": "38",
+      "text": "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child.",
+      "metadata": {
+        "reference": "Luke 9:38",
+        "verseKey": "kjv:luke:9:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:luke:9:39",
+      "numberLabel": "39",
+      "text": "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him.",
+      "metadata": {
+        "reference": "Luke 9:39",
+        "verseKey": "kjv:luke:9:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:luke:9:40",
+      "numberLabel": "40",
+      "text": "And I besought thy disciples to cast him out; and they could not.",
+      "metadata": {
+        "reference": "Luke 9:40",
+        "verseKey": "kjv:luke:9:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:luke:9:41",
+      "numberLabel": "41",
+      "text": "And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither.",
+      "metadata": {
+        "reference": "Luke 9:41",
+        "verseKey": "kjv:luke:9:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:luke:9:42",
+      "numberLabel": "42",
+      "text": "And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.",
+      "metadata": {
+        "reference": "Luke 9:42",
+        "verseKey": "kjv:luke:9:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:luke:9:43",
+      "numberLabel": "43",
+      "text": "And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,",
+      "metadata": {
+        "reference": "Luke 9:43",
+        "verseKey": "kjv:luke:9:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:luke:9:44",
+      "numberLabel": "44",
+      "text": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.",
+      "metadata": {
+        "reference": "Luke 9:44",
+        "verseKey": "kjv:luke:9:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:luke:9:45",
+      "numberLabel": "45",
+      "text": "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.",
+      "metadata": {
+        "reference": "Luke 9:45",
+        "verseKey": "kjv:luke:9:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:luke:9:46",
+      "numberLabel": "46",
+      "text": "Then there arose a reasoning among them, which of them should be greatest.",
+      "metadata": {
+        "reference": "Luke 9:46",
+        "verseKey": "kjv:luke:9:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:luke:9:47",
+      "numberLabel": "47",
+      "text": "And Jesus, perceiving the thought of their heart, took a child, and set him by him,",
+      "metadata": {
+        "reference": "Luke 9:47",
+        "verseKey": "kjv:luke:9:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:luke:9:48",
+      "numberLabel": "48",
+      "text": "And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.",
+      "metadata": {
+        "reference": "Luke 9:48",
+        "verseKey": "kjv:luke:9:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:luke:9:49",
+      "numberLabel": "49",
+      "text": "And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.",
+      "metadata": {
+        "reference": "Luke 9:49",
+        "verseKey": "kjv:luke:9:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:luke:9:50",
+      "numberLabel": "50",
+      "text": "And Jesus said unto him, Forbid him not: for he that is not against us is for us.",
+      "metadata": {
+        "reference": "Luke 9:50",
+        "verseKey": "kjv:luke:9:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:luke:9:51",
+      "numberLabel": "51",
+      "text": "And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,",
+      "metadata": {
+        "reference": "Luke 9:51",
+        "verseKey": "kjv:luke:9:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:luke:9:52",
+      "numberLabel": "52",
+      "text": "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him.",
+      "metadata": {
+        "reference": "Luke 9:52",
+        "verseKey": "kjv:luke:9:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:luke:9:53",
+      "numberLabel": "53",
+      "text": "And they did not receive him, because his face was as though he would go to Jerusalem.",
+      "metadata": {
+        "reference": "Luke 9:53",
+        "verseKey": "kjv:luke:9:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:luke:9:54",
+      "numberLabel": "54",
+      "text": "And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?",
+      "metadata": {
+        "reference": "Luke 9:54",
+        "verseKey": "kjv:luke:9:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:luke:9:55",
+      "numberLabel": "55",
+      "text": "But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.",
+      "metadata": {
+        "reference": "Luke 9:55",
+        "verseKey": "kjv:luke:9:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:luke:9:56",
+      "numberLabel": "56",
+      "text": "For the Son of man is not come to destroy men’s lives, but to save them. And they went to another village.",
+      "metadata": {
+        "reference": "Luke 9:56",
+        "verseKey": "kjv:luke:9:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:luke:9:57",
+      "numberLabel": "57",
+      "text": "And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.",
+      "metadata": {
+        "reference": "Luke 9:57",
+        "verseKey": "kjv:luke:9:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:luke:9:58",
+      "numberLabel": "58",
+      "text": "And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.",
+      "metadata": {
+        "reference": "Luke 9:58",
+        "verseKey": "kjv:luke:9:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:luke:9:59",
+      "numberLabel": "59",
+      "text": "And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.",
+      "metadata": {
+        "reference": "Luke 9:59",
+        "verseKey": "kjv:luke:9:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:luke:9:60",
+      "numberLabel": "60",
+      "text": "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.",
+      "metadata": {
+        "reference": "Luke 9:60",
+        "verseKey": "kjv:luke:9:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:luke:9:61",
+      "numberLabel": "61",
+      "text": "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house.",
+      "metadata": {
+        "reference": "Luke 9:61",
+        "verseKey": "kjv:luke:9:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:luke:9:62",
+      "numberLabel": "62",
+      "text": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.",
+      "metadata": {
+        "reference": "Luke 9:62",
+        "verseKey": "kjv:luke:9:62"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

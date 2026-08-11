@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Mark 11",
+  "display_title": "Mark 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 11,
+  "sortOrder": 41011,
+  "verseCount": 33,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:11:1",
+      "numberLabel": "1",
+      "text": "And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,",
+      "metadata": {
+        "reference": "Mark 11:1",
+        "verseKey": "kjv:mark:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:11:2",
+      "numberLabel": "2",
+      "text": "And saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him.",
+      "metadata": {
+        "reference": "Mark 11:2",
+        "verseKey": "kjv:mark:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:11:3",
+      "numberLabel": "3",
+      "text": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.",
+      "metadata": {
+        "reference": "Mark 11:3",
+        "verseKey": "kjv:mark:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:11:4",
+      "numberLabel": "4",
+      "text": "And they went their way, and found the colt tied by the door without in a place where two ways met; and they loose him.",
+      "metadata": {
+        "reference": "Mark 11:4",
+        "verseKey": "kjv:mark:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:11:5",
+      "numberLabel": "5",
+      "text": "And certain of them that stood there said unto them, What do ye, loosing the colt?",
+      "metadata": {
+        "reference": "Mark 11:5",
+        "verseKey": "kjv:mark:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:11:6",
+      "numberLabel": "6",
+      "text": "And they said unto them even as Jesus had commanded: and they let them go.",
+      "metadata": {
+        "reference": "Mark 11:6",
+        "verseKey": "kjv:mark:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:11:7",
+      "numberLabel": "7",
+      "text": "And they brought the colt to Jesus, and cast their garments on him; and he sat upon him.",
+      "metadata": {
+        "reference": "Mark 11:7",
+        "verseKey": "kjv:mark:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:11:8",
+      "numberLabel": "8",
+      "text": "And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way.",
+      "metadata": {
+        "reference": "Mark 11:8",
+        "verseKey": "kjv:mark:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:11:9",
+      "numberLabel": "9",
+      "text": "And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:",
+      "metadata": {
+        "reference": "Mark 11:9",
+        "verseKey": "kjv:mark:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:11:10",
+      "numberLabel": "10",
+      "text": "Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.",
+      "metadata": {
+        "reference": "Mark 11:10",
+        "verseKey": "kjv:mark:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:11:11",
+      "numberLabel": "11",
+      "text": "And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve.",
+      "metadata": {
+        "reference": "Mark 11:11",
+        "verseKey": "kjv:mark:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:11:12",
+      "numberLabel": "12",
+      "text": "And on the morrow, when they were come from Bethany, he was hungry:",
+      "metadata": {
+        "reference": "Mark 11:12",
+        "verseKey": "kjv:mark:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:11:13",
+      "numberLabel": "13",
+      "text": "And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not yet.",
+      "metadata": {
+        "reference": "Mark 11:13",
+        "verseKey": "kjv:mark:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:11:14",
+      "numberLabel": "14",
+      "text": "And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard it.",
+      "metadata": {
+        "reference": "Mark 11:14",
+        "verseKey": "kjv:mark:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:11:15",
+      "numberLabel": "15",
+      "text": "And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;",
+      "metadata": {
+        "reference": "Mark 11:15",
+        "verseKey": "kjv:mark:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:11:16",
+      "numberLabel": "16",
+      "text": "And would not suffer that any man should carry any vessel through the temple.",
+      "metadata": {
+        "reference": "Mark 11:16",
+        "verseKey": "kjv:mark:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:11:17",
+      "numberLabel": "17",
+      "text": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.",
+      "metadata": {
+        "reference": "Mark 11:17",
+        "verseKey": "kjv:mark:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:11:18",
+      "numberLabel": "18",
+      "text": "And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was astonished at his doctrine.",
+      "metadata": {
+        "reference": "Mark 11:18",
+        "verseKey": "kjv:mark:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:11:19",
+      "numberLabel": "19",
+      "text": "And when even was come, he went out of the city.",
+      "metadata": {
+        "reference": "Mark 11:19",
+        "verseKey": "kjv:mark:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:11:20",
+      "numberLabel": "20",
+      "text": "And in the morning, as they passed by, they saw the fig tree dried up from the roots.",
+      "metadata": {
+        "reference": "Mark 11:20",
+        "verseKey": "kjv:mark:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:11:21",
+      "numberLabel": "21",
+      "text": "And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.",
+      "metadata": {
+        "reference": "Mark 11:21",
+        "verseKey": "kjv:mark:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:11:22",
+      "numberLabel": "22",
+      "text": "And Jesus answering saith unto them, Have faith in God.",
+      "metadata": {
+        "reference": "Mark 11:22",
+        "verseKey": "kjv:mark:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:11:23",
+      "numberLabel": "23",
+      "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.",
+      "metadata": {
+        "reference": "Mark 11:23",
+        "verseKey": "kjv:mark:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:11:24",
+      "numberLabel": "24",
+      "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.",
+      "metadata": {
+        "reference": "Mark 11:24",
+        "verseKey": "kjv:mark:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:11:25",
+      "numberLabel": "25",
+      "text": "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.",
+      "metadata": {
+        "reference": "Mark 11:25",
+        "verseKey": "kjv:mark:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:11:26",
+      "numberLabel": "26",
+      "text": "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.",
+      "metadata": {
+        "reference": "Mark 11:26",
+        "verseKey": "kjv:mark:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:11:27",
+      "numberLabel": "27",
+      "text": "And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,",
+      "metadata": {
+        "reference": "Mark 11:27",
+        "verseKey": "kjv:mark:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:11:28",
+      "numberLabel": "28",
+      "text": "And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?",
+      "metadata": {
+        "reference": "Mark 11:28",
+        "verseKey": "kjv:mark:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:11:29",
+      "numberLabel": "29",
+      "text": "And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things.",
+      "metadata": {
+        "reference": "Mark 11:29",
+        "verseKey": "kjv:mark:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:11:30",
+      "numberLabel": "30",
+      "text": "The baptism of John, was it from heaven, or of men? answer me.",
+      "metadata": {
+        "reference": "Mark 11:30",
+        "verseKey": "kjv:mark:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:11:31",
+      "numberLabel": "31",
+      "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?",
+      "metadata": {
+        "reference": "Mark 11:31",
+        "verseKey": "kjv:mark:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:11:32",
+      "numberLabel": "32",
+      "text": "But if we shall say, Of men; they feared the people: for all men counted John, that he was a prophet indeed.",
+      "metadata": {
+        "reference": "Mark 11:32",
+        "verseKey": "kjv:mark:11:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:11:33",
+      "numberLabel": "33",
+      "text": "And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things.",
+      "metadata": {
+        "reference": "Mark 11:33",
+        "verseKey": "kjv:mark:11:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

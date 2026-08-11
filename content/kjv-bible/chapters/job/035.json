@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-035",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 35,
+  "title": "Job 35",
+  "display_title": "Job 35",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 35,
+  "sortOrder": 18035,
+  "verseCount": 16,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:35:1",
+      "numberLabel": "1",
+      "text": "Elihu spake moreover, and said,",
+      "metadata": {
+        "reference": "Job 35:1",
+        "verseKey": "kjv:job:35:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:35:2",
+      "numberLabel": "2",
+      "text": "Thinkest thou this to be right, that thou saidst, My righteousness is more than God’s?",
+      "metadata": {
+        "reference": "Job 35:2",
+        "verseKey": "kjv:job:35:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:35:3",
+      "numberLabel": "3",
+      "text": "For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?",
+      "metadata": {
+        "reference": "Job 35:3",
+        "verseKey": "kjv:job:35:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:35:4",
+      "numberLabel": "4",
+      "text": "I will answer thee, and thy companions with thee.",
+      "metadata": {
+        "reference": "Job 35:4",
+        "verseKey": "kjv:job:35:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:35:5",
+      "numberLabel": "5",
+      "text": "Look unto the heavens, and see; and behold the clouds which are higher than thou.",
+      "metadata": {
+        "reference": "Job 35:5",
+        "verseKey": "kjv:job:35:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:35:6",
+      "numberLabel": "6",
+      "text": "If thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?",
+      "metadata": {
+        "reference": "Job 35:6",
+        "verseKey": "kjv:job:35:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:35:7",
+      "numberLabel": "7",
+      "text": "If thou be righteous, what givest thou him? or what receiveth he of thine hand?",
+      "metadata": {
+        "reference": "Job 35:7",
+        "verseKey": "kjv:job:35:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:35:8",
+      "numberLabel": "8",
+      "text": "Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man.",
+      "metadata": {
+        "reference": "Job 35:8",
+        "verseKey": "kjv:job:35:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:35:9",
+      "numberLabel": "9",
+      "text": "By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.",
+      "metadata": {
+        "reference": "Job 35:9",
+        "verseKey": "kjv:job:35:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:35:10",
+      "numberLabel": "10",
+      "text": "But none saith, Where is God my maker, who giveth songs in the night;",
+      "metadata": {
+        "reference": "Job 35:10",
+        "verseKey": "kjv:job:35:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:35:11",
+      "numberLabel": "11",
+      "text": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?",
+      "metadata": {
+        "reference": "Job 35:11",
+        "verseKey": "kjv:job:35:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:35:12",
+      "numberLabel": "12",
+      "text": "There they cry, but none giveth answer, because of the pride of evil men.",
+      "metadata": {
+        "reference": "Job 35:12",
+        "verseKey": "kjv:job:35:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:35:13",
+      "numberLabel": "13",
+      "text": "Surely God will not hear vanity, neither will the Almighty regard it.",
+      "metadata": {
+        "reference": "Job 35:13",
+        "verseKey": "kjv:job:35:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:35:14",
+      "numberLabel": "14",
+      "text": "Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.",
+      "metadata": {
+        "reference": "Job 35:14",
+        "verseKey": "kjv:job:35:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:35:15",
+      "numberLabel": "15",
+      "text": "But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:",
+      "metadata": {
+        "reference": "Job 35:15",
+        "verseKey": "kjv:job:35:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:35:16",
+      "numberLabel": "16",
+      "text": "Therefore doth Job open his mouth in vain; he multiplieth words without knowledge.",
+      "metadata": {
+        "reference": "Job 35:16",
+        "verseKey": "kjv:job:35:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

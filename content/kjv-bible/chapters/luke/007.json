@@ -1,0 +1,632 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Luke 7",
+  "display_title": "Luke 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 7,
+  "sortOrder": 42007,
+  "verseCount": 50,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:7:1",
+      "numberLabel": "1",
+      "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.",
+      "metadata": {
+        "reference": "Luke 7:1",
+        "verseKey": "kjv:luke:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:7:2",
+      "numberLabel": "2",
+      "text": "And a certain centurion’s servant, who was dear unto him, was sick, and ready to die.",
+      "metadata": {
+        "reference": "Luke 7:2",
+        "verseKey": "kjv:luke:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:7:3",
+      "numberLabel": "3",
+      "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.",
+      "metadata": {
+        "reference": "Luke 7:3",
+        "verseKey": "kjv:luke:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:7:4",
+      "numberLabel": "4",
+      "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:",
+      "metadata": {
+        "reference": "Luke 7:4",
+        "verseKey": "kjv:luke:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:7:5",
+      "numberLabel": "5",
+      "text": "For he loveth our nation, and he hath built us a synagogue.",
+      "metadata": {
+        "reference": "Luke 7:5",
+        "verseKey": "kjv:luke:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:7:6",
+      "numberLabel": "6",
+      "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:",
+      "metadata": {
+        "reference": "Luke 7:6",
+        "verseKey": "kjv:luke:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:7:7",
+      "numberLabel": "7",
+      "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.",
+      "metadata": {
+        "reference": "Luke 7:7",
+        "verseKey": "kjv:luke:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:7:8",
+      "numberLabel": "8",
+      "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.",
+      "metadata": {
+        "reference": "Luke 7:8",
+        "verseKey": "kjv:luke:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:7:9",
+      "numberLabel": "9",
+      "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.",
+      "metadata": {
+        "reference": "Luke 7:9",
+        "verseKey": "kjv:luke:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:7:10",
+      "numberLabel": "10",
+      "text": "And they that were sent, returning to the house, found the servant whole that had been sick.",
+      "metadata": {
+        "reference": "Luke 7:10",
+        "verseKey": "kjv:luke:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:7:11",
+      "numberLabel": "11",
+      "text": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.",
+      "metadata": {
+        "reference": "Luke 7:11",
+        "verseKey": "kjv:luke:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:7:12",
+      "numberLabel": "12",
+      "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.",
+      "metadata": {
+        "reference": "Luke 7:12",
+        "verseKey": "kjv:luke:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:7:13",
+      "numberLabel": "13",
+      "text": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not.",
+      "metadata": {
+        "reference": "Luke 7:13",
+        "verseKey": "kjv:luke:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:7:14",
+      "numberLabel": "14",
+      "text": "And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise.",
+      "metadata": {
+        "reference": "Luke 7:14",
+        "verseKey": "kjv:luke:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:7:15",
+      "numberLabel": "15",
+      "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother.",
+      "metadata": {
+        "reference": "Luke 7:15",
+        "verseKey": "kjv:luke:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:7:16",
+      "numberLabel": "16",
+      "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.",
+      "metadata": {
+        "reference": "Luke 7:16",
+        "verseKey": "kjv:luke:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:7:17",
+      "numberLabel": "17",
+      "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about.",
+      "metadata": {
+        "reference": "Luke 7:17",
+        "verseKey": "kjv:luke:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:7:18",
+      "numberLabel": "18",
+      "text": "And the disciples of John shewed him of all these things.",
+      "metadata": {
+        "reference": "Luke 7:18",
+        "verseKey": "kjv:luke:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:7:19",
+      "numberLabel": "19",
+      "text": "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?",
+      "metadata": {
+        "reference": "Luke 7:19",
+        "verseKey": "kjv:luke:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:7:20",
+      "numberLabel": "20",
+      "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?",
+      "metadata": {
+        "reference": "Luke 7:20",
+        "verseKey": "kjv:luke:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:7:21",
+      "numberLabel": "21",
+      "text": "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight.",
+      "metadata": {
+        "reference": "Luke 7:21",
+        "verseKey": "kjv:luke:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:7:22",
+      "numberLabel": "22",
+      "text": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.",
+      "metadata": {
+        "reference": "Luke 7:22",
+        "verseKey": "kjv:luke:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:7:23",
+      "numberLabel": "23",
+      "text": "And blessed is he, whosoever shall not be offended in me.",
+      "metadata": {
+        "reference": "Luke 7:23",
+        "verseKey": "kjv:luke:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:7:24",
+      "numberLabel": "24",
+      "text": "And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?",
+      "metadata": {
+        "reference": "Luke 7:24",
+        "verseKey": "kjv:luke:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:7:25",
+      "numberLabel": "25",
+      "text": "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts.",
+      "metadata": {
+        "reference": "Luke 7:25",
+        "verseKey": "kjv:luke:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:7:26",
+      "numberLabel": "26",
+      "text": "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.",
+      "metadata": {
+        "reference": "Luke 7:26",
+        "verseKey": "kjv:luke:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:7:27",
+      "numberLabel": "27",
+      "text": "This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+      "metadata": {
+        "reference": "Luke 7:27",
+        "verseKey": "kjv:luke:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:7:28",
+      "numberLabel": "28",
+      "text": "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.",
+      "metadata": {
+        "reference": "Luke 7:28",
+        "verseKey": "kjv:luke:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:7:29",
+      "numberLabel": "29",
+      "text": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John.",
+      "metadata": {
+        "reference": "Luke 7:29",
+        "verseKey": "kjv:luke:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:7:30",
+      "numberLabel": "30",
+      "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.",
+      "metadata": {
+        "reference": "Luke 7:30",
+        "verseKey": "kjv:luke:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:7:31",
+      "numberLabel": "31",
+      "text": "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?",
+      "metadata": {
+        "reference": "Luke 7:31",
+        "verseKey": "kjv:luke:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:7:32",
+      "numberLabel": "32",
+      "text": "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.",
+      "metadata": {
+        "reference": "Luke 7:32",
+        "verseKey": "kjv:luke:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:luke:7:33",
+      "numberLabel": "33",
+      "text": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.",
+      "metadata": {
+        "reference": "Luke 7:33",
+        "verseKey": "kjv:luke:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:luke:7:34",
+      "numberLabel": "34",
+      "text": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!",
+      "metadata": {
+        "reference": "Luke 7:34",
+        "verseKey": "kjv:luke:7:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:luke:7:35",
+      "numberLabel": "35",
+      "text": "But wisdom is justified of all her children.",
+      "metadata": {
+        "reference": "Luke 7:35",
+        "verseKey": "kjv:luke:7:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:luke:7:36",
+      "numberLabel": "36",
+      "text": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat.",
+      "metadata": {
+        "reference": "Luke 7:36",
+        "verseKey": "kjv:luke:7:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:luke:7:37",
+      "numberLabel": "37",
+      "text": "And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee’s house, brought an alabaster box of ointment,",
+      "metadata": {
+        "reference": "Luke 7:37",
+        "verseKey": "kjv:luke:7:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:luke:7:38",
+      "numberLabel": "38",
+      "text": "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment.",
+      "metadata": {
+        "reference": "Luke 7:38",
+        "verseKey": "kjv:luke:7:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:luke:7:39",
+      "numberLabel": "39",
+      "text": "Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner.",
+      "metadata": {
+        "reference": "Luke 7:39",
+        "verseKey": "kjv:luke:7:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:luke:7:40",
+      "numberLabel": "40",
+      "text": "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on.",
+      "metadata": {
+        "reference": "Luke 7:40",
+        "verseKey": "kjv:luke:7:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:luke:7:41",
+      "numberLabel": "41",
+      "text": "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.",
+      "metadata": {
+        "reference": "Luke 7:41",
+        "verseKey": "kjv:luke:7:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:luke:7:42",
+      "numberLabel": "42",
+      "text": "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?",
+      "metadata": {
+        "reference": "Luke 7:42",
+        "verseKey": "kjv:luke:7:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:luke:7:43",
+      "numberLabel": "43",
+      "text": "Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, Thou hast rightly judged.",
+      "metadata": {
+        "reference": "Luke 7:43",
+        "verseKey": "kjv:luke:7:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:luke:7:44",
+      "numberLabel": "44",
+      "text": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head.",
+      "metadata": {
+        "reference": "Luke 7:44",
+        "verseKey": "kjv:luke:7:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:luke:7:45",
+      "numberLabel": "45",
+      "text": "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.",
+      "metadata": {
+        "reference": "Luke 7:45",
+        "verseKey": "kjv:luke:7:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:luke:7:46",
+      "numberLabel": "46",
+      "text": "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.",
+      "metadata": {
+        "reference": "Luke 7:46",
+        "verseKey": "kjv:luke:7:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:luke:7:47",
+      "numberLabel": "47",
+      "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little.",
+      "metadata": {
+        "reference": "Luke 7:47",
+        "verseKey": "kjv:luke:7:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:luke:7:48",
+      "numberLabel": "48",
+      "text": "And he said unto her, Thy sins are forgiven.",
+      "metadata": {
+        "reference": "Luke 7:48",
+        "verseKey": "kjv:luke:7:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:luke:7:49",
+      "numberLabel": "49",
+      "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?",
+      "metadata": {
+        "reference": "Luke 7:49",
+        "verseKey": "kjv:luke:7:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:luke:7:50",
+      "numberLabel": "50",
+      "text": "And he said to the woman, Thy faith hath saved thee; go in peace.",
+      "metadata": {
+        "reference": "Luke 7:50",
+        "verseKey": "kjv:luke:7:50"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

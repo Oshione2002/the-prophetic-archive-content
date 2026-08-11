@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Exodus 8",
+  "display_title": "Exodus 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 2008,
+  "verseCount": 32,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:8:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.",
+      "metadata": {
+        "reference": "Exodus 8:1",
+        "verseKey": "kjv:exodus:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:8:2",
+      "numberLabel": "2",
+      "text": "And if thou refuse to let them go, behold, I will smite all thy borders with frogs:",
+      "metadata": {
+        "reference": "Exodus 8:2",
+        "verseKey": "kjv:exodus:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:8:3",
+      "numberLabel": "3",
+      "text": "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:",
+      "metadata": {
+        "reference": "Exodus 8:3",
+        "verseKey": "kjv:exodus:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:8:4",
+      "numberLabel": "4",
+      "text": "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants.",
+      "metadata": {
+        "reference": "Exodus 8:4",
+        "verseKey": "kjv:exodus:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:8:5",
+      "numberLabel": "5",
+      "text": "And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 8:5",
+        "verseKey": "kjv:exodus:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:8:6",
+      "numberLabel": "6",
+      "text": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 8:6",
+        "verseKey": "kjv:exodus:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:8:7",
+      "numberLabel": "7",
+      "text": "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 8:7",
+        "verseKey": "kjv:exodus:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:8:8",
+      "numberLabel": "8",
+      "text": "Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD.",
+      "metadata": {
+        "reference": "Exodus 8:8",
+        "verseKey": "kjv:exodus:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:8:9",
+      "numberLabel": "9",
+      "text": "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, that they may remain in the river only?",
+      "metadata": {
+        "reference": "Exodus 8:9",
+        "verseKey": "kjv:exodus:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:8:10",
+      "numberLabel": "10",
+      "text": "And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the LORD our God.",
+      "metadata": {
+        "reference": "Exodus 8:10",
+        "verseKey": "kjv:exodus:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:8:11",
+      "numberLabel": "11",
+      "text": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.",
+      "metadata": {
+        "reference": "Exodus 8:11",
+        "verseKey": "kjv:exodus:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:8:12",
+      "numberLabel": "12",
+      "text": "And Moses and Aaron went out from Pharaoh: and Moses cried unto the LORD because of the frogs which he had brought against Pharaoh.",
+      "metadata": {
+        "reference": "Exodus 8:12",
+        "verseKey": "kjv:exodus:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:8:13",
+      "numberLabel": "13",
+      "text": "And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields.",
+      "metadata": {
+        "reference": "Exodus 8:13",
+        "verseKey": "kjv:exodus:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:8:14",
+      "numberLabel": "14",
+      "text": "And they gathered them together upon heaps: and the land stank.",
+      "metadata": {
+        "reference": "Exodus 8:14",
+        "verseKey": "kjv:exodus:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:8:15",
+      "numberLabel": "15",
+      "text": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said.",
+      "metadata": {
+        "reference": "Exodus 8:15",
+        "verseKey": "kjv:exodus:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:8:16",
+      "numberLabel": "16",
+      "text": "And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 8:16",
+        "verseKey": "kjv:exodus:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:8:17",
+      "numberLabel": "17",
+      "text": "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 8:17",
+        "verseKey": "kjv:exodus:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:8:18",
+      "numberLabel": "18",
+      "text": "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.",
+      "metadata": {
+        "reference": "Exodus 8:18",
+        "verseKey": "kjv:exodus:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:8:19",
+      "numberLabel": "19",
+      "text": "Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh’s heart was hardened, and he hearkened not unto them; as the LORD had said.",
+      "metadata": {
+        "reference": "Exodus 8:19",
+        "verseKey": "kjv:exodus:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:8:20",
+      "numberLabel": "20",
+      "text": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me.",
+      "metadata": {
+        "reference": "Exodus 8:20",
+        "verseKey": "kjv:exodus:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:8:21",
+      "numberLabel": "21",
+      "text": "Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are.",
+      "metadata": {
+        "reference": "Exodus 8:21",
+        "verseKey": "kjv:exodus:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:8:22",
+      "numberLabel": "22",
+      "text": "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth.",
+      "metadata": {
+        "reference": "Exodus 8:22",
+        "verseKey": "kjv:exodus:8:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:8:23",
+      "numberLabel": "23",
+      "text": "And I will put a division between my people and thy people: to morrow shall this sign be.",
+      "metadata": {
+        "reference": "Exodus 8:23",
+        "verseKey": "kjv:exodus:8:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:8:24",
+      "numberLabel": "24",
+      "text": "And the LORD did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies.",
+      "metadata": {
+        "reference": "Exodus 8:24",
+        "verseKey": "kjv:exodus:8:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:8:25",
+      "numberLabel": "25",
+      "text": "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land.",
+      "metadata": {
+        "reference": "Exodus 8:25",
+        "verseKey": "kjv:exodus:8:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:8:26",
+      "numberLabel": "26",
+      "text": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?",
+      "metadata": {
+        "reference": "Exodus 8:26",
+        "verseKey": "kjv:exodus:8:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:8:27",
+      "numberLabel": "27",
+      "text": "We will go three days’ journey into the wilderness, and sacrifice to the LORD our God, as he shall command us.",
+      "metadata": {
+        "reference": "Exodus 8:27",
+        "verseKey": "kjv:exodus:8:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:8:28",
+      "numberLabel": "28",
+      "text": "And Pharaoh said, I will let you go, that ye may sacrifice to the LORD your God in the wilderness; only ye shall not go very far away: intreat for me.",
+      "metadata": {
+        "reference": "Exodus 8:28",
+        "verseKey": "kjv:exodus:8:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:8:29",
+      "numberLabel": "29",
+      "text": "And Moses said, Behold, I go out from thee, and I will intreat the LORD that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the LORD.",
+      "metadata": {
+        "reference": "Exodus 8:29",
+        "verseKey": "kjv:exodus:8:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:8:30",
+      "numberLabel": "30",
+      "text": "And Moses went out from Pharaoh, and intreated the LORD.",
+      "metadata": {
+        "reference": "Exodus 8:30",
+        "verseKey": "kjv:exodus:8:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:exodus:8:31",
+      "numberLabel": "31",
+      "text": "And the LORD did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one.",
+      "metadata": {
+        "reference": "Exodus 8:31",
+        "verseKey": "kjv:exodus:8:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:exodus:8:32",
+      "numberLabel": "32",
+      "text": "And Pharaoh hardened his heart at this time also, neither would he let the people go.",
+      "metadata": {
+        "reference": "Exodus 8:32",
+        "verseKey": "kjv:exodus:8:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

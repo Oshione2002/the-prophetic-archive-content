@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "Numbers 28",
+  "display_title": "Numbers 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 28,
+  "sortOrder": 4028,
+  "verseCount": 31,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:28:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 28:1",
+        "verseKey": "kjv:numbers:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:28:2",
+      "numberLabel": "2",
+      "text": "Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season.",
+      "metadata": {
+        "reference": "Numbers 28:2",
+        "verseKey": "kjv:numbers:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:28:3",
+      "numberLabel": "3",
+      "text": "And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, for a continual burnt offering.",
+      "metadata": {
+        "reference": "Numbers 28:3",
+        "verseKey": "kjv:numbers:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:28:4",
+      "numberLabel": "4",
+      "text": "The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;",
+      "metadata": {
+        "reference": "Numbers 28:4",
+        "verseKey": "kjv:numbers:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:28:5",
+      "numberLabel": "5",
+      "text": "And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil.",
+      "metadata": {
+        "reference": "Numbers 28:5",
+        "verseKey": "kjv:numbers:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:28:6",
+      "numberLabel": "6",
+      "text": "It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the LORD.",
+      "metadata": {
+        "reference": "Numbers 28:6",
+        "verseKey": "kjv:numbers:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:28:7",
+      "numberLabel": "7",
+      "text": "And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the LORD for a drink offering.",
+      "metadata": {
+        "reference": "Numbers 28:7",
+        "verseKey": "kjv:numbers:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:28:8",
+      "numberLabel": "8",
+      "text": "And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer it, a sacrifice made by fire, of a sweet savour unto the LORD.",
+      "metadata": {
+        "reference": "Numbers 28:8",
+        "verseKey": "kjv:numbers:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:28:9",
+      "numberLabel": "9",
+      "text": "And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering, mingled with oil, and the drink offering thereof:",
+      "metadata": {
+        "reference": "Numbers 28:9",
+        "verseKey": "kjv:numbers:28:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:28:10",
+      "numberLabel": "10",
+      "text": "This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.",
+      "metadata": {
+        "reference": "Numbers 28:10",
+        "verseKey": "kjv:numbers:28:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:28:11",
+      "numberLabel": "11",
+      "text": "And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot;",
+      "metadata": {
+        "reference": "Numbers 28:11",
+        "verseKey": "kjv:numbers:28:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:28:12",
+      "numberLabel": "12",
+      "text": "And three tenth deals of flour for a meat offering, mingled with oil, for one bullock; and two tenth deals of flour for a meat offering, mingled with oil, for one ram;",
+      "metadata": {
+        "reference": "Numbers 28:12",
+        "verseKey": "kjv:numbers:28:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:28:13",
+      "numberLabel": "13",
+      "text": "And a several tenth deal of flour mingled with oil for a meat offering unto one lamb; for a burnt offering of a sweet savour, a sacrifice made by fire unto the LORD.",
+      "metadata": {
+        "reference": "Numbers 28:13",
+        "verseKey": "kjv:numbers:28:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:28:14",
+      "numberLabel": "14",
+      "text": "And their drink offerings shall be half an hin of wine unto a bullock, and the third part of an hin unto a ram, and a fourth part of an hin unto a lamb: this is the burnt offering of every month throughout the months of the year.",
+      "metadata": {
+        "reference": "Numbers 28:14",
+        "verseKey": "kjv:numbers:28:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:28:15",
+      "numberLabel": "15",
+      "text": "And one kid of the goats for a sin offering unto the LORD shall be offered, beside the continual burnt offering, and his drink offering.",
+      "metadata": {
+        "reference": "Numbers 28:15",
+        "verseKey": "kjv:numbers:28:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:28:16",
+      "numberLabel": "16",
+      "text": "And in the fourteenth day of the first month is the passover of the LORD.",
+      "metadata": {
+        "reference": "Numbers 28:16",
+        "verseKey": "kjv:numbers:28:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:28:17",
+      "numberLabel": "17",
+      "text": "And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten.",
+      "metadata": {
+        "reference": "Numbers 28:17",
+        "verseKey": "kjv:numbers:28:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:28:18",
+      "numberLabel": "18",
+      "text": "In the first day shall be an holy convocation; ye shall do no manner of servile work therein:",
+      "metadata": {
+        "reference": "Numbers 28:18",
+        "verseKey": "kjv:numbers:28:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:28:19",
+      "numberLabel": "19",
+      "text": "But ye shall offer a sacrifice made by fire for a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:",
+      "metadata": {
+        "reference": "Numbers 28:19",
+        "verseKey": "kjv:numbers:28:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:28:20",
+      "numberLabel": "20",
+      "text": "And their meat offering shall be of flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;",
+      "metadata": {
+        "reference": "Numbers 28:20",
+        "verseKey": "kjv:numbers:28:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:28:21",
+      "numberLabel": "21",
+      "text": "A several tenth deal shalt thou offer for every lamb, throughout the seven lambs:",
+      "metadata": {
+        "reference": "Numbers 28:21",
+        "verseKey": "kjv:numbers:28:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:28:22",
+      "numberLabel": "22",
+      "text": "And one goat for a sin offering, to make an atonement for you.",
+      "metadata": {
+        "reference": "Numbers 28:22",
+        "verseKey": "kjv:numbers:28:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:28:23",
+      "numberLabel": "23",
+      "text": "Ye shall offer these beside the burnt offering in the morning, which is for a continual burnt offering.",
+      "metadata": {
+        "reference": "Numbers 28:23",
+        "verseKey": "kjv:numbers:28:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:28:24",
+      "numberLabel": "24",
+      "text": "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering.",
+      "metadata": {
+        "reference": "Numbers 28:24",
+        "verseKey": "kjv:numbers:28:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:28:25",
+      "numberLabel": "25",
+      "text": "And on the seventh day ye shall have an holy convocation; ye shall do no servile work.",
+      "metadata": {
+        "reference": "Numbers 28:25",
+        "verseKey": "kjv:numbers:28:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:numbers:28:26",
+      "numberLabel": "26",
+      "text": "Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out, ye shall have an holy convocation; ye shall do no servile work:",
+      "metadata": {
+        "reference": "Numbers 28:26",
+        "verseKey": "kjv:numbers:28:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:numbers:28:27",
+      "numberLabel": "27",
+      "text": "But ye shall offer the burnt offering for a sweet savour unto the LORD; two young bullocks, one ram, seven lambs of the first year;",
+      "metadata": {
+        "reference": "Numbers 28:27",
+        "verseKey": "kjv:numbers:28:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:numbers:28:28",
+      "numberLabel": "28",
+      "text": "And their meat offering of flour mingled with oil, three tenth deals unto one bullock, two tenth deals unto one ram,",
+      "metadata": {
+        "reference": "Numbers 28:28",
+        "verseKey": "kjv:numbers:28:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:numbers:28:29",
+      "numberLabel": "29",
+      "text": "A several tenth deal unto one lamb, throughout the seven lambs;",
+      "metadata": {
+        "reference": "Numbers 28:29",
+        "verseKey": "kjv:numbers:28:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:numbers:28:30",
+      "numberLabel": "30",
+      "text": "And one kid of the goats, to make an atonement for you.",
+      "metadata": {
+        "reference": "Numbers 28:30",
+        "verseKey": "kjv:numbers:28:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:numbers:28:31",
+      "numberLabel": "31",
+      "text": "Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings.",
+      "metadata": {
+        "reference": "Numbers 28:31",
+        "verseKey": "kjv:numbers:28:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

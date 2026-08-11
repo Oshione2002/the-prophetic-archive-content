@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Psalms 10",
+  "display_title": "Psalms 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 19010,
+  "verseCount": 18,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:10:1",
+      "numberLabel": "1",
+      "text": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?",
+      "metadata": {
+        "reference": "Psalms 10:1",
+        "verseKey": "kjv:psalms:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:10:2",
+      "numberLabel": "2",
+      "text": "The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.",
+      "metadata": {
+        "reference": "Psalms 10:2",
+        "verseKey": "kjv:psalms:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:10:3",
+      "numberLabel": "3",
+      "text": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the LORD abhorreth.",
+      "metadata": {
+        "reference": "Psalms 10:3",
+        "verseKey": "kjv:psalms:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:10:4",
+      "numberLabel": "4",
+      "text": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.",
+      "metadata": {
+        "reference": "Psalms 10:4",
+        "verseKey": "kjv:psalms:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:10:5",
+      "numberLabel": "5",
+      "text": "His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.",
+      "metadata": {
+        "reference": "Psalms 10:5",
+        "verseKey": "kjv:psalms:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:10:6",
+      "numberLabel": "6",
+      "text": "He hath said in his heart, I shall not be moved: for I shall never be in adversity.",
+      "metadata": {
+        "reference": "Psalms 10:6",
+        "verseKey": "kjv:psalms:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:10:7",
+      "numberLabel": "7",
+      "text": "His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.",
+      "metadata": {
+        "reference": "Psalms 10:7",
+        "verseKey": "kjv:psalms:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:10:8",
+      "numberLabel": "8",
+      "text": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.",
+      "metadata": {
+        "reference": "Psalms 10:8",
+        "verseKey": "kjv:psalms:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:10:9",
+      "numberLabel": "9",
+      "text": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.",
+      "metadata": {
+        "reference": "Psalms 10:9",
+        "verseKey": "kjv:psalms:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:10:10",
+      "numberLabel": "10",
+      "text": "He croucheth, and humbleth himself, that the poor may fall by his strong ones.",
+      "metadata": {
+        "reference": "Psalms 10:10",
+        "verseKey": "kjv:psalms:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:10:11",
+      "numberLabel": "11",
+      "text": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.",
+      "metadata": {
+        "reference": "Psalms 10:11",
+        "verseKey": "kjv:psalms:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:10:12",
+      "numberLabel": "12",
+      "text": "Arise, O LORD; O God, lift up thine hand: forget not the humble.",
+      "metadata": {
+        "reference": "Psalms 10:12",
+        "verseKey": "kjv:psalms:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:10:13",
+      "numberLabel": "13",
+      "text": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.",
+      "metadata": {
+        "reference": "Psalms 10:13",
+        "verseKey": "kjv:psalms:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:10:14",
+      "numberLabel": "14",
+      "text": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.",
+      "metadata": {
+        "reference": "Psalms 10:14",
+        "verseKey": "kjv:psalms:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:10:15",
+      "numberLabel": "15",
+      "text": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.",
+      "metadata": {
+        "reference": "Psalms 10:15",
+        "verseKey": "kjv:psalms:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:10:16",
+      "numberLabel": "16",
+      "text": "The LORD is King for ever and ever: the heathen are perished out of his land.",
+      "metadata": {
+        "reference": "Psalms 10:16",
+        "verseKey": "kjv:psalms:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:10:17",
+      "numberLabel": "17",
+      "text": "LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
+      "metadata": {
+        "reference": "Psalms 10:17",
+        "verseKey": "kjv:psalms:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:10:18",
+      "numberLabel": "18",
+      "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress.",
+      "metadata": {
+        "reference": "Psalms 10:18",
+        "verseKey": "kjv:psalms:10:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

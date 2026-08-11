@@ -1,0 +1,788 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joshua-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Joshua 15",
+  "display_title": "Joshua 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joshua",
+  "book": "Joshua",
+  "bookName": "Joshua",
+  "bookOrder": 6,
+  "testament": "old",
+  "chapter": 15,
+  "sortOrder": 6015,
+  "verseCount": 63,
+  "aliases": [
+    "Josh",
+    "Jos"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joshua:15:1",
+      "numberLabel": "1",
+      "text": "This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.",
+      "metadata": {
+        "reference": "Joshua 15:1",
+        "verseKey": "kjv:joshua:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joshua:15:2",
+      "numberLabel": "2",
+      "text": "And their south border was from the shore of the salt sea, from the bay that looketh southward:",
+      "metadata": {
+        "reference": "Joshua 15:2",
+        "verseKey": "kjv:joshua:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joshua:15:3",
+      "numberLabel": "3",
+      "text": "And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:",
+      "metadata": {
+        "reference": "Joshua 15:3",
+        "verseKey": "kjv:joshua:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joshua:15:4",
+      "numberLabel": "4",
+      "text": "From thence it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.",
+      "metadata": {
+        "reference": "Joshua 15:4",
+        "verseKey": "kjv:joshua:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joshua:15:5",
+      "numberLabel": "5",
+      "text": "And the east border was the salt sea, even unto the end of Jordan. And their border in the north quarter was from the bay of the sea at the uttermost part of Jordan:",
+      "metadata": {
+        "reference": "Joshua 15:5",
+        "verseKey": "kjv:joshua:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joshua:15:6",
+      "numberLabel": "6",
+      "text": "And the border went up to Bethhogla, and passed along by the north of Betharabah; and the border went up to the stone of Bohan the son of Reuben:",
+      "metadata": {
+        "reference": "Joshua 15:6",
+        "verseKey": "kjv:joshua:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joshua:15:7",
+      "numberLabel": "7",
+      "text": "And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that is before the going up to Adummim, which is on the south side of the river: and the border passed toward the waters of Enshemesh, and the goings out thereof were at Enrogel:",
+      "metadata": {
+        "reference": "Joshua 15:7",
+        "verseKey": "kjv:joshua:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joshua:15:8",
+      "numberLabel": "8",
+      "text": "And the border went up by the valley of the son of Hinnom unto the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lieth before the valley of Hinnom westward, which is at the end of the valley of the giants northward:",
+      "metadata": {
+        "reference": "Joshua 15:8",
+        "verseKey": "kjv:joshua:15:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joshua:15:9",
+      "numberLabel": "9",
+      "text": "And the border was drawn from the top of the hill unto the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which is Kirjathjearim:",
+      "metadata": {
+        "reference": "Joshua 15:9",
+        "verseKey": "kjv:joshua:15:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joshua:15:10",
+      "numberLabel": "10",
+      "text": "And the border compassed from Baalah westward unto mount Seir, and passed along unto the side of mount Jearim, which is Chesalon, on the north side, and went down to Bethshemesh, and passed on to Timnah:",
+      "metadata": {
+        "reference": "Joshua 15:10",
+        "verseKey": "kjv:joshua:15:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joshua:15:11",
+      "numberLabel": "11",
+      "text": "And the border went out unto the side of Ekron northward: and the border was drawn to Shicron, and passed along to mount Baalah, and went out unto Jabneel; and the goings out of the border were at the sea.",
+      "metadata": {
+        "reference": "Joshua 15:11",
+        "verseKey": "kjv:joshua:15:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joshua:15:12",
+      "numberLabel": "12",
+      "text": "And the west border was to the great sea, and the coast thereof. This is the coast of the children of Judah round about according to their families.",
+      "metadata": {
+        "reference": "Joshua 15:12",
+        "verseKey": "kjv:joshua:15:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joshua:15:13",
+      "numberLabel": "13",
+      "text": "And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, even the city of Arba the father of Anak, which city is Hebron.",
+      "metadata": {
+        "reference": "Joshua 15:13",
+        "verseKey": "kjv:joshua:15:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joshua:15:14",
+      "numberLabel": "14",
+      "text": "And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.",
+      "metadata": {
+        "reference": "Joshua 15:14",
+        "verseKey": "kjv:joshua:15:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joshua:15:15",
+      "numberLabel": "15",
+      "text": "And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjathsepher.",
+      "metadata": {
+        "reference": "Joshua 15:15",
+        "verseKey": "kjv:joshua:15:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joshua:15:16",
+      "numberLabel": "16",
+      "text": "And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.",
+      "metadata": {
+        "reference": "Joshua 15:16",
+        "verseKey": "kjv:joshua:15:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joshua:15:17",
+      "numberLabel": "17",
+      "text": "And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.",
+      "metadata": {
+        "reference": "Joshua 15:17",
+        "verseKey": "kjv:joshua:15:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joshua:15:18",
+      "numberLabel": "18",
+      "text": "And it came to pass, as she came unto him, that she moved him to ask of her father a field: and she lighted off her ass; and Caleb said unto her, What wouldest thou?",
+      "metadata": {
+        "reference": "Joshua 15:18",
+        "verseKey": "kjv:joshua:15:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:joshua:15:19",
+      "numberLabel": "19",
+      "text": "Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.",
+      "metadata": {
+        "reference": "Joshua 15:19",
+        "verseKey": "kjv:joshua:15:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:joshua:15:20",
+      "numberLabel": "20",
+      "text": "This is the inheritance of the tribe of the children of Judah according to their families.",
+      "metadata": {
+        "reference": "Joshua 15:20",
+        "verseKey": "kjv:joshua:15:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:joshua:15:21",
+      "numberLabel": "21",
+      "text": "And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,",
+      "metadata": {
+        "reference": "Joshua 15:21",
+        "verseKey": "kjv:joshua:15:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:joshua:15:22",
+      "numberLabel": "22",
+      "text": "And Kinah, and Dimonah, and Adadah,",
+      "metadata": {
+        "reference": "Joshua 15:22",
+        "verseKey": "kjv:joshua:15:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:joshua:15:23",
+      "numberLabel": "23",
+      "text": "And Kedesh, and Hazor, and Ithnan,",
+      "metadata": {
+        "reference": "Joshua 15:23",
+        "verseKey": "kjv:joshua:15:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:joshua:15:24",
+      "numberLabel": "24",
+      "text": "Ziph, and Telem, and Bealoth,",
+      "metadata": {
+        "reference": "Joshua 15:24",
+        "verseKey": "kjv:joshua:15:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:joshua:15:25",
+      "numberLabel": "25",
+      "text": "And Hazor, Hadattah, and Kerioth, and Hezron, which is Hazor,",
+      "metadata": {
+        "reference": "Joshua 15:25",
+        "verseKey": "kjv:joshua:15:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:joshua:15:26",
+      "numberLabel": "26",
+      "text": "Amam, and Shema, and Moladah,",
+      "metadata": {
+        "reference": "Joshua 15:26",
+        "verseKey": "kjv:joshua:15:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:joshua:15:27",
+      "numberLabel": "27",
+      "text": "And Hazargaddah, and Heshmon, and Bethpalet,",
+      "metadata": {
+        "reference": "Joshua 15:27",
+        "verseKey": "kjv:joshua:15:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:joshua:15:28",
+      "numberLabel": "28",
+      "text": "And Hazarshual, and Beersheba, and Bizjothjah,",
+      "metadata": {
+        "reference": "Joshua 15:28",
+        "verseKey": "kjv:joshua:15:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:joshua:15:29",
+      "numberLabel": "29",
+      "text": "Baalah, and Iim, and Azem,",
+      "metadata": {
+        "reference": "Joshua 15:29",
+        "verseKey": "kjv:joshua:15:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:joshua:15:30",
+      "numberLabel": "30",
+      "text": "And Eltolad, and Chesil, and Hormah,",
+      "metadata": {
+        "reference": "Joshua 15:30",
+        "verseKey": "kjv:joshua:15:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:joshua:15:31",
+      "numberLabel": "31",
+      "text": "And Ziklag, and Madmannah, and Sansannah,",
+      "metadata": {
+        "reference": "Joshua 15:31",
+        "verseKey": "kjv:joshua:15:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:joshua:15:32",
+      "numberLabel": "32",
+      "text": "And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:32",
+        "verseKey": "kjv:joshua:15:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:joshua:15:33",
+      "numberLabel": "33",
+      "text": "And in the valley, Eshtaol, and Zoreah, and Ashnah,",
+      "metadata": {
+        "reference": "Joshua 15:33",
+        "verseKey": "kjv:joshua:15:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:joshua:15:34",
+      "numberLabel": "34",
+      "text": "And Zanoah, and Engannim, Tappuah, and Enam,",
+      "metadata": {
+        "reference": "Joshua 15:34",
+        "verseKey": "kjv:joshua:15:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:joshua:15:35",
+      "numberLabel": "35",
+      "text": "Jarmuth, and Adullam, Socoh, and Azekah,",
+      "metadata": {
+        "reference": "Joshua 15:35",
+        "verseKey": "kjv:joshua:15:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:joshua:15:36",
+      "numberLabel": "36",
+      "text": "And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:36",
+        "verseKey": "kjv:joshua:15:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:joshua:15:37",
+      "numberLabel": "37",
+      "text": "Zenan, and Hadashah, and Migdalgad,",
+      "metadata": {
+        "reference": "Joshua 15:37",
+        "verseKey": "kjv:joshua:15:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:joshua:15:38",
+      "numberLabel": "38",
+      "text": "And Dilean, and Mizpeh, and Joktheel,",
+      "metadata": {
+        "reference": "Joshua 15:38",
+        "verseKey": "kjv:joshua:15:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:joshua:15:39",
+      "numberLabel": "39",
+      "text": "Lachish, and Bozkath, and Eglon,",
+      "metadata": {
+        "reference": "Joshua 15:39",
+        "verseKey": "kjv:joshua:15:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:joshua:15:40",
+      "numberLabel": "40",
+      "text": "And Cabbon, and Lahmam, and Kithlish,",
+      "metadata": {
+        "reference": "Joshua 15:40",
+        "verseKey": "kjv:joshua:15:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:joshua:15:41",
+      "numberLabel": "41",
+      "text": "And Gederoth, Bethdagon, and Naamah, and Makkedah; sixteen cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:41",
+        "verseKey": "kjv:joshua:15:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:joshua:15:42",
+      "numberLabel": "42",
+      "text": "Libnah, and Ether, and Ashan,",
+      "metadata": {
+        "reference": "Joshua 15:42",
+        "verseKey": "kjv:joshua:15:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:joshua:15:43",
+      "numberLabel": "43",
+      "text": "And Jiphtah, and Ashnah, and Nezib,",
+      "metadata": {
+        "reference": "Joshua 15:43",
+        "verseKey": "kjv:joshua:15:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:joshua:15:44",
+      "numberLabel": "44",
+      "text": "And Keilah, and Achzib, and Mareshah; nine cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:44",
+        "verseKey": "kjv:joshua:15:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:joshua:15:45",
+      "numberLabel": "45",
+      "text": "Ekron, with her towns and her villages:",
+      "metadata": {
+        "reference": "Joshua 15:45",
+        "verseKey": "kjv:joshua:15:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:joshua:15:46",
+      "numberLabel": "46",
+      "text": "From Ekron even unto the sea, all that lay near Ashdod, with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:46",
+        "verseKey": "kjv:joshua:15:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:joshua:15:47",
+      "numberLabel": "47",
+      "text": "Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border thereof:",
+      "metadata": {
+        "reference": "Joshua 15:47",
+        "verseKey": "kjv:joshua:15:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:joshua:15:48",
+      "numberLabel": "48",
+      "text": "And in the mountains, Shamir, and Jattir, and Socoh,",
+      "metadata": {
+        "reference": "Joshua 15:48",
+        "verseKey": "kjv:joshua:15:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:joshua:15:49",
+      "numberLabel": "49",
+      "text": "And Dannah, and Kirjathsannah, which is Debir,",
+      "metadata": {
+        "reference": "Joshua 15:49",
+        "verseKey": "kjv:joshua:15:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:joshua:15:50",
+      "numberLabel": "50",
+      "text": "And Anab, and Eshtemoh, and Anim,",
+      "metadata": {
+        "reference": "Joshua 15:50",
+        "verseKey": "kjv:joshua:15:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:joshua:15:51",
+      "numberLabel": "51",
+      "text": "And Goshen, and Holon, and Giloh; eleven cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:51",
+        "verseKey": "kjv:joshua:15:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:joshua:15:52",
+      "numberLabel": "52",
+      "text": "Arab, and Dumah, and Eshean,",
+      "metadata": {
+        "reference": "Joshua 15:52",
+        "verseKey": "kjv:joshua:15:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:joshua:15:53",
+      "numberLabel": "53",
+      "text": "And Janum, and Bethtappuah, and Aphekah,",
+      "metadata": {
+        "reference": "Joshua 15:53",
+        "verseKey": "kjv:joshua:15:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:joshua:15:54",
+      "numberLabel": "54",
+      "text": "And Humtah, and Kirjatharba, which is Hebron, and Zior; nine cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:54",
+        "verseKey": "kjv:joshua:15:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:joshua:15:55",
+      "numberLabel": "55",
+      "text": "Maon, Carmel, and Ziph, and Juttah,",
+      "metadata": {
+        "reference": "Joshua 15:55",
+        "verseKey": "kjv:joshua:15:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:joshua:15:56",
+      "numberLabel": "56",
+      "text": "And Jezreel, and Jokdeam, and Zanoah,",
+      "metadata": {
+        "reference": "Joshua 15:56",
+        "verseKey": "kjv:joshua:15:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:joshua:15:57",
+      "numberLabel": "57",
+      "text": "Cain, Gibeah, and Timnah; ten cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:57",
+        "verseKey": "kjv:joshua:15:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:joshua:15:58",
+      "numberLabel": "58",
+      "text": "Halhul, Bethzur, and Gedor,",
+      "metadata": {
+        "reference": "Joshua 15:58",
+        "verseKey": "kjv:joshua:15:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:joshua:15:59",
+      "numberLabel": "59",
+      "text": "And Maarath, and Bethanoth, and Eltekon; six cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:59",
+        "verseKey": "kjv:joshua:15:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:joshua:15:60",
+      "numberLabel": "60",
+      "text": "Kirjathbaal, which is Kirjathjearim, and Rabbah; two cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 15:60",
+        "verseKey": "kjv:joshua:15:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:joshua:15:61",
+      "numberLabel": "61",
+      "text": "In the wilderness, Betharabah, Middin, and Secacah,",
+      "metadata": {
+        "reference": "Joshua 15:61",
+        "verseKey": "kjv:joshua:15:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:joshua:15:62",
+      "numberLabel": "62",
+      "text": "And Nibshan, and the city of Salt, and Engedi; six cities with their villages.",
+      "metadata": {
+        "reference": "Joshua 15:62",
+        "verseKey": "kjv:joshua:15:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:joshua:15:63",
+      "numberLabel": "63",
+      "text": "As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.",
+      "metadata": {
+        "reference": "Joshua 15:63",
+        "verseKey": "kjv:joshua:15:63"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joshua.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joshua.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-judges-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Judges 11",
+  "display_title": "Judges 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "judges",
+  "book": "Judges",
+  "bookName": "Judges",
+  "bookOrder": 7,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 7011,
+  "verseCount": 40,
+  "aliases": [
+    "Judg",
+    "Jdg",
+    "Jg"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:judges:11:1",
+      "numberLabel": "1",
+      "text": "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.",
+      "metadata": {
+        "reference": "Judges 11:1",
+        "verseKey": "kjv:judges:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:judges:11:2",
+      "numberLabel": "2",
+      "text": "And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for thou art the son of a strange woman.",
+      "metadata": {
+        "reference": "Judges 11:2",
+        "verseKey": "kjv:judges:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:judges:11:3",
+      "numberLabel": "3",
+      "text": "Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.",
+      "metadata": {
+        "reference": "Judges 11:3",
+        "verseKey": "kjv:judges:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:judges:11:4",
+      "numberLabel": "4",
+      "text": "And it came to pass in process of time, that the children of Ammon made war against Israel.",
+      "metadata": {
+        "reference": "Judges 11:4",
+        "verseKey": "kjv:judges:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:judges:11:5",
+      "numberLabel": "5",
+      "text": "And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:",
+      "metadata": {
+        "reference": "Judges 11:5",
+        "verseKey": "kjv:judges:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:judges:11:6",
+      "numberLabel": "6",
+      "text": "And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.",
+      "metadata": {
+        "reference": "Judges 11:6",
+        "verseKey": "kjv:judges:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:judges:11:7",
+      "numberLabel": "7",
+      "text": "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress?",
+      "metadata": {
+        "reference": "Judges 11:7",
+        "verseKey": "kjv:judges:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:judges:11:8",
+      "numberLabel": "8",
+      "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+      "metadata": {
+        "reference": "Judges 11:8",
+        "verseKey": "kjv:judges:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:judges:11:9",
+      "numberLabel": "9",
+      "text": "And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head?",
+      "metadata": {
+        "reference": "Judges 11:9",
+        "verseKey": "kjv:judges:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:judges:11:10",
+      "numberLabel": "10",
+      "text": "And the elders of Gilead said unto Jephthah, The LORD be witness between us, if we do not so according to thy words.",
+      "metadata": {
+        "reference": "Judges 11:10",
+        "verseKey": "kjv:judges:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:judges:11:11",
+      "numberLabel": "11",
+      "text": "Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the LORD in Mizpeh.",
+      "metadata": {
+        "reference": "Judges 11:11",
+        "verseKey": "kjv:judges:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:judges:11:12",
+      "numberLabel": "12",
+      "text": "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?",
+      "metadata": {
+        "reference": "Judges 11:12",
+        "verseKey": "kjv:judges:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:judges:11:13",
+      "numberLabel": "13",
+      "text": "And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those lands again peaceably.",
+      "metadata": {
+        "reference": "Judges 11:13",
+        "verseKey": "kjv:judges:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:judges:11:14",
+      "numberLabel": "14",
+      "text": "And Jephthah sent messengers again unto the king of the children of Ammon:",
+      "metadata": {
+        "reference": "Judges 11:14",
+        "verseKey": "kjv:judges:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:judges:11:15",
+      "numberLabel": "15",
+      "text": "And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:",
+      "metadata": {
+        "reference": "Judges 11:15",
+        "verseKey": "kjv:judges:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:judges:11:16",
+      "numberLabel": "16",
+      "text": "But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;",
+      "metadata": {
+        "reference": "Judges 11:16",
+        "verseKey": "kjv:judges:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:judges:11:17",
+      "numberLabel": "17",
+      "text": "Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken thereto. And in like manner they sent unto the king of Moab: but he would not consent: and Israel abode in Kadesh.",
+      "metadata": {
+        "reference": "Judges 11:17",
+        "verseKey": "kjv:judges:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:judges:11:18",
+      "numberLabel": "18",
+      "text": "Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab.",
+      "metadata": {
+        "reference": "Judges 11:18",
+        "verseKey": "kjv:judges:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:judges:11:19",
+      "numberLabel": "19",
+      "text": "And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.",
+      "metadata": {
+        "reference": "Judges 11:19",
+        "verseKey": "kjv:judges:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:judges:11:20",
+      "numberLabel": "20",
+      "text": "But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.",
+      "metadata": {
+        "reference": "Judges 11:20",
+        "verseKey": "kjv:judges:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:judges:11:21",
+      "numberLabel": "21",
+      "text": "And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.",
+      "metadata": {
+        "reference": "Judges 11:21",
+        "verseKey": "kjv:judges:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:judges:11:22",
+      "numberLabel": "22",
+      "text": "And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.",
+      "metadata": {
+        "reference": "Judges 11:22",
+        "verseKey": "kjv:judges:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:judges:11:23",
+      "numberLabel": "23",
+      "text": "So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?",
+      "metadata": {
+        "reference": "Judges 11:23",
+        "verseKey": "kjv:judges:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:judges:11:24",
+      "numberLabel": "24",
+      "text": "Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the LORD our God shall drive out from before us, them will we possess.",
+      "metadata": {
+        "reference": "Judges 11:24",
+        "verseKey": "kjv:judges:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:judges:11:25",
+      "numberLabel": "25",
+      "text": "And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,",
+      "metadata": {
+        "reference": "Judges 11:25",
+        "verseKey": "kjv:judges:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:judges:11:26",
+      "numberLabel": "26",
+      "text": "While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that be along by the coasts of Arnon, three hundred years? why therefore did ye not recover them within that time?",
+      "metadata": {
+        "reference": "Judges 11:26",
+        "verseKey": "kjv:judges:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:judges:11:27",
+      "numberLabel": "27",
+      "text": "Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon.",
+      "metadata": {
+        "reference": "Judges 11:27",
+        "verseKey": "kjv:judges:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:judges:11:28",
+      "numberLabel": "28",
+      "text": "Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him.",
+      "metadata": {
+        "reference": "Judges 11:28",
+        "verseKey": "kjv:judges:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:judges:11:29",
+      "numberLabel": "29",
+      "text": "Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over unto the children of Ammon.",
+      "metadata": {
+        "reference": "Judges 11:29",
+        "verseKey": "kjv:judges:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:judges:11:30",
+      "numberLabel": "30",
+      "text": "And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands,",
+      "metadata": {
+        "reference": "Judges 11:30",
+        "verseKey": "kjv:judges:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:judges:11:31",
+      "numberLabel": "31",
+      "text": "Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’s, and I will offer it up for a burnt offering.",
+      "metadata": {
+        "reference": "Judges 11:31",
+        "verseKey": "kjv:judges:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:judges:11:32",
+      "numberLabel": "32",
+      "text": "So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands.",
+      "metadata": {
+        "reference": "Judges 11:32",
+        "verseKey": "kjv:judges:11:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:judges:11:33",
+      "numberLabel": "33",
+      "text": "And he smote them from Aroer, even till thou come to Minnith, even twenty cities, and unto the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel.",
+      "metadata": {
+        "reference": "Judges 11:33",
+        "verseKey": "kjv:judges:11:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:judges:11:34",
+      "numberLabel": "34",
+      "text": "And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she was his only child; beside her he had neither son nor daughter.",
+      "metadata": {
+        "reference": "Judges 11:34",
+        "verseKey": "kjv:judges:11:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:judges:11:35",
+      "numberLabel": "35",
+      "text": "And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back.",
+      "metadata": {
+        "reference": "Judges 11:35",
+        "verseKey": "kjv:judges:11:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:judges:11:36",
+      "numberLabel": "36",
+      "text": "And she said unto him, My father, if thou hast opened thy mouth unto the LORD, do to me according to that which hath proceeded out of thy mouth; forasmuch as the LORD hath taken vengeance for thee of thine enemies, even of the children of Ammon.",
+      "metadata": {
+        "reference": "Judges 11:36",
+        "verseKey": "kjv:judges:11:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:judges:11:37",
+      "numberLabel": "37",
+      "text": "And she said unto her father, Let this thing be done for me: let me alone two months, that I may go up and down upon the mountains, and bewail my virginity, I and my fellows.",
+      "metadata": {
+        "reference": "Judges 11:37",
+        "verseKey": "kjv:judges:11:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:judges:11:38",
+      "numberLabel": "38",
+      "text": "And he said, Go. And he sent her away for two months: and she went with her companions, and bewailed her virginity upon the mountains.",
+      "metadata": {
+        "reference": "Judges 11:38",
+        "verseKey": "kjv:judges:11:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:judges:11:39",
+      "numberLabel": "39",
+      "text": "And it came to pass at the end of two months, that she returned unto her father, who did with her according to his vow which he had vowed: and she knew no man. And it was a custom in Israel,",
+      "metadata": {
+        "reference": "Judges 11:39",
+        "verseKey": "kjv:judges:11:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:judges:11:40",
+      "numberLabel": "40",
+      "text": "That the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.",
+      "metadata": {
+        "reference": "Judges 11:40",
+        "verseKey": "kjv:judges:11:40"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Judges.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Judges.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

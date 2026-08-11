@@ -1,0 +1,632 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Matthew 12",
+  "display_title": "Matthew 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 12,
+  "sortOrder": 40012,
+  "verseCount": 50,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:12:1",
+      "numberLabel": "1",
+      "text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.",
+      "metadata": {
+        "reference": "Matthew 12:1",
+        "verseKey": "kjv:matthew:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:12:2",
+      "numberLabel": "2",
+      "text": "But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.",
+      "metadata": {
+        "reference": "Matthew 12:2",
+        "verseKey": "kjv:matthew:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:12:3",
+      "numberLabel": "3",
+      "text": "But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;",
+      "metadata": {
+        "reference": "Matthew 12:3",
+        "verseKey": "kjv:matthew:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:12:4",
+      "numberLabel": "4",
+      "text": "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?",
+      "metadata": {
+        "reference": "Matthew 12:4",
+        "verseKey": "kjv:matthew:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:12:5",
+      "numberLabel": "5",
+      "text": "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?",
+      "metadata": {
+        "reference": "Matthew 12:5",
+        "verseKey": "kjv:matthew:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:12:6",
+      "numberLabel": "6",
+      "text": "But I say unto you, That in this place is one greater than the temple.",
+      "metadata": {
+        "reference": "Matthew 12:6",
+        "verseKey": "kjv:matthew:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:12:7",
+      "numberLabel": "7",
+      "text": "But if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.",
+      "metadata": {
+        "reference": "Matthew 12:7",
+        "verseKey": "kjv:matthew:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:12:8",
+      "numberLabel": "8",
+      "text": "For the Son of man is Lord even of the sabbath day.",
+      "metadata": {
+        "reference": "Matthew 12:8",
+        "verseKey": "kjv:matthew:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:12:9",
+      "numberLabel": "9",
+      "text": "And when he was departed thence, he went into their synagogue:",
+      "metadata": {
+        "reference": "Matthew 12:9",
+        "verseKey": "kjv:matthew:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:12:10",
+      "numberLabel": "10",
+      "text": "And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.",
+      "metadata": {
+        "reference": "Matthew 12:10",
+        "verseKey": "kjv:matthew:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:12:11",
+      "numberLabel": "11",
+      "text": "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?",
+      "metadata": {
+        "reference": "Matthew 12:11",
+        "verseKey": "kjv:matthew:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:12:12",
+      "numberLabel": "12",
+      "text": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.",
+      "metadata": {
+        "reference": "Matthew 12:12",
+        "verseKey": "kjv:matthew:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:12:13",
+      "numberLabel": "13",
+      "text": "Then saith he to the man, Stretch forth thine hand. And he stretched it forth; and it was restored whole, like as the other.",
+      "metadata": {
+        "reference": "Matthew 12:13",
+        "verseKey": "kjv:matthew:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:12:14",
+      "numberLabel": "14",
+      "text": "Then the Pharisees went out, and held a council against him, how they might destroy him.",
+      "metadata": {
+        "reference": "Matthew 12:14",
+        "verseKey": "kjv:matthew:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:12:15",
+      "numberLabel": "15",
+      "text": "But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all;",
+      "metadata": {
+        "reference": "Matthew 12:15",
+        "verseKey": "kjv:matthew:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:12:16",
+      "numberLabel": "16",
+      "text": "And charged them that they should not make him known:",
+      "metadata": {
+        "reference": "Matthew 12:16",
+        "verseKey": "kjv:matthew:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:12:17",
+      "numberLabel": "17",
+      "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
+      "metadata": {
+        "reference": "Matthew 12:17",
+        "verseKey": "kjv:matthew:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:12:18",
+      "numberLabel": "18",
+      "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
+      "metadata": {
+        "reference": "Matthew 12:18",
+        "verseKey": "kjv:matthew:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:12:19",
+      "numberLabel": "19",
+      "text": "He shall not strive, nor cry; neither shall any man hear his voice in the streets.",
+      "metadata": {
+        "reference": "Matthew 12:19",
+        "verseKey": "kjv:matthew:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:12:20",
+      "numberLabel": "20",
+      "text": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.",
+      "metadata": {
+        "reference": "Matthew 12:20",
+        "verseKey": "kjv:matthew:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:12:21",
+      "numberLabel": "21",
+      "text": "And in his name shall the Gentiles trust.",
+      "metadata": {
+        "reference": "Matthew 12:21",
+        "verseKey": "kjv:matthew:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:12:22",
+      "numberLabel": "22",
+      "text": "Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.",
+      "metadata": {
+        "reference": "Matthew 12:22",
+        "verseKey": "kjv:matthew:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:12:23",
+      "numberLabel": "23",
+      "text": "And all the people were amazed, and said, Is not this the son of David?",
+      "metadata": {
+        "reference": "Matthew 12:23",
+        "verseKey": "kjv:matthew:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:12:24",
+      "numberLabel": "24",
+      "text": "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils.",
+      "metadata": {
+        "reference": "Matthew 12:24",
+        "verseKey": "kjv:matthew:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:12:25",
+      "numberLabel": "25",
+      "text": "And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:",
+      "metadata": {
+        "reference": "Matthew 12:25",
+        "verseKey": "kjv:matthew:12:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:12:26",
+      "numberLabel": "26",
+      "text": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?",
+      "metadata": {
+        "reference": "Matthew 12:26",
+        "verseKey": "kjv:matthew:12:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:12:27",
+      "numberLabel": "27",
+      "text": "And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges.",
+      "metadata": {
+        "reference": "Matthew 12:27",
+        "verseKey": "kjv:matthew:12:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:12:28",
+      "numberLabel": "28",
+      "text": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.",
+      "metadata": {
+        "reference": "Matthew 12:28",
+        "verseKey": "kjv:matthew:12:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:12:29",
+      "numberLabel": "29",
+      "text": "Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.",
+      "metadata": {
+        "reference": "Matthew 12:29",
+        "verseKey": "kjv:matthew:12:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:12:30",
+      "numberLabel": "30",
+      "text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad.",
+      "metadata": {
+        "reference": "Matthew 12:30",
+        "verseKey": "kjv:matthew:12:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:12:31",
+      "numberLabel": "31",
+      "text": "Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men.",
+      "metadata": {
+        "reference": "Matthew 12:31",
+        "verseKey": "kjv:matthew:12:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:12:32",
+      "numberLabel": "32",
+      "text": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.",
+      "metadata": {
+        "reference": "Matthew 12:32",
+        "verseKey": "kjv:matthew:12:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:12:33",
+      "numberLabel": "33",
+      "text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit.",
+      "metadata": {
+        "reference": "Matthew 12:33",
+        "verseKey": "kjv:matthew:12:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:12:34",
+      "numberLabel": "34",
+      "text": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh.",
+      "metadata": {
+        "reference": "Matthew 12:34",
+        "verseKey": "kjv:matthew:12:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:12:35",
+      "numberLabel": "35",
+      "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things.",
+      "metadata": {
+        "reference": "Matthew 12:35",
+        "verseKey": "kjv:matthew:12:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:12:36",
+      "numberLabel": "36",
+      "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.",
+      "metadata": {
+        "reference": "Matthew 12:36",
+        "verseKey": "kjv:matthew:12:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:matthew:12:37",
+      "numberLabel": "37",
+      "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+      "metadata": {
+        "reference": "Matthew 12:37",
+        "verseKey": "kjv:matthew:12:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:matthew:12:38",
+      "numberLabel": "38",
+      "text": "Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.",
+      "metadata": {
+        "reference": "Matthew 12:38",
+        "verseKey": "kjv:matthew:12:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:matthew:12:39",
+      "numberLabel": "39",
+      "text": "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:",
+      "metadata": {
+        "reference": "Matthew 12:39",
+        "verseKey": "kjv:matthew:12:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:matthew:12:40",
+      "numberLabel": "40",
+      "text": "For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.",
+      "metadata": {
+        "reference": "Matthew 12:40",
+        "verseKey": "kjv:matthew:12:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:matthew:12:41",
+      "numberLabel": "41",
+      "text": "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.",
+      "metadata": {
+        "reference": "Matthew 12:41",
+        "verseKey": "kjv:matthew:12:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:matthew:12:42",
+      "numberLabel": "42",
+      "text": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.",
+      "metadata": {
+        "reference": "Matthew 12:42",
+        "verseKey": "kjv:matthew:12:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:matthew:12:43",
+      "numberLabel": "43",
+      "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.",
+      "metadata": {
+        "reference": "Matthew 12:43",
+        "verseKey": "kjv:matthew:12:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:matthew:12:44",
+      "numberLabel": "44",
+      "text": "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished.",
+      "metadata": {
+        "reference": "Matthew 12:44",
+        "verseKey": "kjv:matthew:12:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:matthew:12:45",
+      "numberLabel": "45",
+      "text": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.",
+      "metadata": {
+        "reference": "Matthew 12:45",
+        "verseKey": "kjv:matthew:12:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:matthew:12:46",
+      "numberLabel": "46",
+      "text": "While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him.",
+      "metadata": {
+        "reference": "Matthew 12:46",
+        "verseKey": "kjv:matthew:12:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:matthew:12:47",
+      "numberLabel": "47",
+      "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.",
+      "metadata": {
+        "reference": "Matthew 12:47",
+        "verseKey": "kjv:matthew:12:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:matthew:12:48",
+      "numberLabel": "48",
+      "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?",
+      "metadata": {
+        "reference": "Matthew 12:48",
+        "verseKey": "kjv:matthew:12:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:matthew:12:49",
+      "numberLabel": "49",
+      "text": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!",
+      "metadata": {
+        "reference": "Matthew 12:49",
+        "verseKey": "kjv:matthew:12:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:matthew:12:50",
+      "numberLabel": "50",
+      "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.",
+      "metadata": {
+        "reference": "Matthew 12:50",
+        "verseKey": "kjv:matthew:12:50"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

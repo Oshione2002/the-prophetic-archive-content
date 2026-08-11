@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ecclesiastes-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Ecclesiastes 12",
+  "display_title": "Ecclesiastes 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ecclesiastes",
+  "book": "Ecclesiastes",
+  "bookName": "Ecclesiastes",
+  "bookOrder": 21,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 21012,
+  "verseCount": 14,
+  "aliases": [
+    "Eccl",
+    "Ecc",
+    "Qoheleth"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ecclesiastes:12:1",
+      "numberLabel": "1",
+      "text": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;",
+      "metadata": {
+        "reference": "Ecclesiastes 12:1",
+        "verseKey": "kjv:ecclesiastes:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ecclesiastes:12:2",
+      "numberLabel": "2",
+      "text": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
+      "metadata": {
+        "reference": "Ecclesiastes 12:2",
+        "verseKey": "kjv:ecclesiastes:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ecclesiastes:12:3",
+      "numberLabel": "3",
+      "text": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,",
+      "metadata": {
+        "reference": "Ecclesiastes 12:3",
+        "verseKey": "kjv:ecclesiastes:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ecclesiastes:12:4",
+      "numberLabel": "4",
+      "text": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;",
+      "metadata": {
+        "reference": "Ecclesiastes 12:4",
+        "verseKey": "kjv:ecclesiastes:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ecclesiastes:12:5",
+      "numberLabel": "5",
+      "text": "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:",
+      "metadata": {
+        "reference": "Ecclesiastes 12:5",
+        "verseKey": "kjv:ecclesiastes:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ecclesiastes:12:6",
+      "numberLabel": "6",
+      "text": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:6",
+        "verseKey": "kjv:ecclesiastes:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ecclesiastes:12:7",
+      "numberLabel": "7",
+      "text": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:7",
+        "verseKey": "kjv:ecclesiastes:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ecclesiastes:12:8",
+      "numberLabel": "8",
+      "text": "Vanity of vanities, saith the preacher; all is vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:8",
+        "verseKey": "kjv:ecclesiastes:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ecclesiastes:12:9",
+      "numberLabel": "9",
+      "text": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:9",
+        "verseKey": "kjv:ecclesiastes:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ecclesiastes:12:10",
+      "numberLabel": "10",
+      "text": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:10",
+        "verseKey": "kjv:ecclesiastes:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ecclesiastes:12:11",
+      "numberLabel": "11",
+      "text": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:11",
+        "verseKey": "kjv:ecclesiastes:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ecclesiastes:12:12",
+      "numberLabel": "12",
+      "text": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:12",
+        "verseKey": "kjv:ecclesiastes:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ecclesiastes:12:13",
+      "numberLabel": "13",
+      "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:13",
+        "verseKey": "kjv:ecclesiastes:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ecclesiastes:12:14",
+      "numberLabel": "14",
+      "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.",
+      "metadata": {
+        "reference": "Ecclesiastes 12:14",
+        "verseKey": "kjv:ecclesiastes:12:14"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ecclesiastes.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ecclesiastes.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

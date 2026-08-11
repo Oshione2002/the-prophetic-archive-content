@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "Exodus 28",
+  "display_title": "Exodus 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 28,
+  "sortOrder": 2028,
+  "verseCount": 43,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:28:1",
+      "numberLabel": "1",
+      "text": "And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.",
+      "metadata": {
+        "reference": "Exodus 28:1",
+        "verseKey": "kjv:exodus:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:28:2",
+      "numberLabel": "2",
+      "text": "And thou shalt make holy garments for Aaron thy brother for glory and for beauty.",
+      "metadata": {
+        "reference": "Exodus 28:2",
+        "verseKey": "kjv:exodus:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:28:3",
+      "numberLabel": "3",
+      "text": "And thou shalt speak unto all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron’s garments to consecrate him, that he may minister unto me in the priest’s office.",
+      "metadata": {
+        "reference": "Exodus 28:3",
+        "verseKey": "kjv:exodus:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:28:4",
+      "numberLabel": "4",
+      "text": "And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office.",
+      "metadata": {
+        "reference": "Exodus 28:4",
+        "verseKey": "kjv:exodus:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:28:5",
+      "numberLabel": "5",
+      "text": "And they shall take gold, and blue, and purple, and scarlet, and fine linen.",
+      "metadata": {
+        "reference": "Exodus 28:5",
+        "verseKey": "kjv:exodus:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:28:6",
+      "numberLabel": "6",
+      "text": "And they shall make the ephod of gold, of blue, and of purple, of scarlet, and fine twined linen, with cunning work.",
+      "metadata": {
+        "reference": "Exodus 28:6",
+        "verseKey": "kjv:exodus:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:28:7",
+      "numberLabel": "7",
+      "text": "It shall have the two shoulderpieces thereof joined at the two edges thereof; and so it shall be joined together.",
+      "metadata": {
+        "reference": "Exodus 28:7",
+        "verseKey": "kjv:exodus:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:28:8",
+      "numberLabel": "8",
+      "text": "And the curious girdle of the ephod, which is upon it, shall be of the same, according to the work thereof; even of gold, of blue, and purple, and scarlet, and fine twined linen.",
+      "metadata": {
+        "reference": "Exodus 28:8",
+        "verseKey": "kjv:exodus:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:28:9",
+      "numberLabel": "9",
+      "text": "And thou shalt take two onyx stones, and grave on them the names of the children of Israel:",
+      "metadata": {
+        "reference": "Exodus 28:9",
+        "verseKey": "kjv:exodus:28:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:28:10",
+      "numberLabel": "10",
+      "text": "Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.",
+      "metadata": {
+        "reference": "Exodus 28:10",
+        "verseKey": "kjv:exodus:28:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:28:11",
+      "numberLabel": "11",
+      "text": "With the work of an engraver in stone, like the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.",
+      "metadata": {
+        "reference": "Exodus 28:11",
+        "verseKey": "kjv:exodus:28:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:28:12",
+      "numberLabel": "12",
+      "text": "And thou shalt put the two stones upon the shoulders of the ephod for stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial.",
+      "metadata": {
+        "reference": "Exodus 28:12",
+        "verseKey": "kjv:exodus:28:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:28:13",
+      "numberLabel": "13",
+      "text": "And thou shalt make ouches of gold;",
+      "metadata": {
+        "reference": "Exodus 28:13",
+        "verseKey": "kjv:exodus:28:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:28:14",
+      "numberLabel": "14",
+      "text": "And two chains of pure gold at the ends; of wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.",
+      "metadata": {
+        "reference": "Exodus 28:14",
+        "verseKey": "kjv:exodus:28:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:28:15",
+      "numberLabel": "15",
+      "text": "And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; of gold, of blue, and of purple, and of scarlet, and of fine twined linen, shalt thou make it.",
+      "metadata": {
+        "reference": "Exodus 28:15",
+        "verseKey": "kjv:exodus:28:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:28:16",
+      "numberLabel": "16",
+      "text": "Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof.",
+      "metadata": {
+        "reference": "Exodus 28:16",
+        "verseKey": "kjv:exodus:28:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:28:17",
+      "numberLabel": "17",
+      "text": "And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.",
+      "metadata": {
+        "reference": "Exodus 28:17",
+        "verseKey": "kjv:exodus:28:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:28:18",
+      "numberLabel": "18",
+      "text": "And the second row shall be an emerald, a sapphire, and a diamond.",
+      "metadata": {
+        "reference": "Exodus 28:18",
+        "verseKey": "kjv:exodus:28:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:28:19",
+      "numberLabel": "19",
+      "text": "And the third row a ligure, an agate, and an amethyst.",
+      "metadata": {
+        "reference": "Exodus 28:19",
+        "verseKey": "kjv:exodus:28:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:28:20",
+      "numberLabel": "20",
+      "text": "And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.",
+      "metadata": {
+        "reference": "Exodus 28:20",
+        "verseKey": "kjv:exodus:28:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:28:21",
+      "numberLabel": "21",
+      "text": "And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes.",
+      "metadata": {
+        "reference": "Exodus 28:21",
+        "verseKey": "kjv:exodus:28:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:28:22",
+      "numberLabel": "22",
+      "text": "And thou shalt make upon the breastplate chains at the ends of wreathen work of pure gold.",
+      "metadata": {
+        "reference": "Exodus 28:22",
+        "verseKey": "kjv:exodus:28:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:28:23",
+      "numberLabel": "23",
+      "text": "And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate.",
+      "metadata": {
+        "reference": "Exodus 28:23",
+        "verseKey": "kjv:exodus:28:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:28:24",
+      "numberLabel": "24",
+      "text": "And thou shalt put the two wreathen chains of gold in the two rings which are on the ends of the breastplate.",
+      "metadata": {
+        "reference": "Exodus 28:24",
+        "verseKey": "kjv:exodus:28:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:28:25",
+      "numberLabel": "25",
+      "text": "And the other two ends of the two wreathen chains thou shalt fasten in the two ouches, and put them on the shoulderpieces of the ephod before it.",
+      "metadata": {
+        "reference": "Exodus 28:25",
+        "verseKey": "kjv:exodus:28:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:28:26",
+      "numberLabel": "26",
+      "text": "And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which is in the side of the ephod inward.",
+      "metadata": {
+        "reference": "Exodus 28:26",
+        "verseKey": "kjv:exodus:28:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:28:27",
+      "numberLabel": "27",
+      "text": "And two other rings of gold thou shalt make, and shalt put them on the two sides of the ephod underneath, toward the forepart thereof, over against the other coupling thereof, above the curious girdle of the ephod.",
+      "metadata": {
+        "reference": "Exodus 28:27",
+        "verseKey": "kjv:exodus:28:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:28:28",
+      "numberLabel": "28",
+      "text": "And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that it may be above the curious girdle of the ephod, and that the breastplate be not loosed from the ephod.",
+      "metadata": {
+        "reference": "Exodus 28:28",
+        "verseKey": "kjv:exodus:28:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:28:29",
+      "numberLabel": "29",
+      "text": "And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy place, for a memorial before the LORD continually.",
+      "metadata": {
+        "reference": "Exodus 28:29",
+        "verseKey": "kjv:exodus:28:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:28:30",
+      "numberLabel": "30",
+      "text": "And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron’s heart, when he goeth in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.",
+      "metadata": {
+        "reference": "Exodus 28:30",
+        "verseKey": "kjv:exodus:28:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:exodus:28:31",
+      "numberLabel": "31",
+      "text": "And thou shalt make the robe of the ephod all of blue.",
+      "metadata": {
+        "reference": "Exodus 28:31",
+        "verseKey": "kjv:exodus:28:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:exodus:28:32",
+      "numberLabel": "32",
+      "text": "And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.",
+      "metadata": {
+        "reference": "Exodus 28:32",
+        "verseKey": "kjv:exodus:28:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:exodus:28:33",
+      "numberLabel": "33",
+      "text": "And beneath upon the hem of it thou shalt make pomegranates of blue, and of purple, and of scarlet, round about the hem thereof; and bells of gold between them round about:",
+      "metadata": {
+        "reference": "Exodus 28:33",
+        "verseKey": "kjv:exodus:28:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:exodus:28:34",
+      "numberLabel": "34",
+      "text": "A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.",
+      "metadata": {
+        "reference": "Exodus 28:34",
+        "verseKey": "kjv:exodus:28:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:exodus:28:35",
+      "numberLabel": "35",
+      "text": "And it shall be upon Aaron to minister: and his sound shall be heard when he goeth in unto the holy place before the LORD, and when he cometh out, that he die not.",
+      "metadata": {
+        "reference": "Exodus 28:35",
+        "verseKey": "kjv:exodus:28:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:exodus:28:36",
+      "numberLabel": "36",
+      "text": "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLINESS TO THE LORD.",
+      "metadata": {
+        "reference": "Exodus 28:36",
+        "verseKey": "kjv:exodus:28:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:exodus:28:37",
+      "numberLabel": "37",
+      "text": "And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be.",
+      "metadata": {
+        "reference": "Exodus 28:37",
+        "verseKey": "kjv:exodus:28:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:exodus:28:38",
+      "numberLabel": "38",
+      "text": "And it shall be upon Aaron’s forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the LORD.",
+      "metadata": {
+        "reference": "Exodus 28:38",
+        "verseKey": "kjv:exodus:28:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:exodus:28:39",
+      "numberLabel": "39",
+      "text": "And thou shalt embroider the coat of fine linen, and thou shalt make the mitre of fine linen, and thou shalt make the girdle of needlework.",
+      "metadata": {
+        "reference": "Exodus 28:39",
+        "verseKey": "kjv:exodus:28:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:exodus:28:40",
+      "numberLabel": "40",
+      "text": "And for Aaron’s sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty.",
+      "metadata": {
+        "reference": "Exodus 28:40",
+        "verseKey": "kjv:exodus:28:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:exodus:28:41",
+      "numberLabel": "41",
+      "text": "And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.",
+      "metadata": {
+        "reference": "Exodus 28:41",
+        "verseKey": "kjv:exodus:28:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:exodus:28:42",
+      "numberLabel": "42",
+      "text": "And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:",
+      "metadata": {
+        "reference": "Exodus 28:42",
+        "verseKey": "kjv:exodus:28:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:exodus:28:43",
+      "numberLabel": "43",
+      "text": "And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him.",
+      "metadata": {
+        "reference": "Exodus 28:43",
+        "verseKey": "kjv:exodus:28:43"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

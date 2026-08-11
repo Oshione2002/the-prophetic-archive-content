@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-021",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 21,
+  "title": "Exodus 21",
+  "display_title": "Exodus 21",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 21,
+  "sortOrder": 2021,
+  "verseCount": 36,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:21:1",
+      "numberLabel": "1",
+      "text": "Now these are the judgments which thou shalt set before them.",
+      "metadata": {
+        "reference": "Exodus 21:1",
+        "verseKey": "kjv:exodus:21:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:21:2",
+      "numberLabel": "2",
+      "text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.",
+      "metadata": {
+        "reference": "Exodus 21:2",
+        "verseKey": "kjv:exodus:21:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:21:3",
+      "numberLabel": "3",
+      "text": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.",
+      "metadata": {
+        "reference": "Exodus 21:3",
+        "verseKey": "kjv:exodus:21:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:21:4",
+      "numberLabel": "4",
+      "text": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself.",
+      "metadata": {
+        "reference": "Exodus 21:4",
+        "verseKey": "kjv:exodus:21:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:21:5",
+      "numberLabel": "5",
+      "text": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:",
+      "metadata": {
+        "reference": "Exodus 21:5",
+        "verseKey": "kjv:exodus:21:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:21:6",
+      "numberLabel": "6",
+      "text": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.",
+      "metadata": {
+        "reference": "Exodus 21:6",
+        "verseKey": "kjv:exodus:21:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:21:7",
+      "numberLabel": "7",
+      "text": "And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.",
+      "metadata": {
+        "reference": "Exodus 21:7",
+        "verseKey": "kjv:exodus:21:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:21:8",
+      "numberLabel": "8",
+      "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.",
+      "metadata": {
+        "reference": "Exodus 21:8",
+        "verseKey": "kjv:exodus:21:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:21:9",
+      "numberLabel": "9",
+      "text": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.",
+      "metadata": {
+        "reference": "Exodus 21:9",
+        "verseKey": "kjv:exodus:21:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:21:10",
+      "numberLabel": "10",
+      "text": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish.",
+      "metadata": {
+        "reference": "Exodus 21:10",
+        "verseKey": "kjv:exodus:21:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:21:11",
+      "numberLabel": "11",
+      "text": "And if he do not these three unto her, then shall she go out free without money.",
+      "metadata": {
+        "reference": "Exodus 21:11",
+        "verseKey": "kjv:exodus:21:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:21:12",
+      "numberLabel": "12",
+      "text": "He that smiteth a man, so that he die, shall be surely put to death.",
+      "metadata": {
+        "reference": "Exodus 21:12",
+        "verseKey": "kjv:exodus:21:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:21:13",
+      "numberLabel": "13",
+      "text": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee.",
+      "metadata": {
+        "reference": "Exodus 21:13",
+        "verseKey": "kjv:exodus:21:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:21:14",
+      "numberLabel": "14",
+      "text": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.",
+      "metadata": {
+        "reference": "Exodus 21:14",
+        "verseKey": "kjv:exodus:21:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:21:15",
+      "numberLabel": "15",
+      "text": "And he that smiteth his father, or his mother, shall be surely put to death.",
+      "metadata": {
+        "reference": "Exodus 21:15",
+        "verseKey": "kjv:exodus:21:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:21:16",
+      "numberLabel": "16",
+      "text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
+      "metadata": {
+        "reference": "Exodus 21:16",
+        "verseKey": "kjv:exodus:21:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:21:17",
+      "numberLabel": "17",
+      "text": "And he that curseth his father, or his mother, shall surely be put to death.",
+      "metadata": {
+        "reference": "Exodus 21:17",
+        "verseKey": "kjv:exodus:21:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:21:18",
+      "numberLabel": "18",
+      "text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:",
+      "metadata": {
+        "reference": "Exodus 21:18",
+        "verseKey": "kjv:exodus:21:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:21:19",
+      "numberLabel": "19",
+      "text": "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.",
+      "metadata": {
+        "reference": "Exodus 21:19",
+        "verseKey": "kjv:exodus:21:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:21:20",
+      "numberLabel": "20",
+      "text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.",
+      "metadata": {
+        "reference": "Exodus 21:20",
+        "verseKey": "kjv:exodus:21:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:21:21",
+      "numberLabel": "21",
+      "text": "Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.",
+      "metadata": {
+        "reference": "Exodus 21:21",
+        "verseKey": "kjv:exodus:21:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:21:22",
+      "numberLabel": "22",
+      "text": "If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges determine.",
+      "metadata": {
+        "reference": "Exodus 21:22",
+        "verseKey": "kjv:exodus:21:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:21:23",
+      "numberLabel": "23",
+      "text": "And if any mischief follow, then thou shalt give life for life,",
+      "metadata": {
+        "reference": "Exodus 21:23",
+        "verseKey": "kjv:exodus:21:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:21:24",
+      "numberLabel": "24",
+      "text": "Eye for eye, tooth for tooth, hand for hand, foot for foot,",
+      "metadata": {
+        "reference": "Exodus 21:24",
+        "verseKey": "kjv:exodus:21:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:21:25",
+      "numberLabel": "25",
+      "text": "Burning for burning, wound for wound, stripe for stripe.",
+      "metadata": {
+        "reference": "Exodus 21:25",
+        "verseKey": "kjv:exodus:21:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:21:26",
+      "numberLabel": "26",
+      "text": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake.",
+      "metadata": {
+        "reference": "Exodus 21:26",
+        "verseKey": "kjv:exodus:21:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:21:27",
+      "numberLabel": "27",
+      "text": "And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.",
+      "metadata": {
+        "reference": "Exodus 21:27",
+        "verseKey": "kjv:exodus:21:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:21:28",
+      "numberLabel": "28",
+      "text": "If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit.",
+      "metadata": {
+        "reference": "Exodus 21:28",
+        "verseKey": "kjv:exodus:21:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:21:29",
+      "numberLabel": "29",
+      "text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.",
+      "metadata": {
+        "reference": "Exodus 21:29",
+        "verseKey": "kjv:exodus:21:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:21:30",
+      "numberLabel": "30",
+      "text": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.",
+      "metadata": {
+        "reference": "Exodus 21:30",
+        "verseKey": "kjv:exodus:21:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:exodus:21:31",
+      "numberLabel": "31",
+      "text": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.",
+      "metadata": {
+        "reference": "Exodus 21:31",
+        "verseKey": "kjv:exodus:21:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:exodus:21:32",
+      "numberLabel": "32",
+      "text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
+      "metadata": {
+        "reference": "Exodus 21:32",
+        "verseKey": "kjv:exodus:21:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:exodus:21:33",
+      "numberLabel": "33",
+      "text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;",
+      "metadata": {
+        "reference": "Exodus 21:33",
+        "verseKey": "kjv:exodus:21:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:exodus:21:34",
+      "numberLabel": "34",
+      "text": "The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.",
+      "metadata": {
+        "reference": "Exodus 21:34",
+        "verseKey": "kjv:exodus:21:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:exodus:21:35",
+      "numberLabel": "35",
+      "text": "And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.",
+      "metadata": {
+        "reference": "Exodus 21:35",
+        "verseKey": "kjv:exodus:21:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:exodus:21:36",
+      "numberLabel": "36",
+      "text": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.",
+      "metadata": {
+        "reference": "Exodus 21:36",
+        "verseKey": "kjv:exodus:21:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

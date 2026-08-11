@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "John 10",
+  "display_title": "John 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 10,
+  "sortOrder": 43010,
+  "verseCount": 42,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:10:1",
+      "numberLabel": "1",
+      "text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.",
+      "metadata": {
+        "reference": "John 10:1",
+        "verseKey": "kjv:john:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:10:2",
+      "numberLabel": "2",
+      "text": "But he that entereth in by the door is the shepherd of the sheep.",
+      "metadata": {
+        "reference": "John 10:2",
+        "verseKey": "kjv:john:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:10:3",
+      "numberLabel": "3",
+      "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.",
+      "metadata": {
+        "reference": "John 10:3",
+        "verseKey": "kjv:john:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:10:4",
+      "numberLabel": "4",
+      "text": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.",
+      "metadata": {
+        "reference": "John 10:4",
+        "verseKey": "kjv:john:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:10:5",
+      "numberLabel": "5",
+      "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.",
+      "metadata": {
+        "reference": "John 10:5",
+        "verseKey": "kjv:john:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:10:6",
+      "numberLabel": "6",
+      "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
+      "metadata": {
+        "reference": "John 10:6",
+        "verseKey": "kjv:john:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:10:7",
+      "numberLabel": "7",
+      "text": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.",
+      "metadata": {
+        "reference": "John 10:7",
+        "verseKey": "kjv:john:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:10:8",
+      "numberLabel": "8",
+      "text": "All that ever came before me are thieves and robbers: but the sheep did not hear them.",
+      "metadata": {
+        "reference": "John 10:8",
+        "verseKey": "kjv:john:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:10:9",
+      "numberLabel": "9",
+      "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
+      "metadata": {
+        "reference": "John 10:9",
+        "verseKey": "kjv:john:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:10:10",
+      "numberLabel": "10",
+      "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+      "metadata": {
+        "reference": "John 10:10",
+        "verseKey": "kjv:john:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:10:11",
+      "numberLabel": "11",
+      "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+      "metadata": {
+        "reference": "John 10:11",
+        "verseKey": "kjv:john:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:10:12",
+      "numberLabel": "12",
+      "text": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.",
+      "metadata": {
+        "reference": "John 10:12",
+        "verseKey": "kjv:john:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:10:13",
+      "numberLabel": "13",
+      "text": "The hireling fleeth, because he is an hireling, and careth not for the sheep.",
+      "metadata": {
+        "reference": "John 10:13",
+        "verseKey": "kjv:john:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:10:14",
+      "numberLabel": "14",
+      "text": "I am the good shepherd, and know my sheep, and am known of mine.",
+      "metadata": {
+        "reference": "John 10:14",
+        "verseKey": "kjv:john:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:10:15",
+      "numberLabel": "15",
+      "text": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.",
+      "metadata": {
+        "reference": "John 10:15",
+        "verseKey": "kjv:john:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:10:16",
+      "numberLabel": "16",
+      "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+      "metadata": {
+        "reference": "John 10:16",
+        "verseKey": "kjv:john:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:10:17",
+      "numberLabel": "17",
+      "text": "Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+      "metadata": {
+        "reference": "John 10:17",
+        "verseKey": "kjv:john:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:10:18",
+      "numberLabel": "18",
+      "text": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.",
+      "metadata": {
+        "reference": "John 10:18",
+        "verseKey": "kjv:john:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:10:19",
+      "numberLabel": "19",
+      "text": "There was a division therefore again among the Jews for these sayings.",
+      "metadata": {
+        "reference": "John 10:19",
+        "verseKey": "kjv:john:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:10:20",
+      "numberLabel": "20",
+      "text": "And many of them said, He hath a devil, and is mad; why hear ye him?",
+      "metadata": {
+        "reference": "John 10:20",
+        "verseKey": "kjv:john:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:10:21",
+      "numberLabel": "21",
+      "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?",
+      "metadata": {
+        "reference": "John 10:21",
+        "verseKey": "kjv:john:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:10:22",
+      "numberLabel": "22",
+      "text": "And it was at Jerusalem the feast of the dedication, and it was winter.",
+      "metadata": {
+        "reference": "John 10:22",
+        "verseKey": "kjv:john:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:10:23",
+      "numberLabel": "23",
+      "text": "And Jesus walked in the temple in Solomon’s porch.",
+      "metadata": {
+        "reference": "John 10:23",
+        "verseKey": "kjv:john:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:10:24",
+      "numberLabel": "24",
+      "text": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.",
+      "metadata": {
+        "reference": "John 10:24",
+        "verseKey": "kjv:john:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:10:25",
+      "numberLabel": "25",
+      "text": "Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.",
+      "metadata": {
+        "reference": "John 10:25",
+        "verseKey": "kjv:john:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:10:26",
+      "numberLabel": "26",
+      "text": "But ye believe not, because ye are not of my sheep, as I said unto you.",
+      "metadata": {
+        "reference": "John 10:26",
+        "verseKey": "kjv:john:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:10:27",
+      "numberLabel": "27",
+      "text": "My sheep hear my voice, and I know them, and they follow me:",
+      "metadata": {
+        "reference": "John 10:27",
+        "verseKey": "kjv:john:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:10:28",
+      "numberLabel": "28",
+      "text": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.",
+      "metadata": {
+        "reference": "John 10:28",
+        "verseKey": "kjv:john:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:10:29",
+      "numberLabel": "29",
+      "text": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.",
+      "metadata": {
+        "reference": "John 10:29",
+        "verseKey": "kjv:john:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:10:30",
+      "numberLabel": "30",
+      "text": "I and my Father are one.",
+      "metadata": {
+        "reference": "John 10:30",
+        "verseKey": "kjv:john:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:10:31",
+      "numberLabel": "31",
+      "text": "Then the Jews took up stones again to stone him.",
+      "metadata": {
+        "reference": "John 10:31",
+        "verseKey": "kjv:john:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:john:10:32",
+      "numberLabel": "32",
+      "text": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?",
+      "metadata": {
+        "reference": "John 10:32",
+        "verseKey": "kjv:john:10:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:john:10:33",
+      "numberLabel": "33",
+      "text": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.",
+      "metadata": {
+        "reference": "John 10:33",
+        "verseKey": "kjv:john:10:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:john:10:34",
+      "numberLabel": "34",
+      "text": "Jesus answered them, Is it not written in your law, I said, Ye are gods?",
+      "metadata": {
+        "reference": "John 10:34",
+        "verseKey": "kjv:john:10:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:john:10:35",
+      "numberLabel": "35",
+      "text": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;",
+      "metadata": {
+        "reference": "John 10:35",
+        "verseKey": "kjv:john:10:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:john:10:36",
+      "numberLabel": "36",
+      "text": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?",
+      "metadata": {
+        "reference": "John 10:36",
+        "verseKey": "kjv:john:10:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:john:10:37",
+      "numberLabel": "37",
+      "text": "If I do not the works of my Father, believe me not.",
+      "metadata": {
+        "reference": "John 10:37",
+        "verseKey": "kjv:john:10:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:john:10:38",
+      "numberLabel": "38",
+      "text": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.",
+      "metadata": {
+        "reference": "John 10:38",
+        "verseKey": "kjv:john:10:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:john:10:39",
+      "numberLabel": "39",
+      "text": "Therefore they sought again to take him: but he escaped out of their hand,",
+      "metadata": {
+        "reference": "John 10:39",
+        "verseKey": "kjv:john:10:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:john:10:40",
+      "numberLabel": "40",
+      "text": "And went away again beyond Jordan into the place where John at first baptized; and there he abode.",
+      "metadata": {
+        "reference": "John 10:40",
+        "verseKey": "kjv:john:10:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:john:10:41",
+      "numberLabel": "41",
+      "text": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.",
+      "metadata": {
+        "reference": "John 10:41",
+        "verseKey": "kjv:john:10:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:john:10:42",
+      "numberLabel": "42",
+      "text": "And many believed on him there.",
+      "metadata": {
+        "reference": "John 10:42",
+        "verseKey": "kjv:john:10:42"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

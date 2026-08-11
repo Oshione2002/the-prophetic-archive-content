@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hebrews-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Hebrews 12",
+  "display_title": "Hebrews 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hebrews",
+  "book": "Hebrews",
+  "bookName": "Hebrews",
+  "bookOrder": 58,
+  "testament": "new",
+  "chapter": 12,
+  "sortOrder": 58012,
+  "verseCount": 29,
+  "aliases": [
+    "Heb",
+    "He"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hebrews:12:1",
+      "numberLabel": "1",
+      "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+      "metadata": {
+        "reference": "Hebrews 12:1",
+        "verseKey": "kjv:hebrews:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hebrews:12:2",
+      "numberLabel": "2",
+      "text": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+      "metadata": {
+        "reference": "Hebrews 12:2",
+        "verseKey": "kjv:hebrews:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hebrews:12:3",
+      "numberLabel": "3",
+      "text": "For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.",
+      "metadata": {
+        "reference": "Hebrews 12:3",
+        "verseKey": "kjv:hebrews:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hebrews:12:4",
+      "numberLabel": "4",
+      "text": "Ye have not yet resisted unto blood, striving against sin.",
+      "metadata": {
+        "reference": "Hebrews 12:4",
+        "verseKey": "kjv:hebrews:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hebrews:12:5",
+      "numberLabel": "5",
+      "text": "And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:",
+      "metadata": {
+        "reference": "Hebrews 12:5",
+        "verseKey": "kjv:hebrews:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hebrews:12:6",
+      "numberLabel": "6",
+      "text": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.",
+      "metadata": {
+        "reference": "Hebrews 12:6",
+        "verseKey": "kjv:hebrews:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hebrews:12:7",
+      "numberLabel": "7",
+      "text": "If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?",
+      "metadata": {
+        "reference": "Hebrews 12:7",
+        "verseKey": "kjv:hebrews:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hebrews:12:8",
+      "numberLabel": "8",
+      "text": "But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons.",
+      "metadata": {
+        "reference": "Hebrews 12:8",
+        "verseKey": "kjv:hebrews:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hebrews:12:9",
+      "numberLabel": "9",
+      "text": "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?",
+      "metadata": {
+        "reference": "Hebrews 12:9",
+        "verseKey": "kjv:hebrews:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hebrews:12:10",
+      "numberLabel": "10",
+      "text": "For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.",
+      "metadata": {
+        "reference": "Hebrews 12:10",
+        "verseKey": "kjv:hebrews:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hebrews:12:11",
+      "numberLabel": "11",
+      "text": "Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.",
+      "metadata": {
+        "reference": "Hebrews 12:11",
+        "verseKey": "kjv:hebrews:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:hebrews:12:12",
+      "numberLabel": "12",
+      "text": "Wherefore lift up the hands which hang down, and the feeble knees;",
+      "metadata": {
+        "reference": "Hebrews 12:12",
+        "verseKey": "kjv:hebrews:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:hebrews:12:13",
+      "numberLabel": "13",
+      "text": "And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.",
+      "metadata": {
+        "reference": "Hebrews 12:13",
+        "verseKey": "kjv:hebrews:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:hebrews:12:14",
+      "numberLabel": "14",
+      "text": "Follow peace with all men, and holiness, without which no man shall see the Lord:",
+      "metadata": {
+        "reference": "Hebrews 12:14",
+        "verseKey": "kjv:hebrews:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:hebrews:12:15",
+      "numberLabel": "15",
+      "text": "Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;",
+      "metadata": {
+        "reference": "Hebrews 12:15",
+        "verseKey": "kjv:hebrews:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:hebrews:12:16",
+      "numberLabel": "16",
+      "text": "Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.",
+      "metadata": {
+        "reference": "Hebrews 12:16",
+        "verseKey": "kjv:hebrews:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:hebrews:12:17",
+      "numberLabel": "17",
+      "text": "For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.",
+      "metadata": {
+        "reference": "Hebrews 12:17",
+        "verseKey": "kjv:hebrews:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:hebrews:12:18",
+      "numberLabel": "18",
+      "text": "For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,",
+      "metadata": {
+        "reference": "Hebrews 12:18",
+        "verseKey": "kjv:hebrews:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:hebrews:12:19",
+      "numberLabel": "19",
+      "text": "And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more:",
+      "metadata": {
+        "reference": "Hebrews 12:19",
+        "verseKey": "kjv:hebrews:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:hebrews:12:20",
+      "numberLabel": "20",
+      "text": "(For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:",
+      "metadata": {
+        "reference": "Hebrews 12:20",
+        "verseKey": "kjv:hebrews:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:hebrews:12:21",
+      "numberLabel": "21",
+      "text": "And so terrible was the sight, that Moses said, I exceedingly fear and quake:)",
+      "metadata": {
+        "reference": "Hebrews 12:21",
+        "verseKey": "kjv:hebrews:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:hebrews:12:22",
+      "numberLabel": "22",
+      "text": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,",
+      "metadata": {
+        "reference": "Hebrews 12:22",
+        "verseKey": "kjv:hebrews:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:hebrews:12:23",
+      "numberLabel": "23",
+      "text": "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,",
+      "metadata": {
+        "reference": "Hebrews 12:23",
+        "verseKey": "kjv:hebrews:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:hebrews:12:24",
+      "numberLabel": "24",
+      "text": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.",
+      "metadata": {
+        "reference": "Hebrews 12:24",
+        "verseKey": "kjv:hebrews:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:hebrews:12:25",
+      "numberLabel": "25",
+      "text": "See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:",
+      "metadata": {
+        "reference": "Hebrews 12:25",
+        "verseKey": "kjv:hebrews:12:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:hebrews:12:26",
+      "numberLabel": "26",
+      "text": "Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.",
+      "metadata": {
+        "reference": "Hebrews 12:26",
+        "verseKey": "kjv:hebrews:12:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:hebrews:12:27",
+      "numberLabel": "27",
+      "text": "And this word, Yet once more, signifieth the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.",
+      "metadata": {
+        "reference": "Hebrews 12:27",
+        "verseKey": "kjv:hebrews:12:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:hebrews:12:28",
+      "numberLabel": "28",
+      "text": "Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:",
+      "metadata": {
+        "reference": "Hebrews 12:28",
+        "verseKey": "kjv:hebrews:12:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:hebrews:12:29",
+      "numberLabel": "29",
+      "text": "For our God is a consuming fire.",
+      "metadata": {
+        "reference": "Hebrews 12:29",
+        "verseKey": "kjv:hebrews:12:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hebrews.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hebrews.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

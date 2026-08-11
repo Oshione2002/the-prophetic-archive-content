@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-daniel-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Daniel 2",
+  "display_title": "Daniel 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "daniel",
+  "book": "Daniel",
+  "bookName": "Daniel",
+  "bookOrder": 27,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 27002,
+  "verseCount": 49,
+  "aliases": [
+    "Dan",
+    "Da",
+    "Dn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:daniel:2:1",
+      "numberLabel": "1",
+      "text": "And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.",
+      "metadata": {
+        "reference": "Daniel 2:1",
+        "verseKey": "kjv:daniel:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:daniel:2:2",
+      "numberLabel": "2",
+      "text": "Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.",
+      "metadata": {
+        "reference": "Daniel 2:2",
+        "verseKey": "kjv:daniel:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:daniel:2:3",
+      "numberLabel": "3",
+      "text": "And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.",
+      "metadata": {
+        "reference": "Daniel 2:3",
+        "verseKey": "kjv:daniel:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:daniel:2:4",
+      "numberLabel": "4",
+      "text": "Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.",
+      "metadata": {
+        "reference": "Daniel 2:4",
+        "verseKey": "kjv:daniel:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:daniel:2:5",
+      "numberLabel": "5",
+      "text": "The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.",
+      "metadata": {
+        "reference": "Daniel 2:5",
+        "verseKey": "kjv:daniel:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:daniel:2:6",
+      "numberLabel": "6",
+      "text": "But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.",
+      "metadata": {
+        "reference": "Daniel 2:6",
+        "verseKey": "kjv:daniel:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:daniel:2:7",
+      "numberLabel": "7",
+      "text": "They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.",
+      "metadata": {
+        "reference": "Daniel 2:7",
+        "verseKey": "kjv:daniel:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:daniel:2:8",
+      "numberLabel": "8",
+      "text": "The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.",
+      "metadata": {
+        "reference": "Daniel 2:8",
+        "verseKey": "kjv:daniel:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:daniel:2:9",
+      "numberLabel": "9",
+      "text": "But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.",
+      "metadata": {
+        "reference": "Daniel 2:9",
+        "verseKey": "kjv:daniel:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:daniel:2:10",
+      "numberLabel": "10",
+      "text": "The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologer, or Chaldean.",
+      "metadata": {
+        "reference": "Daniel 2:10",
+        "verseKey": "kjv:daniel:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:daniel:2:11",
+      "numberLabel": "11",
+      "text": "And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.",
+      "metadata": {
+        "reference": "Daniel 2:11",
+        "verseKey": "kjv:daniel:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:daniel:2:12",
+      "numberLabel": "12",
+      "text": "For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.",
+      "metadata": {
+        "reference": "Daniel 2:12",
+        "verseKey": "kjv:daniel:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:daniel:2:13",
+      "numberLabel": "13",
+      "text": "And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.",
+      "metadata": {
+        "reference": "Daniel 2:13",
+        "verseKey": "kjv:daniel:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:daniel:2:14",
+      "numberLabel": "14",
+      "text": "Then Daniel answered with counsel and wisdom to Arioch the captain of the king’s guard, which was gone forth to slay the wise men of Babylon:",
+      "metadata": {
+        "reference": "Daniel 2:14",
+        "verseKey": "kjv:daniel:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:daniel:2:15",
+      "numberLabel": "15",
+      "text": "He answered and said to Arioch the king’s captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel.",
+      "metadata": {
+        "reference": "Daniel 2:15",
+        "verseKey": "kjv:daniel:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:daniel:2:16",
+      "numberLabel": "16",
+      "text": "Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.",
+      "metadata": {
+        "reference": "Daniel 2:16",
+        "verseKey": "kjv:daniel:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:daniel:2:17",
+      "numberLabel": "17",
+      "text": "Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:",
+      "metadata": {
+        "reference": "Daniel 2:17",
+        "verseKey": "kjv:daniel:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:daniel:2:18",
+      "numberLabel": "18",
+      "text": "That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise men of Babylon.",
+      "metadata": {
+        "reference": "Daniel 2:18",
+        "verseKey": "kjv:daniel:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:daniel:2:19",
+      "numberLabel": "19",
+      "text": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.",
+      "metadata": {
+        "reference": "Daniel 2:19",
+        "verseKey": "kjv:daniel:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:daniel:2:20",
+      "numberLabel": "20",
+      "text": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:",
+      "metadata": {
+        "reference": "Daniel 2:20",
+        "verseKey": "kjv:daniel:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:daniel:2:21",
+      "numberLabel": "21",
+      "text": "And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:",
+      "metadata": {
+        "reference": "Daniel 2:21",
+        "verseKey": "kjv:daniel:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:daniel:2:22",
+      "numberLabel": "22",
+      "text": "He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.",
+      "metadata": {
+        "reference": "Daniel 2:22",
+        "verseKey": "kjv:daniel:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:daniel:2:23",
+      "numberLabel": "23",
+      "text": "I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast now made known unto us the king’s matter.",
+      "metadata": {
+        "reference": "Daniel 2:23",
+        "verseKey": "kjv:daniel:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:daniel:2:24",
+      "numberLabel": "24",
+      "text": "Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise men of Babylon: he went and said thus unto him; Destroy not the wise men of Babylon: bring me in before the king, and I will shew unto the king the interpretation.",
+      "metadata": {
+        "reference": "Daniel 2:24",
+        "verseKey": "kjv:daniel:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:daniel:2:25",
+      "numberLabel": "25",
+      "text": "Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.",
+      "metadata": {
+        "reference": "Daniel 2:25",
+        "verseKey": "kjv:daniel:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:daniel:2:26",
+      "numberLabel": "26",
+      "text": "The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?",
+      "metadata": {
+        "reference": "Daniel 2:26",
+        "verseKey": "kjv:daniel:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:daniel:2:27",
+      "numberLabel": "27",
+      "text": "Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king;",
+      "metadata": {
+        "reference": "Daniel 2:27",
+        "verseKey": "kjv:daniel:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:daniel:2:28",
+      "numberLabel": "28",
+      "text": "But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;",
+      "metadata": {
+        "reference": "Daniel 2:28",
+        "verseKey": "kjv:daniel:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:daniel:2:29",
+      "numberLabel": "29",
+      "text": "As for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.",
+      "metadata": {
+        "reference": "Daniel 2:29",
+        "verseKey": "kjv:daniel:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:daniel:2:30",
+      "numberLabel": "30",
+      "text": "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.",
+      "metadata": {
+        "reference": "Daniel 2:30",
+        "verseKey": "kjv:daniel:2:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:daniel:2:31",
+      "numberLabel": "31",
+      "text": "Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.",
+      "metadata": {
+        "reference": "Daniel 2:31",
+        "verseKey": "kjv:daniel:2:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:daniel:2:32",
+      "numberLabel": "32",
+      "text": "This image’s head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,",
+      "metadata": {
+        "reference": "Daniel 2:32",
+        "verseKey": "kjv:daniel:2:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:daniel:2:33",
+      "numberLabel": "33",
+      "text": "His legs of iron, his feet part of iron and part of clay.",
+      "metadata": {
+        "reference": "Daniel 2:33",
+        "verseKey": "kjv:daniel:2:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:daniel:2:34",
+      "numberLabel": "34",
+      "text": "Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.",
+      "metadata": {
+        "reference": "Daniel 2:34",
+        "verseKey": "kjv:daniel:2:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:daniel:2:35",
+      "numberLabel": "35",
+      "text": "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.",
+      "metadata": {
+        "reference": "Daniel 2:35",
+        "verseKey": "kjv:daniel:2:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:daniel:2:36",
+      "numberLabel": "36",
+      "text": "This is the dream; and we will tell the interpretation thereof before the king.",
+      "metadata": {
+        "reference": "Daniel 2:36",
+        "verseKey": "kjv:daniel:2:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:daniel:2:37",
+      "numberLabel": "37",
+      "text": "Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.",
+      "metadata": {
+        "reference": "Daniel 2:37",
+        "verseKey": "kjv:daniel:2:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:daniel:2:38",
+      "numberLabel": "38",
+      "text": "And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou art this head of gold.",
+      "metadata": {
+        "reference": "Daniel 2:38",
+        "verseKey": "kjv:daniel:2:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:daniel:2:39",
+      "numberLabel": "39",
+      "text": "And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.",
+      "metadata": {
+        "reference": "Daniel 2:39",
+        "verseKey": "kjv:daniel:2:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:daniel:2:40",
+      "numberLabel": "40",
+      "text": "And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.",
+      "metadata": {
+        "reference": "Daniel 2:40",
+        "verseKey": "kjv:daniel:2:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:daniel:2:41",
+      "numberLabel": "41",
+      "text": "And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.",
+      "metadata": {
+        "reference": "Daniel 2:41",
+        "verseKey": "kjv:daniel:2:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:daniel:2:42",
+      "numberLabel": "42",
+      "text": "And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.",
+      "metadata": {
+        "reference": "Daniel 2:42",
+        "verseKey": "kjv:daniel:2:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:daniel:2:43",
+      "numberLabel": "43",
+      "text": "And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.",
+      "metadata": {
+        "reference": "Daniel 2:43",
+        "verseKey": "kjv:daniel:2:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:daniel:2:44",
+      "numberLabel": "44",
+      "text": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+      "metadata": {
+        "reference": "Daniel 2:44",
+        "verseKey": "kjv:daniel:2:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:daniel:2:45",
+      "numberLabel": "45",
+      "text": "Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.",
+      "metadata": {
+        "reference": "Daniel 2:45",
+        "verseKey": "kjv:daniel:2:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:daniel:2:46",
+      "numberLabel": "46",
+      "text": "Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.",
+      "metadata": {
+        "reference": "Daniel 2:46",
+        "verseKey": "kjv:daniel:2:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:daniel:2:47",
+      "numberLabel": "47",
+      "text": "The king answered unto Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.",
+      "metadata": {
+        "reference": "Daniel 2:47",
+        "verseKey": "kjv:daniel:2:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:daniel:2:48",
+      "numberLabel": "48",
+      "text": "Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.",
+      "metadata": {
+        "reference": "Daniel 2:48",
+        "verseKey": "kjv:daniel:2:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:daniel:2:49",
+      "numberLabel": "49",
+      "text": "Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king.",
+      "metadata": {
+        "reference": "Daniel 2:49",
+        "verseKey": "kjv:daniel:2:49"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Daniel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Daniel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

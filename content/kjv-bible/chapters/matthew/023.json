@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-023",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 23,
+  "title": "Matthew 23",
+  "display_title": "Matthew 23",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 23,
+  "sortOrder": 40023,
+  "verseCount": 39,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:23:1",
+      "numberLabel": "1",
+      "text": "Then spake Jesus to the multitude, and to his disciples,",
+      "metadata": {
+        "reference": "Matthew 23:1",
+        "verseKey": "kjv:matthew:23:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:23:2",
+      "numberLabel": "2",
+      "text": "Saying, The scribes and the Pharisees sit in Moses’ seat:",
+      "metadata": {
+        "reference": "Matthew 23:2",
+        "verseKey": "kjv:matthew:23:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:23:3",
+      "numberLabel": "3",
+      "text": "All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.",
+      "metadata": {
+        "reference": "Matthew 23:3",
+        "verseKey": "kjv:matthew:23:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:23:4",
+      "numberLabel": "4",
+      "text": "For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.",
+      "metadata": {
+        "reference": "Matthew 23:4",
+        "verseKey": "kjv:matthew:23:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:23:5",
+      "numberLabel": "5",
+      "text": "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,",
+      "metadata": {
+        "reference": "Matthew 23:5",
+        "verseKey": "kjv:matthew:23:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:23:6",
+      "numberLabel": "6",
+      "text": "And love the uppermost rooms at feasts, and the chief seats in the synagogues,",
+      "metadata": {
+        "reference": "Matthew 23:6",
+        "verseKey": "kjv:matthew:23:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:23:7",
+      "numberLabel": "7",
+      "text": "And greetings in the markets, and to be called of men, Rabbi, Rabbi.",
+      "metadata": {
+        "reference": "Matthew 23:7",
+        "verseKey": "kjv:matthew:23:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:23:8",
+      "numberLabel": "8",
+      "text": "But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.",
+      "metadata": {
+        "reference": "Matthew 23:8",
+        "verseKey": "kjv:matthew:23:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:23:9",
+      "numberLabel": "9",
+      "text": "And call no man your father upon the earth: for one is your Father, which is in heaven.",
+      "metadata": {
+        "reference": "Matthew 23:9",
+        "verseKey": "kjv:matthew:23:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:23:10",
+      "numberLabel": "10",
+      "text": "Neither be ye called masters: for one is your Master, even Christ.",
+      "metadata": {
+        "reference": "Matthew 23:10",
+        "verseKey": "kjv:matthew:23:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:23:11",
+      "numberLabel": "11",
+      "text": "But he that is greatest among you shall be your servant.",
+      "metadata": {
+        "reference": "Matthew 23:11",
+        "verseKey": "kjv:matthew:23:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:23:12",
+      "numberLabel": "12",
+      "text": "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.",
+      "metadata": {
+        "reference": "Matthew 23:12",
+        "verseKey": "kjv:matthew:23:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:23:13",
+      "numberLabel": "13",
+      "text": "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.",
+      "metadata": {
+        "reference": "Matthew 23:13",
+        "verseKey": "kjv:matthew:23:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:23:14",
+      "numberLabel": "14",
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.",
+      "metadata": {
+        "reference": "Matthew 23:14",
+        "verseKey": "kjv:matthew:23:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:23:15",
+      "numberLabel": "15",
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.",
+      "metadata": {
+        "reference": "Matthew 23:15",
+        "verseKey": "kjv:matthew:23:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:23:16",
+      "numberLabel": "16",
+      "text": "Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!",
+      "metadata": {
+        "reference": "Matthew 23:16",
+        "verseKey": "kjv:matthew:23:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:23:17",
+      "numberLabel": "17",
+      "text": "Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?",
+      "metadata": {
+        "reference": "Matthew 23:17",
+        "verseKey": "kjv:matthew:23:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:23:18",
+      "numberLabel": "18",
+      "text": "And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty.",
+      "metadata": {
+        "reference": "Matthew 23:18",
+        "verseKey": "kjv:matthew:23:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:23:19",
+      "numberLabel": "19",
+      "text": "Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?",
+      "metadata": {
+        "reference": "Matthew 23:19",
+        "verseKey": "kjv:matthew:23:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:23:20",
+      "numberLabel": "20",
+      "text": "Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon.",
+      "metadata": {
+        "reference": "Matthew 23:20",
+        "verseKey": "kjv:matthew:23:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:23:21",
+      "numberLabel": "21",
+      "text": "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein.",
+      "metadata": {
+        "reference": "Matthew 23:21",
+        "verseKey": "kjv:matthew:23:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:23:22",
+      "numberLabel": "22",
+      "text": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.",
+      "metadata": {
+        "reference": "Matthew 23:22",
+        "verseKey": "kjv:matthew:23:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:23:23",
+      "numberLabel": "23",
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.",
+      "metadata": {
+        "reference": "Matthew 23:23",
+        "verseKey": "kjv:matthew:23:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:23:24",
+      "numberLabel": "24",
+      "text": "Ye blind guides, which strain at a gnat, and swallow a camel.",
+      "metadata": {
+        "reference": "Matthew 23:24",
+        "verseKey": "kjv:matthew:23:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:23:25",
+      "numberLabel": "25",
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.",
+      "metadata": {
+        "reference": "Matthew 23:25",
+        "verseKey": "kjv:matthew:23:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:23:26",
+      "numberLabel": "26",
+      "text": "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also.",
+      "metadata": {
+        "reference": "Matthew 23:26",
+        "verseKey": "kjv:matthew:23:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:23:27",
+      "numberLabel": "27",
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.",
+      "metadata": {
+        "reference": "Matthew 23:27",
+        "verseKey": "kjv:matthew:23:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:23:28",
+      "numberLabel": "28",
+      "text": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.",
+      "metadata": {
+        "reference": "Matthew 23:28",
+        "verseKey": "kjv:matthew:23:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:23:29",
+      "numberLabel": "29",
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,",
+      "metadata": {
+        "reference": "Matthew 23:29",
+        "verseKey": "kjv:matthew:23:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:23:30",
+      "numberLabel": "30",
+      "text": "And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.",
+      "metadata": {
+        "reference": "Matthew 23:30",
+        "verseKey": "kjv:matthew:23:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:23:31",
+      "numberLabel": "31",
+      "text": "Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.",
+      "metadata": {
+        "reference": "Matthew 23:31",
+        "verseKey": "kjv:matthew:23:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:23:32",
+      "numberLabel": "32",
+      "text": "Fill ye up then the measure of your fathers.",
+      "metadata": {
+        "reference": "Matthew 23:32",
+        "verseKey": "kjv:matthew:23:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:23:33",
+      "numberLabel": "33",
+      "text": "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?",
+      "metadata": {
+        "reference": "Matthew 23:33",
+        "verseKey": "kjv:matthew:23:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:23:34",
+      "numberLabel": "34",
+      "text": "Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:",
+      "metadata": {
+        "reference": "Matthew 23:34",
+        "verseKey": "kjv:matthew:23:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:23:35",
+      "numberLabel": "35",
+      "text": "That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.",
+      "metadata": {
+        "reference": "Matthew 23:35",
+        "verseKey": "kjv:matthew:23:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:23:36",
+      "numberLabel": "36",
+      "text": "Verily I say unto you, All these things shall come upon this generation.",
+      "metadata": {
+        "reference": "Matthew 23:36",
+        "verseKey": "kjv:matthew:23:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:matthew:23:37",
+      "numberLabel": "37",
+      "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!",
+      "metadata": {
+        "reference": "Matthew 23:37",
+        "verseKey": "kjv:matthew:23:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:matthew:23:38",
+      "numberLabel": "38",
+      "text": "Behold, your house is left unto you desolate.",
+      "metadata": {
+        "reference": "Matthew 23:38",
+        "verseKey": "kjv:matthew:23:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:matthew:23:39",
+      "numberLabel": "39",
+      "text": "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.",
+      "metadata": {
+        "reference": "Matthew 23:39",
+        "verseKey": "kjv:matthew:23:39"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

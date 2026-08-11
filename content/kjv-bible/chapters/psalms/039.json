@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-039",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 39,
+  "title": "Psalms 39",
+  "display_title": "Psalms 39",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 39,
+  "sortOrder": 19039,
+  "verseCount": 13,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:39:1",
+      "numberLabel": "1",
+      "text": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.",
+      "metadata": {
+        "reference": "Psalms 39:1",
+        "verseKey": "kjv:psalms:39:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:39:2",
+      "numberLabel": "2",
+      "text": "I was dumb with silence, I held my peace, even from good; and my sorrow was stirred.",
+      "metadata": {
+        "reference": "Psalms 39:2",
+        "verseKey": "kjv:psalms:39:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:39:3",
+      "numberLabel": "3",
+      "text": "My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,",
+      "metadata": {
+        "reference": "Psalms 39:3",
+        "verseKey": "kjv:psalms:39:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:39:4",
+      "numberLabel": "4",
+      "text": "LORD, make me to know mine end, and the measure of my days, what it is: that I may know how frail I am.",
+      "metadata": {
+        "reference": "Psalms 39:4",
+        "verseKey": "kjv:psalms:39:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:39:5",
+      "numberLabel": "5",
+      "text": "Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.",
+      "metadata": {
+        "reference": "Psalms 39:5",
+        "verseKey": "kjv:psalms:39:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:39:6",
+      "numberLabel": "6",
+      "text": "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.",
+      "metadata": {
+        "reference": "Psalms 39:6",
+        "verseKey": "kjv:psalms:39:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:39:7",
+      "numberLabel": "7",
+      "text": "And now, Lord, what wait I for? my hope is in thee.",
+      "metadata": {
+        "reference": "Psalms 39:7",
+        "verseKey": "kjv:psalms:39:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:39:8",
+      "numberLabel": "8",
+      "text": "Deliver me from all my transgressions: make me not the reproach of the foolish.",
+      "metadata": {
+        "reference": "Psalms 39:8",
+        "verseKey": "kjv:psalms:39:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:39:9",
+      "numberLabel": "9",
+      "text": "I was dumb, I opened not my mouth; because thou didst it.",
+      "metadata": {
+        "reference": "Psalms 39:9",
+        "verseKey": "kjv:psalms:39:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:39:10",
+      "numberLabel": "10",
+      "text": "Remove thy stroke away from me: I am consumed by the blow of thine hand.",
+      "metadata": {
+        "reference": "Psalms 39:10",
+        "verseKey": "kjv:psalms:39:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:39:11",
+      "numberLabel": "11",
+      "text": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.",
+      "metadata": {
+        "reference": "Psalms 39:11",
+        "verseKey": "kjv:psalms:39:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:39:12",
+      "numberLabel": "12",
+      "text": "Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.",
+      "metadata": {
+        "reference": "Psalms 39:12",
+        "verseKey": "kjv:psalms:39:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:39:13",
+      "numberLabel": "13",
+      "text": "O spare me, that I may recover strength, before I go hence, and be no more.",
+      "metadata": {
+        "reference": "Psalms 39:13",
+        "verseKey": "kjv:psalms:39:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

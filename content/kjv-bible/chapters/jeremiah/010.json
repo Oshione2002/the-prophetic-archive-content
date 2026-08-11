@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Jeremiah 10",
+  "display_title": "Jeremiah 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 24010,
+  "verseCount": 25,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:10:1",
+      "numberLabel": "1",
+      "text": "Hear ye the word which the LORD speaketh unto you, O house of Israel:",
+      "metadata": {
+        "reference": "Jeremiah 10:1",
+        "verseKey": "kjv:jeremiah:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:10:2",
+      "numberLabel": "2",
+      "text": "Thus saith the LORD, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.",
+      "metadata": {
+        "reference": "Jeremiah 10:2",
+        "verseKey": "kjv:jeremiah:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:10:3",
+      "numberLabel": "3",
+      "text": "For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe.",
+      "metadata": {
+        "reference": "Jeremiah 10:3",
+        "verseKey": "kjv:jeremiah:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:10:4",
+      "numberLabel": "4",
+      "text": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.",
+      "metadata": {
+        "reference": "Jeremiah 10:4",
+        "verseKey": "kjv:jeremiah:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:10:5",
+      "numberLabel": "5",
+      "text": "They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good.",
+      "metadata": {
+        "reference": "Jeremiah 10:5",
+        "verseKey": "kjv:jeremiah:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:10:6",
+      "numberLabel": "6",
+      "text": "Forasmuch as there is none like unto thee, O LORD; thou art great, and thy name is great in might.",
+      "metadata": {
+        "reference": "Jeremiah 10:6",
+        "verseKey": "kjv:jeremiah:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:10:7",
+      "numberLabel": "7",
+      "text": "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto thee.",
+      "metadata": {
+        "reference": "Jeremiah 10:7",
+        "verseKey": "kjv:jeremiah:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:10:8",
+      "numberLabel": "8",
+      "text": "But they are altogether brutish and foolish: the stock is a doctrine of vanities.",
+      "metadata": {
+        "reference": "Jeremiah 10:8",
+        "verseKey": "kjv:jeremiah:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:10:9",
+      "numberLabel": "9",
+      "text": "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple is their clothing: they are all the work of cunning men.",
+      "metadata": {
+        "reference": "Jeremiah 10:9",
+        "verseKey": "kjv:jeremiah:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:10:10",
+      "numberLabel": "10",
+      "text": "But the LORD is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation.",
+      "metadata": {
+        "reference": "Jeremiah 10:10",
+        "verseKey": "kjv:jeremiah:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:10:11",
+      "numberLabel": "11",
+      "text": "Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.",
+      "metadata": {
+        "reference": "Jeremiah 10:11",
+        "verseKey": "kjv:jeremiah:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:10:12",
+      "numberLabel": "12",
+      "text": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.",
+      "metadata": {
+        "reference": "Jeremiah 10:12",
+        "verseKey": "kjv:jeremiah:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:10:13",
+      "numberLabel": "13",
+      "text": "When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.",
+      "metadata": {
+        "reference": "Jeremiah 10:13",
+        "verseKey": "kjv:jeremiah:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:10:14",
+      "numberLabel": "14",
+      "text": "Every man is brutish in his knowledge: every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them.",
+      "metadata": {
+        "reference": "Jeremiah 10:14",
+        "verseKey": "kjv:jeremiah:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:10:15",
+      "numberLabel": "15",
+      "text": "They are vanity, and the work of errors: in the time of their visitation they shall perish.",
+      "metadata": {
+        "reference": "Jeremiah 10:15",
+        "verseKey": "kjv:jeremiah:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:10:16",
+      "numberLabel": "16",
+      "text": "The portion of Jacob is not like them: for he is the former of all things; and Israel is the rod of his inheritance: The LORD of hosts is his name.",
+      "metadata": {
+        "reference": "Jeremiah 10:16",
+        "verseKey": "kjv:jeremiah:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:10:17",
+      "numberLabel": "17",
+      "text": "Gather up thy wares out of the land, O inhabitant of the fortress.",
+      "metadata": {
+        "reference": "Jeremiah 10:17",
+        "verseKey": "kjv:jeremiah:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:10:18",
+      "numberLabel": "18",
+      "text": "For thus saith the LORD, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find it so.",
+      "metadata": {
+        "reference": "Jeremiah 10:18",
+        "verseKey": "kjv:jeremiah:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:10:19",
+      "numberLabel": "19",
+      "text": "Woe is me for my hurt! my wound is grievous: but I said, Truly this is a grief, and I must bear it.",
+      "metadata": {
+        "reference": "Jeremiah 10:19",
+        "verseKey": "kjv:jeremiah:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:10:20",
+      "numberLabel": "20",
+      "text": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains.",
+      "metadata": {
+        "reference": "Jeremiah 10:20",
+        "verseKey": "kjv:jeremiah:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:10:21",
+      "numberLabel": "21",
+      "text": "For the pastors are become brutish, and have not sought the LORD: therefore they shall not prosper, and all their flocks shall be scattered.",
+      "metadata": {
+        "reference": "Jeremiah 10:21",
+        "verseKey": "kjv:jeremiah:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:10:22",
+      "numberLabel": "22",
+      "text": "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons.",
+      "metadata": {
+        "reference": "Jeremiah 10:22",
+        "verseKey": "kjv:jeremiah:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:jeremiah:10:23",
+      "numberLabel": "23",
+      "text": "O LORD, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.",
+      "metadata": {
+        "reference": "Jeremiah 10:23",
+        "verseKey": "kjv:jeremiah:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:jeremiah:10:24",
+      "numberLabel": "24",
+      "text": "O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.",
+      "metadata": {
+        "reference": "Jeremiah 10:24",
+        "verseKey": "kjv:jeremiah:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:jeremiah:10:25",
+      "numberLabel": "25",
+      "text": "Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate.",
+      "metadata": {
+        "reference": "Jeremiah 10:25",
+        "verseKey": "kjv:jeremiah:10:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

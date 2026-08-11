@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-125",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 125,
+  "title": "Psalms 125",
+  "display_title": "Psalms 125",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 125,
+  "sortOrder": 19125,
+  "verseCount": 5,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:125:1",
+      "numberLabel": "1",
+      "text": "They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.",
+      "metadata": {
+        "reference": "Psalms 125:1",
+        "verseKey": "kjv:psalms:125:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:125:2",
+      "numberLabel": "2",
+      "text": "As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever.",
+      "metadata": {
+        "reference": "Psalms 125:2",
+        "verseKey": "kjv:psalms:125:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:125:3",
+      "numberLabel": "3",
+      "text": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+      "metadata": {
+        "reference": "Psalms 125:3",
+        "verseKey": "kjv:psalms:125:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:125:4",
+      "numberLabel": "4",
+      "text": "Do good, O LORD, unto those that be good, and to them that are upright in their hearts.",
+      "metadata": {
+        "reference": "Psalms 125:4",
+        "verseKey": "kjv:psalms:125:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:125:5",
+      "numberLabel": "5",
+      "text": "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel.",
+      "metadata": {
+        "reference": "Psalms 125:5",
+        "verseKey": "kjv:psalms:125:5"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

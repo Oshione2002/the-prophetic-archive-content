@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Job 6",
+  "display_title": "Job 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 18006,
+  "verseCount": 30,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:6:1",
+      "numberLabel": "1",
+      "text": "But Job answered and said,",
+      "metadata": {
+        "reference": "Job 6:1",
+        "verseKey": "kjv:job:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:6:2",
+      "numberLabel": "2",
+      "text": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!",
+      "metadata": {
+        "reference": "Job 6:2",
+        "verseKey": "kjv:job:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:6:3",
+      "numberLabel": "3",
+      "text": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
+      "metadata": {
+        "reference": "Job 6:3",
+        "verseKey": "kjv:job:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:6:4",
+      "numberLabel": "4",
+      "text": "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.",
+      "metadata": {
+        "reference": "Job 6:4",
+        "verseKey": "kjv:job:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:6:5",
+      "numberLabel": "5",
+      "text": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?",
+      "metadata": {
+        "reference": "Job 6:5",
+        "verseKey": "kjv:job:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:6:6",
+      "numberLabel": "6",
+      "text": "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?",
+      "metadata": {
+        "reference": "Job 6:6",
+        "verseKey": "kjv:job:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:6:7",
+      "numberLabel": "7",
+      "text": "The things that my soul refused to touch are as my sorrowful meat.",
+      "metadata": {
+        "reference": "Job 6:7",
+        "verseKey": "kjv:job:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:6:8",
+      "numberLabel": "8",
+      "text": "Oh that I might have my request; and that God would grant me the thing that I long for!",
+      "metadata": {
+        "reference": "Job 6:8",
+        "verseKey": "kjv:job:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:6:9",
+      "numberLabel": "9",
+      "text": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!",
+      "metadata": {
+        "reference": "Job 6:9",
+        "verseKey": "kjv:job:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:6:10",
+      "numberLabel": "10",
+      "text": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
+      "metadata": {
+        "reference": "Job 6:10",
+        "verseKey": "kjv:job:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:6:11",
+      "numberLabel": "11",
+      "text": "What is my strength, that I should hope? and what is mine end, that I should prolong my life?",
+      "metadata": {
+        "reference": "Job 6:11",
+        "verseKey": "kjv:job:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:6:12",
+      "numberLabel": "12",
+      "text": "Is my strength the strength of stones? or is my flesh of brass?",
+      "metadata": {
+        "reference": "Job 6:12",
+        "verseKey": "kjv:job:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:6:13",
+      "numberLabel": "13",
+      "text": "Is not my help in me? and is wisdom driven quite from me?",
+      "metadata": {
+        "reference": "Job 6:13",
+        "verseKey": "kjv:job:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:6:14",
+      "numberLabel": "14",
+      "text": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.",
+      "metadata": {
+        "reference": "Job 6:14",
+        "verseKey": "kjv:job:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:6:15",
+      "numberLabel": "15",
+      "text": "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;",
+      "metadata": {
+        "reference": "Job 6:15",
+        "verseKey": "kjv:job:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:6:16",
+      "numberLabel": "16",
+      "text": "Which are blackish by reason of the ice, and wherein the snow is hid:",
+      "metadata": {
+        "reference": "Job 6:16",
+        "verseKey": "kjv:job:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:6:17",
+      "numberLabel": "17",
+      "text": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
+      "metadata": {
+        "reference": "Job 6:17",
+        "verseKey": "kjv:job:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:6:18",
+      "numberLabel": "18",
+      "text": "The paths of their way are turned aside; they go to nothing, and perish.",
+      "metadata": {
+        "reference": "Job 6:18",
+        "verseKey": "kjv:job:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:6:19",
+      "numberLabel": "19",
+      "text": "The troops of Tema looked, the companies of Sheba waited for them.",
+      "metadata": {
+        "reference": "Job 6:19",
+        "verseKey": "kjv:job:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:6:20",
+      "numberLabel": "20",
+      "text": "They were confounded because they had hoped; they came thither, and were ashamed.",
+      "metadata": {
+        "reference": "Job 6:20",
+        "verseKey": "kjv:job:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:6:21",
+      "numberLabel": "21",
+      "text": "For now ye are nothing; ye see my casting down, and are afraid.",
+      "metadata": {
+        "reference": "Job 6:21",
+        "verseKey": "kjv:job:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:6:22",
+      "numberLabel": "22",
+      "text": "Did I say, Bring unto me? or, Give a reward for me of your substance?",
+      "metadata": {
+        "reference": "Job 6:22",
+        "verseKey": "kjv:job:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:6:23",
+      "numberLabel": "23",
+      "text": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
+      "metadata": {
+        "reference": "Job 6:23",
+        "verseKey": "kjv:job:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:6:24",
+      "numberLabel": "24",
+      "text": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
+      "metadata": {
+        "reference": "Job 6:24",
+        "verseKey": "kjv:job:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:6:25",
+      "numberLabel": "25",
+      "text": "How forcible are right words! but what doth your arguing reprove?",
+      "metadata": {
+        "reference": "Job 6:25",
+        "verseKey": "kjv:job:6:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:6:26",
+      "numberLabel": "26",
+      "text": "Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?",
+      "metadata": {
+        "reference": "Job 6:26",
+        "verseKey": "kjv:job:6:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:6:27",
+      "numberLabel": "27",
+      "text": "Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.",
+      "metadata": {
+        "reference": "Job 6:27",
+        "verseKey": "kjv:job:6:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:6:28",
+      "numberLabel": "28",
+      "text": "Now therefore be content, look upon me; for it is evident unto you if I lie.",
+      "metadata": {
+        "reference": "Job 6:28",
+        "verseKey": "kjv:job:6:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:6:29",
+      "numberLabel": "29",
+      "text": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.",
+      "metadata": {
+        "reference": "Job 6:29",
+        "verseKey": "kjv:job:6:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:6:30",
+      "numberLabel": "30",
+      "text": "Is there iniquity in my tongue? cannot my taste discern perverse things?",
+      "metadata": {
+        "reference": "Job 6:30",
+        "verseKey": "kjv:job:6:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

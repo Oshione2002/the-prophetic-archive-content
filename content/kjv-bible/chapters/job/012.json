@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Job 12",
+  "display_title": "Job 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 18012,
+  "verseCount": 25,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:12:1",
+      "numberLabel": "1",
+      "text": "And Job answered and said,",
+      "metadata": {
+        "reference": "Job 12:1",
+        "verseKey": "kjv:job:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:12:2",
+      "numberLabel": "2",
+      "text": "No doubt but ye are the people, and wisdom shall die with you.",
+      "metadata": {
+        "reference": "Job 12:2",
+        "verseKey": "kjv:job:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:12:3",
+      "numberLabel": "3",
+      "text": "But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?",
+      "metadata": {
+        "reference": "Job 12:3",
+        "verseKey": "kjv:job:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:12:4",
+      "numberLabel": "4",
+      "text": "I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.",
+      "metadata": {
+        "reference": "Job 12:4",
+        "verseKey": "kjv:job:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:12:5",
+      "numberLabel": "5",
+      "text": "He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.",
+      "metadata": {
+        "reference": "Job 12:5",
+        "verseKey": "kjv:job:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:12:6",
+      "numberLabel": "6",
+      "text": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly.",
+      "metadata": {
+        "reference": "Job 12:6",
+        "verseKey": "kjv:job:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:12:7",
+      "numberLabel": "7",
+      "text": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:",
+      "metadata": {
+        "reference": "Job 12:7",
+        "verseKey": "kjv:job:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:12:8",
+      "numberLabel": "8",
+      "text": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.",
+      "metadata": {
+        "reference": "Job 12:8",
+        "verseKey": "kjv:job:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:12:9",
+      "numberLabel": "9",
+      "text": "Who knoweth not in all these that the hand of the LORD hath wrought this?",
+      "metadata": {
+        "reference": "Job 12:9",
+        "verseKey": "kjv:job:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:12:10",
+      "numberLabel": "10",
+      "text": "In whose hand is the soul of every living thing, and the breath of all mankind.",
+      "metadata": {
+        "reference": "Job 12:10",
+        "verseKey": "kjv:job:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:12:11",
+      "numberLabel": "11",
+      "text": "Doth not the ear try words? and the mouth taste his meat?",
+      "metadata": {
+        "reference": "Job 12:11",
+        "verseKey": "kjv:job:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:12:12",
+      "numberLabel": "12",
+      "text": "With the ancient is wisdom; and in length of days understanding.",
+      "metadata": {
+        "reference": "Job 12:12",
+        "verseKey": "kjv:job:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:12:13",
+      "numberLabel": "13",
+      "text": "With him is wisdom and strength, he hath counsel and understanding.",
+      "metadata": {
+        "reference": "Job 12:13",
+        "verseKey": "kjv:job:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:12:14",
+      "numberLabel": "14",
+      "text": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.",
+      "metadata": {
+        "reference": "Job 12:14",
+        "verseKey": "kjv:job:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:12:15",
+      "numberLabel": "15",
+      "text": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.",
+      "metadata": {
+        "reference": "Job 12:15",
+        "verseKey": "kjv:job:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:12:16",
+      "numberLabel": "16",
+      "text": "With him is strength and wisdom: the deceived and the deceiver are his.",
+      "metadata": {
+        "reference": "Job 12:16",
+        "verseKey": "kjv:job:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:12:17",
+      "numberLabel": "17",
+      "text": "He leadeth counsellors away spoiled, and maketh the judges fools.",
+      "metadata": {
+        "reference": "Job 12:17",
+        "verseKey": "kjv:job:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:12:18",
+      "numberLabel": "18",
+      "text": "He looseth the bond of kings, and girdeth their loins with a girdle.",
+      "metadata": {
+        "reference": "Job 12:18",
+        "verseKey": "kjv:job:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:12:19",
+      "numberLabel": "19",
+      "text": "He leadeth princes away spoiled, and overthroweth the mighty.",
+      "metadata": {
+        "reference": "Job 12:19",
+        "verseKey": "kjv:job:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:12:20",
+      "numberLabel": "20",
+      "text": "He removeth away the speech of the trusty, and taketh away the understanding of the aged.",
+      "metadata": {
+        "reference": "Job 12:20",
+        "verseKey": "kjv:job:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:12:21",
+      "numberLabel": "21",
+      "text": "He poureth contempt upon princes, and weakeneth the strength of the mighty.",
+      "metadata": {
+        "reference": "Job 12:21",
+        "verseKey": "kjv:job:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:12:22",
+      "numberLabel": "22",
+      "text": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death.",
+      "metadata": {
+        "reference": "Job 12:22",
+        "verseKey": "kjv:job:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:12:23",
+      "numberLabel": "23",
+      "text": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.",
+      "metadata": {
+        "reference": "Job 12:23",
+        "verseKey": "kjv:job:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:12:24",
+      "numberLabel": "24",
+      "text": "He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way.",
+      "metadata": {
+        "reference": "Job 12:24",
+        "verseKey": "kjv:job:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:12:25",
+      "numberLabel": "25",
+      "text": "They grope in the dark without light, and he maketh them to stagger like a drunken man.",
+      "metadata": {
+        "reference": "Job 12:25",
+        "verseKey": "kjv:job:12:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

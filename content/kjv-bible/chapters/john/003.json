@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "John 3",
+  "display_title": "John 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 3,
+  "sortOrder": 43003,
+  "verseCount": 36,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:3:1",
+      "numberLabel": "1",
+      "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:",
+      "metadata": {
+        "reference": "John 3:1",
+        "verseKey": "kjv:john:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:3:2",
+      "numberLabel": "2",
+      "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.",
+      "metadata": {
+        "reference": "John 3:2",
+        "verseKey": "kjv:john:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:3:3",
+      "numberLabel": "3",
+      "text": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.",
+      "metadata": {
+        "reference": "John 3:3",
+        "verseKey": "kjv:john:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:3:4",
+      "numberLabel": "4",
+      "text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born?",
+      "metadata": {
+        "reference": "John 3:4",
+        "verseKey": "kjv:john:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:3:5",
+      "numberLabel": "5",
+      "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.",
+      "metadata": {
+        "reference": "John 3:5",
+        "verseKey": "kjv:john:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:3:6",
+      "numberLabel": "6",
+      "text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.",
+      "metadata": {
+        "reference": "John 3:6",
+        "verseKey": "kjv:john:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:3:7",
+      "numberLabel": "7",
+      "text": "Marvel not that I said unto thee, Ye must be born again.",
+      "metadata": {
+        "reference": "John 3:7",
+        "verseKey": "kjv:john:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:3:8",
+      "numberLabel": "8",
+      "text": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.",
+      "metadata": {
+        "reference": "John 3:8",
+        "verseKey": "kjv:john:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:3:9",
+      "numberLabel": "9",
+      "text": "Nicodemus answered and said unto him, How can these things be?",
+      "metadata": {
+        "reference": "John 3:9",
+        "verseKey": "kjv:john:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:3:10",
+      "numberLabel": "10",
+      "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?",
+      "metadata": {
+        "reference": "John 3:10",
+        "verseKey": "kjv:john:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:3:11",
+      "numberLabel": "11",
+      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.",
+      "metadata": {
+        "reference": "John 3:11",
+        "verseKey": "kjv:john:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:3:12",
+      "numberLabel": "12",
+      "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?",
+      "metadata": {
+        "reference": "John 3:12",
+        "verseKey": "kjv:john:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:3:13",
+      "numberLabel": "13",
+      "text": "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.",
+      "metadata": {
+        "reference": "John 3:13",
+        "verseKey": "kjv:john:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:3:14",
+      "numberLabel": "14",
+      "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:",
+      "metadata": {
+        "reference": "John 3:14",
+        "verseKey": "kjv:john:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:3:15",
+      "numberLabel": "15",
+      "text": "That whosoever believeth in him should not perish, but have eternal life.",
+      "metadata": {
+        "reference": "John 3:15",
+        "verseKey": "kjv:john:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:3:16",
+      "numberLabel": "16",
+      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+      "metadata": {
+        "reference": "John 3:16",
+        "verseKey": "kjv:john:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:3:17",
+      "numberLabel": "17",
+      "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
+      "metadata": {
+        "reference": "John 3:17",
+        "verseKey": "kjv:john:3:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:3:18",
+      "numberLabel": "18",
+      "text": "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.",
+      "metadata": {
+        "reference": "John 3:18",
+        "verseKey": "kjv:john:3:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:3:19",
+      "numberLabel": "19",
+      "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
+      "metadata": {
+        "reference": "John 3:19",
+        "verseKey": "kjv:john:3:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:3:20",
+      "numberLabel": "20",
+      "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.",
+      "metadata": {
+        "reference": "John 3:20",
+        "verseKey": "kjv:john:3:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:3:21",
+      "numberLabel": "21",
+      "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.",
+      "metadata": {
+        "reference": "John 3:21",
+        "verseKey": "kjv:john:3:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:3:22",
+      "numberLabel": "22",
+      "text": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.",
+      "metadata": {
+        "reference": "John 3:22",
+        "verseKey": "kjv:john:3:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:3:23",
+      "numberLabel": "23",
+      "text": "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.",
+      "metadata": {
+        "reference": "John 3:23",
+        "verseKey": "kjv:john:3:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:3:24",
+      "numberLabel": "24",
+      "text": "For John was not yet cast into prison.",
+      "metadata": {
+        "reference": "John 3:24",
+        "verseKey": "kjv:john:3:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:3:25",
+      "numberLabel": "25",
+      "text": "Then there arose a question between some of John’s disciples and the Jews about purifying.",
+      "metadata": {
+        "reference": "John 3:25",
+        "verseKey": "kjv:john:3:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:3:26",
+      "numberLabel": "26",
+      "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.",
+      "metadata": {
+        "reference": "John 3:26",
+        "verseKey": "kjv:john:3:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:3:27",
+      "numberLabel": "27",
+      "text": "John answered and said, A man can receive nothing, except it be given him from heaven.",
+      "metadata": {
+        "reference": "John 3:27",
+        "verseKey": "kjv:john:3:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:3:28",
+      "numberLabel": "28",
+      "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.",
+      "metadata": {
+        "reference": "John 3:28",
+        "verseKey": "kjv:john:3:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:3:29",
+      "numberLabel": "29",
+      "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.",
+      "metadata": {
+        "reference": "John 3:29",
+        "verseKey": "kjv:john:3:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:3:30",
+      "numberLabel": "30",
+      "text": "He must increase, but I must decrease.",
+      "metadata": {
+        "reference": "John 3:30",
+        "verseKey": "kjv:john:3:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:3:31",
+      "numberLabel": "31",
+      "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+      "metadata": {
+        "reference": "John 3:31",
+        "verseKey": "kjv:john:3:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:john:3:32",
+      "numberLabel": "32",
+      "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.",
+      "metadata": {
+        "reference": "John 3:32",
+        "verseKey": "kjv:john:3:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:john:3:33",
+      "numberLabel": "33",
+      "text": "He that hath received his testimony hath set to his seal that God is true.",
+      "metadata": {
+        "reference": "John 3:33",
+        "verseKey": "kjv:john:3:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:john:3:34",
+      "numberLabel": "34",
+      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.",
+      "metadata": {
+        "reference": "John 3:34",
+        "verseKey": "kjv:john:3:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:john:3:35",
+      "numberLabel": "35",
+      "text": "The Father loveth the Son, and hath given all things into his hand.",
+      "metadata": {
+        "reference": "John 3:35",
+        "verseKey": "kjv:john:3:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:john:3:36",
+      "numberLabel": "36",
+      "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
+      "metadata": {
+        "reference": "John 3:36",
+        "verseKey": "kjv:john:3:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

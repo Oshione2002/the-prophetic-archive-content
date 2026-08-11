@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-032",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 32,
+  "title": "Job 32",
+  "display_title": "Job 32",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 32,
+  "sortOrder": 18032,
+  "verseCount": 22,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:32:1",
+      "numberLabel": "1",
+      "text": "So these three men ceased to answer Job, because he was righteous in his own eyes.",
+      "metadata": {
+        "reference": "Job 32:1",
+        "verseKey": "kjv:job:32:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:32:2",
+      "numberLabel": "2",
+      "text": "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.",
+      "metadata": {
+        "reference": "Job 32:2",
+        "verseKey": "kjv:job:32:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:32:3",
+      "numberLabel": "3",
+      "text": "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job.",
+      "metadata": {
+        "reference": "Job 32:3",
+        "verseKey": "kjv:job:32:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:32:4",
+      "numberLabel": "4",
+      "text": "Now Elihu had waited till Job had spoken, because they were elder than he.",
+      "metadata": {
+        "reference": "Job 32:4",
+        "verseKey": "kjv:job:32:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:32:5",
+      "numberLabel": "5",
+      "text": "When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.",
+      "metadata": {
+        "reference": "Job 32:5",
+        "verseKey": "kjv:job:32:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:32:6",
+      "numberLabel": "6",
+      "text": "And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion.",
+      "metadata": {
+        "reference": "Job 32:6",
+        "verseKey": "kjv:job:32:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:32:7",
+      "numberLabel": "7",
+      "text": "I said, Days should speak, and multitude of years should teach wisdom.",
+      "metadata": {
+        "reference": "Job 32:7",
+        "verseKey": "kjv:job:32:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:32:8",
+      "numberLabel": "8",
+      "text": "But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.",
+      "metadata": {
+        "reference": "Job 32:8",
+        "verseKey": "kjv:job:32:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:32:9",
+      "numberLabel": "9",
+      "text": "Great men are not always wise: neither do the aged understand judgment.",
+      "metadata": {
+        "reference": "Job 32:9",
+        "verseKey": "kjv:job:32:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:32:10",
+      "numberLabel": "10",
+      "text": "Therefore I said, Hearken to me; I also will shew mine opinion.",
+      "metadata": {
+        "reference": "Job 32:10",
+        "verseKey": "kjv:job:32:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:32:11",
+      "numberLabel": "11",
+      "text": "Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.",
+      "metadata": {
+        "reference": "Job 32:11",
+        "verseKey": "kjv:job:32:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:32:12",
+      "numberLabel": "12",
+      "text": "Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:",
+      "metadata": {
+        "reference": "Job 32:12",
+        "verseKey": "kjv:job:32:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:32:13",
+      "numberLabel": "13",
+      "text": "Lest ye should say, We have found out wisdom: God thrusteth him down, not man.",
+      "metadata": {
+        "reference": "Job 32:13",
+        "verseKey": "kjv:job:32:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:32:14",
+      "numberLabel": "14",
+      "text": "Now he hath not directed his words against me: neither will I answer him with your speeches.",
+      "metadata": {
+        "reference": "Job 32:14",
+        "verseKey": "kjv:job:32:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:32:15",
+      "numberLabel": "15",
+      "text": "They were amazed, they answered no more: they left off speaking.",
+      "metadata": {
+        "reference": "Job 32:15",
+        "verseKey": "kjv:job:32:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:32:16",
+      "numberLabel": "16",
+      "text": "When I had waited, (for they spake not, but stood still, and answered no more;)",
+      "metadata": {
+        "reference": "Job 32:16",
+        "verseKey": "kjv:job:32:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:32:17",
+      "numberLabel": "17",
+      "text": "I said, I will answer also my part, I also will shew mine opinion.",
+      "metadata": {
+        "reference": "Job 32:17",
+        "verseKey": "kjv:job:32:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:32:18",
+      "numberLabel": "18",
+      "text": "For I am full of matter, the spirit within me constraineth me.",
+      "metadata": {
+        "reference": "Job 32:18",
+        "verseKey": "kjv:job:32:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:32:19",
+      "numberLabel": "19",
+      "text": "Behold, my belly is as wine which hath no vent; it is ready to burst like new bottles.",
+      "metadata": {
+        "reference": "Job 32:19",
+        "verseKey": "kjv:job:32:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:32:20",
+      "numberLabel": "20",
+      "text": "I will speak, that I may be refreshed: I will open my lips and answer.",
+      "metadata": {
+        "reference": "Job 32:20",
+        "verseKey": "kjv:job:32:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:32:21",
+      "numberLabel": "21",
+      "text": "Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man.",
+      "metadata": {
+        "reference": "Job 32:21",
+        "verseKey": "kjv:job:32:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:32:22",
+      "numberLabel": "22",
+      "text": "For I know not to give flattering titles; in so doing my maker would soon take me away.",
+      "metadata": {
+        "reference": "Job 32:22",
+        "verseKey": "kjv:job:32:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

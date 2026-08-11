@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "Exodus 27",
+  "display_title": "Exodus 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 2027,
+  "verseCount": 21,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:27:1",
+      "numberLabel": "1",
+      "text": "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.",
+      "metadata": {
+        "reference": "Exodus 27:1",
+        "verseKey": "kjv:exodus:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:27:2",
+      "numberLabel": "2",
+      "text": "And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass.",
+      "metadata": {
+        "reference": "Exodus 27:2",
+        "verseKey": "kjv:exodus:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:27:3",
+      "numberLabel": "3",
+      "text": "And thou shalt make his pans to receive his ashes, and his shovels, and his basons, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass.",
+      "metadata": {
+        "reference": "Exodus 27:3",
+        "verseKey": "kjv:exodus:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:27:4",
+      "numberLabel": "4",
+      "text": "And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brasen rings in the four corners thereof.",
+      "metadata": {
+        "reference": "Exodus 27:4",
+        "verseKey": "kjv:exodus:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:27:5",
+      "numberLabel": "5",
+      "text": "And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar.",
+      "metadata": {
+        "reference": "Exodus 27:5",
+        "verseKey": "kjv:exodus:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:27:6",
+      "numberLabel": "6",
+      "text": "And thou shalt make staves for the altar, staves of shittim wood, and overlay them with brass.",
+      "metadata": {
+        "reference": "Exodus 27:6",
+        "verseKey": "kjv:exodus:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:27:7",
+      "numberLabel": "7",
+      "text": "And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.",
+      "metadata": {
+        "reference": "Exodus 27:7",
+        "verseKey": "kjv:exodus:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:27:8",
+      "numberLabel": "8",
+      "text": "Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it.",
+      "metadata": {
+        "reference": "Exodus 27:8",
+        "verseKey": "kjv:exodus:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:27:9",
+      "numberLabel": "9",
+      "text": "And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen of an hundred cubits long for one side:",
+      "metadata": {
+        "reference": "Exodus 27:9",
+        "verseKey": "kjv:exodus:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:27:10",
+      "numberLabel": "10",
+      "text": "And the twenty pillars thereof and their twenty sockets shall be of brass; the hooks of the pillars and their fillets shall be of silver.",
+      "metadata": {
+        "reference": "Exodus 27:10",
+        "verseKey": "kjv:exodus:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:27:11",
+      "numberLabel": "11",
+      "text": "And likewise for the north side in length there shall be hangings of an hundred cubits long, and his twenty pillars and their twenty sockets of brass; the hooks of the pillars and their fillets of silver.",
+      "metadata": {
+        "reference": "Exodus 27:11",
+        "verseKey": "kjv:exodus:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:27:12",
+      "numberLabel": "12",
+      "text": "And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten.",
+      "metadata": {
+        "reference": "Exodus 27:12",
+        "verseKey": "kjv:exodus:27:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:27:13",
+      "numberLabel": "13",
+      "text": "And the breadth of the court on the east side eastward shall be fifty cubits.",
+      "metadata": {
+        "reference": "Exodus 27:13",
+        "verseKey": "kjv:exodus:27:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:27:14",
+      "numberLabel": "14",
+      "text": "The hangings of one side of the gate shall be fifteen cubits: their pillars three, and their sockets three.",
+      "metadata": {
+        "reference": "Exodus 27:14",
+        "verseKey": "kjv:exodus:27:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:27:15",
+      "numberLabel": "15",
+      "text": "And on the other side shall be hangings fifteen cubits: their pillars three, and their sockets three.",
+      "metadata": {
+        "reference": "Exodus 27:15",
+        "verseKey": "kjv:exodus:27:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:27:16",
+      "numberLabel": "16",
+      "text": "And for the gate of the court shall be an hanging of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework: and their pillars shall be four, and their sockets four.",
+      "metadata": {
+        "reference": "Exodus 27:16",
+        "verseKey": "kjv:exodus:27:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:27:17",
+      "numberLabel": "17",
+      "text": "All the pillars round about the court shall be filleted with silver; their hooks shall be of silver, and their sockets of brass.",
+      "metadata": {
+        "reference": "Exodus 27:17",
+        "verseKey": "kjv:exodus:27:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:27:18",
+      "numberLabel": "18",
+      "text": "The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits of fine twined linen, and their sockets of brass.",
+      "metadata": {
+        "reference": "Exodus 27:18",
+        "verseKey": "kjv:exodus:27:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:27:19",
+      "numberLabel": "19",
+      "text": "All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass.",
+      "metadata": {
+        "reference": "Exodus 27:19",
+        "verseKey": "kjv:exodus:27:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:27:20",
+      "numberLabel": "20",
+      "text": "And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.",
+      "metadata": {
+        "reference": "Exodus 27:20",
+        "verseKey": "kjv:exodus:27:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:27:21",
+      "numberLabel": "21",
+      "text": "In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel.",
+      "metadata": {
+        "reference": "Exodus 27:21",
+        "verseKey": "kjv:exodus:27:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

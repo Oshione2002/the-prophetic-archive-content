@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Genesis 10",
+  "display_title": "Genesis 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 1010,
+  "verseCount": 32,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:10:1",
+      "numberLabel": "1",
+      "text": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+      "metadata": {
+        "reference": "Genesis 10:1",
+        "verseKey": "kjv:genesis:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:10:2",
+      "numberLabel": "2",
+      "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+      "metadata": {
+        "reference": "Genesis 10:2",
+        "verseKey": "kjv:genesis:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:10:3",
+      "numberLabel": "3",
+      "text": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+      "metadata": {
+        "reference": "Genesis 10:3",
+        "verseKey": "kjv:genesis:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:10:4",
+      "numberLabel": "4",
+      "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+      "metadata": {
+        "reference": "Genesis 10:4",
+        "verseKey": "kjv:genesis:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:10:5",
+      "numberLabel": "5",
+      "text": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+      "metadata": {
+        "reference": "Genesis 10:5",
+        "verseKey": "kjv:genesis:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:10:6",
+      "numberLabel": "6",
+      "text": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+      "metadata": {
+        "reference": "Genesis 10:6",
+        "verseKey": "kjv:genesis:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:10:7",
+      "numberLabel": "7",
+      "text": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah: and the sons of Raamah; Sheba, and Dedan.",
+      "metadata": {
+        "reference": "Genesis 10:7",
+        "verseKey": "kjv:genesis:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:10:8",
+      "numberLabel": "8",
+      "text": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+      "metadata": {
+        "reference": "Genesis 10:8",
+        "verseKey": "kjv:genesis:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:10:9",
+      "numberLabel": "9",
+      "text": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.",
+      "metadata": {
+        "reference": "Genesis 10:9",
+        "verseKey": "kjv:genesis:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:10:10",
+      "numberLabel": "10",
+      "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+      "metadata": {
+        "reference": "Genesis 10:10",
+        "verseKey": "kjv:genesis:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:10:11",
+      "numberLabel": "11",
+      "text": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
+      "metadata": {
+        "reference": "Genesis 10:11",
+        "verseKey": "kjv:genesis:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:10:12",
+      "numberLabel": "12",
+      "text": "And Resen between Nineveh and Calah: the same is a great city.",
+      "metadata": {
+        "reference": "Genesis 10:12",
+        "verseKey": "kjv:genesis:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:10:13",
+      "numberLabel": "13",
+      "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+      "metadata": {
+        "reference": "Genesis 10:13",
+        "verseKey": "kjv:genesis:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:10:14",
+      "numberLabel": "14",
+      "text": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+      "metadata": {
+        "reference": "Genesis 10:14",
+        "verseKey": "kjv:genesis:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:10:15",
+      "numberLabel": "15",
+      "text": "And Canaan begat Sidon his first born, and Heth,",
+      "metadata": {
+        "reference": "Genesis 10:15",
+        "verseKey": "kjv:genesis:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:10:16",
+      "numberLabel": "16",
+      "text": "And the Jebusite, and the Amorite, and the Girgasite,",
+      "metadata": {
+        "reference": "Genesis 10:16",
+        "verseKey": "kjv:genesis:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:10:17",
+      "numberLabel": "17",
+      "text": "And the Hivite, and the Arkite, and the Sinite,",
+      "metadata": {
+        "reference": "Genesis 10:17",
+        "verseKey": "kjv:genesis:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:10:18",
+      "numberLabel": "18",
+      "text": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+      "metadata": {
+        "reference": "Genesis 10:18",
+        "verseKey": "kjv:genesis:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:10:19",
+      "numberLabel": "19",
+      "text": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
+      "metadata": {
+        "reference": "Genesis 10:19",
+        "verseKey": "kjv:genesis:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:10:20",
+      "numberLabel": "20",
+      "text": "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.",
+      "metadata": {
+        "reference": "Genesis 10:20",
+        "verseKey": "kjv:genesis:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:10:21",
+      "numberLabel": "21",
+      "text": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.",
+      "metadata": {
+        "reference": "Genesis 10:21",
+        "verseKey": "kjv:genesis:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:10:22",
+      "numberLabel": "22",
+      "text": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+      "metadata": {
+        "reference": "Genesis 10:22",
+        "verseKey": "kjv:genesis:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:10:23",
+      "numberLabel": "23",
+      "text": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+      "metadata": {
+        "reference": "Genesis 10:23",
+        "verseKey": "kjv:genesis:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:10:24",
+      "numberLabel": "24",
+      "text": "And Arphaxad begat Salah; and Salah begat Eber.",
+      "metadata": {
+        "reference": "Genesis 10:24",
+        "verseKey": "kjv:genesis:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:10:25",
+      "numberLabel": "25",
+      "text": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan.",
+      "metadata": {
+        "reference": "Genesis 10:25",
+        "verseKey": "kjv:genesis:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:10:26",
+      "numberLabel": "26",
+      "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+      "metadata": {
+        "reference": "Genesis 10:26",
+        "verseKey": "kjv:genesis:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:10:27",
+      "numberLabel": "27",
+      "text": "And Hadoram, and Uzal, and Diklah,",
+      "metadata": {
+        "reference": "Genesis 10:27",
+        "verseKey": "kjv:genesis:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:10:28",
+      "numberLabel": "28",
+      "text": "And Obal, and Abimael, and Sheba,",
+      "metadata": {
+        "reference": "Genesis 10:28",
+        "verseKey": "kjv:genesis:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:10:29",
+      "numberLabel": "29",
+      "text": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan.",
+      "metadata": {
+        "reference": "Genesis 10:29",
+        "verseKey": "kjv:genesis:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:10:30",
+      "numberLabel": "30",
+      "text": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+      "metadata": {
+        "reference": "Genesis 10:30",
+        "verseKey": "kjv:genesis:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:10:31",
+      "numberLabel": "31",
+      "text": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+      "metadata": {
+        "reference": "Genesis 10:31",
+        "verseKey": "kjv:genesis:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:10:32",
+      "numberLabel": "32",
+      "text": "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+      "metadata": {
+        "reference": "Genesis 10:32",
+        "verseKey": "kjv:genesis:10:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

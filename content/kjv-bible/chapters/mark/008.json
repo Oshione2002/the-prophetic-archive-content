@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Mark 8",
+  "display_title": "Mark 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 8,
+  "sortOrder": 41008,
+  "verseCount": 38,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:8:1",
+      "numberLabel": "1",
+      "text": "In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,",
+      "metadata": {
+        "reference": "Mark 8:1",
+        "verseKey": "kjv:mark:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:8:2",
+      "numberLabel": "2",
+      "text": "I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:",
+      "metadata": {
+        "reference": "Mark 8:2",
+        "verseKey": "kjv:mark:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:8:3",
+      "numberLabel": "3",
+      "text": "And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.",
+      "metadata": {
+        "reference": "Mark 8:3",
+        "verseKey": "kjv:mark:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:8:4",
+      "numberLabel": "4",
+      "text": "And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?",
+      "metadata": {
+        "reference": "Mark 8:4",
+        "verseKey": "kjv:mark:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:8:5",
+      "numberLabel": "5",
+      "text": "And he asked them, How many loaves have ye? And they said, Seven.",
+      "metadata": {
+        "reference": "Mark 8:5",
+        "verseKey": "kjv:mark:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:8:6",
+      "numberLabel": "6",
+      "text": "And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people.",
+      "metadata": {
+        "reference": "Mark 8:6",
+        "verseKey": "kjv:mark:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:8:7",
+      "numberLabel": "7",
+      "text": "And they had a few small fishes: and he blessed, and commanded to set them also before them.",
+      "metadata": {
+        "reference": "Mark 8:7",
+        "verseKey": "kjv:mark:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:8:8",
+      "numberLabel": "8",
+      "text": "So they did eat, and were filled: and they took up of the broken meat that was left seven baskets.",
+      "metadata": {
+        "reference": "Mark 8:8",
+        "verseKey": "kjv:mark:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:8:9",
+      "numberLabel": "9",
+      "text": "And they that had eaten were about four thousand: and he sent them away.",
+      "metadata": {
+        "reference": "Mark 8:9",
+        "verseKey": "kjv:mark:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:8:10",
+      "numberLabel": "10",
+      "text": "And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha.",
+      "metadata": {
+        "reference": "Mark 8:10",
+        "verseKey": "kjv:mark:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:8:11",
+      "numberLabel": "11",
+      "text": "And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him.",
+      "metadata": {
+        "reference": "Mark 8:11",
+        "verseKey": "kjv:mark:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:8:12",
+      "numberLabel": "12",
+      "text": "And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation.",
+      "metadata": {
+        "reference": "Mark 8:12",
+        "verseKey": "kjv:mark:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:8:13",
+      "numberLabel": "13",
+      "text": "And he left them, and entering into the ship again departed to the other side.",
+      "metadata": {
+        "reference": "Mark 8:13",
+        "verseKey": "kjv:mark:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:8:14",
+      "numberLabel": "14",
+      "text": "Now the disciples had forgotten to take bread, neither had they in the ship with them more than one loaf.",
+      "metadata": {
+        "reference": "Mark 8:14",
+        "verseKey": "kjv:mark:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:8:15",
+      "numberLabel": "15",
+      "text": "And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod.",
+      "metadata": {
+        "reference": "Mark 8:15",
+        "verseKey": "kjv:mark:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:8:16",
+      "numberLabel": "16",
+      "text": "And they reasoned among themselves, saying, It is because we have no bread.",
+      "metadata": {
+        "reference": "Mark 8:16",
+        "verseKey": "kjv:mark:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:8:17",
+      "numberLabel": "17",
+      "text": "And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?",
+      "metadata": {
+        "reference": "Mark 8:17",
+        "verseKey": "kjv:mark:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:8:18",
+      "numberLabel": "18",
+      "text": "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?",
+      "metadata": {
+        "reference": "Mark 8:18",
+        "verseKey": "kjv:mark:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:8:19",
+      "numberLabel": "19",
+      "text": "When I brake the five loaves among five thousand, how many baskets full of fragments took ye up? They say unto him, Twelve.",
+      "metadata": {
+        "reference": "Mark 8:19",
+        "verseKey": "kjv:mark:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:8:20",
+      "numberLabel": "20",
+      "text": "And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven.",
+      "metadata": {
+        "reference": "Mark 8:20",
+        "verseKey": "kjv:mark:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:8:21",
+      "numberLabel": "21",
+      "text": "And he said unto them, How is it that ye do not understand?",
+      "metadata": {
+        "reference": "Mark 8:21",
+        "verseKey": "kjv:mark:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:8:22",
+      "numberLabel": "22",
+      "text": "And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him.",
+      "metadata": {
+        "reference": "Mark 8:22",
+        "verseKey": "kjv:mark:8:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:8:23",
+      "numberLabel": "23",
+      "text": "And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought.",
+      "metadata": {
+        "reference": "Mark 8:23",
+        "verseKey": "kjv:mark:8:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:8:24",
+      "numberLabel": "24",
+      "text": "And he looked up, and said, I see men as trees, walking.",
+      "metadata": {
+        "reference": "Mark 8:24",
+        "verseKey": "kjv:mark:8:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:8:25",
+      "numberLabel": "25",
+      "text": "After that he put his hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly.",
+      "metadata": {
+        "reference": "Mark 8:25",
+        "verseKey": "kjv:mark:8:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:8:26",
+      "numberLabel": "26",
+      "text": "And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town.",
+      "metadata": {
+        "reference": "Mark 8:26",
+        "verseKey": "kjv:mark:8:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:8:27",
+      "numberLabel": "27",
+      "text": "And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am?",
+      "metadata": {
+        "reference": "Mark 8:27",
+        "verseKey": "kjv:mark:8:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:8:28",
+      "numberLabel": "28",
+      "text": "And they answered, John the Baptist: but some say, Elias; and others, One of the prophets.",
+      "metadata": {
+        "reference": "Mark 8:28",
+        "verseKey": "kjv:mark:8:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:8:29",
+      "numberLabel": "29",
+      "text": "And he saith unto them, But whom say ye that I am? And Peter answereth and saith unto him, Thou art the Christ.",
+      "metadata": {
+        "reference": "Mark 8:29",
+        "verseKey": "kjv:mark:8:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:8:30",
+      "numberLabel": "30",
+      "text": "And he charged them that they should tell no man of him.",
+      "metadata": {
+        "reference": "Mark 8:30",
+        "verseKey": "kjv:mark:8:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:8:31",
+      "numberLabel": "31",
+      "text": "And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.",
+      "metadata": {
+        "reference": "Mark 8:31",
+        "verseKey": "kjv:mark:8:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:8:32",
+      "numberLabel": "32",
+      "text": "And he spake that saying openly. And Peter took him, and began to rebuke him.",
+      "metadata": {
+        "reference": "Mark 8:32",
+        "verseKey": "kjv:mark:8:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:8:33",
+      "numberLabel": "33",
+      "text": "But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.",
+      "metadata": {
+        "reference": "Mark 8:33",
+        "verseKey": "kjv:mark:8:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:mark:8:34",
+      "numberLabel": "34",
+      "text": "And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.",
+      "metadata": {
+        "reference": "Mark 8:34",
+        "verseKey": "kjv:mark:8:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:mark:8:35",
+      "numberLabel": "35",
+      "text": "For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it.",
+      "metadata": {
+        "reference": "Mark 8:35",
+        "verseKey": "kjv:mark:8:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:mark:8:36",
+      "numberLabel": "36",
+      "text": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?",
+      "metadata": {
+        "reference": "Mark 8:36",
+        "verseKey": "kjv:mark:8:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:mark:8:37",
+      "numberLabel": "37",
+      "text": "Or what shall a man give in exchange for his soul?",
+      "metadata": {
+        "reference": "Mark 8:37",
+        "verseKey": "kjv:mark:8:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:mark:8:38",
+      "numberLabel": "38",
+      "text": "Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.",
+      "metadata": {
+        "reference": "Mark 8:38",
+        "verseKey": "kjv:mark:8:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

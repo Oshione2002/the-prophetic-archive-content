@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-046",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 46,
+  "title": "Ezekiel 46",
+  "display_title": "Ezekiel 46",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 46,
+  "sortOrder": 26046,
+  "verseCount": 24,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:46:1",
+      "numberLabel": "1",
+      "text": "Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened.",
+      "metadata": {
+        "reference": "Ezekiel 46:1",
+        "verseKey": "kjv:ezekiel:46:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:46:2",
+      "numberLabel": "2",
+      "text": "And the prince shall enter by the way of the porch of that gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening.",
+      "metadata": {
+        "reference": "Ezekiel 46:2",
+        "verseKey": "kjv:ezekiel:46:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:46:3",
+      "numberLabel": "3",
+      "text": "Likewise the people of the land shall worship at the door of this gate before the LORD in the sabbaths and in the new moons.",
+      "metadata": {
+        "reference": "Ezekiel 46:3",
+        "verseKey": "kjv:ezekiel:46:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:46:4",
+      "numberLabel": "4",
+      "text": "And the burnt offering that the prince shall offer unto the LORD in the sabbath day shall be six lambs without blemish, and a ram without blemish.",
+      "metadata": {
+        "reference": "Ezekiel 46:4",
+        "verseKey": "kjv:ezekiel:46:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:46:5",
+      "numberLabel": "5",
+      "text": "And the meat offering shall be an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah.",
+      "metadata": {
+        "reference": "Ezekiel 46:5",
+        "verseKey": "kjv:ezekiel:46:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:46:6",
+      "numberLabel": "6",
+      "text": "And in the day of the new moon it shall be a young bullock without blemish, and six lambs, and a ram: they shall be without blemish.",
+      "metadata": {
+        "reference": "Ezekiel 46:6",
+        "verseKey": "kjv:ezekiel:46:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:46:7",
+      "numberLabel": "7",
+      "text": "And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a ram, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah.",
+      "metadata": {
+        "reference": "Ezekiel 46:7",
+        "verseKey": "kjv:ezekiel:46:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:46:8",
+      "numberLabel": "8",
+      "text": "And when the prince shall enter, he shall go in by the way of the porch of that gate, and he shall go forth by the way thereof.",
+      "metadata": {
+        "reference": "Ezekiel 46:8",
+        "verseKey": "kjv:ezekiel:46:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:46:9",
+      "numberLabel": "9",
+      "text": "But when the people of the land shall come before the LORD in the solemn feasts, he that entereth in by the way of the north gate to worship shall go out by the way of the south gate; and he that entereth by the way of the south gate shall go forth by the way of the north gate: he shall not return by the way of the gate whereby he came in, but shall go forth over against it.",
+      "metadata": {
+        "reference": "Ezekiel 46:9",
+        "verseKey": "kjv:ezekiel:46:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:46:10",
+      "numberLabel": "10",
+      "text": "And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth.",
+      "metadata": {
+        "reference": "Ezekiel 46:10",
+        "verseKey": "kjv:ezekiel:46:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:46:11",
+      "numberLabel": "11",
+      "text": "And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah.",
+      "metadata": {
+        "reference": "Ezekiel 46:11",
+        "verseKey": "kjv:ezekiel:46:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:46:12",
+      "numberLabel": "12",
+      "text": "Now when the prince shall prepare a voluntary burnt offering or peace offerings voluntarily unto the LORD, one shall then open him the gate that looketh toward the east, and he shall prepare his burnt offering and his peace offerings, as he did on the sabbath day: then he shall go forth; and after his going forth one shall shut the gate.",
+      "metadata": {
+        "reference": "Ezekiel 46:12",
+        "verseKey": "kjv:ezekiel:46:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:46:13",
+      "numberLabel": "13",
+      "text": "Thou shalt daily prepare a burnt offering unto the LORD of a lamb of the first year without blemish: thou shalt prepare it every morning.",
+      "metadata": {
+        "reference": "Ezekiel 46:13",
+        "verseKey": "kjv:ezekiel:46:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:46:14",
+      "numberLabel": "14",
+      "text": "And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD.",
+      "metadata": {
+        "reference": "Ezekiel 46:14",
+        "verseKey": "kjv:ezekiel:46:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:46:15",
+      "numberLabel": "15",
+      "text": "Thus shall they prepare the lamb, and the meat offering, and the oil, every morning for a continual burnt offering.",
+      "metadata": {
+        "reference": "Ezekiel 46:15",
+        "verseKey": "kjv:ezekiel:46:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:46:16",
+      "numberLabel": "16",
+      "text": "Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons’; it shall be their possession by inheritance.",
+      "metadata": {
+        "reference": "Ezekiel 46:16",
+        "verseKey": "kjv:ezekiel:46:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:46:17",
+      "numberLabel": "17",
+      "text": "But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons’ for them.",
+      "metadata": {
+        "reference": "Ezekiel 46:17",
+        "verseKey": "kjv:ezekiel:46:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezekiel:46:18",
+      "numberLabel": "18",
+      "text": "Moreover the prince shall not take of the people’s inheritance by oppression, to thrust them out of their possession; but he shall give his sons inheritance out of his own possession: that my people be not scattered every man from his possession.",
+      "metadata": {
+        "reference": "Ezekiel 46:18",
+        "verseKey": "kjv:ezekiel:46:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezekiel:46:19",
+      "numberLabel": "19",
+      "text": "After he brought me through the entry, which was at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there was a place on the two sides westward.",
+      "metadata": {
+        "reference": "Ezekiel 46:19",
+        "verseKey": "kjv:ezekiel:46:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezekiel:46:20",
+      "numberLabel": "20",
+      "text": "Then said he unto me, This is the place where the priests shall boil the trespass offering and the sin offering, where they shall bake the meat offering; that they bear them not out into the utter court, to sanctify the people.",
+      "metadata": {
+        "reference": "Ezekiel 46:20",
+        "verseKey": "kjv:ezekiel:46:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezekiel:46:21",
+      "numberLabel": "21",
+      "text": "Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court there was a court.",
+      "metadata": {
+        "reference": "Ezekiel 46:21",
+        "verseKey": "kjv:ezekiel:46:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezekiel:46:22",
+      "numberLabel": "22",
+      "text": "In the four corners of the court there were courts joined of forty cubits long and thirty broad: these four corners were of one measure.",
+      "metadata": {
+        "reference": "Ezekiel 46:22",
+        "verseKey": "kjv:ezekiel:46:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezekiel:46:23",
+      "numberLabel": "23",
+      "text": "And there was a row of building round about in them, round about them four, and it was made with boiling places under the rows round about.",
+      "metadata": {
+        "reference": "Ezekiel 46:23",
+        "verseKey": "kjv:ezekiel:46:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezekiel:46:24",
+      "numberLabel": "24",
+      "text": "Then said he unto me, These are the places of them that boil, where the ministers of the house shall boil the sacrifice of the people.",
+      "metadata": {
+        "reference": "Ezekiel 46:24",
+        "verseKey": "kjv:ezekiel:46:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

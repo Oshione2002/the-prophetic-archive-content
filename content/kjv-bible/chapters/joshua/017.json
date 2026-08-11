@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joshua-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Joshua 17",
+  "display_title": "Joshua 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joshua",
+  "book": "Joshua",
+  "bookName": "Joshua",
+  "bookOrder": 6,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 6017,
+  "verseCount": 18,
+  "aliases": [
+    "Josh",
+    "Jos"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joshua:17:1",
+      "numberLabel": "1",
+      "text": "There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.",
+      "metadata": {
+        "reference": "Joshua 17:1",
+        "verseKey": "kjv:joshua:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joshua:17:2",
+      "numberLabel": "2",
+      "text": "There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families.",
+      "metadata": {
+        "reference": "Joshua 17:2",
+        "verseKey": "kjv:joshua:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joshua:17:3",
+      "numberLabel": "3",
+      "text": "But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these are the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
+      "metadata": {
+        "reference": "Joshua 17:3",
+        "verseKey": "kjv:joshua:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joshua:17:4",
+      "numberLabel": "4",
+      "text": "And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father.",
+      "metadata": {
+        "reference": "Joshua 17:4",
+        "verseKey": "kjv:joshua:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joshua:17:5",
+      "numberLabel": "5",
+      "text": "And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which were on the other side Jordan;",
+      "metadata": {
+        "reference": "Joshua 17:5",
+        "verseKey": "kjv:joshua:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joshua:17:6",
+      "numberLabel": "6",
+      "text": "Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh’s sons had the land of Gilead.",
+      "metadata": {
+        "reference": "Joshua 17:6",
+        "verseKey": "kjv:joshua:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joshua:17:7",
+      "numberLabel": "7",
+      "text": "And the coast of Manasseh was from Asher to Michmethah, that lieth before Shechem; and the border went along on the right hand unto the inhabitants of Entappuah.",
+      "metadata": {
+        "reference": "Joshua 17:7",
+        "verseKey": "kjv:joshua:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joshua:17:8",
+      "numberLabel": "8",
+      "text": "Now Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim;",
+      "metadata": {
+        "reference": "Joshua 17:8",
+        "verseKey": "kjv:joshua:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joshua:17:9",
+      "numberLabel": "9",
+      "text": "And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim are among the cities of Manasseh: the coast of Manasseh also was on the north side of the river, and the outgoings of it were at the sea:",
+      "metadata": {
+        "reference": "Joshua 17:9",
+        "verseKey": "kjv:joshua:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joshua:17:10",
+      "numberLabel": "10",
+      "text": "Southward it was Ephraim’s, and northward it was Manasseh’s, and the sea is his border; and they met together in Asher on the north, and in Issachar on the east.",
+      "metadata": {
+        "reference": "Joshua 17:10",
+        "verseKey": "kjv:joshua:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joshua:17:11",
+      "numberLabel": "11",
+      "text": "And Manasseh had in Issachar and in Asher Bethshean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, even three countries.",
+      "metadata": {
+        "reference": "Joshua 17:11",
+        "verseKey": "kjv:joshua:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joshua:17:12",
+      "numberLabel": "12",
+      "text": "Yet the children of Manasseh could not drive out the inhabitants of those cities; but the Canaanites would dwell in that land.",
+      "metadata": {
+        "reference": "Joshua 17:12",
+        "verseKey": "kjv:joshua:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joshua:17:13",
+      "numberLabel": "13",
+      "text": "Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute, but did not utterly drive them out.",
+      "metadata": {
+        "reference": "Joshua 17:13",
+        "verseKey": "kjv:joshua:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joshua:17:14",
+      "numberLabel": "14",
+      "text": "And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the LORD hath blessed me hitherto?",
+      "metadata": {
+        "reference": "Joshua 17:14",
+        "verseKey": "kjv:joshua:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joshua:17:15",
+      "numberLabel": "15",
+      "text": "And Joshua answered them, If thou be a great people, then get thee up to the wood country, and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for thee.",
+      "metadata": {
+        "reference": "Joshua 17:15",
+        "verseKey": "kjv:joshua:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joshua:17:16",
+      "numberLabel": "16",
+      "text": "And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Bethshean and her towns, and they who are of the valley of Jezreel.",
+      "metadata": {
+        "reference": "Joshua 17:16",
+        "verseKey": "kjv:joshua:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joshua:17:17",
+      "numberLabel": "17",
+      "text": "And Joshua spake unto the house of Joseph, even to Ephraim and to Manasseh, saying, Thou art a great people, and hast great power: thou shalt not have one lot only:",
+      "metadata": {
+        "reference": "Joshua 17:17",
+        "verseKey": "kjv:joshua:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joshua:17:18",
+      "numberLabel": "18",
+      "text": "But the mountain shall be thine; for it is a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong.",
+      "metadata": {
+        "reference": "Joshua 17:18",
+        "verseKey": "kjv:joshua:17:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joshua.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joshua.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

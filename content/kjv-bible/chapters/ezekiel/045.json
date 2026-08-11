@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-045",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 45,
+  "title": "Ezekiel 45",
+  "display_title": "Ezekiel 45",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 45,
+  "sortOrder": 26045,
+  "verseCount": 25,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:45:1",
+      "numberLabel": "1",
+      "text": "Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length shall be the length of five and twenty thousand reeds, and the breadth shall be ten thousand. This shall be holy in all the borders thereof round about.",
+      "metadata": {
+        "reference": "Ezekiel 45:1",
+        "verseKey": "kjv:ezekiel:45:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:45:2",
+      "numberLabel": "2",
+      "text": "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof.",
+      "metadata": {
+        "reference": "Ezekiel 45:2",
+        "verseKey": "kjv:ezekiel:45:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:45:3",
+      "numberLabel": "3",
+      "text": "And of this measure shalt thou measure the length of five and twenty thousand, and the breadth of ten thousand: and in it shall be the sanctuary and the most holy place.",
+      "metadata": {
+        "reference": "Ezekiel 45:3",
+        "verseKey": "kjv:ezekiel:45:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:45:4",
+      "numberLabel": "4",
+      "text": "The holy portion of the land shall be for the priests the ministers of the sanctuary, which shall come near to minister unto the LORD: and it shall be a place for their houses, and an holy place for the sanctuary.",
+      "metadata": {
+        "reference": "Ezekiel 45:4",
+        "verseKey": "kjv:ezekiel:45:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:45:5",
+      "numberLabel": "5",
+      "text": "And the five and twenty thousand of length, and the ten thousand of breadth, shall also the Levites, the ministers of the house, have for themselves, for a possession for twenty chambers.",
+      "metadata": {
+        "reference": "Ezekiel 45:5",
+        "verseKey": "kjv:ezekiel:45:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:45:6",
+      "numberLabel": "6",
+      "text": "And ye shall appoint the possession of the city five thousand broad, and five and twenty thousand long, over against the oblation of the holy portion: it shall be for the whole house of Israel.",
+      "metadata": {
+        "reference": "Ezekiel 45:6",
+        "verseKey": "kjv:ezekiel:45:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:45:7",
+      "numberLabel": "7",
+      "text": "And a portion shall be for the prince on the one side and on the other side of the oblation of the holy portion, and of the possession of the city, before the oblation of the holy portion, and before the possession of the city, from the west side westward, and from the east side eastward: and the length shall be over against one of the portions, from the west border unto the east border.",
+      "metadata": {
+        "reference": "Ezekiel 45:7",
+        "verseKey": "kjv:ezekiel:45:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:45:8",
+      "numberLabel": "8",
+      "text": "In the land shall be his possession in Israel: and my princes shall no more oppress my people; and the rest of the land shall they give to the house of Israel according to their tribes.",
+      "metadata": {
+        "reference": "Ezekiel 45:8",
+        "verseKey": "kjv:ezekiel:45:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:45:9",
+      "numberLabel": "9",
+      "text": "Thus saith the Lord GOD; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 45:9",
+        "verseKey": "kjv:ezekiel:45:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:45:10",
+      "numberLabel": "10",
+      "text": "Ye shall have just balances, and a just ephah, and a just bath.",
+      "metadata": {
+        "reference": "Ezekiel 45:10",
+        "verseKey": "kjv:ezekiel:45:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:45:11",
+      "numberLabel": "11",
+      "text": "The ephah and the bath shall be of one measure, that the bath may contain the tenth part of an homer, and the ephah the tenth part of an homer: the measure thereof shall be after the homer.",
+      "metadata": {
+        "reference": "Ezekiel 45:11",
+        "verseKey": "kjv:ezekiel:45:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:45:12",
+      "numberLabel": "12",
+      "text": "And the shekel shall be twenty gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh.",
+      "metadata": {
+        "reference": "Ezekiel 45:12",
+        "verseKey": "kjv:ezekiel:45:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:45:13",
+      "numberLabel": "13",
+      "text": "This is the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley:",
+      "metadata": {
+        "reference": "Ezekiel 45:13",
+        "verseKey": "kjv:ezekiel:45:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:45:14",
+      "numberLabel": "14",
+      "text": "Concerning the ordinance of oil, the bath of oil, ye shall offer the tenth part of a bath out of the cor, which is an homer of ten baths; for ten baths are an homer:",
+      "metadata": {
+        "reference": "Ezekiel 45:14",
+        "verseKey": "kjv:ezekiel:45:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:45:15",
+      "numberLabel": "15",
+      "text": "And one lamb out of the flock, out of two hundred, out of the fat pastures of Israel; for a meat offering, and for a burnt offering, and for peace offerings, to make reconciliation for them, saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 45:15",
+        "verseKey": "kjv:ezekiel:45:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:45:16",
+      "numberLabel": "16",
+      "text": "All the people of the land shall give this oblation for the prince in Israel.",
+      "metadata": {
+        "reference": "Ezekiel 45:16",
+        "verseKey": "kjv:ezekiel:45:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:45:17",
+      "numberLabel": "17",
+      "text": "And it shall be the prince’s part to give burnt offerings, and meat offerings, and drink offerings, in the feasts, and in the new moons, and in the sabbaths, in all solemnities of the house of Israel: he shall prepare the sin offering, and the meat offering, and the burnt offering, and the peace offerings, to make reconciliation for the house of Israel.",
+      "metadata": {
+        "reference": "Ezekiel 45:17",
+        "verseKey": "kjv:ezekiel:45:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezekiel:45:18",
+      "numberLabel": "18",
+      "text": "Thus saith the Lord GOD; In the first month, in the first day of the month, thou shalt take a young bullock without blemish, and cleanse the sanctuary:",
+      "metadata": {
+        "reference": "Ezekiel 45:18",
+        "verseKey": "kjv:ezekiel:45:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezekiel:45:19",
+      "numberLabel": "19",
+      "text": "And the priest shall take of the blood of the sin offering, and put it upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court.",
+      "metadata": {
+        "reference": "Ezekiel 45:19",
+        "verseKey": "kjv:ezekiel:45:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezekiel:45:20",
+      "numberLabel": "20",
+      "text": "And so thou shalt do the seventh day of the month for every one that erreth, and for him that is simple: so shall ye reconcile the house.",
+      "metadata": {
+        "reference": "Ezekiel 45:20",
+        "verseKey": "kjv:ezekiel:45:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezekiel:45:21",
+      "numberLabel": "21",
+      "text": "In the first month, in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.",
+      "metadata": {
+        "reference": "Ezekiel 45:21",
+        "verseKey": "kjv:ezekiel:45:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezekiel:45:22",
+      "numberLabel": "22",
+      "text": "And upon that day shall the prince prepare for himself and for all the people of the land a bullock for a sin offering.",
+      "metadata": {
+        "reference": "Ezekiel 45:22",
+        "verseKey": "kjv:ezekiel:45:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezekiel:45:23",
+      "numberLabel": "23",
+      "text": "And seven days of the feast he shall prepare a burnt offering to the LORD, seven bullocks and seven rams without blemish daily the seven days; and a kid of the goats daily for a sin offering.",
+      "metadata": {
+        "reference": "Ezekiel 45:23",
+        "verseKey": "kjv:ezekiel:45:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezekiel:45:24",
+      "numberLabel": "24",
+      "text": "And he shall prepare a meat offering of an ephah for a bullock, and an ephah for a ram, and an hin of oil for an ephah.",
+      "metadata": {
+        "reference": "Ezekiel 45:24",
+        "verseKey": "kjv:ezekiel:45:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ezekiel:45:25",
+      "numberLabel": "25",
+      "text": "In the seventh month, in the fifteenth day of the month, shall he do the like in the feast of the seven days, according to the sin offering, according to the burnt offering, and according to the meat offering, and according to the oil.",
+      "metadata": {
+        "reference": "Ezekiel 45:25",
+        "verseKey": "kjv:ezekiel:45:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

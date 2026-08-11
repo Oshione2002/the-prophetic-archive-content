@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Revelation 10",
+  "display_title": "Revelation 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 10,
+  "sortOrder": 66010,
+  "verseCount": 11,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:10:1",
+      "numberLabel": "1",
+      "text": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:",
+      "metadata": {
+        "reference": "Revelation 10:1",
+        "verseKey": "kjv:revelation:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:10:2",
+      "numberLabel": "2",
+      "text": "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,",
+      "metadata": {
+        "reference": "Revelation 10:2",
+        "verseKey": "kjv:revelation:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:10:3",
+      "numberLabel": "3",
+      "text": "And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices.",
+      "metadata": {
+        "reference": "Revelation 10:3",
+        "verseKey": "kjv:revelation:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:10:4",
+      "numberLabel": "4",
+      "text": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.",
+      "metadata": {
+        "reference": "Revelation 10:4",
+        "verseKey": "kjv:revelation:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:10:5",
+      "numberLabel": "5",
+      "text": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,",
+      "metadata": {
+        "reference": "Revelation 10:5",
+        "verseKey": "kjv:revelation:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:10:6",
+      "numberLabel": "6",
+      "text": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:",
+      "metadata": {
+        "reference": "Revelation 10:6",
+        "verseKey": "kjv:revelation:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:10:7",
+      "numberLabel": "7",
+      "text": "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.",
+      "metadata": {
+        "reference": "Revelation 10:7",
+        "verseKey": "kjv:revelation:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:10:8",
+      "numberLabel": "8",
+      "text": "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
+      "metadata": {
+        "reference": "Revelation 10:8",
+        "verseKey": "kjv:revelation:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:10:9",
+      "numberLabel": "9",
+      "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
+      "metadata": {
+        "reference": "Revelation 10:9",
+        "verseKey": "kjv:revelation:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:10:10",
+      "numberLabel": "10",
+      "text": "And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
+      "metadata": {
+        "reference": "Revelation 10:10",
+        "verseKey": "kjv:revelation:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:10:11",
+      "numberLabel": "11",
+      "text": "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.",
+      "metadata": {
+        "reference": "Revelation 10:11",
+        "verseKey": "kjv:revelation:10:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

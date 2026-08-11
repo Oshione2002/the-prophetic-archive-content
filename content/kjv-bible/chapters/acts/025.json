@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Acts 25",
+  "display_title": "Acts 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 25,
+  "sortOrder": 44025,
+  "verseCount": 27,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:25:1",
+      "numberLabel": "1",
+      "text": "Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.",
+      "metadata": {
+        "reference": "Acts 25:1",
+        "verseKey": "kjv:acts:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:25:2",
+      "numberLabel": "2",
+      "text": "Then the high priest and the chief of the Jews informed him against Paul, and besought him,",
+      "metadata": {
+        "reference": "Acts 25:2",
+        "verseKey": "kjv:acts:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:25:3",
+      "numberLabel": "3",
+      "text": "And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.",
+      "metadata": {
+        "reference": "Acts 25:3",
+        "verseKey": "kjv:acts:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:25:4",
+      "numberLabel": "4",
+      "text": "But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither.",
+      "metadata": {
+        "reference": "Acts 25:4",
+        "verseKey": "kjv:acts:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:25:5",
+      "numberLabel": "5",
+      "text": "Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him.",
+      "metadata": {
+        "reference": "Acts 25:5",
+        "verseKey": "kjv:acts:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:25:6",
+      "numberLabel": "6",
+      "text": "And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought.",
+      "metadata": {
+        "reference": "Acts 25:6",
+        "verseKey": "kjv:acts:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:25:7",
+      "numberLabel": "7",
+      "text": "And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove.",
+      "metadata": {
+        "reference": "Acts 25:7",
+        "verseKey": "kjv:acts:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:25:8",
+      "numberLabel": "8",
+      "text": "While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all.",
+      "metadata": {
+        "reference": "Acts 25:8",
+        "verseKey": "kjv:acts:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:25:9",
+      "numberLabel": "9",
+      "text": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?",
+      "metadata": {
+        "reference": "Acts 25:9",
+        "verseKey": "kjv:acts:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:25:10",
+      "numberLabel": "10",
+      "text": "Then said Paul, I stand at Caesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.",
+      "metadata": {
+        "reference": "Acts 25:10",
+        "verseKey": "kjv:acts:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:25:11",
+      "numberLabel": "11",
+      "text": "For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar.",
+      "metadata": {
+        "reference": "Acts 25:11",
+        "verseKey": "kjv:acts:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:25:12",
+      "numberLabel": "12",
+      "text": "Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Caesar? unto Caesar shalt thou go.",
+      "metadata": {
+        "reference": "Acts 25:12",
+        "verseKey": "kjv:acts:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:25:13",
+      "numberLabel": "13",
+      "text": "And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.",
+      "metadata": {
+        "reference": "Acts 25:13",
+        "verseKey": "kjv:acts:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:25:14",
+      "numberLabel": "14",
+      "text": "And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix:",
+      "metadata": {
+        "reference": "Acts 25:14",
+        "verseKey": "kjv:acts:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:25:15",
+      "numberLabel": "15",
+      "text": "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him.",
+      "metadata": {
+        "reference": "Acts 25:15",
+        "verseKey": "kjv:acts:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:25:16",
+      "numberLabel": "16",
+      "text": "To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.",
+      "metadata": {
+        "reference": "Acts 25:16",
+        "verseKey": "kjv:acts:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:25:17",
+      "numberLabel": "17",
+      "text": "Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.",
+      "metadata": {
+        "reference": "Acts 25:17",
+        "verseKey": "kjv:acts:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:25:18",
+      "numberLabel": "18",
+      "text": "Against whom when the accusers stood up, they brought none accusation of such things as I supposed:",
+      "metadata": {
+        "reference": "Acts 25:18",
+        "verseKey": "kjv:acts:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:25:19",
+      "numberLabel": "19",
+      "text": "But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.",
+      "metadata": {
+        "reference": "Acts 25:19",
+        "verseKey": "kjv:acts:25:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:25:20",
+      "numberLabel": "20",
+      "text": "And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters.",
+      "metadata": {
+        "reference": "Acts 25:20",
+        "verseKey": "kjv:acts:25:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:25:21",
+      "numberLabel": "21",
+      "text": "But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Caesar.",
+      "metadata": {
+        "reference": "Acts 25:21",
+        "verseKey": "kjv:acts:25:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:25:22",
+      "numberLabel": "22",
+      "text": "Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him.",
+      "metadata": {
+        "reference": "Acts 25:22",
+        "verseKey": "kjv:acts:25:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:25:23",
+      "numberLabel": "23",
+      "text": "And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth.",
+      "metadata": {
+        "reference": "Acts 25:23",
+        "verseKey": "kjv:acts:25:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:25:24",
+      "numberLabel": "24",
+      "text": "And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer.",
+      "metadata": {
+        "reference": "Acts 25:24",
+        "verseKey": "kjv:acts:25:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:25:25",
+      "numberLabel": "25",
+      "text": "But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him.",
+      "metadata": {
+        "reference": "Acts 25:25",
+        "verseKey": "kjv:acts:25:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:25:26",
+      "numberLabel": "26",
+      "text": "Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write.",
+      "metadata": {
+        "reference": "Acts 25:26",
+        "verseKey": "kjv:acts:25:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:25:27",
+      "numberLabel": "27",
+      "text": "For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him.",
+      "metadata": {
+        "reference": "Acts 25:27",
+        "verseKey": "kjv:acts:25:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

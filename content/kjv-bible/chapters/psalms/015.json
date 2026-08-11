@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Psalms 15",
+  "display_title": "Psalms 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 15,
+  "sortOrder": 19015,
+  "verseCount": 5,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:15:1",
+      "numberLabel": "1",
+      "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "metadata": {
+        "reference": "Psalms 15:1",
+        "verseKey": "kjv:psalms:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:15:2",
+      "numberLabel": "2",
+      "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "metadata": {
+        "reference": "Psalms 15:2",
+        "verseKey": "kjv:psalms:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:15:3",
+      "numberLabel": "3",
+      "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "metadata": {
+        "reference": "Psalms 15:3",
+        "verseKey": "kjv:psalms:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:15:4",
+      "numberLabel": "4",
+      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not.",
+      "metadata": {
+        "reference": "Psalms 15:4",
+        "verseKey": "kjv:psalms:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:15:5",
+      "numberLabel": "5",
+      "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.",
+      "metadata": {
+        "reference": "Psalms 15:5",
+        "verseKey": "kjv:psalms:15:5"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

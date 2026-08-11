@@ -1,0 +1,752 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Acts 7",
+  "display_title": "Acts 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 7,
+  "sortOrder": 44007,
+  "verseCount": 60,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:7:1",
+      "numberLabel": "1",
+      "text": "Then said the high priest, Are these things so?",
+      "metadata": {
+        "reference": "Acts 7:1",
+        "verseKey": "kjv:acts:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:7:2",
+      "numberLabel": "2",
+      "text": "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,",
+      "metadata": {
+        "reference": "Acts 7:2",
+        "verseKey": "kjv:acts:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:7:3",
+      "numberLabel": "3",
+      "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
+      "metadata": {
+        "reference": "Acts 7:3",
+        "verseKey": "kjv:acts:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:7:4",
+      "numberLabel": "4",
+      "text": "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
+      "metadata": {
+        "reference": "Acts 7:4",
+        "verseKey": "kjv:acts:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:7:5",
+      "numberLabel": "5",
+      "text": "And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.",
+      "metadata": {
+        "reference": "Acts 7:5",
+        "verseKey": "kjv:acts:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:7:6",
+      "numberLabel": "6",
+      "text": "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.",
+      "metadata": {
+        "reference": "Acts 7:6",
+        "verseKey": "kjv:acts:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:7:7",
+      "numberLabel": "7",
+      "text": "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.",
+      "metadata": {
+        "reference": "Acts 7:7",
+        "verseKey": "kjv:acts:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:7:8",
+      "numberLabel": "8",
+      "text": "And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.",
+      "metadata": {
+        "reference": "Acts 7:8",
+        "verseKey": "kjv:acts:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:7:9",
+      "numberLabel": "9",
+      "text": "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,",
+      "metadata": {
+        "reference": "Acts 7:9",
+        "verseKey": "kjv:acts:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:7:10",
+      "numberLabel": "10",
+      "text": "And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.",
+      "metadata": {
+        "reference": "Acts 7:10",
+        "verseKey": "kjv:acts:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:7:11",
+      "numberLabel": "11",
+      "text": "Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.",
+      "metadata": {
+        "reference": "Acts 7:11",
+        "verseKey": "kjv:acts:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:7:12",
+      "numberLabel": "12",
+      "text": "But when Jacob heard that there was corn in Egypt, he sent out our fathers first.",
+      "metadata": {
+        "reference": "Acts 7:12",
+        "verseKey": "kjv:acts:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:7:13",
+      "numberLabel": "13",
+      "text": "And at the second time Joseph was made known to his brethren; and Joseph’s kindred was made known unto Pharaoh.",
+      "metadata": {
+        "reference": "Acts 7:13",
+        "verseKey": "kjv:acts:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:7:14",
+      "numberLabel": "14",
+      "text": "Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls.",
+      "metadata": {
+        "reference": "Acts 7:14",
+        "verseKey": "kjv:acts:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:7:15",
+      "numberLabel": "15",
+      "text": "So Jacob went down into Egypt, and died, he, and our fathers,",
+      "metadata": {
+        "reference": "Acts 7:15",
+        "verseKey": "kjv:acts:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:7:16",
+      "numberLabel": "16",
+      "text": "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.",
+      "metadata": {
+        "reference": "Acts 7:16",
+        "verseKey": "kjv:acts:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:7:17",
+      "numberLabel": "17",
+      "text": "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,",
+      "metadata": {
+        "reference": "Acts 7:17",
+        "verseKey": "kjv:acts:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:7:18",
+      "numberLabel": "18",
+      "text": "Till another king arose, which knew not Joseph.",
+      "metadata": {
+        "reference": "Acts 7:18",
+        "verseKey": "kjv:acts:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:7:19",
+      "numberLabel": "19",
+      "text": "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.",
+      "metadata": {
+        "reference": "Acts 7:19",
+        "verseKey": "kjv:acts:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:7:20",
+      "numberLabel": "20",
+      "text": "In which time Moses was born, and was exceeding fair, and nourished up in his father’s house three months:",
+      "metadata": {
+        "reference": "Acts 7:20",
+        "verseKey": "kjv:acts:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:7:21",
+      "numberLabel": "21",
+      "text": "And when he was cast out, Pharaoh’s daughter took him up, and nourished him for her own son.",
+      "metadata": {
+        "reference": "Acts 7:21",
+        "verseKey": "kjv:acts:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:7:22",
+      "numberLabel": "22",
+      "text": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.",
+      "metadata": {
+        "reference": "Acts 7:22",
+        "verseKey": "kjv:acts:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:7:23",
+      "numberLabel": "23",
+      "text": "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.",
+      "metadata": {
+        "reference": "Acts 7:23",
+        "verseKey": "kjv:acts:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:7:24",
+      "numberLabel": "24",
+      "text": "And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and smote the Egyptian:",
+      "metadata": {
+        "reference": "Acts 7:24",
+        "verseKey": "kjv:acts:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:7:25",
+      "numberLabel": "25",
+      "text": "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.",
+      "metadata": {
+        "reference": "Acts 7:25",
+        "verseKey": "kjv:acts:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:7:26",
+      "numberLabel": "26",
+      "text": "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?",
+      "metadata": {
+        "reference": "Acts 7:26",
+        "verseKey": "kjv:acts:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:7:27",
+      "numberLabel": "27",
+      "text": "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?",
+      "metadata": {
+        "reference": "Acts 7:27",
+        "verseKey": "kjv:acts:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:7:28",
+      "numberLabel": "28",
+      "text": "Wilt thou kill me, as thou diddest the Egyptian yesterday?",
+      "metadata": {
+        "reference": "Acts 7:28",
+        "verseKey": "kjv:acts:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:7:29",
+      "numberLabel": "29",
+      "text": "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.",
+      "metadata": {
+        "reference": "Acts 7:29",
+        "verseKey": "kjv:acts:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:7:30",
+      "numberLabel": "30",
+      "text": "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.",
+      "metadata": {
+        "reference": "Acts 7:30",
+        "verseKey": "kjv:acts:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:acts:7:31",
+      "numberLabel": "31",
+      "text": "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the LORD came unto him,",
+      "metadata": {
+        "reference": "Acts 7:31",
+        "verseKey": "kjv:acts:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:acts:7:32",
+      "numberLabel": "32",
+      "text": "Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.",
+      "metadata": {
+        "reference": "Acts 7:32",
+        "verseKey": "kjv:acts:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:acts:7:33",
+      "numberLabel": "33",
+      "text": "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.",
+      "metadata": {
+        "reference": "Acts 7:33",
+        "verseKey": "kjv:acts:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:acts:7:34",
+      "numberLabel": "34",
+      "text": "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.",
+      "metadata": {
+        "reference": "Acts 7:34",
+        "verseKey": "kjv:acts:7:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:acts:7:35",
+      "numberLabel": "35",
+      "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.",
+      "metadata": {
+        "reference": "Acts 7:35",
+        "verseKey": "kjv:acts:7:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:acts:7:36",
+      "numberLabel": "36",
+      "text": "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.",
+      "metadata": {
+        "reference": "Acts 7:36",
+        "verseKey": "kjv:acts:7:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:acts:7:37",
+      "numberLabel": "37",
+      "text": "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.",
+      "metadata": {
+        "reference": "Acts 7:37",
+        "verseKey": "kjv:acts:7:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:acts:7:38",
+      "numberLabel": "38",
+      "text": "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:",
+      "metadata": {
+        "reference": "Acts 7:38",
+        "verseKey": "kjv:acts:7:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:acts:7:39",
+      "numberLabel": "39",
+      "text": "To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,",
+      "metadata": {
+        "reference": "Acts 7:39",
+        "verseKey": "kjv:acts:7:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:acts:7:40",
+      "numberLabel": "40",
+      "text": "Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.",
+      "metadata": {
+        "reference": "Acts 7:40",
+        "verseKey": "kjv:acts:7:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:acts:7:41",
+      "numberLabel": "41",
+      "text": "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.",
+      "metadata": {
+        "reference": "Acts 7:41",
+        "verseKey": "kjv:acts:7:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:acts:7:42",
+      "numberLabel": "42",
+      "text": "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices by the space of forty years in the wilderness?",
+      "metadata": {
+        "reference": "Acts 7:42",
+        "verseKey": "kjv:acts:7:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:acts:7:43",
+      "numberLabel": "43",
+      "text": "Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.",
+      "metadata": {
+        "reference": "Acts 7:43",
+        "verseKey": "kjv:acts:7:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:acts:7:44",
+      "numberLabel": "44",
+      "text": "Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.",
+      "metadata": {
+        "reference": "Acts 7:44",
+        "verseKey": "kjv:acts:7:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:acts:7:45",
+      "numberLabel": "45",
+      "text": "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;",
+      "metadata": {
+        "reference": "Acts 7:45",
+        "verseKey": "kjv:acts:7:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:acts:7:46",
+      "numberLabel": "46",
+      "text": "Who found favour before God, and desired to find a tabernacle for the God of Jacob.",
+      "metadata": {
+        "reference": "Acts 7:46",
+        "verseKey": "kjv:acts:7:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:acts:7:47",
+      "numberLabel": "47",
+      "text": "But Solomon built him an house.",
+      "metadata": {
+        "reference": "Acts 7:47",
+        "verseKey": "kjv:acts:7:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:acts:7:48",
+      "numberLabel": "48",
+      "text": "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,",
+      "metadata": {
+        "reference": "Acts 7:48",
+        "verseKey": "kjv:acts:7:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:acts:7:49",
+      "numberLabel": "49",
+      "text": "Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?",
+      "metadata": {
+        "reference": "Acts 7:49",
+        "verseKey": "kjv:acts:7:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:acts:7:50",
+      "numberLabel": "50",
+      "text": "Hath not my hand made all these things?",
+      "metadata": {
+        "reference": "Acts 7:50",
+        "verseKey": "kjv:acts:7:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:acts:7:51",
+      "numberLabel": "51",
+      "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.",
+      "metadata": {
+        "reference": "Acts 7:51",
+        "verseKey": "kjv:acts:7:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:acts:7:52",
+      "numberLabel": "52",
+      "text": "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:",
+      "metadata": {
+        "reference": "Acts 7:52",
+        "verseKey": "kjv:acts:7:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:acts:7:53",
+      "numberLabel": "53",
+      "text": "Who have received the law by the disposition of angels, and have not kept it.",
+      "metadata": {
+        "reference": "Acts 7:53",
+        "verseKey": "kjv:acts:7:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:acts:7:54",
+      "numberLabel": "54",
+      "text": "When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.",
+      "metadata": {
+        "reference": "Acts 7:54",
+        "verseKey": "kjv:acts:7:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:acts:7:55",
+      "numberLabel": "55",
+      "text": "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+      "metadata": {
+        "reference": "Acts 7:55",
+        "verseKey": "kjv:acts:7:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:acts:7:56",
+      "numberLabel": "56",
+      "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
+      "metadata": {
+        "reference": "Acts 7:56",
+        "verseKey": "kjv:acts:7:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:acts:7:57",
+      "numberLabel": "57",
+      "text": "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,",
+      "metadata": {
+        "reference": "Acts 7:57",
+        "verseKey": "kjv:acts:7:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:acts:7:58",
+      "numberLabel": "58",
+      "text": "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man’s feet, whose name was Saul.",
+      "metadata": {
+        "reference": "Acts 7:58",
+        "verseKey": "kjv:acts:7:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:acts:7:59",
+      "numberLabel": "59",
+      "text": "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.",
+      "metadata": {
+        "reference": "Acts 7:59",
+        "verseKey": "kjv:acts:7:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:acts:7:60",
+      "numberLabel": "60",
+      "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+      "metadata": {
+        "reference": "Acts 7:60",
+        "verseKey": "kjv:acts:7:60"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

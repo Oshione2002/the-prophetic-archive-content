@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-038",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 38,
+  "title": "Jeremiah 38",
+  "display_title": "Jeremiah 38",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 38,
+  "sortOrder": 24038,
+  "verseCount": 28,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:38:1",
+      "numberLabel": "1",
+      "text": "Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying,",
+      "metadata": {
+        "reference": "Jeremiah 38:1",
+        "verseKey": "kjv:jeremiah:38:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:38:2",
+      "numberLabel": "2",
+      "text": "Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.",
+      "metadata": {
+        "reference": "Jeremiah 38:2",
+        "verseKey": "kjv:jeremiah:38:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:38:3",
+      "numberLabel": "3",
+      "text": "Thus saith the LORD, This city shall surely be given into the hand of the king of Babylon’s army, which shall take it.",
+      "metadata": {
+        "reference": "Jeremiah 38:3",
+        "verseKey": "kjv:jeremiah:38:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:38:4",
+      "numberLabel": "4",
+      "text": "Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt.",
+      "metadata": {
+        "reference": "Jeremiah 38:4",
+        "verseKey": "kjv:jeremiah:38:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:38:5",
+      "numberLabel": "5",
+      "text": "Then Zedekiah the king said, Behold, he is in your hand: for the king is not he that can do any thing against you.",
+      "metadata": {
+        "reference": "Jeremiah 38:5",
+        "verseKey": "kjv:jeremiah:38:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:38:6",
+      "numberLabel": "6",
+      "text": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that was in the court of the prison: and they let down Jeremiah with cords. And in the dungeon there was no water, but mire: so Jeremiah sunk in the mire.",
+      "metadata": {
+        "reference": "Jeremiah 38:6",
+        "verseKey": "kjv:jeremiah:38:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:38:7",
+      "numberLabel": "7",
+      "text": "Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king’s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;",
+      "metadata": {
+        "reference": "Jeremiah 38:7",
+        "verseKey": "kjv:jeremiah:38:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:38:8",
+      "numberLabel": "8",
+      "text": "Ebedmelech went forth out of the king’s house, and spake to the king, saying,",
+      "metadata": {
+        "reference": "Jeremiah 38:8",
+        "verseKey": "kjv:jeremiah:38:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:38:9",
+      "numberLabel": "9",
+      "text": "My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city.",
+      "metadata": {
+        "reference": "Jeremiah 38:9",
+        "verseKey": "kjv:jeremiah:38:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:38:10",
+      "numberLabel": "10",
+      "text": "Then the king commanded Ebedmelech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die.",
+      "metadata": {
+        "reference": "Jeremiah 38:10",
+        "verseKey": "kjv:jeremiah:38:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:38:11",
+      "numberLabel": "11",
+      "text": "So Ebedmelech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah.",
+      "metadata": {
+        "reference": "Jeremiah 38:11",
+        "verseKey": "kjv:jeremiah:38:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:38:12",
+      "numberLabel": "12",
+      "text": "And Ebedmelech the Ethiopian said unto Jeremiah, Put now these old cast clouts and rotten rags under thine armholes under the cords. And Jeremiah did so.",
+      "metadata": {
+        "reference": "Jeremiah 38:12",
+        "verseKey": "kjv:jeremiah:38:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:38:13",
+      "numberLabel": "13",
+      "text": "So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison.",
+      "metadata": {
+        "reference": "Jeremiah 38:13",
+        "verseKey": "kjv:jeremiah:38:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:38:14",
+      "numberLabel": "14",
+      "text": "Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that is in the house of the LORD: and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me.",
+      "metadata": {
+        "reference": "Jeremiah 38:14",
+        "verseKey": "kjv:jeremiah:38:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:38:15",
+      "numberLabel": "15",
+      "text": "Then Jeremiah said unto Zedekiah, If I declare it unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?",
+      "metadata": {
+        "reference": "Jeremiah 38:15",
+        "verseKey": "kjv:jeremiah:38:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:38:16",
+      "numberLabel": "16",
+      "text": "So Zedekiah the king sware secretly unto Jeremiah, saying, As the LORD liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life.",
+      "metadata": {
+        "reference": "Jeremiah 38:16",
+        "verseKey": "kjv:jeremiah:38:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:38:17",
+      "numberLabel": "17",
+      "text": "Then said Jeremiah unto Zedekiah, Thus saith the LORD, the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house:",
+      "metadata": {
+        "reference": "Jeremiah 38:17",
+        "verseKey": "kjv:jeremiah:38:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:38:18",
+      "numberLabel": "18",
+      "text": "But if thou wilt not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand.",
+      "metadata": {
+        "reference": "Jeremiah 38:18",
+        "verseKey": "kjv:jeremiah:38:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:38:19",
+      "numberLabel": "19",
+      "text": "And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me.",
+      "metadata": {
+        "reference": "Jeremiah 38:19",
+        "verseKey": "kjv:jeremiah:38:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:38:20",
+      "numberLabel": "20",
+      "text": "But Jeremiah said, They shall not deliver thee. Obey, I beseech thee, the voice of the LORD, which I speak unto thee: so it shall be well unto thee, and thy soul shall live.",
+      "metadata": {
+        "reference": "Jeremiah 38:20",
+        "verseKey": "kjv:jeremiah:38:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:38:21",
+      "numberLabel": "21",
+      "text": "But if thou refuse to go forth, this is the word that the LORD hath shewed me:",
+      "metadata": {
+        "reference": "Jeremiah 38:21",
+        "verseKey": "kjv:jeremiah:38:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:38:22",
+      "numberLabel": "22",
+      "text": "And, behold, all the women that are left in the king of Judah’s house shall be brought forth to the king of Babylon’s princes, and those women shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, and they are turned away back.",
+      "metadata": {
+        "reference": "Jeremiah 38:22",
+        "verseKey": "kjv:jeremiah:38:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:jeremiah:38:23",
+      "numberLabel": "23",
+      "text": "So they shall bring out all thy wives and thy children to the Chaldeans: and thou shalt not escape out of their hand, but shalt be taken by the hand of the king of Babylon: and thou shalt cause this city to be burned with fire.",
+      "metadata": {
+        "reference": "Jeremiah 38:23",
+        "verseKey": "kjv:jeremiah:38:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:jeremiah:38:24",
+      "numberLabel": "24",
+      "text": "Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die.",
+      "metadata": {
+        "reference": "Jeremiah 38:24",
+        "verseKey": "kjv:jeremiah:38:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:jeremiah:38:25",
+      "numberLabel": "25",
+      "text": "But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:",
+      "metadata": {
+        "reference": "Jeremiah 38:25",
+        "verseKey": "kjv:jeremiah:38:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:jeremiah:38:26",
+      "numberLabel": "26",
+      "text": "Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there.",
+      "metadata": {
+        "reference": "Jeremiah 38:26",
+        "verseKey": "kjv:jeremiah:38:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:jeremiah:38:27",
+      "numberLabel": "27",
+      "text": "Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived.",
+      "metadata": {
+        "reference": "Jeremiah 38:27",
+        "verseKey": "kjv:jeremiah:38:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:jeremiah:38:28",
+      "numberLabel": "28",
+      "text": "So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was there when Jerusalem was taken.",
+      "metadata": {
+        "reference": "Jeremiah 38:28",
+        "verseKey": "kjv:jeremiah:38:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

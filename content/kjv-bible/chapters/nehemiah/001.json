@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-nehemiah-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Nehemiah 1",
+  "display_title": "Nehemiah 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "nehemiah",
+  "book": "Nehemiah",
+  "bookName": "Nehemiah",
+  "bookOrder": 16,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 16001,
+  "verseCount": 11,
+  "aliases": [
+    "Neh",
+    "Ne"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:nehemiah:1:1",
+      "numberLabel": "1",
+      "text": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+      "metadata": {
+        "reference": "Nehemiah 1:1",
+        "verseKey": "kjv:nehemiah:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:nehemiah:1:2",
+      "numberLabel": "2",
+      "text": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.",
+      "metadata": {
+        "reference": "Nehemiah 1:2",
+        "verseKey": "kjv:nehemiah:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:nehemiah:1:3",
+      "numberLabel": "3",
+      "text": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.",
+      "metadata": {
+        "reference": "Nehemiah 1:3",
+        "verseKey": "kjv:nehemiah:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:nehemiah:1:4",
+      "numberLabel": "4",
+      "text": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,",
+      "metadata": {
+        "reference": "Nehemiah 1:4",
+        "verseKey": "kjv:nehemiah:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:nehemiah:1:5",
+      "numberLabel": "5",
+      "text": "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+      "metadata": {
+        "reference": "Nehemiah 1:5",
+        "verseKey": "kjv:nehemiah:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:nehemiah:1:6",
+      "numberLabel": "6",
+      "text": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father’s house have sinned.",
+      "metadata": {
+        "reference": "Nehemiah 1:6",
+        "verseKey": "kjv:nehemiah:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:nehemiah:1:7",
+      "numberLabel": "7",
+      "text": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
+      "metadata": {
+        "reference": "Nehemiah 1:7",
+        "verseKey": "kjv:nehemiah:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:nehemiah:1:8",
+      "numberLabel": "8",
+      "text": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:",
+      "metadata": {
+        "reference": "Nehemiah 1:8",
+        "verseKey": "kjv:nehemiah:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:nehemiah:1:9",
+      "numberLabel": "9",
+      "text": "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.",
+      "metadata": {
+        "reference": "Nehemiah 1:9",
+        "verseKey": "kjv:nehemiah:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:nehemiah:1:10",
+      "numberLabel": "10",
+      "text": "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.",
+      "metadata": {
+        "reference": "Nehemiah 1:10",
+        "verseKey": "kjv:nehemiah:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:nehemiah:1:11",
+      "numberLabel": "11",
+      "text": "O LORD, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer.",
+      "metadata": {
+        "reference": "Nehemiah 1:11",
+        "verseKey": "kjv:nehemiah:1:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Nehemiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Nehemiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

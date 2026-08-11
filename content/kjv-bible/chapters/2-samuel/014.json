@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-samuel-014",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 14,
+  "title": "2 Samuel 14",
+  "display_title": "2 Samuel 14",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-samuel",
+  "book": "2 Samuel",
+  "bookName": "2 Samuel",
+  "bookOrder": 10,
+  "testament": "old",
+  "chapter": 14,
+  "sortOrder": 10014,
+  "verseCount": 33,
+  "aliases": [
+    "2 Sam",
+    "2Sam",
+    "2 Sa",
+    "2Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-samuel:14:1",
+      "numberLabel": "1",
+      "text": "Now Joab the son of Zeruiah perceived that the king’s heart was toward Absalom.",
+      "metadata": {
+        "reference": "2 Samuel 14:1",
+        "verseKey": "kjv:2-samuel:14:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-samuel:14:2",
+      "numberLabel": "2",
+      "text": "And Joab sent to Tekoah, and fetched thence a wise woman, and said unto her, I pray thee, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:",
+      "metadata": {
+        "reference": "2 Samuel 14:2",
+        "verseKey": "kjv:2-samuel:14:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-samuel:14:3",
+      "numberLabel": "3",
+      "text": "And come to the king, and speak on this manner unto him. So Joab put the words in her mouth.",
+      "metadata": {
+        "reference": "2 Samuel 14:3",
+        "verseKey": "kjv:2-samuel:14:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-samuel:14:4",
+      "numberLabel": "4",
+      "text": "And when the woman of Tekoah spake to the king, she fell on her face to the ground, and did obeisance, and said, Help, O king.",
+      "metadata": {
+        "reference": "2 Samuel 14:4",
+        "verseKey": "kjv:2-samuel:14:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-samuel:14:5",
+      "numberLabel": "5",
+      "text": "And the king said unto her, What aileth thee? And she answered, I am indeed a widow woman, and mine husband is dead.",
+      "metadata": {
+        "reference": "2 Samuel 14:5",
+        "verseKey": "kjv:2-samuel:14:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-samuel:14:6",
+      "numberLabel": "6",
+      "text": "And thy handmaid had two sons, and they two strove together in the field, and there was none to part them, but the one smote the other, and slew him.",
+      "metadata": {
+        "reference": "2 Samuel 14:6",
+        "verseKey": "kjv:2-samuel:14:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-samuel:14:7",
+      "numberLabel": "7",
+      "text": "And, behold, the whole family is risen against thine handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they shall quench my coal which is left, and shall not leave to my husband neither name nor remainder upon the earth.",
+      "metadata": {
+        "reference": "2 Samuel 14:7",
+        "verseKey": "kjv:2-samuel:14:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-samuel:14:8",
+      "numberLabel": "8",
+      "text": "And the king said unto the woman, Go to thine house, and I will give charge concerning thee.",
+      "metadata": {
+        "reference": "2 Samuel 14:8",
+        "verseKey": "kjv:2-samuel:14:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-samuel:14:9",
+      "numberLabel": "9",
+      "text": "And the woman of Tekoah said unto the king, My lord, O king, the iniquity be on me, and on my father’s house: and the king and his throne be guiltless.",
+      "metadata": {
+        "reference": "2 Samuel 14:9",
+        "verseKey": "kjv:2-samuel:14:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-samuel:14:10",
+      "numberLabel": "10",
+      "text": "And the king said, Whosoever saith ought unto thee, bring him to me, and he shall not touch thee any more.",
+      "metadata": {
+        "reference": "2 Samuel 14:10",
+        "verseKey": "kjv:2-samuel:14:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-samuel:14:11",
+      "numberLabel": "11",
+      "text": "Then said she, I pray thee, let the king remember the LORD thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, As the LORD liveth, there shall not one hair of thy son fall to the earth.",
+      "metadata": {
+        "reference": "2 Samuel 14:11",
+        "verseKey": "kjv:2-samuel:14:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-samuel:14:12",
+      "numberLabel": "12",
+      "text": "Then the woman said, Let thine handmaid, I pray thee, speak one word unto my lord the king. And he said, Say on.",
+      "metadata": {
+        "reference": "2 Samuel 14:12",
+        "verseKey": "kjv:2-samuel:14:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-samuel:14:13",
+      "numberLabel": "13",
+      "text": "And the woman said, Wherefore then hast thou thought such a thing against the people of God? for the king doth speak this thing as one which is faulty, in that the king doth not fetch home again his banished.",
+      "metadata": {
+        "reference": "2 Samuel 14:13",
+        "verseKey": "kjv:2-samuel:14:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-samuel:14:14",
+      "numberLabel": "14",
+      "text": "For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him.",
+      "metadata": {
+        "reference": "2 Samuel 14:14",
+        "verseKey": "kjv:2-samuel:14:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-samuel:14:15",
+      "numberLabel": "15",
+      "text": "Now therefore that I am come to speak of this thing unto my lord the king, it is because the people have made me afraid: and thy handmaid said, I will now speak unto the king; it may be that the king will perform the request of his handmaid.",
+      "metadata": {
+        "reference": "2 Samuel 14:15",
+        "verseKey": "kjv:2-samuel:14:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-samuel:14:16",
+      "numberLabel": "16",
+      "text": "For the king will hear, to deliver his handmaid out of the hand of the man that would destroy me and my son together out of the inheritance of God.",
+      "metadata": {
+        "reference": "2 Samuel 14:16",
+        "verseKey": "kjv:2-samuel:14:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-samuel:14:17",
+      "numberLabel": "17",
+      "text": "Then thine handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD thy God will be with thee.",
+      "metadata": {
+        "reference": "2 Samuel 14:17",
+        "verseKey": "kjv:2-samuel:14:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-samuel:14:18",
+      "numberLabel": "18",
+      "text": "Then the king answered and said unto the woman, Hide not from me, I pray thee, the thing that I shall ask thee. And the woman said, Let my lord the king now speak.",
+      "metadata": {
+        "reference": "2 Samuel 14:18",
+        "verseKey": "kjv:2-samuel:14:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-samuel:14:19",
+      "numberLabel": "19",
+      "text": "And the king said, Is not the hand of Joab with thee in all this? And the woman answered and said, As thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that my lord the king hath spoken: for thy servant Joab, he bade me, and he put all these words in the mouth of thine handmaid:",
+      "metadata": {
+        "reference": "2 Samuel 14:19",
+        "verseKey": "kjv:2-samuel:14:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-samuel:14:20",
+      "numberLabel": "20",
+      "text": "To fetch about this form of speech hath thy servant Joab done this thing: and my lord is wise, according to the wisdom of an angel of God, to know all things that are in the earth.",
+      "metadata": {
+        "reference": "2 Samuel 14:20",
+        "verseKey": "kjv:2-samuel:14:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-samuel:14:21",
+      "numberLabel": "21",
+      "text": "And the king said unto Joab, Behold now, I have done this thing: go therefore, bring the young man Absalom again.",
+      "metadata": {
+        "reference": "2 Samuel 14:21",
+        "verseKey": "kjv:2-samuel:14:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-samuel:14:22",
+      "numberLabel": "22",
+      "text": "And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day thy servant knoweth that I have found grace in thy sight, my lord, O king, in that the king hath fulfilled the request of his servant.",
+      "metadata": {
+        "reference": "2 Samuel 14:22",
+        "verseKey": "kjv:2-samuel:14:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-samuel:14:23",
+      "numberLabel": "23",
+      "text": "So Joab arose and went to Geshur, and brought Absalom to Jerusalem.",
+      "metadata": {
+        "reference": "2 Samuel 14:23",
+        "verseKey": "kjv:2-samuel:14:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-samuel:14:24",
+      "numberLabel": "24",
+      "text": "And the king said, Let him turn to his own house, and let him not see my face. So Absalom returned to his own house, and saw not the king’s face.",
+      "metadata": {
+        "reference": "2 Samuel 14:24",
+        "verseKey": "kjv:2-samuel:14:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-samuel:14:25",
+      "numberLabel": "25",
+      "text": "But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him.",
+      "metadata": {
+        "reference": "2 Samuel 14:25",
+        "verseKey": "kjv:2-samuel:14:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-samuel:14:26",
+      "numberLabel": "26",
+      "text": "And when he polled his head, (for it was at every year’s end that he polled it: because the hair was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight.",
+      "metadata": {
+        "reference": "2 Samuel 14:26",
+        "verseKey": "kjv:2-samuel:14:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-samuel:14:27",
+      "numberLabel": "27",
+      "text": "And unto Absalom there were born three sons, and one daughter, whose name was Tamar: she was a woman of a fair countenance.",
+      "metadata": {
+        "reference": "2 Samuel 14:27",
+        "verseKey": "kjv:2-samuel:14:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-samuel:14:28",
+      "numberLabel": "28",
+      "text": "So Absalom dwelt two full years in Jerusalem, and saw not the king’s face.",
+      "metadata": {
+        "reference": "2 Samuel 14:28",
+        "verseKey": "kjv:2-samuel:14:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-samuel:14:29",
+      "numberLabel": "29",
+      "text": "Therefore Absalom sent for Joab, to have sent him to the king; but he would not come to him: and when he sent again the second time, he would not come.",
+      "metadata": {
+        "reference": "2 Samuel 14:29",
+        "verseKey": "kjv:2-samuel:14:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-samuel:14:30",
+      "numberLabel": "30",
+      "text": "Therefore he said unto his servants, See, Joab’s field is near mine, and he hath barley there; go and set it on fire. And Absalom’s servants set the field on fire.",
+      "metadata": {
+        "reference": "2 Samuel 14:30",
+        "verseKey": "kjv:2-samuel:14:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-samuel:14:31",
+      "numberLabel": "31",
+      "text": "Then Joab arose, and came to Absalom unto his house, and said unto him, Wherefore have thy servants set my field on fire?",
+      "metadata": {
+        "reference": "2 Samuel 14:31",
+        "verseKey": "kjv:2-samuel:14:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:2-samuel:14:32",
+      "numberLabel": "32",
+      "text": "And Absalom answered Joab, Behold, I sent unto thee, saying, Come hither, that I may send thee to the king, to say, Wherefore am I come from Geshur? it had been good for me to have been there still: now therefore let me see the king’s face; and if there be any iniquity in me, let him kill me.",
+      "metadata": {
+        "reference": "2 Samuel 14:32",
+        "verseKey": "kjv:2-samuel:14:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:2-samuel:14:33",
+      "numberLabel": "33",
+      "text": "So Joab came to the king, and told him: and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king: and the king kissed Absalom.",
+      "metadata": {
+        "reference": "2 Samuel 14:33",
+        "verseKey": "kjv:2-samuel:14:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

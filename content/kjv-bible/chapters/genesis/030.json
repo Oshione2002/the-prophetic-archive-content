@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-030",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 30,
+  "title": "Genesis 30",
+  "display_title": "Genesis 30",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 30,
+  "sortOrder": 1030,
+  "verseCount": 43,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:30:1",
+      "numberLabel": "1",
+      "text": "And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.",
+      "metadata": {
+        "reference": "Genesis 30:1",
+        "verseKey": "kjv:genesis:30:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:30:2",
+      "numberLabel": "2",
+      "text": "And Jacob’s anger was kindled against Rachel: and he said, Am I in God’s stead, who hath withheld from thee the fruit of the womb?",
+      "metadata": {
+        "reference": "Genesis 30:2",
+        "verseKey": "kjv:genesis:30:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:30:3",
+      "numberLabel": "3",
+      "text": "And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.",
+      "metadata": {
+        "reference": "Genesis 30:3",
+        "verseKey": "kjv:genesis:30:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:30:4",
+      "numberLabel": "4",
+      "text": "And she gave him Bilhah her handmaid to wife: and Jacob went in unto her.",
+      "metadata": {
+        "reference": "Genesis 30:4",
+        "verseKey": "kjv:genesis:30:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:30:5",
+      "numberLabel": "5",
+      "text": "And Bilhah conceived, and bare Jacob a son.",
+      "metadata": {
+        "reference": "Genesis 30:5",
+        "verseKey": "kjv:genesis:30:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:30:6",
+      "numberLabel": "6",
+      "text": "And Rachel said, God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan.",
+      "metadata": {
+        "reference": "Genesis 30:6",
+        "verseKey": "kjv:genesis:30:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:30:7",
+      "numberLabel": "7",
+      "text": "And Bilhah Rachel’s maid conceived again, and bare Jacob a second son.",
+      "metadata": {
+        "reference": "Genesis 30:7",
+        "verseKey": "kjv:genesis:30:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:30:8",
+      "numberLabel": "8",
+      "text": "And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali.",
+      "metadata": {
+        "reference": "Genesis 30:8",
+        "verseKey": "kjv:genesis:30:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:30:9",
+      "numberLabel": "9",
+      "text": "When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife.",
+      "metadata": {
+        "reference": "Genesis 30:9",
+        "verseKey": "kjv:genesis:30:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:30:10",
+      "numberLabel": "10",
+      "text": "And Zilpah Leah’s maid bare Jacob a son.",
+      "metadata": {
+        "reference": "Genesis 30:10",
+        "verseKey": "kjv:genesis:30:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:30:11",
+      "numberLabel": "11",
+      "text": "And Leah said, A troop cometh: and she called his name Gad.",
+      "metadata": {
+        "reference": "Genesis 30:11",
+        "verseKey": "kjv:genesis:30:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:30:12",
+      "numberLabel": "12",
+      "text": "And Zilpah Leah’s maid bare Jacob a second son.",
+      "metadata": {
+        "reference": "Genesis 30:12",
+        "verseKey": "kjv:genesis:30:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:30:13",
+      "numberLabel": "13",
+      "text": "And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.",
+      "metadata": {
+        "reference": "Genesis 30:13",
+        "verseKey": "kjv:genesis:30:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:30:14",
+      "numberLabel": "14",
+      "text": "And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son’s mandrakes.",
+      "metadata": {
+        "reference": "Genesis 30:14",
+        "verseKey": "kjv:genesis:30:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:30:15",
+      "numberLabel": "15",
+      "text": "And she said unto her, Is it a small matter that thou hast taken my husband? and wouldest thou take away my son’s mandrakes also? And Rachel said, Therefore he shall lie with thee to night for thy son’s mandrakes.",
+      "metadata": {
+        "reference": "Genesis 30:15",
+        "verseKey": "kjv:genesis:30:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:30:16",
+      "numberLabel": "16",
+      "text": "And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son’s mandrakes. And he lay with her that night.",
+      "metadata": {
+        "reference": "Genesis 30:16",
+        "verseKey": "kjv:genesis:30:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:30:17",
+      "numberLabel": "17",
+      "text": "And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son.",
+      "metadata": {
+        "reference": "Genesis 30:17",
+        "verseKey": "kjv:genesis:30:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:30:18",
+      "numberLabel": "18",
+      "text": "And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.",
+      "metadata": {
+        "reference": "Genesis 30:18",
+        "verseKey": "kjv:genesis:30:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:30:19",
+      "numberLabel": "19",
+      "text": "And Leah conceived again, and bare Jacob the sixth son.",
+      "metadata": {
+        "reference": "Genesis 30:19",
+        "verseKey": "kjv:genesis:30:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:30:20",
+      "numberLabel": "20",
+      "text": "And Leah said, God hath endued me with a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun.",
+      "metadata": {
+        "reference": "Genesis 30:20",
+        "verseKey": "kjv:genesis:30:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:30:21",
+      "numberLabel": "21",
+      "text": "And afterwards she bare a daughter, and called her name Dinah.",
+      "metadata": {
+        "reference": "Genesis 30:21",
+        "verseKey": "kjv:genesis:30:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:30:22",
+      "numberLabel": "22",
+      "text": "And God remembered Rachel, and God hearkened to her, and opened her womb.",
+      "metadata": {
+        "reference": "Genesis 30:22",
+        "verseKey": "kjv:genesis:30:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:30:23",
+      "numberLabel": "23",
+      "text": "And she conceived, and bare a son; and said, God hath taken away my reproach:",
+      "metadata": {
+        "reference": "Genesis 30:23",
+        "verseKey": "kjv:genesis:30:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:30:24",
+      "numberLabel": "24",
+      "text": "And she called his name Joseph; and said, The LORD shall add to me another son.",
+      "metadata": {
+        "reference": "Genesis 30:24",
+        "verseKey": "kjv:genesis:30:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:30:25",
+      "numberLabel": "25",
+      "text": "And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country.",
+      "metadata": {
+        "reference": "Genesis 30:25",
+        "verseKey": "kjv:genesis:30:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:30:26",
+      "numberLabel": "26",
+      "text": "Give me my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.",
+      "metadata": {
+        "reference": "Genesis 30:26",
+        "verseKey": "kjv:genesis:30:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:30:27",
+      "numberLabel": "27",
+      "text": "And Laban said unto him, I pray thee, if I have found favour in thine eyes, tarry: for I have learned by experience that the LORD hath blessed me for thy sake.",
+      "metadata": {
+        "reference": "Genesis 30:27",
+        "verseKey": "kjv:genesis:30:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:30:28",
+      "numberLabel": "28",
+      "text": "And he said, Appoint me thy wages, and I will give it.",
+      "metadata": {
+        "reference": "Genesis 30:28",
+        "verseKey": "kjv:genesis:30:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:30:29",
+      "numberLabel": "29",
+      "text": "And he said unto him, Thou knowest how I have served thee, and how thy cattle was with me.",
+      "metadata": {
+        "reference": "Genesis 30:29",
+        "verseKey": "kjv:genesis:30:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:30:30",
+      "numberLabel": "30",
+      "text": "For it was little which thou hadst before I came, and it is now increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also?",
+      "metadata": {
+        "reference": "Genesis 30:30",
+        "verseKey": "kjv:genesis:30:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:30:31",
+      "numberLabel": "31",
+      "text": "And he said, What shall I give thee? And Jacob said, Thou shalt not give me any thing: if thou wilt do this thing for me, I will again feed and keep thy flock.",
+      "metadata": {
+        "reference": "Genesis 30:31",
+        "verseKey": "kjv:genesis:30:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:30:32",
+      "numberLabel": "32",
+      "text": "I will pass through all thy flock to day, removing from thence all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and of such shall be my hire.",
+      "metadata": {
+        "reference": "Genesis 30:32",
+        "verseKey": "kjv:genesis:30:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:30:33",
+      "numberLabel": "33",
+      "text": "So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that is not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me.",
+      "metadata": {
+        "reference": "Genesis 30:33",
+        "verseKey": "kjv:genesis:30:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:30:34",
+      "numberLabel": "34",
+      "text": "And Laban said, Behold, I would it might be according to thy word.",
+      "metadata": {
+        "reference": "Genesis 30:34",
+        "verseKey": "kjv:genesis:30:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:genesis:30:35",
+      "numberLabel": "35",
+      "text": "And he removed that day the he goats that were ringstraked and spotted, and all the she goats that were speckled and spotted, and every one that had some white in it, and all the brown among the sheep, and gave them into the hand of his sons.",
+      "metadata": {
+        "reference": "Genesis 30:35",
+        "verseKey": "kjv:genesis:30:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:genesis:30:36",
+      "numberLabel": "36",
+      "text": "And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks.",
+      "metadata": {
+        "reference": "Genesis 30:36",
+        "verseKey": "kjv:genesis:30:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:genesis:30:37",
+      "numberLabel": "37",
+      "text": "And Jacob took him rods of green poplar, and of the hazel and chestnut tree; and pilled white strakes in them, and made the white appear which was in the rods.",
+      "metadata": {
+        "reference": "Genesis 30:37",
+        "verseKey": "kjv:genesis:30:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:genesis:30:38",
+      "numberLabel": "38",
+      "text": "And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.",
+      "metadata": {
+        "reference": "Genesis 30:38",
+        "verseKey": "kjv:genesis:30:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:genesis:30:39",
+      "numberLabel": "39",
+      "text": "And the flocks conceived before the rods, and brought forth cattle ringstraked, speckled, and spotted.",
+      "metadata": {
+        "reference": "Genesis 30:39",
+        "verseKey": "kjv:genesis:30:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:genesis:30:40",
+      "numberLabel": "40",
+      "text": "And Jacob did separate the lambs, and set the faces of the flocks toward the ringstraked, and all the brown in the flock of Laban; and he put his own flocks by themselves, and put them not unto Laban’s cattle.",
+      "metadata": {
+        "reference": "Genesis 30:40",
+        "verseKey": "kjv:genesis:30:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:genesis:30:41",
+      "numberLabel": "41",
+      "text": "And it came to pass, whensoever the stronger cattle did conceive, that Jacob laid the rods before the eyes of the cattle in the gutters, that they might conceive among the rods.",
+      "metadata": {
+        "reference": "Genesis 30:41",
+        "verseKey": "kjv:genesis:30:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:genesis:30:42",
+      "numberLabel": "42",
+      "text": "But when the cattle were feeble, he put them not in: so the feebler were Laban’s, and the stronger Jacob’s.",
+      "metadata": {
+        "reference": "Genesis 30:42",
+        "verseKey": "kjv:genesis:30:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:genesis:30:43",
+      "numberLabel": "43",
+      "text": "And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.",
+      "metadata": {
+        "reference": "Genesis 30:43",
+        "verseKey": "kjv:genesis:30:43"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

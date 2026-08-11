@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-046",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 46,
+  "title": "Psalms 46",
+  "display_title": "Psalms 46",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 46,
+  "sortOrder": 19046,
+  "verseCount": 11,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:46:1",
+      "numberLabel": "1",
+      "text": "God is our refuge and strength, a very present help in trouble.",
+      "metadata": {
+        "reference": "Psalms 46:1",
+        "verseKey": "kjv:psalms:46:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:46:2",
+      "numberLabel": "2",
+      "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+      "metadata": {
+        "reference": "Psalms 46:2",
+        "verseKey": "kjv:psalms:46:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:46:3",
+      "numberLabel": "3",
+      "text": "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.",
+      "metadata": {
+        "reference": "Psalms 46:3",
+        "verseKey": "kjv:psalms:46:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:46:4",
+      "numberLabel": "4",
+      "text": "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.",
+      "metadata": {
+        "reference": "Psalms 46:4",
+        "verseKey": "kjv:psalms:46:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:46:5",
+      "numberLabel": "5",
+      "text": "God is in the midst of her; she shall not be moved: God shall help her, and that right early.",
+      "metadata": {
+        "reference": "Psalms 46:5",
+        "verseKey": "kjv:psalms:46:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:46:6",
+      "numberLabel": "6",
+      "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
+      "metadata": {
+        "reference": "Psalms 46:6",
+        "verseKey": "kjv:psalms:46:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:46:7",
+      "numberLabel": "7",
+      "text": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah.",
+      "metadata": {
+        "reference": "Psalms 46:7",
+        "verseKey": "kjv:psalms:46:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:46:8",
+      "numberLabel": "8",
+      "text": "Come, behold the works of the LORD, what desolations he hath made in the earth.",
+      "metadata": {
+        "reference": "Psalms 46:8",
+        "verseKey": "kjv:psalms:46:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:46:9",
+      "numberLabel": "9",
+      "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
+      "metadata": {
+        "reference": "Psalms 46:9",
+        "verseKey": "kjv:psalms:46:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:46:10",
+      "numberLabel": "10",
+      "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.",
+      "metadata": {
+        "reference": "Psalms 46:10",
+        "verseKey": "kjv:psalms:46:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:46:11",
+      "numberLabel": "11",
+      "text": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah.",
+      "metadata": {
+        "reference": "Psalms 46:11",
+        "verseKey": "kjv:psalms:46:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-galatians-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Galatians 2",
+  "display_title": "Galatians 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "galatians",
+  "book": "Galatians",
+  "bookName": "Galatians",
+  "bookOrder": 48,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 48002,
+  "verseCount": 21,
+  "aliases": [
+    "Gal",
+    "Ga"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:galatians:2:1",
+      "numberLabel": "1",
+      "text": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.",
+      "metadata": {
+        "reference": "Galatians 2:1",
+        "verseKey": "kjv:galatians:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:galatians:2:2",
+      "numberLabel": "2",
+      "text": "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.",
+      "metadata": {
+        "reference": "Galatians 2:2",
+        "verseKey": "kjv:galatians:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:galatians:2:3",
+      "numberLabel": "3",
+      "text": "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:",
+      "metadata": {
+        "reference": "Galatians 2:3",
+        "verseKey": "kjv:galatians:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:galatians:2:4",
+      "numberLabel": "4",
+      "text": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:",
+      "metadata": {
+        "reference": "Galatians 2:4",
+        "verseKey": "kjv:galatians:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:galatians:2:5",
+      "numberLabel": "5",
+      "text": "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.",
+      "metadata": {
+        "reference": "Galatians 2:5",
+        "verseKey": "kjv:galatians:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:galatians:2:6",
+      "numberLabel": "6",
+      "text": "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed to be somewhat in conference added nothing to me:",
+      "metadata": {
+        "reference": "Galatians 2:6",
+        "verseKey": "kjv:galatians:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:galatians:2:7",
+      "numberLabel": "7",
+      "text": "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;",
+      "metadata": {
+        "reference": "Galatians 2:7",
+        "verseKey": "kjv:galatians:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:galatians:2:8",
+      "numberLabel": "8",
+      "text": "(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)",
+      "metadata": {
+        "reference": "Galatians 2:8",
+        "verseKey": "kjv:galatians:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:galatians:2:9",
+      "numberLabel": "9",
+      "text": "And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.",
+      "metadata": {
+        "reference": "Galatians 2:9",
+        "verseKey": "kjv:galatians:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:galatians:2:10",
+      "numberLabel": "10",
+      "text": "Only they would that we should remember the poor; the same which I also was forward to do.",
+      "metadata": {
+        "reference": "Galatians 2:10",
+        "verseKey": "kjv:galatians:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:galatians:2:11",
+      "numberLabel": "11",
+      "text": "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.",
+      "metadata": {
+        "reference": "Galatians 2:11",
+        "verseKey": "kjv:galatians:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:galatians:2:12",
+      "numberLabel": "12",
+      "text": "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.",
+      "metadata": {
+        "reference": "Galatians 2:12",
+        "verseKey": "kjv:galatians:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:galatians:2:13",
+      "numberLabel": "13",
+      "text": "And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.",
+      "metadata": {
+        "reference": "Galatians 2:13",
+        "verseKey": "kjv:galatians:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:galatians:2:14",
+      "numberLabel": "14",
+      "text": "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?",
+      "metadata": {
+        "reference": "Galatians 2:14",
+        "verseKey": "kjv:galatians:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:galatians:2:15",
+      "numberLabel": "15",
+      "text": "We who are Jews by nature, and not sinners of the Gentiles,",
+      "metadata": {
+        "reference": "Galatians 2:15",
+        "verseKey": "kjv:galatians:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:galatians:2:16",
+      "numberLabel": "16",
+      "text": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.",
+      "metadata": {
+        "reference": "Galatians 2:16",
+        "verseKey": "kjv:galatians:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:galatians:2:17",
+      "numberLabel": "17",
+      "text": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.",
+      "metadata": {
+        "reference": "Galatians 2:17",
+        "verseKey": "kjv:galatians:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:galatians:2:18",
+      "numberLabel": "18",
+      "text": "For if I build again the things which I destroyed, I make myself a transgressor.",
+      "metadata": {
+        "reference": "Galatians 2:18",
+        "verseKey": "kjv:galatians:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:galatians:2:19",
+      "numberLabel": "19",
+      "text": "For I through the law am dead to the law, that I might live unto God.",
+      "metadata": {
+        "reference": "Galatians 2:19",
+        "verseKey": "kjv:galatians:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:galatians:2:20",
+      "numberLabel": "20",
+      "text": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.",
+      "metadata": {
+        "reference": "Galatians 2:20",
+        "verseKey": "kjv:galatians:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:galatians:2:21",
+      "numberLabel": "21",
+      "text": "I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.",
+      "metadata": {
+        "reference": "Galatians 2:21",
+        "verseKey": "kjv:galatians:2:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Galatians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Galatians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

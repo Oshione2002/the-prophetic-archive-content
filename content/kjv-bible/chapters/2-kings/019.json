@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-kings-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "2 Kings 19",
+  "display_title": "2 Kings 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-kings",
+  "book": "2 Kings",
+  "bookName": "2 Kings",
+  "bookOrder": 12,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 12019,
+  "verseCount": 37,
+  "aliases": [
+    "2 Kgs",
+    "2Kgs",
+    "2 Ki",
+    "2Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-kings:19:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 19:1",
+        "verseKey": "kjv:2-kings:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-kings:19:2",
+      "numberLabel": "2",
+      "text": "And he sent Eliakim, which was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.",
+      "metadata": {
+        "reference": "2 Kings 19:2",
+        "verseKey": "kjv:2-kings:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-kings:19:3",
+      "numberLabel": "3",
+      "text": "And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy; for the children are come to the birth, and there is not strength to bring forth.",
+      "metadata": {
+        "reference": "2 Kings 19:3",
+        "verseKey": "kjv:2-kings:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-kings:19:4",
+      "numberLabel": "4",
+      "text": "It may be the LORD thy God will hear all the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up thy prayer for the remnant that are left.",
+      "metadata": {
+        "reference": "2 Kings 19:4",
+        "verseKey": "kjv:2-kings:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-kings:19:5",
+      "numberLabel": "5",
+      "text": "So the servants of king Hezekiah came to Isaiah.",
+      "metadata": {
+        "reference": "2 Kings 19:5",
+        "verseKey": "kjv:2-kings:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-kings:19:6",
+      "numberLabel": "6",
+      "text": "And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.",
+      "metadata": {
+        "reference": "2 Kings 19:6",
+        "verseKey": "kjv:2-kings:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-kings:19:7",
+      "numberLabel": "7",
+      "text": "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land.",
+      "metadata": {
+        "reference": "2 Kings 19:7",
+        "verseKey": "kjv:2-kings:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-kings:19:8",
+      "numberLabel": "8",
+      "text": "So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.",
+      "metadata": {
+        "reference": "2 Kings 19:8",
+        "verseKey": "kjv:2-kings:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-kings:19:9",
+      "numberLabel": "9",
+      "text": "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,",
+      "metadata": {
+        "reference": "2 Kings 19:9",
+        "verseKey": "kjv:2-kings:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-kings:19:10",
+      "numberLabel": "10",
+      "text": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.",
+      "metadata": {
+        "reference": "2 Kings 19:10",
+        "verseKey": "kjv:2-kings:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-kings:19:11",
+      "numberLabel": "11",
+      "text": "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?",
+      "metadata": {
+        "reference": "2 Kings 19:11",
+        "verseKey": "kjv:2-kings:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-kings:19:12",
+      "numberLabel": "12",
+      "text": "Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar?",
+      "metadata": {
+        "reference": "2 Kings 19:12",
+        "verseKey": "kjv:2-kings:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-kings:19:13",
+      "numberLabel": "13",
+      "text": "Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?",
+      "metadata": {
+        "reference": "2 Kings 19:13",
+        "verseKey": "kjv:2-kings:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-kings:19:14",
+      "numberLabel": "14",
+      "text": "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.",
+      "metadata": {
+        "reference": "2 Kings 19:14",
+        "verseKey": "kjv:2-kings:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-kings:19:15",
+      "numberLabel": "15",
+      "text": "And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest between the cherubims, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.",
+      "metadata": {
+        "reference": "2 Kings 19:15",
+        "verseKey": "kjv:2-kings:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-kings:19:16",
+      "numberLabel": "16",
+      "text": "LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.",
+      "metadata": {
+        "reference": "2 Kings 19:16",
+        "verseKey": "kjv:2-kings:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-kings:19:17",
+      "numberLabel": "17",
+      "text": "Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,",
+      "metadata": {
+        "reference": "2 Kings 19:17",
+        "verseKey": "kjv:2-kings:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-kings:19:18",
+      "numberLabel": "18",
+      "text": "And have cast their gods into the fire: for they were no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them.",
+      "metadata": {
+        "reference": "2 Kings 19:18",
+        "verseKey": "kjv:2-kings:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-kings:19:19",
+      "numberLabel": "19",
+      "text": "Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou art the LORD God, even thou only.",
+      "metadata": {
+        "reference": "2 Kings 19:19",
+        "verseKey": "kjv:2-kings:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-kings:19:20",
+      "numberLabel": "20",
+      "text": "Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, That which thou hast prayed to me against Sennacherib king of Assyria I have heard.",
+      "metadata": {
+        "reference": "2 Kings 19:20",
+        "verseKey": "kjv:2-kings:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-kings:19:21",
+      "numberLabel": "21",
+      "text": "This is the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.",
+      "metadata": {
+        "reference": "2 Kings 19:21",
+        "verseKey": "kjv:2-kings:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-kings:19:22",
+      "numberLabel": "22",
+      "text": "Whom hast thou reproached and blasphemed? and against whom hast thou exalted thy voice, and lifted up thine eyes on high? even against the Holy One of Israel.",
+      "metadata": {
+        "reference": "2 Kings 19:22",
+        "verseKey": "kjv:2-kings:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-kings:19:23",
+      "numberLabel": "23",
+      "text": "By thy messengers thou hast reproached the LORD, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodgings of his borders, and into the forest of his Carmel.",
+      "metadata": {
+        "reference": "2 Kings 19:23",
+        "verseKey": "kjv:2-kings:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-kings:19:24",
+      "numberLabel": "24",
+      "text": "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.",
+      "metadata": {
+        "reference": "2 Kings 19:24",
+        "verseKey": "kjv:2-kings:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-kings:19:25",
+      "numberLabel": "25",
+      "text": "Hast thou not heard long ago how I have done it, and of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities into ruinous heaps.",
+      "metadata": {
+        "reference": "2 Kings 19:25",
+        "verseKey": "kjv:2-kings:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-kings:19:26",
+      "numberLabel": "26",
+      "text": "Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the house tops, and as corn blasted before it be grown up.",
+      "metadata": {
+        "reference": "2 Kings 19:26",
+        "verseKey": "kjv:2-kings:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-kings:19:27",
+      "numberLabel": "27",
+      "text": "But I know thy abode, and thy going out, and thy coming in, and thy rage against me.",
+      "metadata": {
+        "reference": "2 Kings 19:27",
+        "verseKey": "kjv:2-kings:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-kings:19:28",
+      "numberLabel": "28",
+      "text": "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.",
+      "metadata": {
+        "reference": "2 Kings 19:28",
+        "verseKey": "kjv:2-kings:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-kings:19:29",
+      "numberLabel": "29",
+      "text": "And this shall be a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof.",
+      "metadata": {
+        "reference": "2 Kings 19:29",
+        "verseKey": "kjv:2-kings:19:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-kings:19:30",
+      "numberLabel": "30",
+      "text": "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.",
+      "metadata": {
+        "reference": "2 Kings 19:30",
+        "verseKey": "kjv:2-kings:19:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-kings:19:31",
+      "numberLabel": "31",
+      "text": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this.",
+      "metadata": {
+        "reference": "2 Kings 19:31",
+        "verseKey": "kjv:2-kings:19:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:2-kings:19:32",
+      "numberLabel": "32",
+      "text": "Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.",
+      "metadata": {
+        "reference": "2 Kings 19:32",
+        "verseKey": "kjv:2-kings:19:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:2-kings:19:33",
+      "numberLabel": "33",
+      "text": "By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD.",
+      "metadata": {
+        "reference": "2 Kings 19:33",
+        "verseKey": "kjv:2-kings:19:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:2-kings:19:34",
+      "numberLabel": "34",
+      "text": "For I will defend this city, to save it, for mine own sake, and for my servant David’s sake.",
+      "metadata": {
+        "reference": "2 Kings 19:34",
+        "verseKey": "kjv:2-kings:19:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:2-kings:19:35",
+      "numberLabel": "35",
+      "text": "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses.",
+      "metadata": {
+        "reference": "2 Kings 19:35",
+        "verseKey": "kjv:2-kings:19:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:2-kings:19:36",
+      "numberLabel": "36",
+      "text": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.",
+      "metadata": {
+        "reference": "2 Kings 19:36",
+        "verseKey": "kjv:2-kings:19:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:2-kings:19:37",
+      "numberLabel": "37",
+      "text": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.",
+      "metadata": {
+        "reference": "2 Kings 19:37",
+        "verseKey": "kjv:2-kings:19:37"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

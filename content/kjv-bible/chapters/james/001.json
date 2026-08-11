@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-james-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "James 1",
+  "display_title": "James 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "james",
+  "book": "James",
+  "bookName": "James",
+  "bookOrder": 59,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 59001,
+  "verseCount": 27,
+  "aliases": [
+    "Jas",
+    "Jam",
+    "Jm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:james:1:1",
+      "numberLabel": "1",
+      "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.",
+      "metadata": {
+        "reference": "James 1:1",
+        "verseKey": "kjv:james:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:james:1:2",
+      "numberLabel": "2",
+      "text": "My brethren, count it all joy when ye fall into divers temptations;",
+      "metadata": {
+        "reference": "James 1:2",
+        "verseKey": "kjv:james:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:james:1:3",
+      "numberLabel": "3",
+      "text": "Knowing this, that the trying of your faith worketh patience.",
+      "metadata": {
+        "reference": "James 1:3",
+        "verseKey": "kjv:james:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:james:1:4",
+      "numberLabel": "4",
+      "text": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.",
+      "metadata": {
+        "reference": "James 1:4",
+        "verseKey": "kjv:james:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:james:1:5",
+      "numberLabel": "5",
+      "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+      "metadata": {
+        "reference": "James 1:5",
+        "verseKey": "kjv:james:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:james:1:6",
+      "numberLabel": "6",
+      "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
+      "metadata": {
+        "reference": "James 1:6",
+        "verseKey": "kjv:james:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:james:1:7",
+      "numberLabel": "7",
+      "text": "For let not that man think that he shall receive any thing of the Lord.",
+      "metadata": {
+        "reference": "James 1:7",
+        "verseKey": "kjv:james:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:james:1:8",
+      "numberLabel": "8",
+      "text": "A double minded man is unstable in all his ways.",
+      "metadata": {
+        "reference": "James 1:8",
+        "verseKey": "kjv:james:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:james:1:9",
+      "numberLabel": "9",
+      "text": "Let the brother of low degree rejoice in that he is exalted:",
+      "metadata": {
+        "reference": "James 1:9",
+        "verseKey": "kjv:james:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:james:1:10",
+      "numberLabel": "10",
+      "text": "But the rich, in that he is made low: because as the flower of the grass he shall pass away.",
+      "metadata": {
+        "reference": "James 1:10",
+        "verseKey": "kjv:james:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:james:1:11",
+      "numberLabel": "11",
+      "text": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.",
+      "metadata": {
+        "reference": "James 1:11",
+        "verseKey": "kjv:james:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:james:1:12",
+      "numberLabel": "12",
+      "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+      "metadata": {
+        "reference": "James 1:12",
+        "verseKey": "kjv:james:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:james:1:13",
+      "numberLabel": "13",
+      "text": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
+      "metadata": {
+        "reference": "James 1:13",
+        "verseKey": "kjv:james:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:james:1:14",
+      "numberLabel": "14",
+      "text": "But every man is tempted, when he is drawn away of his own lust, and enticed.",
+      "metadata": {
+        "reference": "James 1:14",
+        "verseKey": "kjv:james:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:james:1:15",
+      "numberLabel": "15",
+      "text": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
+      "metadata": {
+        "reference": "James 1:15",
+        "verseKey": "kjv:james:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:james:1:16",
+      "numberLabel": "16",
+      "text": "Do not err, my beloved brethren.",
+      "metadata": {
+        "reference": "James 1:16",
+        "verseKey": "kjv:james:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:james:1:17",
+      "numberLabel": "17",
+      "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+      "metadata": {
+        "reference": "James 1:17",
+        "verseKey": "kjv:james:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:james:1:18",
+      "numberLabel": "18",
+      "text": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
+      "metadata": {
+        "reference": "James 1:18",
+        "verseKey": "kjv:james:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:james:1:19",
+      "numberLabel": "19",
+      "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+      "metadata": {
+        "reference": "James 1:19",
+        "verseKey": "kjv:james:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:james:1:20",
+      "numberLabel": "20",
+      "text": "For the wrath of man worketh not the righteousness of God.",
+      "metadata": {
+        "reference": "James 1:20",
+        "verseKey": "kjv:james:1:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:james:1:21",
+      "numberLabel": "21",
+      "text": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.",
+      "metadata": {
+        "reference": "James 1:21",
+        "verseKey": "kjv:james:1:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:james:1:22",
+      "numberLabel": "22",
+      "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+      "metadata": {
+        "reference": "James 1:22",
+        "verseKey": "kjv:james:1:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:james:1:23",
+      "numberLabel": "23",
+      "text": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
+      "metadata": {
+        "reference": "James 1:23",
+        "verseKey": "kjv:james:1:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:james:1:24",
+      "numberLabel": "24",
+      "text": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.",
+      "metadata": {
+        "reference": "James 1:24",
+        "verseKey": "kjv:james:1:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:james:1:25",
+      "numberLabel": "25",
+      "text": "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
+      "metadata": {
+        "reference": "James 1:25",
+        "verseKey": "kjv:james:1:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:james:1:26",
+      "numberLabel": "26",
+      "text": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.",
+      "metadata": {
+        "reference": "James 1:26",
+        "verseKey": "kjv:james:1:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:james:1:27",
+      "numberLabel": "27",
+      "text": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.",
+      "metadata": {
+        "reference": "James 1:27",
+        "verseKey": "kjv:james:1:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "James.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/James.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

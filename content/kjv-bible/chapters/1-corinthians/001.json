@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-corinthians-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "1 Corinthians 1",
+  "display_title": "1 Corinthians 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-corinthians",
+  "book": "1 Corinthians",
+  "bookName": "1 Corinthians",
+  "bookOrder": 46,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 46001,
+  "verseCount": 31,
+  "aliases": [
+    "1 Cor",
+    "1Cor",
+    "1 Co",
+    "1Co"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-corinthians:1:1",
+      "numberLabel": "1",
+      "text": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,",
+      "metadata": {
+        "reference": "1 Corinthians 1:1",
+        "verseKey": "kjv:1-corinthians:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-corinthians:1:2",
+      "numberLabel": "2",
+      "text": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
+      "metadata": {
+        "reference": "1 Corinthians 1:2",
+        "verseKey": "kjv:1-corinthians:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-corinthians:1:3",
+      "numberLabel": "3",
+      "text": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.",
+      "metadata": {
+        "reference": "1 Corinthians 1:3",
+        "verseKey": "kjv:1-corinthians:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-corinthians:1:4",
+      "numberLabel": "4",
+      "text": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;",
+      "metadata": {
+        "reference": "1 Corinthians 1:4",
+        "verseKey": "kjv:1-corinthians:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-corinthians:1:5",
+      "numberLabel": "5",
+      "text": "That in every thing ye are enriched by him, in all utterance, and in all knowledge;",
+      "metadata": {
+        "reference": "1 Corinthians 1:5",
+        "verseKey": "kjv:1-corinthians:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-corinthians:1:6",
+      "numberLabel": "6",
+      "text": "Even as the testimony of Christ was confirmed in you:",
+      "metadata": {
+        "reference": "1 Corinthians 1:6",
+        "verseKey": "kjv:1-corinthians:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-corinthians:1:7",
+      "numberLabel": "7",
+      "text": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:",
+      "metadata": {
+        "reference": "1 Corinthians 1:7",
+        "verseKey": "kjv:1-corinthians:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-corinthians:1:8",
+      "numberLabel": "8",
+      "text": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.",
+      "metadata": {
+        "reference": "1 Corinthians 1:8",
+        "verseKey": "kjv:1-corinthians:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-corinthians:1:9",
+      "numberLabel": "9",
+      "text": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
+      "metadata": {
+        "reference": "1 Corinthians 1:9",
+        "verseKey": "kjv:1-corinthians:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-corinthians:1:10",
+      "numberLabel": "10",
+      "text": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.",
+      "metadata": {
+        "reference": "1 Corinthians 1:10",
+        "verseKey": "kjv:1-corinthians:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-corinthians:1:11",
+      "numberLabel": "11",
+      "text": "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.",
+      "metadata": {
+        "reference": "1 Corinthians 1:11",
+        "verseKey": "kjv:1-corinthians:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-corinthians:1:12",
+      "numberLabel": "12",
+      "text": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.",
+      "metadata": {
+        "reference": "1 Corinthians 1:12",
+        "verseKey": "kjv:1-corinthians:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-corinthians:1:13",
+      "numberLabel": "13",
+      "text": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
+      "metadata": {
+        "reference": "1 Corinthians 1:13",
+        "verseKey": "kjv:1-corinthians:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-corinthians:1:14",
+      "numberLabel": "14",
+      "text": "I thank God that I baptized none of you, but Crispus and Gaius;",
+      "metadata": {
+        "reference": "1 Corinthians 1:14",
+        "verseKey": "kjv:1-corinthians:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-corinthians:1:15",
+      "numberLabel": "15",
+      "text": "Lest any should say that I had baptized in mine own name.",
+      "metadata": {
+        "reference": "1 Corinthians 1:15",
+        "verseKey": "kjv:1-corinthians:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-corinthians:1:16",
+      "numberLabel": "16",
+      "text": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.",
+      "metadata": {
+        "reference": "1 Corinthians 1:16",
+        "verseKey": "kjv:1-corinthians:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-corinthians:1:17",
+      "numberLabel": "17",
+      "text": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.",
+      "metadata": {
+        "reference": "1 Corinthians 1:17",
+        "verseKey": "kjv:1-corinthians:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-corinthians:1:18",
+      "numberLabel": "18",
+      "text": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+      "metadata": {
+        "reference": "1 Corinthians 1:18",
+        "verseKey": "kjv:1-corinthians:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-corinthians:1:19",
+      "numberLabel": "19",
+      "text": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.",
+      "metadata": {
+        "reference": "1 Corinthians 1:19",
+        "verseKey": "kjv:1-corinthians:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-corinthians:1:20",
+      "numberLabel": "20",
+      "text": "Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?",
+      "metadata": {
+        "reference": "1 Corinthians 1:20",
+        "verseKey": "kjv:1-corinthians:1:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-corinthians:1:21",
+      "numberLabel": "21",
+      "text": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.",
+      "metadata": {
+        "reference": "1 Corinthians 1:21",
+        "verseKey": "kjv:1-corinthians:1:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-corinthians:1:22",
+      "numberLabel": "22",
+      "text": "For the Jews require a sign, and the Greeks seek after wisdom:",
+      "metadata": {
+        "reference": "1 Corinthians 1:22",
+        "verseKey": "kjv:1-corinthians:1:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-corinthians:1:23",
+      "numberLabel": "23",
+      "text": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;",
+      "metadata": {
+        "reference": "1 Corinthians 1:23",
+        "verseKey": "kjv:1-corinthians:1:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-corinthians:1:24",
+      "numberLabel": "24",
+      "text": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.",
+      "metadata": {
+        "reference": "1 Corinthians 1:24",
+        "verseKey": "kjv:1-corinthians:1:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-corinthians:1:25",
+      "numberLabel": "25",
+      "text": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.",
+      "metadata": {
+        "reference": "1 Corinthians 1:25",
+        "verseKey": "kjv:1-corinthians:1:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-corinthians:1:26",
+      "numberLabel": "26",
+      "text": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:",
+      "metadata": {
+        "reference": "1 Corinthians 1:26",
+        "verseKey": "kjv:1-corinthians:1:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-corinthians:1:27",
+      "numberLabel": "27",
+      "text": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
+      "metadata": {
+        "reference": "1 Corinthians 1:27",
+        "verseKey": "kjv:1-corinthians:1:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-corinthians:1:28",
+      "numberLabel": "28",
+      "text": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:",
+      "metadata": {
+        "reference": "1 Corinthians 1:28",
+        "verseKey": "kjv:1-corinthians:1:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-corinthians:1:29",
+      "numberLabel": "29",
+      "text": "That no flesh should glory in his presence.",
+      "metadata": {
+        "reference": "1 Corinthians 1:29",
+        "verseKey": "kjv:1-corinthians:1:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-corinthians:1:30",
+      "numberLabel": "30",
+      "text": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
+      "metadata": {
+        "reference": "1 Corinthians 1:30",
+        "verseKey": "kjv:1-corinthians:1:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-corinthians:1:31",
+      "numberLabel": "31",
+      "text": "That, according as it is written, He that glorieth, let him glory in the Lord.",
+      "metadata": {
+        "reference": "1 Corinthians 1:31",
+        "verseKey": "kjv:1-corinthians:1:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Corinthians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Corinthians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

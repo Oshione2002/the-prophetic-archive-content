@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-044",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 44,
+  "title": "Jeremiah 44",
+  "display_title": "Jeremiah 44",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 44,
+  "sortOrder": 24044,
+  "verseCount": 30,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:44:1",
+      "numberLabel": "1",
+      "text": "The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,",
+      "metadata": {
+        "reference": "Jeremiah 44:1",
+        "verseKey": "kjv:jeremiah:44:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:44:2",
+      "numberLabel": "2",
+      "text": "Thus saith the LORD of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,",
+      "metadata": {
+        "reference": "Jeremiah 44:2",
+        "verseKey": "kjv:jeremiah:44:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:44:3",
+      "numberLabel": "3",
+      "text": "Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, and to serve other gods, whom they knew not, neither they, ye, nor your fathers.",
+      "metadata": {
+        "reference": "Jeremiah 44:3",
+        "verseKey": "kjv:jeremiah:44:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:44:4",
+      "numberLabel": "4",
+      "text": "Howbeit I sent unto you all my servants the prophets, rising early and sending them, saying, Oh, do not this abominable thing that I hate.",
+      "metadata": {
+        "reference": "Jeremiah 44:4",
+        "verseKey": "kjv:jeremiah:44:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:44:5",
+      "numberLabel": "5",
+      "text": "But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.",
+      "metadata": {
+        "reference": "Jeremiah 44:5",
+        "verseKey": "kjv:jeremiah:44:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:44:6",
+      "numberLabel": "6",
+      "text": "Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted and desolate, as at this day.",
+      "metadata": {
+        "reference": "Jeremiah 44:6",
+        "verseKey": "kjv:jeremiah:44:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:44:7",
+      "numberLabel": "7",
+      "text": "Therefore now thus saith the LORD, the God of hosts, the God of Israel; Wherefore commit ye this great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;",
+      "metadata": {
+        "reference": "Jeremiah 44:7",
+        "verseKey": "kjv:jeremiah:44:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:44:8",
+      "numberLabel": "8",
+      "text": "In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?",
+      "metadata": {
+        "reference": "Jeremiah 44:8",
+        "verseKey": "kjv:jeremiah:44:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:44:9",
+      "numberLabel": "9",
+      "text": "Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?",
+      "metadata": {
+        "reference": "Jeremiah 44:9",
+        "verseKey": "kjv:jeremiah:44:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:44:10",
+      "numberLabel": "10",
+      "text": "They are not humbled even unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.",
+      "metadata": {
+        "reference": "Jeremiah 44:10",
+        "verseKey": "kjv:jeremiah:44:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:44:11",
+      "numberLabel": "11",
+      "text": "Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.",
+      "metadata": {
+        "reference": "Jeremiah 44:11",
+        "verseKey": "kjv:jeremiah:44:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:44:12",
+      "numberLabel": "12",
+      "text": "And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, and an astonishment, and a curse, and a reproach.",
+      "metadata": {
+        "reference": "Jeremiah 44:12",
+        "verseKey": "kjv:jeremiah:44:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:44:13",
+      "numberLabel": "13",
+      "text": "For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:",
+      "metadata": {
+        "reference": "Jeremiah 44:13",
+        "verseKey": "kjv:jeremiah:44:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:44:14",
+      "numberLabel": "14",
+      "text": "So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.",
+      "metadata": {
+        "reference": "Jeremiah 44:14",
+        "verseKey": "kjv:jeremiah:44:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:44:15",
+      "numberLabel": "15",
+      "text": "Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,",
+      "metadata": {
+        "reference": "Jeremiah 44:15",
+        "verseKey": "kjv:jeremiah:44:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:44:16",
+      "numberLabel": "16",
+      "text": "As for the word that thou hast spoken unto us in the name of the LORD, we will not hearken unto thee.",
+      "metadata": {
+        "reference": "Jeremiah 44:16",
+        "verseKey": "kjv:jeremiah:44:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:44:17",
+      "numberLabel": "17",
+      "text": "But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of victuals, and were well, and saw no evil.",
+      "metadata": {
+        "reference": "Jeremiah 44:17",
+        "verseKey": "kjv:jeremiah:44:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:44:18",
+      "numberLabel": "18",
+      "text": "But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all things, and have been consumed by the sword and by the famine.",
+      "metadata": {
+        "reference": "Jeremiah 44:18",
+        "verseKey": "kjv:jeremiah:44:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:44:19",
+      "numberLabel": "19",
+      "text": "And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men?",
+      "metadata": {
+        "reference": "Jeremiah 44:19",
+        "verseKey": "kjv:jeremiah:44:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:44:20",
+      "numberLabel": "20",
+      "text": "Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him that answer, saying,",
+      "metadata": {
+        "reference": "Jeremiah 44:20",
+        "verseKey": "kjv:jeremiah:44:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:44:21",
+      "numberLabel": "21",
+      "text": "The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the LORD remember them, and came it not into his mind?",
+      "metadata": {
+        "reference": "Jeremiah 44:21",
+        "verseKey": "kjv:jeremiah:44:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:44:22",
+      "numberLabel": "22",
+      "text": "So that the LORD could no longer bear, because of the evil of your doings, and because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day.",
+      "metadata": {
+        "reference": "Jeremiah 44:22",
+        "verseKey": "kjv:jeremiah:44:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:jeremiah:44:23",
+      "numberLabel": "23",
+      "text": "Because ye have burned incense, and because ye have sinned against the LORD, and have not obeyed the voice of the LORD, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day.",
+      "metadata": {
+        "reference": "Jeremiah 44:23",
+        "verseKey": "kjv:jeremiah:44:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:jeremiah:44:24",
+      "numberLabel": "24",
+      "text": "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the LORD, all Judah that are in the land of Egypt:",
+      "metadata": {
+        "reference": "Jeremiah 44:24",
+        "verseKey": "kjv:jeremiah:44:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:jeremiah:44:25",
+      "numberLabel": "25",
+      "text": "Thus saith the LORD of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows.",
+      "metadata": {
+        "reference": "Jeremiah 44:25",
+        "verseKey": "kjv:jeremiah:44:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:jeremiah:44:26",
+      "numberLabel": "26",
+      "text": "Therefore hear ye the word of the LORD, all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the LORD, that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord GOD liveth.",
+      "metadata": {
+        "reference": "Jeremiah 44:26",
+        "verseKey": "kjv:jeremiah:44:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:jeremiah:44:27",
+      "numberLabel": "27",
+      "text": "Behold, I will watch over them for evil, and not for good: and all the men of Judah that are in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them.",
+      "metadata": {
+        "reference": "Jeremiah 44:27",
+        "verseKey": "kjv:jeremiah:44:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:jeremiah:44:28",
+      "numberLabel": "28",
+      "text": "Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.",
+      "metadata": {
+        "reference": "Jeremiah 44:28",
+        "verseKey": "kjv:jeremiah:44:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:jeremiah:44:29",
+      "numberLabel": "29",
+      "text": "And this shall be a sign unto you, saith the LORD, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:",
+      "metadata": {
+        "reference": "Jeremiah 44:29",
+        "verseKey": "kjv:jeremiah:44:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:jeremiah:44:30",
+      "numberLabel": "30",
+      "text": "Thus saith the LORD; Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.",
+      "metadata": {
+        "reference": "Jeremiah 44:30",
+        "verseKey": "kjv:jeremiah:44:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

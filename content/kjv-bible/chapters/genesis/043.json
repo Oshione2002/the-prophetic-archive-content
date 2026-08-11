@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-043",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 43,
+  "title": "Genesis 43",
+  "display_title": "Genesis 43",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 43,
+  "sortOrder": 1043,
+  "verseCount": 34,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:43:1",
+      "numberLabel": "1",
+      "text": "And the famine was sore in the land.",
+      "metadata": {
+        "reference": "Genesis 43:1",
+        "verseKey": "kjv:genesis:43:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:43:2",
+      "numberLabel": "2",
+      "text": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.",
+      "metadata": {
+        "reference": "Genesis 43:2",
+        "verseKey": "kjv:genesis:43:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:43:3",
+      "numberLabel": "3",
+      "text": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you.",
+      "metadata": {
+        "reference": "Genesis 43:3",
+        "verseKey": "kjv:genesis:43:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:43:4",
+      "numberLabel": "4",
+      "text": "If thou wilt send our brother with us, we will go down and buy thee food:",
+      "metadata": {
+        "reference": "Genesis 43:4",
+        "verseKey": "kjv:genesis:43:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:43:5",
+      "numberLabel": "5",
+      "text": "But if thou wilt not send him, we will not go down: for the man said unto us, Ye shall not see my face, except your brother be with you.",
+      "metadata": {
+        "reference": "Genesis 43:5",
+        "verseKey": "kjv:genesis:43:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:43:6",
+      "numberLabel": "6",
+      "text": "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?",
+      "metadata": {
+        "reference": "Genesis 43:6",
+        "verseKey": "kjv:genesis:43:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:43:7",
+      "numberLabel": "7",
+      "text": "And they said, The man asked us straitly of our state, and of our kindred, saying, Is your father yet alive? have ye another brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?",
+      "metadata": {
+        "reference": "Genesis 43:7",
+        "verseKey": "kjv:genesis:43:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:43:8",
+      "numberLabel": "8",
+      "text": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones.",
+      "metadata": {
+        "reference": "Genesis 43:8",
+        "verseKey": "kjv:genesis:43:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:43:9",
+      "numberLabel": "9",
+      "text": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:",
+      "metadata": {
+        "reference": "Genesis 43:9",
+        "verseKey": "kjv:genesis:43:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:43:10",
+      "numberLabel": "10",
+      "text": "For except we had lingered, surely now we had returned this second time.",
+      "metadata": {
+        "reference": "Genesis 43:10",
+        "verseKey": "kjv:genesis:43:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:43:11",
+      "numberLabel": "11",
+      "text": "And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:",
+      "metadata": {
+        "reference": "Genesis 43:11",
+        "verseKey": "kjv:genesis:43:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:43:12",
+      "numberLabel": "12",
+      "text": "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:",
+      "metadata": {
+        "reference": "Genesis 43:12",
+        "verseKey": "kjv:genesis:43:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:43:13",
+      "numberLabel": "13",
+      "text": "Take also your brother, and arise, go again unto the man:",
+      "metadata": {
+        "reference": "Genesis 43:13",
+        "verseKey": "kjv:genesis:43:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:43:14",
+      "numberLabel": "14",
+      "text": "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved.",
+      "metadata": {
+        "reference": "Genesis 43:14",
+        "verseKey": "kjv:genesis:43:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:43:15",
+      "numberLabel": "15",
+      "text": "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
+      "metadata": {
+        "reference": "Genesis 43:15",
+        "verseKey": "kjv:genesis:43:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:43:16",
+      "numberLabel": "16",
+      "text": "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon.",
+      "metadata": {
+        "reference": "Genesis 43:16",
+        "verseKey": "kjv:genesis:43:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:43:17",
+      "numberLabel": "17",
+      "text": "And the man did as Joseph bade; and the man brought the men into Joseph’s house.",
+      "metadata": {
+        "reference": "Genesis 43:17",
+        "verseKey": "kjv:genesis:43:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:43:18",
+      "numberLabel": "18",
+      "text": "And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.",
+      "metadata": {
+        "reference": "Genesis 43:18",
+        "verseKey": "kjv:genesis:43:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:43:19",
+      "numberLabel": "19",
+      "text": "And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,",
+      "metadata": {
+        "reference": "Genesis 43:19",
+        "verseKey": "kjv:genesis:43:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:43:20",
+      "numberLabel": "20",
+      "text": "And said, O sir, we came indeed down at the first time to buy food:",
+      "metadata": {
+        "reference": "Genesis 43:20",
+        "verseKey": "kjv:genesis:43:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:43:21",
+      "numberLabel": "21",
+      "text": "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, every man’s money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand.",
+      "metadata": {
+        "reference": "Genesis 43:21",
+        "verseKey": "kjv:genesis:43:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:43:22",
+      "numberLabel": "22",
+      "text": "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.",
+      "metadata": {
+        "reference": "Genesis 43:22",
+        "verseKey": "kjv:genesis:43:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:43:23",
+      "numberLabel": "23",
+      "text": "And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.",
+      "metadata": {
+        "reference": "Genesis 43:23",
+        "verseKey": "kjv:genesis:43:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:43:24",
+      "numberLabel": "24",
+      "text": "And the man brought the men into Joseph’s house, and gave them water, and they washed their feet; and he gave their asses provender.",
+      "metadata": {
+        "reference": "Genesis 43:24",
+        "verseKey": "kjv:genesis:43:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:43:25",
+      "numberLabel": "25",
+      "text": "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.",
+      "metadata": {
+        "reference": "Genesis 43:25",
+        "verseKey": "kjv:genesis:43:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:43:26",
+      "numberLabel": "26",
+      "text": "And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth.",
+      "metadata": {
+        "reference": "Genesis 43:26",
+        "verseKey": "kjv:genesis:43:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:43:27",
+      "numberLabel": "27",
+      "text": "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?",
+      "metadata": {
+        "reference": "Genesis 43:27",
+        "verseKey": "kjv:genesis:43:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:43:28",
+      "numberLabel": "28",
+      "text": "And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance.",
+      "metadata": {
+        "reference": "Genesis 43:28",
+        "verseKey": "kjv:genesis:43:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:43:29",
+      "numberLabel": "29",
+      "text": "And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.",
+      "metadata": {
+        "reference": "Genesis 43:29",
+        "verseKey": "kjv:genesis:43:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:43:30",
+      "numberLabel": "30",
+      "text": "And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.",
+      "metadata": {
+        "reference": "Genesis 43:30",
+        "verseKey": "kjv:genesis:43:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:43:31",
+      "numberLabel": "31",
+      "text": "And he washed his face, and went out, and refrained himself, and said, Set on bread.",
+      "metadata": {
+        "reference": "Genesis 43:31",
+        "verseKey": "kjv:genesis:43:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:43:32",
+      "numberLabel": "32",
+      "text": "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.",
+      "metadata": {
+        "reference": "Genesis 43:32",
+        "verseKey": "kjv:genesis:43:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:43:33",
+      "numberLabel": "33",
+      "text": "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.",
+      "metadata": {
+        "reference": "Genesis 43:33",
+        "verseKey": "kjv:genesis:43:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:43:34",
+      "numberLabel": "34",
+      "text": "And he took and sent messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.",
+      "metadata": {
+        "reference": "Genesis 43:34",
+        "verseKey": "kjv:genesis:43:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-kings-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "2 Kings 4",
+  "display_title": "2 Kings 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-kings",
+  "book": "2 Kings",
+  "bookName": "2 Kings",
+  "bookOrder": 12,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 12004,
+  "verseCount": 44,
+  "aliases": [
+    "2 Kgs",
+    "2Kgs",
+    "2 Ki",
+    "2Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-kings:4:1",
+      "numberLabel": "1",
+      "text": "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.",
+      "metadata": {
+        "reference": "2 Kings 4:1",
+        "verseKey": "kjv:2-kings:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-kings:4:2",
+      "numberLabel": "2",
+      "text": "And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil.",
+      "metadata": {
+        "reference": "2 Kings 4:2",
+        "verseKey": "kjv:2-kings:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-kings:4:3",
+      "numberLabel": "3",
+      "text": "Then he said, Go, borrow thee vessels abroad of all thy neighbours, even empty vessels; borrow not a few.",
+      "metadata": {
+        "reference": "2 Kings 4:3",
+        "verseKey": "kjv:2-kings:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-kings:4:4",
+      "numberLabel": "4",
+      "text": "And when thou art come in, thou shalt shut the door upon thee and upon thy sons, and shalt pour out into all those vessels, and thou shalt set aside that which is full.",
+      "metadata": {
+        "reference": "2 Kings 4:4",
+        "verseKey": "kjv:2-kings:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-kings:4:5",
+      "numberLabel": "5",
+      "text": "So she went from him, and shut the door upon her and upon her sons, who brought the vessels to her; and she poured out.",
+      "metadata": {
+        "reference": "2 Kings 4:5",
+        "verseKey": "kjv:2-kings:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-kings:4:6",
+      "numberLabel": "6",
+      "text": "And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, There is not a vessel more. And the oil stayed.",
+      "metadata": {
+        "reference": "2 Kings 4:6",
+        "verseKey": "kjv:2-kings:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-kings:4:7",
+      "numberLabel": "7",
+      "text": "Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest.",
+      "metadata": {
+        "reference": "2 Kings 4:7",
+        "verseKey": "kjv:2-kings:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-kings:4:8",
+      "numberLabel": "8",
+      "text": "And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as oft as he passed by, he turned in thither to eat bread.",
+      "metadata": {
+        "reference": "2 Kings 4:8",
+        "verseKey": "kjv:2-kings:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-kings:4:9",
+      "numberLabel": "9",
+      "text": "And she said unto her husband, Behold now, I perceive that this is an holy man of God, which passeth by us continually.",
+      "metadata": {
+        "reference": "2 Kings 4:9",
+        "verseKey": "kjv:2-kings:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-kings:4:10",
+      "numberLabel": "10",
+      "text": "Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither.",
+      "metadata": {
+        "reference": "2 Kings 4:10",
+        "verseKey": "kjv:2-kings:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-kings:4:11",
+      "numberLabel": "11",
+      "text": "And it fell on a day, that he came thither, and he turned into the chamber, and lay there.",
+      "metadata": {
+        "reference": "2 Kings 4:11",
+        "verseKey": "kjv:2-kings:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-kings:4:12",
+      "numberLabel": "12",
+      "text": "And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him.",
+      "metadata": {
+        "reference": "2 Kings 4:12",
+        "verseKey": "kjv:2-kings:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-kings:4:13",
+      "numberLabel": "13",
+      "text": "And he said unto him, Say now unto her, Behold, thou hast been careful for us with all this care; what is to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people.",
+      "metadata": {
+        "reference": "2 Kings 4:13",
+        "verseKey": "kjv:2-kings:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-kings:4:14",
+      "numberLabel": "14",
+      "text": "And he said, What then is to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old.",
+      "metadata": {
+        "reference": "2 Kings 4:14",
+        "verseKey": "kjv:2-kings:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-kings:4:15",
+      "numberLabel": "15",
+      "text": "And he said, Call her. And when he had called her, she stood in the door.",
+      "metadata": {
+        "reference": "2 Kings 4:15",
+        "verseKey": "kjv:2-kings:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-kings:4:16",
+      "numberLabel": "16",
+      "text": "And he said, About this season, according to the time of life, thou shalt embrace a son. And she said, Nay, my lord, thou man of God, do not lie unto thine handmaid.",
+      "metadata": {
+        "reference": "2 Kings 4:16",
+        "verseKey": "kjv:2-kings:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-kings:4:17",
+      "numberLabel": "17",
+      "text": "And the woman conceived, and bare a son at that season that Elisha had said unto her, according to the time of life.",
+      "metadata": {
+        "reference": "2 Kings 4:17",
+        "verseKey": "kjv:2-kings:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-kings:4:18",
+      "numberLabel": "18",
+      "text": "And when the child was grown, it fell on a day, that he went out to his father to the reapers.",
+      "metadata": {
+        "reference": "2 Kings 4:18",
+        "verseKey": "kjv:2-kings:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-kings:4:19",
+      "numberLabel": "19",
+      "text": "And he said unto his father, My head, my head. And he said to a lad, Carry him to his mother.",
+      "metadata": {
+        "reference": "2 Kings 4:19",
+        "verseKey": "kjv:2-kings:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-kings:4:20",
+      "numberLabel": "20",
+      "text": "And when he had taken him, and brought him to his mother, he sat on her knees till noon, and then died.",
+      "metadata": {
+        "reference": "2 Kings 4:20",
+        "verseKey": "kjv:2-kings:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-kings:4:21",
+      "numberLabel": "21",
+      "text": "And she went up, and laid him on the bed of the man of God, and shut the door upon him, and went out.",
+      "metadata": {
+        "reference": "2 Kings 4:21",
+        "verseKey": "kjv:2-kings:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-kings:4:22",
+      "numberLabel": "22",
+      "text": "And she called unto her husband, and said, Send me, I pray thee, one of the young men, and one of the asses, that I may run to the man of God, and come again.",
+      "metadata": {
+        "reference": "2 Kings 4:22",
+        "verseKey": "kjv:2-kings:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-kings:4:23",
+      "numberLabel": "23",
+      "text": "And he said, Wherefore wilt thou go to him to day? it is neither new moon, nor sabbath. And she said, It shall be well.",
+      "metadata": {
+        "reference": "2 Kings 4:23",
+        "verseKey": "kjv:2-kings:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-kings:4:24",
+      "numberLabel": "24",
+      "text": "Then she saddled an ass, and said to her servant, Drive, and go forward; slack not thy riding for me, except I bid thee.",
+      "metadata": {
+        "reference": "2 Kings 4:24",
+        "verseKey": "kjv:2-kings:4:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-kings:4:25",
+      "numberLabel": "25",
+      "text": "So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is that Shunammite:",
+      "metadata": {
+        "reference": "2 Kings 4:25",
+        "verseKey": "kjv:2-kings:4:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-kings:4:26",
+      "numberLabel": "26",
+      "text": "Run now, I pray thee, to meet her, and say unto her, Is it well with thee? is it well with thy husband? is it well with the child? And she answered, It is well.",
+      "metadata": {
+        "reference": "2 Kings 4:26",
+        "verseKey": "kjv:2-kings:4:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-kings:4:27",
+      "numberLabel": "27",
+      "text": "And when she came to the man of God to the hill, she caught him by the feet: but Gehazi came near to thrust her away. And the man of God said, Let her alone; for her soul is vexed within her: and the LORD hath hid it from me, and hath not told me.",
+      "metadata": {
+        "reference": "2 Kings 4:27",
+        "verseKey": "kjv:2-kings:4:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-kings:4:28",
+      "numberLabel": "28",
+      "text": "Then she said, Did I desire a son of my lord? did I not say, Do not deceive me?",
+      "metadata": {
+        "reference": "2 Kings 4:28",
+        "verseKey": "kjv:2-kings:4:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-kings:4:29",
+      "numberLabel": "29",
+      "text": "Then he said to Gehazi, Gird up thy loins, and take my staff in thine hand, and go thy way: if thou meet any man, salute him not; and if any salute thee, answer him not again: and lay my staff upon the face of the child.",
+      "metadata": {
+        "reference": "2 Kings 4:29",
+        "verseKey": "kjv:2-kings:4:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-kings:4:30",
+      "numberLabel": "30",
+      "text": "And the mother of the child said, As the LORD liveth, and as thy soul liveth, I will not leave thee. And he arose, and followed her.",
+      "metadata": {
+        "reference": "2 Kings 4:30",
+        "verseKey": "kjv:2-kings:4:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-kings:4:31",
+      "numberLabel": "31",
+      "text": "And Gehazi passed on before them, and laid the staff upon the face of the child; but there was neither voice, nor hearing. Wherefore he went again to meet him, and told him, saying, The child is not awaked.",
+      "metadata": {
+        "reference": "2 Kings 4:31",
+        "verseKey": "kjv:2-kings:4:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:2-kings:4:32",
+      "numberLabel": "32",
+      "text": "And when Elisha was come into the house, behold, the child was dead, and laid upon his bed.",
+      "metadata": {
+        "reference": "2 Kings 4:32",
+        "verseKey": "kjv:2-kings:4:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:2-kings:4:33",
+      "numberLabel": "33",
+      "text": "He went in therefore, and shut the door upon them twain, and prayed unto the LORD.",
+      "metadata": {
+        "reference": "2 Kings 4:33",
+        "verseKey": "kjv:2-kings:4:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:2-kings:4:34",
+      "numberLabel": "34",
+      "text": "And he went up, and lay upon the child, and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands: and he stretched himself upon the child; and the flesh of the child waxed warm.",
+      "metadata": {
+        "reference": "2 Kings 4:34",
+        "verseKey": "kjv:2-kings:4:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:2-kings:4:35",
+      "numberLabel": "35",
+      "text": "Then he returned, and walked in the house to and fro; and went up, and stretched himself upon him: and the child sneezed seven times, and the child opened his eyes.",
+      "metadata": {
+        "reference": "2 Kings 4:35",
+        "verseKey": "kjv:2-kings:4:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:2-kings:4:36",
+      "numberLabel": "36",
+      "text": "And he called Gehazi, and said, Call this Shunammite. So he called her. And when she was come in unto him, he said, Take up thy son.",
+      "metadata": {
+        "reference": "2 Kings 4:36",
+        "verseKey": "kjv:2-kings:4:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:2-kings:4:37",
+      "numberLabel": "37",
+      "text": "Then she went in, and fell at his feet, and bowed herself to the ground, and took up her son, and went out.",
+      "metadata": {
+        "reference": "2 Kings 4:37",
+        "verseKey": "kjv:2-kings:4:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:2-kings:4:38",
+      "numberLabel": "38",
+      "text": "And Elisha came again to Gilgal: and there was a dearth in the land; and the sons of the prophets were sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets.",
+      "metadata": {
+        "reference": "2 Kings 4:38",
+        "verseKey": "kjv:2-kings:4:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:2-kings:4:39",
+      "numberLabel": "39",
+      "text": "And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not.",
+      "metadata": {
+        "reference": "2 Kings 4:39",
+        "verseKey": "kjv:2-kings:4:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:2-kings:4:40",
+      "numberLabel": "40",
+      "text": "So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O thou man of God, there is death in the pot. And they could not eat thereof.",
+      "metadata": {
+        "reference": "2 Kings 4:40",
+        "verseKey": "kjv:2-kings:4:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:2-kings:4:41",
+      "numberLabel": "41",
+      "text": "But he said, Then bring meal. And he cast it into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot.",
+      "metadata": {
+        "reference": "2 Kings 4:41",
+        "verseKey": "kjv:2-kings:4:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:2-kings:4:42",
+      "numberLabel": "42",
+      "text": "And there came a man from Baalshalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat.",
+      "metadata": {
+        "reference": "2 Kings 4:42",
+        "verseKey": "kjv:2-kings:4:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:2-kings:4:43",
+      "numberLabel": "43",
+      "text": "And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave thereof.",
+      "metadata": {
+        "reference": "2 Kings 4:43",
+        "verseKey": "kjv:2-kings:4:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:2-kings:4:44",
+      "numberLabel": "44",
+      "text": "So he set it before them, and they did eat, and left thereof, according to the word of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 4:44",
+        "verseKey": "kjv:2-kings:4:44"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

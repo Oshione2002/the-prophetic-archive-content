@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-103",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 103,
+  "title": "Psalms 103",
+  "display_title": "Psalms 103",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 103,
+  "sortOrder": 19103,
+  "verseCount": 22,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:103:1",
+      "numberLabel": "1",
+      "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
+      "metadata": {
+        "reference": "Psalms 103:1",
+        "verseKey": "kjv:psalms:103:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:103:2",
+      "numberLabel": "2",
+      "text": "Bless the LORD, O my soul, and forget not all his benefits:",
+      "metadata": {
+        "reference": "Psalms 103:2",
+        "verseKey": "kjv:psalms:103:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:103:3",
+      "numberLabel": "3",
+      "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;",
+      "metadata": {
+        "reference": "Psalms 103:3",
+        "verseKey": "kjv:psalms:103:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:103:4",
+      "numberLabel": "4",
+      "text": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;",
+      "metadata": {
+        "reference": "Psalms 103:4",
+        "verseKey": "kjv:psalms:103:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:103:5",
+      "numberLabel": "5",
+      "text": "Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.",
+      "metadata": {
+        "reference": "Psalms 103:5",
+        "verseKey": "kjv:psalms:103:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:103:6",
+      "numberLabel": "6",
+      "text": "The LORD executeth righteousness and judgment for all that are oppressed.",
+      "metadata": {
+        "reference": "Psalms 103:6",
+        "verseKey": "kjv:psalms:103:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:103:7",
+      "numberLabel": "7",
+      "text": "He made known his ways unto Moses, his acts unto the children of Israel.",
+      "metadata": {
+        "reference": "Psalms 103:7",
+        "verseKey": "kjv:psalms:103:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:103:8",
+      "numberLabel": "8",
+      "text": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy.",
+      "metadata": {
+        "reference": "Psalms 103:8",
+        "verseKey": "kjv:psalms:103:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:103:9",
+      "numberLabel": "9",
+      "text": "He will not always chide: neither will he keep his anger for ever.",
+      "metadata": {
+        "reference": "Psalms 103:9",
+        "verseKey": "kjv:psalms:103:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:103:10",
+      "numberLabel": "10",
+      "text": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities.",
+      "metadata": {
+        "reference": "Psalms 103:10",
+        "verseKey": "kjv:psalms:103:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:103:11",
+      "numberLabel": "11",
+      "text": "For as the heaven is high above the earth, so great is his mercy toward them that fear him.",
+      "metadata": {
+        "reference": "Psalms 103:11",
+        "verseKey": "kjv:psalms:103:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:103:12",
+      "numberLabel": "12",
+      "text": "As far as the east is from the west, so far hath he removed our transgressions from us.",
+      "metadata": {
+        "reference": "Psalms 103:12",
+        "verseKey": "kjv:psalms:103:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:103:13",
+      "numberLabel": "13",
+      "text": "Like as a father pitieth his children, so the LORD pitieth them that fear him.",
+      "metadata": {
+        "reference": "Psalms 103:13",
+        "verseKey": "kjv:psalms:103:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:103:14",
+      "numberLabel": "14",
+      "text": "For he knoweth our frame; he remembereth that we are dust.",
+      "metadata": {
+        "reference": "Psalms 103:14",
+        "verseKey": "kjv:psalms:103:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:103:15",
+      "numberLabel": "15",
+      "text": "As for man, his days are as grass: as a flower of the field, so he flourisheth.",
+      "metadata": {
+        "reference": "Psalms 103:15",
+        "verseKey": "kjv:psalms:103:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:103:16",
+      "numberLabel": "16",
+      "text": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more.",
+      "metadata": {
+        "reference": "Psalms 103:16",
+        "verseKey": "kjv:psalms:103:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:103:17",
+      "numberLabel": "17",
+      "text": "But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;",
+      "metadata": {
+        "reference": "Psalms 103:17",
+        "verseKey": "kjv:psalms:103:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:103:18",
+      "numberLabel": "18",
+      "text": "To such as keep his covenant, and to those that remember his commandments to do them.",
+      "metadata": {
+        "reference": "Psalms 103:18",
+        "verseKey": "kjv:psalms:103:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:103:19",
+      "numberLabel": "19",
+      "text": "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.",
+      "metadata": {
+        "reference": "Psalms 103:19",
+        "verseKey": "kjv:psalms:103:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:103:20",
+      "numberLabel": "20",
+      "text": "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.",
+      "metadata": {
+        "reference": "Psalms 103:20",
+        "verseKey": "kjv:psalms:103:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:103:21",
+      "numberLabel": "21",
+      "text": "Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.",
+      "metadata": {
+        "reference": "Psalms 103:21",
+        "verseKey": "kjv:psalms:103:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:103:22",
+      "numberLabel": "22",
+      "text": "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.",
+      "metadata": {
+        "reference": "Psalms 103:22",
+        "verseKey": "kjv:psalms:103:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

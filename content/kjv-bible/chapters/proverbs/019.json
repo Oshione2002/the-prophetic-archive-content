@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Proverbs 19",
+  "display_title": "Proverbs 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 20019,
+  "verseCount": 29,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:19:1",
+      "numberLabel": "1",
+      "text": "Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
+      "metadata": {
+        "reference": "Proverbs 19:1",
+        "verseKey": "kjv:proverbs:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:19:2",
+      "numberLabel": "2",
+      "text": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.",
+      "metadata": {
+        "reference": "Proverbs 19:2",
+        "verseKey": "kjv:proverbs:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:19:3",
+      "numberLabel": "3",
+      "text": "The foolishness of man perverteth his way: and his heart fretteth against the LORD.",
+      "metadata": {
+        "reference": "Proverbs 19:3",
+        "verseKey": "kjv:proverbs:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:19:4",
+      "numberLabel": "4",
+      "text": "Wealth maketh many friends; but the poor is separated from his neighbour.",
+      "metadata": {
+        "reference": "Proverbs 19:4",
+        "verseKey": "kjv:proverbs:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:19:5",
+      "numberLabel": "5",
+      "text": "A false witness shall not be unpunished, and he that speaketh lies shall not escape.",
+      "metadata": {
+        "reference": "Proverbs 19:5",
+        "verseKey": "kjv:proverbs:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:19:6",
+      "numberLabel": "6",
+      "text": "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.",
+      "metadata": {
+        "reference": "Proverbs 19:6",
+        "verseKey": "kjv:proverbs:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:19:7",
+      "numberLabel": "7",
+      "text": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.",
+      "metadata": {
+        "reference": "Proverbs 19:7",
+        "verseKey": "kjv:proverbs:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:19:8",
+      "numberLabel": "8",
+      "text": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
+      "metadata": {
+        "reference": "Proverbs 19:8",
+        "verseKey": "kjv:proverbs:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:19:9",
+      "numberLabel": "9",
+      "text": "A false witness shall not be unpunished, and he that speaketh lies shall perish.",
+      "metadata": {
+        "reference": "Proverbs 19:9",
+        "verseKey": "kjv:proverbs:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:19:10",
+      "numberLabel": "10",
+      "text": "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
+      "metadata": {
+        "reference": "Proverbs 19:10",
+        "verseKey": "kjv:proverbs:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:19:11",
+      "numberLabel": "11",
+      "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+      "metadata": {
+        "reference": "Proverbs 19:11",
+        "verseKey": "kjv:proverbs:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:19:12",
+      "numberLabel": "12",
+      "text": "The king’s wrath is as the roaring of a lion; but his favour is as dew upon the grass.",
+      "metadata": {
+        "reference": "Proverbs 19:12",
+        "verseKey": "kjv:proverbs:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:19:13",
+      "numberLabel": "13",
+      "text": "A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.",
+      "metadata": {
+        "reference": "Proverbs 19:13",
+        "verseKey": "kjv:proverbs:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:19:14",
+      "numberLabel": "14",
+      "text": "House and riches are the inheritance of fathers: and a prudent wife is from the LORD.",
+      "metadata": {
+        "reference": "Proverbs 19:14",
+        "verseKey": "kjv:proverbs:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:19:15",
+      "numberLabel": "15",
+      "text": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
+      "metadata": {
+        "reference": "Proverbs 19:15",
+        "verseKey": "kjv:proverbs:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:19:16",
+      "numberLabel": "16",
+      "text": "He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.",
+      "metadata": {
+        "reference": "Proverbs 19:16",
+        "verseKey": "kjv:proverbs:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:19:17",
+      "numberLabel": "17",
+      "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+      "metadata": {
+        "reference": "Proverbs 19:17",
+        "verseKey": "kjv:proverbs:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:19:18",
+      "numberLabel": "18",
+      "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
+      "metadata": {
+        "reference": "Proverbs 19:18",
+        "verseKey": "kjv:proverbs:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:19:19",
+      "numberLabel": "19",
+      "text": "A man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again.",
+      "metadata": {
+        "reference": "Proverbs 19:19",
+        "verseKey": "kjv:proverbs:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:19:20",
+      "numberLabel": "20",
+      "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+      "metadata": {
+        "reference": "Proverbs 19:20",
+        "verseKey": "kjv:proverbs:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:19:21",
+      "numberLabel": "21",
+      "text": "There are many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand.",
+      "metadata": {
+        "reference": "Proverbs 19:21",
+        "verseKey": "kjv:proverbs:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:19:22",
+      "numberLabel": "22",
+      "text": "The desire of a man is his kindness: and a poor man is better than a liar.",
+      "metadata": {
+        "reference": "Proverbs 19:22",
+        "verseKey": "kjv:proverbs:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:19:23",
+      "numberLabel": "23",
+      "text": "The fear of the LORD tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
+      "metadata": {
+        "reference": "Proverbs 19:23",
+        "verseKey": "kjv:proverbs:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:19:24",
+      "numberLabel": "24",
+      "text": "A slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again.",
+      "metadata": {
+        "reference": "Proverbs 19:24",
+        "verseKey": "kjv:proverbs:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:19:25",
+      "numberLabel": "25",
+      "text": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge.",
+      "metadata": {
+        "reference": "Proverbs 19:25",
+        "verseKey": "kjv:proverbs:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:19:26",
+      "numberLabel": "26",
+      "text": "He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.",
+      "metadata": {
+        "reference": "Proverbs 19:26",
+        "verseKey": "kjv:proverbs:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:19:27",
+      "numberLabel": "27",
+      "text": "Cease, my son, to hear the instruction that causeth to err from the words of knowledge.",
+      "metadata": {
+        "reference": "Proverbs 19:27",
+        "verseKey": "kjv:proverbs:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:19:28",
+      "numberLabel": "28",
+      "text": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
+      "metadata": {
+        "reference": "Proverbs 19:28",
+        "verseKey": "kjv:proverbs:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:proverbs:19:29",
+      "numberLabel": "29",
+      "text": "Judgments are prepared for scorners, and stripes for the back of fools.",
+      "metadata": {
+        "reference": "Proverbs 19:29",
+        "verseKey": "kjv:proverbs:19:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

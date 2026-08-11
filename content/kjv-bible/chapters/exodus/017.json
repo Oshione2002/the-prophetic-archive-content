@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Exodus 17",
+  "display_title": "Exodus 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 2017,
+  "verseCount": 16,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:17:1",
+      "numberLabel": "1",
+      "text": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink.",
+      "metadata": {
+        "reference": "Exodus 17:1",
+        "verseKey": "kjv:exodus:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:17:2",
+      "numberLabel": "2",
+      "text": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?",
+      "metadata": {
+        "reference": "Exodus 17:2",
+        "verseKey": "kjv:exodus:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:17:3",
+      "numberLabel": "3",
+      "text": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?",
+      "metadata": {
+        "reference": "Exodus 17:3",
+        "verseKey": "kjv:exodus:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:17:4",
+      "numberLabel": "4",
+      "text": "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.",
+      "metadata": {
+        "reference": "Exodus 17:4",
+        "verseKey": "kjv:exodus:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:17:5",
+      "numberLabel": "5",
+      "text": "And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.",
+      "metadata": {
+        "reference": "Exodus 17:5",
+        "verseKey": "kjv:exodus:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:17:6",
+      "numberLabel": "6",
+      "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.",
+      "metadata": {
+        "reference": "Exodus 17:6",
+        "verseKey": "kjv:exodus:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:17:7",
+      "numberLabel": "7",
+      "text": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?",
+      "metadata": {
+        "reference": "Exodus 17:7",
+        "verseKey": "kjv:exodus:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:17:8",
+      "numberLabel": "8",
+      "text": "Then came Amalek, and fought with Israel in Rephidim.",
+      "metadata": {
+        "reference": "Exodus 17:8",
+        "verseKey": "kjv:exodus:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:17:9",
+      "numberLabel": "9",
+      "text": "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.",
+      "metadata": {
+        "reference": "Exodus 17:9",
+        "verseKey": "kjv:exodus:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:17:10",
+      "numberLabel": "10",
+      "text": "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.",
+      "metadata": {
+        "reference": "Exodus 17:10",
+        "verseKey": "kjv:exodus:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:17:11",
+      "numberLabel": "11",
+      "text": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed.",
+      "metadata": {
+        "reference": "Exodus 17:11",
+        "verseKey": "kjv:exodus:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:17:12",
+      "numberLabel": "12",
+      "text": "But Moses’ hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.",
+      "metadata": {
+        "reference": "Exodus 17:12",
+        "verseKey": "kjv:exodus:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:17:13",
+      "numberLabel": "13",
+      "text": "And Joshua discomfited Amalek and his people with the edge of the sword.",
+      "metadata": {
+        "reference": "Exodus 17:13",
+        "verseKey": "kjv:exodus:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:17:14",
+      "numberLabel": "14",
+      "text": "And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.",
+      "metadata": {
+        "reference": "Exodus 17:14",
+        "verseKey": "kjv:exodus:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:17:15",
+      "numberLabel": "15",
+      "text": "And Moses built an altar, and called the name of it Jehovahnissi:",
+      "metadata": {
+        "reference": "Exodus 17:15",
+        "verseKey": "kjv:exodus:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:17:16",
+      "numberLabel": "16",
+      "text": "For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation.",
+      "metadata": {
+        "reference": "Exodus 17:16",
+        "verseKey": "kjv:exodus:17:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

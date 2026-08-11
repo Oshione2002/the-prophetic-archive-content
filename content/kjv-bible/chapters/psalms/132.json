@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-132",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 132,
+  "title": "Psalms 132",
+  "display_title": "Psalms 132",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 132,
+  "sortOrder": 19132,
+  "verseCount": 18,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:132:1",
+      "numberLabel": "1",
+      "text": "Lord, remember David, and all his afflictions:",
+      "metadata": {
+        "reference": "Psalms 132:1",
+        "verseKey": "kjv:psalms:132:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:132:2",
+      "numberLabel": "2",
+      "text": "How he sware unto the LORD, and vowed unto the mighty God of Jacob;",
+      "metadata": {
+        "reference": "Psalms 132:2",
+        "verseKey": "kjv:psalms:132:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:132:3",
+      "numberLabel": "3",
+      "text": "Surely I will not come into the tabernacle of my house, nor go up into my bed;",
+      "metadata": {
+        "reference": "Psalms 132:3",
+        "verseKey": "kjv:psalms:132:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:132:4",
+      "numberLabel": "4",
+      "text": "I will not give sleep to mine eyes, or slumber to mine eyelids,",
+      "metadata": {
+        "reference": "Psalms 132:4",
+        "verseKey": "kjv:psalms:132:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:132:5",
+      "numberLabel": "5",
+      "text": "Until I find out a place for the LORD, an habitation for the mighty God of Jacob.",
+      "metadata": {
+        "reference": "Psalms 132:5",
+        "verseKey": "kjv:psalms:132:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:132:6",
+      "numberLabel": "6",
+      "text": "Lo, we heard of it at Ephratah: we found it in the fields of the wood.",
+      "metadata": {
+        "reference": "Psalms 132:6",
+        "verseKey": "kjv:psalms:132:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:132:7",
+      "numberLabel": "7",
+      "text": "We will go into his tabernacles: we will worship at his footstool.",
+      "metadata": {
+        "reference": "Psalms 132:7",
+        "verseKey": "kjv:psalms:132:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:132:8",
+      "numberLabel": "8",
+      "text": "Arise, O LORD, into thy rest; thou, and the ark of thy strength.",
+      "metadata": {
+        "reference": "Psalms 132:8",
+        "verseKey": "kjv:psalms:132:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:132:9",
+      "numberLabel": "9",
+      "text": "Let thy priests be clothed with righteousness; and let thy saints shout for joy.",
+      "metadata": {
+        "reference": "Psalms 132:9",
+        "verseKey": "kjv:psalms:132:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:132:10",
+      "numberLabel": "10",
+      "text": "For thy servant David’s sake turn not away the face of thine anointed.",
+      "metadata": {
+        "reference": "Psalms 132:10",
+        "verseKey": "kjv:psalms:132:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:132:11",
+      "numberLabel": "11",
+      "text": "The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
+      "metadata": {
+        "reference": "Psalms 132:11",
+        "verseKey": "kjv:psalms:132:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:132:12",
+      "numberLabel": "12",
+      "text": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.",
+      "metadata": {
+        "reference": "Psalms 132:12",
+        "verseKey": "kjv:psalms:132:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:132:13",
+      "numberLabel": "13",
+      "text": "For the LORD hath chosen Zion; he hath desired it for his habitation.",
+      "metadata": {
+        "reference": "Psalms 132:13",
+        "verseKey": "kjv:psalms:132:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:132:14",
+      "numberLabel": "14",
+      "text": "This is my rest for ever: here will I dwell; for I have desired it.",
+      "metadata": {
+        "reference": "Psalms 132:14",
+        "verseKey": "kjv:psalms:132:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:132:15",
+      "numberLabel": "15",
+      "text": "I will abundantly bless her provision: I will satisfy her poor with bread.",
+      "metadata": {
+        "reference": "Psalms 132:15",
+        "verseKey": "kjv:psalms:132:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:132:16",
+      "numberLabel": "16",
+      "text": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy.",
+      "metadata": {
+        "reference": "Psalms 132:16",
+        "verseKey": "kjv:psalms:132:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:132:17",
+      "numberLabel": "17",
+      "text": "There will I make the horn of David to bud: I have ordained a lamp for mine anointed.",
+      "metadata": {
+        "reference": "Psalms 132:17",
+        "verseKey": "kjv:psalms:132:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:132:18",
+      "numberLabel": "18",
+      "text": "His enemies will I clothe with shame: but upon himself shall his crown flourish.",
+      "metadata": {
+        "reference": "Psalms 132:18",
+        "verseKey": "kjv:psalms:132:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

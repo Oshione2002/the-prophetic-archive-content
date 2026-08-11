@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-039",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 39,
+  "title": "Job 39",
+  "display_title": "Job 39",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 39,
+  "sortOrder": 18039,
+  "verseCount": 30,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:39:1",
+      "numberLabel": "1",
+      "text": "Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?",
+      "metadata": {
+        "reference": "Job 39:1",
+        "verseKey": "kjv:job:39:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:39:2",
+      "numberLabel": "2",
+      "text": "Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?",
+      "metadata": {
+        "reference": "Job 39:2",
+        "verseKey": "kjv:job:39:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:39:3",
+      "numberLabel": "3",
+      "text": "They bow themselves, they bring forth their young ones, they cast out their sorrows.",
+      "metadata": {
+        "reference": "Job 39:3",
+        "verseKey": "kjv:job:39:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:39:4",
+      "numberLabel": "4",
+      "text": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.",
+      "metadata": {
+        "reference": "Job 39:4",
+        "verseKey": "kjv:job:39:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:39:5",
+      "numberLabel": "5",
+      "text": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?",
+      "metadata": {
+        "reference": "Job 39:5",
+        "verseKey": "kjv:job:39:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:39:6",
+      "numberLabel": "6",
+      "text": "Whose house I have made the wilderness, and the barren land his dwellings.",
+      "metadata": {
+        "reference": "Job 39:6",
+        "verseKey": "kjv:job:39:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:39:7",
+      "numberLabel": "7",
+      "text": "He scorneth the multitude of the city, neither regardeth he the crying of the driver.",
+      "metadata": {
+        "reference": "Job 39:7",
+        "verseKey": "kjv:job:39:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:39:8",
+      "numberLabel": "8",
+      "text": "The range of the mountains is his pasture, and he searcheth after every green thing.",
+      "metadata": {
+        "reference": "Job 39:8",
+        "verseKey": "kjv:job:39:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:39:9",
+      "numberLabel": "9",
+      "text": "Will the unicorn be willing to serve thee, or abide by thy crib?",
+      "metadata": {
+        "reference": "Job 39:9",
+        "verseKey": "kjv:job:39:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:39:10",
+      "numberLabel": "10",
+      "text": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?",
+      "metadata": {
+        "reference": "Job 39:10",
+        "verseKey": "kjv:job:39:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:39:11",
+      "numberLabel": "11",
+      "text": "Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?",
+      "metadata": {
+        "reference": "Job 39:11",
+        "verseKey": "kjv:job:39:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:39:12",
+      "numberLabel": "12",
+      "text": "Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?",
+      "metadata": {
+        "reference": "Job 39:12",
+        "verseKey": "kjv:job:39:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:39:13",
+      "numberLabel": "13",
+      "text": "Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?",
+      "metadata": {
+        "reference": "Job 39:13",
+        "verseKey": "kjv:job:39:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:39:14",
+      "numberLabel": "14",
+      "text": "Which leaveth her eggs in the earth, and warmeth them in dust,",
+      "metadata": {
+        "reference": "Job 39:14",
+        "verseKey": "kjv:job:39:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:39:15",
+      "numberLabel": "15",
+      "text": "And forgetteth that the foot may crush them, or that the wild beast may break them.",
+      "metadata": {
+        "reference": "Job 39:15",
+        "verseKey": "kjv:job:39:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:39:16",
+      "numberLabel": "16",
+      "text": "She is hardened against her young ones, as though they were not hers: her labour is in vain without fear;",
+      "metadata": {
+        "reference": "Job 39:16",
+        "verseKey": "kjv:job:39:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:39:17",
+      "numberLabel": "17",
+      "text": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding.",
+      "metadata": {
+        "reference": "Job 39:17",
+        "verseKey": "kjv:job:39:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:39:18",
+      "numberLabel": "18",
+      "text": "What time she lifteth up herself on high, she scorneth the horse and his rider.",
+      "metadata": {
+        "reference": "Job 39:18",
+        "verseKey": "kjv:job:39:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:39:19",
+      "numberLabel": "19",
+      "text": "Hast thou given the horse strength? hast thou clothed his neck with thunder?",
+      "metadata": {
+        "reference": "Job 39:19",
+        "verseKey": "kjv:job:39:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:39:20",
+      "numberLabel": "20",
+      "text": "Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible.",
+      "metadata": {
+        "reference": "Job 39:20",
+        "verseKey": "kjv:job:39:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:39:21",
+      "numberLabel": "21",
+      "text": "He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.",
+      "metadata": {
+        "reference": "Job 39:21",
+        "verseKey": "kjv:job:39:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:39:22",
+      "numberLabel": "22",
+      "text": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword.",
+      "metadata": {
+        "reference": "Job 39:22",
+        "verseKey": "kjv:job:39:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:39:23",
+      "numberLabel": "23",
+      "text": "The quiver rattleth against him, the glittering spear and the shield.",
+      "metadata": {
+        "reference": "Job 39:23",
+        "verseKey": "kjv:job:39:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:39:24",
+      "numberLabel": "24",
+      "text": "He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.",
+      "metadata": {
+        "reference": "Job 39:24",
+        "verseKey": "kjv:job:39:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:39:25",
+      "numberLabel": "25",
+      "text": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.",
+      "metadata": {
+        "reference": "Job 39:25",
+        "verseKey": "kjv:job:39:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:39:26",
+      "numberLabel": "26",
+      "text": "Doth the hawk fly by thy wisdom, and stretch her wings toward the south?",
+      "metadata": {
+        "reference": "Job 39:26",
+        "verseKey": "kjv:job:39:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:39:27",
+      "numberLabel": "27",
+      "text": "Doth the eagle mount up at thy command, and make her nest on high?",
+      "metadata": {
+        "reference": "Job 39:27",
+        "verseKey": "kjv:job:39:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:39:28",
+      "numberLabel": "28",
+      "text": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.",
+      "metadata": {
+        "reference": "Job 39:28",
+        "verseKey": "kjv:job:39:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:39:29",
+      "numberLabel": "29",
+      "text": "From thence she seeketh the prey, and her eyes behold afar off.",
+      "metadata": {
+        "reference": "Job 39:29",
+        "verseKey": "kjv:job:39:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:39:30",
+      "numberLabel": "30",
+      "text": "Her young ones also suck up blood: and where the slain are, there is she.",
+      "metadata": {
+        "reference": "Job 39:30",
+        "verseKey": "kjv:job:39:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

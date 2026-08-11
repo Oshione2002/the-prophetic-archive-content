@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-064",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 64,
+  "title": "Isaiah 64",
+  "display_title": "Isaiah 64",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 64,
+  "sortOrder": 23064,
+  "verseCount": 12,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:64:1",
+      "numberLabel": "1",
+      "text": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,",
+      "metadata": {
+        "reference": "Isaiah 64:1",
+        "verseKey": "kjv:isaiah:64:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:64:2",
+      "numberLabel": "2",
+      "text": "As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!",
+      "metadata": {
+        "reference": "Isaiah 64:2",
+        "verseKey": "kjv:isaiah:64:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:64:3",
+      "numberLabel": "3",
+      "text": "When thou didst terrible things which we looked not for, thou camest down, the mountains flowed down at thy presence.",
+      "metadata": {
+        "reference": "Isaiah 64:3",
+        "verseKey": "kjv:isaiah:64:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:64:4",
+      "numberLabel": "4",
+      "text": "For since the beginning of the world men have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, what he hath prepared for him that waiteth for him.",
+      "metadata": {
+        "reference": "Isaiah 64:4",
+        "verseKey": "kjv:isaiah:64:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:64:5",
+      "numberLabel": "5",
+      "text": "Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.",
+      "metadata": {
+        "reference": "Isaiah 64:5",
+        "verseKey": "kjv:isaiah:64:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:64:6",
+      "numberLabel": "6",
+      "text": "But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.",
+      "metadata": {
+        "reference": "Isaiah 64:6",
+        "verseKey": "kjv:isaiah:64:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:64:7",
+      "numberLabel": "7",
+      "text": "And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.",
+      "metadata": {
+        "reference": "Isaiah 64:7",
+        "verseKey": "kjv:isaiah:64:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:64:8",
+      "numberLabel": "8",
+      "text": "But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.",
+      "metadata": {
+        "reference": "Isaiah 64:8",
+        "verseKey": "kjv:isaiah:64:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:64:9",
+      "numberLabel": "9",
+      "text": "Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech thee, we are all thy people.",
+      "metadata": {
+        "reference": "Isaiah 64:9",
+        "verseKey": "kjv:isaiah:64:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:64:10",
+      "numberLabel": "10",
+      "text": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.",
+      "metadata": {
+        "reference": "Isaiah 64:10",
+        "verseKey": "kjv:isaiah:64:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:64:11",
+      "numberLabel": "11",
+      "text": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.",
+      "metadata": {
+        "reference": "Isaiah 64:11",
+        "verseKey": "kjv:isaiah:64:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:64:12",
+      "numberLabel": "12",
+      "text": "Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore?",
+      "metadata": {
+        "reference": "Isaiah 64:12",
+        "verseKey": "kjv:isaiah:64:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

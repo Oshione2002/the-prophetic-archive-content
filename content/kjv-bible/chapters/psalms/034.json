@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-034",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 34,
+  "title": "Psalms 34",
+  "display_title": "Psalms 34",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 34,
+  "sortOrder": 19034,
+  "verseCount": 22,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:34:1",
+      "numberLabel": "1",
+      "text": "I will bless the LORD at all times: his praise shall continually be in my mouth.",
+      "metadata": {
+        "reference": "Psalms 34:1",
+        "verseKey": "kjv:psalms:34:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:34:2",
+      "numberLabel": "2",
+      "text": "My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad.",
+      "metadata": {
+        "reference": "Psalms 34:2",
+        "verseKey": "kjv:psalms:34:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:34:3",
+      "numberLabel": "3",
+      "text": "O magnify the LORD with me, and let us exalt his name together.",
+      "metadata": {
+        "reference": "Psalms 34:3",
+        "verseKey": "kjv:psalms:34:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:34:4",
+      "numberLabel": "4",
+      "text": "I sought the LORD, and he heard me, and delivered me from all my fears.",
+      "metadata": {
+        "reference": "Psalms 34:4",
+        "verseKey": "kjv:psalms:34:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:34:5",
+      "numberLabel": "5",
+      "text": "They looked unto him, and were lightened: and their faces were not ashamed.",
+      "metadata": {
+        "reference": "Psalms 34:5",
+        "verseKey": "kjv:psalms:34:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:34:6",
+      "numberLabel": "6",
+      "text": "This poor man cried, and the LORD heard him, and saved him out of all his troubles.",
+      "metadata": {
+        "reference": "Psalms 34:6",
+        "verseKey": "kjv:psalms:34:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:34:7",
+      "numberLabel": "7",
+      "text": "The angel of the LORD encampeth round about them that fear him, and delivereth them.",
+      "metadata": {
+        "reference": "Psalms 34:7",
+        "verseKey": "kjv:psalms:34:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:34:8",
+      "numberLabel": "8",
+      "text": "O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+      "metadata": {
+        "reference": "Psalms 34:8",
+        "verseKey": "kjv:psalms:34:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:34:9",
+      "numberLabel": "9",
+      "text": "O fear the LORD, ye his saints: for there is no want to them that fear him.",
+      "metadata": {
+        "reference": "Psalms 34:9",
+        "verseKey": "kjv:psalms:34:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:34:10",
+      "numberLabel": "10",
+      "text": "The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.",
+      "metadata": {
+        "reference": "Psalms 34:10",
+        "verseKey": "kjv:psalms:34:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:34:11",
+      "numberLabel": "11",
+      "text": "Come, ye children, hearken unto me: I will teach you the fear of the LORD.",
+      "metadata": {
+        "reference": "Psalms 34:11",
+        "verseKey": "kjv:psalms:34:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:34:12",
+      "numberLabel": "12",
+      "text": "What man is he that desireth life, and loveth many days, that he may see good?",
+      "metadata": {
+        "reference": "Psalms 34:12",
+        "verseKey": "kjv:psalms:34:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:34:13",
+      "numberLabel": "13",
+      "text": "Keep thy tongue from evil, and thy lips from speaking guile.",
+      "metadata": {
+        "reference": "Psalms 34:13",
+        "verseKey": "kjv:psalms:34:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:34:14",
+      "numberLabel": "14",
+      "text": "Depart from evil, and do good; seek peace, and pursue it.",
+      "metadata": {
+        "reference": "Psalms 34:14",
+        "verseKey": "kjv:psalms:34:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:34:15",
+      "numberLabel": "15",
+      "text": "The eyes of the LORD are upon the righteous, and his ears are open unto their cry.",
+      "metadata": {
+        "reference": "Psalms 34:15",
+        "verseKey": "kjv:psalms:34:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:34:16",
+      "numberLabel": "16",
+      "text": "The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth.",
+      "metadata": {
+        "reference": "Psalms 34:16",
+        "verseKey": "kjv:psalms:34:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:34:17",
+      "numberLabel": "17",
+      "text": "The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.",
+      "metadata": {
+        "reference": "Psalms 34:17",
+        "verseKey": "kjv:psalms:34:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:34:18",
+      "numberLabel": "18",
+      "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+      "metadata": {
+        "reference": "Psalms 34:18",
+        "verseKey": "kjv:psalms:34:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:34:19",
+      "numberLabel": "19",
+      "text": "Many are the afflictions of the righteous: but the LORD delivereth him out of them all.",
+      "metadata": {
+        "reference": "Psalms 34:19",
+        "verseKey": "kjv:psalms:34:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:34:20",
+      "numberLabel": "20",
+      "text": "He keepeth all his bones: not one of them is broken.",
+      "metadata": {
+        "reference": "Psalms 34:20",
+        "verseKey": "kjv:psalms:34:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:34:21",
+      "numberLabel": "21",
+      "text": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+      "metadata": {
+        "reference": "Psalms 34:21",
+        "verseKey": "kjv:psalms:34:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:34:22",
+      "numberLabel": "22",
+      "text": "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+      "metadata": {
+        "reference": "Psalms 34:22",
+        "verseKey": "kjv:psalms:34:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

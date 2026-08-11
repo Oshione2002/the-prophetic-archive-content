@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Numbers 6",
+  "display_title": "Numbers 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 4006,
+  "verseCount": 27,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:6:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 6:1",
+        "verseKey": "kjv:numbers:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:6:2",
+      "numberLabel": "2",
+      "text": "Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD:",
+      "metadata": {
+        "reference": "Numbers 6:2",
+        "verseKey": "kjv:numbers:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:6:3",
+      "numberLabel": "3",
+      "text": "He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.",
+      "metadata": {
+        "reference": "Numbers 6:3",
+        "verseKey": "kjv:numbers:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:6:4",
+      "numberLabel": "4",
+      "text": "All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk.",
+      "metadata": {
+        "reference": "Numbers 6:4",
+        "verseKey": "kjv:numbers:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:6:5",
+      "numberLabel": "5",
+      "text": "All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth himself unto the LORD, he shall be holy, and shall let the locks of the hair of his head grow.",
+      "metadata": {
+        "reference": "Numbers 6:5",
+        "verseKey": "kjv:numbers:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:6:6",
+      "numberLabel": "6",
+      "text": "All the days that he separateth himself unto the LORD he shall come at no dead body.",
+      "metadata": {
+        "reference": "Numbers 6:6",
+        "verseKey": "kjv:numbers:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:6:7",
+      "numberLabel": "7",
+      "text": "He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head.",
+      "metadata": {
+        "reference": "Numbers 6:7",
+        "verseKey": "kjv:numbers:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:6:8",
+      "numberLabel": "8",
+      "text": "All the days of his separation he is holy unto the LORD.",
+      "metadata": {
+        "reference": "Numbers 6:8",
+        "verseKey": "kjv:numbers:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:6:9",
+      "numberLabel": "9",
+      "text": "And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.",
+      "metadata": {
+        "reference": "Numbers 6:9",
+        "verseKey": "kjv:numbers:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:6:10",
+      "numberLabel": "10",
+      "text": "And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:",
+      "metadata": {
+        "reference": "Numbers 6:10",
+        "verseKey": "kjv:numbers:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:6:11",
+      "numberLabel": "11",
+      "text": "And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.",
+      "metadata": {
+        "reference": "Numbers 6:11",
+        "verseKey": "kjv:numbers:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:6:12",
+      "numberLabel": "12",
+      "text": "And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.",
+      "metadata": {
+        "reference": "Numbers 6:12",
+        "verseKey": "kjv:numbers:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:6:13",
+      "numberLabel": "13",
+      "text": "And this is the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation:",
+      "metadata": {
+        "reference": "Numbers 6:13",
+        "verseKey": "kjv:numbers:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:6:14",
+      "numberLabel": "14",
+      "text": "And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,",
+      "metadata": {
+        "reference": "Numbers 6:14",
+        "verseKey": "kjv:numbers:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:6:15",
+      "numberLabel": "15",
+      "text": "And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings.",
+      "metadata": {
+        "reference": "Numbers 6:15",
+        "verseKey": "kjv:numbers:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:6:16",
+      "numberLabel": "16",
+      "text": "And the priest shall bring them before the LORD, and shall offer his sin offering, and his burnt offering:",
+      "metadata": {
+        "reference": "Numbers 6:16",
+        "verseKey": "kjv:numbers:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:6:17",
+      "numberLabel": "17",
+      "text": "And he shall offer the ram for a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering.",
+      "metadata": {
+        "reference": "Numbers 6:17",
+        "verseKey": "kjv:numbers:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:6:18",
+      "numberLabel": "18",
+      "text": "And the Nazarite shall shave the head of his separation at the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put it in the fire which is under the sacrifice of the peace offerings.",
+      "metadata": {
+        "reference": "Numbers 6:18",
+        "verseKey": "kjv:numbers:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:6:19",
+      "numberLabel": "19",
+      "text": "And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven:",
+      "metadata": {
+        "reference": "Numbers 6:19",
+        "verseKey": "kjv:numbers:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:6:20",
+      "numberLabel": "20",
+      "text": "And the priest shall wave them for a wave offering before the LORD: this is holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.",
+      "metadata": {
+        "reference": "Numbers 6:20",
+        "verseKey": "kjv:numbers:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:6:21",
+      "numberLabel": "21",
+      "text": "This is the law of the Nazarite who hath vowed, and of his offering unto the LORD for his separation, beside that that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation.",
+      "metadata": {
+        "reference": "Numbers 6:21",
+        "verseKey": "kjv:numbers:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:6:22",
+      "numberLabel": "22",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 6:22",
+        "verseKey": "kjv:numbers:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:6:23",
+      "numberLabel": "23",
+      "text": "Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,",
+      "metadata": {
+        "reference": "Numbers 6:23",
+        "verseKey": "kjv:numbers:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:6:24",
+      "numberLabel": "24",
+      "text": "The LORD bless thee, and keep thee:",
+      "metadata": {
+        "reference": "Numbers 6:24",
+        "verseKey": "kjv:numbers:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:6:25",
+      "numberLabel": "25",
+      "text": "The LORD make his face shine upon thee, and be gracious unto thee:",
+      "metadata": {
+        "reference": "Numbers 6:25",
+        "verseKey": "kjv:numbers:6:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:numbers:6:26",
+      "numberLabel": "26",
+      "text": "The LORD lift up his countenance upon thee, and give thee peace.",
+      "metadata": {
+        "reference": "Numbers 6:26",
+        "verseKey": "kjv:numbers:6:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:numbers:6:27",
+      "numberLabel": "27",
+      "text": "And they shall put my name upon the children of Israel; and I will bless them.",
+      "metadata": {
+        "reference": "Numbers 6:27",
+        "verseKey": "kjv:numbers:6:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-097",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 97,
+  "title": "Psalms 97",
+  "display_title": "Psalms 97",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 97,
+  "sortOrder": 19097,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:97:1",
+      "numberLabel": "1",
+      "text": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+      "metadata": {
+        "reference": "Psalms 97:1",
+        "verseKey": "kjv:psalms:97:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:97:2",
+      "numberLabel": "2",
+      "text": "Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.",
+      "metadata": {
+        "reference": "Psalms 97:2",
+        "verseKey": "kjv:psalms:97:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:97:3",
+      "numberLabel": "3",
+      "text": "A fire goeth before him, and burneth up his enemies round about.",
+      "metadata": {
+        "reference": "Psalms 97:3",
+        "verseKey": "kjv:psalms:97:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:97:4",
+      "numberLabel": "4",
+      "text": "His lightnings enlightened the world: the earth saw, and trembled.",
+      "metadata": {
+        "reference": "Psalms 97:4",
+        "verseKey": "kjv:psalms:97:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:97:5",
+      "numberLabel": "5",
+      "text": "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.",
+      "metadata": {
+        "reference": "Psalms 97:5",
+        "verseKey": "kjv:psalms:97:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:97:6",
+      "numberLabel": "6",
+      "text": "The heavens declare his righteousness, and all the people see his glory.",
+      "metadata": {
+        "reference": "Psalms 97:6",
+        "verseKey": "kjv:psalms:97:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:97:7",
+      "numberLabel": "7",
+      "text": "Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods.",
+      "metadata": {
+        "reference": "Psalms 97:7",
+        "verseKey": "kjv:psalms:97:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:97:8",
+      "numberLabel": "8",
+      "text": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.",
+      "metadata": {
+        "reference": "Psalms 97:8",
+        "verseKey": "kjv:psalms:97:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:97:9",
+      "numberLabel": "9",
+      "text": "For thou, LORD, art high above all the earth: thou art exalted far above all gods.",
+      "metadata": {
+        "reference": "Psalms 97:9",
+        "verseKey": "kjv:psalms:97:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:97:10",
+      "numberLabel": "10",
+      "text": "Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.",
+      "metadata": {
+        "reference": "Psalms 97:10",
+        "verseKey": "kjv:psalms:97:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:97:11",
+      "numberLabel": "11",
+      "text": "Light is sown for the righteous, and gladness for the upright in heart.",
+      "metadata": {
+        "reference": "Psalms 97:11",
+        "verseKey": "kjv:psalms:97:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:97:12",
+      "numberLabel": "12",
+      "text": "Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.",
+      "metadata": {
+        "reference": "Psalms 97:12",
+        "verseKey": "kjv:psalms:97:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

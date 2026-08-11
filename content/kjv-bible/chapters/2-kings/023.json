@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-kings-023",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 23,
+  "title": "2 Kings 23",
+  "display_title": "2 Kings 23",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-kings",
+  "book": "2 Kings",
+  "bookName": "2 Kings",
+  "bookOrder": 12,
+  "testament": "old",
+  "chapter": 23,
+  "sortOrder": 12023,
+  "verseCount": 37,
+  "aliases": [
+    "2 Kgs",
+    "2Kgs",
+    "2 Ki",
+    "2Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-kings:23:1",
+      "numberLabel": "1",
+      "text": "And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.",
+      "metadata": {
+        "reference": "2 Kings 23:1",
+        "verseKey": "kjv:2-kings:23:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-kings:23:2",
+      "numberLabel": "2",
+      "text": "And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 23:2",
+        "verseKey": "kjv:2-kings:23:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-kings:23:3",
+      "numberLabel": "3",
+      "text": "And the king stood by a pillar, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments and his testimonies and his statutes with all their heart and all their soul, to perform the words of this covenant that were written in this book. And all the people stood to the covenant.",
+      "metadata": {
+        "reference": "2 Kings 23:3",
+        "verseKey": "kjv:2-kings:23:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-kings:23:4",
+      "numberLabel": "4",
+      "text": "And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.",
+      "metadata": {
+        "reference": "2 Kings 23:4",
+        "verseKey": "kjv:2-kings:23:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-kings:23:5",
+      "numberLabel": "5",
+      "text": "And he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.",
+      "metadata": {
+        "reference": "2 Kings 23:5",
+        "verseKey": "kjv:2-kings:23:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-kings:23:6",
+      "numberLabel": "6",
+      "text": "And he brought out the grove from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped it small to powder, and cast the powder thereof upon the graves of the children of the people.",
+      "metadata": {
+        "reference": "2 Kings 23:6",
+        "verseKey": "kjv:2-kings:23:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-kings:23:7",
+      "numberLabel": "7",
+      "text": "And he brake down the houses of the sodomites, that were by the house of the LORD, where the women wove hangings for the grove.",
+      "metadata": {
+        "reference": "2 Kings 23:7",
+        "verseKey": "kjv:2-kings:23:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-kings:23:8",
+      "numberLabel": "8",
+      "text": "And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba, and brake down the high places of the gates that were in the entering in of the gate of Joshua the governor of the city, which were on a man’s left hand at the gate of the city.",
+      "metadata": {
+        "reference": "2 Kings 23:8",
+        "verseKey": "kjv:2-kings:23:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-kings:23:9",
+      "numberLabel": "9",
+      "text": "Nevertheless the priests of the high places came not up to the altar of the LORD in Jerusalem, but they did eat of the unleavened bread among their brethren.",
+      "metadata": {
+        "reference": "2 Kings 23:9",
+        "verseKey": "kjv:2-kings:23:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-kings:23:10",
+      "numberLabel": "10",
+      "text": "And he defiled Topheth, which is in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.",
+      "metadata": {
+        "reference": "2 Kings 23:10",
+        "verseKey": "kjv:2-kings:23:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-kings:23:11",
+      "numberLabel": "11",
+      "text": "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathanmelech the chamberlain, which was in the suburbs, and burned the chariots of the sun with fire.",
+      "metadata": {
+        "reference": "2 Kings 23:11",
+        "verseKey": "kjv:2-kings:23:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-kings:23:12",
+      "numberLabel": "12",
+      "text": "And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake them down from thence, and cast the dust of them into the brook Kidron.",
+      "metadata": {
+        "reference": "2 Kings 23:12",
+        "verseKey": "kjv:2-kings:23:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-kings:23:13",
+      "numberLabel": "13",
+      "text": "And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.",
+      "metadata": {
+        "reference": "2 Kings 23:13",
+        "verseKey": "kjv:2-kings:23:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-kings:23:14",
+      "numberLabel": "14",
+      "text": "And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.",
+      "metadata": {
+        "reference": "2 Kings 23:14",
+        "verseKey": "kjv:2-kings:23:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-kings:23:15",
+      "numberLabel": "15",
+      "text": "Moreover the altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, and stamped it small to powder, and burned the grove.",
+      "metadata": {
+        "reference": "2 Kings 23:15",
+        "verseKey": "kjv:2-kings:23:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-kings:23:16",
+      "numberLabel": "16",
+      "text": "And as Josiah turned himself, he spied the sepulchres that were there in the mount, and sent, and took the bones out of the sepulchres, and burned them upon the altar, and polluted it, according to the word of the LORD which the man of God proclaimed, who proclaimed these words.",
+      "metadata": {
+        "reference": "2 Kings 23:16",
+        "verseKey": "kjv:2-kings:23:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-kings:23:17",
+      "numberLabel": "17",
+      "text": "Then he said, What title is that that I see? And the men of the city told him, It is the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Bethel.",
+      "metadata": {
+        "reference": "2 Kings 23:17",
+        "verseKey": "kjv:2-kings:23:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-kings:23:18",
+      "numberLabel": "18",
+      "text": "And he said, Let him alone; let no man move his bones. So they let his bones alone, with the bones of the prophet that came out of Samaria.",
+      "metadata": {
+        "reference": "2 Kings 23:18",
+        "verseKey": "kjv:2-kings:23:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-kings:23:19",
+      "numberLabel": "19",
+      "text": "And all the houses also of the high places that were in the cities of Samaria, which the kings of Israel had made to provoke the Lord to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.",
+      "metadata": {
+        "reference": "2 Kings 23:19",
+        "verseKey": "kjv:2-kings:23:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-kings:23:20",
+      "numberLabel": "20",
+      "text": "And he slew all the priests of the high places that were there upon the altars, and burned men’s bones upon them, and returned to Jerusalem.",
+      "metadata": {
+        "reference": "2 Kings 23:20",
+        "verseKey": "kjv:2-kings:23:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-kings:23:21",
+      "numberLabel": "21",
+      "text": "And the king commanded all the people, saying, Keep the passover unto the LORD your God, as it is written in the book of this covenant.",
+      "metadata": {
+        "reference": "2 Kings 23:21",
+        "verseKey": "kjv:2-kings:23:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-kings:23:22",
+      "numberLabel": "22",
+      "text": "Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;",
+      "metadata": {
+        "reference": "2 Kings 23:22",
+        "verseKey": "kjv:2-kings:23:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-kings:23:23",
+      "numberLabel": "23",
+      "text": "But in the eighteenth year of king Josiah, wherein this passover was holden to the LORD in Jerusalem.",
+      "metadata": {
+        "reference": "2 Kings 23:23",
+        "verseKey": "kjv:2-kings:23:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-kings:23:24",
+      "numberLabel": "24",
+      "text": "Moreover the workers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 23:24",
+        "verseKey": "kjv:2-kings:23:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-kings:23:25",
+      "numberLabel": "25",
+      "text": "And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.",
+      "metadata": {
+        "reference": "2 Kings 23:25",
+        "verseKey": "kjv:2-kings:23:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-kings:23:26",
+      "numberLabel": "26",
+      "text": "Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.",
+      "metadata": {
+        "reference": "2 Kings 23:26",
+        "verseKey": "kjv:2-kings:23:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-kings:23:27",
+      "numberLabel": "27",
+      "text": "And the LORD said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.",
+      "metadata": {
+        "reference": "2 Kings 23:27",
+        "verseKey": "kjv:2-kings:23:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-kings:23:28",
+      "numberLabel": "28",
+      "text": "Now the rest of the acts of Josiah, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+      "metadata": {
+        "reference": "2 Kings 23:28",
+        "verseKey": "kjv:2-kings:23:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-kings:23:29",
+      "numberLabel": "29",
+      "text": "In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.",
+      "metadata": {
+        "reference": "2 Kings 23:29",
+        "verseKey": "kjv:2-kings:23:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-kings:23:30",
+      "numberLabel": "30",
+      "text": "And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.",
+      "metadata": {
+        "reference": "2 Kings 23:30",
+        "verseKey": "kjv:2-kings:23:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-kings:23:31",
+      "numberLabel": "31",
+      "text": "Jehoahaz was twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name was Hamutal, the daughter of Jeremiah of Libnah.",
+      "metadata": {
+        "reference": "2 Kings 23:31",
+        "verseKey": "kjv:2-kings:23:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:2-kings:23:32",
+      "numberLabel": "32",
+      "text": "And he did that which was evil in the sight of the LORD, according to all that his fathers had done.",
+      "metadata": {
+        "reference": "2 Kings 23:32",
+        "verseKey": "kjv:2-kings:23:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:2-kings:23:33",
+      "numberLabel": "33",
+      "text": "And Pharaohnechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.",
+      "metadata": {
+        "reference": "2 Kings 23:33",
+        "verseKey": "kjv:2-kings:23:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:2-kings:23:34",
+      "numberLabel": "34",
+      "text": "And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.",
+      "metadata": {
+        "reference": "2 Kings 23:34",
+        "verseKey": "kjv:2-kings:23:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:2-kings:23:35",
+      "numberLabel": "35",
+      "text": "And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaohnechoh.",
+      "metadata": {
+        "reference": "2 Kings 23:35",
+        "verseKey": "kjv:2-kings:23:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:2-kings:23:36",
+      "numberLabel": "36",
+      "text": "Jehoiakim was twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother’s name was Zebudah, the daughter of Pedaiah of Rumah.",
+      "metadata": {
+        "reference": "2 Kings 23:36",
+        "verseKey": "kjv:2-kings:23:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:2-kings:23:37",
+      "numberLabel": "37",
+      "text": "And he did that which was evil in the sight of the LORD, according to all that his fathers had done.",
+      "metadata": {
+        "reference": "2 Kings 23:37",
+        "verseKey": "kjv:2-kings:23:37"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

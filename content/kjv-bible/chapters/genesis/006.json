@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Genesis 6",
+  "display_title": "Genesis 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 1006,
+  "verseCount": 22,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:6:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
+      "metadata": {
+        "reference": "Genesis 6:1",
+        "verseKey": "kjv:genesis:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:6:2",
+      "numberLabel": "2",
+      "text": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.",
+      "metadata": {
+        "reference": "Genesis 6:2",
+        "verseKey": "kjv:genesis:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:6:3",
+      "numberLabel": "3",
+      "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.",
+      "metadata": {
+        "reference": "Genesis 6:3",
+        "verseKey": "kjv:genesis:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:6:4",
+      "numberLabel": "4",
+      "text": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.",
+      "metadata": {
+        "reference": "Genesis 6:4",
+        "verseKey": "kjv:genesis:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:6:5",
+      "numberLabel": "5",
+      "text": "And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.",
+      "metadata": {
+        "reference": "Genesis 6:5",
+        "verseKey": "kjv:genesis:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:6:6",
+      "numberLabel": "6",
+      "text": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart.",
+      "metadata": {
+        "reference": "Genesis 6:6",
+        "verseKey": "kjv:genesis:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:6:7",
+      "numberLabel": "7",
+      "text": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.",
+      "metadata": {
+        "reference": "Genesis 6:7",
+        "verseKey": "kjv:genesis:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:6:8",
+      "numberLabel": "8",
+      "text": "But Noah found grace in the eyes of the LORD.",
+      "metadata": {
+        "reference": "Genesis 6:8",
+        "verseKey": "kjv:genesis:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:6:9",
+      "numberLabel": "9",
+      "text": "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.",
+      "metadata": {
+        "reference": "Genesis 6:9",
+        "verseKey": "kjv:genesis:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:6:10",
+      "numberLabel": "10",
+      "text": "And Noah begat three sons, Shem, Ham, and Japheth.",
+      "metadata": {
+        "reference": "Genesis 6:10",
+        "verseKey": "kjv:genesis:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:6:11",
+      "numberLabel": "11",
+      "text": "The earth also was corrupt before God, and the earth was filled with violence.",
+      "metadata": {
+        "reference": "Genesis 6:11",
+        "verseKey": "kjv:genesis:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:6:12",
+      "numberLabel": "12",
+      "text": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.",
+      "metadata": {
+        "reference": "Genesis 6:12",
+        "verseKey": "kjv:genesis:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:6:13",
+      "numberLabel": "13",
+      "text": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+      "metadata": {
+        "reference": "Genesis 6:13",
+        "verseKey": "kjv:genesis:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:6:14",
+      "numberLabel": "14",
+      "text": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
+      "metadata": {
+        "reference": "Genesis 6:14",
+        "verseKey": "kjv:genesis:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:6:15",
+      "numberLabel": "15",
+      "text": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
+      "metadata": {
+        "reference": "Genesis 6:15",
+        "verseKey": "kjv:genesis:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:6:16",
+      "numberLabel": "16",
+      "text": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.",
+      "metadata": {
+        "reference": "Genesis 6:16",
+        "verseKey": "kjv:genesis:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:6:17",
+      "numberLabel": "17",
+      "text": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.",
+      "metadata": {
+        "reference": "Genesis 6:17",
+        "verseKey": "kjv:genesis:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:6:18",
+      "numberLabel": "18",
+      "text": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.",
+      "metadata": {
+        "reference": "Genesis 6:18",
+        "verseKey": "kjv:genesis:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:6:19",
+      "numberLabel": "19",
+      "text": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female.",
+      "metadata": {
+        "reference": "Genesis 6:19",
+        "verseKey": "kjv:genesis:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:6:20",
+      "numberLabel": "20",
+      "text": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive.",
+      "metadata": {
+        "reference": "Genesis 6:20",
+        "verseKey": "kjv:genesis:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:6:21",
+      "numberLabel": "21",
+      "text": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them.",
+      "metadata": {
+        "reference": "Genesis 6:21",
+        "verseKey": "kjv:genesis:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:6:22",
+      "numberLabel": "22",
+      "text": "Thus did Noah; according to all that God commanded him, so did he.",
+      "metadata": {
+        "reference": "Genesis 6:22",
+        "verseKey": "kjv:genesis:6:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

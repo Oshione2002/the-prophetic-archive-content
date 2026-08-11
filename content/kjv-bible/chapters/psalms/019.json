@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Psalms 19",
+  "display_title": "Psalms 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 19019,
+  "verseCount": 14,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:19:1",
+      "numberLabel": "1",
+      "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+      "metadata": {
+        "reference": "Psalms 19:1",
+        "verseKey": "kjv:psalms:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:19:2",
+      "numberLabel": "2",
+      "text": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+      "metadata": {
+        "reference": "Psalms 19:2",
+        "verseKey": "kjv:psalms:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:19:3",
+      "numberLabel": "3",
+      "text": "There is no speech nor language, where their voice is not heard.",
+      "metadata": {
+        "reference": "Psalms 19:3",
+        "verseKey": "kjv:psalms:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:19:4",
+      "numberLabel": "4",
+      "text": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
+      "metadata": {
+        "reference": "Psalms 19:4",
+        "verseKey": "kjv:psalms:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:19:5",
+      "numberLabel": "5",
+      "text": "Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.",
+      "metadata": {
+        "reference": "Psalms 19:5",
+        "verseKey": "kjv:psalms:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:19:6",
+      "numberLabel": "6",
+      "text": "His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+      "metadata": {
+        "reference": "Psalms 19:6",
+        "verseKey": "kjv:psalms:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:19:7",
+      "numberLabel": "7",
+      "text": "The law of the LORD is perfect, converting the soul: the testimony of the LORD is sure, making wise the simple.",
+      "metadata": {
+        "reference": "Psalms 19:7",
+        "verseKey": "kjv:psalms:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:19:8",
+      "numberLabel": "8",
+      "text": "The statutes of the LORD are right, rejoicing the heart: the commandment of the LORD is pure, enlightening the eyes.",
+      "metadata": {
+        "reference": "Psalms 19:8",
+        "verseKey": "kjv:psalms:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:19:9",
+      "numberLabel": "9",
+      "text": "The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.",
+      "metadata": {
+        "reference": "Psalms 19:9",
+        "verseKey": "kjv:psalms:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:19:10",
+      "numberLabel": "10",
+      "text": "More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
+      "metadata": {
+        "reference": "Psalms 19:10",
+        "verseKey": "kjv:psalms:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:19:11",
+      "numberLabel": "11",
+      "text": "Moreover by them is thy servant warned: and in keeping of them there is great reward.",
+      "metadata": {
+        "reference": "Psalms 19:11",
+        "verseKey": "kjv:psalms:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:19:12",
+      "numberLabel": "12",
+      "text": "Who can understand his errors? cleanse thou me from secret faults.",
+      "metadata": {
+        "reference": "Psalms 19:12",
+        "verseKey": "kjv:psalms:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:19:13",
+      "numberLabel": "13",
+      "text": "Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.",
+      "metadata": {
+        "reference": "Psalms 19:13",
+        "verseKey": "kjv:psalms:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:19:14",
+      "numberLabel": "14",
+      "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
+      "metadata": {
+        "reference": "Psalms 19:14",
+        "verseKey": "kjv:psalms:19:14"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

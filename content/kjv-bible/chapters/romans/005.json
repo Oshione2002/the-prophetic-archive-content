@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Romans 5",
+  "display_title": "Romans 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 5,
+  "sortOrder": 45005,
+  "verseCount": 21,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:5:1",
+      "numberLabel": "1",
+      "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:",
+      "metadata": {
+        "reference": "Romans 5:1",
+        "verseKey": "kjv:romans:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:5:2",
+      "numberLabel": "2",
+      "text": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.",
+      "metadata": {
+        "reference": "Romans 5:2",
+        "verseKey": "kjv:romans:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:5:3",
+      "numberLabel": "3",
+      "text": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;",
+      "metadata": {
+        "reference": "Romans 5:3",
+        "verseKey": "kjv:romans:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:5:4",
+      "numberLabel": "4",
+      "text": "And patience, experience; and experience, hope:",
+      "metadata": {
+        "reference": "Romans 5:4",
+        "verseKey": "kjv:romans:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:5:5",
+      "numberLabel": "5",
+      "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.",
+      "metadata": {
+        "reference": "Romans 5:5",
+        "verseKey": "kjv:romans:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:5:6",
+      "numberLabel": "6",
+      "text": "For when we were yet without strength, in due time Christ died for the ungodly.",
+      "metadata": {
+        "reference": "Romans 5:6",
+        "verseKey": "kjv:romans:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:5:7",
+      "numberLabel": "7",
+      "text": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.",
+      "metadata": {
+        "reference": "Romans 5:7",
+        "verseKey": "kjv:romans:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:5:8",
+      "numberLabel": "8",
+      "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
+      "metadata": {
+        "reference": "Romans 5:8",
+        "verseKey": "kjv:romans:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:5:9",
+      "numberLabel": "9",
+      "text": "Much more then, being now justified by his blood, we shall be saved from wrath through him.",
+      "metadata": {
+        "reference": "Romans 5:9",
+        "verseKey": "kjv:romans:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:5:10",
+      "numberLabel": "10",
+      "text": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.",
+      "metadata": {
+        "reference": "Romans 5:10",
+        "verseKey": "kjv:romans:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:5:11",
+      "numberLabel": "11",
+      "text": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.",
+      "metadata": {
+        "reference": "Romans 5:11",
+        "verseKey": "kjv:romans:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:5:12",
+      "numberLabel": "12",
+      "text": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:",
+      "metadata": {
+        "reference": "Romans 5:12",
+        "verseKey": "kjv:romans:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:5:13",
+      "numberLabel": "13",
+      "text": "(For until the law sin was in the world: but sin is not imputed when there is no law.",
+      "metadata": {
+        "reference": "Romans 5:13",
+        "verseKey": "kjv:romans:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:5:14",
+      "numberLabel": "14",
+      "text": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come.",
+      "metadata": {
+        "reference": "Romans 5:14",
+        "verseKey": "kjv:romans:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:romans:5:15",
+      "numberLabel": "15",
+      "text": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.",
+      "metadata": {
+        "reference": "Romans 5:15",
+        "verseKey": "kjv:romans:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:romans:5:16",
+      "numberLabel": "16",
+      "text": "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.",
+      "metadata": {
+        "reference": "Romans 5:16",
+        "verseKey": "kjv:romans:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:romans:5:17",
+      "numberLabel": "17",
+      "text": "For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)",
+      "metadata": {
+        "reference": "Romans 5:17",
+        "verseKey": "kjv:romans:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:romans:5:18",
+      "numberLabel": "18",
+      "text": "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.",
+      "metadata": {
+        "reference": "Romans 5:18",
+        "verseKey": "kjv:romans:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:romans:5:19",
+      "numberLabel": "19",
+      "text": "For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.",
+      "metadata": {
+        "reference": "Romans 5:19",
+        "verseKey": "kjv:romans:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:romans:5:20",
+      "numberLabel": "20",
+      "text": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:",
+      "metadata": {
+        "reference": "Romans 5:20",
+        "verseKey": "kjv:romans:5:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:romans:5:21",
+      "numberLabel": "21",
+      "text": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.",
+      "metadata": {
+        "reference": "Romans 5:21",
+        "verseKey": "kjv:romans:5:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "Matthew 27",
+  "display_title": "Matthew 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 27,
+  "sortOrder": 40027,
+  "verseCount": 66,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:27:1",
+      "numberLabel": "1",
+      "text": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
+      "metadata": {
+        "reference": "Matthew 27:1",
+        "verseKey": "kjv:matthew:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:27:2",
+      "numberLabel": "2",
+      "text": "And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor.",
+      "metadata": {
+        "reference": "Matthew 27:2",
+        "verseKey": "kjv:matthew:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:27:3",
+      "numberLabel": "3",
+      "text": "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,",
+      "metadata": {
+        "reference": "Matthew 27:3",
+        "verseKey": "kjv:matthew:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:27:4",
+      "numberLabel": "4",
+      "text": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that.",
+      "metadata": {
+        "reference": "Matthew 27:4",
+        "verseKey": "kjv:matthew:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:27:5",
+      "numberLabel": "5",
+      "text": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.",
+      "metadata": {
+        "reference": "Matthew 27:5",
+        "verseKey": "kjv:matthew:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:27:6",
+      "numberLabel": "6",
+      "text": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.",
+      "metadata": {
+        "reference": "Matthew 27:6",
+        "verseKey": "kjv:matthew:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:27:7",
+      "numberLabel": "7",
+      "text": "And they took counsel, and bought with them the potter’s field, to bury strangers in.",
+      "metadata": {
+        "reference": "Matthew 27:7",
+        "verseKey": "kjv:matthew:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:27:8",
+      "numberLabel": "8",
+      "text": "Wherefore that field was called, The field of blood, unto this day.",
+      "metadata": {
+        "reference": "Matthew 27:8",
+        "verseKey": "kjv:matthew:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:27:9",
+      "numberLabel": "9",
+      "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;",
+      "metadata": {
+        "reference": "Matthew 27:9",
+        "verseKey": "kjv:matthew:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:27:10",
+      "numberLabel": "10",
+      "text": "And gave them for the potter’s field, as the Lord appointed me.",
+      "metadata": {
+        "reference": "Matthew 27:10",
+        "verseKey": "kjv:matthew:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:27:11",
+      "numberLabel": "11",
+      "text": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.",
+      "metadata": {
+        "reference": "Matthew 27:11",
+        "verseKey": "kjv:matthew:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:27:12",
+      "numberLabel": "12",
+      "text": "And when he was accused of the chief priests and elders, he answered nothing.",
+      "metadata": {
+        "reference": "Matthew 27:12",
+        "verseKey": "kjv:matthew:27:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:27:13",
+      "numberLabel": "13",
+      "text": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?",
+      "metadata": {
+        "reference": "Matthew 27:13",
+        "verseKey": "kjv:matthew:27:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:27:14",
+      "numberLabel": "14",
+      "text": "And he answered him to never a word; insomuch that the governor marvelled greatly.",
+      "metadata": {
+        "reference": "Matthew 27:14",
+        "verseKey": "kjv:matthew:27:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:27:15",
+      "numberLabel": "15",
+      "text": "Now at that feast the governor was wont to release unto the people a prisoner, whom they would.",
+      "metadata": {
+        "reference": "Matthew 27:15",
+        "verseKey": "kjv:matthew:27:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:27:16",
+      "numberLabel": "16",
+      "text": "And they had then a notable prisoner, called Barabbas.",
+      "metadata": {
+        "reference": "Matthew 27:16",
+        "verseKey": "kjv:matthew:27:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:27:17",
+      "numberLabel": "17",
+      "text": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?",
+      "metadata": {
+        "reference": "Matthew 27:17",
+        "verseKey": "kjv:matthew:27:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:27:18",
+      "numberLabel": "18",
+      "text": "For he knew that for envy they had delivered him.",
+      "metadata": {
+        "reference": "Matthew 27:18",
+        "verseKey": "kjv:matthew:27:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:27:19",
+      "numberLabel": "19",
+      "text": "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.",
+      "metadata": {
+        "reference": "Matthew 27:19",
+        "verseKey": "kjv:matthew:27:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:27:20",
+      "numberLabel": "20",
+      "text": "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.",
+      "metadata": {
+        "reference": "Matthew 27:20",
+        "verseKey": "kjv:matthew:27:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:27:21",
+      "numberLabel": "21",
+      "text": "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.",
+      "metadata": {
+        "reference": "Matthew 27:21",
+        "verseKey": "kjv:matthew:27:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:27:22",
+      "numberLabel": "22",
+      "text": "Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.",
+      "metadata": {
+        "reference": "Matthew 27:22",
+        "verseKey": "kjv:matthew:27:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:27:23",
+      "numberLabel": "23",
+      "text": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.",
+      "metadata": {
+        "reference": "Matthew 27:23",
+        "verseKey": "kjv:matthew:27:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:27:24",
+      "numberLabel": "24",
+      "text": "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it.",
+      "metadata": {
+        "reference": "Matthew 27:24",
+        "verseKey": "kjv:matthew:27:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:27:25",
+      "numberLabel": "25",
+      "text": "Then answered all the people, and said, His blood be on us, and on our children.",
+      "metadata": {
+        "reference": "Matthew 27:25",
+        "verseKey": "kjv:matthew:27:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:27:26",
+      "numberLabel": "26",
+      "text": "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified.",
+      "metadata": {
+        "reference": "Matthew 27:26",
+        "verseKey": "kjv:matthew:27:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:27:27",
+      "numberLabel": "27",
+      "text": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers.",
+      "metadata": {
+        "reference": "Matthew 27:27",
+        "verseKey": "kjv:matthew:27:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:27:28",
+      "numberLabel": "28",
+      "text": "And they stripped him, and put on him a scarlet robe.",
+      "metadata": {
+        "reference": "Matthew 27:28",
+        "verseKey": "kjv:matthew:27:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:27:29",
+      "numberLabel": "29",
+      "text": "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!",
+      "metadata": {
+        "reference": "Matthew 27:29",
+        "verseKey": "kjv:matthew:27:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:27:30",
+      "numberLabel": "30",
+      "text": "And they spit upon him, and took the reed, and smote him on the head.",
+      "metadata": {
+        "reference": "Matthew 27:30",
+        "verseKey": "kjv:matthew:27:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:27:31",
+      "numberLabel": "31",
+      "text": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him.",
+      "metadata": {
+        "reference": "Matthew 27:31",
+        "verseKey": "kjv:matthew:27:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:27:32",
+      "numberLabel": "32",
+      "text": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.",
+      "metadata": {
+        "reference": "Matthew 27:32",
+        "verseKey": "kjv:matthew:27:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:27:33",
+      "numberLabel": "33",
+      "text": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,",
+      "metadata": {
+        "reference": "Matthew 27:33",
+        "verseKey": "kjv:matthew:27:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:27:34",
+      "numberLabel": "34",
+      "text": "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.",
+      "metadata": {
+        "reference": "Matthew 27:34",
+        "verseKey": "kjv:matthew:27:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:27:35",
+      "numberLabel": "35",
+      "text": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.",
+      "metadata": {
+        "reference": "Matthew 27:35",
+        "verseKey": "kjv:matthew:27:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:27:36",
+      "numberLabel": "36",
+      "text": "And sitting down they watched him there;",
+      "metadata": {
+        "reference": "Matthew 27:36",
+        "verseKey": "kjv:matthew:27:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:matthew:27:37",
+      "numberLabel": "37",
+      "text": "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.",
+      "metadata": {
+        "reference": "Matthew 27:37",
+        "verseKey": "kjv:matthew:27:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:matthew:27:38",
+      "numberLabel": "38",
+      "text": "Then were there two thieves crucified with him, one on the right hand, and another on the left.",
+      "metadata": {
+        "reference": "Matthew 27:38",
+        "verseKey": "kjv:matthew:27:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:matthew:27:39",
+      "numberLabel": "39",
+      "text": "And they that passed by reviled him, wagging their heads,",
+      "metadata": {
+        "reference": "Matthew 27:39",
+        "verseKey": "kjv:matthew:27:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:matthew:27:40",
+      "numberLabel": "40",
+      "text": "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross.",
+      "metadata": {
+        "reference": "Matthew 27:40",
+        "verseKey": "kjv:matthew:27:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:matthew:27:41",
+      "numberLabel": "41",
+      "text": "Likewise also the chief priests mocking him, with the scribes and elders, said,",
+      "metadata": {
+        "reference": "Matthew 27:41",
+        "verseKey": "kjv:matthew:27:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:matthew:27:42",
+      "numberLabel": "42",
+      "text": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.",
+      "metadata": {
+        "reference": "Matthew 27:42",
+        "verseKey": "kjv:matthew:27:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:matthew:27:43",
+      "numberLabel": "43",
+      "text": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.",
+      "metadata": {
+        "reference": "Matthew 27:43",
+        "verseKey": "kjv:matthew:27:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:matthew:27:44",
+      "numberLabel": "44",
+      "text": "The thieves also, which were crucified with him, cast the same in his teeth.",
+      "metadata": {
+        "reference": "Matthew 27:44",
+        "verseKey": "kjv:matthew:27:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:matthew:27:45",
+      "numberLabel": "45",
+      "text": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+      "metadata": {
+        "reference": "Matthew 27:45",
+        "verseKey": "kjv:matthew:27:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:matthew:27:46",
+      "numberLabel": "46",
+      "text": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?",
+      "metadata": {
+        "reference": "Matthew 27:46",
+        "verseKey": "kjv:matthew:27:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:matthew:27:47",
+      "numberLabel": "47",
+      "text": "Some of them that stood there, when they heard that, said, This man calleth for Elias.",
+      "metadata": {
+        "reference": "Matthew 27:47",
+        "verseKey": "kjv:matthew:27:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:matthew:27:48",
+      "numberLabel": "48",
+      "text": "And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink.",
+      "metadata": {
+        "reference": "Matthew 27:48",
+        "verseKey": "kjv:matthew:27:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:matthew:27:49",
+      "numberLabel": "49",
+      "text": "The rest said, Let be, let us see whether Elias will come to save him.",
+      "metadata": {
+        "reference": "Matthew 27:49",
+        "verseKey": "kjv:matthew:27:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:matthew:27:50",
+      "numberLabel": "50",
+      "text": "Jesus, when he had cried again with a loud voice, yielded up the ghost.",
+      "metadata": {
+        "reference": "Matthew 27:50",
+        "verseKey": "kjv:matthew:27:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:matthew:27:51",
+      "numberLabel": "51",
+      "text": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+      "metadata": {
+        "reference": "Matthew 27:51",
+        "verseKey": "kjv:matthew:27:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:matthew:27:52",
+      "numberLabel": "52",
+      "text": "And the graves were opened; and many bodies of the saints which slept arose,",
+      "metadata": {
+        "reference": "Matthew 27:52",
+        "verseKey": "kjv:matthew:27:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:matthew:27:53",
+      "numberLabel": "53",
+      "text": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.",
+      "metadata": {
+        "reference": "Matthew 27:53",
+        "verseKey": "kjv:matthew:27:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:matthew:27:54",
+      "numberLabel": "54",
+      "text": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.",
+      "metadata": {
+        "reference": "Matthew 27:54",
+        "verseKey": "kjv:matthew:27:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:matthew:27:55",
+      "numberLabel": "55",
+      "text": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:",
+      "metadata": {
+        "reference": "Matthew 27:55",
+        "verseKey": "kjv:matthew:27:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:matthew:27:56",
+      "numberLabel": "56",
+      "text": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee’s children.",
+      "metadata": {
+        "reference": "Matthew 27:56",
+        "verseKey": "kjv:matthew:27:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:matthew:27:57",
+      "numberLabel": "57",
+      "text": "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus’ disciple:",
+      "metadata": {
+        "reference": "Matthew 27:57",
+        "verseKey": "kjv:matthew:27:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:matthew:27:58",
+      "numberLabel": "58",
+      "text": "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.",
+      "metadata": {
+        "reference": "Matthew 27:58",
+        "verseKey": "kjv:matthew:27:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:matthew:27:59",
+      "numberLabel": "59",
+      "text": "And when Joseph had taken the body, he wrapped it in a clean linen cloth,",
+      "metadata": {
+        "reference": "Matthew 27:59",
+        "verseKey": "kjv:matthew:27:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:matthew:27:60",
+      "numberLabel": "60",
+      "text": "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.",
+      "metadata": {
+        "reference": "Matthew 27:60",
+        "verseKey": "kjv:matthew:27:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:matthew:27:61",
+      "numberLabel": "61",
+      "text": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.",
+      "metadata": {
+        "reference": "Matthew 27:61",
+        "verseKey": "kjv:matthew:27:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:matthew:27:62",
+      "numberLabel": "62",
+      "text": "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,",
+      "metadata": {
+        "reference": "Matthew 27:62",
+        "verseKey": "kjv:matthew:27:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:matthew:27:63",
+      "numberLabel": "63",
+      "text": "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again.",
+      "metadata": {
+        "reference": "Matthew 27:63",
+        "verseKey": "kjv:matthew:27:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:matthew:27:64",
+      "numberLabel": "64",
+      "text": "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.",
+      "metadata": {
+        "reference": "Matthew 27:64",
+        "verseKey": "kjv:matthew:27:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:matthew:27:65",
+      "numberLabel": "65",
+      "text": "Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can.",
+      "metadata": {
+        "reference": "Matthew 27:65",
+        "verseKey": "kjv:matthew:27:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:matthew:27:66",
+      "numberLabel": "66",
+      "text": "So they went, and made the sepulchre sure, sealing the stone, and setting a watch.",
+      "metadata": {
+        "reference": "Matthew 27:66",
+        "verseKey": "kjv:matthew:27:66"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

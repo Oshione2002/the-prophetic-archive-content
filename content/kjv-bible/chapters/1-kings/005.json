@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-kings-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "1 Kings 5",
+  "display_title": "1 Kings 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-kings",
+  "book": "1 Kings",
+  "bookName": "1 Kings",
+  "bookOrder": 11,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 11005,
+  "verseCount": 18,
+  "aliases": [
+    "1 Kgs",
+    "1Kgs",
+    "1 Ki",
+    "1Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-kings:5:1",
+      "numberLabel": "1",
+      "text": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.",
+      "metadata": {
+        "reference": "1 Kings 5:1",
+        "verseKey": "kjv:1-kings:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-kings:5:2",
+      "numberLabel": "2",
+      "text": "And Solomon sent to Hiram, saying,",
+      "metadata": {
+        "reference": "1 Kings 5:2",
+        "verseKey": "kjv:1-kings:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-kings:5:3",
+      "numberLabel": "3",
+      "text": "Thou knowest how that David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of his feet.",
+      "metadata": {
+        "reference": "1 Kings 5:3",
+        "verseKey": "kjv:1-kings:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-kings:5:4",
+      "numberLabel": "4",
+      "text": "But now the LORD my God hath given me rest on every side, so that there is neither adversary nor evil occurrent.",
+      "metadata": {
+        "reference": "1 Kings 5:4",
+        "verseKey": "kjv:1-kings:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-kings:5:5",
+      "numberLabel": "5",
+      "text": "And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.",
+      "metadata": {
+        "reference": "1 Kings 5:5",
+        "verseKey": "kjv:1-kings:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-kings:5:6",
+      "numberLabel": "6",
+      "text": "Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians.",
+      "metadata": {
+        "reference": "1 Kings 5:6",
+        "verseKey": "kjv:1-kings:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-kings:5:7",
+      "numberLabel": "7",
+      "text": "And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which hath given unto David a wise son over this great people.",
+      "metadata": {
+        "reference": "1 Kings 5:7",
+        "verseKey": "kjv:1-kings:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-kings:5:8",
+      "numberLabel": "8",
+      "text": "And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir.",
+      "metadata": {
+        "reference": "1 Kings 5:8",
+        "verseKey": "kjv:1-kings:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-kings:5:9",
+      "numberLabel": "9",
+      "text": "My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household.",
+      "metadata": {
+        "reference": "1 Kings 5:9",
+        "verseKey": "kjv:1-kings:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-kings:5:10",
+      "numberLabel": "10",
+      "text": "So Hiram gave Solomon cedar trees and fir trees according to all his desire.",
+      "metadata": {
+        "reference": "1 Kings 5:10",
+        "verseKey": "kjv:1-kings:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-kings:5:11",
+      "numberLabel": "11",
+      "text": "And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.",
+      "metadata": {
+        "reference": "1 Kings 5:11",
+        "verseKey": "kjv:1-kings:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-kings:5:12",
+      "numberLabel": "12",
+      "text": "And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.",
+      "metadata": {
+        "reference": "1 Kings 5:12",
+        "verseKey": "kjv:1-kings:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-kings:5:13",
+      "numberLabel": "13",
+      "text": "And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.",
+      "metadata": {
+        "reference": "1 Kings 5:13",
+        "verseKey": "kjv:1-kings:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-kings:5:14",
+      "numberLabel": "14",
+      "text": "And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy.",
+      "metadata": {
+        "reference": "1 Kings 5:14",
+        "verseKey": "kjv:1-kings:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-kings:5:15",
+      "numberLabel": "15",
+      "text": "And Solomon had threescore and ten thousand that bare burdens, and fourscore thousand hewers in the mountains;",
+      "metadata": {
+        "reference": "1 Kings 5:15",
+        "verseKey": "kjv:1-kings:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-kings:5:16",
+      "numberLabel": "16",
+      "text": "Beside the chief of Solomon’s officers which were over the work, three thousand and three hundred, which ruled over the people that wrought in the work.",
+      "metadata": {
+        "reference": "1 Kings 5:16",
+        "verseKey": "kjv:1-kings:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-kings:5:17",
+      "numberLabel": "17",
+      "text": "And the king commanded, and they brought great stones, costly stones, and hewed stones, to lay the foundation of the house.",
+      "metadata": {
+        "reference": "1 Kings 5:17",
+        "verseKey": "kjv:1-kings:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-kings:5:18",
+      "numberLabel": "18",
+      "text": "And Solomon’s builders and Hiram’s builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house.",
+      "metadata": {
+        "reference": "1 Kings 5:18",
+        "verseKey": "kjv:1-kings:5:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

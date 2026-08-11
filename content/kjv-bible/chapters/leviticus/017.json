@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Leviticus 17",
+  "display_title": "Leviticus 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 3017,
+  "verseCount": 16,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:17:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 17:1",
+        "verseKey": "kjv:leviticus:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:17:2",
+      "numberLabel": "2",
+      "text": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying,",
+      "metadata": {
+        "reference": "Leviticus 17:2",
+        "verseKey": "kjv:leviticus:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:17:3",
+      "numberLabel": "3",
+      "text": "What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,",
+      "metadata": {
+        "reference": "Leviticus 17:3",
+        "verseKey": "kjv:leviticus:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:17:4",
+      "numberLabel": "4",
+      "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:",
+      "metadata": {
+        "reference": "Leviticus 17:4",
+        "verseKey": "kjv:leviticus:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:17:5",
+      "numberLabel": "5",
+      "text": "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 17:5",
+        "verseKey": "kjv:leviticus:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:17:6",
+      "numberLabel": "6",
+      "text": "And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 17:6",
+        "verseKey": "kjv:leviticus:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:17:7",
+      "numberLabel": "7",
+      "text": "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.",
+      "metadata": {
+        "reference": "Leviticus 17:7",
+        "verseKey": "kjv:leviticus:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:17:8",
+      "numberLabel": "8",
+      "text": "And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,",
+      "metadata": {
+        "reference": "Leviticus 17:8",
+        "verseKey": "kjv:leviticus:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:17:9",
+      "numberLabel": "9",
+      "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people.",
+      "metadata": {
+        "reference": "Leviticus 17:9",
+        "verseKey": "kjv:leviticus:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:17:10",
+      "numberLabel": "10",
+      "text": "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.",
+      "metadata": {
+        "reference": "Leviticus 17:10",
+        "verseKey": "kjv:leviticus:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:17:11",
+      "numberLabel": "11",
+      "text": "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul.",
+      "metadata": {
+        "reference": "Leviticus 17:11",
+        "verseKey": "kjv:leviticus:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:17:12",
+      "numberLabel": "12",
+      "text": "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.",
+      "metadata": {
+        "reference": "Leviticus 17:12",
+        "verseKey": "kjv:leviticus:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:17:13",
+      "numberLabel": "13",
+      "text": "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.",
+      "metadata": {
+        "reference": "Leviticus 17:13",
+        "verseKey": "kjv:leviticus:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:17:14",
+      "numberLabel": "14",
+      "text": "For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.",
+      "metadata": {
+        "reference": "Leviticus 17:14",
+        "verseKey": "kjv:leviticus:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:17:15",
+      "numberLabel": "15",
+      "text": "And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.",
+      "metadata": {
+        "reference": "Leviticus 17:15",
+        "verseKey": "kjv:leviticus:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:17:16",
+      "numberLabel": "16",
+      "text": "But if he wash them not, nor bathe his flesh; then he shall bear his iniquity.",
+      "metadata": {
+        "reference": "Leviticus 17:16",
+        "verseKey": "kjv:leviticus:17:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

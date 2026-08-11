@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-021",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 21,
+  "title": "Deuteronomy 21",
+  "display_title": "Deuteronomy 21",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 21,
+  "sortOrder": 5021,
+  "verseCount": 23,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:21:1",
+      "numberLabel": "1",
+      "text": "If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:",
+      "metadata": {
+        "reference": "Deuteronomy 21:1",
+        "verseKey": "kjv:deuteronomy:21:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:21:2",
+      "numberLabel": "2",
+      "text": "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain:",
+      "metadata": {
+        "reference": "Deuteronomy 21:2",
+        "verseKey": "kjv:deuteronomy:21:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:21:3",
+      "numberLabel": "3",
+      "text": "And it shall be, that the city which is next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, and which hath not drawn in the yoke;",
+      "metadata": {
+        "reference": "Deuteronomy 21:3",
+        "verseKey": "kjv:deuteronomy:21:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:21:4",
+      "numberLabel": "4",
+      "text": "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:",
+      "metadata": {
+        "reference": "Deuteronomy 21:4",
+        "verseKey": "kjv:deuteronomy:21:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:21:5",
+      "numberLabel": "5",
+      "text": "And the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD; and by their word shall every controversy and every stroke be tried:",
+      "metadata": {
+        "reference": "Deuteronomy 21:5",
+        "verseKey": "kjv:deuteronomy:21:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:21:6",
+      "numberLabel": "6",
+      "text": "And all the elders of that city, that are next unto the slain man, shall wash their hands over the heifer that is beheaded in the valley:",
+      "metadata": {
+        "reference": "Deuteronomy 21:6",
+        "verseKey": "kjv:deuteronomy:21:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:21:7",
+      "numberLabel": "7",
+      "text": "And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.",
+      "metadata": {
+        "reference": "Deuteronomy 21:7",
+        "verseKey": "kjv:deuteronomy:21:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:21:8",
+      "numberLabel": "8",
+      "text": "Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them.",
+      "metadata": {
+        "reference": "Deuteronomy 21:8",
+        "verseKey": "kjv:deuteronomy:21:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:21:9",
+      "numberLabel": "9",
+      "text": "So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the LORD.",
+      "metadata": {
+        "reference": "Deuteronomy 21:9",
+        "verseKey": "kjv:deuteronomy:21:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:21:10",
+      "numberLabel": "10",
+      "text": "When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,",
+      "metadata": {
+        "reference": "Deuteronomy 21:10",
+        "verseKey": "kjv:deuteronomy:21:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:21:11",
+      "numberLabel": "11",
+      "text": "And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;",
+      "metadata": {
+        "reference": "Deuteronomy 21:11",
+        "verseKey": "kjv:deuteronomy:21:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:21:12",
+      "numberLabel": "12",
+      "text": "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;",
+      "metadata": {
+        "reference": "Deuteronomy 21:12",
+        "verseKey": "kjv:deuteronomy:21:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:21:13",
+      "numberLabel": "13",
+      "text": "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.",
+      "metadata": {
+        "reference": "Deuteronomy 21:13",
+        "verseKey": "kjv:deuteronomy:21:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:21:14",
+      "numberLabel": "14",
+      "text": "And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her.",
+      "metadata": {
+        "reference": "Deuteronomy 21:14",
+        "verseKey": "kjv:deuteronomy:21:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:21:15",
+      "numberLabel": "15",
+      "text": "If a man have two wives, one beloved, and another hated, and they have born him children, both the beloved and the hated; and if the firstborn son be hers that was hated:",
+      "metadata": {
+        "reference": "Deuteronomy 21:15",
+        "verseKey": "kjv:deuteronomy:21:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:21:16",
+      "numberLabel": "16",
+      "text": "Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:",
+      "metadata": {
+        "reference": "Deuteronomy 21:16",
+        "verseKey": "kjv:deuteronomy:21:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:21:17",
+      "numberLabel": "17",
+      "text": "But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he hath: for he is the beginning of his strength; the right of the firstborn is his.",
+      "metadata": {
+        "reference": "Deuteronomy 21:17",
+        "verseKey": "kjv:deuteronomy:21:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:21:18",
+      "numberLabel": "18",
+      "text": "If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:",
+      "metadata": {
+        "reference": "Deuteronomy 21:18",
+        "verseKey": "kjv:deuteronomy:21:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:21:19",
+      "numberLabel": "19",
+      "text": "Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;",
+      "metadata": {
+        "reference": "Deuteronomy 21:19",
+        "verseKey": "kjv:deuteronomy:21:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:21:20",
+      "numberLabel": "20",
+      "text": "And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.",
+      "metadata": {
+        "reference": "Deuteronomy 21:20",
+        "verseKey": "kjv:deuteronomy:21:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:21:21",
+      "numberLabel": "21",
+      "text": "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.",
+      "metadata": {
+        "reference": "Deuteronomy 21:21",
+        "verseKey": "kjv:deuteronomy:21:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:21:22",
+      "numberLabel": "22",
+      "text": "And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:",
+      "metadata": {
+        "reference": "Deuteronomy 21:22",
+        "verseKey": "kjv:deuteronomy:21:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:21:23",
+      "numberLabel": "23",
+      "text": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance.",
+      "metadata": {
+        "reference": "Deuteronomy 21:23",
+        "verseKey": "kjv:deuteronomy:21:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

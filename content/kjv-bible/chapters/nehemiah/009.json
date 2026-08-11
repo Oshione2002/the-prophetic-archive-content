@@ -1,0 +1,488 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-nehemiah-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Nehemiah 9",
+  "display_title": "Nehemiah 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "nehemiah",
+  "book": "Nehemiah",
+  "bookName": "Nehemiah",
+  "bookOrder": 16,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 16009,
+  "verseCount": 38,
+  "aliases": [
+    "Neh",
+    "Ne"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:nehemiah:9:1",
+      "numberLabel": "1",
+      "text": "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.",
+      "metadata": {
+        "reference": "Nehemiah 9:1",
+        "verseKey": "kjv:nehemiah:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:nehemiah:9:2",
+      "numberLabel": "2",
+      "text": "And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.",
+      "metadata": {
+        "reference": "Nehemiah 9:2",
+        "verseKey": "kjv:nehemiah:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:nehemiah:9:3",
+      "numberLabel": "3",
+      "text": "And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God.",
+      "metadata": {
+        "reference": "Nehemiah 9:3",
+        "verseKey": "kjv:nehemiah:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:nehemiah:9:4",
+      "numberLabel": "4",
+      "text": "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God.",
+      "metadata": {
+        "reference": "Nehemiah 9:4",
+        "verseKey": "kjv:nehemiah:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:nehemiah:9:5",
+      "numberLabel": "5",
+      "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.",
+      "metadata": {
+        "reference": "Nehemiah 9:5",
+        "verseKey": "kjv:nehemiah:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:nehemiah:9:6",
+      "numberLabel": "6",
+      "text": "Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+      "metadata": {
+        "reference": "Nehemiah 9:6",
+        "verseKey": "kjv:nehemiah:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:nehemiah:9:7",
+      "numberLabel": "7",
+      "text": "Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;",
+      "metadata": {
+        "reference": "Nehemiah 9:7",
+        "verseKey": "kjv:nehemiah:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:nehemiah:9:8",
+      "numberLabel": "8",
+      "text": "And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed thy words; for thou art righteous:",
+      "metadata": {
+        "reference": "Nehemiah 9:8",
+        "verseKey": "kjv:nehemiah:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:nehemiah:9:9",
+      "numberLabel": "9",
+      "text": "And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea;",
+      "metadata": {
+        "reference": "Nehemiah 9:9",
+        "verseKey": "kjv:nehemiah:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:nehemiah:9:10",
+      "numberLabel": "10",
+      "text": "And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as it is this day.",
+      "metadata": {
+        "reference": "Nehemiah 9:10",
+        "verseKey": "kjv:nehemiah:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:nehemiah:9:11",
+      "numberLabel": "11",
+      "text": "And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors thou threwest into the deeps, as a stone into the mighty waters.",
+      "metadata": {
+        "reference": "Nehemiah 9:11",
+        "verseKey": "kjv:nehemiah:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:nehemiah:9:12",
+      "numberLabel": "12",
+      "text": "Moreover thou leddest them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go.",
+      "metadata": {
+        "reference": "Nehemiah 9:12",
+        "verseKey": "kjv:nehemiah:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:nehemiah:9:13",
+      "numberLabel": "13",
+      "text": "Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments, and true laws, good statutes and commandments:",
+      "metadata": {
+        "reference": "Nehemiah 9:13",
+        "verseKey": "kjv:nehemiah:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:nehemiah:9:14",
+      "numberLabel": "14",
+      "text": "And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:",
+      "metadata": {
+        "reference": "Nehemiah 9:14",
+        "verseKey": "kjv:nehemiah:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:nehemiah:9:15",
+      "numberLabel": "15",
+      "text": "And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them.",
+      "metadata": {
+        "reference": "Nehemiah 9:15",
+        "verseKey": "kjv:nehemiah:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:nehemiah:9:16",
+      "numberLabel": "16",
+      "text": "But they and our fathers dealt proudly, and hardened their necks, and hearkened not to thy commandments,",
+      "metadata": {
+        "reference": "Nehemiah 9:16",
+        "verseKey": "kjv:nehemiah:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:nehemiah:9:17",
+      "numberLabel": "17",
+      "text": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.",
+      "metadata": {
+        "reference": "Nehemiah 9:17",
+        "verseKey": "kjv:nehemiah:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:nehemiah:9:18",
+      "numberLabel": "18",
+      "text": "Yea, when they had made them a molten calf, and said, This is thy God that brought thee up out of Egypt, and had wrought great provocations;",
+      "metadata": {
+        "reference": "Nehemiah 9:18",
+        "verseKey": "kjv:nehemiah:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:nehemiah:9:19",
+      "numberLabel": "19",
+      "text": "Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.",
+      "metadata": {
+        "reference": "Nehemiah 9:19",
+        "verseKey": "kjv:nehemiah:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:nehemiah:9:20",
+      "numberLabel": "20",
+      "text": "Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst.",
+      "metadata": {
+        "reference": "Nehemiah 9:20",
+        "verseKey": "kjv:nehemiah:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:nehemiah:9:21",
+      "numberLabel": "21",
+      "text": "Yea, forty years didst thou sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swelled not.",
+      "metadata": {
+        "reference": "Nehemiah 9:21",
+        "verseKey": "kjv:nehemiah:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:nehemiah:9:22",
+      "numberLabel": "22",
+      "text": "Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.",
+      "metadata": {
+        "reference": "Nehemiah 9:22",
+        "verseKey": "kjv:nehemiah:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:nehemiah:9:23",
+      "numberLabel": "23",
+      "text": "Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess it.",
+      "metadata": {
+        "reference": "Nehemiah 9:23",
+        "verseKey": "kjv:nehemiah:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:nehemiah:9:24",
+      "numberLabel": "24",
+      "text": "So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.",
+      "metadata": {
+        "reference": "Nehemiah 9:24",
+        "verseKey": "kjv:nehemiah:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:nehemiah:9:25",
+      "numberLabel": "25",
+      "text": "And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in thy great goodness.",
+      "metadata": {
+        "reference": "Nehemiah 9:25",
+        "verseKey": "kjv:nehemiah:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:nehemiah:9:26",
+      "numberLabel": "26",
+      "text": "Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their backs, and slew thy prophets which testified against them to turn them to thee, and they wrought great provocations.",
+      "metadata": {
+        "reference": "Nehemiah 9:26",
+        "verseKey": "kjv:nehemiah:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:nehemiah:9:27",
+      "numberLabel": "27",
+      "text": "Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest them from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.",
+      "metadata": {
+        "reference": "Nehemiah 9:27",
+        "verseKey": "kjv:nehemiah:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:nehemiah:9:28",
+      "numberLabel": "28",
+      "text": "But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest them from heaven; and many times didst thou deliver them according to thy mercies;",
+      "metadata": {
+        "reference": "Nehemiah 9:28",
+        "verseKey": "kjv:nehemiah:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:nehemiah:9:29",
+      "numberLabel": "29",
+      "text": "And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.",
+      "metadata": {
+        "reference": "Nehemiah 9:29",
+        "verseKey": "kjv:nehemiah:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:nehemiah:9:30",
+      "numberLabel": "30",
+      "text": "Yet many years didst thou forbear them, and testifiedst against them by thy spirit in thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the people of the lands.",
+      "metadata": {
+        "reference": "Nehemiah 9:30",
+        "verseKey": "kjv:nehemiah:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:nehemiah:9:31",
+      "numberLabel": "31",
+      "text": "Nevertheless for thy great mercies’ sake thou didst not utterly consume them, nor forsake them; for thou art a gracious and merciful God.",
+      "metadata": {
+        "reference": "Nehemiah 9:31",
+        "verseKey": "kjv:nehemiah:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:nehemiah:9:32",
+      "numberLabel": "32",
+      "text": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.",
+      "metadata": {
+        "reference": "Nehemiah 9:32",
+        "verseKey": "kjv:nehemiah:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:nehemiah:9:33",
+      "numberLabel": "33",
+      "text": "Howbeit thou art just in all that is brought upon us; for thou hast done right, but we have done wickedly:",
+      "metadata": {
+        "reference": "Nehemiah 9:33",
+        "verseKey": "kjv:nehemiah:9:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:nehemiah:9:34",
+      "numberLabel": "34",
+      "text": "Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them.",
+      "metadata": {
+        "reference": "Nehemiah 9:34",
+        "verseKey": "kjv:nehemiah:9:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:nehemiah:9:35",
+      "numberLabel": "35",
+      "text": "For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works.",
+      "metadata": {
+        "reference": "Nehemiah 9:35",
+        "verseKey": "kjv:nehemiah:9:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:nehemiah:9:36",
+      "numberLabel": "36",
+      "text": "Behold, we are servants this day, and for the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:",
+      "metadata": {
+        "reference": "Nehemiah 9:36",
+        "verseKey": "kjv:nehemiah:9:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:nehemiah:9:37",
+      "numberLabel": "37",
+      "text": "And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.",
+      "metadata": {
+        "reference": "Nehemiah 9:37",
+        "verseKey": "kjv:nehemiah:9:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:nehemiah:9:38",
+      "numberLabel": "38",
+      "text": "And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it.",
+      "metadata": {
+        "reference": "Nehemiah 9:38",
+        "verseKey": "kjv:nehemiah:9:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Nehemiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Nehemiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

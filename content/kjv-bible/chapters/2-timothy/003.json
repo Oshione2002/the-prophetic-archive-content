@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-timothy-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "2 Timothy 3",
+  "display_title": "2 Timothy 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-timothy",
+  "book": "2 Timothy",
+  "bookName": "2 Timothy",
+  "bookOrder": 55,
+  "testament": "new",
+  "chapter": 3,
+  "sortOrder": 55003,
+  "verseCount": 17,
+  "aliases": [
+    "2 Tim",
+    "2Tim",
+    "2 Ti",
+    "2Ti"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-timothy:3:1",
+      "numberLabel": "1",
+      "text": "This know also, that in the last days perilous times shall come.",
+      "metadata": {
+        "reference": "2 Timothy 3:1",
+        "verseKey": "kjv:2-timothy:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-timothy:3:2",
+      "numberLabel": "2",
+      "text": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+      "metadata": {
+        "reference": "2 Timothy 3:2",
+        "verseKey": "kjv:2-timothy:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-timothy:3:3",
+      "numberLabel": "3",
+      "text": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
+      "metadata": {
+        "reference": "2 Timothy 3:3",
+        "verseKey": "kjv:2-timothy:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-timothy:3:4",
+      "numberLabel": "4",
+      "text": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
+      "metadata": {
+        "reference": "2 Timothy 3:4",
+        "verseKey": "kjv:2-timothy:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-timothy:3:5",
+      "numberLabel": "5",
+      "text": "Having a form of godliness, but denying the power thereof: from such turn away.",
+      "metadata": {
+        "reference": "2 Timothy 3:5",
+        "verseKey": "kjv:2-timothy:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-timothy:3:6",
+      "numberLabel": "6",
+      "text": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
+      "metadata": {
+        "reference": "2 Timothy 3:6",
+        "verseKey": "kjv:2-timothy:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-timothy:3:7",
+      "numberLabel": "7",
+      "text": "Ever learning, and never able to come to the knowledge of the truth.",
+      "metadata": {
+        "reference": "2 Timothy 3:7",
+        "verseKey": "kjv:2-timothy:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-timothy:3:8",
+      "numberLabel": "8",
+      "text": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+      "metadata": {
+        "reference": "2 Timothy 3:8",
+        "verseKey": "kjv:2-timothy:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-timothy:3:9",
+      "numberLabel": "9",
+      "text": "But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was.",
+      "metadata": {
+        "reference": "2 Timothy 3:9",
+        "verseKey": "kjv:2-timothy:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-timothy:3:10",
+      "numberLabel": "10",
+      "text": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
+      "metadata": {
+        "reference": "2 Timothy 3:10",
+        "verseKey": "kjv:2-timothy:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-timothy:3:11",
+      "numberLabel": "11",
+      "text": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.",
+      "metadata": {
+        "reference": "2 Timothy 3:11",
+        "verseKey": "kjv:2-timothy:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-timothy:3:12",
+      "numberLabel": "12",
+      "text": "Yea, and all that will live godly in Christ Jesus shall suffer persecution.",
+      "metadata": {
+        "reference": "2 Timothy 3:12",
+        "verseKey": "kjv:2-timothy:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-timothy:3:13",
+      "numberLabel": "13",
+      "text": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived.",
+      "metadata": {
+        "reference": "2 Timothy 3:13",
+        "verseKey": "kjv:2-timothy:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-timothy:3:14",
+      "numberLabel": "14",
+      "text": "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;",
+      "metadata": {
+        "reference": "2 Timothy 3:14",
+        "verseKey": "kjv:2-timothy:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-timothy:3:15",
+      "numberLabel": "15",
+      "text": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
+      "metadata": {
+        "reference": "2 Timothy 3:15",
+        "verseKey": "kjv:2-timothy:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-timothy:3:16",
+      "numberLabel": "16",
+      "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+      "metadata": {
+        "reference": "2 Timothy 3:16",
+        "verseKey": "kjv:2-timothy:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-timothy:3:17",
+      "numberLabel": "17",
+      "text": "That the man of God may be perfect, throughly furnished unto all good works.",
+      "metadata": {
+        "reference": "2 Timothy 3:17",
+        "verseKey": "kjv:2-timothy:3:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Timothy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Timothy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

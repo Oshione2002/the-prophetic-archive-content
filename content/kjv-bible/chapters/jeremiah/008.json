@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Jeremiah 8",
+  "display_title": "Jeremiah 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 24008,
+  "verseCount": 22,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:8:1",
+      "numberLabel": "1",
+      "text": "At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:",
+      "metadata": {
+        "reference": "Jeremiah 8:1",
+        "verseKey": "kjv:jeremiah:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:8:2",
+      "numberLabel": "2",
+      "text": "And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth.",
+      "metadata": {
+        "reference": "Jeremiah 8:2",
+        "verseKey": "kjv:jeremiah:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:8:3",
+      "numberLabel": "3",
+      "text": "And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places whither I have driven them, saith the LORD of hosts.",
+      "metadata": {
+        "reference": "Jeremiah 8:3",
+        "verseKey": "kjv:jeremiah:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:8:4",
+      "numberLabel": "4",
+      "text": "Moreover thou shalt say unto them, Thus saith the LORD; Shall they fall, and not arise? shall he turn away, and not return?",
+      "metadata": {
+        "reference": "Jeremiah 8:4",
+        "verseKey": "kjv:jeremiah:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:8:5",
+      "numberLabel": "5",
+      "text": "Why then is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return.",
+      "metadata": {
+        "reference": "Jeremiah 8:5",
+        "verseKey": "kjv:jeremiah:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:8:6",
+      "numberLabel": "6",
+      "text": "I hearkened and heard, but they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle.",
+      "metadata": {
+        "reference": "Jeremiah 8:6",
+        "verseKey": "kjv:jeremiah:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:8:7",
+      "numberLabel": "7",
+      "text": "Yea, the stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 8:7",
+        "verseKey": "kjv:jeremiah:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:8:8",
+      "numberLabel": "8",
+      "text": "How do ye say, We are wise, and the law of the LORD is with us? Lo, certainly in vain made he it; the pen of the scribes is in vain.",
+      "metadata": {
+        "reference": "Jeremiah 8:8",
+        "verseKey": "kjv:jeremiah:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:8:9",
+      "numberLabel": "9",
+      "text": "The wise men are ashamed, they are dismayed and taken: lo, they have rejected the word of the LORD; and what wisdom is in them?",
+      "metadata": {
+        "reference": "Jeremiah 8:9",
+        "verseKey": "kjv:jeremiah:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:8:10",
+      "numberLabel": "10",
+      "text": "Therefore will I give their wives unto others, and their fields to them that shall inherit them: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one dealeth falsely.",
+      "metadata": {
+        "reference": "Jeremiah 8:10",
+        "verseKey": "kjv:jeremiah:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:8:11",
+      "numberLabel": "11",
+      "text": "For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace.",
+      "metadata": {
+        "reference": "Jeremiah 8:11",
+        "verseKey": "kjv:jeremiah:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:8:12",
+      "numberLabel": "12",
+      "text": "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore shall they fall among them that fall: in the time of their visitation they shall be cast down, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 8:12",
+        "verseKey": "kjv:jeremiah:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:8:13",
+      "numberLabel": "13",
+      "text": "I will surely consume them, saith the LORD: there shall be no grapes on the vine, nor figs on the fig tree, and the leaf shall fade; and the things that I have given them shall pass away from them.",
+      "metadata": {
+        "reference": "Jeremiah 8:13",
+        "verseKey": "kjv:jeremiah:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:8:14",
+      "numberLabel": "14",
+      "text": "Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the LORD our God hath put us to silence, and given us water of gall to drink, because we have sinned against the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 8:14",
+        "verseKey": "kjv:jeremiah:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:8:15",
+      "numberLabel": "15",
+      "text": "We looked for peace, but no good came; and for a time of health, and behold trouble!",
+      "metadata": {
+        "reference": "Jeremiah 8:15",
+        "verseKey": "kjv:jeremiah:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:8:16",
+      "numberLabel": "16",
+      "text": "The snorting of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein.",
+      "metadata": {
+        "reference": "Jeremiah 8:16",
+        "verseKey": "kjv:jeremiah:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:8:17",
+      "numberLabel": "17",
+      "text": "For, behold, I will send serpents, cockatrices, among you, which will not be charmed, and they shall bite you, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 8:17",
+        "verseKey": "kjv:jeremiah:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:8:18",
+      "numberLabel": "18",
+      "text": "When I would comfort myself against sorrow, my heart is faint in me.",
+      "metadata": {
+        "reference": "Jeremiah 8:18",
+        "verseKey": "kjv:jeremiah:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:8:19",
+      "numberLabel": "19",
+      "text": "Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: Is not the LORD in Zion? is not her king in her? Why have they provoked me to anger with their graven images, and with strange vanities?",
+      "metadata": {
+        "reference": "Jeremiah 8:19",
+        "verseKey": "kjv:jeremiah:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:8:20",
+      "numberLabel": "20",
+      "text": "The harvest is past, the summer is ended, and we are not saved.",
+      "metadata": {
+        "reference": "Jeremiah 8:20",
+        "verseKey": "kjv:jeremiah:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:8:21",
+      "numberLabel": "21",
+      "text": "For the hurt of the daughter of my people am I hurt; I am black; astonishment hath taken hold on me.",
+      "metadata": {
+        "reference": "Jeremiah 8:21",
+        "verseKey": "kjv:jeremiah:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:8:22",
+      "numberLabel": "22",
+      "text": "Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?",
+      "metadata": {
+        "reference": "Jeremiah 8:22",
+        "verseKey": "kjv:jeremiah:8:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

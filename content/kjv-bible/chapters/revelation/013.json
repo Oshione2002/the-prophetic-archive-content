@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Revelation 13",
+  "display_title": "Revelation 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 13,
+  "sortOrder": 66013,
+  "verseCount": 18,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:13:1",
+      "numberLabel": "1",
+      "text": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.",
+      "metadata": {
+        "reference": "Revelation 13:1",
+        "verseKey": "kjv:revelation:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:13:2",
+      "numberLabel": "2",
+      "text": "And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.",
+      "metadata": {
+        "reference": "Revelation 13:2",
+        "verseKey": "kjv:revelation:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:13:3",
+      "numberLabel": "3",
+      "text": "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.",
+      "metadata": {
+        "reference": "Revelation 13:3",
+        "verseKey": "kjv:revelation:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:13:4",
+      "numberLabel": "4",
+      "text": "And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?",
+      "metadata": {
+        "reference": "Revelation 13:4",
+        "verseKey": "kjv:revelation:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:13:5",
+      "numberLabel": "5",
+      "text": "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.",
+      "metadata": {
+        "reference": "Revelation 13:5",
+        "verseKey": "kjv:revelation:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:13:6",
+      "numberLabel": "6",
+      "text": "And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.",
+      "metadata": {
+        "reference": "Revelation 13:6",
+        "verseKey": "kjv:revelation:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:13:7",
+      "numberLabel": "7",
+      "text": "And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.",
+      "metadata": {
+        "reference": "Revelation 13:7",
+        "verseKey": "kjv:revelation:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:13:8",
+      "numberLabel": "8",
+      "text": "And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.",
+      "metadata": {
+        "reference": "Revelation 13:8",
+        "verseKey": "kjv:revelation:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:13:9",
+      "numberLabel": "9",
+      "text": "If any man have an ear, let him hear.",
+      "metadata": {
+        "reference": "Revelation 13:9",
+        "verseKey": "kjv:revelation:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:13:10",
+      "numberLabel": "10",
+      "text": "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+      "metadata": {
+        "reference": "Revelation 13:10",
+        "verseKey": "kjv:revelation:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:13:11",
+      "numberLabel": "11",
+      "text": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.",
+      "metadata": {
+        "reference": "Revelation 13:11",
+        "verseKey": "kjv:revelation:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:revelation:13:12",
+      "numberLabel": "12",
+      "text": "And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.",
+      "metadata": {
+        "reference": "Revelation 13:12",
+        "verseKey": "kjv:revelation:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:revelation:13:13",
+      "numberLabel": "13",
+      "text": "And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,",
+      "metadata": {
+        "reference": "Revelation 13:13",
+        "verseKey": "kjv:revelation:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:revelation:13:14",
+      "numberLabel": "14",
+      "text": "And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.",
+      "metadata": {
+        "reference": "Revelation 13:14",
+        "verseKey": "kjv:revelation:13:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:revelation:13:15",
+      "numberLabel": "15",
+      "text": "And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.",
+      "metadata": {
+        "reference": "Revelation 13:15",
+        "verseKey": "kjv:revelation:13:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:revelation:13:16",
+      "numberLabel": "16",
+      "text": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:",
+      "metadata": {
+        "reference": "Revelation 13:16",
+        "verseKey": "kjv:revelation:13:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:revelation:13:17",
+      "numberLabel": "17",
+      "text": "And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.",
+      "metadata": {
+        "reference": "Revelation 13:17",
+        "verseKey": "kjv:revelation:13:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:revelation:13:18",
+      "numberLabel": "18",
+      "text": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.",
+      "metadata": {
+        "reference": "Revelation 13:18",
+        "verseKey": "kjv:revelation:13:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

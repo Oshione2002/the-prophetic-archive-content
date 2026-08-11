@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-samuel-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "2 Samuel 5",
+  "display_title": "2 Samuel 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-samuel",
+  "book": "2 Samuel",
+  "bookName": "2 Samuel",
+  "bookOrder": 10,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 10005,
+  "verseCount": 25,
+  "aliases": [
+    "2 Sam",
+    "2Sam",
+    "2 Sa",
+    "2Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-samuel:5:1",
+      "numberLabel": "1",
+      "text": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.",
+      "metadata": {
+        "reference": "2 Samuel 5:1",
+        "verseKey": "kjv:2-samuel:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-samuel:5:2",
+      "numberLabel": "2",
+      "text": "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.",
+      "metadata": {
+        "reference": "2 Samuel 5:2",
+        "verseKey": "kjv:2-samuel:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-samuel:5:3",
+      "numberLabel": "3",
+      "text": "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel.",
+      "metadata": {
+        "reference": "2 Samuel 5:3",
+        "verseKey": "kjv:2-samuel:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-samuel:5:4",
+      "numberLabel": "4",
+      "text": "David was thirty years old when he began to reign, and he reigned forty years.",
+      "metadata": {
+        "reference": "2 Samuel 5:4",
+        "verseKey": "kjv:2-samuel:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-samuel:5:5",
+      "numberLabel": "5",
+      "text": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.",
+      "metadata": {
+        "reference": "2 Samuel 5:5",
+        "verseKey": "kjv:2-samuel:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-samuel:5:6",
+      "numberLabel": "6",
+      "text": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.",
+      "metadata": {
+        "reference": "2 Samuel 5:6",
+        "verseKey": "kjv:2-samuel:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-samuel:5:7",
+      "numberLabel": "7",
+      "text": "Nevertheless David took the strong hold of Zion: the same is the city of David.",
+      "metadata": {
+        "reference": "2 Samuel 5:7",
+        "verseKey": "kjv:2-samuel:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-samuel:5:8",
+      "numberLabel": "8",
+      "text": "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David’s soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house.",
+      "metadata": {
+        "reference": "2 Samuel 5:8",
+        "verseKey": "kjv:2-samuel:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-samuel:5:9",
+      "numberLabel": "9",
+      "text": "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.",
+      "metadata": {
+        "reference": "2 Samuel 5:9",
+        "verseKey": "kjv:2-samuel:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-samuel:5:10",
+      "numberLabel": "10",
+      "text": "And David went on, and grew great, and the LORD God of hosts was with him.",
+      "metadata": {
+        "reference": "2 Samuel 5:10",
+        "verseKey": "kjv:2-samuel:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-samuel:5:11",
+      "numberLabel": "11",
+      "text": "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.",
+      "metadata": {
+        "reference": "2 Samuel 5:11",
+        "verseKey": "kjv:2-samuel:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-samuel:5:12",
+      "numberLabel": "12",
+      "text": "And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake.",
+      "metadata": {
+        "reference": "2 Samuel 5:12",
+        "verseKey": "kjv:2-samuel:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-samuel:5:13",
+      "numberLabel": "13",
+      "text": "And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.",
+      "metadata": {
+        "reference": "2 Samuel 5:13",
+        "verseKey": "kjv:2-samuel:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-samuel:5:14",
+      "numberLabel": "14",
+      "text": "And these be the names of those that were born unto him in Jerusalem; Shammuah, and Shobab, and Nathan, and Solomon,",
+      "metadata": {
+        "reference": "2 Samuel 5:14",
+        "verseKey": "kjv:2-samuel:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-samuel:5:15",
+      "numberLabel": "15",
+      "text": "Ibhar also, and Elishua, and Nepheg, and Japhia,",
+      "metadata": {
+        "reference": "2 Samuel 5:15",
+        "verseKey": "kjv:2-samuel:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-samuel:5:16",
+      "numberLabel": "16",
+      "text": "And Elishama, and Eliada, and Eliphalet.",
+      "metadata": {
+        "reference": "2 Samuel 5:16",
+        "verseKey": "kjv:2-samuel:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-samuel:5:17",
+      "numberLabel": "17",
+      "text": "But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold.",
+      "metadata": {
+        "reference": "2 Samuel 5:17",
+        "verseKey": "kjv:2-samuel:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-samuel:5:18",
+      "numberLabel": "18",
+      "text": "The Philistines also came and spread themselves in the valley of Rephaim.",
+      "metadata": {
+        "reference": "2 Samuel 5:18",
+        "verseKey": "kjv:2-samuel:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-samuel:5:19",
+      "numberLabel": "19",
+      "text": "And David enquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.",
+      "metadata": {
+        "reference": "2 Samuel 5:19",
+        "verseKey": "kjv:2-samuel:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-samuel:5:20",
+      "numberLabel": "20",
+      "text": "And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.",
+      "metadata": {
+        "reference": "2 Samuel 5:20",
+        "verseKey": "kjv:2-samuel:5:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-samuel:5:21",
+      "numberLabel": "21",
+      "text": "And there they left their images, and David and his men burned them.",
+      "metadata": {
+        "reference": "2 Samuel 5:21",
+        "verseKey": "kjv:2-samuel:5:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-samuel:5:22",
+      "numberLabel": "22",
+      "text": "And the Philistines came up yet again, and spread themselves in the valley of Rephaim.",
+      "metadata": {
+        "reference": "2 Samuel 5:22",
+        "verseKey": "kjv:2-samuel:5:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-samuel:5:23",
+      "numberLabel": "23",
+      "text": "And when David enquired of the LORD, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees.",
+      "metadata": {
+        "reference": "2 Samuel 5:23",
+        "verseKey": "kjv:2-samuel:5:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-samuel:5:24",
+      "numberLabel": "24",
+      "text": "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines.",
+      "metadata": {
+        "reference": "2 Samuel 5:24",
+        "verseKey": "kjv:2-samuel:5:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-samuel:5:25",
+      "numberLabel": "25",
+      "text": "And David did so, as the LORD had commanded him; and smote the Philistines from Geba until thou come to Gazer.",
+      "metadata": {
+        "reference": "2 Samuel 5:25",
+        "verseKey": "kjv:2-samuel:5:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

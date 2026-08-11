@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Numbers 19",
+  "display_title": "Numbers 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 4019,
+  "verseCount": 22,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:19:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+      "metadata": {
+        "reference": "Numbers 19:1",
+        "verseKey": "kjv:numbers:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:19:2",
+      "numberLabel": "2",
+      "text": "This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:",
+      "metadata": {
+        "reference": "Numbers 19:2",
+        "verseKey": "kjv:numbers:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:19:3",
+      "numberLabel": "3",
+      "text": "And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face:",
+      "metadata": {
+        "reference": "Numbers 19:3",
+        "verseKey": "kjv:numbers:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:19:4",
+      "numberLabel": "4",
+      "text": "And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:",
+      "metadata": {
+        "reference": "Numbers 19:4",
+        "verseKey": "kjv:numbers:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:19:5",
+      "numberLabel": "5",
+      "text": "And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:",
+      "metadata": {
+        "reference": "Numbers 19:5",
+        "verseKey": "kjv:numbers:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:19:6",
+      "numberLabel": "6",
+      "text": "And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer.",
+      "metadata": {
+        "reference": "Numbers 19:6",
+        "verseKey": "kjv:numbers:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:19:7",
+      "numberLabel": "7",
+      "text": "Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.",
+      "metadata": {
+        "reference": "Numbers 19:7",
+        "verseKey": "kjv:numbers:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:19:8",
+      "numberLabel": "8",
+      "text": "And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.",
+      "metadata": {
+        "reference": "Numbers 19:8",
+        "verseKey": "kjv:numbers:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:19:9",
+      "numberLabel": "9",
+      "text": "And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it is a purification for sin.",
+      "metadata": {
+        "reference": "Numbers 19:9",
+        "verseKey": "kjv:numbers:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:19:10",
+      "numberLabel": "10",
+      "text": "And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.",
+      "metadata": {
+        "reference": "Numbers 19:10",
+        "verseKey": "kjv:numbers:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:19:11",
+      "numberLabel": "11",
+      "text": "He that toucheth the dead body of any man shall be unclean seven days.",
+      "metadata": {
+        "reference": "Numbers 19:11",
+        "verseKey": "kjv:numbers:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:19:12",
+      "numberLabel": "12",
+      "text": "He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.",
+      "metadata": {
+        "reference": "Numbers 19:12",
+        "verseKey": "kjv:numbers:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:19:13",
+      "numberLabel": "13",
+      "text": "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.",
+      "metadata": {
+        "reference": "Numbers 19:13",
+        "verseKey": "kjv:numbers:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:19:14",
+      "numberLabel": "14",
+      "text": "This is the law, when a man dieth in a tent: all that come into the tent, and all that is in the tent, shall be unclean seven days.",
+      "metadata": {
+        "reference": "Numbers 19:14",
+        "verseKey": "kjv:numbers:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:19:15",
+      "numberLabel": "15",
+      "text": "And every open vessel, which hath no covering bound upon it, is unclean.",
+      "metadata": {
+        "reference": "Numbers 19:15",
+        "verseKey": "kjv:numbers:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:19:16",
+      "numberLabel": "16",
+      "text": "And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days.",
+      "metadata": {
+        "reference": "Numbers 19:16",
+        "verseKey": "kjv:numbers:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:19:17",
+      "numberLabel": "17",
+      "text": "And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:",
+      "metadata": {
+        "reference": "Numbers 19:17",
+        "verseKey": "kjv:numbers:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:19:18",
+      "numberLabel": "18",
+      "text": "And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:",
+      "metadata": {
+        "reference": "Numbers 19:18",
+        "verseKey": "kjv:numbers:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:19:19",
+      "numberLabel": "19",
+      "text": "And the clean person shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even.",
+      "metadata": {
+        "reference": "Numbers 19:19",
+        "verseKey": "kjv:numbers:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:19:20",
+      "numberLabel": "20",
+      "text": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the LORD: the water of separation hath not been sprinkled upon him; he is unclean.",
+      "metadata": {
+        "reference": "Numbers 19:20",
+        "verseKey": "kjv:numbers:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:19:21",
+      "numberLabel": "21",
+      "text": "And it shall be a perpetual statute unto them, that he that sprinkleth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even.",
+      "metadata": {
+        "reference": "Numbers 19:21",
+        "verseKey": "kjv:numbers:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:19:22",
+      "numberLabel": "22",
+      "text": "And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even.",
+      "metadata": {
+        "reference": "Numbers 19:22",
+        "verseKey": "kjv:numbers:19:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

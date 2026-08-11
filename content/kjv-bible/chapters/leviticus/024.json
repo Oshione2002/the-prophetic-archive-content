@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Leviticus 24",
+  "display_title": "Leviticus 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 3024,
+  "verseCount": 23,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:24:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 24:1",
+        "verseKey": "kjv:leviticus:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:24:2",
+      "numberLabel": "2",
+      "text": "Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.",
+      "metadata": {
+        "reference": "Leviticus 24:2",
+        "verseKey": "kjv:leviticus:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:24:3",
+      "numberLabel": "3",
+      "text": "Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: it shall be a statute for ever in your generations.",
+      "metadata": {
+        "reference": "Leviticus 24:3",
+        "verseKey": "kjv:leviticus:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:24:4",
+      "numberLabel": "4",
+      "text": "He shall order the lamps upon the pure candlestick before the LORD continually.",
+      "metadata": {
+        "reference": "Leviticus 24:4",
+        "verseKey": "kjv:leviticus:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:24:5",
+      "numberLabel": "5",
+      "text": "And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.",
+      "metadata": {
+        "reference": "Leviticus 24:5",
+        "verseKey": "kjv:leviticus:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:24:6",
+      "numberLabel": "6",
+      "text": "And thou shalt set them in two rows, six on a row, upon the pure table before the LORD.",
+      "metadata": {
+        "reference": "Leviticus 24:6",
+        "verseKey": "kjv:leviticus:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:24:7",
+      "numberLabel": "7",
+      "text": "And thou shalt put pure frankincense upon each row, that it may be on the bread for a memorial, even an offering made by fire unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 24:7",
+        "verseKey": "kjv:leviticus:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:24:8",
+      "numberLabel": "8",
+      "text": "Every sabbath he shall set it in order before the LORD continually, being taken from the children of Israel by an everlasting covenant.",
+      "metadata": {
+        "reference": "Leviticus 24:8",
+        "verseKey": "kjv:leviticus:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:24:9",
+      "numberLabel": "9",
+      "text": "And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it is most holy unto him of the offerings of the LORD made by fire by a perpetual statute.",
+      "metadata": {
+        "reference": "Leviticus 24:9",
+        "verseKey": "kjv:leviticus:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:24:10",
+      "numberLabel": "10",
+      "text": "And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelitish woman and a man of Israel strove together in the camp;",
+      "metadata": {
+        "reference": "Leviticus 24:10",
+        "verseKey": "kjv:leviticus:24:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:24:11",
+      "numberLabel": "11",
+      "text": "And the Israelitish woman’s son blasphemed the name of the Lord, and cursed. And they brought him unto Moses: (and his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan:)",
+      "metadata": {
+        "reference": "Leviticus 24:11",
+        "verseKey": "kjv:leviticus:24:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:24:12",
+      "numberLabel": "12",
+      "text": "And they put him in ward, that the mind of the LORD might be shewed them.",
+      "metadata": {
+        "reference": "Leviticus 24:12",
+        "verseKey": "kjv:leviticus:24:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:24:13",
+      "numberLabel": "13",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 24:13",
+        "verseKey": "kjv:leviticus:24:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:24:14",
+      "numberLabel": "14",
+      "text": "Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him.",
+      "metadata": {
+        "reference": "Leviticus 24:14",
+        "verseKey": "kjv:leviticus:24:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:24:15",
+      "numberLabel": "15",
+      "text": "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin.",
+      "metadata": {
+        "reference": "Leviticus 24:15",
+        "verseKey": "kjv:leviticus:24:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:24:16",
+      "numberLabel": "16",
+      "text": "And he that blasphemeth the name of the LORD, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the Lord, shall be put to death.",
+      "metadata": {
+        "reference": "Leviticus 24:16",
+        "verseKey": "kjv:leviticus:24:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:24:17",
+      "numberLabel": "17",
+      "text": "And he that killeth any man shall surely be put to death.",
+      "metadata": {
+        "reference": "Leviticus 24:17",
+        "verseKey": "kjv:leviticus:24:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:24:18",
+      "numberLabel": "18",
+      "text": "And he that killeth a beast shall make it good; beast for beast.",
+      "metadata": {
+        "reference": "Leviticus 24:18",
+        "verseKey": "kjv:leviticus:24:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:24:19",
+      "numberLabel": "19",
+      "text": "And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;",
+      "metadata": {
+        "reference": "Leviticus 24:19",
+        "verseKey": "kjv:leviticus:24:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:24:20",
+      "numberLabel": "20",
+      "text": "Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again.",
+      "metadata": {
+        "reference": "Leviticus 24:20",
+        "verseKey": "kjv:leviticus:24:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:24:21",
+      "numberLabel": "21",
+      "text": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death.",
+      "metadata": {
+        "reference": "Leviticus 24:21",
+        "verseKey": "kjv:leviticus:24:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:24:22",
+      "numberLabel": "22",
+      "text": "Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 24:22",
+        "verseKey": "kjv:leviticus:24:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:24:23",
+      "numberLabel": "23",
+      "text": "And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Leviticus 24:23",
+        "verseKey": "kjv:leviticus:24:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-lamentations-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Lamentations 3",
+  "display_title": "Lamentations 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "lamentations",
+  "book": "Lamentations",
+  "bookName": "Lamentations",
+  "bookOrder": 25,
+  "testament": "old",
+  "chapter": 3,
+  "sortOrder": 25003,
+  "verseCount": 66,
+  "aliases": [
+    "Lam",
+    "La"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:lamentations:3:1",
+      "numberLabel": "1",
+      "text": "I AM the man that hath seen affliction by the rod of his wrath.",
+      "metadata": {
+        "reference": "Lamentations 3:1",
+        "verseKey": "kjv:lamentations:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:lamentations:3:2",
+      "numberLabel": "2",
+      "text": "He hath led me, and brought me into darkness, but not into light.",
+      "metadata": {
+        "reference": "Lamentations 3:2",
+        "verseKey": "kjv:lamentations:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:lamentations:3:3",
+      "numberLabel": "3",
+      "text": "Surely against me is he turned; he turneth his hand against me all the day.",
+      "metadata": {
+        "reference": "Lamentations 3:3",
+        "verseKey": "kjv:lamentations:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:lamentations:3:4",
+      "numberLabel": "4",
+      "text": "My flesh and my skin hath he made old; he hath broken my bones.",
+      "metadata": {
+        "reference": "Lamentations 3:4",
+        "verseKey": "kjv:lamentations:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:lamentations:3:5",
+      "numberLabel": "5",
+      "text": "He hath builded against me, and compassed me with gall and travail.",
+      "metadata": {
+        "reference": "Lamentations 3:5",
+        "verseKey": "kjv:lamentations:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:lamentations:3:6",
+      "numberLabel": "6",
+      "text": "He hath set me in dark places, as they that be dead of old.",
+      "metadata": {
+        "reference": "Lamentations 3:6",
+        "verseKey": "kjv:lamentations:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:lamentations:3:7",
+      "numberLabel": "7",
+      "text": "He hath hedged me about, that I cannot get out: he hath made my chain heavy.",
+      "metadata": {
+        "reference": "Lamentations 3:7",
+        "verseKey": "kjv:lamentations:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:lamentations:3:8",
+      "numberLabel": "8",
+      "text": "Also when I cry and shout, he shutteth out my prayer.",
+      "metadata": {
+        "reference": "Lamentations 3:8",
+        "verseKey": "kjv:lamentations:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:lamentations:3:9",
+      "numberLabel": "9",
+      "text": "He hath inclosed my ways with hewn stone, he hath made my paths crooked.",
+      "metadata": {
+        "reference": "Lamentations 3:9",
+        "verseKey": "kjv:lamentations:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:lamentations:3:10",
+      "numberLabel": "10",
+      "text": "He was unto me as a bear lying in wait, and as a lion in secret places.",
+      "metadata": {
+        "reference": "Lamentations 3:10",
+        "verseKey": "kjv:lamentations:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:lamentations:3:11",
+      "numberLabel": "11",
+      "text": "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.",
+      "metadata": {
+        "reference": "Lamentations 3:11",
+        "verseKey": "kjv:lamentations:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:lamentations:3:12",
+      "numberLabel": "12",
+      "text": "He hath bent his bow, and set me as a mark for the arrow.",
+      "metadata": {
+        "reference": "Lamentations 3:12",
+        "verseKey": "kjv:lamentations:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:lamentations:3:13",
+      "numberLabel": "13",
+      "text": "He hath caused the arrows of his quiver to enter into my reins.",
+      "metadata": {
+        "reference": "Lamentations 3:13",
+        "verseKey": "kjv:lamentations:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:lamentations:3:14",
+      "numberLabel": "14",
+      "text": "I was a derision to all my people; and their song all the day.",
+      "metadata": {
+        "reference": "Lamentations 3:14",
+        "verseKey": "kjv:lamentations:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:lamentations:3:15",
+      "numberLabel": "15",
+      "text": "He hath filled me with bitterness, he hath made me drunken with wormwood.",
+      "metadata": {
+        "reference": "Lamentations 3:15",
+        "verseKey": "kjv:lamentations:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:lamentations:3:16",
+      "numberLabel": "16",
+      "text": "He hath also broken my teeth with gravel stones, he hath covered me with ashes.",
+      "metadata": {
+        "reference": "Lamentations 3:16",
+        "verseKey": "kjv:lamentations:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:lamentations:3:17",
+      "numberLabel": "17",
+      "text": "And thou hast removed my soul far off from peace: I forgat prosperity.",
+      "metadata": {
+        "reference": "Lamentations 3:17",
+        "verseKey": "kjv:lamentations:3:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:lamentations:3:18",
+      "numberLabel": "18",
+      "text": "And I said, My strength and my hope is perished from the LORD:",
+      "metadata": {
+        "reference": "Lamentations 3:18",
+        "verseKey": "kjv:lamentations:3:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:lamentations:3:19",
+      "numberLabel": "19",
+      "text": "Remembering mine affliction and my misery, the wormwood and the gall.",
+      "metadata": {
+        "reference": "Lamentations 3:19",
+        "verseKey": "kjv:lamentations:3:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:lamentations:3:20",
+      "numberLabel": "20",
+      "text": "My soul hath them still in remembrance, and is humbled in me.",
+      "metadata": {
+        "reference": "Lamentations 3:20",
+        "verseKey": "kjv:lamentations:3:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:lamentations:3:21",
+      "numberLabel": "21",
+      "text": "This I recall to my mind, therefore have I hope.",
+      "metadata": {
+        "reference": "Lamentations 3:21",
+        "verseKey": "kjv:lamentations:3:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:lamentations:3:22",
+      "numberLabel": "22",
+      "text": "It is of the LORD’s mercies that we are not consumed, because his compassions fail not.",
+      "metadata": {
+        "reference": "Lamentations 3:22",
+        "verseKey": "kjv:lamentations:3:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:lamentations:3:23",
+      "numberLabel": "23",
+      "text": "They are new every morning: great is thy faithfulness.",
+      "metadata": {
+        "reference": "Lamentations 3:23",
+        "verseKey": "kjv:lamentations:3:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:lamentations:3:24",
+      "numberLabel": "24",
+      "text": "The LORD is my portion, saith my soul; therefore will I hope in him.",
+      "metadata": {
+        "reference": "Lamentations 3:24",
+        "verseKey": "kjv:lamentations:3:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:lamentations:3:25",
+      "numberLabel": "25",
+      "text": "The LORD is good unto them that wait for him, to the soul that seeketh him.",
+      "metadata": {
+        "reference": "Lamentations 3:25",
+        "verseKey": "kjv:lamentations:3:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:lamentations:3:26",
+      "numberLabel": "26",
+      "text": "It is good that a man should both hope and quietly wait for the salvation of the LORD.",
+      "metadata": {
+        "reference": "Lamentations 3:26",
+        "verseKey": "kjv:lamentations:3:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:lamentations:3:27",
+      "numberLabel": "27",
+      "text": "It is good for a man that he bear the yoke in his youth.",
+      "metadata": {
+        "reference": "Lamentations 3:27",
+        "verseKey": "kjv:lamentations:3:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:lamentations:3:28",
+      "numberLabel": "28",
+      "text": "He sitteth alone and keepeth silence, because he hath borne it upon him.",
+      "metadata": {
+        "reference": "Lamentations 3:28",
+        "verseKey": "kjv:lamentations:3:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:lamentations:3:29",
+      "numberLabel": "29",
+      "text": "He putteth his mouth in the dust; if so be there may be hope.",
+      "metadata": {
+        "reference": "Lamentations 3:29",
+        "verseKey": "kjv:lamentations:3:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:lamentations:3:30",
+      "numberLabel": "30",
+      "text": "He giveth his cheek to him that smiteth him: he is filled full with reproach.",
+      "metadata": {
+        "reference": "Lamentations 3:30",
+        "verseKey": "kjv:lamentations:3:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:lamentations:3:31",
+      "numberLabel": "31",
+      "text": "For the LORD will not cast off for ever:",
+      "metadata": {
+        "reference": "Lamentations 3:31",
+        "verseKey": "kjv:lamentations:3:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:lamentations:3:32",
+      "numberLabel": "32",
+      "text": "But though he cause grief, yet will he have compassion according to the multitude of his mercies.",
+      "metadata": {
+        "reference": "Lamentations 3:32",
+        "verseKey": "kjv:lamentations:3:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:lamentations:3:33",
+      "numberLabel": "33",
+      "text": "For he doth not afflict willingly nor grieve the children of men.",
+      "metadata": {
+        "reference": "Lamentations 3:33",
+        "verseKey": "kjv:lamentations:3:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:lamentations:3:34",
+      "numberLabel": "34",
+      "text": "To crush under his feet all the prisoners of the earth,",
+      "metadata": {
+        "reference": "Lamentations 3:34",
+        "verseKey": "kjv:lamentations:3:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:lamentations:3:35",
+      "numberLabel": "35",
+      "text": "To turn aside the right of a man before the face of the most High,",
+      "metadata": {
+        "reference": "Lamentations 3:35",
+        "verseKey": "kjv:lamentations:3:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:lamentations:3:36",
+      "numberLabel": "36",
+      "text": "To subvert a man in his cause, the LORD approveth not.",
+      "metadata": {
+        "reference": "Lamentations 3:36",
+        "verseKey": "kjv:lamentations:3:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:lamentations:3:37",
+      "numberLabel": "37",
+      "text": "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?",
+      "metadata": {
+        "reference": "Lamentations 3:37",
+        "verseKey": "kjv:lamentations:3:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:lamentations:3:38",
+      "numberLabel": "38",
+      "text": "Out of the mouth of the most High proceedeth not evil and good?",
+      "metadata": {
+        "reference": "Lamentations 3:38",
+        "verseKey": "kjv:lamentations:3:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:lamentations:3:39",
+      "numberLabel": "39",
+      "text": "Wherefore doth a living man complain, a man for the punishment of his sins?",
+      "metadata": {
+        "reference": "Lamentations 3:39",
+        "verseKey": "kjv:lamentations:3:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:lamentations:3:40",
+      "numberLabel": "40",
+      "text": "Let us search and try our ways, and turn again to the LORD.",
+      "metadata": {
+        "reference": "Lamentations 3:40",
+        "verseKey": "kjv:lamentations:3:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:lamentations:3:41",
+      "numberLabel": "41",
+      "text": "Let us lift up our heart with our hands unto God in the heavens.",
+      "metadata": {
+        "reference": "Lamentations 3:41",
+        "verseKey": "kjv:lamentations:3:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:lamentations:3:42",
+      "numberLabel": "42",
+      "text": "We have transgressed and have rebelled: thou hast not pardoned.",
+      "metadata": {
+        "reference": "Lamentations 3:42",
+        "verseKey": "kjv:lamentations:3:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:lamentations:3:43",
+      "numberLabel": "43",
+      "text": "Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.",
+      "metadata": {
+        "reference": "Lamentations 3:43",
+        "verseKey": "kjv:lamentations:3:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:lamentations:3:44",
+      "numberLabel": "44",
+      "text": "Thou hast covered thyself with a cloud, that our prayer should not pass through.",
+      "metadata": {
+        "reference": "Lamentations 3:44",
+        "verseKey": "kjv:lamentations:3:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:lamentations:3:45",
+      "numberLabel": "45",
+      "text": "Thou hast made us as the offscouring and refuse in the midst of the people.",
+      "metadata": {
+        "reference": "Lamentations 3:45",
+        "verseKey": "kjv:lamentations:3:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:lamentations:3:46",
+      "numberLabel": "46",
+      "text": "All our enemies have opened their mouths against us.",
+      "metadata": {
+        "reference": "Lamentations 3:46",
+        "verseKey": "kjv:lamentations:3:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:lamentations:3:47",
+      "numberLabel": "47",
+      "text": "Fear and a snare is come upon us, desolation and destruction.",
+      "metadata": {
+        "reference": "Lamentations 3:47",
+        "verseKey": "kjv:lamentations:3:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:lamentations:3:48",
+      "numberLabel": "48",
+      "text": "Mine eye runneth down with rivers of water for the destruction of the daughter of my people.",
+      "metadata": {
+        "reference": "Lamentations 3:48",
+        "verseKey": "kjv:lamentations:3:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:lamentations:3:49",
+      "numberLabel": "49",
+      "text": "Mine eye trickleth down, and ceaseth not, without any intermission,",
+      "metadata": {
+        "reference": "Lamentations 3:49",
+        "verseKey": "kjv:lamentations:3:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:lamentations:3:50",
+      "numberLabel": "50",
+      "text": "Till the LORD look down, and behold from heaven.",
+      "metadata": {
+        "reference": "Lamentations 3:50",
+        "verseKey": "kjv:lamentations:3:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:lamentations:3:51",
+      "numberLabel": "51",
+      "text": "Mine eye affecteth mine heart because of all the daughters of my city.",
+      "metadata": {
+        "reference": "Lamentations 3:51",
+        "verseKey": "kjv:lamentations:3:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:lamentations:3:52",
+      "numberLabel": "52",
+      "text": "Mine enemies chased me sore, like a bird, without cause.",
+      "metadata": {
+        "reference": "Lamentations 3:52",
+        "verseKey": "kjv:lamentations:3:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:lamentations:3:53",
+      "numberLabel": "53",
+      "text": "They have cut off my life in the dungeon, and cast a stone upon me.",
+      "metadata": {
+        "reference": "Lamentations 3:53",
+        "verseKey": "kjv:lamentations:3:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:lamentations:3:54",
+      "numberLabel": "54",
+      "text": "Waters flowed over mine head; then I said, I am cut off.",
+      "metadata": {
+        "reference": "Lamentations 3:54",
+        "verseKey": "kjv:lamentations:3:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:lamentations:3:55",
+      "numberLabel": "55",
+      "text": "I called upon thy name, O LORD, out of the low dungeon.",
+      "metadata": {
+        "reference": "Lamentations 3:55",
+        "verseKey": "kjv:lamentations:3:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:lamentations:3:56",
+      "numberLabel": "56",
+      "text": "Thou hast heard my voice: hide not thine ear at my breathing, at my cry.",
+      "metadata": {
+        "reference": "Lamentations 3:56",
+        "verseKey": "kjv:lamentations:3:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:lamentations:3:57",
+      "numberLabel": "57",
+      "text": "Thou drewest near in the day that I called upon thee: thou saidst, Fear not.",
+      "metadata": {
+        "reference": "Lamentations 3:57",
+        "verseKey": "kjv:lamentations:3:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:lamentations:3:58",
+      "numberLabel": "58",
+      "text": "O LORD, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
+      "metadata": {
+        "reference": "Lamentations 3:58",
+        "verseKey": "kjv:lamentations:3:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:lamentations:3:59",
+      "numberLabel": "59",
+      "text": "O LORD, thou hast seen my wrong: judge thou my cause.",
+      "metadata": {
+        "reference": "Lamentations 3:59",
+        "verseKey": "kjv:lamentations:3:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:lamentations:3:60",
+      "numberLabel": "60",
+      "text": "Thou hast seen all their vengeance and all their imaginations against me.",
+      "metadata": {
+        "reference": "Lamentations 3:60",
+        "verseKey": "kjv:lamentations:3:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:lamentations:3:61",
+      "numberLabel": "61",
+      "text": "Thou hast heard their reproach, O LORD, and all their imaginations against me;",
+      "metadata": {
+        "reference": "Lamentations 3:61",
+        "verseKey": "kjv:lamentations:3:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:lamentations:3:62",
+      "numberLabel": "62",
+      "text": "The lips of those that rose up against me, and their device against me all the day.",
+      "metadata": {
+        "reference": "Lamentations 3:62",
+        "verseKey": "kjv:lamentations:3:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:lamentations:3:63",
+      "numberLabel": "63",
+      "text": "Behold their sitting down, and their rising up; I am their musick.",
+      "metadata": {
+        "reference": "Lamentations 3:63",
+        "verseKey": "kjv:lamentations:3:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:lamentations:3:64",
+      "numberLabel": "64",
+      "text": "Render unto them a recompence, O LORD, according to the work of their hands.",
+      "metadata": {
+        "reference": "Lamentations 3:64",
+        "verseKey": "kjv:lamentations:3:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:lamentations:3:65",
+      "numberLabel": "65",
+      "text": "Give them sorrow of heart, thy curse unto them.",
+      "metadata": {
+        "reference": "Lamentations 3:65",
+        "verseKey": "kjv:lamentations:3:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:lamentations:3:66",
+      "numberLabel": "66",
+      "text": "Persecute and destroy them in anger from under the heavens of the LORD.",
+      "metadata": {
+        "reference": "Lamentations 3:66",
+        "verseKey": "kjv:lamentations:3:66"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Lamentations.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Lamentations.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

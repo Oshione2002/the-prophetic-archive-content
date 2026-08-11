@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joshua-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Joshua 2",
+  "display_title": "Joshua 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joshua",
+  "book": "Joshua",
+  "bookName": "Joshua",
+  "bookOrder": 6,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 6002,
+  "verseCount": 24,
+  "aliases": [
+    "Josh",
+    "Jos"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joshua:2:1",
+      "numberLabel": "1",
+      "text": "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.",
+      "metadata": {
+        "reference": "Joshua 2:1",
+        "verseKey": "kjv:joshua:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joshua:2:2",
+      "numberLabel": "2",
+      "text": "And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.",
+      "metadata": {
+        "reference": "Joshua 2:2",
+        "verseKey": "kjv:joshua:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joshua:2:3",
+      "numberLabel": "3",
+      "text": "And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country.",
+      "metadata": {
+        "reference": "Joshua 2:3",
+        "verseKey": "kjv:joshua:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joshua:2:4",
+      "numberLabel": "4",
+      "text": "And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they were:",
+      "metadata": {
+        "reference": "Joshua 2:4",
+        "verseKey": "kjv:joshua:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joshua:2:5",
+      "numberLabel": "5",
+      "text": "And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.",
+      "metadata": {
+        "reference": "Joshua 2:5",
+        "verseKey": "kjv:joshua:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joshua:2:6",
+      "numberLabel": "6",
+      "text": "But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.",
+      "metadata": {
+        "reference": "Joshua 2:6",
+        "verseKey": "kjv:joshua:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joshua:2:7",
+      "numberLabel": "7",
+      "text": "And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.",
+      "metadata": {
+        "reference": "Joshua 2:7",
+        "verseKey": "kjv:joshua:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joshua:2:8",
+      "numberLabel": "8",
+      "text": "And before they were laid down, she came up unto them upon the roof;",
+      "metadata": {
+        "reference": "Joshua 2:8",
+        "verseKey": "kjv:joshua:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joshua:2:9",
+      "numberLabel": "9",
+      "text": "And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.",
+      "metadata": {
+        "reference": "Joshua 2:9",
+        "verseKey": "kjv:joshua:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joshua:2:10",
+      "numberLabel": "10",
+      "text": "For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.",
+      "metadata": {
+        "reference": "Joshua 2:10",
+        "verseKey": "kjv:joshua:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joshua:2:11",
+      "numberLabel": "11",
+      "text": "And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he is God in heaven above, and in earth beneath.",
+      "metadata": {
+        "reference": "Joshua 2:11",
+        "verseKey": "kjv:joshua:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joshua:2:12",
+      "numberLabel": "12",
+      "text": "Now therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:",
+      "metadata": {
+        "reference": "Joshua 2:12",
+        "verseKey": "kjv:joshua:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joshua:2:13",
+      "numberLabel": "13",
+      "text": "And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.",
+      "metadata": {
+        "reference": "Joshua 2:13",
+        "verseKey": "kjv:joshua:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joshua:2:14",
+      "numberLabel": "14",
+      "text": "And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with thee.",
+      "metadata": {
+        "reference": "Joshua 2:14",
+        "verseKey": "kjv:joshua:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joshua:2:15",
+      "numberLabel": "15",
+      "text": "Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.",
+      "metadata": {
+        "reference": "Joshua 2:15",
+        "verseKey": "kjv:joshua:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joshua:2:16",
+      "numberLabel": "16",
+      "text": "And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.",
+      "metadata": {
+        "reference": "Joshua 2:16",
+        "verseKey": "kjv:joshua:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joshua:2:17",
+      "numberLabel": "17",
+      "text": "And the men said unto her, We will be blameless of this thine oath which thou hast made us swear.",
+      "metadata": {
+        "reference": "Joshua 2:17",
+        "verseKey": "kjv:joshua:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joshua:2:18",
+      "numberLabel": "18",
+      "text": "Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.",
+      "metadata": {
+        "reference": "Joshua 2:18",
+        "verseKey": "kjv:joshua:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:joshua:2:19",
+      "numberLabel": "19",
+      "text": "And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him.",
+      "metadata": {
+        "reference": "Joshua 2:19",
+        "verseKey": "kjv:joshua:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:joshua:2:20",
+      "numberLabel": "20",
+      "text": "And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.",
+      "metadata": {
+        "reference": "Joshua 2:20",
+        "verseKey": "kjv:joshua:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:joshua:2:21",
+      "numberLabel": "21",
+      "text": "And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window.",
+      "metadata": {
+        "reference": "Joshua 2:21",
+        "verseKey": "kjv:joshua:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:joshua:2:22",
+      "numberLabel": "22",
+      "text": "And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not.",
+      "metadata": {
+        "reference": "Joshua 2:22",
+        "verseKey": "kjv:joshua:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:joshua:2:23",
+      "numberLabel": "23",
+      "text": "So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them:",
+      "metadata": {
+        "reference": "Joshua 2:23",
+        "verseKey": "kjv:joshua:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:joshua:2:24",
+      "numberLabel": "24",
+      "text": "And they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.",
+      "metadata": {
+        "reference": "Joshua 2:24",
+        "verseKey": "kjv:joshua:2:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joshua.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joshua.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

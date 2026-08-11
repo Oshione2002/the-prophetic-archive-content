@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Job 17",
+  "display_title": "Job 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 18017,
+  "verseCount": 16,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:17:1",
+      "numberLabel": "1",
+      "text": "My breath is corrupt, my days are extinct, the graves are ready for me.",
+      "metadata": {
+        "reference": "Job 17:1",
+        "verseKey": "kjv:job:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:17:2",
+      "numberLabel": "2",
+      "text": "Are there not mockers with me? and doth not mine eye continue in their provocation?",
+      "metadata": {
+        "reference": "Job 17:2",
+        "verseKey": "kjv:job:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:17:3",
+      "numberLabel": "3",
+      "text": "Lay down now, put me in a surety with thee; who is he that will strike hands with me?",
+      "metadata": {
+        "reference": "Job 17:3",
+        "verseKey": "kjv:job:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:17:4",
+      "numberLabel": "4",
+      "text": "For thou hast hid their heart from understanding: therefore shalt thou not exalt them.",
+      "metadata": {
+        "reference": "Job 17:4",
+        "verseKey": "kjv:job:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:17:5",
+      "numberLabel": "5",
+      "text": "He that speaketh flattery to his friends, even the eyes of his children shall fail.",
+      "metadata": {
+        "reference": "Job 17:5",
+        "verseKey": "kjv:job:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:17:6",
+      "numberLabel": "6",
+      "text": "He hath made me also a byword of the people; and aforetime I was as a tabret.",
+      "metadata": {
+        "reference": "Job 17:6",
+        "verseKey": "kjv:job:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:17:7",
+      "numberLabel": "7",
+      "text": "Mine eye also is dim by reason of sorrow, and all my members are as a shadow.",
+      "metadata": {
+        "reference": "Job 17:7",
+        "verseKey": "kjv:job:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:17:8",
+      "numberLabel": "8",
+      "text": "Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.",
+      "metadata": {
+        "reference": "Job 17:8",
+        "verseKey": "kjv:job:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:17:9",
+      "numberLabel": "9",
+      "text": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.",
+      "metadata": {
+        "reference": "Job 17:9",
+        "verseKey": "kjv:job:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:17:10",
+      "numberLabel": "10",
+      "text": "But as for you all, do ye return, and come now: for I cannot find one wise man among you.",
+      "metadata": {
+        "reference": "Job 17:10",
+        "verseKey": "kjv:job:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:17:11",
+      "numberLabel": "11",
+      "text": "My days are past, my purposes are broken off, even the thoughts of my heart.",
+      "metadata": {
+        "reference": "Job 17:11",
+        "verseKey": "kjv:job:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:17:12",
+      "numberLabel": "12",
+      "text": "They change the night into day: the light is short because of darkness.",
+      "metadata": {
+        "reference": "Job 17:12",
+        "verseKey": "kjv:job:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:17:13",
+      "numberLabel": "13",
+      "text": "If I wait, the grave is mine house: I have made my bed in the darkness.",
+      "metadata": {
+        "reference": "Job 17:13",
+        "verseKey": "kjv:job:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:17:14",
+      "numberLabel": "14",
+      "text": "I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.",
+      "metadata": {
+        "reference": "Job 17:14",
+        "verseKey": "kjv:job:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:17:15",
+      "numberLabel": "15",
+      "text": "And where is now my hope? as for my hope, who shall see it?",
+      "metadata": {
+        "reference": "Job 17:15",
+        "verseKey": "kjv:job:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:17:16",
+      "numberLabel": "16",
+      "text": "They shall go down to the bars of the pit, when our rest together is in the dust.",
+      "metadata": {
+        "reference": "Job 17:16",
+        "verseKey": "kjv:job:17:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

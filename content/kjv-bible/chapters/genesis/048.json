@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-048",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 48,
+  "title": "Genesis 48",
+  "display_title": "Genesis 48",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 48,
+  "sortOrder": 1048,
+  "verseCount": 22,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:48:1",
+      "numberLabel": "1",
+      "text": "And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.",
+      "metadata": {
+        "reference": "Genesis 48:1",
+        "verseKey": "kjv:genesis:48:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:48:2",
+      "numberLabel": "2",
+      "text": "And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.",
+      "metadata": {
+        "reference": "Genesis 48:2",
+        "verseKey": "kjv:genesis:48:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:48:3",
+      "numberLabel": "3",
+      "text": "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,",
+      "metadata": {
+        "reference": "Genesis 48:3",
+        "verseKey": "kjv:genesis:48:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:48:4",
+      "numberLabel": "4",
+      "text": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession.",
+      "metadata": {
+        "reference": "Genesis 48:4",
+        "verseKey": "kjv:genesis:48:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:48:5",
+      "numberLabel": "5",
+      "text": "And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine.",
+      "metadata": {
+        "reference": "Genesis 48:5",
+        "verseKey": "kjv:genesis:48:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:48:6",
+      "numberLabel": "6",
+      "text": "And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance.",
+      "metadata": {
+        "reference": "Genesis 48:6",
+        "verseKey": "kjv:genesis:48:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:48:7",
+      "numberLabel": "7",
+      "text": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Bethlehem.",
+      "metadata": {
+        "reference": "Genesis 48:7",
+        "verseKey": "kjv:genesis:48:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:48:8",
+      "numberLabel": "8",
+      "text": "And Israel beheld Joseph’s sons, and said, Who are these?",
+      "metadata": {
+        "reference": "Genesis 48:8",
+        "verseKey": "kjv:genesis:48:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:48:9",
+      "numberLabel": "9",
+      "text": "And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them.",
+      "metadata": {
+        "reference": "Genesis 48:9",
+        "verseKey": "kjv:genesis:48:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:48:10",
+      "numberLabel": "10",
+      "text": "Now the eyes of Israel were dim for age, so that he could not see. And he brought them near unto him; and he kissed them, and embraced them.",
+      "metadata": {
+        "reference": "Genesis 48:10",
+        "verseKey": "kjv:genesis:48:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:48:11",
+      "numberLabel": "11",
+      "text": "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.",
+      "metadata": {
+        "reference": "Genesis 48:11",
+        "verseKey": "kjv:genesis:48:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:48:12",
+      "numberLabel": "12",
+      "text": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth.",
+      "metadata": {
+        "reference": "Genesis 48:12",
+        "verseKey": "kjv:genesis:48:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:48:13",
+      "numberLabel": "13",
+      "text": "And Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near unto him.",
+      "metadata": {
+        "reference": "Genesis 48:13",
+        "verseKey": "kjv:genesis:48:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:48:14",
+      "numberLabel": "14",
+      "text": "And Israel stretched out his right hand, and laid it upon Ephraim’s head, who was the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh was the firstborn.",
+      "metadata": {
+        "reference": "Genesis 48:14",
+        "verseKey": "kjv:genesis:48:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:48:15",
+      "numberLabel": "15",
+      "text": "And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,",
+      "metadata": {
+        "reference": "Genesis 48:15",
+        "verseKey": "kjv:genesis:48:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:48:16",
+      "numberLabel": "16",
+      "text": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.",
+      "metadata": {
+        "reference": "Genesis 48:16",
+        "verseKey": "kjv:genesis:48:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:48:17",
+      "numberLabel": "17",
+      "text": "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father’s hand, to remove it from Ephraim’s head unto Manasseh’s head.",
+      "metadata": {
+        "reference": "Genesis 48:17",
+        "verseKey": "kjv:genesis:48:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:48:18",
+      "numberLabel": "18",
+      "text": "And Joseph said unto his father, Not so, my father: for this is the firstborn; put thy right hand upon his head.",
+      "metadata": {
+        "reference": "Genesis 48:18",
+        "verseKey": "kjv:genesis:48:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:48:19",
+      "numberLabel": "19",
+      "text": "And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.",
+      "metadata": {
+        "reference": "Genesis 48:19",
+        "verseKey": "kjv:genesis:48:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:48:20",
+      "numberLabel": "20",
+      "text": "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.",
+      "metadata": {
+        "reference": "Genesis 48:20",
+        "verseKey": "kjv:genesis:48:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:48:21",
+      "numberLabel": "21",
+      "text": "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.",
+      "metadata": {
+        "reference": "Genesis 48:21",
+        "verseKey": "kjv:genesis:48:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:48:22",
+      "numberLabel": "22",
+      "text": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.",
+      "metadata": {
+        "reference": "Genesis 48:22",
+        "verseKey": "kjv:genesis:48:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

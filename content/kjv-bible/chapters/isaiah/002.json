@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Isaiah 2",
+  "display_title": "Isaiah 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 23002,
+  "verseCount": 22,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:2:1",
+      "numberLabel": "1",
+      "text": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
+      "metadata": {
+        "reference": "Isaiah 2:1",
+        "verseKey": "kjv:isaiah:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:2:2",
+      "numberLabel": "2",
+      "text": "And it shall come to pass in the last days, that the mountain of the LORD’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+      "metadata": {
+        "reference": "Isaiah 2:2",
+        "verseKey": "kjv:isaiah:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:2:3",
+      "numberLabel": "3",
+      "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.",
+      "metadata": {
+        "reference": "Isaiah 2:3",
+        "verseKey": "kjv:isaiah:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:2:4",
+      "numberLabel": "4",
+      "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
+      "metadata": {
+        "reference": "Isaiah 2:4",
+        "verseKey": "kjv:isaiah:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:2:5",
+      "numberLabel": "5",
+      "text": "O house of Jacob, come ye, and let us walk in the light of the LORD.",
+      "metadata": {
+        "reference": "Isaiah 2:5",
+        "verseKey": "kjv:isaiah:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:2:6",
+      "numberLabel": "6",
+      "text": "Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.",
+      "metadata": {
+        "reference": "Isaiah 2:6",
+        "verseKey": "kjv:isaiah:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:2:7",
+      "numberLabel": "7",
+      "text": "Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots:",
+      "metadata": {
+        "reference": "Isaiah 2:7",
+        "verseKey": "kjv:isaiah:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:2:8",
+      "numberLabel": "8",
+      "text": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:",
+      "metadata": {
+        "reference": "Isaiah 2:8",
+        "verseKey": "kjv:isaiah:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:2:9",
+      "numberLabel": "9",
+      "text": "And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.",
+      "metadata": {
+        "reference": "Isaiah 2:9",
+        "verseKey": "kjv:isaiah:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:2:10",
+      "numberLabel": "10",
+      "text": "Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.",
+      "metadata": {
+        "reference": "Isaiah 2:10",
+        "verseKey": "kjv:isaiah:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:2:11",
+      "numberLabel": "11",
+      "text": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.",
+      "metadata": {
+        "reference": "Isaiah 2:11",
+        "verseKey": "kjv:isaiah:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:2:12",
+      "numberLabel": "12",
+      "text": "For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:",
+      "metadata": {
+        "reference": "Isaiah 2:12",
+        "verseKey": "kjv:isaiah:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:2:13",
+      "numberLabel": "13",
+      "text": "And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,",
+      "metadata": {
+        "reference": "Isaiah 2:13",
+        "verseKey": "kjv:isaiah:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:2:14",
+      "numberLabel": "14",
+      "text": "And upon all the high mountains, and upon all the hills that are lifted up,",
+      "metadata": {
+        "reference": "Isaiah 2:14",
+        "verseKey": "kjv:isaiah:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:2:15",
+      "numberLabel": "15",
+      "text": "And upon every high tower, and upon every fenced wall,",
+      "metadata": {
+        "reference": "Isaiah 2:15",
+        "verseKey": "kjv:isaiah:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:2:16",
+      "numberLabel": "16",
+      "text": "And upon all the ships of Tarshish, and upon all pleasant pictures.",
+      "metadata": {
+        "reference": "Isaiah 2:16",
+        "verseKey": "kjv:isaiah:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:2:17",
+      "numberLabel": "17",
+      "text": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.",
+      "metadata": {
+        "reference": "Isaiah 2:17",
+        "verseKey": "kjv:isaiah:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:2:18",
+      "numberLabel": "18",
+      "text": "And the idols he shall utterly abolish.",
+      "metadata": {
+        "reference": "Isaiah 2:18",
+        "verseKey": "kjv:isaiah:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:2:19",
+      "numberLabel": "19",
+      "text": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "metadata": {
+        "reference": "Isaiah 2:19",
+        "verseKey": "kjv:isaiah:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:2:20",
+      "numberLabel": "20",
+      "text": "In that day a man shall cast his idols of silver, and his idols of gold, which they made each one for himself to worship, to the moles and to the bats;",
+      "metadata": {
+        "reference": "Isaiah 2:20",
+        "verseKey": "kjv:isaiah:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:2:21",
+      "numberLabel": "21",
+      "text": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "metadata": {
+        "reference": "Isaiah 2:21",
+        "verseKey": "kjv:isaiah:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:2:22",
+      "numberLabel": "22",
+      "text": "Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of ?",
+      "metadata": {
+        "reference": "Isaiah 2:22",
+        "verseKey": "kjv:isaiah:2:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

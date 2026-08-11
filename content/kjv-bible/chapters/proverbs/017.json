@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "Proverbs 17",
+  "display_title": "Proverbs 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 20017,
+  "verseCount": 28,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:17:1",
+      "numberLabel": "1",
+      "text": "Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.",
+      "metadata": {
+        "reference": "Proverbs 17:1",
+        "verseKey": "kjv:proverbs:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:17:2",
+      "numberLabel": "2",
+      "text": "A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.",
+      "metadata": {
+        "reference": "Proverbs 17:2",
+        "verseKey": "kjv:proverbs:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:17:3",
+      "numberLabel": "3",
+      "text": "The fining pot is for silver, and the furnace for gold: but the LORD trieth the hearts.",
+      "metadata": {
+        "reference": "Proverbs 17:3",
+        "verseKey": "kjv:proverbs:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:17:4",
+      "numberLabel": "4",
+      "text": "A wicked doer giveth heed to false lips; and a liar giveth ear to a naughty tongue.",
+      "metadata": {
+        "reference": "Proverbs 17:4",
+        "verseKey": "kjv:proverbs:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:17:5",
+      "numberLabel": "5",
+      "text": "Whoso mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished.",
+      "metadata": {
+        "reference": "Proverbs 17:5",
+        "verseKey": "kjv:proverbs:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:17:6",
+      "numberLabel": "6",
+      "text": "Children’s children are the crown of old men; and the glory of children are their fathers.",
+      "metadata": {
+        "reference": "Proverbs 17:6",
+        "verseKey": "kjv:proverbs:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:17:7",
+      "numberLabel": "7",
+      "text": "Excellent speech becometh not a fool: much less do lying lips a prince.",
+      "metadata": {
+        "reference": "Proverbs 17:7",
+        "verseKey": "kjv:proverbs:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:17:8",
+      "numberLabel": "8",
+      "text": "A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.",
+      "metadata": {
+        "reference": "Proverbs 17:8",
+        "verseKey": "kjv:proverbs:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:17:9",
+      "numberLabel": "9",
+      "text": "He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.",
+      "metadata": {
+        "reference": "Proverbs 17:9",
+        "verseKey": "kjv:proverbs:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:17:10",
+      "numberLabel": "10",
+      "text": "A reproof entereth more into a wise man than an hundred stripes into a fool.",
+      "metadata": {
+        "reference": "Proverbs 17:10",
+        "verseKey": "kjv:proverbs:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:17:11",
+      "numberLabel": "11",
+      "text": "An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.",
+      "metadata": {
+        "reference": "Proverbs 17:11",
+        "verseKey": "kjv:proverbs:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:17:12",
+      "numberLabel": "12",
+      "text": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly.",
+      "metadata": {
+        "reference": "Proverbs 17:12",
+        "verseKey": "kjv:proverbs:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:17:13",
+      "numberLabel": "13",
+      "text": "Whoso rewardeth evil for good, evil shall not depart from his house.",
+      "metadata": {
+        "reference": "Proverbs 17:13",
+        "verseKey": "kjv:proverbs:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:17:14",
+      "numberLabel": "14",
+      "text": "The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.",
+      "metadata": {
+        "reference": "Proverbs 17:14",
+        "verseKey": "kjv:proverbs:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:17:15",
+      "numberLabel": "15",
+      "text": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.",
+      "metadata": {
+        "reference": "Proverbs 17:15",
+        "verseKey": "kjv:proverbs:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:17:16",
+      "numberLabel": "16",
+      "text": "Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?",
+      "metadata": {
+        "reference": "Proverbs 17:16",
+        "verseKey": "kjv:proverbs:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:17:17",
+      "numberLabel": "17",
+      "text": "A friend loveth at all times, and a brother is born for adversity.",
+      "metadata": {
+        "reference": "Proverbs 17:17",
+        "verseKey": "kjv:proverbs:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:17:18",
+      "numberLabel": "18",
+      "text": "A man void of understanding striketh hands, and becometh surety in the presence of his friend.",
+      "metadata": {
+        "reference": "Proverbs 17:18",
+        "verseKey": "kjv:proverbs:17:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:17:19",
+      "numberLabel": "19",
+      "text": "He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.",
+      "metadata": {
+        "reference": "Proverbs 17:19",
+        "verseKey": "kjv:proverbs:17:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:17:20",
+      "numberLabel": "20",
+      "text": "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.",
+      "metadata": {
+        "reference": "Proverbs 17:20",
+        "verseKey": "kjv:proverbs:17:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:17:21",
+      "numberLabel": "21",
+      "text": "He that begetteth a fool doeth it to his sorrow: and the father of a fool hath no joy.",
+      "metadata": {
+        "reference": "Proverbs 17:21",
+        "verseKey": "kjv:proverbs:17:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:17:22",
+      "numberLabel": "22",
+      "text": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones.",
+      "metadata": {
+        "reference": "Proverbs 17:22",
+        "verseKey": "kjv:proverbs:17:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:17:23",
+      "numberLabel": "23",
+      "text": "A wicked man taketh a gift out of the bosom to pervert the ways of judgment.",
+      "metadata": {
+        "reference": "Proverbs 17:23",
+        "verseKey": "kjv:proverbs:17:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:17:24",
+      "numberLabel": "24",
+      "text": "Wisdom is before him that hath understanding; but the eyes of a fool are in the ends of the earth.",
+      "metadata": {
+        "reference": "Proverbs 17:24",
+        "verseKey": "kjv:proverbs:17:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:17:25",
+      "numberLabel": "25",
+      "text": "A foolish son is a grief to his father, and bitterness to her that bare him.",
+      "metadata": {
+        "reference": "Proverbs 17:25",
+        "verseKey": "kjv:proverbs:17:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:17:26",
+      "numberLabel": "26",
+      "text": "Also to punish the just is not good, nor to strike princes for equity.",
+      "metadata": {
+        "reference": "Proverbs 17:26",
+        "verseKey": "kjv:proverbs:17:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:17:27",
+      "numberLabel": "27",
+      "text": "He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.",
+      "metadata": {
+        "reference": "Proverbs 17:27",
+        "verseKey": "kjv:proverbs:17:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:17:28",
+      "numberLabel": "28",
+      "text": "Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.",
+      "metadata": {
+        "reference": "Proverbs 17:28",
+        "verseKey": "kjv:proverbs:17:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-kings-021",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 21,
+  "title": "1 Kings 21",
+  "display_title": "1 Kings 21",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-kings",
+  "book": "1 Kings",
+  "bookName": "1 Kings",
+  "bookOrder": 11,
+  "testament": "old",
+  "chapter": 21,
+  "sortOrder": 11021,
+  "verseCount": 29,
+  "aliases": [
+    "1 Kgs",
+    "1Kgs",
+    "1 Ki",
+    "1Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-kings:21:1",
+      "numberLabel": "1",
+      "text": "And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria.",
+      "metadata": {
+        "reference": "1 Kings 21:1",
+        "verseKey": "kjv:1-kings:21:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-kings:21:2",
+      "numberLabel": "2",
+      "text": "And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money.",
+      "metadata": {
+        "reference": "1 Kings 21:2",
+        "verseKey": "kjv:1-kings:21:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-kings:21:3",
+      "numberLabel": "3",
+      "text": "And Naboth said to Ahab, The LORD forbid it me, that I should give the inheritance of my fathers unto thee.",
+      "metadata": {
+        "reference": "1 Kings 21:3",
+        "verseKey": "kjv:1-kings:21:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-kings:21:4",
+      "numberLabel": "4",
+      "text": "And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread.",
+      "metadata": {
+        "reference": "1 Kings 21:4",
+        "verseKey": "kjv:1-kings:21:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-kings:21:5",
+      "numberLabel": "5",
+      "text": "But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?",
+      "metadata": {
+        "reference": "1 Kings 21:5",
+        "verseKey": "kjv:1-kings:21:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-kings:21:6",
+      "numberLabel": "6",
+      "text": "And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee another vineyard for it: and he answered, I will not give thee my vineyard.",
+      "metadata": {
+        "reference": "1 Kings 21:6",
+        "verseKey": "kjv:1-kings:21:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-kings:21:7",
+      "numberLabel": "7",
+      "text": "And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, and eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite.",
+      "metadata": {
+        "reference": "1 Kings 21:7",
+        "verseKey": "kjv:1-kings:21:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-kings:21:8",
+      "numberLabel": "8",
+      "text": "So she wrote letters in Ahab’s name, and sealed them with his seal, and sent the letters unto the elders and to the nobles that were in his city, dwelling with Naboth.",
+      "metadata": {
+        "reference": "1 Kings 21:8",
+        "verseKey": "kjv:1-kings:21:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-kings:21:9",
+      "numberLabel": "9",
+      "text": "And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people:",
+      "metadata": {
+        "reference": "1 Kings 21:9",
+        "verseKey": "kjv:1-kings:21:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-kings:21:10",
+      "numberLabel": "10",
+      "text": "And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And then carry him out, and stone him, that he may die.",
+      "metadata": {
+        "reference": "1 Kings 21:10",
+        "verseKey": "kjv:1-kings:21:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-kings:21:11",
+      "numberLabel": "11",
+      "text": "And the men of his city, even the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, and as it was written in the letters which she had sent unto them.",
+      "metadata": {
+        "reference": "1 Kings 21:11",
+        "verseKey": "kjv:1-kings:21:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-kings:21:12",
+      "numberLabel": "12",
+      "text": "They proclaimed a fast, and set Naboth on high among the people.",
+      "metadata": {
+        "reference": "1 Kings 21:12",
+        "verseKey": "kjv:1-kings:21:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-kings:21:13",
+      "numberLabel": "13",
+      "text": "And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, even against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died.",
+      "metadata": {
+        "reference": "1 Kings 21:13",
+        "verseKey": "kjv:1-kings:21:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-kings:21:14",
+      "numberLabel": "14",
+      "text": "Then they sent to Jezebel, saying, Naboth is stoned, and is dead.",
+      "metadata": {
+        "reference": "1 Kings 21:14",
+        "verseKey": "kjv:1-kings:21:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-kings:21:15",
+      "numberLabel": "15",
+      "text": "And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead.",
+      "metadata": {
+        "reference": "1 Kings 21:15",
+        "verseKey": "kjv:1-kings:21:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-kings:21:16",
+      "numberLabel": "16",
+      "text": "And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.",
+      "metadata": {
+        "reference": "1 Kings 21:16",
+        "verseKey": "kjv:1-kings:21:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-kings:21:17",
+      "numberLabel": "17",
+      "text": "And the word of the LORD came to Elijah the Tishbite, saying,",
+      "metadata": {
+        "reference": "1 Kings 21:17",
+        "verseKey": "kjv:1-kings:21:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-kings:21:18",
+      "numberLabel": "18",
+      "text": "Arise, go down to meet Ahab king of Israel, which is in Samaria: behold, he is in the vineyard of Naboth, whither he is gone down to possess it.",
+      "metadata": {
+        "reference": "1 Kings 21:18",
+        "verseKey": "kjv:1-kings:21:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-kings:21:19",
+      "numberLabel": "19",
+      "text": "And thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine.",
+      "metadata": {
+        "reference": "1 Kings 21:19",
+        "verseKey": "kjv:1-kings:21:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-kings:21:20",
+      "numberLabel": "20",
+      "text": "And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found thee: because thou hast sold thyself to work evil in the sight of the LORD.",
+      "metadata": {
+        "reference": "1 Kings 21:20",
+        "verseKey": "kjv:1-kings:21:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-kings:21:21",
+      "numberLabel": "21",
+      "text": "Behold, I will bring evil upon thee, and will take away thy posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel,",
+      "metadata": {
+        "reference": "1 Kings 21:21",
+        "verseKey": "kjv:1-kings:21:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-kings:21:22",
+      "numberLabel": "22",
+      "text": "And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked me to anger, and made Israel to sin.",
+      "metadata": {
+        "reference": "1 Kings 21:22",
+        "verseKey": "kjv:1-kings:21:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-kings:21:23",
+      "numberLabel": "23",
+      "text": "And of Jezebel also spake the LORD, saying, The dogs shall eat Jezebel by the wall of Jezreel.",
+      "metadata": {
+        "reference": "1 Kings 21:23",
+        "verseKey": "kjv:1-kings:21:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-kings:21:24",
+      "numberLabel": "24",
+      "text": "Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.",
+      "metadata": {
+        "reference": "1 Kings 21:24",
+        "verseKey": "kjv:1-kings:21:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-kings:21:25",
+      "numberLabel": "25",
+      "text": "But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up.",
+      "metadata": {
+        "reference": "1 Kings 21:25",
+        "verseKey": "kjv:1-kings:21:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-kings:21:26",
+      "numberLabel": "26",
+      "text": "And he did very abominably in following idols, according to all things as did the Amorites, whom the LORD cast out before the children of Israel.",
+      "metadata": {
+        "reference": "1 Kings 21:26",
+        "verseKey": "kjv:1-kings:21:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-kings:21:27",
+      "numberLabel": "27",
+      "text": "And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.",
+      "metadata": {
+        "reference": "1 Kings 21:27",
+        "verseKey": "kjv:1-kings:21:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-kings:21:28",
+      "numberLabel": "28",
+      "text": "And the word of the LORD came to Elijah the Tishbite, saying,",
+      "metadata": {
+        "reference": "1 Kings 21:28",
+        "verseKey": "kjv:1-kings:21:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-kings:21:29",
+      "numberLabel": "29",
+      "text": "Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: but in his son’s days will I bring the evil upon his house.",
+      "metadata": {
+        "reference": "1 Kings 21:29",
+        "verseKey": "kjv:1-kings:21:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

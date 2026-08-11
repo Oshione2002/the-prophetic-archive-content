@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-020",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 20,
+  "title": "Isaiah 20",
+  "display_title": "Isaiah 20",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 20,
+  "sortOrder": 23020,
+  "verseCount": 6,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:20:1",
+      "numberLabel": "1",
+      "text": "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;",
+      "metadata": {
+        "reference": "Isaiah 20:1",
+        "verseKey": "kjv:isaiah:20:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:20:2",
+      "numberLabel": "2",
+      "text": "At the same time spake the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot.",
+      "metadata": {
+        "reference": "Isaiah 20:2",
+        "verseKey": "kjv:isaiah:20:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:20:3",
+      "numberLabel": "3",
+      "text": "And the LORD said, Like as my servant Isaiah hath walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;",
+      "metadata": {
+        "reference": "Isaiah 20:3",
+        "verseKey": "kjv:isaiah:20:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:20:4",
+      "numberLabel": "4",
+      "text": "So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with their buttocks uncovered, to the shame of Egypt.",
+      "metadata": {
+        "reference": "Isaiah 20:4",
+        "verseKey": "kjv:isaiah:20:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:20:5",
+      "numberLabel": "5",
+      "text": "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.",
+      "metadata": {
+        "reference": "Isaiah 20:5",
+        "verseKey": "kjv:isaiah:20:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:20:6",
+      "numberLabel": "6",
+      "text": "And the inhabitant of this isle shall say in that day, Behold, such is our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?",
+      "metadata": {
+        "reference": "Isaiah 20:6",
+        "verseKey": "kjv:isaiah:20:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

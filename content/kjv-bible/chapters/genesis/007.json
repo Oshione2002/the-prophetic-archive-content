@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Genesis 7",
+  "display_title": "Genesis 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 1007,
+  "verseCount": 24,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:7:1",
+      "numberLabel": "1",
+      "text": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
+      "metadata": {
+        "reference": "Genesis 7:1",
+        "verseKey": "kjv:genesis:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:7:2",
+      "numberLabel": "2",
+      "text": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.",
+      "metadata": {
+        "reference": "Genesis 7:2",
+        "verseKey": "kjv:genesis:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:7:3",
+      "numberLabel": "3",
+      "text": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.",
+      "metadata": {
+        "reference": "Genesis 7:3",
+        "verseKey": "kjv:genesis:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:7:4",
+      "numberLabel": "4",
+      "text": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.",
+      "metadata": {
+        "reference": "Genesis 7:4",
+        "verseKey": "kjv:genesis:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:7:5",
+      "numberLabel": "5",
+      "text": "And Noah did according unto all that the LORD commanded him.",
+      "metadata": {
+        "reference": "Genesis 7:5",
+        "verseKey": "kjv:genesis:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:7:6",
+      "numberLabel": "6",
+      "text": "And Noah was six hundred years old when the flood of waters was upon the earth.",
+      "metadata": {
+        "reference": "Genesis 7:6",
+        "verseKey": "kjv:genesis:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:7:7",
+      "numberLabel": "7",
+      "text": "And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.",
+      "metadata": {
+        "reference": "Genesis 7:7",
+        "verseKey": "kjv:genesis:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:7:8",
+      "numberLabel": "8",
+      "text": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,",
+      "metadata": {
+        "reference": "Genesis 7:8",
+        "verseKey": "kjv:genesis:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:7:9",
+      "numberLabel": "9",
+      "text": "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.",
+      "metadata": {
+        "reference": "Genesis 7:9",
+        "verseKey": "kjv:genesis:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:7:10",
+      "numberLabel": "10",
+      "text": "And it came to pass after seven days, that the waters of the flood were upon the earth.",
+      "metadata": {
+        "reference": "Genesis 7:10",
+        "verseKey": "kjv:genesis:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:7:11",
+      "numberLabel": "11",
+      "text": "In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
+      "metadata": {
+        "reference": "Genesis 7:11",
+        "verseKey": "kjv:genesis:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:7:12",
+      "numberLabel": "12",
+      "text": "And the rain was upon the earth forty days and forty nights.",
+      "metadata": {
+        "reference": "Genesis 7:12",
+        "verseKey": "kjv:genesis:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:7:13",
+      "numberLabel": "13",
+      "text": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;",
+      "metadata": {
+        "reference": "Genesis 7:13",
+        "verseKey": "kjv:genesis:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:7:14",
+      "numberLabel": "14",
+      "text": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.",
+      "metadata": {
+        "reference": "Genesis 7:14",
+        "verseKey": "kjv:genesis:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:7:15",
+      "numberLabel": "15",
+      "text": "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life.",
+      "metadata": {
+        "reference": "Genesis 7:15",
+        "verseKey": "kjv:genesis:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:7:16",
+      "numberLabel": "16",
+      "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.",
+      "metadata": {
+        "reference": "Genesis 7:16",
+        "verseKey": "kjv:genesis:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:7:17",
+      "numberLabel": "17",
+      "text": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.",
+      "metadata": {
+        "reference": "Genesis 7:17",
+        "verseKey": "kjv:genesis:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:7:18",
+      "numberLabel": "18",
+      "text": "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.",
+      "metadata": {
+        "reference": "Genesis 7:18",
+        "verseKey": "kjv:genesis:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:7:19",
+      "numberLabel": "19",
+      "text": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered.",
+      "metadata": {
+        "reference": "Genesis 7:19",
+        "verseKey": "kjv:genesis:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:7:20",
+      "numberLabel": "20",
+      "text": "Fifteen cubits upward did the waters prevail; and the mountains were covered.",
+      "metadata": {
+        "reference": "Genesis 7:20",
+        "verseKey": "kjv:genesis:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:7:21",
+      "numberLabel": "21",
+      "text": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:",
+      "metadata": {
+        "reference": "Genesis 7:21",
+        "verseKey": "kjv:genesis:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:7:22",
+      "numberLabel": "22",
+      "text": "All in whose nostrils was the breath of life, of all that was in the dry land, died.",
+      "metadata": {
+        "reference": "Genesis 7:22",
+        "verseKey": "kjv:genesis:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:7:23",
+      "numberLabel": "23",
+      "text": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark.",
+      "metadata": {
+        "reference": "Genesis 7:23",
+        "verseKey": "kjv:genesis:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:7:24",
+      "numberLabel": "24",
+      "text": "And the waters prevailed upon the earth an hundred and fifty days.",
+      "metadata": {
+        "reference": "Genesis 7:24",
+        "verseKey": "kjv:genesis:7:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

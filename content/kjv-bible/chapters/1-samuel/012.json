@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "1 Samuel 12",
+  "display_title": "1 Samuel 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 9012,
+  "verseCount": 25,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:12:1",
+      "numberLabel": "1",
+      "text": "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.",
+      "metadata": {
+        "reference": "1 Samuel 12:1",
+        "verseKey": "kjv:1-samuel:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:12:2",
+      "numberLabel": "2",
+      "text": "And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day.",
+      "metadata": {
+        "reference": "1 Samuel 12:2",
+        "verseKey": "kjv:1-samuel:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:12:3",
+      "numberLabel": "3",
+      "text": "Behold, here I am: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you.",
+      "metadata": {
+        "reference": "1 Samuel 12:3",
+        "verseKey": "kjv:1-samuel:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:12:4",
+      "numberLabel": "4",
+      "text": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand.",
+      "metadata": {
+        "reference": "1 Samuel 12:4",
+        "verseKey": "kjv:1-samuel:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:12:5",
+      "numberLabel": "5",
+      "text": "And he said unto them, The LORD is witness against you, and his anointed is witness this day, that ye have not found ought in my hand. And they answered, He is witness.",
+      "metadata": {
+        "reference": "1 Samuel 12:5",
+        "verseKey": "kjv:1-samuel:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:12:6",
+      "numberLabel": "6",
+      "text": "And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt.",
+      "metadata": {
+        "reference": "1 Samuel 12:6",
+        "verseKey": "kjv:1-samuel:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:12:7",
+      "numberLabel": "7",
+      "text": "Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers.",
+      "metadata": {
+        "reference": "1 Samuel 12:7",
+        "verseKey": "kjv:1-samuel:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:12:8",
+      "numberLabel": "8",
+      "text": "When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.",
+      "metadata": {
+        "reference": "1 Samuel 12:8",
+        "verseKey": "kjv:1-samuel:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:12:9",
+      "numberLabel": "9",
+      "text": "And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.",
+      "metadata": {
+        "reference": "1 Samuel 12:9",
+        "verseKey": "kjv:1-samuel:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:12:10",
+      "numberLabel": "10",
+      "text": "And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee.",
+      "metadata": {
+        "reference": "1 Samuel 12:10",
+        "verseKey": "kjv:1-samuel:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:12:11",
+      "numberLabel": "11",
+      "text": "And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe.",
+      "metadata": {
+        "reference": "1 Samuel 12:11",
+        "verseKey": "kjv:1-samuel:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:12:12",
+      "numberLabel": "12",
+      "text": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God was your king.",
+      "metadata": {
+        "reference": "1 Samuel 12:12",
+        "verseKey": "kjv:1-samuel:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:12:13",
+      "numberLabel": "13",
+      "text": "Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the LORD hath set a king over you.",
+      "metadata": {
+        "reference": "1 Samuel 12:13",
+        "verseKey": "kjv:1-samuel:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:12:14",
+      "numberLabel": "14",
+      "text": "If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God:",
+      "metadata": {
+        "reference": "1 Samuel 12:14",
+        "verseKey": "kjv:1-samuel:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:12:15",
+      "numberLabel": "15",
+      "text": "But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as it was against your fathers.",
+      "metadata": {
+        "reference": "1 Samuel 12:15",
+        "verseKey": "kjv:1-samuel:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:12:16",
+      "numberLabel": "16",
+      "text": "Now therefore stand and see this great thing, which the LORD will do before your eyes.",
+      "metadata": {
+        "reference": "1 Samuel 12:16",
+        "verseKey": "kjv:1-samuel:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:12:17",
+      "numberLabel": "17",
+      "text": "Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that ye may perceive and see that your wickedness is great, which ye have done in the sight of the LORD, in asking you a king.",
+      "metadata": {
+        "reference": "1 Samuel 12:17",
+        "verseKey": "kjv:1-samuel:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:12:18",
+      "numberLabel": "18",
+      "text": "So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel.",
+      "metadata": {
+        "reference": "1 Samuel 12:18",
+        "verseKey": "kjv:1-samuel:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:12:19",
+      "numberLabel": "19",
+      "text": "And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins this evil, to ask us a king.",
+      "metadata": {
+        "reference": "1 Samuel 12:19",
+        "verseKey": "kjv:1-samuel:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:12:20",
+      "numberLabel": "20",
+      "text": "And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart;",
+      "metadata": {
+        "reference": "1 Samuel 12:20",
+        "verseKey": "kjv:1-samuel:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:12:21",
+      "numberLabel": "21",
+      "text": "And turn ye not aside: for then should ye go after vain things, which cannot profit nor deliver; for they are vain.",
+      "metadata": {
+        "reference": "1 Samuel 12:21",
+        "verseKey": "kjv:1-samuel:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:12:22",
+      "numberLabel": "22",
+      "text": "For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people.",
+      "metadata": {
+        "reference": "1 Samuel 12:22",
+        "verseKey": "kjv:1-samuel:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:12:23",
+      "numberLabel": "23",
+      "text": "Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way:",
+      "metadata": {
+        "reference": "1 Samuel 12:23",
+        "verseKey": "kjv:1-samuel:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:12:24",
+      "numberLabel": "24",
+      "text": "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you.",
+      "metadata": {
+        "reference": "1 Samuel 12:24",
+        "verseKey": "kjv:1-samuel:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:12:25",
+      "numberLabel": "25",
+      "text": "But if ye shall still do wickedly, ye shall be consumed, both ye and your king.",
+      "metadata": {
+        "reference": "1 Samuel 12:25",
+        "verseKey": "kjv:1-samuel:12:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

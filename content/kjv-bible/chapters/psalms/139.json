@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-139",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 139,
+  "title": "Psalms 139",
+  "display_title": "Psalms 139",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 139,
+  "sortOrder": 19139,
+  "verseCount": 24,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:139:1",
+      "numberLabel": "1",
+      "text": "O LORD, thou hast searched me, and known me.",
+      "metadata": {
+        "reference": "Psalms 139:1",
+        "verseKey": "kjv:psalms:139:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:139:2",
+      "numberLabel": "2",
+      "text": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
+      "metadata": {
+        "reference": "Psalms 139:2",
+        "verseKey": "kjv:psalms:139:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:139:3",
+      "numberLabel": "3",
+      "text": "Thou compassest my path and my lying down, and art acquainted with all my ways.",
+      "metadata": {
+        "reference": "Psalms 139:3",
+        "verseKey": "kjv:psalms:139:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:139:4",
+      "numberLabel": "4",
+      "text": "For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.",
+      "metadata": {
+        "reference": "Psalms 139:4",
+        "verseKey": "kjv:psalms:139:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:139:5",
+      "numberLabel": "5",
+      "text": "Thou hast beset me behind and before, and laid thine hand upon me.",
+      "metadata": {
+        "reference": "Psalms 139:5",
+        "verseKey": "kjv:psalms:139:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:139:6",
+      "numberLabel": "6",
+      "text": "Such knowledge is too wonderful for me; it is high, I cannot attain unto it.",
+      "metadata": {
+        "reference": "Psalms 139:6",
+        "verseKey": "kjv:psalms:139:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:139:7",
+      "numberLabel": "7",
+      "text": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+      "metadata": {
+        "reference": "Psalms 139:7",
+        "verseKey": "kjv:psalms:139:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:139:8",
+      "numberLabel": "8",
+      "text": "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.",
+      "metadata": {
+        "reference": "Psalms 139:8",
+        "verseKey": "kjv:psalms:139:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:139:9",
+      "numberLabel": "9",
+      "text": "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
+      "metadata": {
+        "reference": "Psalms 139:9",
+        "verseKey": "kjv:psalms:139:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:139:10",
+      "numberLabel": "10",
+      "text": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+      "metadata": {
+        "reference": "Psalms 139:10",
+        "verseKey": "kjv:psalms:139:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:139:11",
+      "numberLabel": "11",
+      "text": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+      "metadata": {
+        "reference": "Psalms 139:11",
+        "verseKey": "kjv:psalms:139:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:139:12",
+      "numberLabel": "12",
+      "text": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.",
+      "metadata": {
+        "reference": "Psalms 139:12",
+        "verseKey": "kjv:psalms:139:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:139:13",
+      "numberLabel": "13",
+      "text": "For thou hast possessed my reins: thou hast covered me in my mother’s womb.",
+      "metadata": {
+        "reference": "Psalms 139:13",
+        "verseKey": "kjv:psalms:139:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:139:14",
+      "numberLabel": "14",
+      "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
+      "metadata": {
+        "reference": "Psalms 139:14",
+        "verseKey": "kjv:psalms:139:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:139:15",
+      "numberLabel": "15",
+      "text": "My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.",
+      "metadata": {
+        "reference": "Psalms 139:15",
+        "verseKey": "kjv:psalms:139:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:139:16",
+      "numberLabel": "16",
+      "text": "Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.",
+      "metadata": {
+        "reference": "Psalms 139:16",
+        "verseKey": "kjv:psalms:139:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:139:17",
+      "numberLabel": "17",
+      "text": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
+      "metadata": {
+        "reference": "Psalms 139:17",
+        "verseKey": "kjv:psalms:139:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:139:18",
+      "numberLabel": "18",
+      "text": "If I should count them, they are more in number than the sand: when I awake, I am still with thee.",
+      "metadata": {
+        "reference": "Psalms 139:18",
+        "verseKey": "kjv:psalms:139:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:139:19",
+      "numberLabel": "19",
+      "text": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
+      "metadata": {
+        "reference": "Psalms 139:19",
+        "verseKey": "kjv:psalms:139:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:139:20",
+      "numberLabel": "20",
+      "text": "For they speak against thee wickedly, and thine enemies take thy name in vain.",
+      "metadata": {
+        "reference": "Psalms 139:20",
+        "verseKey": "kjv:psalms:139:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:139:21",
+      "numberLabel": "21",
+      "text": "Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?",
+      "metadata": {
+        "reference": "Psalms 139:21",
+        "verseKey": "kjv:psalms:139:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:139:22",
+      "numberLabel": "22",
+      "text": "I hate them with perfect hatred: I count them mine enemies.",
+      "metadata": {
+        "reference": "Psalms 139:22",
+        "verseKey": "kjv:psalms:139:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:139:23",
+      "numberLabel": "23",
+      "text": "Search me, O God, and know my heart: try me, and know my thoughts:",
+      "metadata": {
+        "reference": "Psalms 139:23",
+        "verseKey": "kjv:psalms:139:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:139:24",
+      "numberLabel": "24",
+      "text": "And see if there be any wicked way in me, and lead me in the way everlasting.",
+      "metadata": {
+        "reference": "Psalms 139:24",
+        "verseKey": "kjv:psalms:139:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

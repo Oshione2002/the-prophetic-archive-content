@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-micah-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Micah 4",
+  "display_title": "Micah 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "micah",
+  "book": "Micah",
+  "bookName": "Micah",
+  "bookOrder": 33,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 33004,
+  "verseCount": 13,
+  "aliases": [
+    "Mic",
+    "Mi"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:micah:4:1",
+      "numberLabel": "1",
+      "text": "But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.",
+      "metadata": {
+        "reference": "Micah 4:1",
+        "verseKey": "kjv:micah:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:micah:4:2",
+      "numberLabel": "2",
+      "text": "And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the LORD from Jerusalem.",
+      "metadata": {
+        "reference": "Micah 4:2",
+        "verseKey": "kjv:micah:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:micah:4:3",
+      "numberLabel": "3",
+      "text": "And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.",
+      "metadata": {
+        "reference": "Micah 4:3",
+        "verseKey": "kjv:micah:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:micah:4:4",
+      "numberLabel": "4",
+      "text": "But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it.",
+      "metadata": {
+        "reference": "Micah 4:4",
+        "verseKey": "kjv:micah:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:micah:4:5",
+      "numberLabel": "5",
+      "text": "For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever.",
+      "metadata": {
+        "reference": "Micah 4:5",
+        "verseKey": "kjv:micah:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:micah:4:6",
+      "numberLabel": "6",
+      "text": "In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;",
+      "metadata": {
+        "reference": "Micah 4:6",
+        "verseKey": "kjv:micah:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:micah:4:7",
+      "numberLabel": "7",
+      "text": "And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.",
+      "metadata": {
+        "reference": "Micah 4:7",
+        "verseKey": "kjv:micah:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:micah:4:8",
+      "numberLabel": "8",
+      "text": "And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.",
+      "metadata": {
+        "reference": "Micah 4:8",
+        "verseKey": "kjv:micah:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:micah:4:9",
+      "numberLabel": "9",
+      "text": "Now why dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.",
+      "metadata": {
+        "reference": "Micah 4:9",
+        "verseKey": "kjv:micah:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:micah:4:10",
+      "numberLabel": "10",
+      "text": "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.",
+      "metadata": {
+        "reference": "Micah 4:10",
+        "verseKey": "kjv:micah:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:micah:4:11",
+      "numberLabel": "11",
+      "text": "Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.",
+      "metadata": {
+        "reference": "Micah 4:11",
+        "verseKey": "kjv:micah:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:micah:4:12",
+      "numberLabel": "12",
+      "text": "But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.",
+      "metadata": {
+        "reference": "Micah 4:12",
+        "verseKey": "kjv:micah:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:micah:4:13",
+      "numberLabel": "13",
+      "text": "Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.",
+      "metadata": {
+        "reference": "Micah 4:13",
+        "verseKey": "kjv:micah:4:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Micah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Micah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

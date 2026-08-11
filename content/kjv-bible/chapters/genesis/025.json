@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Genesis 25",
+  "display_title": "Genesis 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 1025,
+  "verseCount": 34,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:25:1",
+      "numberLabel": "1",
+      "text": "Then again Abraham took a wife, and her name was Keturah.",
+      "metadata": {
+        "reference": "Genesis 25:1",
+        "verseKey": "kjv:genesis:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:25:2",
+      "numberLabel": "2",
+      "text": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
+      "metadata": {
+        "reference": "Genesis 25:2",
+        "verseKey": "kjv:genesis:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:25:3",
+      "numberLabel": "3",
+      "text": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.",
+      "metadata": {
+        "reference": "Genesis 25:3",
+        "verseKey": "kjv:genesis:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:25:4",
+      "numberLabel": "4",
+      "text": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah.",
+      "metadata": {
+        "reference": "Genesis 25:4",
+        "verseKey": "kjv:genesis:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:25:5",
+      "numberLabel": "5",
+      "text": "And Abraham gave all that he had unto Isaac.",
+      "metadata": {
+        "reference": "Genesis 25:5",
+        "verseKey": "kjv:genesis:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:25:6",
+      "numberLabel": "6",
+      "text": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.",
+      "metadata": {
+        "reference": "Genesis 25:6",
+        "verseKey": "kjv:genesis:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:25:7",
+      "numberLabel": "7",
+      "text": "And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.",
+      "metadata": {
+        "reference": "Genesis 25:7",
+        "verseKey": "kjv:genesis:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:25:8",
+      "numberLabel": "8",
+      "text": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.",
+      "metadata": {
+        "reference": "Genesis 25:8",
+        "verseKey": "kjv:genesis:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:25:9",
+      "numberLabel": "9",
+      "text": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;",
+      "metadata": {
+        "reference": "Genesis 25:9",
+        "verseKey": "kjv:genesis:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:25:10",
+      "numberLabel": "10",
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.",
+      "metadata": {
+        "reference": "Genesis 25:10",
+        "verseKey": "kjv:genesis:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:25:11",
+      "numberLabel": "11",
+      "text": "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi.",
+      "metadata": {
+        "reference": "Genesis 25:11",
+        "verseKey": "kjv:genesis:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:25:12",
+      "numberLabel": "12",
+      "text": "Now these are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:",
+      "metadata": {
+        "reference": "Genesis 25:12",
+        "verseKey": "kjv:genesis:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:25:13",
+      "numberLabel": "13",
+      "text": "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
+      "metadata": {
+        "reference": "Genesis 25:13",
+        "verseKey": "kjv:genesis:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:25:14",
+      "numberLabel": "14",
+      "text": "And Mishma, and Dumah, and Massa,",
+      "metadata": {
+        "reference": "Genesis 25:14",
+        "verseKey": "kjv:genesis:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:25:15",
+      "numberLabel": "15",
+      "text": "Hadar, and Tema, Jetur, Naphish, and Kedemah:",
+      "metadata": {
+        "reference": "Genesis 25:15",
+        "verseKey": "kjv:genesis:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:25:16",
+      "numberLabel": "16",
+      "text": "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.",
+      "metadata": {
+        "reference": "Genesis 25:16",
+        "verseKey": "kjv:genesis:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:25:17",
+      "numberLabel": "17",
+      "text": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.",
+      "metadata": {
+        "reference": "Genesis 25:17",
+        "verseKey": "kjv:genesis:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:25:18",
+      "numberLabel": "18",
+      "text": "And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren.",
+      "metadata": {
+        "reference": "Genesis 25:18",
+        "verseKey": "kjv:genesis:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:25:19",
+      "numberLabel": "19",
+      "text": "And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:",
+      "metadata": {
+        "reference": "Genesis 25:19",
+        "verseKey": "kjv:genesis:25:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:25:20",
+      "numberLabel": "20",
+      "text": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian.",
+      "metadata": {
+        "reference": "Genesis 25:20",
+        "verseKey": "kjv:genesis:25:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:25:21",
+      "numberLabel": "21",
+      "text": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived.",
+      "metadata": {
+        "reference": "Genesis 25:21",
+        "verseKey": "kjv:genesis:25:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:25:22",
+      "numberLabel": "22",
+      "text": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD.",
+      "metadata": {
+        "reference": "Genesis 25:22",
+        "verseKey": "kjv:genesis:25:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:25:23",
+      "numberLabel": "23",
+      "text": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.",
+      "metadata": {
+        "reference": "Genesis 25:23",
+        "verseKey": "kjv:genesis:25:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:25:24",
+      "numberLabel": "24",
+      "text": "And when her days to be delivered were fulfilled, behold, there were twins in her womb.",
+      "metadata": {
+        "reference": "Genesis 25:24",
+        "verseKey": "kjv:genesis:25:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:25:25",
+      "numberLabel": "25",
+      "text": "And the first came out red, all over like an hairy garment; and they called his name Esau.",
+      "metadata": {
+        "reference": "Genesis 25:25",
+        "verseKey": "kjv:genesis:25:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:25:26",
+      "numberLabel": "26",
+      "text": "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.",
+      "metadata": {
+        "reference": "Genesis 25:26",
+        "verseKey": "kjv:genesis:25:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:25:27",
+      "numberLabel": "27",
+      "text": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.",
+      "metadata": {
+        "reference": "Genesis 25:27",
+        "verseKey": "kjv:genesis:25:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:25:28",
+      "numberLabel": "28",
+      "text": "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.",
+      "metadata": {
+        "reference": "Genesis 25:28",
+        "verseKey": "kjv:genesis:25:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:25:29",
+      "numberLabel": "29",
+      "text": "And Jacob sod pottage: and Esau came from the field, and he was faint:",
+      "metadata": {
+        "reference": "Genesis 25:29",
+        "verseKey": "kjv:genesis:25:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:25:30",
+      "numberLabel": "30",
+      "text": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.",
+      "metadata": {
+        "reference": "Genesis 25:30",
+        "verseKey": "kjv:genesis:25:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:25:31",
+      "numberLabel": "31",
+      "text": "And Jacob said, Sell me this day thy birthright.",
+      "metadata": {
+        "reference": "Genesis 25:31",
+        "verseKey": "kjv:genesis:25:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:25:32",
+      "numberLabel": "32",
+      "text": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?",
+      "metadata": {
+        "reference": "Genesis 25:32",
+        "verseKey": "kjv:genesis:25:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:25:33",
+      "numberLabel": "33",
+      "text": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.",
+      "metadata": {
+        "reference": "Genesis 25:33",
+        "verseKey": "kjv:genesis:25:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:25:34",
+      "numberLabel": "34",
+      "text": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.",
+      "metadata": {
+        "reference": "Genesis 25:34",
+        "verseKey": "kjv:genesis:25:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

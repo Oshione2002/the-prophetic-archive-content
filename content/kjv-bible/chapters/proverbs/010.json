@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Proverbs 10",
+  "display_title": "Proverbs 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 20010,
+  "verseCount": 32,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:10:1",
+      "numberLabel": "1",
+      "text": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.",
+      "metadata": {
+        "reference": "Proverbs 10:1",
+        "verseKey": "kjv:proverbs:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:10:2",
+      "numberLabel": "2",
+      "text": "Treasures of wickedness profit nothing: but righteousness delivereth from death.",
+      "metadata": {
+        "reference": "Proverbs 10:2",
+        "verseKey": "kjv:proverbs:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:10:3",
+      "numberLabel": "3",
+      "text": "The LORD will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
+      "metadata": {
+        "reference": "Proverbs 10:3",
+        "verseKey": "kjv:proverbs:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:10:4",
+      "numberLabel": "4",
+      "text": "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.",
+      "metadata": {
+        "reference": "Proverbs 10:4",
+        "verseKey": "kjv:proverbs:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:10:5",
+      "numberLabel": "5",
+      "text": "He that gathereth in summer is a wise son: but he that sleepeth in harvest is a son that causeth shame.",
+      "metadata": {
+        "reference": "Proverbs 10:5",
+        "verseKey": "kjv:proverbs:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:10:6",
+      "numberLabel": "6",
+      "text": "Blessings are upon the head of the just: but violence covereth the mouth of the wicked.",
+      "metadata": {
+        "reference": "Proverbs 10:6",
+        "verseKey": "kjv:proverbs:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:10:7",
+      "numberLabel": "7",
+      "text": "The memory of the just is blessed: but the name of the wicked shall rot.",
+      "metadata": {
+        "reference": "Proverbs 10:7",
+        "verseKey": "kjv:proverbs:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:10:8",
+      "numberLabel": "8",
+      "text": "The wise in heart will receive commandments: but a prating fool shall fall.",
+      "metadata": {
+        "reference": "Proverbs 10:8",
+        "verseKey": "kjv:proverbs:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:10:9",
+      "numberLabel": "9",
+      "text": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+      "metadata": {
+        "reference": "Proverbs 10:9",
+        "verseKey": "kjv:proverbs:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:10:10",
+      "numberLabel": "10",
+      "text": "He that winketh with the eye causeth sorrow: but a prating fool shall fall.",
+      "metadata": {
+        "reference": "Proverbs 10:10",
+        "verseKey": "kjv:proverbs:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:10:11",
+      "numberLabel": "11",
+      "text": "The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked.",
+      "metadata": {
+        "reference": "Proverbs 10:11",
+        "verseKey": "kjv:proverbs:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:10:12",
+      "numberLabel": "12",
+      "text": "Hatred stirreth up strifes: but love covereth all sins.",
+      "metadata": {
+        "reference": "Proverbs 10:12",
+        "verseKey": "kjv:proverbs:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:10:13",
+      "numberLabel": "13",
+      "text": "In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.",
+      "metadata": {
+        "reference": "Proverbs 10:13",
+        "verseKey": "kjv:proverbs:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:10:14",
+      "numberLabel": "14",
+      "text": "Wise men lay up knowledge: but the mouth of the foolish is near destruction.",
+      "metadata": {
+        "reference": "Proverbs 10:14",
+        "verseKey": "kjv:proverbs:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:10:15",
+      "numberLabel": "15",
+      "text": "The rich man’s wealth is his strong city: the destruction of the poor is their poverty.",
+      "metadata": {
+        "reference": "Proverbs 10:15",
+        "verseKey": "kjv:proverbs:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:10:16",
+      "numberLabel": "16",
+      "text": "The labour of the righteous tendeth to life: the fruit of the wicked to sin.",
+      "metadata": {
+        "reference": "Proverbs 10:16",
+        "verseKey": "kjv:proverbs:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:10:17",
+      "numberLabel": "17",
+      "text": "He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.",
+      "metadata": {
+        "reference": "Proverbs 10:17",
+        "verseKey": "kjv:proverbs:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:10:18",
+      "numberLabel": "18",
+      "text": "He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.",
+      "metadata": {
+        "reference": "Proverbs 10:18",
+        "verseKey": "kjv:proverbs:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:10:19",
+      "numberLabel": "19",
+      "text": "In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.",
+      "metadata": {
+        "reference": "Proverbs 10:19",
+        "verseKey": "kjv:proverbs:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:10:20",
+      "numberLabel": "20",
+      "text": "The tongue of the just is as choice silver: the heart of the wicked is little worth.",
+      "metadata": {
+        "reference": "Proverbs 10:20",
+        "verseKey": "kjv:proverbs:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:10:21",
+      "numberLabel": "21",
+      "text": "The lips of the righteous feed many: but fools die for want of wisdom.",
+      "metadata": {
+        "reference": "Proverbs 10:21",
+        "verseKey": "kjv:proverbs:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:10:22",
+      "numberLabel": "22",
+      "text": "The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.",
+      "metadata": {
+        "reference": "Proverbs 10:22",
+        "verseKey": "kjv:proverbs:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:10:23",
+      "numberLabel": "23",
+      "text": "It is as sport to a fool to do mischief: but a man of understanding hath wisdom.",
+      "metadata": {
+        "reference": "Proverbs 10:23",
+        "verseKey": "kjv:proverbs:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:10:24",
+      "numberLabel": "24",
+      "text": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.",
+      "metadata": {
+        "reference": "Proverbs 10:24",
+        "verseKey": "kjv:proverbs:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:10:25",
+      "numberLabel": "25",
+      "text": "As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation.",
+      "metadata": {
+        "reference": "Proverbs 10:25",
+        "verseKey": "kjv:proverbs:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:10:26",
+      "numberLabel": "26",
+      "text": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.",
+      "metadata": {
+        "reference": "Proverbs 10:26",
+        "verseKey": "kjv:proverbs:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:10:27",
+      "numberLabel": "27",
+      "text": "The fear of the LORD prolongeth days: but the years of the wicked shall be shortened.",
+      "metadata": {
+        "reference": "Proverbs 10:27",
+        "verseKey": "kjv:proverbs:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:10:28",
+      "numberLabel": "28",
+      "text": "The hope of the righteous shall be gladness: but the expectation of the wicked shall perish.",
+      "metadata": {
+        "reference": "Proverbs 10:28",
+        "verseKey": "kjv:proverbs:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:proverbs:10:29",
+      "numberLabel": "29",
+      "text": "The way of the LORD is strength to the upright: but destruction shall be to the workers of iniquity.",
+      "metadata": {
+        "reference": "Proverbs 10:29",
+        "verseKey": "kjv:proverbs:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:proverbs:10:30",
+      "numberLabel": "30",
+      "text": "The righteous shall never be removed: but the wicked shall not inhabit the earth.",
+      "metadata": {
+        "reference": "Proverbs 10:30",
+        "verseKey": "kjv:proverbs:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:proverbs:10:31",
+      "numberLabel": "31",
+      "text": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.",
+      "metadata": {
+        "reference": "Proverbs 10:31",
+        "verseKey": "kjv:proverbs:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:proverbs:10:32",
+      "numberLabel": "32",
+      "text": "The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.",
+      "metadata": {
+        "reference": "Proverbs 10:32",
+        "verseKey": "kjv:proverbs:10:32"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

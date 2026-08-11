@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-030",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 30,
+  "title": "Isaiah 30",
+  "display_title": "Isaiah 30",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 30,
+  "sortOrder": 23030,
+  "verseCount": 33,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:30:1",
+      "numberLabel": "1",
+      "text": "Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:",
+      "metadata": {
+        "reference": "Isaiah 30:1",
+        "verseKey": "kjv:isaiah:30:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:30:2",
+      "numberLabel": "2",
+      "text": "That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!",
+      "metadata": {
+        "reference": "Isaiah 30:2",
+        "verseKey": "kjv:isaiah:30:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:30:3",
+      "numberLabel": "3",
+      "text": "Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion.",
+      "metadata": {
+        "reference": "Isaiah 30:3",
+        "verseKey": "kjv:isaiah:30:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:30:4",
+      "numberLabel": "4",
+      "text": "For his princes were at Zoan, and his ambassadors came to Hanes.",
+      "metadata": {
+        "reference": "Isaiah 30:4",
+        "verseKey": "kjv:isaiah:30:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:30:5",
+      "numberLabel": "5",
+      "text": "They were all ashamed of a people that could not profit them, nor be an help nor profit, but a shame, and also a reproach.",
+      "metadata": {
+        "reference": "Isaiah 30:5",
+        "verseKey": "kjv:isaiah:30:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:30:6",
+      "numberLabel": "6",
+      "text": "The burden of the beasts of the south: into the land of trouble and anguish, from whence come the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people that shall not profit them.",
+      "metadata": {
+        "reference": "Isaiah 30:6",
+        "verseKey": "kjv:isaiah:30:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:30:7",
+      "numberLabel": "7",
+      "text": "For the Egyptians shall help in vain, and to no purpose: therefore have I cried concerning this, Their strength is to sit still.",
+      "metadata": {
+        "reference": "Isaiah 30:7",
+        "verseKey": "kjv:isaiah:30:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:30:8",
+      "numberLabel": "8",
+      "text": "Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:",
+      "metadata": {
+        "reference": "Isaiah 30:8",
+        "verseKey": "kjv:isaiah:30:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:30:9",
+      "numberLabel": "9",
+      "text": "That this is a rebellious people, lying children, children that will not hear the law of the LORD:",
+      "metadata": {
+        "reference": "Isaiah 30:9",
+        "verseKey": "kjv:isaiah:30:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:30:10",
+      "numberLabel": "10",
+      "text": "Which say to the seers, See not; and to the prophets, Prophesy not unto us right things, speak unto us smooth things, prophesy deceits:",
+      "metadata": {
+        "reference": "Isaiah 30:10",
+        "verseKey": "kjv:isaiah:30:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:30:11",
+      "numberLabel": "11",
+      "text": "Get you out of the way, turn aside out of the path, cause the Holy One of Israel to cease from before us.",
+      "metadata": {
+        "reference": "Isaiah 30:11",
+        "verseKey": "kjv:isaiah:30:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:30:12",
+      "numberLabel": "12",
+      "text": "Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:",
+      "metadata": {
+        "reference": "Isaiah 30:12",
+        "verseKey": "kjv:isaiah:30:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:30:13",
+      "numberLabel": "13",
+      "text": "Therefore this iniquity shall be to you as a breach ready to fall, swelling out in a high wall, whose breaking cometh suddenly at an instant.",
+      "metadata": {
+        "reference": "Isaiah 30:13",
+        "verseKey": "kjv:isaiah:30:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:30:14",
+      "numberLabel": "14",
+      "text": "And he shall break it as the breaking of the potters’ vessel that is broken in pieces; he shall not spare: so that there shall not be found in the bursting of it a sherd to take fire from the hearth, or to take water withal out of the pit.",
+      "metadata": {
+        "reference": "Isaiah 30:14",
+        "verseKey": "kjv:isaiah:30:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:30:15",
+      "numberLabel": "15",
+      "text": "For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not.",
+      "metadata": {
+        "reference": "Isaiah 30:15",
+        "verseKey": "kjv:isaiah:30:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:30:16",
+      "numberLabel": "16",
+      "text": "But ye said, No; for we will flee upon horses; therefore shall ye flee: and, We will ride upon the swift; therefore shall they that pursue you be swift.",
+      "metadata": {
+        "reference": "Isaiah 30:16",
+        "verseKey": "kjv:isaiah:30:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:30:17",
+      "numberLabel": "17",
+      "text": "One thousand shall flee at the rebuke of one; at the rebuke of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill.",
+      "metadata": {
+        "reference": "Isaiah 30:17",
+        "verseKey": "kjv:isaiah:30:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:30:18",
+      "numberLabel": "18",
+      "text": "And therefore will the LORD wait, that he may be gracious unto you, and therefore will he be exalted, that he may have mercy upon you: for the LORD is a God of judgment: blessed are all they that wait for him.",
+      "metadata": {
+        "reference": "Isaiah 30:18",
+        "verseKey": "kjv:isaiah:30:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:30:19",
+      "numberLabel": "19",
+      "text": "For the people shall dwell in Zion at Jerusalem: thou shalt weep no more: he will be very gracious unto thee at the voice of thy cry; when he shall hear it, he will answer thee.",
+      "metadata": {
+        "reference": "Isaiah 30:19",
+        "verseKey": "kjv:isaiah:30:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:30:20",
+      "numberLabel": "20",
+      "text": "And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:",
+      "metadata": {
+        "reference": "Isaiah 30:20",
+        "verseKey": "kjv:isaiah:30:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:30:21",
+      "numberLabel": "21",
+      "text": "And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.",
+      "metadata": {
+        "reference": "Isaiah 30:21",
+        "verseKey": "kjv:isaiah:30:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:30:22",
+      "numberLabel": "22",
+      "text": "Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.",
+      "metadata": {
+        "reference": "Isaiah 30:22",
+        "verseKey": "kjv:isaiah:30:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:isaiah:30:23",
+      "numberLabel": "23",
+      "text": "Then shall he give the rain of thy seed, that thou shalt sow the ground withal; and bread of the increase of the earth, and it shall be fat and plenteous: in that day shall thy cattle feed in large pastures.",
+      "metadata": {
+        "reference": "Isaiah 30:23",
+        "verseKey": "kjv:isaiah:30:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:isaiah:30:24",
+      "numberLabel": "24",
+      "text": "The oxen likewise and the young asses that ear the ground shall eat clean provender, which hath been winnowed with the shovel and with the fan.",
+      "metadata": {
+        "reference": "Isaiah 30:24",
+        "verseKey": "kjv:isaiah:30:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:isaiah:30:25",
+      "numberLabel": "25",
+      "text": "And there shall be upon every high mountain, and upon every high hill, rivers and streams of waters in the day of the great slaughter, when the towers fall.",
+      "metadata": {
+        "reference": "Isaiah 30:25",
+        "verseKey": "kjv:isaiah:30:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:isaiah:30:26",
+      "numberLabel": "26",
+      "text": "Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that the LORD bindeth up the breach of his people, and healeth the stroke of their wound.",
+      "metadata": {
+        "reference": "Isaiah 30:26",
+        "verseKey": "kjv:isaiah:30:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:isaiah:30:27",
+      "numberLabel": "27",
+      "text": "Behold, the name of the LORD cometh from far, burning with his anger, and the burden thereof is heavy: his lips are full of indignation, and his tongue as a devouring fire:",
+      "metadata": {
+        "reference": "Isaiah 30:27",
+        "verseKey": "kjv:isaiah:30:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:isaiah:30:28",
+      "numberLabel": "28",
+      "text": "And his breath, as an overflowing stream, shall reach to the midst of the neck, to sift the nations with the sieve of vanity: and there shall be a bridle in the jaws of the people, causing them to err.",
+      "metadata": {
+        "reference": "Isaiah 30:28",
+        "verseKey": "kjv:isaiah:30:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:isaiah:30:29",
+      "numberLabel": "29",
+      "text": "Ye shall have a song, as in the night when a holy solemnity is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the LORD, to the mighty One of Israel.",
+      "metadata": {
+        "reference": "Isaiah 30:29",
+        "verseKey": "kjv:isaiah:30:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:isaiah:30:30",
+      "numberLabel": "30",
+      "text": "And the LORD shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones.",
+      "metadata": {
+        "reference": "Isaiah 30:30",
+        "verseKey": "kjv:isaiah:30:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:isaiah:30:31",
+      "numberLabel": "31",
+      "text": "For through the voice of the LORD shall the Assyrian be beaten down, which smote with a rod.",
+      "metadata": {
+        "reference": "Isaiah 30:31",
+        "verseKey": "kjv:isaiah:30:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:isaiah:30:32",
+      "numberLabel": "32",
+      "text": "And in every place where the grounded staff shall pass, which the LORD shall lay upon him, it shall be with tabrets and harps: and in battles of shaking will he fight with it.",
+      "metadata": {
+        "reference": "Isaiah 30:32",
+        "verseKey": "kjv:isaiah:30:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:isaiah:30:33",
+      "numberLabel": "33",
+      "text": "For Tophet is ordained of old; yea, for the king it is prepared; he hath made it deep and large: the pile thereof is fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.",
+      "metadata": {
+        "reference": "Isaiah 30:33",
+        "verseKey": "kjv:isaiah:30:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

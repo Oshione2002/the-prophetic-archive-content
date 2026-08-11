@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-045",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 45,
+  "title": "Jeremiah 45",
+  "display_title": "Jeremiah 45",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 45,
+  "sortOrder": 24045,
+  "verseCount": 5,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:45:1",
+      "numberLabel": "1",
+      "text": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,",
+      "metadata": {
+        "reference": "Jeremiah 45:1",
+        "verseKey": "kjv:jeremiah:45:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:45:2",
+      "numberLabel": "2",
+      "text": "Thus saith the LORD, the God of Israel, unto thee, O Baruch:",
+      "metadata": {
+        "reference": "Jeremiah 45:2",
+        "verseKey": "kjv:jeremiah:45:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:45:3",
+      "numberLabel": "3",
+      "text": "Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.",
+      "metadata": {
+        "reference": "Jeremiah 45:3",
+        "verseKey": "kjv:jeremiah:45:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:45:4",
+      "numberLabel": "4",
+      "text": "Thus shalt thou say unto him, The LORD saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land.",
+      "metadata": {
+        "reference": "Jeremiah 45:4",
+        "verseKey": "kjv:jeremiah:45:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:45:5",
+      "numberLabel": "5",
+      "text": "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest.",
+      "metadata": {
+        "reference": "Jeremiah 45:5",
+        "verseKey": "kjv:jeremiah:45:5"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Mark 9",
+  "display_title": "Mark 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 9,
+  "sortOrder": 41009,
+  "verseCount": 50,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:9:1",
+      "numberLabel": "1",
+      "text": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.",
+      "metadata": {
+        "reference": "Mark 9:1",
+        "verseKey": "kjv:mark:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:9:2",
+      "numberLabel": "2",
+      "text": "And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.",
+      "metadata": {
+        "reference": "Mark 9:2",
+        "verseKey": "kjv:mark:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:9:3",
+      "numberLabel": "3",
+      "text": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.",
+      "metadata": {
+        "reference": "Mark 9:3",
+        "verseKey": "kjv:mark:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:9:4",
+      "numberLabel": "4",
+      "text": "And there appeared unto them Elias with Moses: and they were talking with Jesus.",
+      "metadata": {
+        "reference": "Mark 9:4",
+        "verseKey": "kjv:mark:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:9:5",
+      "numberLabel": "5",
+      "text": "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias.",
+      "metadata": {
+        "reference": "Mark 9:5",
+        "verseKey": "kjv:mark:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:9:6",
+      "numberLabel": "6",
+      "text": "For he wist not what to say; for they were sore afraid.",
+      "metadata": {
+        "reference": "Mark 9:6",
+        "verseKey": "kjv:mark:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:9:7",
+      "numberLabel": "7",
+      "text": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.",
+      "metadata": {
+        "reference": "Mark 9:7",
+        "verseKey": "kjv:mark:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:9:8",
+      "numberLabel": "8",
+      "text": "And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves.",
+      "metadata": {
+        "reference": "Mark 9:8",
+        "verseKey": "kjv:mark:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:9:9",
+      "numberLabel": "9",
+      "text": "And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.",
+      "metadata": {
+        "reference": "Mark 9:9",
+        "verseKey": "kjv:mark:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:9:10",
+      "numberLabel": "10",
+      "text": "And they kept that saying with themselves, questioning one with another what the rising from the dead should mean.",
+      "metadata": {
+        "reference": "Mark 9:10",
+        "verseKey": "kjv:mark:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:9:11",
+      "numberLabel": "11",
+      "text": "And they asked him, saying, Why say the scribes that Elias must first come?",
+      "metadata": {
+        "reference": "Mark 9:11",
+        "verseKey": "kjv:mark:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:9:12",
+      "numberLabel": "12",
+      "text": "And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.",
+      "metadata": {
+        "reference": "Mark 9:12",
+        "verseKey": "kjv:mark:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:9:13",
+      "numberLabel": "13",
+      "text": "But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.",
+      "metadata": {
+        "reference": "Mark 9:13",
+        "verseKey": "kjv:mark:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:9:14",
+      "numberLabel": "14",
+      "text": "And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them.",
+      "metadata": {
+        "reference": "Mark 9:14",
+        "verseKey": "kjv:mark:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:9:15",
+      "numberLabel": "15",
+      "text": "And straightway all the people, when they beheld him, were greatly amazed, and running to him saluted him.",
+      "metadata": {
+        "reference": "Mark 9:15",
+        "verseKey": "kjv:mark:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:9:16",
+      "numberLabel": "16",
+      "text": "And he asked the scribes, What question ye with them?",
+      "metadata": {
+        "reference": "Mark 9:16",
+        "verseKey": "kjv:mark:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:9:17",
+      "numberLabel": "17",
+      "text": "And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit;",
+      "metadata": {
+        "reference": "Mark 9:17",
+        "verseKey": "kjv:mark:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:9:18",
+      "numberLabel": "18",
+      "text": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.",
+      "metadata": {
+        "reference": "Mark 9:18",
+        "verseKey": "kjv:mark:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:9:19",
+      "numberLabel": "19",
+      "text": "He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.",
+      "metadata": {
+        "reference": "Mark 9:19",
+        "verseKey": "kjv:mark:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:9:20",
+      "numberLabel": "20",
+      "text": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.",
+      "metadata": {
+        "reference": "Mark 9:20",
+        "verseKey": "kjv:mark:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:9:21",
+      "numberLabel": "21",
+      "text": "And he asked his father, How long is it ago since this came unto him? And he said, Of a child.",
+      "metadata": {
+        "reference": "Mark 9:21",
+        "verseKey": "kjv:mark:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:9:22",
+      "numberLabel": "22",
+      "text": "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us.",
+      "metadata": {
+        "reference": "Mark 9:22",
+        "verseKey": "kjv:mark:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:9:23",
+      "numberLabel": "23",
+      "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth.",
+      "metadata": {
+        "reference": "Mark 9:23",
+        "verseKey": "kjv:mark:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:9:24",
+      "numberLabel": "24",
+      "text": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.",
+      "metadata": {
+        "reference": "Mark 9:24",
+        "verseKey": "kjv:mark:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:9:25",
+      "numberLabel": "25",
+      "text": "When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, Thou dumb and deaf spirit, I charge thee, come out of him, and enter no more into him.",
+      "metadata": {
+        "reference": "Mark 9:25",
+        "verseKey": "kjv:mark:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:9:26",
+      "numberLabel": "26",
+      "text": "And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead.",
+      "metadata": {
+        "reference": "Mark 9:26",
+        "verseKey": "kjv:mark:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:9:27",
+      "numberLabel": "27",
+      "text": "But Jesus took him by the hand, and lifted him up; and he arose.",
+      "metadata": {
+        "reference": "Mark 9:27",
+        "verseKey": "kjv:mark:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:9:28",
+      "numberLabel": "28",
+      "text": "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?",
+      "metadata": {
+        "reference": "Mark 9:28",
+        "verseKey": "kjv:mark:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:9:29",
+      "numberLabel": "29",
+      "text": "And he said unto them, This kind can come forth by nothing, but by prayer and fasting.",
+      "metadata": {
+        "reference": "Mark 9:29",
+        "verseKey": "kjv:mark:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:9:30",
+      "numberLabel": "30",
+      "text": "And they departed thence, and passed through Galilee; and he would not that any man should know it.",
+      "metadata": {
+        "reference": "Mark 9:30",
+        "verseKey": "kjv:mark:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:9:31",
+      "numberLabel": "31",
+      "text": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.",
+      "metadata": {
+        "reference": "Mark 9:31",
+        "verseKey": "kjv:mark:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:9:32",
+      "numberLabel": "32",
+      "text": "But they understood not that saying, and were afraid to ask him.",
+      "metadata": {
+        "reference": "Mark 9:32",
+        "verseKey": "kjv:mark:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:9:33",
+      "numberLabel": "33",
+      "text": "And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?",
+      "metadata": {
+        "reference": "Mark 9:33",
+        "verseKey": "kjv:mark:9:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:mark:9:34",
+      "numberLabel": "34",
+      "text": "But they held their peace: for by the way they had disputed among themselves, who should be the greatest.",
+      "metadata": {
+        "reference": "Mark 9:34",
+        "verseKey": "kjv:mark:9:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:mark:9:35",
+      "numberLabel": "35",
+      "text": "And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all.",
+      "metadata": {
+        "reference": "Mark 9:35",
+        "verseKey": "kjv:mark:9:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:mark:9:36",
+      "numberLabel": "36",
+      "text": "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,",
+      "metadata": {
+        "reference": "Mark 9:36",
+        "verseKey": "kjv:mark:9:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:mark:9:37",
+      "numberLabel": "37",
+      "text": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.",
+      "metadata": {
+        "reference": "Mark 9:37",
+        "verseKey": "kjv:mark:9:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:mark:9:38",
+      "numberLabel": "38",
+      "text": "And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.",
+      "metadata": {
+        "reference": "Mark 9:38",
+        "verseKey": "kjv:mark:9:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:mark:9:39",
+      "numberLabel": "39",
+      "text": "But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.",
+      "metadata": {
+        "reference": "Mark 9:39",
+        "verseKey": "kjv:mark:9:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:mark:9:40",
+      "numberLabel": "40",
+      "text": "For he that is not against us is on our part.",
+      "metadata": {
+        "reference": "Mark 9:40",
+        "verseKey": "kjv:mark:9:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:mark:9:41",
+      "numberLabel": "41",
+      "text": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.",
+      "metadata": {
+        "reference": "Mark 9:41",
+        "verseKey": "kjv:mark:9:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:mark:9:42",
+      "numberLabel": "42",
+      "text": "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.",
+      "metadata": {
+        "reference": "Mark 9:42",
+        "verseKey": "kjv:mark:9:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:mark:9:43",
+      "numberLabel": "43",
+      "text": "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:",
+      "metadata": {
+        "reference": "Mark 9:43",
+        "verseKey": "kjv:mark:9:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:mark:9:44",
+      "numberLabel": "44",
+      "text": "Where their worm dieth not, and the fire is not quenched.",
+      "metadata": {
+        "reference": "Mark 9:44",
+        "verseKey": "kjv:mark:9:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:mark:9:45",
+      "numberLabel": "45",
+      "text": "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:",
+      "metadata": {
+        "reference": "Mark 9:45",
+        "verseKey": "kjv:mark:9:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:mark:9:46",
+      "numberLabel": "46",
+      "text": "Where their worm dieth not, and the fire is not quenched.",
+      "metadata": {
+        "reference": "Mark 9:46",
+        "verseKey": "kjv:mark:9:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:mark:9:47",
+      "numberLabel": "47",
+      "text": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:",
+      "metadata": {
+        "reference": "Mark 9:47",
+        "verseKey": "kjv:mark:9:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:mark:9:48",
+      "numberLabel": "48",
+      "text": "Where their worm dieth not, and the fire is not quenched.",
+      "metadata": {
+        "reference": "Mark 9:48",
+        "verseKey": "kjv:mark:9:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:mark:9:49",
+      "numberLabel": "49",
+      "text": "For every one shall be salted with fire, and every sacrifice shall be salted with salt.",
+      "metadata": {
+        "reference": "Mark 9:49",
+        "verseKey": "kjv:mark:9:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:mark:9:50",
+      "numberLabel": "50",
+      "text": "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.",
+      "metadata": {
+        "reference": "Mark 9:50",
+        "verseKey": "kjv:mark:9:50"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

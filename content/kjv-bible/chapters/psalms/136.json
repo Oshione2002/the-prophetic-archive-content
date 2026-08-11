@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-136",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 136,
+  "title": "Psalms 136",
+  "display_title": "Psalms 136",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 136,
+  "sortOrder": 19136,
+  "verseCount": 26,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:136:1",
+      "numberLabel": "1",
+      "text": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:1",
+        "verseKey": "kjv:psalms:136:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:136:2",
+      "numberLabel": "2",
+      "text": "O give thanks unto the God of gods: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:2",
+        "verseKey": "kjv:psalms:136:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:136:3",
+      "numberLabel": "3",
+      "text": "O give thanks to the Lord of lords: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:3",
+        "verseKey": "kjv:psalms:136:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:136:4",
+      "numberLabel": "4",
+      "text": "To him who alone doeth great wonders: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:4",
+        "verseKey": "kjv:psalms:136:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:136:5",
+      "numberLabel": "5",
+      "text": "To him that by wisdom made the heavens: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:5",
+        "verseKey": "kjv:psalms:136:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:136:6",
+      "numberLabel": "6",
+      "text": "To him that stretched out the earth above the waters: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:6",
+        "verseKey": "kjv:psalms:136:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:136:7",
+      "numberLabel": "7",
+      "text": "To him that made great lights: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:7",
+        "verseKey": "kjv:psalms:136:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:136:8",
+      "numberLabel": "8",
+      "text": "The sun to rule by day: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:8",
+        "verseKey": "kjv:psalms:136:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:136:9",
+      "numberLabel": "9",
+      "text": "The moon and stars to rule by night: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:9",
+        "verseKey": "kjv:psalms:136:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:136:10",
+      "numberLabel": "10",
+      "text": "To him that smote Egypt in their firstborn: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:10",
+        "verseKey": "kjv:psalms:136:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:136:11",
+      "numberLabel": "11",
+      "text": "And brought out Israel from among them: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:11",
+        "verseKey": "kjv:psalms:136:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:136:12",
+      "numberLabel": "12",
+      "text": "With a strong hand, and with a stretched out arm: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:12",
+        "verseKey": "kjv:psalms:136:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:136:13",
+      "numberLabel": "13",
+      "text": "To him which divided the Red sea into parts: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:13",
+        "verseKey": "kjv:psalms:136:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:136:14",
+      "numberLabel": "14",
+      "text": "And made Israel to pass through the midst of it: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:14",
+        "verseKey": "kjv:psalms:136:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:136:15",
+      "numberLabel": "15",
+      "text": "But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:15",
+        "verseKey": "kjv:psalms:136:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:136:16",
+      "numberLabel": "16",
+      "text": "To him which led his people through the wilderness: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:16",
+        "verseKey": "kjv:psalms:136:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:136:17",
+      "numberLabel": "17",
+      "text": "To him which smote great kings: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:17",
+        "verseKey": "kjv:psalms:136:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:136:18",
+      "numberLabel": "18",
+      "text": "And slew famous kings: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:18",
+        "verseKey": "kjv:psalms:136:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:136:19",
+      "numberLabel": "19",
+      "text": "Sihon king of the Amorites: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:19",
+        "verseKey": "kjv:psalms:136:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:136:20",
+      "numberLabel": "20",
+      "text": "And Og the king of Bashan: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:20",
+        "verseKey": "kjv:psalms:136:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:136:21",
+      "numberLabel": "21",
+      "text": "And gave their land for an heritage: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:21",
+        "verseKey": "kjv:psalms:136:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:136:22",
+      "numberLabel": "22",
+      "text": "Even an heritage unto Israel his servant: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:22",
+        "verseKey": "kjv:psalms:136:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:136:23",
+      "numberLabel": "23",
+      "text": "Who remembered us in our low estate: for his mercy endureth for ever:",
+      "metadata": {
+        "reference": "Psalms 136:23",
+        "verseKey": "kjv:psalms:136:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:136:24",
+      "numberLabel": "24",
+      "text": "And hath redeemed us from our enemies: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:24",
+        "verseKey": "kjv:psalms:136:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:136:25",
+      "numberLabel": "25",
+      "text": "Who giveth food to all flesh: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:25",
+        "verseKey": "kjv:psalms:136:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:136:26",
+      "numberLabel": "26",
+      "text": "O give thanks unto the God of heaven: for his mercy endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 136:26",
+        "verseKey": "kjv:psalms:136:26"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

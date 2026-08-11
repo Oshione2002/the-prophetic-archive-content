@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "Psalms 28",
+  "display_title": "Psalms 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 28,
+  "sortOrder": 19028,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:28:1",
+      "numberLabel": "1",
+      "text": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.",
+      "metadata": {
+        "reference": "Psalms 28:1",
+        "verseKey": "kjv:psalms:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:28:2",
+      "numberLabel": "2",
+      "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
+      "metadata": {
+        "reference": "Psalms 28:2",
+        "verseKey": "kjv:psalms:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:28:3",
+      "numberLabel": "3",
+      "text": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.",
+      "metadata": {
+        "reference": "Psalms 28:3",
+        "verseKey": "kjv:psalms:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:28:4",
+      "numberLabel": "4",
+      "text": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
+      "metadata": {
+        "reference": "Psalms 28:4",
+        "verseKey": "kjv:psalms:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:28:5",
+      "numberLabel": "5",
+      "text": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.",
+      "metadata": {
+        "reference": "Psalms 28:5",
+        "verseKey": "kjv:psalms:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:28:6",
+      "numberLabel": "6",
+      "text": "Blessed be the LORD, because he hath heard the voice of my supplications.",
+      "metadata": {
+        "reference": "Psalms 28:6",
+        "verseKey": "kjv:psalms:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:28:7",
+      "numberLabel": "7",
+      "text": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+      "metadata": {
+        "reference": "Psalms 28:7",
+        "verseKey": "kjv:psalms:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:28:8",
+      "numberLabel": "8",
+      "text": "The LORD is their strength, and he is the saving strength of his anointed.",
+      "metadata": {
+        "reference": "Psalms 28:8",
+        "verseKey": "kjv:psalms:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:28:9",
+      "numberLabel": "9",
+      "text": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+      "metadata": {
+        "reference": "Psalms 28:9",
+        "verseKey": "kjv:psalms:28:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

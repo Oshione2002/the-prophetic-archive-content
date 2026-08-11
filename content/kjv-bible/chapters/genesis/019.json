@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Genesis 19",
+  "display_title": "Genesis 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 1019,
+  "verseCount": 38,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:19:1",
+      "numberLabel": "1",
+      "text": "And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;",
+      "metadata": {
+        "reference": "Genesis 19:1",
+        "verseKey": "kjv:genesis:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:19:2",
+      "numberLabel": "2",
+      "text": "And he said, Behold now, my lords, turn in, I pray you, into your servant’s house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night.",
+      "metadata": {
+        "reference": "Genesis 19:2",
+        "verseKey": "kjv:genesis:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:19:3",
+      "numberLabel": "3",
+      "text": "And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.",
+      "metadata": {
+        "reference": "Genesis 19:3",
+        "verseKey": "kjv:genesis:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:19:4",
+      "numberLabel": "4",
+      "text": "But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:",
+      "metadata": {
+        "reference": "Genesis 19:4",
+        "verseKey": "kjv:genesis:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:19:5",
+      "numberLabel": "5",
+      "text": "And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them.",
+      "metadata": {
+        "reference": "Genesis 19:5",
+        "verseKey": "kjv:genesis:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:19:6",
+      "numberLabel": "6",
+      "text": "And Lot went out at the door unto them, and shut the door after him,",
+      "metadata": {
+        "reference": "Genesis 19:6",
+        "verseKey": "kjv:genesis:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:19:7",
+      "numberLabel": "7",
+      "text": "And said, I pray you, brethren, do not so wickedly.",
+      "metadata": {
+        "reference": "Genesis 19:7",
+        "verseKey": "kjv:genesis:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:19:8",
+      "numberLabel": "8",
+      "text": "Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.",
+      "metadata": {
+        "reference": "Genesis 19:8",
+        "verseKey": "kjv:genesis:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:19:9",
+      "numberLabel": "9",
+      "text": "And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.",
+      "metadata": {
+        "reference": "Genesis 19:9",
+        "verseKey": "kjv:genesis:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:19:10",
+      "numberLabel": "10",
+      "text": "But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.",
+      "metadata": {
+        "reference": "Genesis 19:10",
+        "verseKey": "kjv:genesis:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:19:11",
+      "numberLabel": "11",
+      "text": "And they smote the men that were at the door of the house with blindness, both small and great: so that they wearied themselves to find the door.",
+      "metadata": {
+        "reference": "Genesis 19:11",
+        "verseKey": "kjv:genesis:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:19:12",
+      "numberLabel": "12",
+      "text": "And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place:",
+      "metadata": {
+        "reference": "Genesis 19:12",
+        "verseKey": "kjv:genesis:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:19:13",
+      "numberLabel": "13",
+      "text": "For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it.",
+      "metadata": {
+        "reference": "Genesis 19:13",
+        "verseKey": "kjv:genesis:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:19:14",
+      "numberLabel": "14",
+      "text": "And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law.",
+      "metadata": {
+        "reference": "Genesis 19:14",
+        "verseKey": "kjv:genesis:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:19:15",
+      "numberLabel": "15",
+      "text": "And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.",
+      "metadata": {
+        "reference": "Genesis 19:15",
+        "verseKey": "kjv:genesis:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:19:16",
+      "numberLabel": "16",
+      "text": "And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city.",
+      "metadata": {
+        "reference": "Genesis 19:16",
+        "verseKey": "kjv:genesis:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:19:17",
+      "numberLabel": "17",
+      "text": "And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.",
+      "metadata": {
+        "reference": "Genesis 19:17",
+        "verseKey": "kjv:genesis:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:19:18",
+      "numberLabel": "18",
+      "text": "And Lot said unto them, Oh, not so, my LORD:",
+      "metadata": {
+        "reference": "Genesis 19:18",
+        "verseKey": "kjv:genesis:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:19:19",
+      "numberLabel": "19",
+      "text": "Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:",
+      "metadata": {
+        "reference": "Genesis 19:19",
+        "verseKey": "kjv:genesis:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:19:20",
+      "numberLabel": "20",
+      "text": "Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, (is it not a little one?) and my soul shall live.",
+      "metadata": {
+        "reference": "Genesis 19:20",
+        "verseKey": "kjv:genesis:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:19:21",
+      "numberLabel": "21",
+      "text": "And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken.",
+      "metadata": {
+        "reference": "Genesis 19:21",
+        "verseKey": "kjv:genesis:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:19:22",
+      "numberLabel": "22",
+      "text": "Haste thee, escape thither; for I cannot do anything till thou be come thither. Therefore the name of the city was called Zoar.",
+      "metadata": {
+        "reference": "Genesis 19:22",
+        "verseKey": "kjv:genesis:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:19:23",
+      "numberLabel": "23",
+      "text": "The sun was risen upon the earth when Lot entered into Zoar.",
+      "metadata": {
+        "reference": "Genesis 19:23",
+        "verseKey": "kjv:genesis:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:19:24",
+      "numberLabel": "24",
+      "text": "Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;",
+      "metadata": {
+        "reference": "Genesis 19:24",
+        "verseKey": "kjv:genesis:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:19:25",
+      "numberLabel": "25",
+      "text": "And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground.",
+      "metadata": {
+        "reference": "Genesis 19:25",
+        "verseKey": "kjv:genesis:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:19:26",
+      "numberLabel": "26",
+      "text": "But his wife looked back from behind him, and she became a pillar of salt.",
+      "metadata": {
+        "reference": "Genesis 19:26",
+        "verseKey": "kjv:genesis:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:19:27",
+      "numberLabel": "27",
+      "text": "And Abraham gat up early in the morning to the place where he stood before the LORD:",
+      "metadata": {
+        "reference": "Genesis 19:27",
+        "verseKey": "kjv:genesis:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:19:28",
+      "numberLabel": "28",
+      "text": "And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace.",
+      "metadata": {
+        "reference": "Genesis 19:28",
+        "verseKey": "kjv:genesis:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:19:29",
+      "numberLabel": "29",
+      "text": "And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.",
+      "metadata": {
+        "reference": "Genesis 19:29",
+        "verseKey": "kjv:genesis:19:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:19:30",
+      "numberLabel": "30",
+      "text": "And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.",
+      "metadata": {
+        "reference": "Genesis 19:30",
+        "verseKey": "kjv:genesis:19:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:19:31",
+      "numberLabel": "31",
+      "text": "And the firstborn said unto the younger, Our father is old, and there is not a man in the earth to come in unto us after the manner of all the earth:",
+      "metadata": {
+        "reference": "Genesis 19:31",
+        "verseKey": "kjv:genesis:19:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:19:32",
+      "numberLabel": "32",
+      "text": "Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father.",
+      "metadata": {
+        "reference": "Genesis 19:32",
+        "verseKey": "kjv:genesis:19:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:19:33",
+      "numberLabel": "33",
+      "text": "And they made their father drink wine that night: and the firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose.",
+      "metadata": {
+        "reference": "Genesis 19:33",
+        "verseKey": "kjv:genesis:19:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:19:34",
+      "numberLabel": "34",
+      "text": "And it came to pass on the morrow, that the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, and lie with him, that we may preserve seed of our father.",
+      "metadata": {
+        "reference": "Genesis 19:34",
+        "verseKey": "kjv:genesis:19:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:genesis:19:35",
+      "numberLabel": "35",
+      "text": "And they made their father drink wine that night also: and the younger arose, and lay with him; and he perceived not when she lay down, nor when she arose.",
+      "metadata": {
+        "reference": "Genesis 19:35",
+        "verseKey": "kjv:genesis:19:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:genesis:19:36",
+      "numberLabel": "36",
+      "text": "Thus were both the daughters of Lot with child by their father.",
+      "metadata": {
+        "reference": "Genesis 19:36",
+        "verseKey": "kjv:genesis:19:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:genesis:19:37",
+      "numberLabel": "37",
+      "text": "And the first born bare a son, and called his name Moab: the same is the father of the Moabites unto this day.",
+      "metadata": {
+        "reference": "Genesis 19:37",
+        "verseKey": "kjv:genesis:19:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:genesis:19:38",
+      "numberLabel": "38",
+      "text": "And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.",
+      "metadata": {
+        "reference": "Genesis 19:38",
+        "verseKey": "kjv:genesis:19:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

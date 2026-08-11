@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hosea-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Hosea 4",
+  "display_title": "Hosea 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hosea",
+  "book": "Hosea",
+  "bookName": "Hosea",
+  "bookOrder": 28,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 28004,
+  "verseCount": 19,
+  "aliases": [
+    "Hos",
+    "Ho"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hosea:4:1",
+      "numberLabel": "1",
+      "text": "Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.",
+      "metadata": {
+        "reference": "Hosea 4:1",
+        "verseKey": "kjv:hosea:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hosea:4:2",
+      "numberLabel": "2",
+      "text": "By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.",
+      "metadata": {
+        "reference": "Hosea 4:2",
+        "verseKey": "kjv:hosea:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hosea:4:3",
+      "numberLabel": "3",
+      "text": "Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.",
+      "metadata": {
+        "reference": "Hosea 4:3",
+        "verseKey": "kjv:hosea:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hosea:4:4",
+      "numberLabel": "4",
+      "text": "Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.",
+      "metadata": {
+        "reference": "Hosea 4:4",
+        "verseKey": "kjv:hosea:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hosea:4:5",
+      "numberLabel": "5",
+      "text": "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.",
+      "metadata": {
+        "reference": "Hosea 4:5",
+        "verseKey": "kjv:hosea:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hosea:4:6",
+      "numberLabel": "6",
+      "text": "My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.",
+      "metadata": {
+        "reference": "Hosea 4:6",
+        "verseKey": "kjv:hosea:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hosea:4:7",
+      "numberLabel": "7",
+      "text": "As they were increased, so they sinned against me: therefore will I change their glory into shame.",
+      "metadata": {
+        "reference": "Hosea 4:7",
+        "verseKey": "kjv:hosea:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hosea:4:8",
+      "numberLabel": "8",
+      "text": "They eat up the sin of my people, and they set their heart on their iniquity.",
+      "metadata": {
+        "reference": "Hosea 4:8",
+        "verseKey": "kjv:hosea:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hosea:4:9",
+      "numberLabel": "9",
+      "text": "And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.",
+      "metadata": {
+        "reference": "Hosea 4:9",
+        "verseKey": "kjv:hosea:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hosea:4:10",
+      "numberLabel": "10",
+      "text": "For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD.",
+      "metadata": {
+        "reference": "Hosea 4:10",
+        "verseKey": "kjv:hosea:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hosea:4:11",
+      "numberLabel": "11",
+      "text": "Whoredom and wine and new wine take away the heart.",
+      "metadata": {
+        "reference": "Hosea 4:11",
+        "verseKey": "kjv:hosea:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:hosea:4:12",
+      "numberLabel": "12",
+      "text": "My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God.",
+      "metadata": {
+        "reference": "Hosea 4:12",
+        "verseKey": "kjv:hosea:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:hosea:4:13",
+      "numberLabel": "13",
+      "text": "They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.",
+      "metadata": {
+        "reference": "Hosea 4:13",
+        "verseKey": "kjv:hosea:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:hosea:4:14",
+      "numberLabel": "14",
+      "text": "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.",
+      "metadata": {
+        "reference": "Hosea 4:14",
+        "verseKey": "kjv:hosea:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:hosea:4:15",
+      "numberLabel": "15",
+      "text": "Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, The LORD liveth.",
+      "metadata": {
+        "reference": "Hosea 4:15",
+        "verseKey": "kjv:hosea:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:hosea:4:16",
+      "numberLabel": "16",
+      "text": "For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.",
+      "metadata": {
+        "reference": "Hosea 4:16",
+        "verseKey": "kjv:hosea:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:hosea:4:17",
+      "numberLabel": "17",
+      "text": "Ephraim is joined to idols: let him alone.",
+      "metadata": {
+        "reference": "Hosea 4:17",
+        "verseKey": "kjv:hosea:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:hosea:4:18",
+      "numberLabel": "18",
+      "text": "Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye.",
+      "metadata": {
+        "reference": "Hosea 4:18",
+        "verseKey": "kjv:hosea:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:hosea:4:19",
+      "numberLabel": "19",
+      "text": "The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.",
+      "metadata": {
+        "reference": "Hosea 4:19",
+        "verseKey": "kjv:hosea:4:19"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hosea.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hosea.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Job 7",
+  "display_title": "Job 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 18007,
+  "verseCount": 21,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:7:1",
+      "numberLabel": "1",
+      "text": "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?",
+      "metadata": {
+        "reference": "Job 7:1",
+        "verseKey": "kjv:job:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:7:2",
+      "numberLabel": "2",
+      "text": "As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:",
+      "metadata": {
+        "reference": "Job 7:2",
+        "verseKey": "kjv:job:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:7:3",
+      "numberLabel": "3",
+      "text": "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
+      "metadata": {
+        "reference": "Job 7:3",
+        "verseKey": "kjv:job:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:7:4",
+      "numberLabel": "4",
+      "text": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.",
+      "metadata": {
+        "reference": "Job 7:4",
+        "verseKey": "kjv:job:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:7:5",
+      "numberLabel": "5",
+      "text": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
+      "metadata": {
+        "reference": "Job 7:5",
+        "verseKey": "kjv:job:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:7:6",
+      "numberLabel": "6",
+      "text": "My days are swifter than a weaver’s shuttle, and are spent without hope.",
+      "metadata": {
+        "reference": "Job 7:6",
+        "verseKey": "kjv:job:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:7:7",
+      "numberLabel": "7",
+      "text": "O remember that my life is wind: mine eye shall no more see good.",
+      "metadata": {
+        "reference": "Job 7:7",
+        "verseKey": "kjv:job:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:7:8",
+      "numberLabel": "8",
+      "text": "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.",
+      "metadata": {
+        "reference": "Job 7:8",
+        "verseKey": "kjv:job:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:7:9",
+      "numberLabel": "9",
+      "text": "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.",
+      "metadata": {
+        "reference": "Job 7:9",
+        "verseKey": "kjv:job:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:7:10",
+      "numberLabel": "10",
+      "text": "He shall return no more to his house, neither shall his place know him any more.",
+      "metadata": {
+        "reference": "Job 7:10",
+        "verseKey": "kjv:job:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:7:11",
+      "numberLabel": "11",
+      "text": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+      "metadata": {
+        "reference": "Job 7:11",
+        "verseKey": "kjv:job:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:7:12",
+      "numberLabel": "12",
+      "text": "Am I a sea, or a whale, that thou settest a watch over me?",
+      "metadata": {
+        "reference": "Job 7:12",
+        "verseKey": "kjv:job:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:7:13",
+      "numberLabel": "13",
+      "text": "When I say, My bed shall comfort me, my couch shall ease my complaint;",
+      "metadata": {
+        "reference": "Job 7:13",
+        "verseKey": "kjv:job:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:7:14",
+      "numberLabel": "14",
+      "text": "Then thou scarest me with dreams, and terrifiest me through visions:",
+      "metadata": {
+        "reference": "Job 7:14",
+        "verseKey": "kjv:job:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:7:15",
+      "numberLabel": "15",
+      "text": "So that my soul chooseth strangling, and death rather than my life.",
+      "metadata": {
+        "reference": "Job 7:15",
+        "verseKey": "kjv:job:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:7:16",
+      "numberLabel": "16",
+      "text": "I loathe it; I would not live alway: let me alone; for my days are vanity.",
+      "metadata": {
+        "reference": "Job 7:16",
+        "verseKey": "kjv:job:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:7:17",
+      "numberLabel": "17",
+      "text": "What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?",
+      "metadata": {
+        "reference": "Job 7:17",
+        "verseKey": "kjv:job:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:7:18",
+      "numberLabel": "18",
+      "text": "And that thou shouldest visit him every morning, and try him every moment?",
+      "metadata": {
+        "reference": "Job 7:18",
+        "verseKey": "kjv:job:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:7:19",
+      "numberLabel": "19",
+      "text": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?",
+      "metadata": {
+        "reference": "Job 7:19",
+        "verseKey": "kjv:job:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:7:20",
+      "numberLabel": "20",
+      "text": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?",
+      "metadata": {
+        "reference": "Job 7:20",
+        "verseKey": "kjv:job:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:7:21",
+      "numberLabel": "21",
+      "text": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be.",
+      "metadata": {
+        "reference": "Job 7:21",
+        "verseKey": "kjv:job:7:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

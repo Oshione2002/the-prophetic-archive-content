@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-samuel-017",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 17,
+  "title": "2 Samuel 17",
+  "display_title": "2 Samuel 17",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-samuel",
+  "book": "2 Samuel",
+  "bookName": "2 Samuel",
+  "bookOrder": 10,
+  "testament": "old",
+  "chapter": 17,
+  "sortOrder": 10017,
+  "verseCount": 29,
+  "aliases": [
+    "2 Sam",
+    "2Sam",
+    "2 Sa",
+    "2Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-samuel:17:1",
+      "numberLabel": "1",
+      "text": "Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:",
+      "metadata": {
+        "reference": "2 Samuel 17:1",
+        "verseKey": "kjv:2-samuel:17:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-samuel:17:2",
+      "numberLabel": "2",
+      "text": "And I will come upon him while he is weary and weak handed, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only:",
+      "metadata": {
+        "reference": "2 Samuel 17:2",
+        "verseKey": "kjv:2-samuel:17:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-samuel:17:3",
+      "numberLabel": "3",
+      "text": "And I will bring back all the people unto thee: the man whom thou seekest is as if all returned: so all the people shall be in peace.",
+      "metadata": {
+        "reference": "2 Samuel 17:3",
+        "verseKey": "kjv:2-samuel:17:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-samuel:17:4",
+      "numberLabel": "4",
+      "text": "And the saying pleased Absalom well, and all the elders of Israel.",
+      "metadata": {
+        "reference": "2 Samuel 17:4",
+        "verseKey": "kjv:2-samuel:17:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-samuel:17:5",
+      "numberLabel": "5",
+      "text": "Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith.",
+      "metadata": {
+        "reference": "2 Samuel 17:5",
+        "verseKey": "kjv:2-samuel:17:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-samuel:17:6",
+      "numberLabel": "6",
+      "text": "And when Hushai was come to Absalom, Absalom spake unto him, saying, Ahithophel hath spoken after this manner: shall we do after his saying? if not; speak thou.",
+      "metadata": {
+        "reference": "2 Samuel 17:6",
+        "verseKey": "kjv:2-samuel:17:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-samuel:17:7",
+      "numberLabel": "7",
+      "text": "And Hushai said unto Absalom, The counsel that Ahithophel hath given is not good at this time.",
+      "metadata": {
+        "reference": "2 Samuel 17:7",
+        "verseKey": "kjv:2-samuel:17:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-samuel:17:8",
+      "numberLabel": "8",
+      "text": "For, said Hushai, thou knowest thy father and his men, that they be mighty men, and they be chafed in their minds, as a bear robbed of her whelps in the field: and thy father is a man of war, and will not lodge with the people.",
+      "metadata": {
+        "reference": "2 Samuel 17:8",
+        "verseKey": "kjv:2-samuel:17:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-samuel:17:9",
+      "numberLabel": "9",
+      "text": "Behold, he is hid now in some pit, or in some other place: and it will come to pass, when some of them be overthrown at the first, that whosoever heareth it will say, There is a slaughter among the people that follow Absalom.",
+      "metadata": {
+        "reference": "2 Samuel 17:9",
+        "verseKey": "kjv:2-samuel:17:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-samuel:17:10",
+      "numberLabel": "10",
+      "text": "And he also that is valiant, whose heart is as the heart of a lion, shall utterly melt: for all Israel knoweth that thy father is a mighty man, and they which be with him are valiant men.",
+      "metadata": {
+        "reference": "2 Samuel 17:10",
+        "verseKey": "kjv:2-samuel:17:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-samuel:17:11",
+      "numberLabel": "11",
+      "text": "Therefore I counsel that all Israel be generally gathered unto thee, from Dan even to Beersheba, as the sand that is by the sea for multitude; and that thou go to battle in thine own person.",
+      "metadata": {
+        "reference": "2 Samuel 17:11",
+        "verseKey": "kjv:2-samuel:17:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-samuel:17:12",
+      "numberLabel": "12",
+      "text": "So shall we come upon him in some place where he shall be found, and we will light upon him as the dew falleth on the ground: and of him and of all the men that are with him there shall not be left so much as one.",
+      "metadata": {
+        "reference": "2 Samuel 17:12",
+        "verseKey": "kjv:2-samuel:17:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-samuel:17:13",
+      "numberLabel": "13",
+      "text": "Moreover, if he be gotten into a city, then shall all Israel bring ropes to that city, and we will draw it into the river, until there be not one small stone found there.",
+      "metadata": {
+        "reference": "2 Samuel 17:13",
+        "verseKey": "kjv:2-samuel:17:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-samuel:17:14",
+      "numberLabel": "14",
+      "text": "And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the LORD had appointed to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil upon Absalom.",
+      "metadata": {
+        "reference": "2 Samuel 17:14",
+        "verseKey": "kjv:2-samuel:17:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-samuel:17:15",
+      "numberLabel": "15",
+      "text": "Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I counselled.",
+      "metadata": {
+        "reference": "2 Samuel 17:15",
+        "verseKey": "kjv:2-samuel:17:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-samuel:17:16",
+      "numberLabel": "16",
+      "text": "Now therefore send quickly, and tell David, saying, Lodge not this night in the plains of the wilderness, but speedily pass over; lest the king be swallowed up, and all the people that are with him.",
+      "metadata": {
+        "reference": "2 Samuel 17:16",
+        "verseKey": "kjv:2-samuel:17:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-samuel:17:17",
+      "numberLabel": "17",
+      "text": "Now Jonathan and Ahimaaz stayed by Enrogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.",
+      "metadata": {
+        "reference": "2 Samuel 17:17",
+        "verseKey": "kjv:2-samuel:17:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-samuel:17:18",
+      "numberLabel": "18",
+      "text": "Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man’s house in Bahurim, which had a well in his court; whither they went down.",
+      "metadata": {
+        "reference": "2 Samuel 17:18",
+        "verseKey": "kjv:2-samuel:17:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-samuel:17:19",
+      "numberLabel": "19",
+      "text": "And the woman took and spread a covering over the well’s mouth, and spread ground corn thereon; and the thing was not known.",
+      "metadata": {
+        "reference": "2 Samuel 17:19",
+        "verseKey": "kjv:2-samuel:17:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-samuel:17:20",
+      "numberLabel": "20",
+      "text": "And when Absalom’s servants came to the woman to the house, they said, Where is Ahimaaz and Jonathan? And the woman said unto them, They be gone over the brook of water. And when they had sought and could not find them, they returned to Jerusalem.",
+      "metadata": {
+        "reference": "2 Samuel 17:20",
+        "verseKey": "kjv:2-samuel:17:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-samuel:17:21",
+      "numberLabel": "21",
+      "text": "And it came to pass, after they were departed, that they came up out of the well, and went and told king David, and said unto David, Arise, and pass quickly over the water: for thus hath Ahithophel counselled against you.",
+      "metadata": {
+        "reference": "2 Samuel 17:21",
+        "verseKey": "kjv:2-samuel:17:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-samuel:17:22",
+      "numberLabel": "22",
+      "text": "Then David arose, and all the people that were with him, and they passed over Jordan: by the morning light there lacked not one of them that was not gone over Jordan.",
+      "metadata": {
+        "reference": "2 Samuel 17:22",
+        "verseKey": "kjv:2-samuel:17:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-samuel:17:23",
+      "numberLabel": "23",
+      "text": "And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.",
+      "metadata": {
+        "reference": "2 Samuel 17:23",
+        "verseKey": "kjv:2-samuel:17:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-samuel:17:24",
+      "numberLabel": "24",
+      "text": "Then David came to Mahanaim. And Absalom passed over Jordan, he and all the men of Israel with him.",
+      "metadata": {
+        "reference": "2 Samuel 17:24",
+        "verseKey": "kjv:2-samuel:17:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-samuel:17:25",
+      "numberLabel": "25",
+      "text": "And Absalom made Amasa captain of the host instead of Joab: which Amasa was a man’s son, whose name was Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to Zeruiah Joab’s mother.",
+      "metadata": {
+        "reference": "2 Samuel 17:25",
+        "verseKey": "kjv:2-samuel:17:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-samuel:17:26",
+      "numberLabel": "26",
+      "text": "So Israel and Absalom pitched in the land of Gilead.",
+      "metadata": {
+        "reference": "2 Samuel 17:26",
+        "verseKey": "kjv:2-samuel:17:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-samuel:17:27",
+      "numberLabel": "27",
+      "text": "And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim,",
+      "metadata": {
+        "reference": "2 Samuel 17:27",
+        "verseKey": "kjv:2-samuel:17:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-samuel:17:28",
+      "numberLabel": "28",
+      "text": "Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched corn, and beans, and lentiles, and parched pulse,",
+      "metadata": {
+        "reference": "2 Samuel 17:28",
+        "verseKey": "kjv:2-samuel:17:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-samuel:17:29",
+      "numberLabel": "29",
+      "text": "And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness.",
+      "metadata": {
+        "reference": "2 Samuel 17:29",
+        "verseKey": "kjv:2-samuel:17:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-030",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 30,
+  "title": "1 Samuel 30",
+  "display_title": "1 Samuel 30",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 30,
+  "sortOrder": 9030,
+  "verseCount": 31,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:30:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;",
+      "metadata": {
+        "reference": "1 Samuel 30:1",
+        "verseKey": "kjv:1-samuel:30:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:30:2",
+      "numberLabel": "2",
+      "text": "And had taken the women captives, that were therein: they slew not any, either great or small, but carried them away, and went on their way.",
+      "metadata": {
+        "reference": "1 Samuel 30:2",
+        "verseKey": "kjv:1-samuel:30:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:30:3",
+      "numberLabel": "3",
+      "text": "So David and his men came to the city, and, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken captives.",
+      "metadata": {
+        "reference": "1 Samuel 30:3",
+        "verseKey": "kjv:1-samuel:30:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:30:4",
+      "numberLabel": "4",
+      "text": "Then David and the people that were with him lifted up their voice and wept, until they had no more power to weep.",
+      "metadata": {
+        "reference": "1 Samuel 30:4",
+        "verseKey": "kjv:1-samuel:30:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:30:5",
+      "numberLabel": "5",
+      "text": "And David’s two wives were taken captives, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite.",
+      "metadata": {
+        "reference": "1 Samuel 30:5",
+        "verseKey": "kjv:1-samuel:30:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:30:6",
+      "numberLabel": "6",
+      "text": "And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.",
+      "metadata": {
+        "reference": "1 Samuel 30:6",
+        "verseKey": "kjv:1-samuel:30:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:30:7",
+      "numberLabel": "7",
+      "text": "And David said to Abiathar the priest, Ahimelech’s son, I pray thee, bring me hither the ephod. And Abiathar brought thither the ephod to David.",
+      "metadata": {
+        "reference": "1 Samuel 30:7",
+        "verseKey": "kjv:1-samuel:30:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:30:8",
+      "numberLabel": "8",
+      "text": "And David enquired at the LORD, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all.",
+      "metadata": {
+        "reference": "1 Samuel 30:8",
+        "verseKey": "kjv:1-samuel:30:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:30:9",
+      "numberLabel": "9",
+      "text": "So David went, he and the six hundred men that were with him, and came to the brook Besor, where those that were left behind stayed.",
+      "metadata": {
+        "reference": "1 Samuel 30:9",
+        "verseKey": "kjv:1-samuel:30:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:30:10",
+      "numberLabel": "10",
+      "text": "But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor.",
+      "metadata": {
+        "reference": "1 Samuel 30:10",
+        "verseKey": "kjv:1-samuel:30:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:30:11",
+      "numberLabel": "11",
+      "text": "And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;",
+      "metadata": {
+        "reference": "1 Samuel 30:11",
+        "verseKey": "kjv:1-samuel:30:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:30:12",
+      "numberLabel": "12",
+      "text": "And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his spirit came again to him: for he had eaten no bread, nor drunk any water, three days and three nights.",
+      "metadata": {
+        "reference": "1 Samuel 30:12",
+        "verseKey": "kjv:1-samuel:30:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:30:13",
+      "numberLabel": "13",
+      "text": "And David said unto him, To whom belongest thou? and whence art thou? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.",
+      "metadata": {
+        "reference": "1 Samuel 30:13",
+        "verseKey": "kjv:1-samuel:30:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:30:14",
+      "numberLabel": "14",
+      "text": "We made an invasion upon the south of the Cherethites, and upon the coast which belongeth to Judah, and upon the south of Caleb; and we burned Ziklag with fire.",
+      "metadata": {
+        "reference": "1 Samuel 30:14",
+        "verseKey": "kjv:1-samuel:30:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:30:15",
+      "numberLabel": "15",
+      "text": "And David said to him, Canst thou bring me down to this company? And he said, Swear unto me by God, that thou wilt neither kill me, nor deliver me into the hands of my master, and I will bring thee down to this company.",
+      "metadata": {
+        "reference": "1 Samuel 30:15",
+        "verseKey": "kjv:1-samuel:30:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:30:16",
+      "numberLabel": "16",
+      "text": "And when he had brought him down, behold, they were spread abroad upon all the earth, eating and drinking, and dancing, because of all the great spoil that they had taken out of the land of the Philistines, and out of the land of Judah.",
+      "metadata": {
+        "reference": "1 Samuel 30:16",
+        "verseKey": "kjv:1-samuel:30:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:30:17",
+      "numberLabel": "17",
+      "text": "And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled.",
+      "metadata": {
+        "reference": "1 Samuel 30:17",
+        "verseKey": "kjv:1-samuel:30:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:30:18",
+      "numberLabel": "18",
+      "text": "And David recovered all that the Amalekites had carried away: and David rescued his two wives.",
+      "metadata": {
+        "reference": "1 Samuel 30:18",
+        "verseKey": "kjv:1-samuel:30:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:30:19",
+      "numberLabel": "19",
+      "text": "And there was nothing lacking to them, neither small nor great, neither sons nor daughters, neither spoil, nor any thing that they had taken to them: David recovered all.",
+      "metadata": {
+        "reference": "1 Samuel 30:19",
+        "verseKey": "kjv:1-samuel:30:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:30:20",
+      "numberLabel": "20",
+      "text": "And David took all the flocks and the herds, which they drave before those other cattle, and said, This is David’s spoil.",
+      "metadata": {
+        "reference": "1 Samuel 30:20",
+        "verseKey": "kjv:1-samuel:30:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:30:21",
+      "numberLabel": "21",
+      "text": "And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that were with him: and when David came near to the people, he saluted them.",
+      "metadata": {
+        "reference": "1 Samuel 30:21",
+        "verseKey": "kjv:1-samuel:30:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:30:22",
+      "numberLabel": "22",
+      "text": "Then answered all the wicked men and men of Belial, of those that went with David, and said, Because they went not with us, we will not give them ought of the spoil that we have recovered, save to every man his wife and his children, that they may lead them away, and depart.",
+      "metadata": {
+        "reference": "1 Samuel 30:22",
+        "verseKey": "kjv:1-samuel:30:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:30:23",
+      "numberLabel": "23",
+      "text": "Then said David, Ye shall not do so, my brethren, with that which the LORD hath given us, who hath preserved us, and delivered the company that came against us into our hand.",
+      "metadata": {
+        "reference": "1 Samuel 30:23",
+        "verseKey": "kjv:1-samuel:30:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:30:24",
+      "numberLabel": "24",
+      "text": "For who will hearken unto you in this matter? but as his part is that goeth down to the battle, so shall his part be that tarrieth by the stuff: they shall part alike.",
+      "metadata": {
+        "reference": "1 Samuel 30:24",
+        "verseKey": "kjv:1-samuel:30:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:30:25",
+      "numberLabel": "25",
+      "text": "And it was so from that day forward, that he made it a statute and an ordinance for Israel unto this day.",
+      "metadata": {
+        "reference": "1 Samuel 30:25",
+        "verseKey": "kjv:1-samuel:30:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-samuel:30:26",
+      "numberLabel": "26",
+      "text": "And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;",
+      "metadata": {
+        "reference": "1 Samuel 30:26",
+        "verseKey": "kjv:1-samuel:30:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-samuel:30:27",
+      "numberLabel": "27",
+      "text": "To them which were in Bethel, and to them which were in south Ramoth, and to them which were in Jattir,",
+      "metadata": {
+        "reference": "1 Samuel 30:27",
+        "verseKey": "kjv:1-samuel:30:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-samuel:30:28",
+      "numberLabel": "28",
+      "text": "And to them which were in Aroer, and to them which were in Siphmoth, and to them which were in Eshtemoa,",
+      "metadata": {
+        "reference": "1 Samuel 30:28",
+        "verseKey": "kjv:1-samuel:30:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-samuel:30:29",
+      "numberLabel": "29",
+      "text": "And to them which were in Rachal, and to them which were in the cities of the Jerahmeelites, and to them which were in the cities of the Kenites,",
+      "metadata": {
+        "reference": "1 Samuel 30:29",
+        "verseKey": "kjv:1-samuel:30:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-samuel:30:30",
+      "numberLabel": "30",
+      "text": "And to them which were in Hormah, and to them which were in Chorashan, and to them which were in Athach,",
+      "metadata": {
+        "reference": "1 Samuel 30:30",
+        "verseKey": "kjv:1-samuel:30:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-samuel:30:31",
+      "numberLabel": "31",
+      "text": "And to them which were in Hebron, and to all the places where David himself and his men were wont to haunt.",
+      "metadata": {
+        "reference": "1 Samuel 30:31",
+        "verseKey": "kjv:1-samuel:30:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

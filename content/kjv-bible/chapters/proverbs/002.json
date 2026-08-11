@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Proverbs 2",
+  "display_title": "Proverbs 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 20002,
+  "verseCount": 22,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:2:1",
+      "numberLabel": "1",
+      "text": "My son, if thou wilt receive my words, and hide my commandments with thee;",
+      "metadata": {
+        "reference": "Proverbs 2:1",
+        "verseKey": "kjv:proverbs:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:2:2",
+      "numberLabel": "2",
+      "text": "So that thou incline thine ear unto wisdom, and apply thine heart to understanding;",
+      "metadata": {
+        "reference": "Proverbs 2:2",
+        "verseKey": "kjv:proverbs:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:2:3",
+      "numberLabel": "3",
+      "text": "Yea, if thou criest after knowledge, and liftest up thy voice for understanding;",
+      "metadata": {
+        "reference": "Proverbs 2:3",
+        "verseKey": "kjv:proverbs:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:2:4",
+      "numberLabel": "4",
+      "text": "If thou seekest her as silver, and searchest for her as for hid treasures;",
+      "metadata": {
+        "reference": "Proverbs 2:4",
+        "verseKey": "kjv:proverbs:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:2:5",
+      "numberLabel": "5",
+      "text": "Then shalt thou understand the fear of the LORD, and find the knowledge of God.",
+      "metadata": {
+        "reference": "Proverbs 2:5",
+        "verseKey": "kjv:proverbs:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:2:6",
+      "numberLabel": "6",
+      "text": "For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding.",
+      "metadata": {
+        "reference": "Proverbs 2:6",
+        "verseKey": "kjv:proverbs:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:2:7",
+      "numberLabel": "7",
+      "text": "He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly.",
+      "metadata": {
+        "reference": "Proverbs 2:7",
+        "verseKey": "kjv:proverbs:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:2:8",
+      "numberLabel": "8",
+      "text": "He keepeth the paths of judgment, and preserveth the way of his saints.",
+      "metadata": {
+        "reference": "Proverbs 2:8",
+        "verseKey": "kjv:proverbs:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:2:9",
+      "numberLabel": "9",
+      "text": "Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.",
+      "metadata": {
+        "reference": "Proverbs 2:9",
+        "verseKey": "kjv:proverbs:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:2:10",
+      "numberLabel": "10",
+      "text": "When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;",
+      "metadata": {
+        "reference": "Proverbs 2:10",
+        "verseKey": "kjv:proverbs:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:2:11",
+      "numberLabel": "11",
+      "text": "Discretion shall preserve thee, understanding shall keep thee:",
+      "metadata": {
+        "reference": "Proverbs 2:11",
+        "verseKey": "kjv:proverbs:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:2:12",
+      "numberLabel": "12",
+      "text": "To deliver thee from the way of the evil man, from the man that speaketh froward things;",
+      "metadata": {
+        "reference": "Proverbs 2:12",
+        "verseKey": "kjv:proverbs:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:2:13",
+      "numberLabel": "13",
+      "text": "Who leave the paths of uprightness, to walk in the ways of darkness;",
+      "metadata": {
+        "reference": "Proverbs 2:13",
+        "verseKey": "kjv:proverbs:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:2:14",
+      "numberLabel": "14",
+      "text": "Who rejoice to do evil, and delight in the frowardness of the wicked;",
+      "metadata": {
+        "reference": "Proverbs 2:14",
+        "verseKey": "kjv:proverbs:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:2:15",
+      "numberLabel": "15",
+      "text": "Whose ways are crooked, and they froward in their paths:",
+      "metadata": {
+        "reference": "Proverbs 2:15",
+        "verseKey": "kjv:proverbs:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:2:16",
+      "numberLabel": "16",
+      "text": "To deliver thee from the strange woman, even from the stranger which flattereth with her words;",
+      "metadata": {
+        "reference": "Proverbs 2:16",
+        "verseKey": "kjv:proverbs:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:2:17",
+      "numberLabel": "17",
+      "text": "Which forsaketh the guide of her youth, and forgetteth the covenant of her God.",
+      "metadata": {
+        "reference": "Proverbs 2:17",
+        "verseKey": "kjv:proverbs:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:2:18",
+      "numberLabel": "18",
+      "text": "For her house inclineth unto death, and her paths unto the dead.",
+      "metadata": {
+        "reference": "Proverbs 2:18",
+        "verseKey": "kjv:proverbs:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:2:19",
+      "numberLabel": "19",
+      "text": "None that go unto her return again, neither take they hold of the paths of life.",
+      "metadata": {
+        "reference": "Proverbs 2:19",
+        "verseKey": "kjv:proverbs:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:2:20",
+      "numberLabel": "20",
+      "text": "That thou mayest walk in the way of good men, and keep the paths of the righteous.",
+      "metadata": {
+        "reference": "Proverbs 2:20",
+        "verseKey": "kjv:proverbs:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:2:21",
+      "numberLabel": "21",
+      "text": "For the upright shall dwell in the land, and the perfect shall remain in it.",
+      "metadata": {
+        "reference": "Proverbs 2:21",
+        "verseKey": "kjv:proverbs:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:2:22",
+      "numberLabel": "22",
+      "text": "But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.",
+      "metadata": {
+        "reference": "Proverbs 2:22",
+        "verseKey": "kjv:proverbs:2:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

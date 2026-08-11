@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-020",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 20,
+  "title": "1 Samuel 20",
+  "display_title": "1 Samuel 20",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 20,
+  "sortOrder": 9020,
+  "verseCount": 42,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:20:1",
+      "numberLabel": "1",
+      "text": "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?",
+      "metadata": {
+        "reference": "1 Samuel 20:1",
+        "verseKey": "kjv:1-samuel:20:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:20:2",
+      "numberLabel": "2",
+      "text": "And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it is not so.",
+      "metadata": {
+        "reference": "1 Samuel 20:2",
+        "verseKey": "kjv:1-samuel:20:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:20:3",
+      "numberLabel": "3",
+      "text": "And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as the LORD liveth, and as thy soul liveth, there is but a step between me and death.",
+      "metadata": {
+        "reference": "1 Samuel 20:3",
+        "verseKey": "kjv:1-samuel:20:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:20:4",
+      "numberLabel": "4",
+      "text": "Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do it for thee.",
+      "metadata": {
+        "reference": "1 Samuel 20:4",
+        "verseKey": "kjv:1-samuel:20:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:20:5",
+      "numberLabel": "5",
+      "text": "And David said unto Jonathan, Behold, to morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even.",
+      "metadata": {
+        "reference": "1 Samuel 20:5",
+        "verseKey": "kjv:1-samuel:20:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:20:6",
+      "numberLabel": "6",
+      "text": "If thy father at all miss me, then say, David earnestly asked leave of me that he might run to Bethlehem his city: for there is a yearly sacrifice there for all the family.",
+      "metadata": {
+        "reference": "1 Samuel 20:6",
+        "verseKey": "kjv:1-samuel:20:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:20:7",
+      "numberLabel": "7",
+      "text": "If he say thus, It is well; thy servant shall have peace: but if he be very wroth, then be sure that evil is determined by him.",
+      "metadata": {
+        "reference": "1 Samuel 20:7",
+        "verseKey": "kjv:1-samuel:20:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:20:8",
+      "numberLabel": "8",
+      "text": "Therefore thou shalt deal kindly with thy servant; for thou hast brought thy servant into a covenant of the LORD with thee: notwithstanding, if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?",
+      "metadata": {
+        "reference": "1 Samuel 20:8",
+        "verseKey": "kjv:1-samuel:20:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:20:9",
+      "numberLabel": "9",
+      "text": "And Jonathan said, Far be it from thee: for if I knew certainly that evil were determined by my father to come upon thee, then would not I tell it thee?",
+      "metadata": {
+        "reference": "1 Samuel 20:9",
+        "verseKey": "kjv:1-samuel:20:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:20:10",
+      "numberLabel": "10",
+      "text": "Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?",
+      "metadata": {
+        "reference": "1 Samuel 20:10",
+        "verseKey": "kjv:1-samuel:20:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:20:11",
+      "numberLabel": "11",
+      "text": "And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field.",
+      "metadata": {
+        "reference": "1 Samuel 20:11",
+        "verseKey": "kjv:1-samuel:20:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:20:12",
+      "numberLabel": "12",
+      "text": "And Jonathan said unto David, O LORD God of Israel, when I have sounded my father about to morrow any time, or the third day, and, behold, if there be good toward David, and I then send not unto thee, and shew it thee;",
+      "metadata": {
+        "reference": "1 Samuel 20:12",
+        "verseKey": "kjv:1-samuel:20:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:20:13",
+      "numberLabel": "13",
+      "text": "The LORD do so and much more to Jonathan: but if it please my father to do thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the LORD be with thee, as he hath been with my father.",
+      "metadata": {
+        "reference": "1 Samuel 20:13",
+        "verseKey": "kjv:1-samuel:20:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:20:14",
+      "numberLabel": "14",
+      "text": "And thou shalt not only while yet I live shew me the kindness of the LORD, that I die not:",
+      "metadata": {
+        "reference": "1 Samuel 20:14",
+        "verseKey": "kjv:1-samuel:20:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:20:15",
+      "numberLabel": "15",
+      "text": "But also thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth.",
+      "metadata": {
+        "reference": "1 Samuel 20:15",
+        "verseKey": "kjv:1-samuel:20:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:20:16",
+      "numberLabel": "16",
+      "text": "So Jonathan made a covenant with the house of David, saying, Let the LORD even require it at the hand of David’s enemies.",
+      "metadata": {
+        "reference": "1 Samuel 20:16",
+        "verseKey": "kjv:1-samuel:20:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:20:17",
+      "numberLabel": "17",
+      "text": "And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul.",
+      "metadata": {
+        "reference": "1 Samuel 20:17",
+        "verseKey": "kjv:1-samuel:20:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:20:18",
+      "numberLabel": "18",
+      "text": "Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty.",
+      "metadata": {
+        "reference": "1 Samuel 20:18",
+        "verseKey": "kjv:1-samuel:20:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:20:19",
+      "numberLabel": "19",
+      "text": "And when thou hast stayed three days, then thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was in hand, and shalt remain by the stone Ezel.",
+      "metadata": {
+        "reference": "1 Samuel 20:19",
+        "verseKey": "kjv:1-samuel:20:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:20:20",
+      "numberLabel": "20",
+      "text": "And I will shoot three arrows on the side thereof, as though I shot at a mark.",
+      "metadata": {
+        "reference": "1 Samuel 20:20",
+        "verseKey": "kjv:1-samuel:20:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:20:21",
+      "numberLabel": "21",
+      "text": "And, behold, I will send a lad, saying, Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows are on this side of thee, take them; then come thou: for there is peace to thee, and no hurt; as the LORD liveth.",
+      "metadata": {
+        "reference": "1 Samuel 20:21",
+        "verseKey": "kjv:1-samuel:20:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:20:22",
+      "numberLabel": "22",
+      "text": "But if I say thus unto the young man, Behold, the arrows are beyond thee; go thy way: for the LORD hath sent thee away.",
+      "metadata": {
+        "reference": "1 Samuel 20:22",
+        "verseKey": "kjv:1-samuel:20:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:20:23",
+      "numberLabel": "23",
+      "text": "And as touching the matter which thou and I have spoken of, behold, the LORD be between thee and me for ever.",
+      "metadata": {
+        "reference": "1 Samuel 20:23",
+        "verseKey": "kjv:1-samuel:20:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:20:24",
+      "numberLabel": "24",
+      "text": "So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat.",
+      "metadata": {
+        "reference": "1 Samuel 20:24",
+        "verseKey": "kjv:1-samuel:20:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:20:25",
+      "numberLabel": "25",
+      "text": "And the king sat upon his seat, as at other times, even upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty.",
+      "metadata": {
+        "reference": "1 Samuel 20:25",
+        "verseKey": "kjv:1-samuel:20:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-samuel:20:26",
+      "numberLabel": "26",
+      "text": "Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean.",
+      "metadata": {
+        "reference": "1 Samuel 20:26",
+        "verseKey": "kjv:1-samuel:20:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-samuel:20:27",
+      "numberLabel": "27",
+      "text": "And it came to pass on the morrow, which was the second day of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?",
+      "metadata": {
+        "reference": "1 Samuel 20:27",
+        "verseKey": "kjv:1-samuel:20:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-samuel:20:28",
+      "numberLabel": "28",
+      "text": "And Jonathan answered Saul, David earnestly asked leave of me to go to Bethlehem:",
+      "metadata": {
+        "reference": "1 Samuel 20:28",
+        "verseKey": "kjv:1-samuel:20:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-samuel:20:29",
+      "numberLabel": "29",
+      "text": "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me to be there: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table.",
+      "metadata": {
+        "reference": "1 Samuel 20:29",
+        "verseKey": "kjv:1-samuel:20:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-samuel:20:30",
+      "numberLabel": "30",
+      "text": "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?",
+      "metadata": {
+        "reference": "1 Samuel 20:30",
+        "verseKey": "kjv:1-samuel:20:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-samuel:20:31",
+      "numberLabel": "31",
+      "text": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die.",
+      "metadata": {
+        "reference": "1 Samuel 20:31",
+        "verseKey": "kjv:1-samuel:20:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-samuel:20:32",
+      "numberLabel": "32",
+      "text": "And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done?",
+      "metadata": {
+        "reference": "1 Samuel 20:32",
+        "verseKey": "kjv:1-samuel:20:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-samuel:20:33",
+      "numberLabel": "33",
+      "text": "And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David.",
+      "metadata": {
+        "reference": "1 Samuel 20:33",
+        "verseKey": "kjv:1-samuel:20:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-samuel:20:34",
+      "numberLabel": "34",
+      "text": "So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame.",
+      "metadata": {
+        "reference": "1 Samuel 20:34",
+        "verseKey": "kjv:1-samuel:20:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-samuel:20:35",
+      "numberLabel": "35",
+      "text": "And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him.",
+      "metadata": {
+        "reference": "1 Samuel 20:35",
+        "verseKey": "kjv:1-samuel:20:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-samuel:20:36",
+      "numberLabel": "36",
+      "text": "And he said unto his lad, Run, find out now the arrows which I shoot. And as the lad ran, he shot an arrow beyond him.",
+      "metadata": {
+        "reference": "1 Samuel 20:36",
+        "verseKey": "kjv:1-samuel:20:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-samuel:20:37",
+      "numberLabel": "37",
+      "text": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, Is not the arrow beyond thee?",
+      "metadata": {
+        "reference": "1 Samuel 20:37",
+        "verseKey": "kjv:1-samuel:20:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-samuel:20:38",
+      "numberLabel": "38",
+      "text": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master.",
+      "metadata": {
+        "reference": "1 Samuel 20:38",
+        "verseKey": "kjv:1-samuel:20:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-samuel:20:39",
+      "numberLabel": "39",
+      "text": "But the lad knew not any thing: only Jonathan and David knew the matter.",
+      "metadata": {
+        "reference": "1 Samuel 20:39",
+        "verseKey": "kjv:1-samuel:20:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-samuel:20:40",
+      "numberLabel": "40",
+      "text": "And Jonathan gave his artillery unto his lad, and said unto him, Go, carry them to the city.",
+      "metadata": {
+        "reference": "1 Samuel 20:40",
+        "verseKey": "kjv:1-samuel:20:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:1-samuel:20:41",
+      "numberLabel": "41",
+      "text": "And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.",
+      "metadata": {
+        "reference": "1 Samuel 20:41",
+        "verseKey": "kjv:1-samuel:20:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:1-samuel:20:42",
+      "numberLabel": "42",
+      "text": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city.",
+      "metadata": {
+        "reference": "1 Samuel 20:42",
+        "verseKey": "kjv:1-samuel:20:42"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

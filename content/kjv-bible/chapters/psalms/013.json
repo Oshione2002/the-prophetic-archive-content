@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Psalms 13",
+  "display_title": "Psalms 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 13,
+  "sortOrder": 19013,
+  "verseCount": 6,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:13:1",
+      "numberLabel": "1",
+      "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?",
+      "metadata": {
+        "reference": "Psalms 13:1",
+        "verseKey": "kjv:psalms:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:13:2",
+      "numberLabel": "2",
+      "text": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+      "metadata": {
+        "reference": "Psalms 13:2",
+        "verseKey": "kjv:psalms:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:13:3",
+      "numberLabel": "3",
+      "text": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;",
+      "metadata": {
+        "reference": "Psalms 13:3",
+        "verseKey": "kjv:psalms:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:13:4",
+      "numberLabel": "4",
+      "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.",
+      "metadata": {
+        "reference": "Psalms 13:4",
+        "verseKey": "kjv:psalms:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:13:5",
+      "numberLabel": "5",
+      "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+      "metadata": {
+        "reference": "Psalms 13:5",
+        "verseKey": "kjv:psalms:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:13:6",
+      "numberLabel": "6",
+      "text": "I will sing unto the LORD, because he hath dealt bountifully with me.",
+      "metadata": {
+        "reference": "Psalms 13:6",
+        "verseKey": "kjv:psalms:13:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

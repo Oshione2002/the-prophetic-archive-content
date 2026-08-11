@@ -1,0 +1,646 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-kings-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "1 Kings 7",
+  "display_title": "1 Kings 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-kings",
+  "book": "1 Kings",
+  "bookName": "1 Kings",
+  "bookOrder": 11,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 11007,
+  "verseCount": 51,
+  "aliases": [
+    "1 Kgs",
+    "1Kgs",
+    "1 Ki",
+    "1Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-kings:7:1",
+      "numberLabel": "1",
+      "text": "But Solomon was building his own house thirteen years, and he finished all his house.",
+      "metadata": {
+        "reference": "1 Kings 7:1",
+        "verseKey": "kjv:1-kings:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-kings:7:2",
+      "numberLabel": "2",
+      "text": "He built also the house of the forest of Lebanon; the length thereof was an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.",
+      "metadata": {
+        "reference": "1 Kings 7:2",
+        "verseKey": "kjv:1-kings:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-kings:7:3",
+      "numberLabel": "3",
+      "text": "And it was covered with cedar above upon the beams, that lay on forty five pillars, fifteen in a row.",
+      "metadata": {
+        "reference": "1 Kings 7:3",
+        "verseKey": "kjv:1-kings:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-kings:7:4",
+      "numberLabel": "4",
+      "text": "And there were windows in three rows, and light was against light in three ranks.",
+      "metadata": {
+        "reference": "1 Kings 7:4",
+        "verseKey": "kjv:1-kings:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-kings:7:5",
+      "numberLabel": "5",
+      "text": "And all the doors and posts were square, with the windows: and light was against light in three ranks.",
+      "metadata": {
+        "reference": "1 Kings 7:5",
+        "verseKey": "kjv:1-kings:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-kings:7:6",
+      "numberLabel": "6",
+      "text": "And he made a porch of pillars; the length thereof was fifty cubits, and the breadth thereof thirty cubits: and the porch was before them: and the other pillars and the thick beam were before them.",
+      "metadata": {
+        "reference": "1 Kings 7:6",
+        "verseKey": "kjv:1-kings:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-kings:7:7",
+      "numberLabel": "7",
+      "text": "Then he made a porch for the throne where he might judge, even the porch of judgment: and it was covered with cedar from one side of the floor to the other.",
+      "metadata": {
+        "reference": "1 Kings 7:7",
+        "verseKey": "kjv:1-kings:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-kings:7:8",
+      "numberLabel": "8",
+      "text": "And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken to wife, like unto this porch.",
+      "metadata": {
+        "reference": "1 Kings 7:8",
+        "verseKey": "kjv:1-kings:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-kings:7:9",
+      "numberLabel": "9",
+      "text": "All these were of costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and so on the outside toward the great court.",
+      "metadata": {
+        "reference": "1 Kings 7:9",
+        "verseKey": "kjv:1-kings:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-kings:7:10",
+      "numberLabel": "10",
+      "text": "And the foundation was of costly stones, even great stones, stones of ten cubits, and stones of eight cubits.",
+      "metadata": {
+        "reference": "1 Kings 7:10",
+        "verseKey": "kjv:1-kings:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-kings:7:11",
+      "numberLabel": "11",
+      "text": "And above were costly stones, after the measures of hewed stones, and cedars.",
+      "metadata": {
+        "reference": "1 Kings 7:11",
+        "verseKey": "kjv:1-kings:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-kings:7:12",
+      "numberLabel": "12",
+      "text": "And the great court round about was with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house.",
+      "metadata": {
+        "reference": "1 Kings 7:12",
+        "verseKey": "kjv:1-kings:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-kings:7:13",
+      "numberLabel": "13",
+      "text": "And king Solomon sent and fetched Hiram out of Tyre.",
+      "metadata": {
+        "reference": "1 Kings 7:13",
+        "verseKey": "kjv:1-kings:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-kings:7:14",
+      "numberLabel": "14",
+      "text": "He was a widow’s son of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.",
+      "metadata": {
+        "reference": "1 Kings 7:14",
+        "verseKey": "kjv:1-kings:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-kings:7:15",
+      "numberLabel": "15",
+      "text": "For he cast two pillars of brass, of eighteen cubits high apiece: and a line of twelve cubits did compass either of them about.",
+      "metadata": {
+        "reference": "1 Kings 7:15",
+        "verseKey": "kjv:1-kings:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-kings:7:16",
+      "numberLabel": "16",
+      "text": "And he made two chapiters of molten brass, to set upon the tops of the pillars: the height of the one chapiter was five cubits, and the height of the other chapiter was five cubits:",
+      "metadata": {
+        "reference": "1 Kings 7:16",
+        "verseKey": "kjv:1-kings:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-kings:7:17",
+      "numberLabel": "17",
+      "text": "And nets of checker work, and wreaths of chain work, for the chapiters which were upon the top of the pillars; seven for the one chapiter, and seven for the other chapiter.",
+      "metadata": {
+        "reference": "1 Kings 7:17",
+        "verseKey": "kjv:1-kings:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-kings:7:18",
+      "numberLabel": "18",
+      "text": "And he made the pillars, and two rows round about upon the one network, to cover the chapiters that were upon the top, with pomegranates: and so did he for the other chapiter.",
+      "metadata": {
+        "reference": "1 Kings 7:18",
+        "verseKey": "kjv:1-kings:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-kings:7:19",
+      "numberLabel": "19",
+      "text": "And the chapiters that were upon the top of the pillars were of lily work in the porch, four cubits.",
+      "metadata": {
+        "reference": "1 Kings 7:19",
+        "verseKey": "kjv:1-kings:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-kings:7:20",
+      "numberLabel": "20",
+      "text": "And the chapiters upon the two pillars had pomegranates also above, over against the belly which was by the network: and the pomegranates were two hundred in rows round about upon the other chapiter.",
+      "metadata": {
+        "reference": "1 Kings 7:20",
+        "verseKey": "kjv:1-kings:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-kings:7:21",
+      "numberLabel": "21",
+      "text": "And he set up the pillars in the porch of the temple: and he set up the right pillar, and called the name thereof Jachin: and he set up the left pillar, and called the name thereof Boaz.",
+      "metadata": {
+        "reference": "1 Kings 7:21",
+        "verseKey": "kjv:1-kings:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-kings:7:22",
+      "numberLabel": "22",
+      "text": "And upon the top of the pillars was lily work: so was the work of the pillars finished.",
+      "metadata": {
+        "reference": "1 Kings 7:22",
+        "verseKey": "kjv:1-kings:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-kings:7:23",
+      "numberLabel": "23",
+      "text": "And he made a molten sea, ten cubits from the one brim to the other: it was round all about, and his height was five cubits: and a line of thirty cubits did compass it round about.",
+      "metadata": {
+        "reference": "1 Kings 7:23",
+        "verseKey": "kjv:1-kings:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-kings:7:24",
+      "numberLabel": "24",
+      "text": "And under the brim of it round about there were knops compassing it, ten in a cubit, compassing the sea round about: the knops were cast in two rows, when it was cast.",
+      "metadata": {
+        "reference": "1 Kings 7:24",
+        "verseKey": "kjv:1-kings:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-kings:7:25",
+      "numberLabel": "25",
+      "text": "It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward.",
+      "metadata": {
+        "reference": "1 Kings 7:25",
+        "verseKey": "kjv:1-kings:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-kings:7:26",
+      "numberLabel": "26",
+      "text": "And it was an hand breadth thick, and the brim thereof was wrought like the brim of a cup, with flowers of lilies: it contained two thousand baths.",
+      "metadata": {
+        "reference": "1 Kings 7:26",
+        "verseKey": "kjv:1-kings:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-kings:7:27",
+      "numberLabel": "27",
+      "text": "And he made ten bases of brass; four cubits was the length of one base, and four cubits the breadth thereof, and three cubits the height of it.",
+      "metadata": {
+        "reference": "1 Kings 7:27",
+        "verseKey": "kjv:1-kings:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-kings:7:28",
+      "numberLabel": "28",
+      "text": "And the work of the bases was on this manner: they had borders, and the borders were between the ledges:",
+      "metadata": {
+        "reference": "1 Kings 7:28",
+        "verseKey": "kjv:1-kings:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-kings:7:29",
+      "numberLabel": "29",
+      "text": "And on the borders that were between the ledges were lions, oxen, and cherubims: and upon the ledges there was a base above: and beneath the lions and oxen were certain additions made of thin work.",
+      "metadata": {
+        "reference": "1 Kings 7:29",
+        "verseKey": "kjv:1-kings:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-kings:7:30",
+      "numberLabel": "30",
+      "text": "And every base had four brasen wheels, and plates of brass: and the four corners thereof had undersetters: under the laver were undersetters molten, at the side of every addition.",
+      "metadata": {
+        "reference": "1 Kings 7:30",
+        "verseKey": "kjv:1-kings:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-kings:7:31",
+      "numberLabel": "31",
+      "text": "And the mouth of it within the chapiter and above was a cubit: but the mouth thereof was round after the work of the base, a cubit and an half: and also upon the mouth of it were gravings with their borders, foursquare, not round.",
+      "metadata": {
+        "reference": "1 Kings 7:31",
+        "verseKey": "kjv:1-kings:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-kings:7:32",
+      "numberLabel": "32",
+      "text": "And under the borders were four wheels; and the axletrees of the wheels were joined to the base: and the height of a wheel was a cubit and half a cubit.",
+      "metadata": {
+        "reference": "1 Kings 7:32",
+        "verseKey": "kjv:1-kings:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-kings:7:33",
+      "numberLabel": "33",
+      "text": "And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.",
+      "metadata": {
+        "reference": "1 Kings 7:33",
+        "verseKey": "kjv:1-kings:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-kings:7:34",
+      "numberLabel": "34",
+      "text": "And there were four undersetters to the four corners of one base: and the undersetters were of the very base itself.",
+      "metadata": {
+        "reference": "1 Kings 7:34",
+        "verseKey": "kjv:1-kings:7:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-kings:7:35",
+      "numberLabel": "35",
+      "text": "And in the top of the base was there a round compass of half a cubit high: and on the top of the base the ledges thereof and the borders thereof were of the same.",
+      "metadata": {
+        "reference": "1 Kings 7:35",
+        "verseKey": "kjv:1-kings:7:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-kings:7:36",
+      "numberLabel": "36",
+      "text": "For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.",
+      "metadata": {
+        "reference": "1 Kings 7:36",
+        "verseKey": "kjv:1-kings:7:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-kings:7:37",
+      "numberLabel": "37",
+      "text": "After this manner he made the ten bases: all of them had one casting, one measure, and one size.",
+      "metadata": {
+        "reference": "1 Kings 7:37",
+        "verseKey": "kjv:1-kings:7:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-kings:7:38",
+      "numberLabel": "38",
+      "text": "Then made he ten lavers of brass: one laver contained forty baths: and every laver was four cubits: and upon every one of the ten bases one laver.",
+      "metadata": {
+        "reference": "1 Kings 7:38",
+        "verseKey": "kjv:1-kings:7:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-kings:7:39",
+      "numberLabel": "39",
+      "text": "And he put five bases on the right side of the house, and five on the left side of the house: and he set the sea on the right side of the house eastward over against the south.",
+      "metadata": {
+        "reference": "1 Kings 7:39",
+        "verseKey": "kjv:1-kings:7:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-kings:7:40",
+      "numberLabel": "40",
+      "text": "And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the LORD:",
+      "metadata": {
+        "reference": "1 Kings 7:40",
+        "verseKey": "kjv:1-kings:7:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:1-kings:7:41",
+      "numberLabel": "41",
+      "text": "The two pillars, and the two bowls of the chapiters that were on the top of the two pillars; and the two networks, to cover the two bowls of the chapiters which were upon the top of the pillars;",
+      "metadata": {
+        "reference": "1 Kings 7:41",
+        "verseKey": "kjv:1-kings:7:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:1-kings:7:42",
+      "numberLabel": "42",
+      "text": "And four hundred pomegranates for the two networks, even two rows of pomegranates for one network, to cover the two bowls of the chapiters that were upon the pillars;",
+      "metadata": {
+        "reference": "1 Kings 7:42",
+        "verseKey": "kjv:1-kings:7:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:1-kings:7:43",
+      "numberLabel": "43",
+      "text": "And the ten bases, and ten lavers on the bases;",
+      "metadata": {
+        "reference": "1 Kings 7:43",
+        "verseKey": "kjv:1-kings:7:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:1-kings:7:44",
+      "numberLabel": "44",
+      "text": "And one sea, and twelve oxen under the sea;",
+      "metadata": {
+        "reference": "1 Kings 7:44",
+        "verseKey": "kjv:1-kings:7:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:1-kings:7:45",
+      "numberLabel": "45",
+      "text": "And the pots, and the shovels, and the basons: and all these vessels, which Hiram made to king Solomon for the house of the LORD, were of bright brass.",
+      "metadata": {
+        "reference": "1 Kings 7:45",
+        "verseKey": "kjv:1-kings:7:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:1-kings:7:46",
+      "numberLabel": "46",
+      "text": "In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.",
+      "metadata": {
+        "reference": "1 Kings 7:46",
+        "verseKey": "kjv:1-kings:7:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:1-kings:7:47",
+      "numberLabel": "47",
+      "text": "And Solomon left all the vessels unweighed, because they were exceeding many: neither was the weight of the brass found out.",
+      "metadata": {
+        "reference": "1 Kings 7:47",
+        "verseKey": "kjv:1-kings:7:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:1-kings:7:48",
+      "numberLabel": "48",
+      "text": "And Solomon made all the vessels that pertained unto the house of the LORD: the altar of gold, and the table of gold, whereupon the shewbread was,",
+      "metadata": {
+        "reference": "1 Kings 7:48",
+        "verseKey": "kjv:1-kings:7:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:1-kings:7:49",
+      "numberLabel": "49",
+      "text": "And the candlesticks of pure gold, five on the right side, and five on the left, before the oracle, with the flowers, and the lamps, and the tongs of gold,",
+      "metadata": {
+        "reference": "1 Kings 7:49",
+        "verseKey": "kjv:1-kings:7:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:1-kings:7:50",
+      "numberLabel": "50",
+      "text": "And the bowls, and the snuffers, and the basons, and the spoons, and the censers of pure gold; and the hinges of gold, both for the doors of the inner house, the most holy place, and for the doors of the house, to wit, of the temple.",
+      "metadata": {
+        "reference": "1 Kings 7:50",
+        "verseKey": "kjv:1-kings:7:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:1-kings:7:51",
+      "numberLabel": "51",
+      "text": "So was ended all the work that king Solomon made for the house of the LORD. And Solomon brought in the things which David his father had dedicated; even the silver, and the gold, and the vessels, did he put among the treasures of the house of the LORD.",
+      "metadata": {
+        "reference": "1 Kings 7:51",
+        "verseKey": "kjv:1-kings:7:51"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

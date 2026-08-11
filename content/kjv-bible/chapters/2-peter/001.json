@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-peter-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "2 Peter 1",
+  "display_title": "2 Peter 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-peter",
+  "book": "2 Peter",
+  "bookName": "2 Peter",
+  "bookOrder": 61,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 61001,
+  "verseCount": 21,
+  "aliases": [
+    "2 Pet",
+    "2Pet",
+    "2 Pe",
+    "2Pe"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-peter:1:1",
+      "numberLabel": "1",
+      "text": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:",
+      "metadata": {
+        "reference": "2 Peter 1:1",
+        "verseKey": "kjv:2-peter:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-peter:1:2",
+      "numberLabel": "2",
+      "text": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,",
+      "metadata": {
+        "reference": "2 Peter 1:2",
+        "verseKey": "kjv:2-peter:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-peter:1:3",
+      "numberLabel": "3",
+      "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
+      "metadata": {
+        "reference": "2 Peter 1:3",
+        "verseKey": "kjv:2-peter:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-peter:1:4",
+      "numberLabel": "4",
+      "text": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+      "metadata": {
+        "reference": "2 Peter 1:4",
+        "verseKey": "kjv:2-peter:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-peter:1:5",
+      "numberLabel": "5",
+      "text": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
+      "metadata": {
+        "reference": "2 Peter 1:5",
+        "verseKey": "kjv:2-peter:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-peter:1:6",
+      "numberLabel": "6",
+      "text": "And to knowledge temperance; and to temperance patience; and to patience godliness;",
+      "metadata": {
+        "reference": "2 Peter 1:6",
+        "verseKey": "kjv:2-peter:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-peter:1:7",
+      "numberLabel": "7",
+      "text": "And to godliness brotherly kindness; and to brotherly kindness charity.",
+      "metadata": {
+        "reference": "2 Peter 1:7",
+        "verseKey": "kjv:2-peter:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-peter:1:8",
+      "numberLabel": "8",
+      "text": "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.",
+      "metadata": {
+        "reference": "2 Peter 1:8",
+        "verseKey": "kjv:2-peter:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-peter:1:9",
+      "numberLabel": "9",
+      "text": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.",
+      "metadata": {
+        "reference": "2 Peter 1:9",
+        "verseKey": "kjv:2-peter:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-peter:1:10",
+      "numberLabel": "10",
+      "text": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:",
+      "metadata": {
+        "reference": "2 Peter 1:10",
+        "verseKey": "kjv:2-peter:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-peter:1:11",
+      "numberLabel": "11",
+      "text": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.",
+      "metadata": {
+        "reference": "2 Peter 1:11",
+        "verseKey": "kjv:2-peter:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-peter:1:12",
+      "numberLabel": "12",
+      "text": "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth.",
+      "metadata": {
+        "reference": "2 Peter 1:12",
+        "verseKey": "kjv:2-peter:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-peter:1:13",
+      "numberLabel": "13",
+      "text": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;",
+      "metadata": {
+        "reference": "2 Peter 1:13",
+        "verseKey": "kjv:2-peter:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-peter:1:14",
+      "numberLabel": "14",
+      "text": "Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me.",
+      "metadata": {
+        "reference": "2 Peter 1:14",
+        "verseKey": "kjv:2-peter:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-peter:1:15",
+      "numberLabel": "15",
+      "text": "Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.",
+      "metadata": {
+        "reference": "2 Peter 1:15",
+        "verseKey": "kjv:2-peter:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-peter:1:16",
+      "numberLabel": "16",
+      "text": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.",
+      "metadata": {
+        "reference": "2 Peter 1:16",
+        "verseKey": "kjv:2-peter:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-peter:1:17",
+      "numberLabel": "17",
+      "text": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.",
+      "metadata": {
+        "reference": "2 Peter 1:17",
+        "verseKey": "kjv:2-peter:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-peter:1:18",
+      "numberLabel": "18",
+      "text": "And this voice which came from heaven we heard, when we were with him in the holy mount.",
+      "metadata": {
+        "reference": "2 Peter 1:18",
+        "verseKey": "kjv:2-peter:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-peter:1:19",
+      "numberLabel": "19",
+      "text": "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:",
+      "metadata": {
+        "reference": "2 Peter 1:19",
+        "verseKey": "kjv:2-peter:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-peter:1:20",
+      "numberLabel": "20",
+      "text": "Knowing this first, that no prophecy of the scripture is of any private interpretation.",
+      "metadata": {
+        "reference": "2 Peter 1:20",
+        "verseKey": "kjv:2-peter:1:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-peter:1:21",
+      "numberLabel": "21",
+      "text": "For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.",
+      "metadata": {
+        "reference": "2 Peter 1:21",
+        "verseKey": "kjv:2-peter:1:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Peter.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Peter.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

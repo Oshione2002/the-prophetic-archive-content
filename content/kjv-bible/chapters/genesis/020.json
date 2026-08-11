@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-020",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 20,
+  "title": "Genesis 20",
+  "display_title": "Genesis 20",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 20,
+  "sortOrder": 1020,
+  "verseCount": 18,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:20:1",
+      "numberLabel": "1",
+      "text": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.",
+      "metadata": {
+        "reference": "Genesis 20:1",
+        "verseKey": "kjv:genesis:20:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:20:2",
+      "numberLabel": "2",
+      "text": "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.",
+      "metadata": {
+        "reference": "Genesis 20:2",
+        "verseKey": "kjv:genesis:20:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:20:3",
+      "numberLabel": "3",
+      "text": "But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man’s wife.",
+      "metadata": {
+        "reference": "Genesis 20:3",
+        "verseKey": "kjv:genesis:20:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:20:4",
+      "numberLabel": "4",
+      "text": "But Abimelech had not come near her: and he said, LORD, wilt thou slay also a righteous nation?",
+      "metadata": {
+        "reference": "Genesis 20:4",
+        "verseKey": "kjv:genesis:20:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:20:5",
+      "numberLabel": "5",
+      "text": "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this.",
+      "metadata": {
+        "reference": "Genesis 20:5",
+        "verseKey": "kjv:genesis:20:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:20:6",
+      "numberLabel": "6",
+      "text": "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.",
+      "metadata": {
+        "reference": "Genesis 20:6",
+        "verseKey": "kjv:genesis:20:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:20:7",
+      "numberLabel": "7",
+      "text": "Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine.",
+      "metadata": {
+        "reference": "Genesis 20:7",
+        "verseKey": "kjv:genesis:20:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:20:8",
+      "numberLabel": "8",
+      "text": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.",
+      "metadata": {
+        "reference": "Genesis 20:8",
+        "verseKey": "kjv:genesis:20:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:20:9",
+      "numberLabel": "9",
+      "text": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.",
+      "metadata": {
+        "reference": "Genesis 20:9",
+        "verseKey": "kjv:genesis:20:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:20:10",
+      "numberLabel": "10",
+      "text": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?",
+      "metadata": {
+        "reference": "Genesis 20:10",
+        "verseKey": "kjv:genesis:20:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:20:11",
+      "numberLabel": "11",
+      "text": "And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife’s sake.",
+      "metadata": {
+        "reference": "Genesis 20:11",
+        "verseKey": "kjv:genesis:20:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:20:12",
+      "numberLabel": "12",
+      "text": "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife.",
+      "metadata": {
+        "reference": "Genesis 20:12",
+        "verseKey": "kjv:genesis:20:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:20:13",
+      "numberLabel": "13",
+      "text": "And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He is my brother.",
+      "metadata": {
+        "reference": "Genesis 20:13",
+        "verseKey": "kjv:genesis:20:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:20:14",
+      "numberLabel": "14",
+      "text": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife.",
+      "metadata": {
+        "reference": "Genesis 20:14",
+        "verseKey": "kjv:genesis:20:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:20:15",
+      "numberLabel": "15",
+      "text": "And Abimelech said, Behold, my land is before thee: dwell where it pleaseth thee.",
+      "metadata": {
+        "reference": "Genesis 20:15",
+        "verseKey": "kjv:genesis:20:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:20:16",
+      "numberLabel": "16",
+      "text": "And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved.",
+      "metadata": {
+        "reference": "Genesis 20:16",
+        "verseKey": "kjv:genesis:20:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:20:17",
+      "numberLabel": "17",
+      "text": "So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children.",
+      "metadata": {
+        "reference": "Genesis 20:17",
+        "verseKey": "kjv:genesis:20:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:20:18",
+      "numberLabel": "18",
+      "text": "For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife.",
+      "metadata": {
+        "reference": "Genesis 20:18",
+        "verseKey": "kjv:genesis:20:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

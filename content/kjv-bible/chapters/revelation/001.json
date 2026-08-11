@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Revelation 1",
+  "display_title": "Revelation 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 66001,
+  "verseCount": 20,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:1:1",
+      "numberLabel": "1",
+      "text": "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:",
+      "metadata": {
+        "reference": "Revelation 1:1",
+        "verseKey": "kjv:revelation:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:1:2",
+      "numberLabel": "2",
+      "text": "Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.",
+      "metadata": {
+        "reference": "Revelation 1:2",
+        "verseKey": "kjv:revelation:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:1:3",
+      "numberLabel": "3",
+      "text": "Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.",
+      "metadata": {
+        "reference": "Revelation 1:3",
+        "verseKey": "kjv:revelation:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:1:4",
+      "numberLabel": "4",
+      "text": "John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;",
+      "metadata": {
+        "reference": "Revelation 1:4",
+        "verseKey": "kjv:revelation:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:1:5",
+      "numberLabel": "5",
+      "text": "And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,",
+      "metadata": {
+        "reference": "Revelation 1:5",
+        "verseKey": "kjv:revelation:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:1:6",
+      "numberLabel": "6",
+      "text": "And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.",
+      "metadata": {
+        "reference": "Revelation 1:6",
+        "verseKey": "kjv:revelation:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:1:7",
+      "numberLabel": "7",
+      "text": "Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.",
+      "metadata": {
+        "reference": "Revelation 1:7",
+        "verseKey": "kjv:revelation:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:1:8",
+      "numberLabel": "8",
+      "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+      "metadata": {
+        "reference": "Revelation 1:8",
+        "verseKey": "kjv:revelation:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:1:9",
+      "numberLabel": "9",
+      "text": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.",
+      "metadata": {
+        "reference": "Revelation 1:9",
+        "verseKey": "kjv:revelation:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:1:10",
+      "numberLabel": "10",
+      "text": "I was in the Spirit on the Lord’s day, and heard behind me a great voice, as of a trumpet,",
+      "metadata": {
+        "reference": "Revelation 1:10",
+        "verseKey": "kjv:revelation:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:1:11",
+      "numberLabel": "11",
+      "text": "Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.",
+      "metadata": {
+        "reference": "Revelation 1:11",
+        "verseKey": "kjv:revelation:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:revelation:1:12",
+      "numberLabel": "12",
+      "text": "And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;",
+      "metadata": {
+        "reference": "Revelation 1:12",
+        "verseKey": "kjv:revelation:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:revelation:1:13",
+      "numberLabel": "13",
+      "text": "And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.",
+      "metadata": {
+        "reference": "Revelation 1:13",
+        "verseKey": "kjv:revelation:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:revelation:1:14",
+      "numberLabel": "14",
+      "text": "His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;",
+      "metadata": {
+        "reference": "Revelation 1:14",
+        "verseKey": "kjv:revelation:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:revelation:1:15",
+      "numberLabel": "15",
+      "text": "And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.",
+      "metadata": {
+        "reference": "Revelation 1:15",
+        "verseKey": "kjv:revelation:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:revelation:1:16",
+      "numberLabel": "16",
+      "text": "And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shineth in his strength.",
+      "metadata": {
+        "reference": "Revelation 1:16",
+        "verseKey": "kjv:revelation:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:revelation:1:17",
+      "numberLabel": "17",
+      "text": "And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:",
+      "metadata": {
+        "reference": "Revelation 1:17",
+        "verseKey": "kjv:revelation:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:revelation:1:18",
+      "numberLabel": "18",
+      "text": "I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.",
+      "metadata": {
+        "reference": "Revelation 1:18",
+        "verseKey": "kjv:revelation:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:revelation:1:19",
+      "numberLabel": "19",
+      "text": "Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;",
+      "metadata": {
+        "reference": "Revelation 1:19",
+        "verseKey": "kjv:revelation:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:revelation:1:20",
+      "numberLabel": "20",
+      "text": "The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.",
+      "metadata": {
+        "reference": "Revelation 1:20",
+        "verseKey": "kjv:revelation:1:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

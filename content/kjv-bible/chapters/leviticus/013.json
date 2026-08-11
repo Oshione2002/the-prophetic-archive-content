@@ -1,0 +1,741 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Leviticus 13",
+  "display_title": "Leviticus 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 13,
+  "sortOrder": 3013,
+  "verseCount": 59,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:13:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses and Aaron, saying,",
+      "metadata": {
+        "reference": "Leviticus 13:1",
+        "verseKey": "kjv:leviticus:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:13:2",
+      "numberLabel": "2",
+      "text": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
+      "metadata": {
+        "reference": "Leviticus 13:2",
+        "verseKey": "kjv:leviticus:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:13:3",
+      "numberLabel": "3",
+      "text": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean.",
+      "metadata": {
+        "reference": "Leviticus 13:3",
+        "verseKey": "kjv:leviticus:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:13:4",
+      "numberLabel": "4",
+      "text": "If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:",
+      "metadata": {
+        "reference": "Leviticus 13:4",
+        "verseKey": "kjv:leviticus:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:13:5",
+      "numberLabel": "5",
+      "text": "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:",
+      "metadata": {
+        "reference": "Leviticus 13:5",
+        "verseKey": "kjv:leviticus:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:13:6",
+      "numberLabel": "6",
+      "text": "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean.",
+      "metadata": {
+        "reference": "Leviticus 13:6",
+        "verseKey": "kjv:leviticus:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:13:7",
+      "numberLabel": "7",
+      "text": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:",
+      "metadata": {
+        "reference": "Leviticus 13:7",
+        "verseKey": "kjv:leviticus:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:13:8",
+      "numberLabel": "8",
+      "text": "And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy.",
+      "metadata": {
+        "reference": "Leviticus 13:8",
+        "verseKey": "kjv:leviticus:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:13:9",
+      "numberLabel": "9",
+      "text": "When the plague of leprosy is in a man, then he shall be brought unto the priest;",
+      "metadata": {
+        "reference": "Leviticus 13:9",
+        "verseKey": "kjv:leviticus:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:13:10",
+      "numberLabel": "10",
+      "text": "And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;",
+      "metadata": {
+        "reference": "Leviticus 13:10",
+        "verseKey": "kjv:leviticus:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:13:11",
+      "numberLabel": "11",
+      "text": "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean.",
+      "metadata": {
+        "reference": "Leviticus 13:11",
+        "verseKey": "kjv:leviticus:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:13:12",
+      "numberLabel": "12",
+      "text": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;",
+      "metadata": {
+        "reference": "Leviticus 13:12",
+        "verseKey": "kjv:leviticus:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:13:13",
+      "numberLabel": "13",
+      "text": "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean.",
+      "metadata": {
+        "reference": "Leviticus 13:13",
+        "verseKey": "kjv:leviticus:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:13:14",
+      "numberLabel": "14",
+      "text": "But when raw flesh appeareth in him, he shall be unclean.",
+      "metadata": {
+        "reference": "Leviticus 13:14",
+        "verseKey": "kjv:leviticus:13:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:13:15",
+      "numberLabel": "15",
+      "text": "And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy.",
+      "metadata": {
+        "reference": "Leviticus 13:15",
+        "verseKey": "kjv:leviticus:13:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:13:16",
+      "numberLabel": "16",
+      "text": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;",
+      "metadata": {
+        "reference": "Leviticus 13:16",
+        "verseKey": "kjv:leviticus:13:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:13:17",
+      "numberLabel": "17",
+      "text": "And the priest shall see him: and, behold, if the plague be turned into white; then the priest shall pronounce him clean that hath the plague: he is clean.",
+      "metadata": {
+        "reference": "Leviticus 13:17",
+        "verseKey": "kjv:leviticus:13:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:13:18",
+      "numberLabel": "18",
+      "text": "The flesh also, in which, even in the skin thereof, was a boil, and is healed,",
+      "metadata": {
+        "reference": "Leviticus 13:18",
+        "verseKey": "kjv:leviticus:13:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:13:19",
+      "numberLabel": "19",
+      "text": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;",
+      "metadata": {
+        "reference": "Leviticus 13:19",
+        "verseKey": "kjv:leviticus:13:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:13:20",
+      "numberLabel": "20",
+      "text": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil.",
+      "metadata": {
+        "reference": "Leviticus 13:20",
+        "verseKey": "kjv:leviticus:13:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:13:21",
+      "numberLabel": "21",
+      "text": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:",
+      "metadata": {
+        "reference": "Leviticus 13:21",
+        "verseKey": "kjv:leviticus:13:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:13:22",
+      "numberLabel": "22",
+      "text": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague.",
+      "metadata": {
+        "reference": "Leviticus 13:22",
+        "verseKey": "kjv:leviticus:13:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:13:23",
+      "numberLabel": "23",
+      "text": "But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean.",
+      "metadata": {
+        "reference": "Leviticus 13:23",
+        "verseKey": "kjv:leviticus:13:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:13:24",
+      "numberLabel": "24",
+      "text": "Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;",
+      "metadata": {
+        "reference": "Leviticus 13:24",
+        "verseKey": "kjv:leviticus:13:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:13:25",
+      "numberLabel": "25",
+      "text": "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy.",
+      "metadata": {
+        "reference": "Leviticus 13:25",
+        "verseKey": "kjv:leviticus:13:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:13:26",
+      "numberLabel": "26",
+      "text": "But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest shall shut him up seven days:",
+      "metadata": {
+        "reference": "Leviticus 13:26",
+        "verseKey": "kjv:leviticus:13:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:13:27",
+      "numberLabel": "27",
+      "text": "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy.",
+      "metadata": {
+        "reference": "Leviticus 13:27",
+        "verseKey": "kjv:leviticus:13:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:13:28",
+      "numberLabel": "28",
+      "text": "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest shall pronounce him clean: for it is an inflammation of the burning.",
+      "metadata": {
+        "reference": "Leviticus 13:28",
+        "verseKey": "kjv:leviticus:13:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:13:29",
+      "numberLabel": "29",
+      "text": "If a man or woman have a plague upon the head or the beard;",
+      "metadata": {
+        "reference": "Leviticus 13:29",
+        "verseKey": "kjv:leviticus:13:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:13:30",
+      "numberLabel": "30",
+      "text": "Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.",
+      "metadata": {
+        "reference": "Leviticus 13:30",
+        "verseKey": "kjv:leviticus:13:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:13:31",
+      "numberLabel": "31",
+      "text": "And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the plague of the scall seven days:",
+      "metadata": {
+        "reference": "Leviticus 13:31",
+        "verseKey": "kjv:leviticus:13:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:13:32",
+      "numberLabel": "32",
+      "text": "And in the seventh day the priest shall look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;",
+      "metadata": {
+        "reference": "Leviticus 13:32",
+        "verseKey": "kjv:leviticus:13:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:13:33",
+      "numberLabel": "33",
+      "text": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:",
+      "metadata": {
+        "reference": "Leviticus 13:33",
+        "verseKey": "kjv:leviticus:13:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:13:34",
+      "numberLabel": "34",
+      "text": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.",
+      "metadata": {
+        "reference": "Leviticus 13:34",
+        "verseKey": "kjv:leviticus:13:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:leviticus:13:35",
+      "numberLabel": "35",
+      "text": "But if the scall spread much in the skin after his cleansing;",
+      "metadata": {
+        "reference": "Leviticus 13:35",
+        "verseKey": "kjv:leviticus:13:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:leviticus:13:36",
+      "numberLabel": "36",
+      "text": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean.",
+      "metadata": {
+        "reference": "Leviticus 13:36",
+        "verseKey": "kjv:leviticus:13:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:leviticus:13:37",
+      "numberLabel": "37",
+      "text": "But if the scall be in his sight at a stay, and that there is black hair grown up therein; the scall is healed, he is clean: and the priest shall pronounce him clean.",
+      "metadata": {
+        "reference": "Leviticus 13:37",
+        "verseKey": "kjv:leviticus:13:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:leviticus:13:38",
+      "numberLabel": "38",
+      "text": "If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;",
+      "metadata": {
+        "reference": "Leviticus 13:38",
+        "verseKey": "kjv:leviticus:13:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:leviticus:13:39",
+      "numberLabel": "39",
+      "text": "Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean.",
+      "metadata": {
+        "reference": "Leviticus 13:39",
+        "verseKey": "kjv:leviticus:13:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:leviticus:13:40",
+      "numberLabel": "40",
+      "text": "And the man whose hair is fallen off his head, he is bald; yet is he clean.",
+      "metadata": {
+        "reference": "Leviticus 13:40",
+        "verseKey": "kjv:leviticus:13:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:leviticus:13:41",
+      "numberLabel": "41",
+      "text": "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean.",
+      "metadata": {
+        "reference": "Leviticus 13:41",
+        "verseKey": "kjv:leviticus:13:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:leviticus:13:42",
+      "numberLabel": "42",
+      "text": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead.",
+      "metadata": {
+        "reference": "Leviticus 13:42",
+        "verseKey": "kjv:leviticus:13:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:leviticus:13:43",
+      "numberLabel": "43",
+      "text": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;",
+      "metadata": {
+        "reference": "Leviticus 13:43",
+        "verseKey": "kjv:leviticus:13:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:leviticus:13:44",
+      "numberLabel": "44",
+      "text": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head.",
+      "metadata": {
+        "reference": "Leviticus 13:44",
+        "verseKey": "kjv:leviticus:13:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:leviticus:13:45",
+      "numberLabel": "45",
+      "text": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.",
+      "metadata": {
+        "reference": "Leviticus 13:45",
+        "verseKey": "kjv:leviticus:13:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:leviticus:13:46",
+      "numberLabel": "46",
+      "text": "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be.",
+      "metadata": {
+        "reference": "Leviticus 13:46",
+        "verseKey": "kjv:leviticus:13:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:leviticus:13:47",
+      "numberLabel": "47",
+      "text": "The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;",
+      "metadata": {
+        "reference": "Leviticus 13:47",
+        "verseKey": "kjv:leviticus:13:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:leviticus:13:48",
+      "numberLabel": "48",
+      "text": "Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
+      "metadata": {
+        "reference": "Leviticus 13:48",
+        "verseKey": "kjv:leviticus:13:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:leviticus:13:49",
+      "numberLabel": "49",
+      "text": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:",
+      "metadata": {
+        "reference": "Leviticus 13:49",
+        "verseKey": "kjv:leviticus:13:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:leviticus:13:50",
+      "numberLabel": "50",
+      "text": "And the priest shall look upon the plague, and shut up it that hath the plague seven days:",
+      "metadata": {
+        "reference": "Leviticus 13:50",
+        "verseKey": "kjv:leviticus:13:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:leviticus:13:51",
+      "numberLabel": "51",
+      "text": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean.",
+      "metadata": {
+        "reference": "Leviticus 13:51",
+        "verseKey": "kjv:leviticus:13:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:leviticus:13:52",
+      "numberLabel": "52",
+      "text": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it is a fretting leprosy; it shall be burnt in the fire.",
+      "metadata": {
+        "reference": "Leviticus 13:52",
+        "verseKey": "kjv:leviticus:13:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:leviticus:13:53",
+      "numberLabel": "53",
+      "text": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
+      "metadata": {
+        "reference": "Leviticus 13:53",
+        "verseKey": "kjv:leviticus:13:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:leviticus:13:54",
+      "numberLabel": "54",
+      "text": "Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:",
+      "metadata": {
+        "reference": "Leviticus 13:54",
+        "verseKey": "kjv:leviticus:13:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:leviticus:13:55",
+      "numberLabel": "55",
+      "text": "And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without.",
+      "metadata": {
+        "reference": "Leviticus 13:55",
+        "verseKey": "kjv:leviticus:13:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:leviticus:13:56",
+      "numberLabel": "56",
+      "text": "And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:",
+      "metadata": {
+        "reference": "Leviticus 13:56",
+        "verseKey": "kjv:leviticus:13:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:leviticus:13:57",
+      "numberLabel": "57",
+      "text": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading plague: thou shalt burn that wherein the plague is with fire.",
+      "metadata": {
+        "reference": "Leviticus 13:57",
+        "verseKey": "kjv:leviticus:13:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:leviticus:13:58",
+      "numberLabel": "58",
+      "text": "And the garment, either warp, or woof, or whatsoever thing of skin it be, which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean.",
+      "metadata": {
+        "reference": "Leviticus 13:58",
+        "verseKey": "kjv:leviticus:13:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:leviticus:13:59",
+      "numberLabel": "59",
+      "text": "This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.",
+      "metadata": {
+        "reference": "Leviticus 13:59",
+        "verseKey": "kjv:leviticus:13:59"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

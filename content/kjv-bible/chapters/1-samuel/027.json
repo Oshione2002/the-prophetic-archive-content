@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "1 Samuel 27",
+  "display_title": "1 Samuel 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 9027,
+  "verseCount": 12,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:27:1",
+      "numberLabel": "1",
+      "text": "And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.",
+      "metadata": {
+        "reference": "1 Samuel 27:1",
+        "verseKey": "kjv:1-samuel:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:27:2",
+      "numberLabel": "2",
+      "text": "And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath.",
+      "metadata": {
+        "reference": "1 Samuel 27:2",
+        "verseKey": "kjv:1-samuel:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:27:3",
+      "numberLabel": "3",
+      "text": "And David dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife.",
+      "metadata": {
+        "reference": "1 Samuel 27:3",
+        "verseKey": "kjv:1-samuel:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:27:4",
+      "numberLabel": "4",
+      "text": "And it was told Saul that David was fled to Gath: and he sought no more again for him.",
+      "metadata": {
+        "reference": "1 Samuel 27:4",
+        "verseKey": "kjv:1-samuel:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:27:5",
+      "numberLabel": "5",
+      "text": "And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?",
+      "metadata": {
+        "reference": "1 Samuel 27:5",
+        "verseKey": "kjv:1-samuel:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:27:6",
+      "numberLabel": "6",
+      "text": "Then Achish gave him Ziklag that day: wherefore Ziklag pertaineth unto the kings of Judah unto this day.",
+      "metadata": {
+        "reference": "1 Samuel 27:6",
+        "verseKey": "kjv:1-samuel:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:27:7",
+      "numberLabel": "7",
+      "text": "And the time that David dwelt in the country of the Philistines was a full year and four months.",
+      "metadata": {
+        "reference": "1 Samuel 27:7",
+        "verseKey": "kjv:1-samuel:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:27:8",
+      "numberLabel": "8",
+      "text": "And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.",
+      "metadata": {
+        "reference": "1 Samuel 27:8",
+        "verseKey": "kjv:1-samuel:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:27:9",
+      "numberLabel": "9",
+      "text": "And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.",
+      "metadata": {
+        "reference": "1 Samuel 27:9",
+        "verseKey": "kjv:1-samuel:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:27:10",
+      "numberLabel": "10",
+      "text": "And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.",
+      "metadata": {
+        "reference": "1 Samuel 27:10",
+        "verseKey": "kjv:1-samuel:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:27:11",
+      "numberLabel": "11",
+      "text": "And David saved neither man nor woman alive, to bring tidings to Gath, saying, Lest they should tell on us, saying, So did David, and so will be his manner all the while he dwelleth in the country of the Philistines.",
+      "metadata": {
+        "reference": "1 Samuel 27:11",
+        "verseKey": "kjv:1-samuel:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:27:12",
+      "numberLabel": "12",
+      "text": "And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.",
+      "metadata": {
+        "reference": "1 Samuel 27:12",
+        "verseKey": "kjv:1-samuel:27:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

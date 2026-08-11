@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Ezekiel 3",
+  "display_title": "Ezekiel 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 3,
+  "sortOrder": 26003,
+  "verseCount": 27,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:3:1",
+      "numberLabel": "1",
+      "text": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.",
+      "metadata": {
+        "reference": "Ezekiel 3:1",
+        "verseKey": "kjv:ezekiel:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:3:2",
+      "numberLabel": "2",
+      "text": "So I opened my mouth, and he caused me to eat that roll.",
+      "metadata": {
+        "reference": "Ezekiel 3:2",
+        "verseKey": "kjv:ezekiel:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:3:3",
+      "numberLabel": "3",
+      "text": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness.",
+      "metadata": {
+        "reference": "Ezekiel 3:3",
+        "verseKey": "kjv:ezekiel:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:3:4",
+      "numberLabel": "4",
+      "text": "And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them.",
+      "metadata": {
+        "reference": "Ezekiel 3:4",
+        "verseKey": "kjv:ezekiel:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:3:5",
+      "numberLabel": "5",
+      "text": "For thou art not sent to a people of a strange speech and of an hard language, but to the house of Israel;",
+      "metadata": {
+        "reference": "Ezekiel 3:5",
+        "verseKey": "kjv:ezekiel:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:3:6",
+      "numberLabel": "6",
+      "text": "Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.",
+      "metadata": {
+        "reference": "Ezekiel 3:6",
+        "verseKey": "kjv:ezekiel:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:3:7",
+      "numberLabel": "7",
+      "text": "But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted.",
+      "metadata": {
+        "reference": "Ezekiel 3:7",
+        "verseKey": "kjv:ezekiel:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:3:8",
+      "numberLabel": "8",
+      "text": "Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads.",
+      "metadata": {
+        "reference": "Ezekiel 3:8",
+        "verseKey": "kjv:ezekiel:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:3:9",
+      "numberLabel": "9",
+      "text": "As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house.",
+      "metadata": {
+        "reference": "Ezekiel 3:9",
+        "verseKey": "kjv:ezekiel:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:3:10",
+      "numberLabel": "10",
+      "text": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.",
+      "metadata": {
+        "reference": "Ezekiel 3:10",
+        "verseKey": "kjv:ezekiel:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:3:11",
+      "numberLabel": "11",
+      "text": "And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord GOD; whether they will hear, or whether they will forbear.",
+      "metadata": {
+        "reference": "Ezekiel 3:11",
+        "verseKey": "kjv:ezekiel:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:3:12",
+      "numberLabel": "12",
+      "text": "Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of the LORD from his place.",
+      "metadata": {
+        "reference": "Ezekiel 3:12",
+        "verseKey": "kjv:ezekiel:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:3:13",
+      "numberLabel": "13",
+      "text": "I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing.",
+      "metadata": {
+        "reference": "Ezekiel 3:13",
+        "verseKey": "kjv:ezekiel:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:3:14",
+      "numberLabel": "14",
+      "text": "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me.",
+      "metadata": {
+        "reference": "Ezekiel 3:14",
+        "verseKey": "kjv:ezekiel:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:3:15",
+      "numberLabel": "15",
+      "text": "Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days.",
+      "metadata": {
+        "reference": "Ezekiel 3:15",
+        "verseKey": "kjv:ezekiel:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:3:16",
+      "numberLabel": "16",
+      "text": "And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,",
+      "metadata": {
+        "reference": "Ezekiel 3:16",
+        "verseKey": "kjv:ezekiel:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:3:17",
+      "numberLabel": "17",
+      "text": "Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.",
+      "metadata": {
+        "reference": "Ezekiel 3:17",
+        "verseKey": "kjv:ezekiel:3:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezekiel:3:18",
+      "numberLabel": "18",
+      "text": "When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.",
+      "metadata": {
+        "reference": "Ezekiel 3:18",
+        "verseKey": "kjv:ezekiel:3:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezekiel:3:19",
+      "numberLabel": "19",
+      "text": "Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.",
+      "metadata": {
+        "reference": "Ezekiel 3:19",
+        "verseKey": "kjv:ezekiel:3:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezekiel:3:20",
+      "numberLabel": "20",
+      "text": "Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling-block before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.",
+      "metadata": {
+        "reference": "Ezekiel 3:20",
+        "verseKey": "kjv:ezekiel:3:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezekiel:3:21",
+      "numberLabel": "21",
+      "text": "Nevertheless if thou warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul.",
+      "metadata": {
+        "reference": "Ezekiel 3:21",
+        "verseKey": "kjv:ezekiel:3:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezekiel:3:22",
+      "numberLabel": "22",
+      "text": "And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee.",
+      "metadata": {
+        "reference": "Ezekiel 3:22",
+        "verseKey": "kjv:ezekiel:3:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezekiel:3:23",
+      "numberLabel": "23",
+      "text": "Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face.",
+      "metadata": {
+        "reference": "Ezekiel 3:23",
+        "verseKey": "kjv:ezekiel:3:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezekiel:3:24",
+      "numberLabel": "24",
+      "text": "Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house.",
+      "metadata": {
+        "reference": "Ezekiel 3:24",
+        "verseKey": "kjv:ezekiel:3:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ezekiel:3:25",
+      "numberLabel": "25",
+      "text": "But thou, O son of man, behold, they shall put bands upon thee, and shall bind thee with them, and thou shalt not go out among them:",
+      "metadata": {
+        "reference": "Ezekiel 3:25",
+        "verseKey": "kjv:ezekiel:3:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ezekiel:3:26",
+      "numberLabel": "26",
+      "text": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house.",
+      "metadata": {
+        "reference": "Ezekiel 3:26",
+        "verseKey": "kjv:ezekiel:3:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:ezekiel:3:27",
+      "numberLabel": "27",
+      "text": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house.",
+      "metadata": {
+        "reference": "Ezekiel 3:27",
+        "verseKey": "kjv:ezekiel:3:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

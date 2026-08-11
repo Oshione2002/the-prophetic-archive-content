@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-corinthians-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "1 Corinthians 10",
+  "display_title": "1 Corinthians 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-corinthians",
+  "book": "1 Corinthians",
+  "bookName": "1 Corinthians",
+  "bookOrder": 46,
+  "testament": "new",
+  "chapter": 10,
+  "sortOrder": 46010,
+  "verseCount": 33,
+  "aliases": [
+    "1 Cor",
+    "1Cor",
+    "1 Co",
+    "1Co"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-corinthians:10:1",
+      "numberLabel": "1",
+      "text": "Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;",
+      "metadata": {
+        "reference": "1 Corinthians 10:1",
+        "verseKey": "kjv:1-corinthians:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-corinthians:10:2",
+      "numberLabel": "2",
+      "text": "And were all baptized unto Moses in the cloud and in the sea;",
+      "metadata": {
+        "reference": "1 Corinthians 10:2",
+        "verseKey": "kjv:1-corinthians:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-corinthians:10:3",
+      "numberLabel": "3",
+      "text": "And did all eat the same spiritual meat;",
+      "metadata": {
+        "reference": "1 Corinthians 10:3",
+        "verseKey": "kjv:1-corinthians:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-corinthians:10:4",
+      "numberLabel": "4",
+      "text": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.",
+      "metadata": {
+        "reference": "1 Corinthians 10:4",
+        "verseKey": "kjv:1-corinthians:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-corinthians:10:5",
+      "numberLabel": "5",
+      "text": "But with many of them God was not well pleased: for they were overthrown in the wilderness.",
+      "metadata": {
+        "reference": "1 Corinthians 10:5",
+        "verseKey": "kjv:1-corinthians:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-corinthians:10:6",
+      "numberLabel": "6",
+      "text": "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.",
+      "metadata": {
+        "reference": "1 Corinthians 10:6",
+        "verseKey": "kjv:1-corinthians:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-corinthians:10:7",
+      "numberLabel": "7",
+      "text": "Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.",
+      "metadata": {
+        "reference": "1 Corinthians 10:7",
+        "verseKey": "kjv:1-corinthians:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-corinthians:10:8",
+      "numberLabel": "8",
+      "text": "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.",
+      "metadata": {
+        "reference": "1 Corinthians 10:8",
+        "verseKey": "kjv:1-corinthians:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-corinthians:10:9",
+      "numberLabel": "9",
+      "text": "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.",
+      "metadata": {
+        "reference": "1 Corinthians 10:9",
+        "verseKey": "kjv:1-corinthians:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-corinthians:10:10",
+      "numberLabel": "10",
+      "text": "Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.",
+      "metadata": {
+        "reference": "1 Corinthians 10:10",
+        "verseKey": "kjv:1-corinthians:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-corinthians:10:11",
+      "numberLabel": "11",
+      "text": "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.",
+      "metadata": {
+        "reference": "1 Corinthians 10:11",
+        "verseKey": "kjv:1-corinthians:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-corinthians:10:12",
+      "numberLabel": "12",
+      "text": "Wherefore let him that thinketh he standeth take heed lest he fall.",
+      "metadata": {
+        "reference": "1 Corinthians 10:12",
+        "verseKey": "kjv:1-corinthians:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-corinthians:10:13",
+      "numberLabel": "13",
+      "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+      "metadata": {
+        "reference": "1 Corinthians 10:13",
+        "verseKey": "kjv:1-corinthians:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-corinthians:10:14",
+      "numberLabel": "14",
+      "text": "Wherefore, my dearly beloved, flee from idolatry.",
+      "metadata": {
+        "reference": "1 Corinthians 10:14",
+        "verseKey": "kjv:1-corinthians:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-corinthians:10:15",
+      "numberLabel": "15",
+      "text": "I speak as to wise men; judge ye what I say.",
+      "metadata": {
+        "reference": "1 Corinthians 10:15",
+        "verseKey": "kjv:1-corinthians:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-corinthians:10:16",
+      "numberLabel": "16",
+      "text": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?",
+      "metadata": {
+        "reference": "1 Corinthians 10:16",
+        "verseKey": "kjv:1-corinthians:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-corinthians:10:17",
+      "numberLabel": "17",
+      "text": "For we being many are one bread, and one body: for we are all partakers of that one bread.",
+      "metadata": {
+        "reference": "1 Corinthians 10:17",
+        "verseKey": "kjv:1-corinthians:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-corinthians:10:18",
+      "numberLabel": "18",
+      "text": "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?",
+      "metadata": {
+        "reference": "1 Corinthians 10:18",
+        "verseKey": "kjv:1-corinthians:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-corinthians:10:19",
+      "numberLabel": "19",
+      "text": "What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?",
+      "metadata": {
+        "reference": "1 Corinthians 10:19",
+        "verseKey": "kjv:1-corinthians:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-corinthians:10:20",
+      "numberLabel": "20",
+      "text": "But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.",
+      "metadata": {
+        "reference": "1 Corinthians 10:20",
+        "verseKey": "kjv:1-corinthians:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-corinthians:10:21",
+      "numberLabel": "21",
+      "text": "Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord’s table, and of the table of devils.",
+      "metadata": {
+        "reference": "1 Corinthians 10:21",
+        "verseKey": "kjv:1-corinthians:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-corinthians:10:22",
+      "numberLabel": "22",
+      "text": "Do we provoke the Lord to jealousy? are we stronger than he?",
+      "metadata": {
+        "reference": "1 Corinthians 10:22",
+        "verseKey": "kjv:1-corinthians:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-corinthians:10:23",
+      "numberLabel": "23",
+      "text": "All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.",
+      "metadata": {
+        "reference": "1 Corinthians 10:23",
+        "verseKey": "kjv:1-corinthians:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-corinthians:10:24",
+      "numberLabel": "24",
+      "text": "Let no man seek his own, but every man another’s wealth.",
+      "metadata": {
+        "reference": "1 Corinthians 10:24",
+        "verseKey": "kjv:1-corinthians:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-corinthians:10:25",
+      "numberLabel": "25",
+      "text": "Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:",
+      "metadata": {
+        "reference": "1 Corinthians 10:25",
+        "verseKey": "kjv:1-corinthians:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-corinthians:10:26",
+      "numberLabel": "26",
+      "text": "For the earth is the Lord’s, and the fulness thereof.",
+      "metadata": {
+        "reference": "1 Corinthians 10:26",
+        "verseKey": "kjv:1-corinthians:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-corinthians:10:27",
+      "numberLabel": "27",
+      "text": "If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.",
+      "metadata": {
+        "reference": "1 Corinthians 10:27",
+        "verseKey": "kjv:1-corinthians:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-corinthians:10:28",
+      "numberLabel": "28",
+      "text": "But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord’s, and the fulness thereof:",
+      "metadata": {
+        "reference": "1 Corinthians 10:28",
+        "verseKey": "kjv:1-corinthians:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-corinthians:10:29",
+      "numberLabel": "29",
+      "text": "Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man’s conscience?",
+      "metadata": {
+        "reference": "1 Corinthians 10:29",
+        "verseKey": "kjv:1-corinthians:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-corinthians:10:30",
+      "numberLabel": "30",
+      "text": "For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?",
+      "metadata": {
+        "reference": "1 Corinthians 10:30",
+        "verseKey": "kjv:1-corinthians:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-corinthians:10:31",
+      "numberLabel": "31",
+      "text": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+      "metadata": {
+        "reference": "1 Corinthians 10:31",
+        "verseKey": "kjv:1-corinthians:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-corinthians:10:32",
+      "numberLabel": "32",
+      "text": "Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:",
+      "metadata": {
+        "reference": "1 Corinthians 10:32",
+        "verseKey": "kjv:1-corinthians:10:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-corinthians:10:33",
+      "numberLabel": "33",
+      "text": "Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.",
+      "metadata": {
+        "reference": "1 Corinthians 10:33",
+        "verseKey": "kjv:1-corinthians:10:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Corinthians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Corinthians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

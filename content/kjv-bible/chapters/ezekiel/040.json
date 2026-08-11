@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-040",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 40,
+  "title": "Ezekiel 40",
+  "display_title": "Ezekiel 40",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 40,
+  "sortOrder": 26040,
+  "verseCount": 49,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:40:1",
+      "numberLabel": "1",
+      "text": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.",
+      "metadata": {
+        "reference": "Ezekiel 40:1",
+        "verseKey": "kjv:ezekiel:40:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:40:2",
+      "numberLabel": "2",
+      "text": "In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south.",
+      "metadata": {
+        "reference": "Ezekiel 40:2",
+        "verseKey": "kjv:ezekiel:40:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:40:3",
+      "numberLabel": "3",
+      "text": "And he brought me thither, and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.",
+      "metadata": {
+        "reference": "Ezekiel 40:3",
+        "verseKey": "kjv:ezekiel:40:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:40:4",
+      "numberLabel": "4",
+      "text": "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew them unto thee art thou brought hither: declare all that thou seest to the house of Israel.",
+      "metadata": {
+        "reference": "Ezekiel 40:4",
+        "verseKey": "kjv:ezekiel:40:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:40:5",
+      "numberLabel": "5",
+      "text": "And behold a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.",
+      "metadata": {
+        "reference": "Ezekiel 40:5",
+        "verseKey": "kjv:ezekiel:40:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:40:6",
+      "numberLabel": "6",
+      "text": "Then came he unto the gate which looketh toward the east, and went up the stairs thereof, and measured the threshold of the gate, which was one reed broad; and the other threshold of the gate, which was one reed broad.",
+      "metadata": {
+        "reference": "Ezekiel 40:6",
+        "verseKey": "kjv:ezekiel:40:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:40:7",
+      "numberLabel": "7",
+      "text": "And every little chamber was one reed long, and one reed broad; and between the little chambers were five cubits; and the threshold of the gate by the porch of the gate within was one reed.",
+      "metadata": {
+        "reference": "Ezekiel 40:7",
+        "verseKey": "kjv:ezekiel:40:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:40:8",
+      "numberLabel": "8",
+      "text": "He measured also the porch of the gate within, one reed.",
+      "metadata": {
+        "reference": "Ezekiel 40:8",
+        "verseKey": "kjv:ezekiel:40:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:40:9",
+      "numberLabel": "9",
+      "text": "Then measured he the porch of the gate, eight cubits; and the posts thereof, two cubits; and the porch of the gate was inward.",
+      "metadata": {
+        "reference": "Ezekiel 40:9",
+        "verseKey": "kjv:ezekiel:40:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:40:10",
+      "numberLabel": "10",
+      "text": "And the little chambers of the gate eastward were three on this side, and three on that side; they three were of one measure: and the posts had one measure on this side and on that side.",
+      "metadata": {
+        "reference": "Ezekiel 40:10",
+        "verseKey": "kjv:ezekiel:40:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:40:11",
+      "numberLabel": "11",
+      "text": "And he measured the breadth of the entry of the gate, ten cubits; and the length of the gate, thirteen cubits.",
+      "metadata": {
+        "reference": "Ezekiel 40:11",
+        "verseKey": "kjv:ezekiel:40:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:40:12",
+      "numberLabel": "12",
+      "text": "The space also before the little chambers was one cubit on this side, and the space was one cubit on that side: and the little chambers were six cubits on this side, and six cubits on that side.",
+      "metadata": {
+        "reference": "Ezekiel 40:12",
+        "verseKey": "kjv:ezekiel:40:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:40:13",
+      "numberLabel": "13",
+      "text": "He measured then the gate from the roof of one little chamber to the roof of another: the breadth was five and twenty cubits, door against door.",
+      "metadata": {
+        "reference": "Ezekiel 40:13",
+        "verseKey": "kjv:ezekiel:40:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:40:14",
+      "numberLabel": "14",
+      "text": "He made also posts of threescore cubits, even unto the post of the court round about the gate.",
+      "metadata": {
+        "reference": "Ezekiel 40:14",
+        "verseKey": "kjv:ezekiel:40:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:40:15",
+      "numberLabel": "15",
+      "text": "And from the face of the gate of the entrance unto the face of the porch of the inner gate were fifty cubits.",
+      "metadata": {
+        "reference": "Ezekiel 40:15",
+        "verseKey": "kjv:ezekiel:40:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:40:16",
+      "numberLabel": "16",
+      "text": "And there were narrow windows to the little chambers, and to their posts within the gate round about, and likewise to the arches: and windows were round about inward: and upon each post were palm trees.",
+      "metadata": {
+        "reference": "Ezekiel 40:16",
+        "verseKey": "kjv:ezekiel:40:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:40:17",
+      "numberLabel": "17",
+      "text": "Then brought he me into the outward court, and, lo, there were chambers, and a pavement made for the court round about: thirty chambers were upon the pavement.",
+      "metadata": {
+        "reference": "Ezekiel 40:17",
+        "verseKey": "kjv:ezekiel:40:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezekiel:40:18",
+      "numberLabel": "18",
+      "text": "And the pavement by the side of the gates over against the length of the gates was the lower pavement.",
+      "metadata": {
+        "reference": "Ezekiel 40:18",
+        "verseKey": "kjv:ezekiel:40:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezekiel:40:19",
+      "numberLabel": "19",
+      "text": "Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward.",
+      "metadata": {
+        "reference": "Ezekiel 40:19",
+        "verseKey": "kjv:ezekiel:40:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezekiel:40:20",
+      "numberLabel": "20",
+      "text": "And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.",
+      "metadata": {
+        "reference": "Ezekiel 40:20",
+        "verseKey": "kjv:ezekiel:40:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezekiel:40:21",
+      "numberLabel": "21",
+      "text": "And the little chambers thereof were three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof was fifty cubits, and the breadth five and twenty cubits.",
+      "metadata": {
+        "reference": "Ezekiel 40:21",
+        "verseKey": "kjv:ezekiel:40:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezekiel:40:22",
+      "numberLabel": "22",
+      "text": "And their windows, and their arches, and their palm trees, were after the measure of the gate that looketh toward the east; and they went up unto it by seven steps; and the arches thereof were before them.",
+      "metadata": {
+        "reference": "Ezekiel 40:22",
+        "verseKey": "kjv:ezekiel:40:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezekiel:40:23",
+      "numberLabel": "23",
+      "text": "And the gate of the inner court was over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.",
+      "metadata": {
+        "reference": "Ezekiel 40:23",
+        "verseKey": "kjv:ezekiel:40:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezekiel:40:24",
+      "numberLabel": "24",
+      "text": "After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.",
+      "metadata": {
+        "reference": "Ezekiel 40:24",
+        "verseKey": "kjv:ezekiel:40:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ezekiel:40:25",
+      "numberLabel": "25",
+      "text": "And there were windows in it and in the arches thereof round about, like those windows: the length was fifty cubits, and the breadth five and twenty cubits.",
+      "metadata": {
+        "reference": "Ezekiel 40:25",
+        "verseKey": "kjv:ezekiel:40:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ezekiel:40:26",
+      "numberLabel": "26",
+      "text": "And there were seven steps to go up to it, and the arches thereof were before them: and it had palm trees, one on this side, and another on that side, upon the posts thereof.",
+      "metadata": {
+        "reference": "Ezekiel 40:26",
+        "verseKey": "kjv:ezekiel:40:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:ezekiel:40:27",
+      "numberLabel": "27",
+      "text": "And there was a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits.",
+      "metadata": {
+        "reference": "Ezekiel 40:27",
+        "verseKey": "kjv:ezekiel:40:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:ezekiel:40:28",
+      "numberLabel": "28",
+      "text": "And he brought me to the inner court by the south gate: and he measured the south gate according to these measures;",
+      "metadata": {
+        "reference": "Ezekiel 40:28",
+        "verseKey": "kjv:ezekiel:40:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:ezekiel:40:29",
+      "numberLabel": "29",
+      "text": "And the little chambers thereof, and the posts thereof, and the arches thereof, according to these measures: and there were windows in it and in the arches thereof round about: it was fifty cubits long, and five and twenty cubits broad.",
+      "metadata": {
+        "reference": "Ezekiel 40:29",
+        "verseKey": "kjv:ezekiel:40:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:ezekiel:40:30",
+      "numberLabel": "30",
+      "text": "And the arches round about were five and twenty cubits long, and five cubits broad.",
+      "metadata": {
+        "reference": "Ezekiel 40:30",
+        "verseKey": "kjv:ezekiel:40:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:ezekiel:40:31",
+      "numberLabel": "31",
+      "text": "And the arches thereof were toward the utter court; and palm trees were upon the posts thereof: and the going up to it had eight steps.",
+      "metadata": {
+        "reference": "Ezekiel 40:31",
+        "verseKey": "kjv:ezekiel:40:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:ezekiel:40:32",
+      "numberLabel": "32",
+      "text": "And he brought me into the inner court toward the east: and he measured the gate according to these measures.",
+      "metadata": {
+        "reference": "Ezekiel 40:32",
+        "verseKey": "kjv:ezekiel:40:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:ezekiel:40:33",
+      "numberLabel": "33",
+      "text": "And the little chambers thereof, and the posts thereof, and the arches thereof, were according to these measures: and there were windows therein and in the arches thereof round about: it was fifty cubits long, and five and twenty cubits broad.",
+      "metadata": {
+        "reference": "Ezekiel 40:33",
+        "verseKey": "kjv:ezekiel:40:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:ezekiel:40:34",
+      "numberLabel": "34",
+      "text": "And the arches thereof were toward the outward court; and palm trees were upon the posts thereof, on this side, and on that side: and the going up to it had eight steps.",
+      "metadata": {
+        "reference": "Ezekiel 40:34",
+        "verseKey": "kjv:ezekiel:40:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:ezekiel:40:35",
+      "numberLabel": "35",
+      "text": "And he brought me to the north gate, and measured it according to these measures;",
+      "metadata": {
+        "reference": "Ezekiel 40:35",
+        "verseKey": "kjv:ezekiel:40:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:ezekiel:40:36",
+      "numberLabel": "36",
+      "text": "The little chambers thereof, the posts thereof, and the arches thereof, and the windows to it round about: the length was fifty cubits, and the breadth five and twenty cubits.",
+      "metadata": {
+        "reference": "Ezekiel 40:36",
+        "verseKey": "kjv:ezekiel:40:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:ezekiel:40:37",
+      "numberLabel": "37",
+      "text": "And the posts thereof were toward the utter court; and palm trees were upon the posts thereof, on this side, and on that side: and the going up to it had eight steps.",
+      "metadata": {
+        "reference": "Ezekiel 40:37",
+        "verseKey": "kjv:ezekiel:40:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:ezekiel:40:38",
+      "numberLabel": "38",
+      "text": "And the chambers and the entries thereof were by the posts of the gates, where they washed the burnt offering.",
+      "metadata": {
+        "reference": "Ezekiel 40:38",
+        "verseKey": "kjv:ezekiel:40:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:ezekiel:40:39",
+      "numberLabel": "39",
+      "text": "And in the porch of the gate were two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering.",
+      "metadata": {
+        "reference": "Ezekiel 40:39",
+        "verseKey": "kjv:ezekiel:40:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:ezekiel:40:40",
+      "numberLabel": "40",
+      "text": "And at the side without, as one goeth up to the entry of the north gate, were two tables; and on the other side, which was at the porch of the gate, were two tables.",
+      "metadata": {
+        "reference": "Ezekiel 40:40",
+        "verseKey": "kjv:ezekiel:40:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:ezekiel:40:41",
+      "numberLabel": "41",
+      "text": "Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew their sacrifices.",
+      "metadata": {
+        "reference": "Ezekiel 40:41",
+        "verseKey": "kjv:ezekiel:40:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:ezekiel:40:42",
+      "numberLabel": "42",
+      "text": "And the four tables were of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments wherewith they slew the burnt offering and the sacrifice.",
+      "metadata": {
+        "reference": "Ezekiel 40:42",
+        "verseKey": "kjv:ezekiel:40:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:ezekiel:40:43",
+      "numberLabel": "43",
+      "text": "And within were hooks, an hand broad, fastened round about: and upon the tables was the flesh of the offering.",
+      "metadata": {
+        "reference": "Ezekiel 40:43",
+        "verseKey": "kjv:ezekiel:40:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:ezekiel:40:44",
+      "numberLabel": "44",
+      "text": "And without the inner gate were the chambers of the singers in the inner court, which was at the side of the north gate; and their prospect was toward the south: one at the side of the east gate having the prospect toward the north.",
+      "metadata": {
+        "reference": "Ezekiel 40:44",
+        "verseKey": "kjv:ezekiel:40:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:ezekiel:40:45",
+      "numberLabel": "45",
+      "text": "And he said unto me, This chamber, whose prospect is toward the south, is for the priests, the keepers of the charge of the house.",
+      "metadata": {
+        "reference": "Ezekiel 40:45",
+        "verseKey": "kjv:ezekiel:40:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:ezekiel:40:46",
+      "numberLabel": "46",
+      "text": "And the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok among the sons of Levi, which come near to the LORD to minister unto him.",
+      "metadata": {
+        "reference": "Ezekiel 40:46",
+        "verseKey": "kjv:ezekiel:40:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:ezekiel:40:47",
+      "numberLabel": "47",
+      "text": "So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar that was before the house.",
+      "metadata": {
+        "reference": "Ezekiel 40:47",
+        "verseKey": "kjv:ezekiel:40:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:ezekiel:40:48",
+      "numberLabel": "48",
+      "text": "And he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side: and the breadth of the gate was three cubits on this side, and three cubits on that side.",
+      "metadata": {
+        "reference": "Ezekiel 40:48",
+        "verseKey": "kjv:ezekiel:40:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:ezekiel:40:49",
+      "numberLabel": "49",
+      "text": "The length of the porch was twenty cubits, and the breadth eleven cubits; and he brought me by the steps whereby they went up to it: and there were pillars by the posts, one on this side, and another on that side.",
+      "metadata": {
+        "reference": "Ezekiel 40:49",
+        "verseKey": "kjv:ezekiel:40:49"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

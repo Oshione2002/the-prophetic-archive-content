@@ -1,0 +1,488 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-021",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 21,
+  "title": "Luke 21",
+  "display_title": "Luke 21",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 21,
+  "sortOrder": 42021,
+  "verseCount": 38,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:21:1",
+      "numberLabel": "1",
+      "text": "And he looked up, and saw the rich men casting their gifts into the treasury.",
+      "metadata": {
+        "reference": "Luke 21:1",
+        "verseKey": "kjv:luke:21:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:21:2",
+      "numberLabel": "2",
+      "text": "And he saw also a certain poor widow casting in thither two mites.",
+      "metadata": {
+        "reference": "Luke 21:2",
+        "verseKey": "kjv:luke:21:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:21:3",
+      "numberLabel": "3",
+      "text": "And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:",
+      "metadata": {
+        "reference": "Luke 21:3",
+        "verseKey": "kjv:luke:21:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:21:4",
+      "numberLabel": "4",
+      "text": "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.",
+      "metadata": {
+        "reference": "Luke 21:4",
+        "verseKey": "kjv:luke:21:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:21:5",
+      "numberLabel": "5",
+      "text": "And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,",
+      "metadata": {
+        "reference": "Luke 21:5",
+        "verseKey": "kjv:luke:21:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:21:6",
+      "numberLabel": "6",
+      "text": "As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.",
+      "metadata": {
+        "reference": "Luke 21:6",
+        "verseKey": "kjv:luke:21:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:21:7",
+      "numberLabel": "7",
+      "text": "And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?",
+      "metadata": {
+        "reference": "Luke 21:7",
+        "verseKey": "kjv:luke:21:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:21:8",
+      "numberLabel": "8",
+      "text": "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.",
+      "metadata": {
+        "reference": "Luke 21:8",
+        "verseKey": "kjv:luke:21:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:21:9",
+      "numberLabel": "9",
+      "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.",
+      "metadata": {
+        "reference": "Luke 21:9",
+        "verseKey": "kjv:luke:21:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:21:10",
+      "numberLabel": "10",
+      "text": "Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:",
+      "metadata": {
+        "reference": "Luke 21:10",
+        "verseKey": "kjv:luke:21:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:21:11",
+      "numberLabel": "11",
+      "text": "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.",
+      "metadata": {
+        "reference": "Luke 21:11",
+        "verseKey": "kjv:luke:21:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:21:12",
+      "numberLabel": "12",
+      "text": "But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.",
+      "metadata": {
+        "reference": "Luke 21:12",
+        "verseKey": "kjv:luke:21:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:21:13",
+      "numberLabel": "13",
+      "text": "And it shall turn to you for a testimony.",
+      "metadata": {
+        "reference": "Luke 21:13",
+        "verseKey": "kjv:luke:21:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:21:14",
+      "numberLabel": "14",
+      "text": "Settle it therefore in your hearts, not to meditate before what ye shall answer:",
+      "metadata": {
+        "reference": "Luke 21:14",
+        "verseKey": "kjv:luke:21:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:21:15",
+      "numberLabel": "15",
+      "text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.",
+      "metadata": {
+        "reference": "Luke 21:15",
+        "verseKey": "kjv:luke:21:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:21:16",
+      "numberLabel": "16",
+      "text": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.",
+      "metadata": {
+        "reference": "Luke 21:16",
+        "verseKey": "kjv:luke:21:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:21:17",
+      "numberLabel": "17",
+      "text": "And ye shall be hated of all men for my name’s sake.",
+      "metadata": {
+        "reference": "Luke 21:17",
+        "verseKey": "kjv:luke:21:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:21:18",
+      "numberLabel": "18",
+      "text": "But there shall not an hair of your head perish.",
+      "metadata": {
+        "reference": "Luke 21:18",
+        "verseKey": "kjv:luke:21:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:21:19",
+      "numberLabel": "19",
+      "text": "In your patience possess ye your souls.",
+      "metadata": {
+        "reference": "Luke 21:19",
+        "verseKey": "kjv:luke:21:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:21:20",
+      "numberLabel": "20",
+      "text": "And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.",
+      "metadata": {
+        "reference": "Luke 21:20",
+        "verseKey": "kjv:luke:21:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:21:21",
+      "numberLabel": "21",
+      "text": "Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.",
+      "metadata": {
+        "reference": "Luke 21:21",
+        "verseKey": "kjv:luke:21:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:21:22",
+      "numberLabel": "22",
+      "text": "For these be the days of vengeance, that all things which are written may be fulfilled.",
+      "metadata": {
+        "reference": "Luke 21:22",
+        "verseKey": "kjv:luke:21:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:21:23",
+      "numberLabel": "23",
+      "text": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.",
+      "metadata": {
+        "reference": "Luke 21:23",
+        "verseKey": "kjv:luke:21:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:21:24",
+      "numberLabel": "24",
+      "text": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.",
+      "metadata": {
+        "reference": "Luke 21:24",
+        "verseKey": "kjv:luke:21:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:21:25",
+      "numberLabel": "25",
+      "text": "And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;",
+      "metadata": {
+        "reference": "Luke 21:25",
+        "verseKey": "kjv:luke:21:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:21:26",
+      "numberLabel": "26",
+      "text": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.",
+      "metadata": {
+        "reference": "Luke 21:26",
+        "verseKey": "kjv:luke:21:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:21:27",
+      "numberLabel": "27",
+      "text": "And then shall they see the Son of man coming in a cloud with power and great glory.",
+      "metadata": {
+        "reference": "Luke 21:27",
+        "verseKey": "kjv:luke:21:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:21:28",
+      "numberLabel": "28",
+      "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.",
+      "metadata": {
+        "reference": "Luke 21:28",
+        "verseKey": "kjv:luke:21:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:21:29",
+      "numberLabel": "29",
+      "text": "And he spake to them a parable; Behold the fig tree, and all the trees;",
+      "metadata": {
+        "reference": "Luke 21:29",
+        "verseKey": "kjv:luke:21:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:21:30",
+      "numberLabel": "30",
+      "text": "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.",
+      "metadata": {
+        "reference": "Luke 21:30",
+        "verseKey": "kjv:luke:21:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:21:31",
+      "numberLabel": "31",
+      "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.",
+      "metadata": {
+        "reference": "Luke 21:31",
+        "verseKey": "kjv:luke:21:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:21:32",
+      "numberLabel": "32",
+      "text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled.",
+      "metadata": {
+        "reference": "Luke 21:32",
+        "verseKey": "kjv:luke:21:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:luke:21:33",
+      "numberLabel": "33",
+      "text": "Heaven and earth shall pass away: but my words shall not pass away.",
+      "metadata": {
+        "reference": "Luke 21:33",
+        "verseKey": "kjv:luke:21:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:luke:21:34",
+      "numberLabel": "34",
+      "text": "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.",
+      "metadata": {
+        "reference": "Luke 21:34",
+        "verseKey": "kjv:luke:21:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:luke:21:35",
+      "numberLabel": "35",
+      "text": "For as a snare shall it come on all them that dwell on the face of the whole earth.",
+      "metadata": {
+        "reference": "Luke 21:35",
+        "verseKey": "kjv:luke:21:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:luke:21:36",
+      "numberLabel": "36",
+      "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.",
+      "metadata": {
+        "reference": "Luke 21:36",
+        "verseKey": "kjv:luke:21:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:luke:21:37",
+      "numberLabel": "37",
+      "text": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives.",
+      "metadata": {
+        "reference": "Luke 21:37",
+        "verseKey": "kjv:luke:21:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:luke:21:38",
+      "numberLabel": "38",
+      "text": "And all the people came early in the morning to him in the temple, for to hear him.",
+      "metadata": {
+        "reference": "Luke 21:38",
+        "verseKey": "kjv:luke:21:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "Job 25",
+  "display_title": "Job 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 18025,
+  "verseCount": 6,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:25:1",
+      "numberLabel": "1",
+      "text": "Then answered Bildad the Shuhite, and said,",
+      "metadata": {
+        "reference": "Job 25:1",
+        "verseKey": "kjv:job:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:25:2",
+      "numberLabel": "2",
+      "text": "Dominion and fear are with him, he maketh peace in his high places.",
+      "metadata": {
+        "reference": "Job 25:2",
+        "verseKey": "kjv:job:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:25:3",
+      "numberLabel": "3",
+      "text": "Is there any number of his armies? and upon whom doth not his light arise?",
+      "metadata": {
+        "reference": "Job 25:3",
+        "verseKey": "kjv:job:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:25:4",
+      "numberLabel": "4",
+      "text": "How then can man be justified with God? or how can he be clean that is born of a woman?",
+      "metadata": {
+        "reference": "Job 25:4",
+        "verseKey": "kjv:job:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:25:5",
+      "numberLabel": "5",
+      "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
+      "metadata": {
+        "reference": "Job 25:5",
+        "verseKey": "kjv:job:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:25:6",
+      "numberLabel": "6",
+      "text": "How much less man, that is a worm? and the son of man, which is a worm?",
+      "metadata": {
+        "reference": "Job 25:6",
+        "verseKey": "kjv:job:25:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

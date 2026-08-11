@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Leviticus 11",
+  "display_title": "Leviticus 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 3011,
+  "verseCount": 47,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:11:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses and to Aaron, saying unto them,",
+      "metadata": {
+        "reference": "Leviticus 11:1",
+        "verseKey": "kjv:leviticus:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:11:2",
+      "numberLabel": "2",
+      "text": "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth.",
+      "metadata": {
+        "reference": "Leviticus 11:2",
+        "verseKey": "kjv:leviticus:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:11:3",
+      "numberLabel": "3",
+      "text": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat.",
+      "metadata": {
+        "reference": "Leviticus 11:3",
+        "verseKey": "kjv:leviticus:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:11:4",
+      "numberLabel": "4",
+      "text": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:4",
+        "verseKey": "kjv:leviticus:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:11:5",
+      "numberLabel": "5",
+      "text": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:5",
+        "verseKey": "kjv:leviticus:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:11:6",
+      "numberLabel": "6",
+      "text": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:6",
+        "verseKey": "kjv:leviticus:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:11:7",
+      "numberLabel": "7",
+      "text": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you.",
+      "metadata": {
+        "reference": "Leviticus 11:7",
+        "verseKey": "kjv:leviticus:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:11:8",
+      "numberLabel": "8",
+      "text": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you.",
+      "metadata": {
+        "reference": "Leviticus 11:8",
+        "verseKey": "kjv:leviticus:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:11:9",
+      "numberLabel": "9",
+      "text": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
+      "metadata": {
+        "reference": "Leviticus 11:9",
+        "verseKey": "kjv:leviticus:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:11:10",
+      "numberLabel": "10",
+      "text": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:",
+      "metadata": {
+        "reference": "Leviticus 11:10",
+        "verseKey": "kjv:leviticus:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:11:11",
+      "numberLabel": "11",
+      "text": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.",
+      "metadata": {
+        "reference": "Leviticus 11:11",
+        "verseKey": "kjv:leviticus:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:11:12",
+      "numberLabel": "12",
+      "text": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:12",
+        "verseKey": "kjv:leviticus:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:11:13",
+      "numberLabel": "13",
+      "text": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,",
+      "metadata": {
+        "reference": "Leviticus 11:13",
+        "verseKey": "kjv:leviticus:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:11:14",
+      "numberLabel": "14",
+      "text": "And the vulture, and the kite after his kind;",
+      "metadata": {
+        "reference": "Leviticus 11:14",
+        "verseKey": "kjv:leviticus:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:11:15",
+      "numberLabel": "15",
+      "text": "Every raven after his kind;",
+      "metadata": {
+        "reference": "Leviticus 11:15",
+        "verseKey": "kjv:leviticus:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:11:16",
+      "numberLabel": "16",
+      "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+      "metadata": {
+        "reference": "Leviticus 11:16",
+        "verseKey": "kjv:leviticus:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:11:17",
+      "numberLabel": "17",
+      "text": "And the little owl, and the cormorant, and the great owl,",
+      "metadata": {
+        "reference": "Leviticus 11:17",
+        "verseKey": "kjv:leviticus:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:11:18",
+      "numberLabel": "18",
+      "text": "And the swan, and the pelican, and the gier eagle,",
+      "metadata": {
+        "reference": "Leviticus 11:18",
+        "verseKey": "kjv:leviticus:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:11:19",
+      "numberLabel": "19",
+      "text": "And the stork, the heron after her kind, and the lapwing, and the bat.",
+      "metadata": {
+        "reference": "Leviticus 11:19",
+        "verseKey": "kjv:leviticus:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:11:20",
+      "numberLabel": "20",
+      "text": "All fowls that creep, going upon all four, shall be an abomination unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:20",
+        "verseKey": "kjv:leviticus:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:11:21",
+      "numberLabel": "21",
+      "text": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;",
+      "metadata": {
+        "reference": "Leviticus 11:21",
+        "verseKey": "kjv:leviticus:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:11:22",
+      "numberLabel": "22",
+      "text": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.",
+      "metadata": {
+        "reference": "Leviticus 11:22",
+        "verseKey": "kjv:leviticus:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:11:23",
+      "numberLabel": "23",
+      "text": "But all other flying creeping things, which have four feet, shall be an abomination unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:23",
+        "verseKey": "kjv:leviticus:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:11:24",
+      "numberLabel": "24",
+      "text": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.",
+      "metadata": {
+        "reference": "Leviticus 11:24",
+        "verseKey": "kjv:leviticus:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:11:25",
+      "numberLabel": "25",
+      "text": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even.",
+      "metadata": {
+        "reference": "Leviticus 11:25",
+        "verseKey": "kjv:leviticus:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:11:26",
+      "numberLabel": "26",
+      "text": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean.",
+      "metadata": {
+        "reference": "Leviticus 11:26",
+        "verseKey": "kjv:leviticus:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:11:27",
+      "numberLabel": "27",
+      "text": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
+      "metadata": {
+        "reference": "Leviticus 11:27",
+        "verseKey": "kjv:leviticus:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:11:28",
+      "numberLabel": "28",
+      "text": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:28",
+        "verseKey": "kjv:leviticus:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:11:29",
+      "numberLabel": "29",
+      "text": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,",
+      "metadata": {
+        "reference": "Leviticus 11:29",
+        "verseKey": "kjv:leviticus:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:11:30",
+      "numberLabel": "30",
+      "text": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole.",
+      "metadata": {
+        "reference": "Leviticus 11:30",
+        "verseKey": "kjv:leviticus:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:11:31",
+      "numberLabel": "31",
+      "text": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.",
+      "metadata": {
+        "reference": "Leviticus 11:31",
+        "verseKey": "kjv:leviticus:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:11:32",
+      "numberLabel": "32",
+      "text": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.",
+      "metadata": {
+        "reference": "Leviticus 11:32",
+        "verseKey": "kjv:leviticus:11:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:11:33",
+      "numberLabel": "33",
+      "text": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it.",
+      "metadata": {
+        "reference": "Leviticus 11:33",
+        "verseKey": "kjv:leviticus:11:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:11:34",
+      "numberLabel": "34",
+      "text": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean.",
+      "metadata": {
+        "reference": "Leviticus 11:34",
+        "verseKey": "kjv:leviticus:11:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:leviticus:11:35",
+      "numberLabel": "35",
+      "text": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:35",
+        "verseKey": "kjv:leviticus:11:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:leviticus:11:36",
+      "numberLabel": "36",
+      "text": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.",
+      "metadata": {
+        "reference": "Leviticus 11:36",
+        "verseKey": "kjv:leviticus:11:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:leviticus:11:37",
+      "numberLabel": "37",
+      "text": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean.",
+      "metadata": {
+        "reference": "Leviticus 11:37",
+        "verseKey": "kjv:leviticus:11:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:leviticus:11:38",
+      "numberLabel": "38",
+      "text": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you.",
+      "metadata": {
+        "reference": "Leviticus 11:38",
+        "verseKey": "kjv:leviticus:11:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:leviticus:11:39",
+      "numberLabel": "39",
+      "text": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.",
+      "metadata": {
+        "reference": "Leviticus 11:39",
+        "verseKey": "kjv:leviticus:11:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:leviticus:11:40",
+      "numberLabel": "40",
+      "text": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.",
+      "metadata": {
+        "reference": "Leviticus 11:40",
+        "verseKey": "kjv:leviticus:11:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:leviticus:11:41",
+      "numberLabel": "41",
+      "text": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten.",
+      "metadata": {
+        "reference": "Leviticus 11:41",
+        "verseKey": "kjv:leviticus:11:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:leviticus:11:42",
+      "numberLabel": "42",
+      "text": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination.",
+      "metadata": {
+        "reference": "Leviticus 11:42",
+        "verseKey": "kjv:leviticus:11:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:leviticus:11:43",
+      "numberLabel": "43",
+      "text": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.",
+      "metadata": {
+        "reference": "Leviticus 11:43",
+        "verseKey": "kjv:leviticus:11:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:leviticus:11:44",
+      "numberLabel": "44",
+      "text": "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+      "metadata": {
+        "reference": "Leviticus 11:44",
+        "verseKey": "kjv:leviticus:11:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:leviticus:11:45",
+      "numberLabel": "45",
+      "text": "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy.",
+      "metadata": {
+        "reference": "Leviticus 11:45",
+        "verseKey": "kjv:leviticus:11:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:leviticus:11:46",
+      "numberLabel": "46",
+      "text": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:",
+      "metadata": {
+        "reference": "Leviticus 11:46",
+        "verseKey": "kjv:leviticus:11:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:leviticus:11:47",
+      "numberLabel": "47",
+      "text": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.",
+      "metadata": {
+        "reference": "Leviticus 11:47",
+        "verseKey": "kjv:leviticus:11:47"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

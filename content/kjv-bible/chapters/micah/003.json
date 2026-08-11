@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-micah-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Micah 3",
+  "display_title": "Micah 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "micah",
+  "book": "Micah",
+  "bookName": "Micah",
+  "bookOrder": 33,
+  "testament": "old",
+  "chapter": 3,
+  "sortOrder": 33003,
+  "verseCount": 12,
+  "aliases": [
+    "Mic",
+    "Mi"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:micah:3:1",
+      "numberLabel": "1",
+      "text": "And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment?",
+      "metadata": {
+        "reference": "Micah 3:1",
+        "verseKey": "kjv:micah:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:micah:3:2",
+      "numberLabel": "2",
+      "text": "Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones;",
+      "metadata": {
+        "reference": "Micah 3:2",
+        "verseKey": "kjv:micah:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:micah:3:3",
+      "numberLabel": "3",
+      "text": "Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.",
+      "metadata": {
+        "reference": "Micah 3:3",
+        "verseKey": "kjv:micah:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:micah:3:4",
+      "numberLabel": "4",
+      "text": "Then shall they cry unto the LORD, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.",
+      "metadata": {
+        "reference": "Micah 3:4",
+        "verseKey": "kjv:micah:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:micah:3:5",
+      "numberLabel": "5",
+      "text": "Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.",
+      "metadata": {
+        "reference": "Micah 3:5",
+        "verseKey": "kjv:micah:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:micah:3:6",
+      "numberLabel": "6",
+      "text": "Therefore night shall be unto you, that ye shall not have a vision; and it shall be dark unto you, that ye shall not divine; and the sun shall go down over the prophets, and the day shall be dark over them.",
+      "metadata": {
+        "reference": "Micah 3:6",
+        "verseKey": "kjv:micah:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:micah:3:7",
+      "numberLabel": "7",
+      "text": "Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for there is no answer of God.",
+      "metadata": {
+        "reference": "Micah 3:7",
+        "verseKey": "kjv:micah:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:micah:3:8",
+      "numberLabel": "8",
+      "text": "But truly I am full of power by the spirit of the LORD, and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin.",
+      "metadata": {
+        "reference": "Micah 3:8",
+        "verseKey": "kjv:micah:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:micah:3:9",
+      "numberLabel": "9",
+      "text": "Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity.",
+      "metadata": {
+        "reference": "Micah 3:9",
+        "verseKey": "kjv:micah:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:micah:3:10",
+      "numberLabel": "10",
+      "text": "They build up Zion with blood, and Jerusalem with iniquity.",
+      "metadata": {
+        "reference": "Micah 3:10",
+        "verseKey": "kjv:micah:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:micah:3:11",
+      "numberLabel": "11",
+      "text": "The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us.",
+      "metadata": {
+        "reference": "Micah 3:11",
+        "verseKey": "kjv:micah:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:micah:3:12",
+      "numberLabel": "12",
+      "text": "Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.",
+      "metadata": {
+        "reference": "Micah 3:12",
+        "verseKey": "kjv:micah:3:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Micah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Micah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

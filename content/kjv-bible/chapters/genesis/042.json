@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-042",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 42,
+  "title": "Genesis 42",
+  "display_title": "Genesis 42",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 42,
+  "sortOrder": 1042,
+  "verseCount": 38,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:42:1",
+      "numberLabel": "1",
+      "text": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
+      "metadata": {
+        "reference": "Genesis 42:1",
+        "verseKey": "kjv:genesis:42:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:42:2",
+      "numberLabel": "2",
+      "text": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
+      "metadata": {
+        "reference": "Genesis 42:2",
+        "verseKey": "kjv:genesis:42:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:42:3",
+      "numberLabel": "3",
+      "text": "And Joseph’s ten brethren went down to buy corn in Egypt.",
+      "metadata": {
+        "reference": "Genesis 42:3",
+        "verseKey": "kjv:genesis:42:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:42:4",
+      "numberLabel": "4",
+      "text": "But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.",
+      "metadata": {
+        "reference": "Genesis 42:4",
+        "verseKey": "kjv:genesis:42:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:42:5",
+      "numberLabel": "5",
+      "text": "And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.",
+      "metadata": {
+        "reference": "Genesis 42:5",
+        "verseKey": "kjv:genesis:42:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:42:6",
+      "numberLabel": "6",
+      "text": "And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him with their faces to the earth.",
+      "metadata": {
+        "reference": "Genesis 42:6",
+        "verseKey": "kjv:genesis:42:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:42:7",
+      "numberLabel": "7",
+      "text": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.",
+      "metadata": {
+        "reference": "Genesis 42:7",
+        "verseKey": "kjv:genesis:42:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:42:8",
+      "numberLabel": "8",
+      "text": "And Joseph knew his brethren, but they knew not him.",
+      "metadata": {
+        "reference": "Genesis 42:8",
+        "verseKey": "kjv:genesis:42:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:42:9",
+      "numberLabel": "9",
+      "text": "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come.",
+      "metadata": {
+        "reference": "Genesis 42:9",
+        "verseKey": "kjv:genesis:42:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:42:10",
+      "numberLabel": "10",
+      "text": "And they said unto him, Nay, my lord, but to buy food are thy servants come.",
+      "metadata": {
+        "reference": "Genesis 42:10",
+        "verseKey": "kjv:genesis:42:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:42:11",
+      "numberLabel": "11",
+      "text": "We are all one man’s sons; we are true men, thy servants are no spies.",
+      "metadata": {
+        "reference": "Genesis 42:11",
+        "verseKey": "kjv:genesis:42:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:42:12",
+      "numberLabel": "12",
+      "text": "And he said unto them, Nay, but to see the nakedness of the land ye are come.",
+      "metadata": {
+        "reference": "Genesis 42:12",
+        "verseKey": "kjv:genesis:42:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:42:13",
+      "numberLabel": "13",
+      "text": "And they said, Thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not.",
+      "metadata": {
+        "reference": "Genesis 42:13",
+        "verseKey": "kjv:genesis:42:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:42:14",
+      "numberLabel": "14",
+      "text": "And Joseph said unto them, That is it that I spake unto you, saying, Ye are spies:",
+      "metadata": {
+        "reference": "Genesis 42:14",
+        "verseKey": "kjv:genesis:42:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:42:15",
+      "numberLabel": "15",
+      "text": "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.",
+      "metadata": {
+        "reference": "Genesis 42:15",
+        "verseKey": "kjv:genesis:42:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:42:16",
+      "numberLabel": "16",
+      "text": "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies.",
+      "metadata": {
+        "reference": "Genesis 42:16",
+        "verseKey": "kjv:genesis:42:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:42:17",
+      "numberLabel": "17",
+      "text": "And he put them all together into ward three days.",
+      "metadata": {
+        "reference": "Genesis 42:17",
+        "verseKey": "kjv:genesis:42:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:42:18",
+      "numberLabel": "18",
+      "text": "And Joseph said unto them the third day, This do, and live; for I fear God:",
+      "metadata": {
+        "reference": "Genesis 42:18",
+        "verseKey": "kjv:genesis:42:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:42:19",
+      "numberLabel": "19",
+      "text": "If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:",
+      "metadata": {
+        "reference": "Genesis 42:19",
+        "verseKey": "kjv:genesis:42:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:42:20",
+      "numberLabel": "20",
+      "text": "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.",
+      "metadata": {
+        "reference": "Genesis 42:20",
+        "verseKey": "kjv:genesis:42:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:42:21",
+      "numberLabel": "21",
+      "text": "And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.",
+      "metadata": {
+        "reference": "Genesis 42:21",
+        "verseKey": "kjv:genesis:42:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:42:22",
+      "numberLabel": "22",
+      "text": "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.",
+      "metadata": {
+        "reference": "Genesis 42:22",
+        "verseKey": "kjv:genesis:42:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:42:23",
+      "numberLabel": "23",
+      "text": "And they knew not that Joseph understood them; for he spake unto them by an interpreter.",
+      "metadata": {
+        "reference": "Genesis 42:23",
+        "verseKey": "kjv:genesis:42:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:42:24",
+      "numberLabel": "24",
+      "text": "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.",
+      "metadata": {
+        "reference": "Genesis 42:24",
+        "verseKey": "kjv:genesis:42:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:42:25",
+      "numberLabel": "25",
+      "text": "Then Joseph commanded to fill their sacks with corn, and to restore every man’s money into his sack, and to give them provision for the way: and thus did he unto them.",
+      "metadata": {
+        "reference": "Genesis 42:25",
+        "verseKey": "kjv:genesis:42:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:42:26",
+      "numberLabel": "26",
+      "text": "And they laded their asses with the corn, and departed thence.",
+      "metadata": {
+        "reference": "Genesis 42:26",
+        "verseKey": "kjv:genesis:42:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:42:27",
+      "numberLabel": "27",
+      "text": "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack’s mouth.",
+      "metadata": {
+        "reference": "Genesis 42:27",
+        "verseKey": "kjv:genesis:42:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:42:28",
+      "numberLabel": "28",
+      "text": "And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?",
+      "metadata": {
+        "reference": "Genesis 42:28",
+        "verseKey": "kjv:genesis:42:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:42:29",
+      "numberLabel": "29",
+      "text": "And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,",
+      "metadata": {
+        "reference": "Genesis 42:29",
+        "verseKey": "kjv:genesis:42:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:42:30",
+      "numberLabel": "30",
+      "text": "The man, who is the lord of the land, spake roughly to us, and took us for spies of the country.",
+      "metadata": {
+        "reference": "Genesis 42:30",
+        "verseKey": "kjv:genesis:42:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:42:31",
+      "numberLabel": "31",
+      "text": "And we said unto him, We are true men; we are no spies:",
+      "metadata": {
+        "reference": "Genesis 42:31",
+        "verseKey": "kjv:genesis:42:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:42:32",
+      "numberLabel": "32",
+      "text": "We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan.",
+      "metadata": {
+        "reference": "Genesis 42:32",
+        "verseKey": "kjv:genesis:42:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:42:33",
+      "numberLabel": "33",
+      "text": "And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:",
+      "metadata": {
+        "reference": "Genesis 42:33",
+        "verseKey": "kjv:genesis:42:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:42:34",
+      "numberLabel": "34",
+      "text": "And bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffick in the land.",
+      "metadata": {
+        "reference": "Genesis 42:34",
+        "verseKey": "kjv:genesis:42:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:genesis:42:35",
+      "numberLabel": "35",
+      "text": "And it came to pass as they emptied their sacks, that, behold, every man’s bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid.",
+      "metadata": {
+        "reference": "Genesis 42:35",
+        "verseKey": "kjv:genesis:42:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:genesis:42:36",
+      "numberLabel": "36",
+      "text": "And Jacob their father said unto them, Me have ye bereaved of my children: Joseph is not, and Simeon is not, and ye will take Benjamin away: all these things are against me.",
+      "metadata": {
+        "reference": "Genesis 42:36",
+        "verseKey": "kjv:genesis:42:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:genesis:42:37",
+      "numberLabel": "37",
+      "text": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.",
+      "metadata": {
+        "reference": "Genesis 42:37",
+        "verseKey": "kjv:genesis:42:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:genesis:42:38",
+      "numberLabel": "38",
+      "text": "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.",
+      "metadata": {
+        "reference": "Genesis 42:38",
+        "verseKey": "kjv:genesis:42:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

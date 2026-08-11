@@ -1,0 +1,932 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-026",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 26,
+  "title": "Matthew 26",
+  "display_title": "Matthew 26",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 26,
+  "sortOrder": 40026,
+  "verseCount": 75,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:26:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,",
+      "metadata": {
+        "reference": "Matthew 26:1",
+        "verseKey": "kjv:matthew:26:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:26:2",
+      "numberLabel": "2",
+      "text": "Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified.",
+      "metadata": {
+        "reference": "Matthew 26:2",
+        "verseKey": "kjv:matthew:26:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:26:3",
+      "numberLabel": "3",
+      "text": "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,",
+      "metadata": {
+        "reference": "Matthew 26:3",
+        "verseKey": "kjv:matthew:26:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:26:4",
+      "numberLabel": "4",
+      "text": "And consulted that they might take Jesus by subtilty, and kill him.",
+      "metadata": {
+        "reference": "Matthew 26:4",
+        "verseKey": "kjv:matthew:26:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:26:5",
+      "numberLabel": "5",
+      "text": "But they said, Not on the feast day, lest there be an uproar among the people.",
+      "metadata": {
+        "reference": "Matthew 26:5",
+        "verseKey": "kjv:matthew:26:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:26:6",
+      "numberLabel": "6",
+      "text": "Now when Jesus was in Bethany, in the house of Simon the leper,",
+      "metadata": {
+        "reference": "Matthew 26:6",
+        "verseKey": "kjv:matthew:26:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:26:7",
+      "numberLabel": "7",
+      "text": "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat.",
+      "metadata": {
+        "reference": "Matthew 26:7",
+        "verseKey": "kjv:matthew:26:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:26:8",
+      "numberLabel": "8",
+      "text": "But when his disciples saw it, they had indignation, saying, To what purpose is this waste?",
+      "metadata": {
+        "reference": "Matthew 26:8",
+        "verseKey": "kjv:matthew:26:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:26:9",
+      "numberLabel": "9",
+      "text": "For this ointment might have been sold for much, and given to the poor.",
+      "metadata": {
+        "reference": "Matthew 26:9",
+        "verseKey": "kjv:matthew:26:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:26:10",
+      "numberLabel": "10",
+      "text": "When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me.",
+      "metadata": {
+        "reference": "Matthew 26:10",
+        "verseKey": "kjv:matthew:26:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:26:11",
+      "numberLabel": "11",
+      "text": "For ye have the poor always with you; but me ye have not always.",
+      "metadata": {
+        "reference": "Matthew 26:11",
+        "verseKey": "kjv:matthew:26:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:26:12",
+      "numberLabel": "12",
+      "text": "For in that she hath poured this ointment on my body, she did it for my burial.",
+      "metadata": {
+        "reference": "Matthew 26:12",
+        "verseKey": "kjv:matthew:26:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:26:13",
+      "numberLabel": "13",
+      "text": "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her.",
+      "metadata": {
+        "reference": "Matthew 26:13",
+        "verseKey": "kjv:matthew:26:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:26:14",
+      "numberLabel": "14",
+      "text": "Then one of the twelve, called Judas Iscariot, went unto the chief priests,",
+      "metadata": {
+        "reference": "Matthew 26:14",
+        "verseKey": "kjv:matthew:26:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:26:15",
+      "numberLabel": "15",
+      "text": "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.",
+      "metadata": {
+        "reference": "Matthew 26:15",
+        "verseKey": "kjv:matthew:26:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:26:16",
+      "numberLabel": "16",
+      "text": "And from that time he sought opportunity to betray him.",
+      "metadata": {
+        "reference": "Matthew 26:16",
+        "verseKey": "kjv:matthew:26:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:26:17",
+      "numberLabel": "17",
+      "text": "Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?",
+      "metadata": {
+        "reference": "Matthew 26:17",
+        "verseKey": "kjv:matthew:26:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:26:18",
+      "numberLabel": "18",
+      "text": "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.",
+      "metadata": {
+        "reference": "Matthew 26:18",
+        "verseKey": "kjv:matthew:26:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:26:19",
+      "numberLabel": "19",
+      "text": "And the disciples did as Jesus had appointed them; and they made ready the passover.",
+      "metadata": {
+        "reference": "Matthew 26:19",
+        "verseKey": "kjv:matthew:26:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:26:20",
+      "numberLabel": "20",
+      "text": "Now when the even was come, he sat down with the twelve.",
+      "metadata": {
+        "reference": "Matthew 26:20",
+        "verseKey": "kjv:matthew:26:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:26:21",
+      "numberLabel": "21",
+      "text": "And as they did eat, he said, Verily I say unto you, that one of you shall betray me.",
+      "metadata": {
+        "reference": "Matthew 26:21",
+        "verseKey": "kjv:matthew:26:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:26:22",
+      "numberLabel": "22",
+      "text": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?",
+      "metadata": {
+        "reference": "Matthew 26:22",
+        "verseKey": "kjv:matthew:26:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:26:23",
+      "numberLabel": "23",
+      "text": "And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me.",
+      "metadata": {
+        "reference": "Matthew 26:23",
+        "verseKey": "kjv:matthew:26:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:26:24",
+      "numberLabel": "24",
+      "text": "The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.",
+      "metadata": {
+        "reference": "Matthew 26:24",
+        "verseKey": "kjv:matthew:26:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:26:25",
+      "numberLabel": "25",
+      "text": "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said.",
+      "metadata": {
+        "reference": "Matthew 26:25",
+        "verseKey": "kjv:matthew:26:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:26:26",
+      "numberLabel": "26",
+      "text": "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.",
+      "metadata": {
+        "reference": "Matthew 26:26",
+        "verseKey": "kjv:matthew:26:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:26:27",
+      "numberLabel": "27",
+      "text": "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;",
+      "metadata": {
+        "reference": "Matthew 26:27",
+        "verseKey": "kjv:matthew:26:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:26:28",
+      "numberLabel": "28",
+      "text": "For this is my blood of the new testament, which is shed for many for the remission of sins.",
+      "metadata": {
+        "reference": "Matthew 26:28",
+        "verseKey": "kjv:matthew:26:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:26:29",
+      "numberLabel": "29",
+      "text": "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom.",
+      "metadata": {
+        "reference": "Matthew 26:29",
+        "verseKey": "kjv:matthew:26:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:26:30",
+      "numberLabel": "30",
+      "text": "And when they had sung an hymn, they went out into the mount of Olives.",
+      "metadata": {
+        "reference": "Matthew 26:30",
+        "verseKey": "kjv:matthew:26:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:26:31",
+      "numberLabel": "31",
+      "text": "Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.",
+      "metadata": {
+        "reference": "Matthew 26:31",
+        "verseKey": "kjv:matthew:26:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:26:32",
+      "numberLabel": "32",
+      "text": "But after I am risen again, I will go before you into Galilee.",
+      "metadata": {
+        "reference": "Matthew 26:32",
+        "verseKey": "kjv:matthew:26:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:26:33",
+      "numberLabel": "33",
+      "text": "Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended.",
+      "metadata": {
+        "reference": "Matthew 26:33",
+        "verseKey": "kjv:matthew:26:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:26:34",
+      "numberLabel": "34",
+      "text": "Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.",
+      "metadata": {
+        "reference": "Matthew 26:34",
+        "verseKey": "kjv:matthew:26:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:26:35",
+      "numberLabel": "35",
+      "text": "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.",
+      "metadata": {
+        "reference": "Matthew 26:35",
+        "verseKey": "kjv:matthew:26:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:26:36",
+      "numberLabel": "36",
+      "text": "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.",
+      "metadata": {
+        "reference": "Matthew 26:36",
+        "verseKey": "kjv:matthew:26:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:matthew:26:37",
+      "numberLabel": "37",
+      "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.",
+      "metadata": {
+        "reference": "Matthew 26:37",
+        "verseKey": "kjv:matthew:26:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:matthew:26:38",
+      "numberLabel": "38",
+      "text": "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.",
+      "metadata": {
+        "reference": "Matthew 26:38",
+        "verseKey": "kjv:matthew:26:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:matthew:26:39",
+      "numberLabel": "39",
+      "text": "And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.",
+      "metadata": {
+        "reference": "Matthew 26:39",
+        "verseKey": "kjv:matthew:26:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:matthew:26:40",
+      "numberLabel": "40",
+      "text": "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?",
+      "metadata": {
+        "reference": "Matthew 26:40",
+        "verseKey": "kjv:matthew:26:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:matthew:26:41",
+      "numberLabel": "41",
+      "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.",
+      "metadata": {
+        "reference": "Matthew 26:41",
+        "verseKey": "kjv:matthew:26:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:matthew:26:42",
+      "numberLabel": "42",
+      "text": "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.",
+      "metadata": {
+        "reference": "Matthew 26:42",
+        "verseKey": "kjv:matthew:26:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:matthew:26:43",
+      "numberLabel": "43",
+      "text": "And he came and found them asleep again: for their eyes were heavy.",
+      "metadata": {
+        "reference": "Matthew 26:43",
+        "verseKey": "kjv:matthew:26:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:matthew:26:44",
+      "numberLabel": "44",
+      "text": "And he left them, and went away again, and prayed the third time, saying the same words.",
+      "metadata": {
+        "reference": "Matthew 26:44",
+        "verseKey": "kjv:matthew:26:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:matthew:26:45",
+      "numberLabel": "45",
+      "text": "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.",
+      "metadata": {
+        "reference": "Matthew 26:45",
+        "verseKey": "kjv:matthew:26:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:matthew:26:46",
+      "numberLabel": "46",
+      "text": "Rise, let us be going: behold, he is at hand that doth betray me.",
+      "metadata": {
+        "reference": "Matthew 26:46",
+        "verseKey": "kjv:matthew:26:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:matthew:26:47",
+      "numberLabel": "47",
+      "text": "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.",
+      "metadata": {
+        "reference": "Matthew 26:47",
+        "verseKey": "kjv:matthew:26:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:matthew:26:48",
+      "numberLabel": "48",
+      "text": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.",
+      "metadata": {
+        "reference": "Matthew 26:48",
+        "verseKey": "kjv:matthew:26:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:matthew:26:49",
+      "numberLabel": "49",
+      "text": "And forthwith he came to Jesus, and said, Hail, master; and kissed him.",
+      "metadata": {
+        "reference": "Matthew 26:49",
+        "verseKey": "kjv:matthew:26:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:matthew:26:50",
+      "numberLabel": "50",
+      "text": "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.",
+      "metadata": {
+        "reference": "Matthew 26:50",
+        "verseKey": "kjv:matthew:26:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:matthew:26:51",
+      "numberLabel": "51",
+      "text": "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear.",
+      "metadata": {
+        "reference": "Matthew 26:51",
+        "verseKey": "kjv:matthew:26:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:matthew:26:52",
+      "numberLabel": "52",
+      "text": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.",
+      "metadata": {
+        "reference": "Matthew 26:52",
+        "verseKey": "kjv:matthew:26:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:matthew:26:53",
+      "numberLabel": "53",
+      "text": "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?",
+      "metadata": {
+        "reference": "Matthew 26:53",
+        "verseKey": "kjv:matthew:26:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:matthew:26:54",
+      "numberLabel": "54",
+      "text": "But how then shall the scriptures be fulfilled, that thus it must be?",
+      "metadata": {
+        "reference": "Matthew 26:54",
+        "verseKey": "kjv:matthew:26:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:matthew:26:55",
+      "numberLabel": "55",
+      "text": "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.",
+      "metadata": {
+        "reference": "Matthew 26:55",
+        "verseKey": "kjv:matthew:26:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:matthew:26:56",
+      "numberLabel": "56",
+      "text": "But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.",
+      "metadata": {
+        "reference": "Matthew 26:56",
+        "verseKey": "kjv:matthew:26:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:matthew:26:57",
+      "numberLabel": "57",
+      "text": "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled.",
+      "metadata": {
+        "reference": "Matthew 26:57",
+        "verseKey": "kjv:matthew:26:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:matthew:26:58",
+      "numberLabel": "58",
+      "text": "But Peter followed him afar off unto the high priest’s palace, and went in, and sat with the servants, to see the end.",
+      "metadata": {
+        "reference": "Matthew 26:58",
+        "verseKey": "kjv:matthew:26:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:matthew:26:59",
+      "numberLabel": "59",
+      "text": "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;",
+      "metadata": {
+        "reference": "Matthew 26:59",
+        "verseKey": "kjv:matthew:26:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:matthew:26:60",
+      "numberLabel": "60",
+      "text": "But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,",
+      "metadata": {
+        "reference": "Matthew 26:60",
+        "verseKey": "kjv:matthew:26:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:matthew:26:61",
+      "numberLabel": "61",
+      "text": "And said, This fellow said, I am able to destroy the temple of God, and to build it in three days.",
+      "metadata": {
+        "reference": "Matthew 26:61",
+        "verseKey": "kjv:matthew:26:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:matthew:26:62",
+      "numberLabel": "62",
+      "text": "And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?",
+      "metadata": {
+        "reference": "Matthew 26:62",
+        "verseKey": "kjv:matthew:26:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:matthew:26:63",
+      "numberLabel": "63",
+      "text": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God.",
+      "metadata": {
+        "reference": "Matthew 26:63",
+        "verseKey": "kjv:matthew:26:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:matthew:26:64",
+      "numberLabel": "64",
+      "text": "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.",
+      "metadata": {
+        "reference": "Matthew 26:64",
+        "verseKey": "kjv:matthew:26:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:matthew:26:65",
+      "numberLabel": "65",
+      "text": "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy.",
+      "metadata": {
+        "reference": "Matthew 26:65",
+        "verseKey": "kjv:matthew:26:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:matthew:26:66",
+      "numberLabel": "66",
+      "text": "What think ye? They answered and said, He is guilty of death.",
+      "metadata": {
+        "reference": "Matthew 26:66",
+        "verseKey": "kjv:matthew:26:66"
+      }
+    },
+    {
+      "id": "verse-067",
+      "type": "bible_verse",
+      "verse": 67,
+      "verseId": "kjv:matthew:26:67",
+      "numberLabel": "67",
+      "text": "Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,",
+      "metadata": {
+        "reference": "Matthew 26:67",
+        "verseKey": "kjv:matthew:26:67"
+      }
+    },
+    {
+      "id": "verse-068",
+      "type": "bible_verse",
+      "verse": 68,
+      "verseId": "kjv:matthew:26:68",
+      "numberLabel": "68",
+      "text": "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?",
+      "metadata": {
+        "reference": "Matthew 26:68",
+        "verseKey": "kjv:matthew:26:68"
+      }
+    },
+    {
+      "id": "verse-069",
+      "type": "bible_verse",
+      "verse": 69,
+      "verseId": "kjv:matthew:26:69",
+      "numberLabel": "69",
+      "text": "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee.",
+      "metadata": {
+        "reference": "Matthew 26:69",
+        "verseKey": "kjv:matthew:26:69"
+      }
+    },
+    {
+      "id": "verse-070",
+      "type": "bible_verse",
+      "verse": 70,
+      "verseId": "kjv:matthew:26:70",
+      "numberLabel": "70",
+      "text": "But he denied before them all, saying, I know not what thou sayest.",
+      "metadata": {
+        "reference": "Matthew 26:70",
+        "verseKey": "kjv:matthew:26:70"
+      }
+    },
+    {
+      "id": "verse-071",
+      "type": "bible_verse",
+      "verse": 71,
+      "verseId": "kjv:matthew:26:71",
+      "numberLabel": "71",
+      "text": "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth.",
+      "metadata": {
+        "reference": "Matthew 26:71",
+        "verseKey": "kjv:matthew:26:71"
+      }
+    },
+    {
+      "id": "verse-072",
+      "type": "bible_verse",
+      "verse": 72,
+      "verseId": "kjv:matthew:26:72",
+      "numberLabel": "72",
+      "text": "And again he denied with an oath, I do not know the man.",
+      "metadata": {
+        "reference": "Matthew 26:72",
+        "verseKey": "kjv:matthew:26:72"
+      }
+    },
+    {
+      "id": "verse-073",
+      "type": "bible_verse",
+      "verse": 73,
+      "verseId": "kjv:matthew:26:73",
+      "numberLabel": "73",
+      "text": "And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee.",
+      "metadata": {
+        "reference": "Matthew 26:73",
+        "verseKey": "kjv:matthew:26:73"
+      }
+    },
+    {
+      "id": "verse-074",
+      "type": "bible_verse",
+      "verse": 74,
+      "verseId": "kjv:matthew:26:74",
+      "numberLabel": "74",
+      "text": "Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew.",
+      "metadata": {
+        "reference": "Matthew 26:74",
+        "verseKey": "kjv:matthew:26:74"
+      }
+    },
+    {
+      "id": "verse-075",
+      "type": "bible_verse",
+      "verse": 75,
+      "verseId": "kjv:matthew:26:75",
+      "numberLabel": "75",
+      "text": "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.",
+      "metadata": {
+        "reference": "Matthew 26:75",
+        "verseKey": "kjv:matthew:26:75"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

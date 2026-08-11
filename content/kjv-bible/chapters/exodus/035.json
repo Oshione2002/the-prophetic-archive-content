@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-035",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 35,
+  "title": "Exodus 35",
+  "display_title": "Exodus 35",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 35,
+  "sortOrder": 2035,
+  "verseCount": 35,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:35:1",
+      "numberLabel": "1",
+      "text": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.",
+      "metadata": {
+        "reference": "Exodus 35:1",
+        "verseKey": "kjv:exodus:35:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:35:2",
+      "numberLabel": "2",
+      "text": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.",
+      "metadata": {
+        "reference": "Exodus 35:2",
+        "verseKey": "kjv:exodus:35:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:35:3",
+      "numberLabel": "3",
+      "text": "Ye shall kindle no fire throughout your habitations upon the sabbath day.",
+      "metadata": {
+        "reference": "Exodus 35:3",
+        "verseKey": "kjv:exodus:35:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:35:4",
+      "numberLabel": "4",
+      "text": "And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the LORD commanded, saying,",
+      "metadata": {
+        "reference": "Exodus 35:4",
+        "verseKey": "kjv:exodus:35:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:35:5",
+      "numberLabel": "5",
+      "text": "Take ye from among you an offering unto the LORD: whosoever is of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,",
+      "metadata": {
+        "reference": "Exodus 35:5",
+        "verseKey": "kjv:exodus:35:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:35:6",
+      "numberLabel": "6",
+      "text": "And blue, and purple, and scarlet, and fine linen, and goats’ hair,",
+      "metadata": {
+        "reference": "Exodus 35:6",
+        "verseKey": "kjv:exodus:35:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:35:7",
+      "numberLabel": "7",
+      "text": "And rams’ skins dyed red, and badgers’ skins, and shittim wood,",
+      "metadata": {
+        "reference": "Exodus 35:7",
+        "verseKey": "kjv:exodus:35:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:35:8",
+      "numberLabel": "8",
+      "text": "And oil for the light, and spices for anointing oil, and for the sweet incense,",
+      "metadata": {
+        "reference": "Exodus 35:8",
+        "verseKey": "kjv:exodus:35:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:35:9",
+      "numberLabel": "9",
+      "text": "And onyx stones, and stones to be set for the ephod, and for the breastplate.",
+      "metadata": {
+        "reference": "Exodus 35:9",
+        "verseKey": "kjv:exodus:35:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:35:10",
+      "numberLabel": "10",
+      "text": "And every wise hearted among you shall come, and make all that the LORD hath commanded;",
+      "metadata": {
+        "reference": "Exodus 35:10",
+        "verseKey": "kjv:exodus:35:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:35:11",
+      "numberLabel": "11",
+      "text": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,",
+      "metadata": {
+        "reference": "Exodus 35:11",
+        "verseKey": "kjv:exodus:35:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:35:12",
+      "numberLabel": "12",
+      "text": "The ark, and the staves thereof, with the mercy seat, and the vail of the covering,",
+      "metadata": {
+        "reference": "Exodus 35:12",
+        "verseKey": "kjv:exodus:35:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:35:13",
+      "numberLabel": "13",
+      "text": "The table, and his staves, and all his vessels, and the shewbread,",
+      "metadata": {
+        "reference": "Exodus 35:13",
+        "verseKey": "kjv:exodus:35:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:35:14",
+      "numberLabel": "14",
+      "text": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,",
+      "metadata": {
+        "reference": "Exodus 35:14",
+        "verseKey": "kjv:exodus:35:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:35:15",
+      "numberLabel": "15",
+      "text": "And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,",
+      "metadata": {
+        "reference": "Exodus 35:15",
+        "verseKey": "kjv:exodus:35:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:35:16",
+      "numberLabel": "16",
+      "text": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,",
+      "metadata": {
+        "reference": "Exodus 35:16",
+        "verseKey": "kjv:exodus:35:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:35:17",
+      "numberLabel": "17",
+      "text": "The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,",
+      "metadata": {
+        "reference": "Exodus 35:17",
+        "verseKey": "kjv:exodus:35:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:35:18",
+      "numberLabel": "18",
+      "text": "The pins of the tabernacle, and the pins of the court, and their cords,",
+      "metadata": {
+        "reference": "Exodus 35:18",
+        "verseKey": "kjv:exodus:35:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:35:19",
+      "numberLabel": "19",
+      "text": "The cloths of service, to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.",
+      "metadata": {
+        "reference": "Exodus 35:19",
+        "verseKey": "kjv:exodus:35:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:35:20",
+      "numberLabel": "20",
+      "text": "And all the congregation of the children of Israel departed from the presence of Moses.",
+      "metadata": {
+        "reference": "Exodus 35:20",
+        "verseKey": "kjv:exodus:35:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:35:21",
+      "numberLabel": "21",
+      "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD’s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.",
+      "metadata": {
+        "reference": "Exodus 35:21",
+        "verseKey": "kjv:exodus:35:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:35:22",
+      "numberLabel": "22",
+      "text": "And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the LORD.",
+      "metadata": {
+        "reference": "Exodus 35:22",
+        "verseKey": "kjv:exodus:35:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:35:23",
+      "numberLabel": "23",
+      "text": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ hair, and red skins of rams, and badgers’ skins, brought them.",
+      "metadata": {
+        "reference": "Exodus 35:23",
+        "verseKey": "kjv:exodus:35:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:35:24",
+      "numberLabel": "24",
+      "text": "Every one that did offer an offering of silver and brass brought the LORD’s offering: and every man, with whom was found shittim wood for any work of the service, brought it.",
+      "metadata": {
+        "reference": "Exodus 35:24",
+        "verseKey": "kjv:exodus:35:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:35:25",
+      "numberLabel": "25",
+      "text": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen.",
+      "metadata": {
+        "reference": "Exodus 35:25",
+        "verseKey": "kjv:exodus:35:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:35:26",
+      "numberLabel": "26",
+      "text": "And all the women whose heart stirred them up in wisdom spun goats’ hair.",
+      "metadata": {
+        "reference": "Exodus 35:26",
+        "verseKey": "kjv:exodus:35:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:35:27",
+      "numberLabel": "27",
+      "text": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;",
+      "metadata": {
+        "reference": "Exodus 35:27",
+        "verseKey": "kjv:exodus:35:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:35:28",
+      "numberLabel": "28",
+      "text": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense.",
+      "metadata": {
+        "reference": "Exodus 35:28",
+        "verseKey": "kjv:exodus:35:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:35:29",
+      "numberLabel": "29",
+      "text": "The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.",
+      "metadata": {
+        "reference": "Exodus 35:29",
+        "verseKey": "kjv:exodus:35:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:35:30",
+      "numberLabel": "30",
+      "text": "And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;",
+      "metadata": {
+        "reference": "Exodus 35:30",
+        "verseKey": "kjv:exodus:35:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:exodus:35:31",
+      "numberLabel": "31",
+      "text": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;",
+      "metadata": {
+        "reference": "Exodus 35:31",
+        "verseKey": "kjv:exodus:35:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:exodus:35:32",
+      "numberLabel": "32",
+      "text": "And to devise curious works, to work in gold, and in silver, and in brass,",
+      "metadata": {
+        "reference": "Exodus 35:32",
+        "verseKey": "kjv:exodus:35:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:exodus:35:33",
+      "numberLabel": "33",
+      "text": "And in the cutting of stones, to set them, and in carving of wood, to make any manner of cunning work.",
+      "metadata": {
+        "reference": "Exodus 35:33",
+        "verseKey": "kjv:exodus:35:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:exodus:35:34",
+      "numberLabel": "34",
+      "text": "And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.",
+      "metadata": {
+        "reference": "Exodus 35:34",
+        "verseKey": "kjv:exodus:35:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:exodus:35:35",
+      "numberLabel": "35",
+      "text": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work.",
+      "metadata": {
+        "reference": "Exodus 35:35",
+        "verseKey": "kjv:exodus:35:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

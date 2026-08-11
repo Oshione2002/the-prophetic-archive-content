@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-034",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 34,
+  "title": "Exodus 34",
+  "display_title": "Exodus 34",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 34,
+  "sortOrder": 2034,
+  "verseCount": 35,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:34:1",
+      "numberLabel": "1",
+      "text": "And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest.",
+      "metadata": {
+        "reference": "Exodus 34:1",
+        "verseKey": "kjv:exodus:34:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:34:2",
+      "numberLabel": "2",
+      "text": "And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.",
+      "metadata": {
+        "reference": "Exodus 34:2",
+        "verseKey": "kjv:exodus:34:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:34:3",
+      "numberLabel": "3",
+      "text": "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.",
+      "metadata": {
+        "reference": "Exodus 34:3",
+        "verseKey": "kjv:exodus:34:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:34:4",
+      "numberLabel": "4",
+      "text": "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.",
+      "metadata": {
+        "reference": "Exodus 34:4",
+        "verseKey": "kjv:exodus:34:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:34:5",
+      "numberLabel": "5",
+      "text": "And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.",
+      "metadata": {
+        "reference": "Exodus 34:5",
+        "verseKey": "kjv:exodus:34:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:34:6",
+      "numberLabel": "6",
+      "text": "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,",
+      "metadata": {
+        "reference": "Exodus 34:6",
+        "verseKey": "kjv:exodus:34:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:34:7",
+      "numberLabel": "7",
+      "text": "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation.",
+      "metadata": {
+        "reference": "Exodus 34:7",
+        "verseKey": "kjv:exodus:34:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:34:8",
+      "numberLabel": "8",
+      "text": "And Moses made haste, and bowed his head toward the earth, and worshipped.",
+      "metadata": {
+        "reference": "Exodus 34:8",
+        "verseKey": "kjv:exodus:34:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:34:9",
+      "numberLabel": "9",
+      "text": "And he said, If now I have found grace in thy sight, O LORD, let my LORD, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.",
+      "metadata": {
+        "reference": "Exodus 34:9",
+        "verseKey": "kjv:exodus:34:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:34:10",
+      "numberLabel": "10",
+      "text": "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the LORD: for it is a terrible thing that I will do with thee.",
+      "metadata": {
+        "reference": "Exodus 34:10",
+        "verseKey": "kjv:exodus:34:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:34:11",
+      "numberLabel": "11",
+      "text": "Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.",
+      "metadata": {
+        "reference": "Exodus 34:11",
+        "verseKey": "kjv:exodus:34:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:34:12",
+      "numberLabel": "12",
+      "text": "Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:",
+      "metadata": {
+        "reference": "Exodus 34:12",
+        "verseKey": "kjv:exodus:34:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:34:13",
+      "numberLabel": "13",
+      "text": "But ye shall destroy their altars, break their images, and cut down their groves:",
+      "metadata": {
+        "reference": "Exodus 34:13",
+        "verseKey": "kjv:exodus:34:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:34:14",
+      "numberLabel": "14",
+      "text": "For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God:",
+      "metadata": {
+        "reference": "Exodus 34:14",
+        "verseKey": "kjv:exodus:34:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:34:15",
+      "numberLabel": "15",
+      "text": "Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;",
+      "metadata": {
+        "reference": "Exodus 34:15",
+        "verseKey": "kjv:exodus:34:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:34:16",
+      "numberLabel": "16",
+      "text": "And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.",
+      "metadata": {
+        "reference": "Exodus 34:16",
+        "verseKey": "kjv:exodus:34:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:34:17",
+      "numberLabel": "17",
+      "text": "Thou shalt make thee no molten gods.",
+      "metadata": {
+        "reference": "Exodus 34:17",
+        "verseKey": "kjv:exodus:34:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:34:18",
+      "numberLabel": "18",
+      "text": "The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.",
+      "metadata": {
+        "reference": "Exodus 34:18",
+        "verseKey": "kjv:exodus:34:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:34:19",
+      "numberLabel": "19",
+      "text": "All that openeth the matrix is mine; and every firstling among thy cattle, whether ox or sheep, that is male.",
+      "metadata": {
+        "reference": "Exodus 34:19",
+        "verseKey": "kjv:exodus:34:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:34:20",
+      "numberLabel": "20",
+      "text": "But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.",
+      "metadata": {
+        "reference": "Exodus 34:20",
+        "verseKey": "kjv:exodus:34:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:34:21",
+      "numberLabel": "21",
+      "text": "Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.",
+      "metadata": {
+        "reference": "Exodus 34:21",
+        "verseKey": "kjv:exodus:34:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:34:22",
+      "numberLabel": "22",
+      "text": "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.",
+      "metadata": {
+        "reference": "Exodus 34:22",
+        "verseKey": "kjv:exodus:34:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:34:23",
+      "numberLabel": "23",
+      "text": "Thrice in the year shall all your menchildren appear before the LORD God, the God of Israel.",
+      "metadata": {
+        "reference": "Exodus 34:23",
+        "verseKey": "kjv:exodus:34:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:34:24",
+      "numberLabel": "24",
+      "text": "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year.",
+      "metadata": {
+        "reference": "Exodus 34:24",
+        "verseKey": "kjv:exodus:34:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:34:25",
+      "numberLabel": "25",
+      "text": "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.",
+      "metadata": {
+        "reference": "Exodus 34:25",
+        "verseKey": "kjv:exodus:34:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:34:26",
+      "numberLabel": "26",
+      "text": "The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.",
+      "metadata": {
+        "reference": "Exodus 34:26",
+        "verseKey": "kjv:exodus:34:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:34:27",
+      "numberLabel": "27",
+      "text": "And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.",
+      "metadata": {
+        "reference": "Exodus 34:27",
+        "verseKey": "kjv:exodus:34:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:34:28",
+      "numberLabel": "28",
+      "text": "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.",
+      "metadata": {
+        "reference": "Exodus 34:28",
+        "verseKey": "kjv:exodus:34:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:34:29",
+      "numberLabel": "29",
+      "text": "And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.",
+      "metadata": {
+        "reference": "Exodus 34:29",
+        "verseKey": "kjv:exodus:34:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:34:30",
+      "numberLabel": "30",
+      "text": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.",
+      "metadata": {
+        "reference": "Exodus 34:30",
+        "verseKey": "kjv:exodus:34:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:exodus:34:31",
+      "numberLabel": "31",
+      "text": "And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them.",
+      "metadata": {
+        "reference": "Exodus 34:31",
+        "verseKey": "kjv:exodus:34:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:exodus:34:32",
+      "numberLabel": "32",
+      "text": "And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai.",
+      "metadata": {
+        "reference": "Exodus 34:32",
+        "verseKey": "kjv:exodus:34:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:exodus:34:33",
+      "numberLabel": "33",
+      "text": "And till Moses had done speaking with them, he put a vail on his face.",
+      "metadata": {
+        "reference": "Exodus 34:33",
+        "verseKey": "kjv:exodus:34:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:exodus:34:34",
+      "numberLabel": "34",
+      "text": "But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded.",
+      "metadata": {
+        "reference": "Exodus 34:34",
+        "verseKey": "kjv:exodus:34:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:exodus:34:35",
+      "numberLabel": "35",
+      "text": "And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him.",
+      "metadata": {
+        "reference": "Exodus 34:35",
+        "verseKey": "kjv:exodus:34:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-066",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 66,
+  "title": "Psalms 66",
+  "display_title": "Psalms 66",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 66,
+  "sortOrder": 19066,
+  "verseCount": 20,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:66:1",
+      "numberLabel": "1",
+      "text": "Make a joyful noise unto God, all ye lands:",
+      "metadata": {
+        "reference": "Psalms 66:1",
+        "verseKey": "kjv:psalms:66:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:66:2",
+      "numberLabel": "2",
+      "text": "Sing forth the honour of his name: make his praise glorious.",
+      "metadata": {
+        "reference": "Psalms 66:2",
+        "verseKey": "kjv:psalms:66:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:66:3",
+      "numberLabel": "3",
+      "text": "Say unto God, How terrible art thou in thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.",
+      "metadata": {
+        "reference": "Psalms 66:3",
+        "verseKey": "kjv:psalms:66:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:66:4",
+      "numberLabel": "4",
+      "text": "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.",
+      "metadata": {
+        "reference": "Psalms 66:4",
+        "verseKey": "kjv:psalms:66:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:66:5",
+      "numberLabel": "5",
+      "text": "Come and see the works of God: he is terrible in his doing toward the children of men.",
+      "metadata": {
+        "reference": "Psalms 66:5",
+        "verseKey": "kjv:psalms:66:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:66:6",
+      "numberLabel": "6",
+      "text": "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him.",
+      "metadata": {
+        "reference": "Psalms 66:6",
+        "verseKey": "kjv:psalms:66:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:66:7",
+      "numberLabel": "7",
+      "text": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.",
+      "metadata": {
+        "reference": "Psalms 66:7",
+        "verseKey": "kjv:psalms:66:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:66:8",
+      "numberLabel": "8",
+      "text": "O bless our God, ye people, and make the voice of his praise to be heard:",
+      "metadata": {
+        "reference": "Psalms 66:8",
+        "verseKey": "kjv:psalms:66:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:66:9",
+      "numberLabel": "9",
+      "text": "Which holdeth our soul in life, and suffereth not our feet to be moved.",
+      "metadata": {
+        "reference": "Psalms 66:9",
+        "verseKey": "kjv:psalms:66:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:66:10",
+      "numberLabel": "10",
+      "text": "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
+      "metadata": {
+        "reference": "Psalms 66:10",
+        "verseKey": "kjv:psalms:66:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:66:11",
+      "numberLabel": "11",
+      "text": "Thou broughtest us into the net; thou laidst affliction upon our loins.",
+      "metadata": {
+        "reference": "Psalms 66:11",
+        "verseKey": "kjv:psalms:66:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:66:12",
+      "numberLabel": "12",
+      "text": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place.",
+      "metadata": {
+        "reference": "Psalms 66:12",
+        "verseKey": "kjv:psalms:66:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:66:13",
+      "numberLabel": "13",
+      "text": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+      "metadata": {
+        "reference": "Psalms 66:13",
+        "verseKey": "kjv:psalms:66:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:66:14",
+      "numberLabel": "14",
+      "text": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
+      "metadata": {
+        "reference": "Psalms 66:14",
+        "verseKey": "kjv:psalms:66:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:66:15",
+      "numberLabel": "15",
+      "text": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.",
+      "metadata": {
+        "reference": "Psalms 66:15",
+        "verseKey": "kjv:psalms:66:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:66:16",
+      "numberLabel": "16",
+      "text": "Come and hear, all ye that fear God, and I will declare what he hath done for my soul.",
+      "metadata": {
+        "reference": "Psalms 66:16",
+        "verseKey": "kjv:psalms:66:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:66:17",
+      "numberLabel": "17",
+      "text": "I cried unto him with my mouth, and he was extolled with my tongue.",
+      "metadata": {
+        "reference": "Psalms 66:17",
+        "verseKey": "kjv:psalms:66:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:66:18",
+      "numberLabel": "18",
+      "text": "If I regard iniquity in my heart, the Lord will not hear me:",
+      "metadata": {
+        "reference": "Psalms 66:18",
+        "verseKey": "kjv:psalms:66:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:66:19",
+      "numberLabel": "19",
+      "text": "But verily God hath heard me; he hath attended to the voice of my prayer.",
+      "metadata": {
+        "reference": "Psalms 66:19",
+        "verseKey": "kjv:psalms:66:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:66:20",
+      "numberLabel": "20",
+      "text": "Blessed be God, which hath not turned away my prayer, nor his mercy from me.",
+      "metadata": {
+        "reference": "Psalms 66:20",
+        "verseKey": "kjv:psalms:66:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

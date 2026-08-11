@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-112",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 112,
+  "title": "Psalms 112",
+  "display_title": "Psalms 112",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 112,
+  "sortOrder": 19112,
+  "verseCount": 10,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:112:1",
+      "numberLabel": "1",
+      "text": "Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments.",
+      "metadata": {
+        "reference": "Psalms 112:1",
+        "verseKey": "kjv:psalms:112:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:112:2",
+      "numberLabel": "2",
+      "text": "His seed shall be mighty upon earth: the generation of the upright shall be blessed.",
+      "metadata": {
+        "reference": "Psalms 112:2",
+        "verseKey": "kjv:psalms:112:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:112:3",
+      "numberLabel": "3",
+      "text": "Wealth and riches shall be in his house: and his righteousness endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 112:3",
+        "verseKey": "kjv:psalms:112:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:112:4",
+      "numberLabel": "4",
+      "text": "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous.",
+      "metadata": {
+        "reference": "Psalms 112:4",
+        "verseKey": "kjv:psalms:112:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:112:5",
+      "numberLabel": "5",
+      "text": "A good man sheweth favour, and lendeth: he will guide his affairs with discretion.",
+      "metadata": {
+        "reference": "Psalms 112:5",
+        "verseKey": "kjv:psalms:112:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:112:6",
+      "numberLabel": "6",
+      "text": "Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.",
+      "metadata": {
+        "reference": "Psalms 112:6",
+        "verseKey": "kjv:psalms:112:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:112:7",
+      "numberLabel": "7",
+      "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.",
+      "metadata": {
+        "reference": "Psalms 112:7",
+        "verseKey": "kjv:psalms:112:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:112:8",
+      "numberLabel": "8",
+      "text": "His heart is established, he shall not be afraid, until he see his desire upon his enemies.",
+      "metadata": {
+        "reference": "Psalms 112:8",
+        "verseKey": "kjv:psalms:112:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:112:9",
+      "numberLabel": "9",
+      "text": "He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.",
+      "metadata": {
+        "reference": "Psalms 112:9",
+        "verseKey": "kjv:psalms:112:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:112:10",
+      "numberLabel": "10",
+      "text": "The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.",
+      "metadata": {
+        "reference": "Psalms 112:10",
+        "verseKey": "kjv:psalms:112:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

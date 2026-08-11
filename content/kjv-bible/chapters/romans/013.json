@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Romans 13",
+  "display_title": "Romans 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 13,
+  "sortOrder": 45013,
+  "verseCount": 14,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:13:1",
+      "numberLabel": "1",
+      "text": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.",
+      "metadata": {
+        "reference": "Romans 13:1",
+        "verseKey": "kjv:romans:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:13:2",
+      "numberLabel": "2",
+      "text": "Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.",
+      "metadata": {
+        "reference": "Romans 13:2",
+        "verseKey": "kjv:romans:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:13:3",
+      "numberLabel": "3",
+      "text": "For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:",
+      "metadata": {
+        "reference": "Romans 13:3",
+        "verseKey": "kjv:romans:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:13:4",
+      "numberLabel": "4",
+      "text": "For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.",
+      "metadata": {
+        "reference": "Romans 13:4",
+        "verseKey": "kjv:romans:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:13:5",
+      "numberLabel": "5",
+      "text": "Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.",
+      "metadata": {
+        "reference": "Romans 13:5",
+        "verseKey": "kjv:romans:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:13:6",
+      "numberLabel": "6",
+      "text": "For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing.",
+      "metadata": {
+        "reference": "Romans 13:6",
+        "verseKey": "kjv:romans:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:13:7",
+      "numberLabel": "7",
+      "text": "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.",
+      "metadata": {
+        "reference": "Romans 13:7",
+        "verseKey": "kjv:romans:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:13:8",
+      "numberLabel": "8",
+      "text": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.",
+      "metadata": {
+        "reference": "Romans 13:8",
+        "verseKey": "kjv:romans:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:13:9",
+      "numberLabel": "9",
+      "text": "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.",
+      "metadata": {
+        "reference": "Romans 13:9",
+        "verseKey": "kjv:romans:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:13:10",
+      "numberLabel": "10",
+      "text": "Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.",
+      "metadata": {
+        "reference": "Romans 13:10",
+        "verseKey": "kjv:romans:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:13:11",
+      "numberLabel": "11",
+      "text": "And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.",
+      "metadata": {
+        "reference": "Romans 13:11",
+        "verseKey": "kjv:romans:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:13:12",
+      "numberLabel": "12",
+      "text": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.",
+      "metadata": {
+        "reference": "Romans 13:12",
+        "verseKey": "kjv:romans:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:13:13",
+      "numberLabel": "13",
+      "text": "Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.",
+      "metadata": {
+        "reference": "Romans 13:13",
+        "verseKey": "kjv:romans:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:13:14",
+      "numberLabel": "14",
+      "text": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.",
+      "metadata": {
+        "reference": "Romans 13:14",
+        "verseKey": "kjv:romans:13:14"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

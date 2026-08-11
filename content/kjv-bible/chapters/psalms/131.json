@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-131",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 131,
+  "title": "Psalms 131",
+  "display_title": "Psalms 131",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 131,
+  "sortOrder": 19131,
+  "verseCount": 3,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:131:1",
+      "numberLabel": "1",
+      "text": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+      "metadata": {
+        "reference": "Psalms 131:1",
+        "verseKey": "kjv:psalms:131:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:131:2",
+      "numberLabel": "2",
+      "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.",
+      "metadata": {
+        "reference": "Psalms 131:2",
+        "verseKey": "kjv:psalms:131:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:131:3",
+      "numberLabel": "3",
+      "text": "Let Israel hope in the LORD from henceforth and for ever.",
+      "metadata": {
+        "reference": "Psalms 131:3",
+        "verseKey": "kjv:psalms:131:3"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

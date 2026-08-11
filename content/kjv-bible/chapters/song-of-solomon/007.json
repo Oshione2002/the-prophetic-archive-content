@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-song-of-solomon-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Song of Solomon 7",
+  "display_title": "Song of Solomon 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "song-of-solomon",
+  "book": "Song of Solomon",
+  "bookName": "Song of Solomon",
+  "bookOrder": 22,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 22007,
+  "verseCount": 13,
+  "aliases": [
+    "Song",
+    "Song of Songs",
+    "SOS",
+    "Canticles"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:song-of-solomon:7:1",
+      "numberLabel": "1",
+      "text": "How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.",
+      "metadata": {
+        "reference": "Song of Solomon 7:1",
+        "verseKey": "kjv:song-of-solomon:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:song-of-solomon:7:2",
+      "numberLabel": "2",
+      "text": "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.",
+      "metadata": {
+        "reference": "Song of Solomon 7:2",
+        "verseKey": "kjv:song-of-solomon:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:song-of-solomon:7:3",
+      "numberLabel": "3",
+      "text": "Thy two breasts are like two young roes that are twins.",
+      "metadata": {
+        "reference": "Song of Solomon 7:3",
+        "verseKey": "kjv:song-of-solomon:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:song-of-solomon:7:4",
+      "numberLabel": "4",
+      "text": "Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.",
+      "metadata": {
+        "reference": "Song of Solomon 7:4",
+        "verseKey": "kjv:song-of-solomon:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:song-of-solomon:7:5",
+      "numberLabel": "5",
+      "text": "Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries.",
+      "metadata": {
+        "reference": "Song of Solomon 7:5",
+        "verseKey": "kjv:song-of-solomon:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:song-of-solomon:7:6",
+      "numberLabel": "6",
+      "text": "How fair and how pleasant art thou, O love, for delights!",
+      "metadata": {
+        "reference": "Song of Solomon 7:6",
+        "verseKey": "kjv:song-of-solomon:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:song-of-solomon:7:7",
+      "numberLabel": "7",
+      "text": "This thy stature is like to a palm tree, and thy breasts to clusters of grapes.",
+      "metadata": {
+        "reference": "Song of Solomon 7:7",
+        "verseKey": "kjv:song-of-solomon:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:song-of-solomon:7:8",
+      "numberLabel": "8",
+      "text": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
+      "metadata": {
+        "reference": "Song of Solomon 7:8",
+        "verseKey": "kjv:song-of-solomon:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:song-of-solomon:7:9",
+      "numberLabel": "9",
+      "text": "And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak.",
+      "metadata": {
+        "reference": "Song of Solomon 7:9",
+        "verseKey": "kjv:song-of-solomon:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:song-of-solomon:7:10",
+      "numberLabel": "10",
+      "text": "I am my beloved’s, and his desire is toward me.",
+      "metadata": {
+        "reference": "Song of Solomon 7:10",
+        "verseKey": "kjv:song-of-solomon:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:song-of-solomon:7:11",
+      "numberLabel": "11",
+      "text": "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
+      "metadata": {
+        "reference": "Song of Solomon 7:11",
+        "verseKey": "kjv:song-of-solomon:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:song-of-solomon:7:12",
+      "numberLabel": "12",
+      "text": "Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.",
+      "metadata": {
+        "reference": "Song of Solomon 7:12",
+        "verseKey": "kjv:song-of-solomon:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:song-of-solomon:7:13",
+      "numberLabel": "13",
+      "text": "The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.",
+      "metadata": {
+        "reference": "Song of Solomon 7:13",
+        "verseKey": "kjv:song-of-solomon:7:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "SongofSolomon.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/SongofSolomon.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

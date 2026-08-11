@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Leviticus 8",
+  "display_title": "Leviticus 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 3008,
+  "verseCount": 36,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:8:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 8:1",
+        "verseKey": "kjv:leviticus:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:8:2",
+      "numberLabel": "2",
+      "text": "Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;",
+      "metadata": {
+        "reference": "Leviticus 8:2",
+        "verseKey": "kjv:leviticus:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:8:3",
+      "numberLabel": "3",
+      "text": "And gather thou all the congregation together unto the door of the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "Leviticus 8:3",
+        "verseKey": "kjv:leviticus:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:8:4",
+      "numberLabel": "4",
+      "text": "And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "Leviticus 8:4",
+        "verseKey": "kjv:leviticus:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:8:5",
+      "numberLabel": "5",
+      "text": "And Moses said unto the congregation, This is the thing which the LORD commanded to be done.",
+      "metadata": {
+        "reference": "Leviticus 8:5",
+        "verseKey": "kjv:leviticus:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:8:6",
+      "numberLabel": "6",
+      "text": "And Moses brought Aaron and his sons, and washed them with water.",
+      "metadata": {
+        "reference": "Leviticus 8:6",
+        "verseKey": "kjv:leviticus:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:8:7",
+      "numberLabel": "7",
+      "text": "And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound it unto him therewith.",
+      "metadata": {
+        "reference": "Leviticus 8:7",
+        "verseKey": "kjv:leviticus:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:8:8",
+      "numberLabel": "8",
+      "text": "And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.",
+      "metadata": {
+        "reference": "Leviticus 8:8",
+        "verseKey": "kjv:leviticus:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:8:9",
+      "numberLabel": "9",
+      "text": "And he put the mitre upon his head; also upon the mitre, even upon his forefront, did he put the golden plate, the holy crown; as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Leviticus 8:9",
+        "verseKey": "kjv:leviticus:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:8:10",
+      "numberLabel": "10",
+      "text": "And Moses took the anointing oil, and anointed the tabernacle and all that was therein, and sanctified them.",
+      "metadata": {
+        "reference": "Leviticus 8:10",
+        "verseKey": "kjv:leviticus:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:8:11",
+      "numberLabel": "11",
+      "text": "And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.",
+      "metadata": {
+        "reference": "Leviticus 8:11",
+        "verseKey": "kjv:leviticus:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:8:12",
+      "numberLabel": "12",
+      "text": "And he poured of the anointing oil upon Aaron’s head, and anointed him, to sanctify him.",
+      "metadata": {
+        "reference": "Leviticus 8:12",
+        "verseKey": "kjv:leviticus:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:8:13",
+      "numberLabel": "13",
+      "text": "And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Leviticus 8:13",
+        "verseKey": "kjv:leviticus:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:8:14",
+      "numberLabel": "14",
+      "text": "And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.",
+      "metadata": {
+        "reference": "Leviticus 8:14",
+        "verseKey": "kjv:leviticus:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:8:15",
+      "numberLabel": "15",
+      "text": "And he slew it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.",
+      "metadata": {
+        "reference": "Leviticus 8:15",
+        "verseKey": "kjv:leviticus:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:8:16",
+      "numberLabel": "16",
+      "text": "And he took all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and Moses burned it upon the altar.",
+      "metadata": {
+        "reference": "Leviticus 8:16",
+        "verseKey": "kjv:leviticus:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:8:17",
+      "numberLabel": "17",
+      "text": "But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Leviticus 8:17",
+        "verseKey": "kjv:leviticus:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:8:18",
+      "numberLabel": "18",
+      "text": "And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.",
+      "metadata": {
+        "reference": "Leviticus 8:18",
+        "verseKey": "kjv:leviticus:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:8:19",
+      "numberLabel": "19",
+      "text": "And he killed it; and Moses sprinkled the blood upon the altar round about.",
+      "metadata": {
+        "reference": "Leviticus 8:19",
+        "verseKey": "kjv:leviticus:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:8:20",
+      "numberLabel": "20",
+      "text": "And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.",
+      "metadata": {
+        "reference": "Leviticus 8:20",
+        "verseKey": "kjv:leviticus:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:8:21",
+      "numberLabel": "21",
+      "text": "And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the LORD; as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Leviticus 8:21",
+        "verseKey": "kjv:leviticus:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:8:22",
+      "numberLabel": "22",
+      "text": "And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.",
+      "metadata": {
+        "reference": "Leviticus 8:22",
+        "verseKey": "kjv:leviticus:8:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:8:23",
+      "numberLabel": "23",
+      "text": "And he slew it; and Moses took of the blood of it, and put it upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.",
+      "metadata": {
+        "reference": "Leviticus 8:23",
+        "verseKey": "kjv:leviticus:8:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:8:24",
+      "numberLabel": "24",
+      "text": "And he brought Aaron’s sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about.",
+      "metadata": {
+        "reference": "Leviticus 8:24",
+        "verseKey": "kjv:leviticus:8:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:8:25",
+      "numberLabel": "25",
+      "text": "And he took the fat, and the rump, and all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and the right shoulder:",
+      "metadata": {
+        "reference": "Leviticus 8:25",
+        "verseKey": "kjv:leviticus:8:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:8:26",
+      "numberLabel": "26",
+      "text": "And out of the basket of unleavened bread, that was before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put them on the fat, and upon the right shoulder:",
+      "metadata": {
+        "reference": "Leviticus 8:26",
+        "verseKey": "kjv:leviticus:8:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:8:27",
+      "numberLabel": "27",
+      "text": "And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them for a wave offering before the LORD.",
+      "metadata": {
+        "reference": "Leviticus 8:27",
+        "verseKey": "kjv:leviticus:8:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:8:28",
+      "numberLabel": "28",
+      "text": "And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savour: it is an offering made by fire unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 8:28",
+        "verseKey": "kjv:leviticus:8:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:8:29",
+      "numberLabel": "29",
+      "text": "And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses’ part; as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Leviticus 8:29",
+        "verseKey": "kjv:leviticus:8:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:8:30",
+      "numberLabel": "30",
+      "text": "And Moses took of the anointing oil, and of the blood which was upon the altar, and sprinkled it upon Aaron, and upon his garments, and upon his sons, and upon his sons’ garments with him; and sanctified Aaron, and his garments, and his sons, and his sons’ garments with him.",
+      "metadata": {
+        "reference": "Leviticus 8:30",
+        "verseKey": "kjv:leviticus:8:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:8:31",
+      "numberLabel": "31",
+      "text": "And Moses said unto Aaron and to his sons, Boil the flesh at the door of the tabernacle of the congregation: and there eat it with the bread that is in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it.",
+      "metadata": {
+        "reference": "Leviticus 8:31",
+        "verseKey": "kjv:leviticus:8:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:8:32",
+      "numberLabel": "32",
+      "text": "And that which remaineth of the flesh and of the bread shall ye burn with fire.",
+      "metadata": {
+        "reference": "Leviticus 8:32",
+        "verseKey": "kjv:leviticus:8:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:8:33",
+      "numberLabel": "33",
+      "text": "And ye shall not go out of the door of the tabernacle of the congregation in seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.",
+      "metadata": {
+        "reference": "Leviticus 8:33",
+        "verseKey": "kjv:leviticus:8:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:8:34",
+      "numberLabel": "34",
+      "text": "As he hath done this day, so the LORD hath commanded to do, to make an atonement for you.",
+      "metadata": {
+        "reference": "Leviticus 8:34",
+        "verseKey": "kjv:leviticus:8:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:leviticus:8:35",
+      "numberLabel": "35",
+      "text": "Therefore shall ye abide at the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that ye die not: for so I am commanded.",
+      "metadata": {
+        "reference": "Leviticus 8:35",
+        "verseKey": "kjv:leviticus:8:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:leviticus:8:36",
+      "numberLabel": "36",
+      "text": "So Aaron and his sons did all things which the LORD commanded by the hand of Moses.",
+      "metadata": {
+        "reference": "Leviticus 8:36",
+        "verseKey": "kjv:leviticus:8:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

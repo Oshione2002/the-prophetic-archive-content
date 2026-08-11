@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Ezekiel 2",
+  "display_title": "Ezekiel 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 26002,
+  "verseCount": 10,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:2:1",
+      "numberLabel": "1",
+      "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.",
+      "metadata": {
+        "reference": "Ezekiel 2:1",
+        "verseKey": "kjv:ezekiel:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:2:2",
+      "numberLabel": "2",
+      "text": "And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me.",
+      "metadata": {
+        "reference": "Ezekiel 2:2",
+        "verseKey": "kjv:ezekiel:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:2:3",
+      "numberLabel": "3",
+      "text": "And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day.",
+      "metadata": {
+        "reference": "Ezekiel 2:3",
+        "verseKey": "kjv:ezekiel:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:2:4",
+      "numberLabel": "4",
+      "text": "For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 2:4",
+        "verseKey": "kjv:ezekiel:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:2:5",
+      "numberLabel": "5",
+      "text": "And they, whether they will hear, or whether they will forbear, (for they are a rebellious house,) yet shall know that there hath been a prophet among them.",
+      "metadata": {
+        "reference": "Ezekiel 2:5",
+        "verseKey": "kjv:ezekiel:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:2:6",
+      "numberLabel": "6",
+      "text": "And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house.",
+      "metadata": {
+        "reference": "Ezekiel 2:6",
+        "verseKey": "kjv:ezekiel:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:2:7",
+      "numberLabel": "7",
+      "text": "And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they are most rebellious.",
+      "metadata": {
+        "reference": "Ezekiel 2:7",
+        "verseKey": "kjv:ezekiel:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:2:8",
+      "numberLabel": "8",
+      "text": "But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.",
+      "metadata": {
+        "reference": "Ezekiel 2:8",
+        "verseKey": "kjv:ezekiel:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:2:9",
+      "numberLabel": "9",
+      "text": "And when I looked, behold, an hand was sent unto me; and, lo, a roll of a book was therein;",
+      "metadata": {
+        "reference": "Ezekiel 2:9",
+        "verseKey": "kjv:ezekiel:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:2:10",
+      "numberLabel": "10",
+      "text": "And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.",
+      "metadata": {
+        "reference": "Ezekiel 2:10",
+        "verseKey": "kjv:ezekiel:2:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

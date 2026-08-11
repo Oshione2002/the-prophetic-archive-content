@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-026",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 26,
+  "title": "Leviticus 26",
+  "display_title": "Leviticus 26",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 26,
+  "sortOrder": 3026,
+  "verseCount": 46,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:26:1",
+      "numberLabel": "1",
+      "text": "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 26:1",
+        "verseKey": "kjv:leviticus:26:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:26:2",
+      "numberLabel": "2",
+      "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 26:2",
+        "verseKey": "kjv:leviticus:26:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:26:3",
+      "numberLabel": "3",
+      "text": "If ye walk in my statutes, and keep my commandments, and do them;",
+      "metadata": {
+        "reference": "Leviticus 26:3",
+        "verseKey": "kjv:leviticus:26:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:26:4",
+      "numberLabel": "4",
+      "text": "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.",
+      "metadata": {
+        "reference": "Leviticus 26:4",
+        "verseKey": "kjv:leviticus:26:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:26:5",
+      "numberLabel": "5",
+      "text": "And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely.",
+      "metadata": {
+        "reference": "Leviticus 26:5",
+        "verseKey": "kjv:leviticus:26:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:26:6",
+      "numberLabel": "6",
+      "text": "And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.",
+      "metadata": {
+        "reference": "Leviticus 26:6",
+        "verseKey": "kjv:leviticus:26:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:26:7",
+      "numberLabel": "7",
+      "text": "And ye shall chase your enemies, and they shall fall before you by the sword.",
+      "metadata": {
+        "reference": "Leviticus 26:7",
+        "verseKey": "kjv:leviticus:26:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:26:8",
+      "numberLabel": "8",
+      "text": "And five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword.",
+      "metadata": {
+        "reference": "Leviticus 26:8",
+        "verseKey": "kjv:leviticus:26:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:26:9",
+      "numberLabel": "9",
+      "text": "For I will have respect unto you, and make you fruitful, and multiply you, and establish my covenant with you.",
+      "metadata": {
+        "reference": "Leviticus 26:9",
+        "verseKey": "kjv:leviticus:26:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:26:10",
+      "numberLabel": "10",
+      "text": "And ye shall eat old store, and bring forth the old because of the new.",
+      "metadata": {
+        "reference": "Leviticus 26:10",
+        "verseKey": "kjv:leviticus:26:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:26:11",
+      "numberLabel": "11",
+      "text": "And I will set my tabernacle among you: and my soul shall not abhor you.",
+      "metadata": {
+        "reference": "Leviticus 26:11",
+        "verseKey": "kjv:leviticus:26:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:26:12",
+      "numberLabel": "12",
+      "text": "And I will walk among you, and will be your God, and ye shall be my people.",
+      "metadata": {
+        "reference": "Leviticus 26:12",
+        "verseKey": "kjv:leviticus:26:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:26:13",
+      "numberLabel": "13",
+      "text": "I am the LORD your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.",
+      "metadata": {
+        "reference": "Leviticus 26:13",
+        "verseKey": "kjv:leviticus:26:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:26:14",
+      "numberLabel": "14",
+      "text": "But if ye will not hearken unto me, and will not do all these commandments;",
+      "metadata": {
+        "reference": "Leviticus 26:14",
+        "verseKey": "kjv:leviticus:26:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:26:15",
+      "numberLabel": "15",
+      "text": "And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, but that ye break my covenant:",
+      "metadata": {
+        "reference": "Leviticus 26:15",
+        "verseKey": "kjv:leviticus:26:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:26:16",
+      "numberLabel": "16",
+      "text": "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.",
+      "metadata": {
+        "reference": "Leviticus 26:16",
+        "verseKey": "kjv:leviticus:26:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:26:17",
+      "numberLabel": "17",
+      "text": "And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.",
+      "metadata": {
+        "reference": "Leviticus 26:17",
+        "verseKey": "kjv:leviticus:26:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:26:18",
+      "numberLabel": "18",
+      "text": "And if ye will not yet for all this hearken unto me, then I will punish you seven times more for your sins.",
+      "metadata": {
+        "reference": "Leviticus 26:18",
+        "verseKey": "kjv:leviticus:26:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:26:19",
+      "numberLabel": "19",
+      "text": "And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:",
+      "metadata": {
+        "reference": "Leviticus 26:19",
+        "verseKey": "kjv:leviticus:26:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:26:20",
+      "numberLabel": "20",
+      "text": "And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.",
+      "metadata": {
+        "reference": "Leviticus 26:20",
+        "verseKey": "kjv:leviticus:26:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:26:21",
+      "numberLabel": "21",
+      "text": "And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.",
+      "metadata": {
+        "reference": "Leviticus 26:21",
+        "verseKey": "kjv:leviticus:26:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:26:22",
+      "numberLabel": "22",
+      "text": "I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your high ways shall be desolate.",
+      "metadata": {
+        "reference": "Leviticus 26:22",
+        "verseKey": "kjv:leviticus:26:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:26:23",
+      "numberLabel": "23",
+      "text": "And if ye will not be reformed by me by these things, but will walk contrary unto me;",
+      "metadata": {
+        "reference": "Leviticus 26:23",
+        "verseKey": "kjv:leviticus:26:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:26:24",
+      "numberLabel": "24",
+      "text": "Then will I also walk contrary unto you, and will punish you yet seven times for your sins.",
+      "metadata": {
+        "reference": "Leviticus 26:24",
+        "verseKey": "kjv:leviticus:26:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:26:25",
+      "numberLabel": "25",
+      "text": "And I will bring a sword upon you, that shall avenge the quarrel of my covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.",
+      "metadata": {
+        "reference": "Leviticus 26:25",
+        "verseKey": "kjv:leviticus:26:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:26:26",
+      "numberLabel": "26",
+      "text": "And when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver you your bread again by weight: and ye shall eat, and not be satisfied.",
+      "metadata": {
+        "reference": "Leviticus 26:26",
+        "verseKey": "kjv:leviticus:26:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:26:27",
+      "numberLabel": "27",
+      "text": "And if ye will not for all this hearken unto me, but walk contrary unto me;",
+      "metadata": {
+        "reference": "Leviticus 26:27",
+        "verseKey": "kjv:leviticus:26:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:26:28",
+      "numberLabel": "28",
+      "text": "Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins.",
+      "metadata": {
+        "reference": "Leviticus 26:28",
+        "verseKey": "kjv:leviticus:26:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:26:29",
+      "numberLabel": "29",
+      "text": "And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat.",
+      "metadata": {
+        "reference": "Leviticus 26:29",
+        "verseKey": "kjv:leviticus:26:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:26:30",
+      "numberLabel": "30",
+      "text": "And I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you.",
+      "metadata": {
+        "reference": "Leviticus 26:30",
+        "verseKey": "kjv:leviticus:26:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:26:31",
+      "numberLabel": "31",
+      "text": "And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savour of your sweet odours.",
+      "metadata": {
+        "reference": "Leviticus 26:31",
+        "verseKey": "kjv:leviticus:26:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:26:32",
+      "numberLabel": "32",
+      "text": "And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it.",
+      "metadata": {
+        "reference": "Leviticus 26:32",
+        "verseKey": "kjv:leviticus:26:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:26:33",
+      "numberLabel": "33",
+      "text": "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.",
+      "metadata": {
+        "reference": "Leviticus 26:33",
+        "verseKey": "kjv:leviticus:26:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:26:34",
+      "numberLabel": "34",
+      "text": "Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye be in your enemies’ land; even then shall the land rest, and enjoy her sabbaths.",
+      "metadata": {
+        "reference": "Leviticus 26:34",
+        "verseKey": "kjv:leviticus:26:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:leviticus:26:35",
+      "numberLabel": "35",
+      "text": "As long as it lieth desolate it shall rest; because it did not rest in your sabbaths, when ye dwelt upon it.",
+      "metadata": {
+        "reference": "Leviticus 26:35",
+        "verseKey": "kjv:leviticus:26:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:leviticus:26:36",
+      "numberLabel": "36",
+      "text": "And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.",
+      "metadata": {
+        "reference": "Leviticus 26:36",
+        "verseKey": "kjv:leviticus:26:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:leviticus:26:37",
+      "numberLabel": "37",
+      "text": "And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.",
+      "metadata": {
+        "reference": "Leviticus 26:37",
+        "verseKey": "kjv:leviticus:26:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:leviticus:26:38",
+      "numberLabel": "38",
+      "text": "And ye shall perish among the heathen, and the land of your enemies shall eat you up.",
+      "metadata": {
+        "reference": "Leviticus 26:38",
+        "verseKey": "kjv:leviticus:26:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:leviticus:26:39",
+      "numberLabel": "39",
+      "text": "And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them.",
+      "metadata": {
+        "reference": "Leviticus 26:39",
+        "verseKey": "kjv:leviticus:26:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:leviticus:26:40",
+      "numberLabel": "40",
+      "text": "If they shall confess their iniquity, and the iniquity of their fathers, with their trespass which they trespassed against me, and that also they have walked contrary unto me;",
+      "metadata": {
+        "reference": "Leviticus 26:40",
+        "verseKey": "kjv:leviticus:26:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:leviticus:26:41",
+      "numberLabel": "41",
+      "text": "And that I also have walked contrary unto them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:",
+      "metadata": {
+        "reference": "Leviticus 26:41",
+        "verseKey": "kjv:leviticus:26:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:leviticus:26:42",
+      "numberLabel": "42",
+      "text": "Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.",
+      "metadata": {
+        "reference": "Leviticus 26:42",
+        "verseKey": "kjv:leviticus:26:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:leviticus:26:43",
+      "numberLabel": "43",
+      "text": "The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes.",
+      "metadata": {
+        "reference": "Leviticus 26:43",
+        "verseKey": "kjv:leviticus:26:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:leviticus:26:44",
+      "numberLabel": "44",
+      "text": "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the LORD their God.",
+      "metadata": {
+        "reference": "Leviticus 26:44",
+        "verseKey": "kjv:leviticus:26:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:leviticus:26:45",
+      "numberLabel": "45",
+      "text": "But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 26:45",
+        "verseKey": "kjv:leviticus:26:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:leviticus:26:46",
+      "numberLabel": "46",
+      "text": "These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.",
+      "metadata": {
+        "reference": "Leviticus 26:46",
+        "verseKey": "kjv:leviticus:26:46"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

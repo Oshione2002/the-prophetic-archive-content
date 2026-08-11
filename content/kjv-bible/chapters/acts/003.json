@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Acts 3",
+  "display_title": "Acts 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 3,
+  "sortOrder": 44003,
+  "verseCount": 26,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:3:1",
+      "numberLabel": "1",
+      "text": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.",
+      "metadata": {
+        "reference": "Acts 3:1",
+        "verseKey": "kjv:acts:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:3:2",
+      "numberLabel": "2",
+      "text": "And a certain man lame from his mother’s womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple;",
+      "metadata": {
+        "reference": "Acts 3:2",
+        "verseKey": "kjv:acts:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:3:3",
+      "numberLabel": "3",
+      "text": "Who seeing Peter and John about to go into the temple asked an alms.",
+      "metadata": {
+        "reference": "Acts 3:3",
+        "verseKey": "kjv:acts:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:3:4",
+      "numberLabel": "4",
+      "text": "And Peter, fastening his eyes upon him with John, said, Look on us.",
+      "metadata": {
+        "reference": "Acts 3:4",
+        "verseKey": "kjv:acts:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:3:5",
+      "numberLabel": "5",
+      "text": "And he gave heed unto them, expecting to receive something of them.",
+      "metadata": {
+        "reference": "Acts 3:5",
+        "verseKey": "kjv:acts:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:3:6",
+      "numberLabel": "6",
+      "text": "Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk.",
+      "metadata": {
+        "reference": "Acts 3:6",
+        "verseKey": "kjv:acts:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:3:7",
+      "numberLabel": "7",
+      "text": "And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength.",
+      "metadata": {
+        "reference": "Acts 3:7",
+        "verseKey": "kjv:acts:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:3:8",
+      "numberLabel": "8",
+      "text": "And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.",
+      "metadata": {
+        "reference": "Acts 3:8",
+        "verseKey": "kjv:acts:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:3:9",
+      "numberLabel": "9",
+      "text": "And all the people saw him walking and praising God:",
+      "metadata": {
+        "reference": "Acts 3:9",
+        "verseKey": "kjv:acts:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:3:10",
+      "numberLabel": "10",
+      "text": "And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him.",
+      "metadata": {
+        "reference": "Acts 3:10",
+        "verseKey": "kjv:acts:3:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:3:11",
+      "numberLabel": "11",
+      "text": "And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon’s, greatly wondering.",
+      "metadata": {
+        "reference": "Acts 3:11",
+        "verseKey": "kjv:acts:3:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:3:12",
+      "numberLabel": "12",
+      "text": "And when Peter saw it, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?",
+      "metadata": {
+        "reference": "Acts 3:12",
+        "verseKey": "kjv:acts:3:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:3:13",
+      "numberLabel": "13",
+      "text": "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.",
+      "metadata": {
+        "reference": "Acts 3:13",
+        "verseKey": "kjv:acts:3:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:3:14",
+      "numberLabel": "14",
+      "text": "But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;",
+      "metadata": {
+        "reference": "Acts 3:14",
+        "verseKey": "kjv:acts:3:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:3:15",
+      "numberLabel": "15",
+      "text": "And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses.",
+      "metadata": {
+        "reference": "Acts 3:15",
+        "verseKey": "kjv:acts:3:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:3:16",
+      "numberLabel": "16",
+      "text": "And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.",
+      "metadata": {
+        "reference": "Acts 3:16",
+        "verseKey": "kjv:acts:3:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:3:17",
+      "numberLabel": "17",
+      "text": "And now, brethren, I wot that through ignorance ye did it, as did also your rulers.",
+      "metadata": {
+        "reference": "Acts 3:17",
+        "verseKey": "kjv:acts:3:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:3:18",
+      "numberLabel": "18",
+      "text": "But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.",
+      "metadata": {
+        "reference": "Acts 3:18",
+        "verseKey": "kjv:acts:3:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:3:19",
+      "numberLabel": "19",
+      "text": "Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;",
+      "metadata": {
+        "reference": "Acts 3:19",
+        "verseKey": "kjv:acts:3:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:3:20",
+      "numberLabel": "20",
+      "text": "And he shall send Jesus Christ, which before was preached unto you:",
+      "metadata": {
+        "reference": "Acts 3:20",
+        "verseKey": "kjv:acts:3:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:3:21",
+      "numberLabel": "21",
+      "text": "Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.",
+      "metadata": {
+        "reference": "Acts 3:21",
+        "verseKey": "kjv:acts:3:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:3:22",
+      "numberLabel": "22",
+      "text": "For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.",
+      "metadata": {
+        "reference": "Acts 3:22",
+        "verseKey": "kjv:acts:3:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:3:23",
+      "numberLabel": "23",
+      "text": "And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.",
+      "metadata": {
+        "reference": "Acts 3:23",
+        "verseKey": "kjv:acts:3:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:3:24",
+      "numberLabel": "24",
+      "text": "Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.",
+      "metadata": {
+        "reference": "Acts 3:24",
+        "verseKey": "kjv:acts:3:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:3:25",
+      "numberLabel": "25",
+      "text": "Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.",
+      "metadata": {
+        "reference": "Acts 3:25",
+        "verseKey": "kjv:acts:3:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:3:26",
+      "numberLabel": "26",
+      "text": "Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.",
+      "metadata": {
+        "reference": "Acts 3:26",
+        "verseKey": "kjv:acts:3:26"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

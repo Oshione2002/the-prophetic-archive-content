@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-093",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 93,
+  "title": "Psalms 93",
+  "display_title": "Psalms 93",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 93,
+  "sortOrder": 19093,
+  "verseCount": 5,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:93:1",
+      "numberLabel": "1",
+      "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+      "metadata": {
+        "reference": "Psalms 93:1",
+        "verseKey": "kjv:psalms:93:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:93:2",
+      "numberLabel": "2",
+      "text": "Thy throne is established of old: thou art from everlasting.",
+      "metadata": {
+        "reference": "Psalms 93:2",
+        "verseKey": "kjv:psalms:93:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:93:3",
+      "numberLabel": "3",
+      "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.",
+      "metadata": {
+        "reference": "Psalms 93:3",
+        "verseKey": "kjv:psalms:93:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:93:4",
+      "numberLabel": "4",
+      "text": "The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
+      "metadata": {
+        "reference": "Psalms 93:4",
+        "verseKey": "kjv:psalms:93:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:93:5",
+      "numberLabel": "5",
+      "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.",
+      "metadata": {
+        "reference": "Psalms 93:5",
+        "verseKey": "kjv:psalms:93:5"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

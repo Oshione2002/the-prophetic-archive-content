@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-077",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 77,
+  "title": "Psalms 77",
+  "display_title": "Psalms 77",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 77,
+  "sortOrder": 19077,
+  "verseCount": 20,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:77:1",
+      "numberLabel": "1",
+      "text": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.",
+      "metadata": {
+        "reference": "Psalms 77:1",
+        "verseKey": "kjv:psalms:77:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:77:2",
+      "numberLabel": "2",
+      "text": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.",
+      "metadata": {
+        "reference": "Psalms 77:2",
+        "verseKey": "kjv:psalms:77:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:77:3",
+      "numberLabel": "3",
+      "text": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.",
+      "metadata": {
+        "reference": "Psalms 77:3",
+        "verseKey": "kjv:psalms:77:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:77:4",
+      "numberLabel": "4",
+      "text": "Thou holdest mine eyes waking: I am so troubled that I cannot speak.",
+      "metadata": {
+        "reference": "Psalms 77:4",
+        "verseKey": "kjv:psalms:77:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:77:5",
+      "numberLabel": "5",
+      "text": "I have considered the days of old, the years of ancient times.",
+      "metadata": {
+        "reference": "Psalms 77:5",
+        "verseKey": "kjv:psalms:77:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:77:6",
+      "numberLabel": "6",
+      "text": "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.",
+      "metadata": {
+        "reference": "Psalms 77:6",
+        "verseKey": "kjv:psalms:77:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:77:7",
+      "numberLabel": "7",
+      "text": "Will the Lord cast off for ever? and will he be favourable no more?",
+      "metadata": {
+        "reference": "Psalms 77:7",
+        "verseKey": "kjv:psalms:77:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:77:8",
+      "numberLabel": "8",
+      "text": "Is his mercy clean gone for ever? doth his promise fail for evermore?",
+      "metadata": {
+        "reference": "Psalms 77:8",
+        "verseKey": "kjv:psalms:77:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:77:9",
+      "numberLabel": "9",
+      "text": "Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.",
+      "metadata": {
+        "reference": "Psalms 77:9",
+        "verseKey": "kjv:psalms:77:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:77:10",
+      "numberLabel": "10",
+      "text": "And I said, This is my infirmity: but I will remember the years of the right hand of the most High.",
+      "metadata": {
+        "reference": "Psalms 77:10",
+        "verseKey": "kjv:psalms:77:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:77:11",
+      "numberLabel": "11",
+      "text": "I will remember the works of the LORD: surely I will remember thy wonders of old.",
+      "metadata": {
+        "reference": "Psalms 77:11",
+        "verseKey": "kjv:psalms:77:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:77:12",
+      "numberLabel": "12",
+      "text": "I will meditate also of all thy work, and talk of thy doings.",
+      "metadata": {
+        "reference": "Psalms 77:12",
+        "verseKey": "kjv:psalms:77:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:77:13",
+      "numberLabel": "13",
+      "text": "Thy way, O God, is in the sanctuary: who is so great a God as our God?",
+      "metadata": {
+        "reference": "Psalms 77:13",
+        "verseKey": "kjv:psalms:77:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:77:14",
+      "numberLabel": "14",
+      "text": "Thou art the God that doest wonders: thou hast declared thy strength among the people.",
+      "metadata": {
+        "reference": "Psalms 77:14",
+        "verseKey": "kjv:psalms:77:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:77:15",
+      "numberLabel": "15",
+      "text": "Thou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Selah.",
+      "metadata": {
+        "reference": "Psalms 77:15",
+        "verseKey": "kjv:psalms:77:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:77:16",
+      "numberLabel": "16",
+      "text": "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.",
+      "metadata": {
+        "reference": "Psalms 77:16",
+        "verseKey": "kjv:psalms:77:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:77:17",
+      "numberLabel": "17",
+      "text": "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad.",
+      "metadata": {
+        "reference": "Psalms 77:17",
+        "verseKey": "kjv:psalms:77:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:77:18",
+      "numberLabel": "18",
+      "text": "The voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook.",
+      "metadata": {
+        "reference": "Psalms 77:18",
+        "verseKey": "kjv:psalms:77:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:77:19",
+      "numberLabel": "19",
+      "text": "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known.",
+      "metadata": {
+        "reference": "Psalms 77:19",
+        "verseKey": "kjv:psalms:77:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:77:20",
+      "numberLabel": "20",
+      "text": "Thou leddest thy people like a flock by the hand of Moses and Aaron.",
+      "metadata": {
+        "reference": "Psalms 77:20",
+        "verseKey": "kjv:psalms:77:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

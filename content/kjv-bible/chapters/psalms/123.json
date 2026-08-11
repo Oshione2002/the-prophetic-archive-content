@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-123",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 123,
+  "title": "Psalms 123",
+  "display_title": "Psalms 123",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 123,
+  "sortOrder": 19123,
+  "verseCount": 4,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:123:1",
+      "numberLabel": "1",
+      "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+      "metadata": {
+        "reference": "Psalms 123:1",
+        "verseKey": "kjv:psalms:123:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:123:2",
+      "numberLabel": "2",
+      "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us.",
+      "metadata": {
+        "reference": "Psalms 123:2",
+        "verseKey": "kjv:psalms:123:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:123:3",
+      "numberLabel": "3",
+      "text": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
+      "metadata": {
+        "reference": "Psalms 123:3",
+        "verseKey": "kjv:psalms:123:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:123:4",
+      "numberLabel": "4",
+      "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.",
+      "metadata": {
+        "reference": "Psalms 123:4",
+        "verseKey": "kjv:psalms:123:4"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

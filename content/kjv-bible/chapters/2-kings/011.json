@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-kings-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "2 Kings 11",
+  "display_title": "2 Kings 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-kings",
+  "book": "2 Kings",
+  "bookName": "2 Kings",
+  "bookOrder": 12,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 12011,
+  "verseCount": 21,
+  "aliases": [
+    "2 Kgs",
+    "2Kgs",
+    "2 Ki",
+    "2Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-kings:11:1",
+      "numberLabel": "1",
+      "text": "And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.",
+      "metadata": {
+        "reference": "2 Kings 11:1",
+        "verseKey": "kjv:2-kings:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-kings:11:2",
+      "numberLabel": "2",
+      "text": "But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king’s sons which were slain; and they hid him, even him and his nurse, in the bedchamber from Athaliah, so that he was not slain.",
+      "metadata": {
+        "reference": "2 Kings 11:2",
+        "verseKey": "kjv:2-kings:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-kings:11:3",
+      "numberLabel": "3",
+      "text": "And he was with her hid in the house of the LORD six years. And Athaliah did reign over the land.",
+      "metadata": {
+        "reference": "2 Kings 11:3",
+        "verseKey": "kjv:2-kings:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-kings:11:4",
+      "numberLabel": "4",
+      "text": "And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and shewed them the king’s son.",
+      "metadata": {
+        "reference": "2 Kings 11:4",
+        "verseKey": "kjv:2-kings:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-kings:11:5",
+      "numberLabel": "5",
+      "text": "And he commanded them, saying, This is the thing that ye shall do; A third part of you that enter in on the sabbath shall even be keepers of the watch of the king’s house;",
+      "metadata": {
+        "reference": "2 Kings 11:5",
+        "verseKey": "kjv:2-kings:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-kings:11:6",
+      "numberLabel": "6",
+      "text": "And a third part shall be at the gate of Sur; and a third part at the gate behind the guard: so shall ye keep the watch of the house, that it be not broken down.",
+      "metadata": {
+        "reference": "2 Kings 11:6",
+        "verseKey": "kjv:2-kings:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-kings:11:7",
+      "numberLabel": "7",
+      "text": "And two parts of all you that go forth on the sabbath, even they shall keep the watch of the house of the LORD about the king.",
+      "metadata": {
+        "reference": "2 Kings 11:7",
+        "verseKey": "kjv:2-kings:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-kings:11:8",
+      "numberLabel": "8",
+      "text": "And ye shall compass the king round about, every man with his weapons in his hand: and he that cometh within the ranges, let him be slain: and be ye with the king as he goeth out and as he cometh in.",
+      "metadata": {
+        "reference": "2 Kings 11:8",
+        "verseKey": "kjv:2-kings:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-kings:11:9",
+      "numberLabel": "9",
+      "text": "And the captains over the hundreds did according to all things that Jehoiada the priest commanded: and they took every man his men that were to come in on the sabbath, with them that should go out on the sabbath, and came to Jehoiada the priest.",
+      "metadata": {
+        "reference": "2 Kings 11:9",
+        "verseKey": "kjv:2-kings:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-kings:11:10",
+      "numberLabel": "10",
+      "text": "And to the captains over hundreds did the priest give king David’s spears and shields, that were in the temple of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 11:10",
+        "verseKey": "kjv:2-kings:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-kings:11:11",
+      "numberLabel": "11",
+      "text": "And the guard stood, every man with his weapons in his hand, round about the king, from the right corner of the temple to the left corner of the temple, along by the altar and the temple.",
+      "metadata": {
+        "reference": "2 Kings 11:11",
+        "verseKey": "kjv:2-kings:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-kings:11:12",
+      "numberLabel": "12",
+      "text": "And he brought forth the king’s son, and put the crown upon him, and gave him the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.",
+      "metadata": {
+        "reference": "2 Kings 11:12",
+        "verseKey": "kjv:2-kings:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-kings:11:13",
+      "numberLabel": "13",
+      "text": "And when Athaliah heard the noise of the guard and of the people, she came to the people into the temple of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 11:13",
+        "verseKey": "kjv:2-kings:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-kings:11:14",
+      "numberLabel": "14",
+      "text": "And when she looked, behold, the king stood by a pillar, as the manner was, and the princes and the trumpeters by the king, and all the people of the land rejoiced, and blew with trumpets: and Athaliah rent her clothes, and cried, Treason, Treason.",
+      "metadata": {
+        "reference": "2 Kings 11:14",
+        "verseKey": "kjv:2-kings:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-kings:11:15",
+      "numberLabel": "15",
+      "text": "But Jehoiada the priest commanded the captains of the hundreds, the officers of the host, and said unto them, Have her forth without the ranges: and him that followeth her kill with the sword. For the priest had said, Let her not be slain in the house of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 11:15",
+        "verseKey": "kjv:2-kings:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-kings:11:16",
+      "numberLabel": "16",
+      "text": "And they laid hands on her; and she went by the way by the which the horses came into the king’s house: and there was she slain.",
+      "metadata": {
+        "reference": "2 Kings 11:16",
+        "verseKey": "kjv:2-kings:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-kings:11:17",
+      "numberLabel": "17",
+      "text": "And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD’s people; between the king also and the people.",
+      "metadata": {
+        "reference": "2 Kings 11:17",
+        "verseKey": "kjv:2-kings:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-kings:11:18",
+      "numberLabel": "18",
+      "text": "And all the people of the land went into the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the LORD.",
+      "metadata": {
+        "reference": "2 Kings 11:18",
+        "verseKey": "kjv:2-kings:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-kings:11:19",
+      "numberLabel": "19",
+      "text": "And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard to the king’s house. And he sat on the throne of the kings.",
+      "metadata": {
+        "reference": "2 Kings 11:19",
+        "verseKey": "kjv:2-kings:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-kings:11:20",
+      "numberLabel": "20",
+      "text": "And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword beside the king’s house.",
+      "metadata": {
+        "reference": "2 Kings 11:20",
+        "verseKey": "kjv:2-kings:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-kings:11:21",
+      "numberLabel": "21",
+      "text": "Seven years old was Jehoash when he began to reign.",
+      "metadata": {
+        "reference": "2 Kings 11:21",
+        "verseKey": "kjv:2-kings:11:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "Leviticus 18",
+  "display_title": "Leviticus 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 18,
+  "sortOrder": 3018,
+  "verseCount": 30,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:18:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 18:1",
+        "verseKey": "kjv:leviticus:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:18:2",
+      "numberLabel": "2",
+      "text": "Speak unto the children of Israel, and say unto them, I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 18:2",
+        "verseKey": "kjv:leviticus:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:18:3",
+      "numberLabel": "3",
+      "text": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.",
+      "metadata": {
+        "reference": "Leviticus 18:3",
+        "verseKey": "kjv:leviticus:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:18:4",
+      "numberLabel": "4",
+      "text": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 18:4",
+        "verseKey": "kjv:leviticus:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:18:5",
+      "numberLabel": "5",
+      "text": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 18:5",
+        "verseKey": "kjv:leviticus:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:18:6",
+      "numberLabel": "6",
+      "text": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 18:6",
+        "verseKey": "kjv:leviticus:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:18:7",
+      "numberLabel": "7",
+      "text": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.",
+      "metadata": {
+        "reference": "Leviticus 18:7",
+        "verseKey": "kjv:leviticus:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:18:8",
+      "numberLabel": "8",
+      "text": "The nakedness of thy father’s wife shalt thou not uncover: it is thy father’s nakedness.",
+      "metadata": {
+        "reference": "Leviticus 18:8",
+        "verseKey": "kjv:leviticus:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:18:9",
+      "numberLabel": "9",
+      "text": "The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, whether she be born at home, or born abroad, even their nakedness thou shalt not uncover.",
+      "metadata": {
+        "reference": "Leviticus 18:9",
+        "verseKey": "kjv:leviticus:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:18:10",
+      "numberLabel": "10",
+      "text": "The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness.",
+      "metadata": {
+        "reference": "Leviticus 18:10",
+        "verseKey": "kjv:leviticus:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:18:11",
+      "numberLabel": "11",
+      "text": "The nakedness of thy father’s wife’s daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness.",
+      "metadata": {
+        "reference": "Leviticus 18:11",
+        "verseKey": "kjv:leviticus:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:18:12",
+      "numberLabel": "12",
+      "text": "Thou shalt not uncover the nakedness of thy father’s sister: she is thy father’s near kinswoman.",
+      "metadata": {
+        "reference": "Leviticus 18:12",
+        "verseKey": "kjv:leviticus:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:18:13",
+      "numberLabel": "13",
+      "text": "Thou shalt not uncover the nakedness of thy mother’s sister: for she is thy mother’s near kinswoman.",
+      "metadata": {
+        "reference": "Leviticus 18:13",
+        "verseKey": "kjv:leviticus:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:18:14",
+      "numberLabel": "14",
+      "text": "Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she is thine aunt.",
+      "metadata": {
+        "reference": "Leviticus 18:14",
+        "verseKey": "kjv:leviticus:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:18:15",
+      "numberLabel": "15",
+      "text": "Thou shalt not uncover the nakedness of thy daughter in law: she is thy son’s wife; thou shalt not uncover her nakedness.",
+      "metadata": {
+        "reference": "Leviticus 18:15",
+        "verseKey": "kjv:leviticus:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:18:16",
+      "numberLabel": "16",
+      "text": "Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness.",
+      "metadata": {
+        "reference": "Leviticus 18:16",
+        "verseKey": "kjv:leviticus:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:18:17",
+      "numberLabel": "17",
+      "text": "Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness.",
+      "metadata": {
+        "reference": "Leviticus 18:17",
+        "verseKey": "kjv:leviticus:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:18:18",
+      "numberLabel": "18",
+      "text": "Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time.",
+      "metadata": {
+        "reference": "Leviticus 18:18",
+        "verseKey": "kjv:leviticus:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:18:19",
+      "numberLabel": "19",
+      "text": "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness.",
+      "metadata": {
+        "reference": "Leviticus 18:19",
+        "verseKey": "kjv:leviticus:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:18:20",
+      "numberLabel": "20",
+      "text": "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.",
+      "metadata": {
+        "reference": "Leviticus 18:20",
+        "verseKey": "kjv:leviticus:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:18:21",
+      "numberLabel": "21",
+      "text": "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the LORD.",
+      "metadata": {
+        "reference": "Leviticus 18:21",
+        "verseKey": "kjv:leviticus:18:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:18:22",
+      "numberLabel": "22",
+      "text": "Thou shalt not lie with mankind, as with womankind: it is abomination.",
+      "metadata": {
+        "reference": "Leviticus 18:22",
+        "verseKey": "kjv:leviticus:18:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:18:23",
+      "numberLabel": "23",
+      "text": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion.",
+      "metadata": {
+        "reference": "Leviticus 18:23",
+        "verseKey": "kjv:leviticus:18:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:18:24",
+      "numberLabel": "24",
+      "text": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:",
+      "metadata": {
+        "reference": "Leviticus 18:24",
+        "verseKey": "kjv:leviticus:18:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:18:25",
+      "numberLabel": "25",
+      "text": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.",
+      "metadata": {
+        "reference": "Leviticus 18:25",
+        "verseKey": "kjv:leviticus:18:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:18:26",
+      "numberLabel": "26",
+      "text": "Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:",
+      "metadata": {
+        "reference": "Leviticus 18:26",
+        "verseKey": "kjv:leviticus:18:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:18:27",
+      "numberLabel": "27",
+      "text": "(For all these abominations have the men of the land done, which were before you, and the land is defiled;)",
+      "metadata": {
+        "reference": "Leviticus 18:27",
+        "verseKey": "kjv:leviticus:18:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:18:28",
+      "numberLabel": "28",
+      "text": "That the land spue not you out also, when ye defile it, as it spued out the nations that were before you.",
+      "metadata": {
+        "reference": "Leviticus 18:28",
+        "verseKey": "kjv:leviticus:18:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:18:29",
+      "numberLabel": "29",
+      "text": "For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.",
+      "metadata": {
+        "reference": "Leviticus 18:29",
+        "verseKey": "kjv:leviticus:18:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:18:30",
+      "numberLabel": "30",
+      "text": "Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the LORD your God.",
+      "metadata": {
+        "reference": "Leviticus 18:30",
+        "verseKey": "kjv:leviticus:18:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

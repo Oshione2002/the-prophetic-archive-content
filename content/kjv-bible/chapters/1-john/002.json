@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-john-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "1 John 2",
+  "display_title": "1 John 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-john",
+  "book": "1 John",
+  "bookName": "1 John",
+  "bookOrder": 62,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 62002,
+  "verseCount": 29,
+  "aliases": [
+    "1 John",
+    "1John",
+    "1 Jn",
+    "1Jn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-john:2:1",
+      "numberLabel": "1",
+      "text": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+      "metadata": {
+        "reference": "1 John 2:1",
+        "verseKey": "kjv:1-john:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-john:2:2",
+      "numberLabel": "2",
+      "text": "And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.",
+      "metadata": {
+        "reference": "1 John 2:2",
+        "verseKey": "kjv:1-john:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-john:2:3",
+      "numberLabel": "3",
+      "text": "And hereby we do know that we know him, if we keep his commandments.",
+      "metadata": {
+        "reference": "1 John 2:3",
+        "verseKey": "kjv:1-john:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-john:2:4",
+      "numberLabel": "4",
+      "text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.",
+      "metadata": {
+        "reference": "1 John 2:4",
+        "verseKey": "kjv:1-john:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-john:2:5",
+      "numberLabel": "5",
+      "text": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.",
+      "metadata": {
+        "reference": "1 John 2:5",
+        "verseKey": "kjv:1-john:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-john:2:6",
+      "numberLabel": "6",
+      "text": "He that saith he abideth in him ought himself also so to walk, even as he walked.",
+      "metadata": {
+        "reference": "1 John 2:6",
+        "verseKey": "kjv:1-john:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-john:2:7",
+      "numberLabel": "7",
+      "text": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.",
+      "metadata": {
+        "reference": "1 John 2:7",
+        "verseKey": "kjv:1-john:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-john:2:8",
+      "numberLabel": "8",
+      "text": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.",
+      "metadata": {
+        "reference": "1 John 2:8",
+        "verseKey": "kjv:1-john:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-john:2:9",
+      "numberLabel": "9",
+      "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now.",
+      "metadata": {
+        "reference": "1 John 2:9",
+        "verseKey": "kjv:1-john:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-john:2:10",
+      "numberLabel": "10",
+      "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.",
+      "metadata": {
+        "reference": "1 John 2:10",
+        "verseKey": "kjv:1-john:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-john:2:11",
+      "numberLabel": "11",
+      "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.",
+      "metadata": {
+        "reference": "1 John 2:11",
+        "verseKey": "kjv:1-john:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-john:2:12",
+      "numberLabel": "12",
+      "text": "I write unto you, little children, because your sins are forgiven you for his name’s sake.",
+      "metadata": {
+        "reference": "1 John 2:12",
+        "verseKey": "kjv:1-john:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-john:2:13",
+      "numberLabel": "13",
+      "text": "I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.",
+      "metadata": {
+        "reference": "1 John 2:13",
+        "verseKey": "kjv:1-john:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-john:2:14",
+      "numberLabel": "14",
+      "text": "I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.",
+      "metadata": {
+        "reference": "1 John 2:14",
+        "verseKey": "kjv:1-john:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-john:2:15",
+      "numberLabel": "15",
+      "text": "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.",
+      "metadata": {
+        "reference": "1 John 2:15",
+        "verseKey": "kjv:1-john:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-john:2:16",
+      "numberLabel": "16",
+      "text": "For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.",
+      "metadata": {
+        "reference": "1 John 2:16",
+        "verseKey": "kjv:1-john:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-john:2:17",
+      "numberLabel": "17",
+      "text": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.",
+      "metadata": {
+        "reference": "1 John 2:17",
+        "verseKey": "kjv:1-john:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-john:2:18",
+      "numberLabel": "18",
+      "text": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.",
+      "metadata": {
+        "reference": "1 John 2:18",
+        "verseKey": "kjv:1-john:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-john:2:19",
+      "numberLabel": "19",
+      "text": "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.",
+      "metadata": {
+        "reference": "1 John 2:19",
+        "verseKey": "kjv:1-john:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-john:2:20",
+      "numberLabel": "20",
+      "text": "But ye have an unction from the Holy One, and ye know all things.",
+      "metadata": {
+        "reference": "1 John 2:20",
+        "verseKey": "kjv:1-john:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-john:2:21",
+      "numberLabel": "21",
+      "text": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.",
+      "metadata": {
+        "reference": "1 John 2:21",
+        "verseKey": "kjv:1-john:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-john:2:22",
+      "numberLabel": "22",
+      "text": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.",
+      "metadata": {
+        "reference": "1 John 2:22",
+        "verseKey": "kjv:1-john:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-john:2:23",
+      "numberLabel": "23",
+      "text": "Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also.",
+      "metadata": {
+        "reference": "1 John 2:23",
+        "verseKey": "kjv:1-john:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-john:2:24",
+      "numberLabel": "24",
+      "text": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.",
+      "metadata": {
+        "reference": "1 John 2:24",
+        "verseKey": "kjv:1-john:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-john:2:25",
+      "numberLabel": "25",
+      "text": "And this is the promise that he hath promised us, even eternal life.",
+      "metadata": {
+        "reference": "1 John 2:25",
+        "verseKey": "kjv:1-john:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-john:2:26",
+      "numberLabel": "26",
+      "text": "These things have I written unto you concerning them that seduce you.",
+      "metadata": {
+        "reference": "1 John 2:26",
+        "verseKey": "kjv:1-john:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-john:2:27",
+      "numberLabel": "27",
+      "text": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.",
+      "metadata": {
+        "reference": "1 John 2:27",
+        "verseKey": "kjv:1-john:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-john:2:28",
+      "numberLabel": "28",
+      "text": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.",
+      "metadata": {
+        "reference": "1 John 2:28",
+        "verseKey": "kjv:1-john:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-john:2:29",
+      "numberLabel": "29",
+      "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.",
+      "metadata": {
+        "reference": "1 John 2:29",
+        "verseKey": "kjv:1-john:2:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

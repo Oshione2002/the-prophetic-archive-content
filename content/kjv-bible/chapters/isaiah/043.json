@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-043",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 43,
+  "title": "Isaiah 43",
+  "display_title": "Isaiah 43",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 43,
+  "sortOrder": 23043,
+  "verseCount": 28,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:43:1",
+      "numberLabel": "1",
+      "text": "But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.",
+      "metadata": {
+        "reference": "Isaiah 43:1",
+        "verseKey": "kjv:isaiah:43:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:43:2",
+      "numberLabel": "2",
+      "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.",
+      "metadata": {
+        "reference": "Isaiah 43:2",
+        "verseKey": "kjv:isaiah:43:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:43:3",
+      "numberLabel": "3",
+      "text": "For I am the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.",
+      "metadata": {
+        "reference": "Isaiah 43:3",
+        "verseKey": "kjv:isaiah:43:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:43:4",
+      "numberLabel": "4",
+      "text": "Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.",
+      "metadata": {
+        "reference": "Isaiah 43:4",
+        "verseKey": "kjv:isaiah:43:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:43:5",
+      "numberLabel": "5",
+      "text": "Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;",
+      "metadata": {
+        "reference": "Isaiah 43:5",
+        "verseKey": "kjv:isaiah:43:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:43:6",
+      "numberLabel": "6",
+      "text": "I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;",
+      "metadata": {
+        "reference": "Isaiah 43:6",
+        "verseKey": "kjv:isaiah:43:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:43:7",
+      "numberLabel": "7",
+      "text": "Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.",
+      "metadata": {
+        "reference": "Isaiah 43:7",
+        "verseKey": "kjv:isaiah:43:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:43:8",
+      "numberLabel": "8",
+      "text": "Bring forth the blind people that have eyes, and the deaf that have ears.",
+      "metadata": {
+        "reference": "Isaiah 43:8",
+        "verseKey": "kjv:isaiah:43:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:43:9",
+      "numberLabel": "9",
+      "text": "Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.",
+      "metadata": {
+        "reference": "Isaiah 43:9",
+        "verseKey": "kjv:isaiah:43:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:43:10",
+      "numberLabel": "10",
+      "text": "Ye are my witnesses, saith the LORD, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.",
+      "metadata": {
+        "reference": "Isaiah 43:10",
+        "verseKey": "kjv:isaiah:43:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:43:11",
+      "numberLabel": "11",
+      "text": "I, even I, am the LORD; and beside me there is no saviour.",
+      "metadata": {
+        "reference": "Isaiah 43:11",
+        "verseKey": "kjv:isaiah:43:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:43:12",
+      "numberLabel": "12",
+      "text": "I have declared, and have saved, and I have shewed, when there was no strange god among you: therefore ye are my witnesses, saith the LORD, that I am God.",
+      "metadata": {
+        "reference": "Isaiah 43:12",
+        "verseKey": "kjv:isaiah:43:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:43:13",
+      "numberLabel": "13",
+      "text": "Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?",
+      "metadata": {
+        "reference": "Isaiah 43:13",
+        "verseKey": "kjv:isaiah:43:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:43:14",
+      "numberLabel": "14",
+      "text": "Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry is in the ships.",
+      "metadata": {
+        "reference": "Isaiah 43:14",
+        "verseKey": "kjv:isaiah:43:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:43:15",
+      "numberLabel": "15",
+      "text": "I am the LORD, your Holy One, the creator of Israel, your King.",
+      "metadata": {
+        "reference": "Isaiah 43:15",
+        "verseKey": "kjv:isaiah:43:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:43:16",
+      "numberLabel": "16",
+      "text": "Thus saith the LORD, which maketh a way in the sea, and a path in the mighty waters;",
+      "metadata": {
+        "reference": "Isaiah 43:16",
+        "verseKey": "kjv:isaiah:43:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:43:17",
+      "numberLabel": "17",
+      "text": "Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow.",
+      "metadata": {
+        "reference": "Isaiah 43:17",
+        "verseKey": "kjv:isaiah:43:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:43:18",
+      "numberLabel": "18",
+      "text": "Remember ye not the former things, neither consider the things of old.",
+      "metadata": {
+        "reference": "Isaiah 43:18",
+        "verseKey": "kjv:isaiah:43:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:43:19",
+      "numberLabel": "19",
+      "text": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
+      "metadata": {
+        "reference": "Isaiah 43:19",
+        "verseKey": "kjv:isaiah:43:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:43:20",
+      "numberLabel": "20",
+      "text": "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.",
+      "metadata": {
+        "reference": "Isaiah 43:20",
+        "verseKey": "kjv:isaiah:43:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:43:21",
+      "numberLabel": "21",
+      "text": "This people have I formed for myself; they shall shew forth my praise.",
+      "metadata": {
+        "reference": "Isaiah 43:21",
+        "verseKey": "kjv:isaiah:43:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:43:22",
+      "numberLabel": "22",
+      "text": "But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.",
+      "metadata": {
+        "reference": "Isaiah 43:22",
+        "verseKey": "kjv:isaiah:43:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:isaiah:43:23",
+      "numberLabel": "23",
+      "text": "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.",
+      "metadata": {
+        "reference": "Isaiah 43:23",
+        "verseKey": "kjv:isaiah:43:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:isaiah:43:24",
+      "numberLabel": "24",
+      "text": "Thou hast bought me no sweet cane with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities.",
+      "metadata": {
+        "reference": "Isaiah 43:24",
+        "verseKey": "kjv:isaiah:43:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:isaiah:43:25",
+      "numberLabel": "25",
+      "text": "I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.",
+      "metadata": {
+        "reference": "Isaiah 43:25",
+        "verseKey": "kjv:isaiah:43:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:isaiah:43:26",
+      "numberLabel": "26",
+      "text": "Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.",
+      "metadata": {
+        "reference": "Isaiah 43:26",
+        "verseKey": "kjv:isaiah:43:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:isaiah:43:27",
+      "numberLabel": "27",
+      "text": "Thy first father hath sinned, and thy teachers have transgressed against me.",
+      "metadata": {
+        "reference": "Isaiah 43:27",
+        "verseKey": "kjv:isaiah:43:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:isaiah:43:28",
+      "numberLabel": "28",
+      "text": "Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.",
+      "metadata": {
+        "reference": "Isaiah 43:28",
+        "verseKey": "kjv:isaiah:43:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

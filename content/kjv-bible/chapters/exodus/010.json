@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Exodus 10",
+  "display_title": "Exodus 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 2010,
+  "verseCount": 29,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:10:1",
+      "numberLabel": "1",
+      "text": "And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:",
+      "metadata": {
+        "reference": "Exodus 10:1",
+        "verseKey": "kjv:exodus:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:10:2",
+      "numberLabel": "2",
+      "text": "And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD.",
+      "metadata": {
+        "reference": "Exodus 10:2",
+        "verseKey": "kjv:exodus:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:10:3",
+      "numberLabel": "3",
+      "text": "And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me.",
+      "metadata": {
+        "reference": "Exodus 10:3",
+        "verseKey": "kjv:exodus:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:10:4",
+      "numberLabel": "4",
+      "text": "Else, if thou refuse to let my people go, behold, to morrow will I bring the locusts into thy coast:",
+      "metadata": {
+        "reference": "Exodus 10:4",
+        "verseKey": "kjv:exodus:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:10:5",
+      "numberLabel": "5",
+      "text": "And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:",
+      "metadata": {
+        "reference": "Exodus 10:5",
+        "verseKey": "kjv:exodus:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:10:6",
+      "numberLabel": "6",
+      "text": "And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh.",
+      "metadata": {
+        "reference": "Exodus 10:6",
+        "verseKey": "kjv:exodus:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:10:7",
+      "numberLabel": "7",
+      "text": "And Pharaoh’s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed?",
+      "metadata": {
+        "reference": "Exodus 10:7",
+        "verseKey": "kjv:exodus:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:10:8",
+      "numberLabel": "8",
+      "text": "And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: but who are they that shall go?",
+      "metadata": {
+        "reference": "Exodus 10:8",
+        "verseKey": "kjv:exodus:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:10:9",
+      "numberLabel": "9",
+      "text": "And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto the LORD.",
+      "metadata": {
+        "reference": "Exodus 10:9",
+        "verseKey": "kjv:exodus:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:10:10",
+      "numberLabel": "10",
+      "text": "And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look to it; for evil is before you.",
+      "metadata": {
+        "reference": "Exodus 10:10",
+        "verseKey": "kjv:exodus:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:10:11",
+      "numberLabel": "11",
+      "text": "Not so: go now ye that are men, and serve the LORD; for that ye did desire. And they were driven out from Pharaoh’s presence.",
+      "metadata": {
+        "reference": "Exodus 10:11",
+        "verseKey": "kjv:exodus:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:10:12",
+      "numberLabel": "12",
+      "text": "And the LORD said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, even all that the hail hath left.",
+      "metadata": {
+        "reference": "Exodus 10:12",
+        "verseKey": "kjv:exodus:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:10:13",
+      "numberLabel": "13",
+      "text": "And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all that night; and when it was morning, the east wind brought the locusts.",
+      "metadata": {
+        "reference": "Exodus 10:13",
+        "verseKey": "kjv:exodus:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:10:14",
+      "numberLabel": "14",
+      "text": "And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous were they; before them there were no such locusts as they, neither after them shall be such.",
+      "metadata": {
+        "reference": "Exodus 10:14",
+        "verseKey": "kjv:exodus:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:10:15",
+      "numberLabel": "15",
+      "text": "For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing in the trees, or in the herbs of the field, through all the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 10:15",
+        "verseKey": "kjv:exodus:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:10:16",
+      "numberLabel": "16",
+      "text": "Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you.",
+      "metadata": {
+        "reference": "Exodus 10:16",
+        "verseKey": "kjv:exodus:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:10:17",
+      "numberLabel": "17",
+      "text": "Now therefore forgive, I pray thee, my sin only this once, and intreat the LORD your God, that he may take away from me this death only.",
+      "metadata": {
+        "reference": "Exodus 10:17",
+        "verseKey": "kjv:exodus:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:10:18",
+      "numberLabel": "18",
+      "text": "And he went out from Pharaoh, and intreated the LORD.",
+      "metadata": {
+        "reference": "Exodus 10:18",
+        "verseKey": "kjv:exodus:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:10:19",
+      "numberLabel": "19",
+      "text": "And the LORD turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.",
+      "metadata": {
+        "reference": "Exodus 10:19",
+        "verseKey": "kjv:exodus:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:10:20",
+      "numberLabel": "20",
+      "text": "But the LORD hardened Pharaoh’s heart, so that he would not let the children of Israel go.",
+      "metadata": {
+        "reference": "Exodus 10:20",
+        "verseKey": "kjv:exodus:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:10:21",
+      "numberLabel": "21",
+      "text": "And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.",
+      "metadata": {
+        "reference": "Exodus 10:21",
+        "verseKey": "kjv:exodus:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:10:22",
+      "numberLabel": "22",
+      "text": "And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:",
+      "metadata": {
+        "reference": "Exodus 10:22",
+        "verseKey": "kjv:exodus:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:10:23",
+      "numberLabel": "23",
+      "text": "They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.",
+      "metadata": {
+        "reference": "Exodus 10:23",
+        "verseKey": "kjv:exodus:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:10:24",
+      "numberLabel": "24",
+      "text": "And Pharaoh called unto Moses, and said, Go ye, serve the LORD; only let your flocks and your herds be stayed: let your little ones also go with you.",
+      "metadata": {
+        "reference": "Exodus 10:24",
+        "verseKey": "kjv:exodus:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:10:25",
+      "numberLabel": "25",
+      "text": "And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God.",
+      "metadata": {
+        "reference": "Exodus 10:25",
+        "verseKey": "kjv:exodus:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:10:26",
+      "numberLabel": "26",
+      "text": "Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither.",
+      "metadata": {
+        "reference": "Exodus 10:26",
+        "verseKey": "kjv:exodus:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:10:27",
+      "numberLabel": "27",
+      "text": "But the LORD hardened Pharaoh’s heart, and he would not let them go.",
+      "metadata": {
+        "reference": "Exodus 10:27",
+        "verseKey": "kjv:exodus:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:10:28",
+      "numberLabel": "28",
+      "text": "And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in that day thou seest my face thou shalt die.",
+      "metadata": {
+        "reference": "Exodus 10:28",
+        "verseKey": "kjv:exodus:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:10:29",
+      "numberLabel": "29",
+      "text": "And Moses said, Thou hast spoken well, I will see thy face again no more.",
+      "metadata": {
+        "reference": "Exodus 10:29",
+        "verseKey": "kjv:exodus:10:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

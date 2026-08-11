@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ecclesiastes-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Ecclesiastes 4",
+  "display_title": "Ecclesiastes 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ecclesiastes",
+  "book": "Ecclesiastes",
+  "bookName": "Ecclesiastes",
+  "bookOrder": 21,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 21004,
+  "verseCount": 16,
+  "aliases": [
+    "Eccl",
+    "Ecc",
+    "Qoheleth"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ecclesiastes:4:1",
+      "numberLabel": "1",
+      "text": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:1",
+        "verseKey": "kjv:ecclesiastes:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ecclesiastes:4:2",
+      "numberLabel": "2",
+      "text": "Wherefore I praised the dead which are already dead more than the living which are yet alive.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:2",
+        "verseKey": "kjv:ecclesiastes:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ecclesiastes:4:3",
+      "numberLabel": "3",
+      "text": "Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:3",
+        "verseKey": "kjv:ecclesiastes:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ecclesiastes:4:4",
+      "numberLabel": "4",
+      "text": "Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:4",
+        "verseKey": "kjv:ecclesiastes:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ecclesiastes:4:5",
+      "numberLabel": "5",
+      "text": "The fool foldeth his hands together, and eateth his own flesh.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:5",
+        "verseKey": "kjv:ecclesiastes:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ecclesiastes:4:6",
+      "numberLabel": "6",
+      "text": "Better is an handful with quietness, than both the hands full with travail and vexation of spirit.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:6",
+        "verseKey": "kjv:ecclesiastes:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ecclesiastes:4:7",
+      "numberLabel": "7",
+      "text": "Then I returned, and I saw vanity under the sun.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:7",
+        "verseKey": "kjv:ecclesiastes:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ecclesiastes:4:8",
+      "numberLabel": "8",
+      "text": "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:8",
+        "verseKey": "kjv:ecclesiastes:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ecclesiastes:4:9",
+      "numberLabel": "9",
+      "text": "Two are better than one; because they have a good reward for their labour.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:9",
+        "verseKey": "kjv:ecclesiastes:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ecclesiastes:4:10",
+      "numberLabel": "10",
+      "text": "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:10",
+        "verseKey": "kjv:ecclesiastes:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ecclesiastes:4:11",
+      "numberLabel": "11",
+      "text": "Again, if two lie together, then they have heat: but how can one be warm alone?",
+      "metadata": {
+        "reference": "Ecclesiastes 4:11",
+        "verseKey": "kjv:ecclesiastes:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ecclesiastes:4:12",
+      "numberLabel": "12",
+      "text": "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:12",
+        "verseKey": "kjv:ecclesiastes:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ecclesiastes:4:13",
+      "numberLabel": "13",
+      "text": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:13",
+        "verseKey": "kjv:ecclesiastes:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ecclesiastes:4:14",
+      "numberLabel": "14",
+      "text": "For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:14",
+        "verseKey": "kjv:ecclesiastes:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ecclesiastes:4:15",
+      "numberLabel": "15",
+      "text": "I considered all the living which walk under the sun, with the second child that shall stand up in his stead.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:15",
+        "verseKey": "kjv:ecclesiastes:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ecclesiastes:4:16",
+      "numberLabel": "16",
+      "text": "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.",
+      "metadata": {
+        "reference": "Ecclesiastes 4:16",
+        "verseKey": "kjv:ecclesiastes:4:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ecclesiastes.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ecclesiastes.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

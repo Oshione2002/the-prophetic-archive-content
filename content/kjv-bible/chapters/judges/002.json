@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-judges-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Judges 2",
+  "display_title": "Judges 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "judges",
+  "book": "Judges",
+  "bookName": "Judges",
+  "bookOrder": 7,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 7002,
+  "verseCount": 23,
+  "aliases": [
+    "Judg",
+    "Jdg",
+    "Jg"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:judges:2:1",
+      "numberLabel": "1",
+      "text": "And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.",
+      "metadata": {
+        "reference": "Judges 2:1",
+        "verseKey": "kjv:judges:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:judges:2:2",
+      "numberLabel": "2",
+      "text": "And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?",
+      "metadata": {
+        "reference": "Judges 2:2",
+        "verseKey": "kjv:judges:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:judges:2:3",
+      "numberLabel": "3",
+      "text": "Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you.",
+      "metadata": {
+        "reference": "Judges 2:3",
+        "verseKey": "kjv:judges:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:judges:2:4",
+      "numberLabel": "4",
+      "text": "And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.",
+      "metadata": {
+        "reference": "Judges 2:4",
+        "verseKey": "kjv:judges:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:judges:2:5",
+      "numberLabel": "5",
+      "text": "And they called the name of that place Bochim: and they sacrificed there unto the LORD.",
+      "metadata": {
+        "reference": "Judges 2:5",
+        "verseKey": "kjv:judges:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:judges:2:6",
+      "numberLabel": "6",
+      "text": "And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.",
+      "metadata": {
+        "reference": "Judges 2:6",
+        "verseKey": "kjv:judges:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:judges:2:7",
+      "numberLabel": "7",
+      "text": "And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel.",
+      "metadata": {
+        "reference": "Judges 2:7",
+        "verseKey": "kjv:judges:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:judges:2:8",
+      "numberLabel": "8",
+      "text": "And Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old.",
+      "metadata": {
+        "reference": "Judges 2:8",
+        "verseKey": "kjv:judges:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:judges:2:9",
+      "numberLabel": "9",
+      "text": "And they buried him in the border of his inheritance in Timnathheres, in the mount of Ephraim, on the north side of the hill Gaash.",
+      "metadata": {
+        "reference": "Judges 2:9",
+        "verseKey": "kjv:judges:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:judges:2:10",
+      "numberLabel": "10",
+      "text": "And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the LORD, nor yet the works which he had done for Israel.",
+      "metadata": {
+        "reference": "Judges 2:10",
+        "verseKey": "kjv:judges:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:judges:2:11",
+      "numberLabel": "11",
+      "text": "And the children of Israel did evil in the sight of the LORD, and served Baalim:",
+      "metadata": {
+        "reference": "Judges 2:11",
+        "verseKey": "kjv:judges:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:judges:2:12",
+      "numberLabel": "12",
+      "text": "And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselves unto them, and provoked the LORD to anger.",
+      "metadata": {
+        "reference": "Judges 2:12",
+        "verseKey": "kjv:judges:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:judges:2:13",
+      "numberLabel": "13",
+      "text": "And they forsook the LORD, and served Baal and Ashtaroth.",
+      "metadata": {
+        "reference": "Judges 2:13",
+        "verseKey": "kjv:judges:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:judges:2:14",
+      "numberLabel": "14",
+      "text": "And the anger of the LORD was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.",
+      "metadata": {
+        "reference": "Judges 2:14",
+        "verseKey": "kjv:judges:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:judges:2:15",
+      "numberLabel": "15",
+      "text": "Whithersoever they went out, the hand of the LORD was against them for evil, as the LORD had said, and as the LORD had sworn unto them: and they were greatly distressed.",
+      "metadata": {
+        "reference": "Judges 2:15",
+        "verseKey": "kjv:judges:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:judges:2:16",
+      "numberLabel": "16",
+      "text": "Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.",
+      "metadata": {
+        "reference": "Judges 2:16",
+        "verseKey": "kjv:judges:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:judges:2:17",
+      "numberLabel": "17",
+      "text": "And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; but they did not so.",
+      "metadata": {
+        "reference": "Judges 2:17",
+        "verseKey": "kjv:judges:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:judges:2:18",
+      "numberLabel": "18",
+      "text": "And when the LORD raised them up judges, then the LORD was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented the LORD because of their groanings by reason of them that oppressed them and vexed them.",
+      "metadata": {
+        "reference": "Judges 2:18",
+        "verseKey": "kjv:judges:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:judges:2:19",
+      "numberLabel": "19",
+      "text": "And it came to pass, when the judge was dead, that they returned, and corrupted themselves more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way.",
+      "metadata": {
+        "reference": "Judges 2:19",
+        "verseKey": "kjv:judges:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:judges:2:20",
+      "numberLabel": "20",
+      "text": "And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;",
+      "metadata": {
+        "reference": "Judges 2:20",
+        "verseKey": "kjv:judges:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:judges:2:21",
+      "numberLabel": "21",
+      "text": "I also will not henceforth drive out any from before them of the nations which Joshua left when he died:",
+      "metadata": {
+        "reference": "Judges 2:21",
+        "verseKey": "kjv:judges:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:judges:2:22",
+      "numberLabel": "22",
+      "text": "That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep it, or not.",
+      "metadata": {
+        "reference": "Judges 2:22",
+        "verseKey": "kjv:judges:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:judges:2:23",
+      "numberLabel": "23",
+      "text": "Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.",
+      "metadata": {
+        "reference": "Judges 2:23",
+        "verseKey": "kjv:judges:2:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Judges.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Judges.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

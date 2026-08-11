@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-055",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 55,
+  "title": "Isaiah 55",
+  "display_title": "Isaiah 55",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 55,
+  "sortOrder": 23055,
+  "verseCount": 13,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:55:1",
+      "numberLabel": "1",
+      "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+      "metadata": {
+        "reference": "Isaiah 55:1",
+        "verseKey": "kjv:isaiah:55:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:55:2",
+      "numberLabel": "2",
+      "text": "Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.",
+      "metadata": {
+        "reference": "Isaiah 55:2",
+        "verseKey": "kjv:isaiah:55:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:55:3",
+      "numberLabel": "3",
+      "text": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David.",
+      "metadata": {
+        "reference": "Isaiah 55:3",
+        "verseKey": "kjv:isaiah:55:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:55:4",
+      "numberLabel": "4",
+      "text": "Behold, I have given him for a witness to the people, a leader and commander to the people.",
+      "metadata": {
+        "reference": "Isaiah 55:4",
+        "verseKey": "kjv:isaiah:55:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:55:5",
+      "numberLabel": "5",
+      "text": "Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee.",
+      "metadata": {
+        "reference": "Isaiah 55:5",
+        "verseKey": "kjv:isaiah:55:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:55:6",
+      "numberLabel": "6",
+      "text": "Seek ye the LORD while he may be found, call ye upon him while he is near:",
+      "metadata": {
+        "reference": "Isaiah 55:6",
+        "verseKey": "kjv:isaiah:55:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:55:7",
+      "numberLabel": "7",
+      "text": "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+      "metadata": {
+        "reference": "Isaiah 55:7",
+        "verseKey": "kjv:isaiah:55:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:55:8",
+      "numberLabel": "8",
+      "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.",
+      "metadata": {
+        "reference": "Isaiah 55:8",
+        "verseKey": "kjv:isaiah:55:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:55:9",
+      "numberLabel": "9",
+      "text": "For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+      "metadata": {
+        "reference": "Isaiah 55:9",
+        "verseKey": "kjv:isaiah:55:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:55:10",
+      "numberLabel": "10",
+      "text": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:",
+      "metadata": {
+        "reference": "Isaiah 55:10",
+        "verseKey": "kjv:isaiah:55:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:55:11",
+      "numberLabel": "11",
+      "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.",
+      "metadata": {
+        "reference": "Isaiah 55:11",
+        "verseKey": "kjv:isaiah:55:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:55:12",
+      "numberLabel": "12",
+      "text": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.",
+      "metadata": {
+        "reference": "Isaiah 55:12",
+        "verseKey": "kjv:isaiah:55:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:55:13",
+      "numberLabel": "13",
+      "text": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off.",
+      "metadata": {
+        "reference": "Isaiah 55:13",
+        "verseKey": "kjv:isaiah:55:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

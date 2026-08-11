@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Job 5",
+  "display_title": "Job 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 18005,
+  "verseCount": 27,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:5:1",
+      "numberLabel": "1",
+      "text": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?",
+      "metadata": {
+        "reference": "Job 5:1",
+        "verseKey": "kjv:job:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:5:2",
+      "numberLabel": "2",
+      "text": "For wrath killeth the foolish man, and envy slayeth the silly one.",
+      "metadata": {
+        "reference": "Job 5:2",
+        "verseKey": "kjv:job:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:5:3",
+      "numberLabel": "3",
+      "text": "I have seen the foolish taking root: but suddenly I cursed his habitation.",
+      "metadata": {
+        "reference": "Job 5:3",
+        "verseKey": "kjv:job:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:5:4",
+      "numberLabel": "4",
+      "text": "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.",
+      "metadata": {
+        "reference": "Job 5:4",
+        "verseKey": "kjv:job:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:5:5",
+      "numberLabel": "5",
+      "text": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.",
+      "metadata": {
+        "reference": "Job 5:5",
+        "verseKey": "kjv:job:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:5:6",
+      "numberLabel": "6",
+      "text": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;",
+      "metadata": {
+        "reference": "Job 5:6",
+        "verseKey": "kjv:job:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:5:7",
+      "numberLabel": "7",
+      "text": "Yet man is born unto trouble, as the sparks fly upward.",
+      "metadata": {
+        "reference": "Job 5:7",
+        "verseKey": "kjv:job:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:5:8",
+      "numberLabel": "8",
+      "text": "I would seek unto God, and unto God would I commit my cause:",
+      "metadata": {
+        "reference": "Job 5:8",
+        "verseKey": "kjv:job:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:5:9",
+      "numberLabel": "9",
+      "text": "Which doeth great things and unsearchable; marvellous things without number:",
+      "metadata": {
+        "reference": "Job 5:9",
+        "verseKey": "kjv:job:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:5:10",
+      "numberLabel": "10",
+      "text": "Who giveth rain upon the earth, and sendeth waters upon the fields:",
+      "metadata": {
+        "reference": "Job 5:10",
+        "verseKey": "kjv:job:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:5:11",
+      "numberLabel": "11",
+      "text": "To set up on high those that be low; that those which mourn may be exalted to safety.",
+      "metadata": {
+        "reference": "Job 5:11",
+        "verseKey": "kjv:job:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:5:12",
+      "numberLabel": "12",
+      "text": "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.",
+      "metadata": {
+        "reference": "Job 5:12",
+        "verseKey": "kjv:job:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:5:13",
+      "numberLabel": "13",
+      "text": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.",
+      "metadata": {
+        "reference": "Job 5:13",
+        "verseKey": "kjv:job:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:5:14",
+      "numberLabel": "14",
+      "text": "They meet with darkness in the day time, and grope in the noonday as in the night.",
+      "metadata": {
+        "reference": "Job 5:14",
+        "verseKey": "kjv:job:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:5:15",
+      "numberLabel": "15",
+      "text": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.",
+      "metadata": {
+        "reference": "Job 5:15",
+        "verseKey": "kjv:job:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:5:16",
+      "numberLabel": "16",
+      "text": "So the poor hath hope, and iniquity stoppeth her mouth.",
+      "metadata": {
+        "reference": "Job 5:16",
+        "verseKey": "kjv:job:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:5:17",
+      "numberLabel": "17",
+      "text": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:",
+      "metadata": {
+        "reference": "Job 5:17",
+        "verseKey": "kjv:job:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:5:18",
+      "numberLabel": "18",
+      "text": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole.",
+      "metadata": {
+        "reference": "Job 5:18",
+        "verseKey": "kjv:job:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:5:19",
+      "numberLabel": "19",
+      "text": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.",
+      "metadata": {
+        "reference": "Job 5:19",
+        "verseKey": "kjv:job:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:5:20",
+      "numberLabel": "20",
+      "text": "In famine he shall redeem thee from death: and in war from the power of the sword.",
+      "metadata": {
+        "reference": "Job 5:20",
+        "verseKey": "kjv:job:5:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:5:21",
+      "numberLabel": "21",
+      "text": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
+      "metadata": {
+        "reference": "Job 5:21",
+        "verseKey": "kjv:job:5:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:5:22",
+      "numberLabel": "22",
+      "text": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
+      "metadata": {
+        "reference": "Job 5:22",
+        "verseKey": "kjv:job:5:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:5:23",
+      "numberLabel": "23",
+      "text": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.",
+      "metadata": {
+        "reference": "Job 5:23",
+        "verseKey": "kjv:job:5:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:5:24",
+      "numberLabel": "24",
+      "text": "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.",
+      "metadata": {
+        "reference": "Job 5:24",
+        "verseKey": "kjv:job:5:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:5:25",
+      "numberLabel": "25",
+      "text": "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.",
+      "metadata": {
+        "reference": "Job 5:25",
+        "verseKey": "kjv:job:5:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:5:26",
+      "numberLabel": "26",
+      "text": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.",
+      "metadata": {
+        "reference": "Job 5:26",
+        "verseKey": "kjv:job:5:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:5:27",
+      "numberLabel": "27",
+      "text": "Lo this, we have searched it, so it is; hear it, and know thou it for thy good.",
+      "metadata": {
+        "reference": "Job 5:27",
+        "verseKey": "kjv:job:5:27"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

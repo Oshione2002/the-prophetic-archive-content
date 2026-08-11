@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-titus-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Titus 1",
+  "display_title": "Titus 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "titus",
+  "book": "Titus",
+  "bookName": "Titus",
+  "bookOrder": 56,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 56001,
+  "verseCount": 16,
+  "aliases": [
+    "Titus",
+    "Tit"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:titus:1:1",
+      "numberLabel": "1",
+      "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;",
+      "metadata": {
+        "reference": "Titus 1:1",
+        "verseKey": "kjv:titus:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:titus:1:2",
+      "numberLabel": "2",
+      "text": "In hope of eternal life, which God, that cannot lie, promised before the world began;",
+      "metadata": {
+        "reference": "Titus 1:2",
+        "verseKey": "kjv:titus:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:titus:1:3",
+      "numberLabel": "3",
+      "text": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;",
+      "metadata": {
+        "reference": "Titus 1:3",
+        "verseKey": "kjv:titus:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:titus:1:4",
+      "numberLabel": "4",
+      "text": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.",
+      "metadata": {
+        "reference": "Titus 1:4",
+        "verseKey": "kjv:titus:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:titus:1:5",
+      "numberLabel": "5",
+      "text": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+      "metadata": {
+        "reference": "Titus 1:5",
+        "verseKey": "kjv:titus:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:titus:1:6",
+      "numberLabel": "6",
+      "text": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
+      "metadata": {
+        "reference": "Titus 1:6",
+        "verseKey": "kjv:titus:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:titus:1:7",
+      "numberLabel": "7",
+      "text": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
+      "metadata": {
+        "reference": "Titus 1:7",
+        "verseKey": "kjv:titus:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:titus:1:8",
+      "numberLabel": "8",
+      "text": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
+      "metadata": {
+        "reference": "Titus 1:8",
+        "verseKey": "kjv:titus:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:titus:1:9",
+      "numberLabel": "9",
+      "text": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
+      "metadata": {
+        "reference": "Titus 1:9",
+        "verseKey": "kjv:titus:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:titus:1:10",
+      "numberLabel": "10",
+      "text": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
+      "metadata": {
+        "reference": "Titus 1:10",
+        "verseKey": "kjv:titus:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:titus:1:11",
+      "numberLabel": "11",
+      "text": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.",
+      "metadata": {
+        "reference": "Titus 1:11",
+        "verseKey": "kjv:titus:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:titus:1:12",
+      "numberLabel": "12",
+      "text": "One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.",
+      "metadata": {
+        "reference": "Titus 1:12",
+        "verseKey": "kjv:titus:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:titus:1:13",
+      "numberLabel": "13",
+      "text": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+      "metadata": {
+        "reference": "Titus 1:13",
+        "verseKey": "kjv:titus:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:titus:1:14",
+      "numberLabel": "14",
+      "text": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
+      "metadata": {
+        "reference": "Titus 1:14",
+        "verseKey": "kjv:titus:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:titus:1:15",
+      "numberLabel": "15",
+      "text": "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.",
+      "metadata": {
+        "reference": "Titus 1:15",
+        "verseKey": "kjv:titus:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:titus:1:16",
+      "numberLabel": "16",
+      "text": "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
+      "metadata": {
+        "reference": "Titus 1:16",
+        "verseKey": "kjv:titus:1:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Titus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Titus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

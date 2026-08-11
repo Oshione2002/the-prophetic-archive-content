@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Job 24",
+  "display_title": "Job 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 18024,
+  "verseCount": 25,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:24:1",
+      "numberLabel": "1",
+      "text": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
+      "metadata": {
+        "reference": "Job 24:1",
+        "verseKey": "kjv:job:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:24:2",
+      "numberLabel": "2",
+      "text": "Some remove the landmarks; they violently take away flocks, and feed thereof.",
+      "metadata": {
+        "reference": "Job 24:2",
+        "verseKey": "kjv:job:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:24:3",
+      "numberLabel": "3",
+      "text": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge.",
+      "metadata": {
+        "reference": "Job 24:3",
+        "verseKey": "kjv:job:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:24:4",
+      "numberLabel": "4",
+      "text": "They turn the needy out of the way: the poor of the earth hide themselves together.",
+      "metadata": {
+        "reference": "Job 24:4",
+        "verseKey": "kjv:job:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:24:5",
+      "numberLabel": "5",
+      "text": "Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.",
+      "metadata": {
+        "reference": "Job 24:5",
+        "verseKey": "kjv:job:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:24:6",
+      "numberLabel": "6",
+      "text": "They reap every one his corn in the field: and they gather the vintage of the wicked.",
+      "metadata": {
+        "reference": "Job 24:6",
+        "verseKey": "kjv:job:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:24:7",
+      "numberLabel": "7",
+      "text": "They cause the naked to lodge without clothing, that they have no covering in the cold.",
+      "metadata": {
+        "reference": "Job 24:7",
+        "verseKey": "kjv:job:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:24:8",
+      "numberLabel": "8",
+      "text": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter.",
+      "metadata": {
+        "reference": "Job 24:8",
+        "verseKey": "kjv:job:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:24:9",
+      "numberLabel": "9",
+      "text": "They pluck the fatherless from the breast, and take a pledge of the poor.",
+      "metadata": {
+        "reference": "Job 24:9",
+        "verseKey": "kjv:job:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:24:10",
+      "numberLabel": "10",
+      "text": "They cause him to go naked without clothing, and they take away the sheaf from the hungry;",
+      "metadata": {
+        "reference": "Job 24:10",
+        "verseKey": "kjv:job:24:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:24:11",
+      "numberLabel": "11",
+      "text": "Which make oil within their walls, and tread their winepresses, and suffer thirst.",
+      "metadata": {
+        "reference": "Job 24:11",
+        "verseKey": "kjv:job:24:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:24:12",
+      "numberLabel": "12",
+      "text": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly to them.",
+      "metadata": {
+        "reference": "Job 24:12",
+        "verseKey": "kjv:job:24:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:24:13",
+      "numberLabel": "13",
+      "text": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
+      "metadata": {
+        "reference": "Job 24:13",
+        "verseKey": "kjv:job:24:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:24:14",
+      "numberLabel": "14",
+      "text": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief.",
+      "metadata": {
+        "reference": "Job 24:14",
+        "verseKey": "kjv:job:24:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:24:15",
+      "numberLabel": "15",
+      "text": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.",
+      "metadata": {
+        "reference": "Job 24:15",
+        "verseKey": "kjv:job:24:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:24:16",
+      "numberLabel": "16",
+      "text": "In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.",
+      "metadata": {
+        "reference": "Job 24:16",
+        "verseKey": "kjv:job:24:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:24:17",
+      "numberLabel": "17",
+      "text": "For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death.",
+      "metadata": {
+        "reference": "Job 24:17",
+        "verseKey": "kjv:job:24:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:24:18",
+      "numberLabel": "18",
+      "text": "He is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.",
+      "metadata": {
+        "reference": "Job 24:18",
+        "verseKey": "kjv:job:24:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:24:19",
+      "numberLabel": "19",
+      "text": "Drought and heat consume the snow waters: so doth the grave those which have sinned.",
+      "metadata": {
+        "reference": "Job 24:19",
+        "verseKey": "kjv:job:24:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:24:20",
+      "numberLabel": "20",
+      "text": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.",
+      "metadata": {
+        "reference": "Job 24:20",
+        "verseKey": "kjv:job:24:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:24:21",
+      "numberLabel": "21",
+      "text": "He evil entreateth the barren that beareth not: and doeth not good to the widow.",
+      "metadata": {
+        "reference": "Job 24:21",
+        "verseKey": "kjv:job:24:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:24:22",
+      "numberLabel": "22",
+      "text": "He draweth also the mighty with his power: he riseth up, and no man is sure of life.",
+      "metadata": {
+        "reference": "Job 24:22",
+        "verseKey": "kjv:job:24:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:24:23",
+      "numberLabel": "23",
+      "text": "Though it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways.",
+      "metadata": {
+        "reference": "Job 24:23",
+        "verseKey": "kjv:job:24:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:24:24",
+      "numberLabel": "24",
+      "text": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.",
+      "metadata": {
+        "reference": "Job 24:24",
+        "verseKey": "kjv:job:24:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:24:25",
+      "numberLabel": "25",
+      "text": "And if it be not so now, who will make me a liar, and make my speech nothing worth?",
+      "metadata": {
+        "reference": "Job 24:25",
+        "verseKey": "kjv:job:24:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

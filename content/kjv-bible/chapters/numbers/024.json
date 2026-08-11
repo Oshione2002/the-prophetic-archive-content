@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Numbers 24",
+  "display_title": "Numbers 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 4024,
+  "verseCount": 25,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:24:1",
+      "numberLabel": "1",
+      "text": "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
+      "metadata": {
+        "reference": "Numbers 24:1",
+        "verseKey": "kjv:numbers:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:24:2",
+      "numberLabel": "2",
+      "text": "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.",
+      "metadata": {
+        "reference": "Numbers 24:2",
+        "verseKey": "kjv:numbers:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:24:3",
+      "numberLabel": "3",
+      "text": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
+      "metadata": {
+        "reference": "Numbers 24:3",
+        "verseKey": "kjv:numbers:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:24:4",
+      "numberLabel": "4",
+      "text": "He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:",
+      "metadata": {
+        "reference": "Numbers 24:4",
+        "verseKey": "kjv:numbers:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:24:5",
+      "numberLabel": "5",
+      "text": "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!",
+      "metadata": {
+        "reference": "Numbers 24:5",
+        "verseKey": "kjv:numbers:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:24:6",
+      "numberLabel": "6",
+      "text": "As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters.",
+      "metadata": {
+        "reference": "Numbers 24:6",
+        "verseKey": "kjv:numbers:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:24:7",
+      "numberLabel": "7",
+      "text": "He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.",
+      "metadata": {
+        "reference": "Numbers 24:7",
+        "verseKey": "kjv:numbers:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:24:8",
+      "numberLabel": "8",
+      "text": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.",
+      "metadata": {
+        "reference": "Numbers 24:8",
+        "verseKey": "kjv:numbers:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:24:9",
+      "numberLabel": "9",
+      "text": "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.",
+      "metadata": {
+        "reference": "Numbers 24:9",
+        "verseKey": "kjv:numbers:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:24:10",
+      "numberLabel": "10",
+      "text": "And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times.",
+      "metadata": {
+        "reference": "Numbers 24:10",
+        "verseKey": "kjv:numbers:24:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:24:11",
+      "numberLabel": "11",
+      "text": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour.",
+      "metadata": {
+        "reference": "Numbers 24:11",
+        "verseKey": "kjv:numbers:24:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:24:12",
+      "numberLabel": "12",
+      "text": "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,",
+      "metadata": {
+        "reference": "Numbers 24:12",
+        "verseKey": "kjv:numbers:24:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:24:13",
+      "numberLabel": "13",
+      "text": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?",
+      "metadata": {
+        "reference": "Numbers 24:13",
+        "verseKey": "kjv:numbers:24:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:24:14",
+      "numberLabel": "14",
+      "text": "And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days.",
+      "metadata": {
+        "reference": "Numbers 24:14",
+        "verseKey": "kjv:numbers:24:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:24:15",
+      "numberLabel": "15",
+      "text": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
+      "metadata": {
+        "reference": "Numbers 24:15",
+        "verseKey": "kjv:numbers:24:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:24:16",
+      "numberLabel": "16",
+      "text": "He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:",
+      "metadata": {
+        "reference": "Numbers 24:16",
+        "verseKey": "kjv:numbers:24:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:24:17",
+      "numberLabel": "17",
+      "text": "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.",
+      "metadata": {
+        "reference": "Numbers 24:17",
+        "verseKey": "kjv:numbers:24:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:24:18",
+      "numberLabel": "18",
+      "text": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.",
+      "metadata": {
+        "reference": "Numbers 24:18",
+        "verseKey": "kjv:numbers:24:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:24:19",
+      "numberLabel": "19",
+      "text": "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.",
+      "metadata": {
+        "reference": "Numbers 24:19",
+        "verseKey": "kjv:numbers:24:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:24:20",
+      "numberLabel": "20",
+      "text": "And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.",
+      "metadata": {
+        "reference": "Numbers 24:20",
+        "verseKey": "kjv:numbers:24:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:24:21",
+      "numberLabel": "21",
+      "text": "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.",
+      "metadata": {
+        "reference": "Numbers 24:21",
+        "verseKey": "kjv:numbers:24:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:24:22",
+      "numberLabel": "22",
+      "text": "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.",
+      "metadata": {
+        "reference": "Numbers 24:22",
+        "verseKey": "kjv:numbers:24:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:24:23",
+      "numberLabel": "23",
+      "text": "And he took up his parable, and said, Alas, who shall live when God doeth this!",
+      "metadata": {
+        "reference": "Numbers 24:23",
+        "verseKey": "kjv:numbers:24:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:24:24",
+      "numberLabel": "24",
+      "text": "And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.",
+      "metadata": {
+        "reference": "Numbers 24:24",
+        "verseKey": "kjv:numbers:24:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:24:25",
+      "numberLabel": "25",
+      "text": "And Balaam rose up, and went and returned to his place: and Balak also went his way.",
+      "metadata": {
+        "reference": "Numbers 24:25",
+        "verseKey": "kjv:numbers:24:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

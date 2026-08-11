@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-050",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 50,
+  "title": "Genesis 50",
+  "display_title": "Genesis 50",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 50,
+  "sortOrder": 1050,
+  "verseCount": 26,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:50:1",
+      "numberLabel": "1",
+      "text": "And Joseph fell upon his father’s face, and wept upon him, and kissed him.",
+      "metadata": {
+        "reference": "Genesis 50:1",
+        "verseKey": "kjv:genesis:50:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:50:2",
+      "numberLabel": "2",
+      "text": "And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel.",
+      "metadata": {
+        "reference": "Genesis 50:2",
+        "verseKey": "kjv:genesis:50:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:50:3",
+      "numberLabel": "3",
+      "text": "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days.",
+      "metadata": {
+        "reference": "Genesis 50:3",
+        "verseKey": "kjv:genesis:50:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:50:4",
+      "numberLabel": "4",
+      "text": "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,",
+      "metadata": {
+        "reference": "Genesis 50:4",
+        "verseKey": "kjv:genesis:50:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:50:5",
+      "numberLabel": "5",
+      "text": "My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.",
+      "metadata": {
+        "reference": "Genesis 50:5",
+        "verseKey": "kjv:genesis:50:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:50:6",
+      "numberLabel": "6",
+      "text": "And Pharaoh said, Go up, and bury thy father, according as he made thee swear.",
+      "metadata": {
+        "reference": "Genesis 50:6",
+        "verseKey": "kjv:genesis:50:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:50:7",
+      "numberLabel": "7",
+      "text": "And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,",
+      "metadata": {
+        "reference": "Genesis 50:7",
+        "verseKey": "kjv:genesis:50:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:50:8",
+      "numberLabel": "8",
+      "text": "And all the house of Joseph, and his brethren, and his father’s house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.",
+      "metadata": {
+        "reference": "Genesis 50:8",
+        "verseKey": "kjv:genesis:50:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:50:9",
+      "numberLabel": "9",
+      "text": "And there went up with him both chariots and horsemen: and it was a very great company.",
+      "metadata": {
+        "reference": "Genesis 50:9",
+        "verseKey": "kjv:genesis:50:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:50:10",
+      "numberLabel": "10",
+      "text": "And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.",
+      "metadata": {
+        "reference": "Genesis 50:10",
+        "verseKey": "kjv:genesis:50:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:50:11",
+      "numberLabel": "11",
+      "text": "And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This is a grievous mourning to the Egyptians: wherefore the name of it was called Abelmizraim, which is beyond Jordan.",
+      "metadata": {
+        "reference": "Genesis 50:11",
+        "verseKey": "kjv:genesis:50:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:50:12",
+      "numberLabel": "12",
+      "text": "And his sons did unto him according as he commanded them:",
+      "metadata": {
+        "reference": "Genesis 50:12",
+        "verseKey": "kjv:genesis:50:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:50:13",
+      "numberLabel": "13",
+      "text": "For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.",
+      "metadata": {
+        "reference": "Genesis 50:13",
+        "verseKey": "kjv:genesis:50:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:50:14",
+      "numberLabel": "14",
+      "text": "And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.",
+      "metadata": {
+        "reference": "Genesis 50:14",
+        "verseKey": "kjv:genesis:50:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:50:15",
+      "numberLabel": "15",
+      "text": "And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.",
+      "metadata": {
+        "reference": "Genesis 50:15",
+        "verseKey": "kjv:genesis:50:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:50:16",
+      "numberLabel": "16",
+      "text": "And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,",
+      "metadata": {
+        "reference": "Genesis 50:16",
+        "verseKey": "kjv:genesis:50:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:50:17",
+      "numberLabel": "17",
+      "text": "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.",
+      "metadata": {
+        "reference": "Genesis 50:17",
+        "verseKey": "kjv:genesis:50:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:50:18",
+      "numberLabel": "18",
+      "text": "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants.",
+      "metadata": {
+        "reference": "Genesis 50:18",
+        "verseKey": "kjv:genesis:50:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:50:19",
+      "numberLabel": "19",
+      "text": "And Joseph said unto them, Fear not: for am I in the place of God?",
+      "metadata": {
+        "reference": "Genesis 50:19",
+        "verseKey": "kjv:genesis:50:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:50:20",
+      "numberLabel": "20",
+      "text": "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.",
+      "metadata": {
+        "reference": "Genesis 50:20",
+        "verseKey": "kjv:genesis:50:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:50:21",
+      "numberLabel": "21",
+      "text": "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.",
+      "metadata": {
+        "reference": "Genesis 50:21",
+        "verseKey": "kjv:genesis:50:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:50:22",
+      "numberLabel": "22",
+      "text": "And Joseph dwelt in Egypt, he, and his father’s house: and Joseph lived an hundred and ten years.",
+      "metadata": {
+        "reference": "Genesis 50:22",
+        "verseKey": "kjv:genesis:50:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:50:23",
+      "numberLabel": "23",
+      "text": "And Joseph saw Ephraim’s children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph’s knees.",
+      "metadata": {
+        "reference": "Genesis 50:23",
+        "verseKey": "kjv:genesis:50:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:50:24",
+      "numberLabel": "24",
+      "text": "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.",
+      "metadata": {
+        "reference": "Genesis 50:24",
+        "verseKey": "kjv:genesis:50:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:50:25",
+      "numberLabel": "25",
+      "text": "And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.",
+      "metadata": {
+        "reference": "Genesis 50:25",
+        "verseKey": "kjv:genesis:50:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:50:26",
+      "numberLabel": "26",
+      "text": "So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.",
+      "metadata": {
+        "reference": "Genesis 50:26",
+        "verseKey": "kjv:genesis:50:26"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

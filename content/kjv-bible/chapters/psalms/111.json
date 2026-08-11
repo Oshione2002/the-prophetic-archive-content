@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-111",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 111,
+  "title": "Psalms 111",
+  "display_title": "Psalms 111",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 111,
+  "sortOrder": 19111,
+  "verseCount": 10,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:111:1",
+      "numberLabel": "1",
+      "text": "Praise ye the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation.",
+      "metadata": {
+        "reference": "Psalms 111:1",
+        "verseKey": "kjv:psalms:111:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:111:2",
+      "numberLabel": "2",
+      "text": "The works of the LORD are great, sought out of all them that have pleasure therein.",
+      "metadata": {
+        "reference": "Psalms 111:2",
+        "verseKey": "kjv:psalms:111:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:111:3",
+      "numberLabel": "3",
+      "text": "His work is honourable and glorious: and his righteousness endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 111:3",
+        "verseKey": "kjv:psalms:111:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:111:4",
+      "numberLabel": "4",
+      "text": "He hath made his wonderful works to be remembered: the LORD is gracious and full of compassion.",
+      "metadata": {
+        "reference": "Psalms 111:4",
+        "verseKey": "kjv:psalms:111:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:111:5",
+      "numberLabel": "5",
+      "text": "He hath given meat unto them that fear him: he will ever be mindful of his covenant.",
+      "metadata": {
+        "reference": "Psalms 111:5",
+        "verseKey": "kjv:psalms:111:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:111:6",
+      "numberLabel": "6",
+      "text": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen.",
+      "metadata": {
+        "reference": "Psalms 111:6",
+        "verseKey": "kjv:psalms:111:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:111:7",
+      "numberLabel": "7",
+      "text": "The works of his hands are verity and judgment; all his commandments are sure.",
+      "metadata": {
+        "reference": "Psalms 111:7",
+        "verseKey": "kjv:psalms:111:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:111:8",
+      "numberLabel": "8",
+      "text": "They stand fast for ever and ever, and are done in truth and uprightness.",
+      "metadata": {
+        "reference": "Psalms 111:8",
+        "verseKey": "kjv:psalms:111:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:111:9",
+      "numberLabel": "9",
+      "text": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.",
+      "metadata": {
+        "reference": "Psalms 111:9",
+        "verseKey": "kjv:psalms:111:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:111:10",
+      "numberLabel": "10",
+      "text": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 111:10",
+        "verseKey": "kjv:psalms:111:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

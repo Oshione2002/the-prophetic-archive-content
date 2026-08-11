@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-samuel-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "2 Samuel 18",
+  "display_title": "2 Samuel 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-samuel",
+  "book": "2 Samuel",
+  "bookName": "2 Samuel",
+  "bookOrder": 10,
+  "testament": "old",
+  "chapter": 18,
+  "sortOrder": 10018,
+  "verseCount": 33,
+  "aliases": [
+    "2 Sam",
+    "2Sam",
+    "2 Sa",
+    "2Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-samuel:18:1",
+      "numberLabel": "1",
+      "text": "And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them.",
+      "metadata": {
+        "reference": "2 Samuel 18:1",
+        "verseKey": "kjv:2-samuel:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-samuel:18:2",
+      "numberLabel": "2",
+      "text": "And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also.",
+      "metadata": {
+        "reference": "2 Samuel 18:2",
+        "verseKey": "kjv:2-samuel:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-samuel:18:3",
+      "numberLabel": "3",
+      "text": "But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city.",
+      "metadata": {
+        "reference": "2 Samuel 18:3",
+        "verseKey": "kjv:2-samuel:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-samuel:18:4",
+      "numberLabel": "4",
+      "text": "And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands.",
+      "metadata": {
+        "reference": "2 Samuel 18:4",
+        "verseKey": "kjv:2-samuel:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-samuel:18:5",
+      "numberLabel": "5",
+      "text": "And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.",
+      "metadata": {
+        "reference": "2 Samuel 18:5",
+        "verseKey": "kjv:2-samuel:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-samuel:18:6",
+      "numberLabel": "6",
+      "text": "So the people went out into the field against Israel: and the battle was in the wood of Ephraim;",
+      "metadata": {
+        "reference": "2 Samuel 18:6",
+        "verseKey": "kjv:2-samuel:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-samuel:18:7",
+      "numberLabel": "7",
+      "text": "Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men.",
+      "metadata": {
+        "reference": "2 Samuel 18:7",
+        "verseKey": "kjv:2-samuel:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-samuel:18:8",
+      "numberLabel": "8",
+      "text": "For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured.",
+      "metadata": {
+        "reference": "2 Samuel 18:8",
+        "verseKey": "kjv:2-samuel:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-samuel:18:9",
+      "numberLabel": "9",
+      "text": "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away.",
+      "metadata": {
+        "reference": "2 Samuel 18:9",
+        "verseKey": "kjv:2-samuel:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-samuel:18:10",
+      "numberLabel": "10",
+      "text": "And a certain man saw it, and told Joab, and said, Behold, I saw Absalom hanged in an oak.",
+      "metadata": {
+        "reference": "2 Samuel 18:10",
+        "verseKey": "kjv:2-samuel:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-samuel:18:11",
+      "numberLabel": "11",
+      "text": "And Joab said unto the man that told him, And, behold, thou sawest him, and why didst thou not smite him there to the ground? and I would have given thee ten shekels of silver, and a girdle.",
+      "metadata": {
+        "reference": "2 Samuel 18:11",
+        "verseKey": "kjv:2-samuel:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-samuel:18:12",
+      "numberLabel": "12",
+      "text": "And the man said unto Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king’s son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none touch the young man Absalom.",
+      "metadata": {
+        "reference": "2 Samuel 18:12",
+        "verseKey": "kjv:2-samuel:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-samuel:18:13",
+      "numberLabel": "13",
+      "text": "Otherwise I should have wrought falsehood against mine own life: for there is no matter hid from the king, and thou thyself wouldest have set thyself against me.",
+      "metadata": {
+        "reference": "2 Samuel 18:13",
+        "verseKey": "kjv:2-samuel:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-samuel:18:14",
+      "numberLabel": "14",
+      "text": "Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.",
+      "metadata": {
+        "reference": "2 Samuel 18:14",
+        "verseKey": "kjv:2-samuel:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-samuel:18:15",
+      "numberLabel": "15",
+      "text": "And ten young men that bare Joab’s armour compassed about and smote Absalom, and slew him.",
+      "metadata": {
+        "reference": "2 Samuel 18:15",
+        "verseKey": "kjv:2-samuel:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-samuel:18:16",
+      "numberLabel": "16",
+      "text": "And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people.",
+      "metadata": {
+        "reference": "2 Samuel 18:16",
+        "verseKey": "kjv:2-samuel:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-samuel:18:17",
+      "numberLabel": "17",
+      "text": "And they took Absalom, and cast him into a great pit in the wood, and laid a very great heap of stones upon him: and all Israel fled every one to his tent.",
+      "metadata": {
+        "reference": "2 Samuel 18:17",
+        "verseKey": "kjv:2-samuel:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-samuel:18:18",
+      "numberLabel": "18",
+      "text": "Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king’s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom’s place.",
+      "metadata": {
+        "reference": "2 Samuel 18:18",
+        "verseKey": "kjv:2-samuel:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-samuel:18:19",
+      "numberLabel": "19",
+      "text": "Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.",
+      "metadata": {
+        "reference": "2 Samuel 18:19",
+        "verseKey": "kjv:2-samuel:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-samuel:18:20",
+      "numberLabel": "20",
+      "text": "And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king’s son is dead.",
+      "metadata": {
+        "reference": "2 Samuel 18:20",
+        "verseKey": "kjv:2-samuel:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-samuel:18:21",
+      "numberLabel": "21",
+      "text": "Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran.",
+      "metadata": {
+        "reference": "2 Samuel 18:21",
+        "verseKey": "kjv:2-samuel:18:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-samuel:18:22",
+      "numberLabel": "22",
+      "text": "Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?",
+      "metadata": {
+        "reference": "2 Samuel 18:22",
+        "verseKey": "kjv:2-samuel:18:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-samuel:18:23",
+      "numberLabel": "23",
+      "text": "But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.",
+      "metadata": {
+        "reference": "2 Samuel 18:23",
+        "verseKey": "kjv:2-samuel:18:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-samuel:18:24",
+      "numberLabel": "24",
+      "text": "And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.",
+      "metadata": {
+        "reference": "2 Samuel 18:24",
+        "verseKey": "kjv:2-samuel:18:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-samuel:18:25",
+      "numberLabel": "25",
+      "text": "And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near.",
+      "metadata": {
+        "reference": "2 Samuel 18:25",
+        "verseKey": "kjv:2-samuel:18:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-samuel:18:26",
+      "numberLabel": "26",
+      "text": "And the watchman saw another man running: and the watchman called unto the porter, and said, Behold another man running alone. And the king said, He also bringeth tidings.",
+      "metadata": {
+        "reference": "2 Samuel 18:26",
+        "verseKey": "kjv:2-samuel:18:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-samuel:18:27",
+      "numberLabel": "27",
+      "text": "And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.",
+      "metadata": {
+        "reference": "2 Samuel 18:27",
+        "verseKey": "kjv:2-samuel:18:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-samuel:18:28",
+      "numberLabel": "28",
+      "text": "And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the LORD thy God, which hath delivered up the men that lifted up their hand against my lord the king.",
+      "metadata": {
+        "reference": "2 Samuel 18:28",
+        "verseKey": "kjv:2-samuel:18:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-samuel:18:29",
+      "numberLabel": "29",
+      "text": "And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and me thy servant, I saw a great tumult, but I knew not what it was.",
+      "metadata": {
+        "reference": "2 Samuel 18:29",
+        "verseKey": "kjv:2-samuel:18:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-samuel:18:30",
+      "numberLabel": "30",
+      "text": "And the king said unto him, Turn aside, and stand here. And he turned aside, and stood still.",
+      "metadata": {
+        "reference": "2 Samuel 18:30",
+        "verseKey": "kjv:2-samuel:18:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-samuel:18:31",
+      "numberLabel": "31",
+      "text": "And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the LORD hath avenged thee this day of all them that rose up against thee.",
+      "metadata": {
+        "reference": "2 Samuel 18:31",
+        "verseKey": "kjv:2-samuel:18:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:2-samuel:18:32",
+      "numberLabel": "32",
+      "text": "And the king said unto Cushi, Is the young man Absalom safe? And Cushi answered, The enemies of my lord the king, and all that rise against thee to do thee hurt, be as that young man is.",
+      "metadata": {
+        "reference": "2 Samuel 18:32",
+        "verseKey": "kjv:2-samuel:18:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:2-samuel:18:33",
+      "numberLabel": "33",
+      "text": "And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!",
+      "metadata": {
+        "reference": "2 Samuel 18:33",
+        "verseKey": "kjv:2-samuel:18:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-daniel-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Daniel 11",
+  "display_title": "Daniel 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "daniel",
+  "book": "Daniel",
+  "bookName": "Daniel",
+  "bookOrder": 27,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 27011,
+  "verseCount": 45,
+  "aliases": [
+    "Dan",
+    "Da",
+    "Dn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:daniel:11:1",
+      "numberLabel": "1",
+      "text": "Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.",
+      "metadata": {
+        "reference": "Daniel 11:1",
+        "verseKey": "kjv:daniel:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:daniel:11:2",
+      "numberLabel": "2",
+      "text": "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia.",
+      "metadata": {
+        "reference": "Daniel 11:2",
+        "verseKey": "kjv:daniel:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:daniel:11:3",
+      "numberLabel": "3",
+      "text": "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.",
+      "metadata": {
+        "reference": "Daniel 11:3",
+        "verseKey": "kjv:daniel:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:daniel:11:4",
+      "numberLabel": "4",
+      "text": "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.",
+      "metadata": {
+        "reference": "Daniel 11:4",
+        "verseKey": "kjv:daniel:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:daniel:11:5",
+      "numberLabel": "5",
+      "text": "And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.",
+      "metadata": {
+        "reference": "Daniel 11:5",
+        "verseKey": "kjv:daniel:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:daniel:11:6",
+      "numberLabel": "6",
+      "text": "And in the end of years they shall join themselves together; for the king’s daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in these times.",
+      "metadata": {
+        "reference": "Daniel 11:6",
+        "verseKey": "kjv:daniel:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:daniel:11:7",
+      "numberLabel": "7",
+      "text": "But out of a branch of her roots shall one stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:",
+      "metadata": {
+        "reference": "Daniel 11:7",
+        "verseKey": "kjv:daniel:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:daniel:11:8",
+      "numberLabel": "8",
+      "text": "And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north.",
+      "metadata": {
+        "reference": "Daniel 11:8",
+        "verseKey": "kjv:daniel:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:daniel:11:9",
+      "numberLabel": "9",
+      "text": "So the king of the south shall come into his kingdom, and shall return into his own land.",
+      "metadata": {
+        "reference": "Daniel 11:9",
+        "verseKey": "kjv:daniel:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:daniel:11:10",
+      "numberLabel": "10",
+      "text": "But his sons shall be stirred up, and shall assemble a multitude of great forces: and one shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, even to his fortress.",
+      "metadata": {
+        "reference": "Daniel 11:10",
+        "verseKey": "kjv:daniel:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:daniel:11:11",
+      "numberLabel": "11",
+      "text": "And the king of the south shall be moved with choler, and shall come forth and fight with him, even with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.",
+      "metadata": {
+        "reference": "Daniel 11:11",
+        "verseKey": "kjv:daniel:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:daniel:11:12",
+      "numberLabel": "12",
+      "text": "And when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down many ten thousands: but he shall not be strengthened by it.",
+      "metadata": {
+        "reference": "Daniel 11:12",
+        "verseKey": "kjv:daniel:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:daniel:11:13",
+      "numberLabel": "13",
+      "text": "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.",
+      "metadata": {
+        "reference": "Daniel 11:13",
+        "verseKey": "kjv:daniel:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:daniel:11:14",
+      "numberLabel": "14",
+      "text": "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.",
+      "metadata": {
+        "reference": "Daniel 11:14",
+        "verseKey": "kjv:daniel:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:daniel:11:15",
+      "numberLabel": "15",
+      "text": "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither shall there be any strength to withstand.",
+      "metadata": {
+        "reference": "Daniel 11:15",
+        "verseKey": "kjv:daniel:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:daniel:11:16",
+      "numberLabel": "16",
+      "text": "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.",
+      "metadata": {
+        "reference": "Daniel 11:16",
+        "verseKey": "kjv:daniel:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:daniel:11:17",
+      "numberLabel": "17",
+      "text": "He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand on his side, neither be for him.",
+      "metadata": {
+        "reference": "Daniel 11:17",
+        "verseKey": "kjv:daniel:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:daniel:11:18",
+      "numberLabel": "18",
+      "text": "After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause it to turn upon him.",
+      "metadata": {
+        "reference": "Daniel 11:18",
+        "verseKey": "kjv:daniel:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:daniel:11:19",
+      "numberLabel": "19",
+      "text": "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.",
+      "metadata": {
+        "reference": "Daniel 11:19",
+        "verseKey": "kjv:daniel:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:daniel:11:20",
+      "numberLabel": "20",
+      "text": "Then shall stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.",
+      "metadata": {
+        "reference": "Daniel 11:20",
+        "verseKey": "kjv:daniel:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:daniel:11:21",
+      "numberLabel": "21",
+      "text": "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.",
+      "metadata": {
+        "reference": "Daniel 11:21",
+        "verseKey": "kjv:daniel:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:daniel:11:22",
+      "numberLabel": "22",
+      "text": "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.",
+      "metadata": {
+        "reference": "Daniel 11:22",
+        "verseKey": "kjv:daniel:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:daniel:11:23",
+      "numberLabel": "23",
+      "text": "And after the league made with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.",
+      "metadata": {
+        "reference": "Daniel 11:23",
+        "verseKey": "kjv:daniel:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:daniel:11:24",
+      "numberLabel": "24",
+      "text": "He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time.",
+      "metadata": {
+        "reference": "Daniel 11:24",
+        "verseKey": "kjv:daniel:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:daniel:11:25",
+      "numberLabel": "25",
+      "text": "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.",
+      "metadata": {
+        "reference": "Daniel 11:25",
+        "verseKey": "kjv:daniel:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:daniel:11:26",
+      "numberLabel": "26",
+      "text": "Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain.",
+      "metadata": {
+        "reference": "Daniel 11:26",
+        "verseKey": "kjv:daniel:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:daniel:11:27",
+      "numberLabel": "27",
+      "text": "And both these kings’ hearts shall be to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end shall be at the time appointed.",
+      "metadata": {
+        "reference": "Daniel 11:27",
+        "verseKey": "kjv:daniel:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:daniel:11:28",
+      "numberLabel": "28",
+      "text": "Then shall he return into his land with great riches; and his heart shall be against the holy covenant; and he shall do exploits, and return to his own land.",
+      "metadata": {
+        "reference": "Daniel 11:28",
+        "verseKey": "kjv:daniel:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:daniel:11:29",
+      "numberLabel": "29",
+      "text": "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter.",
+      "metadata": {
+        "reference": "Daniel 11:29",
+        "verseKey": "kjv:daniel:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:daniel:11:30",
+      "numberLabel": "30",
+      "text": "For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.",
+      "metadata": {
+        "reference": "Daniel 11:30",
+        "verseKey": "kjv:daniel:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:daniel:11:31",
+      "numberLabel": "31",
+      "text": "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily sacrifice, and they shall place the abomination that maketh desolate.",
+      "metadata": {
+        "reference": "Daniel 11:31",
+        "verseKey": "kjv:daniel:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:daniel:11:32",
+      "numberLabel": "32",
+      "text": "And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits.",
+      "metadata": {
+        "reference": "Daniel 11:32",
+        "verseKey": "kjv:daniel:11:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:daniel:11:33",
+      "numberLabel": "33",
+      "text": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days.",
+      "metadata": {
+        "reference": "Daniel 11:33",
+        "verseKey": "kjv:daniel:11:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:daniel:11:34",
+      "numberLabel": "34",
+      "text": "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries.",
+      "metadata": {
+        "reference": "Daniel 11:34",
+        "verseKey": "kjv:daniel:11:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:daniel:11:35",
+      "numberLabel": "35",
+      "text": "And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed.",
+      "metadata": {
+        "reference": "Daniel 11:35",
+        "verseKey": "kjv:daniel:11:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:daniel:11:36",
+      "numberLabel": "36",
+      "text": "And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.",
+      "metadata": {
+        "reference": "Daniel 11:36",
+        "verseKey": "kjv:daniel:11:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:daniel:11:37",
+      "numberLabel": "37",
+      "text": "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.",
+      "metadata": {
+        "reference": "Daniel 11:37",
+        "verseKey": "kjv:daniel:11:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:daniel:11:38",
+      "numberLabel": "38",
+      "text": "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.",
+      "metadata": {
+        "reference": "Daniel 11:38",
+        "verseKey": "kjv:daniel:11:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:daniel:11:39",
+      "numberLabel": "39",
+      "text": "Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.",
+      "metadata": {
+        "reference": "Daniel 11:39",
+        "verseKey": "kjv:daniel:11:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:daniel:11:40",
+      "numberLabel": "40",
+      "text": "And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over.",
+      "metadata": {
+        "reference": "Daniel 11:40",
+        "verseKey": "kjv:daniel:11:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:daniel:11:41",
+      "numberLabel": "41",
+      "text": "He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon.",
+      "metadata": {
+        "reference": "Daniel 11:41",
+        "verseKey": "kjv:daniel:11:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:daniel:11:42",
+      "numberLabel": "42",
+      "text": "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape.",
+      "metadata": {
+        "reference": "Daniel 11:42",
+        "verseKey": "kjv:daniel:11:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:daniel:11:43",
+      "numberLabel": "43",
+      "text": "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps.",
+      "metadata": {
+        "reference": "Daniel 11:43",
+        "verseKey": "kjv:daniel:11:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:daniel:11:44",
+      "numberLabel": "44",
+      "text": "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.",
+      "metadata": {
+        "reference": "Daniel 11:44",
+        "verseKey": "kjv:daniel:11:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:daniel:11:45",
+      "numberLabel": "45",
+      "text": "And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.",
+      "metadata": {
+        "reference": "Daniel 11:45",
+        "verseKey": "kjv:daniel:11:45"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Daniel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Daniel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

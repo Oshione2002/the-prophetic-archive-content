@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-john-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "1 John 4",
+  "display_title": "1 John 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-john",
+  "book": "1 John",
+  "bookName": "1 John",
+  "bookOrder": 62,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 62004,
+  "verseCount": 21,
+  "aliases": [
+    "1 John",
+    "1John",
+    "1 Jn",
+    "1Jn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-john:4:1",
+      "numberLabel": "1",
+      "text": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+      "metadata": {
+        "reference": "1 John 4:1",
+        "verseKey": "kjv:1-john:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-john:4:2",
+      "numberLabel": "2",
+      "text": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:",
+      "metadata": {
+        "reference": "1 John 4:2",
+        "verseKey": "kjv:1-john:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-john:4:3",
+      "numberLabel": "3",
+      "text": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.",
+      "metadata": {
+        "reference": "1 John 4:3",
+        "verseKey": "kjv:1-john:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-john:4:4",
+      "numberLabel": "4",
+      "text": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.",
+      "metadata": {
+        "reference": "1 John 4:4",
+        "verseKey": "kjv:1-john:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-john:4:5",
+      "numberLabel": "5",
+      "text": "They are of the world: therefore speak they of the world, and the world heareth them.",
+      "metadata": {
+        "reference": "1 John 4:5",
+        "verseKey": "kjv:1-john:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-john:4:6",
+      "numberLabel": "6",
+      "text": "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.",
+      "metadata": {
+        "reference": "1 John 4:6",
+        "verseKey": "kjv:1-john:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-john:4:7",
+      "numberLabel": "7",
+      "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+      "metadata": {
+        "reference": "1 John 4:7",
+        "verseKey": "kjv:1-john:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-john:4:8",
+      "numberLabel": "8",
+      "text": "He that loveth not knoweth not God; for God is love.",
+      "metadata": {
+        "reference": "1 John 4:8",
+        "verseKey": "kjv:1-john:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-john:4:9",
+      "numberLabel": "9",
+      "text": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.",
+      "metadata": {
+        "reference": "1 John 4:9",
+        "verseKey": "kjv:1-john:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-john:4:10",
+      "numberLabel": "10",
+      "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+      "metadata": {
+        "reference": "1 John 4:10",
+        "verseKey": "kjv:1-john:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-john:4:11",
+      "numberLabel": "11",
+      "text": "Beloved, if God so loved us, we ought also to love one another.",
+      "metadata": {
+        "reference": "1 John 4:11",
+        "verseKey": "kjv:1-john:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-john:4:12",
+      "numberLabel": "12",
+      "text": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.",
+      "metadata": {
+        "reference": "1 John 4:12",
+        "verseKey": "kjv:1-john:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-john:4:13",
+      "numberLabel": "13",
+      "text": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.",
+      "metadata": {
+        "reference": "1 John 4:13",
+        "verseKey": "kjv:1-john:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-john:4:14",
+      "numberLabel": "14",
+      "text": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world.",
+      "metadata": {
+        "reference": "1 John 4:14",
+        "verseKey": "kjv:1-john:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-john:4:15",
+      "numberLabel": "15",
+      "text": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.",
+      "metadata": {
+        "reference": "1 John 4:15",
+        "verseKey": "kjv:1-john:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-john:4:16",
+      "numberLabel": "16",
+      "text": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
+      "metadata": {
+        "reference": "1 John 4:16",
+        "verseKey": "kjv:1-john:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-john:4:17",
+      "numberLabel": "17",
+      "text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+      "metadata": {
+        "reference": "1 John 4:17",
+        "verseKey": "kjv:1-john:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-john:4:18",
+      "numberLabel": "18",
+      "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+      "metadata": {
+        "reference": "1 John 4:18",
+        "verseKey": "kjv:1-john:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-john:4:19",
+      "numberLabel": "19",
+      "text": "We love him, because he first loved us.",
+      "metadata": {
+        "reference": "1 John 4:19",
+        "verseKey": "kjv:1-john:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-john:4:20",
+      "numberLabel": "20",
+      "text": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
+      "metadata": {
+        "reference": "1 John 4:20",
+        "verseKey": "kjv:1-john:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-john:4:21",
+      "numberLabel": "21",
+      "text": "And this commandment have we from him, That he who loveth God love his brother also.",
+      "metadata": {
+        "reference": "1 John 4:21",
+        "verseKey": "kjv:1-john:4:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

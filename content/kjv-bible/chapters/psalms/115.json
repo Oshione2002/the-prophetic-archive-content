@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-115",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 115,
+  "title": "Psalms 115",
+  "display_title": "Psalms 115",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 115,
+  "sortOrder": 19115,
+  "verseCount": 18,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:115:1",
+      "numberLabel": "1",
+      "text": "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.",
+      "metadata": {
+        "reference": "Psalms 115:1",
+        "verseKey": "kjv:psalms:115:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:115:2",
+      "numberLabel": "2",
+      "text": "Wherefore should the heathen say, Where is now their God?",
+      "metadata": {
+        "reference": "Psalms 115:2",
+        "verseKey": "kjv:psalms:115:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:115:3",
+      "numberLabel": "3",
+      "text": "But our God is in the heavens: he hath done whatsoever he hath pleased.",
+      "metadata": {
+        "reference": "Psalms 115:3",
+        "verseKey": "kjv:psalms:115:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:115:4",
+      "numberLabel": "4",
+      "text": "Their idols are silver and gold, the work of men’s hands.",
+      "metadata": {
+        "reference": "Psalms 115:4",
+        "verseKey": "kjv:psalms:115:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:115:5",
+      "numberLabel": "5",
+      "text": "They have mouths, but they speak not: eyes have they, but they see not:",
+      "metadata": {
+        "reference": "Psalms 115:5",
+        "verseKey": "kjv:psalms:115:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:115:6",
+      "numberLabel": "6",
+      "text": "They have ears, but they hear not: noses have they, but they smell not:",
+      "metadata": {
+        "reference": "Psalms 115:6",
+        "verseKey": "kjv:psalms:115:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:115:7",
+      "numberLabel": "7",
+      "text": "They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.",
+      "metadata": {
+        "reference": "Psalms 115:7",
+        "verseKey": "kjv:psalms:115:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:115:8",
+      "numberLabel": "8",
+      "text": "They that make them are like unto them; so is every one that trusteth in them.",
+      "metadata": {
+        "reference": "Psalms 115:8",
+        "verseKey": "kjv:psalms:115:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:115:9",
+      "numberLabel": "9",
+      "text": "O Israel, trust thou in the LORD: he is their help and their shield.",
+      "metadata": {
+        "reference": "Psalms 115:9",
+        "verseKey": "kjv:psalms:115:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:115:10",
+      "numberLabel": "10",
+      "text": "O house of Aaron, trust in the LORD: he is their help and their shield.",
+      "metadata": {
+        "reference": "Psalms 115:10",
+        "verseKey": "kjv:psalms:115:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:115:11",
+      "numberLabel": "11",
+      "text": "Ye that fear the LORD, trust in the LORD: he is their help and their shield.",
+      "metadata": {
+        "reference": "Psalms 115:11",
+        "verseKey": "kjv:psalms:115:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:115:12",
+      "numberLabel": "12",
+      "text": "The LORD hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron.",
+      "metadata": {
+        "reference": "Psalms 115:12",
+        "verseKey": "kjv:psalms:115:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:115:13",
+      "numberLabel": "13",
+      "text": "He will bless them that fear the LORD, both small and great.",
+      "metadata": {
+        "reference": "Psalms 115:13",
+        "verseKey": "kjv:psalms:115:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:115:14",
+      "numberLabel": "14",
+      "text": "The LORD shall increase you more and more, you and your children.",
+      "metadata": {
+        "reference": "Psalms 115:14",
+        "verseKey": "kjv:psalms:115:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:115:15",
+      "numberLabel": "15",
+      "text": "Ye are blessed of the LORD which made heaven and earth.",
+      "metadata": {
+        "reference": "Psalms 115:15",
+        "verseKey": "kjv:psalms:115:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:115:16",
+      "numberLabel": "16",
+      "text": "The heaven, even the heavens, are the LORD’s: but the earth hath he given to the children of men.",
+      "metadata": {
+        "reference": "Psalms 115:16",
+        "verseKey": "kjv:psalms:115:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:115:17",
+      "numberLabel": "17",
+      "text": "The dead praise not the LORD, neither any that go down into silence.",
+      "metadata": {
+        "reference": "Psalms 115:17",
+        "verseKey": "kjv:psalms:115:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:115:18",
+      "numberLabel": "18",
+      "text": "But we will bless the LORD from this time forth and for evermore. Praise the LORD.",
+      "metadata": {
+        "reference": "Psalms 115:18",
+        "verseKey": "kjv:psalms:115:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

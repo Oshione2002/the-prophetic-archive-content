@@ -1,0 +1,548 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-luke-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "Luke 18",
+  "display_title": "Luke 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "luke",
+  "book": "Luke",
+  "bookName": "Luke",
+  "bookOrder": 42,
+  "testament": "new",
+  "chapter": 18,
+  "sortOrder": 42018,
+  "verseCount": 43,
+  "aliases": [
+    "Luke",
+    "Lk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:luke:18:1",
+      "numberLabel": "1",
+      "text": "And he spake a parable unto them to this end, that men ought always to pray, and not to faint;",
+      "metadata": {
+        "reference": "Luke 18:1",
+        "verseKey": "kjv:luke:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:luke:18:2",
+      "numberLabel": "2",
+      "text": "Saying, There was in a city a judge, which feared not God, neither regarded man:",
+      "metadata": {
+        "reference": "Luke 18:2",
+        "verseKey": "kjv:luke:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:luke:18:3",
+      "numberLabel": "3",
+      "text": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.",
+      "metadata": {
+        "reference": "Luke 18:3",
+        "verseKey": "kjv:luke:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:luke:18:4",
+      "numberLabel": "4",
+      "text": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;",
+      "metadata": {
+        "reference": "Luke 18:4",
+        "verseKey": "kjv:luke:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:luke:18:5",
+      "numberLabel": "5",
+      "text": "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.",
+      "metadata": {
+        "reference": "Luke 18:5",
+        "verseKey": "kjv:luke:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:luke:18:6",
+      "numberLabel": "6",
+      "text": "And the Lord said, Hear what the unjust judge saith.",
+      "metadata": {
+        "reference": "Luke 18:6",
+        "verseKey": "kjv:luke:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:luke:18:7",
+      "numberLabel": "7",
+      "text": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?",
+      "metadata": {
+        "reference": "Luke 18:7",
+        "verseKey": "kjv:luke:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:luke:18:8",
+      "numberLabel": "8",
+      "text": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?",
+      "metadata": {
+        "reference": "Luke 18:8",
+        "verseKey": "kjv:luke:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:luke:18:9",
+      "numberLabel": "9",
+      "text": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:",
+      "metadata": {
+        "reference": "Luke 18:9",
+        "verseKey": "kjv:luke:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:luke:18:10",
+      "numberLabel": "10",
+      "text": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican.",
+      "metadata": {
+        "reference": "Luke 18:10",
+        "verseKey": "kjv:luke:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:luke:18:11",
+      "numberLabel": "11",
+      "text": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican.",
+      "metadata": {
+        "reference": "Luke 18:11",
+        "verseKey": "kjv:luke:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:luke:18:12",
+      "numberLabel": "12",
+      "text": "I fast twice in the week, I give tithes of all that I possess.",
+      "metadata": {
+        "reference": "Luke 18:12",
+        "verseKey": "kjv:luke:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:luke:18:13",
+      "numberLabel": "13",
+      "text": "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.",
+      "metadata": {
+        "reference": "Luke 18:13",
+        "verseKey": "kjv:luke:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:luke:18:14",
+      "numberLabel": "14",
+      "text": "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+      "metadata": {
+        "reference": "Luke 18:14",
+        "verseKey": "kjv:luke:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:luke:18:15",
+      "numberLabel": "15",
+      "text": "And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them.",
+      "metadata": {
+        "reference": "Luke 18:15",
+        "verseKey": "kjv:luke:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:luke:18:16",
+      "numberLabel": "16",
+      "text": "But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.",
+      "metadata": {
+        "reference": "Luke 18:16",
+        "verseKey": "kjv:luke:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:luke:18:17",
+      "numberLabel": "17",
+      "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.",
+      "metadata": {
+        "reference": "Luke 18:17",
+        "verseKey": "kjv:luke:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:luke:18:18",
+      "numberLabel": "18",
+      "text": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?",
+      "metadata": {
+        "reference": "Luke 18:18",
+        "verseKey": "kjv:luke:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:luke:18:19",
+      "numberLabel": "19",
+      "text": "And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God.",
+      "metadata": {
+        "reference": "Luke 18:19",
+        "verseKey": "kjv:luke:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:luke:18:20",
+      "numberLabel": "20",
+      "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.",
+      "metadata": {
+        "reference": "Luke 18:20",
+        "verseKey": "kjv:luke:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:luke:18:21",
+      "numberLabel": "21",
+      "text": "And he said, All these have I kept from my youth up.",
+      "metadata": {
+        "reference": "Luke 18:21",
+        "verseKey": "kjv:luke:18:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:luke:18:22",
+      "numberLabel": "22",
+      "text": "Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.",
+      "metadata": {
+        "reference": "Luke 18:22",
+        "verseKey": "kjv:luke:18:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:luke:18:23",
+      "numberLabel": "23",
+      "text": "And when he heard this, he was very sorrowful: for he was very rich.",
+      "metadata": {
+        "reference": "Luke 18:23",
+        "verseKey": "kjv:luke:18:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:luke:18:24",
+      "numberLabel": "24",
+      "text": "And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!",
+      "metadata": {
+        "reference": "Luke 18:24",
+        "verseKey": "kjv:luke:18:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:luke:18:25",
+      "numberLabel": "25",
+      "text": "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.",
+      "metadata": {
+        "reference": "Luke 18:25",
+        "verseKey": "kjv:luke:18:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:luke:18:26",
+      "numberLabel": "26",
+      "text": "And they that heard it said, Who then can be saved?",
+      "metadata": {
+        "reference": "Luke 18:26",
+        "verseKey": "kjv:luke:18:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:luke:18:27",
+      "numberLabel": "27",
+      "text": "And he said, The things which are impossible with men are possible with God.",
+      "metadata": {
+        "reference": "Luke 18:27",
+        "verseKey": "kjv:luke:18:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:luke:18:28",
+      "numberLabel": "28",
+      "text": "Then Peter said, Lo, we have left all, and followed thee.",
+      "metadata": {
+        "reference": "Luke 18:28",
+        "verseKey": "kjv:luke:18:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:luke:18:29",
+      "numberLabel": "29",
+      "text": "And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,",
+      "metadata": {
+        "reference": "Luke 18:29",
+        "verseKey": "kjv:luke:18:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:luke:18:30",
+      "numberLabel": "30",
+      "text": "Who shall not receive manifold more in this present time, and in the world to come life everlasting.",
+      "metadata": {
+        "reference": "Luke 18:30",
+        "verseKey": "kjv:luke:18:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:luke:18:31",
+      "numberLabel": "31",
+      "text": "Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.",
+      "metadata": {
+        "reference": "Luke 18:31",
+        "verseKey": "kjv:luke:18:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:luke:18:32",
+      "numberLabel": "32",
+      "text": "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:",
+      "metadata": {
+        "reference": "Luke 18:32",
+        "verseKey": "kjv:luke:18:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:luke:18:33",
+      "numberLabel": "33",
+      "text": "And they shall scourge him, and put him to death: and the third day he shall rise again.",
+      "metadata": {
+        "reference": "Luke 18:33",
+        "verseKey": "kjv:luke:18:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:luke:18:34",
+      "numberLabel": "34",
+      "text": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.",
+      "metadata": {
+        "reference": "Luke 18:34",
+        "verseKey": "kjv:luke:18:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:luke:18:35",
+      "numberLabel": "35",
+      "text": "And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:",
+      "metadata": {
+        "reference": "Luke 18:35",
+        "verseKey": "kjv:luke:18:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:luke:18:36",
+      "numberLabel": "36",
+      "text": "And hearing the multitude pass by, he asked what it meant.",
+      "metadata": {
+        "reference": "Luke 18:36",
+        "verseKey": "kjv:luke:18:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:luke:18:37",
+      "numberLabel": "37",
+      "text": "And they told him, that Jesus of Nazareth passeth by.",
+      "metadata": {
+        "reference": "Luke 18:37",
+        "verseKey": "kjv:luke:18:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:luke:18:38",
+      "numberLabel": "38",
+      "text": "And he cried, saying, Jesus, thou son of David, have mercy on me.",
+      "metadata": {
+        "reference": "Luke 18:38",
+        "verseKey": "kjv:luke:18:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:luke:18:39",
+      "numberLabel": "39",
+      "text": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou son of David, have mercy on me.",
+      "metadata": {
+        "reference": "Luke 18:39",
+        "verseKey": "kjv:luke:18:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:luke:18:40",
+      "numberLabel": "40",
+      "text": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,",
+      "metadata": {
+        "reference": "Luke 18:40",
+        "verseKey": "kjv:luke:18:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:luke:18:41",
+      "numberLabel": "41",
+      "text": "Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.",
+      "metadata": {
+        "reference": "Luke 18:41",
+        "verseKey": "kjv:luke:18:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:luke:18:42",
+      "numberLabel": "42",
+      "text": "And Jesus said unto him, Receive thy sight: thy faith hath saved thee.",
+      "metadata": {
+        "reference": "Luke 18:42",
+        "verseKey": "kjv:luke:18:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:luke:18:43",
+      "numberLabel": "43",
+      "text": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.",
+      "metadata": {
+        "reference": "Luke 18:43",
+        "verseKey": "kjv:luke:18:43"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Luke.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Luke.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

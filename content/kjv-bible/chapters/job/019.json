@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Job 19",
+  "display_title": "Job 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 18019,
+  "verseCount": 29,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:19:1",
+      "numberLabel": "1",
+      "text": "Then Job answered and said,",
+      "metadata": {
+        "reference": "Job 19:1",
+        "verseKey": "kjv:job:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:19:2",
+      "numberLabel": "2",
+      "text": "How long will ye vex my soul, and break me in pieces with words?",
+      "metadata": {
+        "reference": "Job 19:2",
+        "verseKey": "kjv:job:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:19:3",
+      "numberLabel": "3",
+      "text": "These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.",
+      "metadata": {
+        "reference": "Job 19:3",
+        "verseKey": "kjv:job:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:19:4",
+      "numberLabel": "4",
+      "text": "And be it indeed that I have erred, mine error remaineth with myself.",
+      "metadata": {
+        "reference": "Job 19:4",
+        "verseKey": "kjv:job:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:19:5",
+      "numberLabel": "5",
+      "text": "If indeed ye will magnify yourselves against me, and plead against me my reproach:",
+      "metadata": {
+        "reference": "Job 19:5",
+        "verseKey": "kjv:job:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:19:6",
+      "numberLabel": "6",
+      "text": "Know now that God hath overthrown me, and hath compassed me with his net.",
+      "metadata": {
+        "reference": "Job 19:6",
+        "verseKey": "kjv:job:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:19:7",
+      "numberLabel": "7",
+      "text": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.",
+      "metadata": {
+        "reference": "Job 19:7",
+        "verseKey": "kjv:job:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:19:8",
+      "numberLabel": "8",
+      "text": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.",
+      "metadata": {
+        "reference": "Job 19:8",
+        "verseKey": "kjv:job:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:19:9",
+      "numberLabel": "9",
+      "text": "He hath stripped me of my glory, and taken the crown from my head.",
+      "metadata": {
+        "reference": "Job 19:9",
+        "verseKey": "kjv:job:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:19:10",
+      "numberLabel": "10",
+      "text": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.",
+      "metadata": {
+        "reference": "Job 19:10",
+        "verseKey": "kjv:job:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:19:11",
+      "numberLabel": "11",
+      "text": "He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies.",
+      "metadata": {
+        "reference": "Job 19:11",
+        "verseKey": "kjv:job:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:19:12",
+      "numberLabel": "12",
+      "text": "His troops come together, and raise up their way against me, and encamp round about my tabernacle.",
+      "metadata": {
+        "reference": "Job 19:12",
+        "verseKey": "kjv:job:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:19:13",
+      "numberLabel": "13",
+      "text": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me.",
+      "metadata": {
+        "reference": "Job 19:13",
+        "verseKey": "kjv:job:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:19:14",
+      "numberLabel": "14",
+      "text": "My kinsfolk have failed, and my familiar friends have forgotten me.",
+      "metadata": {
+        "reference": "Job 19:14",
+        "verseKey": "kjv:job:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:19:15",
+      "numberLabel": "15",
+      "text": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.",
+      "metadata": {
+        "reference": "Job 19:15",
+        "verseKey": "kjv:job:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:19:16",
+      "numberLabel": "16",
+      "text": "I called my servant, and he gave me no answer; I intreated him with my mouth.",
+      "metadata": {
+        "reference": "Job 19:16",
+        "verseKey": "kjv:job:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:19:17",
+      "numberLabel": "17",
+      "text": "My breath is strange to my wife, though I intreated for the children’s sake of mine own body.",
+      "metadata": {
+        "reference": "Job 19:17",
+        "verseKey": "kjv:job:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:19:18",
+      "numberLabel": "18",
+      "text": "Yea, young children despised me; I arose, and they spake against me.",
+      "metadata": {
+        "reference": "Job 19:18",
+        "verseKey": "kjv:job:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:19:19",
+      "numberLabel": "19",
+      "text": "All my inward friends abhorred me: and they whom I loved are turned against me.",
+      "metadata": {
+        "reference": "Job 19:19",
+        "verseKey": "kjv:job:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:19:20",
+      "numberLabel": "20",
+      "text": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.",
+      "metadata": {
+        "reference": "Job 19:20",
+        "verseKey": "kjv:job:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:19:21",
+      "numberLabel": "21",
+      "text": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.",
+      "metadata": {
+        "reference": "Job 19:21",
+        "verseKey": "kjv:job:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:19:22",
+      "numberLabel": "22",
+      "text": "Why do ye persecute me as God, and are not satisfied with my flesh?",
+      "metadata": {
+        "reference": "Job 19:22",
+        "verseKey": "kjv:job:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:19:23",
+      "numberLabel": "23",
+      "text": "Oh that my words were now written! oh that they were printed in a book!",
+      "metadata": {
+        "reference": "Job 19:23",
+        "verseKey": "kjv:job:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:19:24",
+      "numberLabel": "24",
+      "text": "That they were graven with an iron pen and lead in the rock for ever!",
+      "metadata": {
+        "reference": "Job 19:24",
+        "verseKey": "kjv:job:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:19:25",
+      "numberLabel": "25",
+      "text": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:",
+      "metadata": {
+        "reference": "Job 19:25",
+        "verseKey": "kjv:job:19:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:19:26",
+      "numberLabel": "26",
+      "text": "And though after my skin worms destroy this body, yet in my flesh shall I see God:",
+      "metadata": {
+        "reference": "Job 19:26",
+        "verseKey": "kjv:job:19:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:19:27",
+      "numberLabel": "27",
+      "text": "Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.",
+      "metadata": {
+        "reference": "Job 19:27",
+        "verseKey": "kjv:job:19:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:19:28",
+      "numberLabel": "28",
+      "text": "But ye should say, Why persecute we him, seeing the root of the matter is found in me?",
+      "metadata": {
+        "reference": "Job 19:28",
+        "verseKey": "kjv:job:19:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:19:29",
+      "numberLabel": "29",
+      "text": "Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.",
+      "metadata": {
+        "reference": "Job 19:29",
+        "verseKey": "kjv:job:19:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

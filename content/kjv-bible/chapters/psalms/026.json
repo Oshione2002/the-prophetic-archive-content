@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-026",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 26,
+  "title": "Psalms 26",
+  "display_title": "Psalms 26",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 26,
+  "sortOrder": 19026,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:26:1",
+      "numberLabel": "1",
+      "text": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.",
+      "metadata": {
+        "reference": "Psalms 26:1",
+        "verseKey": "kjv:psalms:26:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:26:2",
+      "numberLabel": "2",
+      "text": "Examine me, O LORD, and prove me; try my reins and my heart.",
+      "metadata": {
+        "reference": "Psalms 26:2",
+        "verseKey": "kjv:psalms:26:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:26:3",
+      "numberLabel": "3",
+      "text": "For thy lovingkindness is before mine eyes: and I have walked in thy truth.",
+      "metadata": {
+        "reference": "Psalms 26:3",
+        "verseKey": "kjv:psalms:26:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:26:4",
+      "numberLabel": "4",
+      "text": "I have not sat with vain persons, neither will I go in with dissemblers.",
+      "metadata": {
+        "reference": "Psalms 26:4",
+        "verseKey": "kjv:psalms:26:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:26:5",
+      "numberLabel": "5",
+      "text": "I have hated the congregation of evil doers; and will not sit with the wicked.",
+      "metadata": {
+        "reference": "Psalms 26:5",
+        "verseKey": "kjv:psalms:26:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:26:6",
+      "numberLabel": "6",
+      "text": "I will wash mine hands in innocency: so will I compass thine altar, O LORD:",
+      "metadata": {
+        "reference": "Psalms 26:6",
+        "verseKey": "kjv:psalms:26:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:26:7",
+      "numberLabel": "7",
+      "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
+      "metadata": {
+        "reference": "Psalms 26:7",
+        "verseKey": "kjv:psalms:26:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:26:8",
+      "numberLabel": "8",
+      "text": "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+      "metadata": {
+        "reference": "Psalms 26:8",
+        "verseKey": "kjv:psalms:26:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:26:9",
+      "numberLabel": "9",
+      "text": "Gather not my soul with sinners, nor my life with bloody men:",
+      "metadata": {
+        "reference": "Psalms 26:9",
+        "verseKey": "kjv:psalms:26:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:26:10",
+      "numberLabel": "10",
+      "text": "In whose hands is mischief, and their right hand is full of bribes.",
+      "metadata": {
+        "reference": "Psalms 26:10",
+        "verseKey": "kjv:psalms:26:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:26:11",
+      "numberLabel": "11",
+      "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
+      "metadata": {
+        "reference": "Psalms 26:11",
+        "verseKey": "kjv:psalms:26:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:26:12",
+      "numberLabel": "12",
+      "text": "My foot standeth in an even place: in the congregations will I bless the LORD.",
+      "metadata": {
+        "reference": "Psalms 26:12",
+        "verseKey": "kjv:psalms:26:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

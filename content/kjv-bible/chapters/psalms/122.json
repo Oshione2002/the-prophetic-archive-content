@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-122",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 122,
+  "title": "Psalms 122",
+  "display_title": "Psalms 122",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 122,
+  "sortOrder": 19122,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:122:1",
+      "numberLabel": "1",
+      "text": "I was glad when they said unto me, Let us go into the house of the LORD.",
+      "metadata": {
+        "reference": "Psalms 122:1",
+        "verseKey": "kjv:psalms:122:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:122:2",
+      "numberLabel": "2",
+      "text": "Our feet shall stand within thy gates, O Jerusalem.",
+      "metadata": {
+        "reference": "Psalms 122:2",
+        "verseKey": "kjv:psalms:122:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:122:3",
+      "numberLabel": "3",
+      "text": "Jerusalem is builded as a city that is compact together:",
+      "metadata": {
+        "reference": "Psalms 122:3",
+        "verseKey": "kjv:psalms:122:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:122:4",
+      "numberLabel": "4",
+      "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.",
+      "metadata": {
+        "reference": "Psalms 122:4",
+        "verseKey": "kjv:psalms:122:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:122:5",
+      "numberLabel": "5",
+      "text": "For there are set thrones of judgment, the thrones of the house of David.",
+      "metadata": {
+        "reference": "Psalms 122:5",
+        "verseKey": "kjv:psalms:122:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:122:6",
+      "numberLabel": "6",
+      "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "metadata": {
+        "reference": "Psalms 122:6",
+        "verseKey": "kjv:psalms:122:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:122:7",
+      "numberLabel": "7",
+      "text": "Peace be within thy walls, and prosperity within thy palaces.",
+      "metadata": {
+        "reference": "Psalms 122:7",
+        "verseKey": "kjv:psalms:122:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:122:8",
+      "numberLabel": "8",
+      "text": "For my brethren and companions’ sakes, I will now say, Peace be within thee.",
+      "metadata": {
+        "reference": "Psalms 122:8",
+        "verseKey": "kjv:psalms:122:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:122:9",
+      "numberLabel": "9",
+      "text": "Because of the house of the LORD our God I will seek thy good.",
+      "metadata": {
+        "reference": "Psalms 122:9",
+        "verseKey": "kjv:psalms:122:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

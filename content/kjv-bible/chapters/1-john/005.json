@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-john-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "1 John 5",
+  "display_title": "1 John 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-john",
+  "book": "1 John",
+  "bookName": "1 John",
+  "bookOrder": 62,
+  "testament": "new",
+  "chapter": 5,
+  "sortOrder": 62005,
+  "verseCount": 21,
+  "aliases": [
+    "1 John",
+    "1John",
+    "1 Jn",
+    "1Jn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-john:5:1",
+      "numberLabel": "1",
+      "text": "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.",
+      "metadata": {
+        "reference": "1 John 5:1",
+        "verseKey": "kjv:1-john:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-john:5:2",
+      "numberLabel": "2",
+      "text": "By this we know that we love the children of God, when we love God, and keep his commandments.",
+      "metadata": {
+        "reference": "1 John 5:2",
+        "verseKey": "kjv:1-john:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-john:5:3",
+      "numberLabel": "3",
+      "text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous.",
+      "metadata": {
+        "reference": "1 John 5:3",
+        "verseKey": "kjv:1-john:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-john:5:4",
+      "numberLabel": "4",
+      "text": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.",
+      "metadata": {
+        "reference": "1 John 5:4",
+        "verseKey": "kjv:1-john:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-john:5:5",
+      "numberLabel": "5",
+      "text": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?",
+      "metadata": {
+        "reference": "1 John 5:5",
+        "verseKey": "kjv:1-john:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-john:5:6",
+      "numberLabel": "6",
+      "text": "This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.",
+      "metadata": {
+        "reference": "1 John 5:6",
+        "verseKey": "kjv:1-john:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-john:5:7",
+      "numberLabel": "7",
+      "text": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.",
+      "metadata": {
+        "reference": "1 John 5:7",
+        "verseKey": "kjv:1-john:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-john:5:8",
+      "numberLabel": "8",
+      "text": "And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.",
+      "metadata": {
+        "reference": "1 John 5:8",
+        "verseKey": "kjv:1-john:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-john:5:9",
+      "numberLabel": "9",
+      "text": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.",
+      "metadata": {
+        "reference": "1 John 5:9",
+        "verseKey": "kjv:1-john:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-john:5:10",
+      "numberLabel": "10",
+      "text": "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.",
+      "metadata": {
+        "reference": "1 John 5:10",
+        "verseKey": "kjv:1-john:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-john:5:11",
+      "numberLabel": "11",
+      "text": "And this is the record, that God hath given to us eternal life, and this life is in his Son.",
+      "metadata": {
+        "reference": "1 John 5:11",
+        "verseKey": "kjv:1-john:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-john:5:12",
+      "numberLabel": "12",
+      "text": "He that hath the Son hath life; and he that hath not the Son of God hath not life.",
+      "metadata": {
+        "reference": "1 John 5:12",
+        "verseKey": "kjv:1-john:5:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-john:5:13",
+      "numberLabel": "13",
+      "text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.",
+      "metadata": {
+        "reference": "1 John 5:13",
+        "verseKey": "kjv:1-john:5:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-john:5:14",
+      "numberLabel": "14",
+      "text": "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:",
+      "metadata": {
+        "reference": "1 John 5:14",
+        "verseKey": "kjv:1-john:5:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-john:5:15",
+      "numberLabel": "15",
+      "text": "And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.",
+      "metadata": {
+        "reference": "1 John 5:15",
+        "verseKey": "kjv:1-john:5:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-john:5:16",
+      "numberLabel": "16",
+      "text": "If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.",
+      "metadata": {
+        "reference": "1 John 5:16",
+        "verseKey": "kjv:1-john:5:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-john:5:17",
+      "numberLabel": "17",
+      "text": "All unrighteousness is sin: and there is a sin not unto death.",
+      "metadata": {
+        "reference": "1 John 5:17",
+        "verseKey": "kjv:1-john:5:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-john:5:18",
+      "numberLabel": "18",
+      "text": "We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.",
+      "metadata": {
+        "reference": "1 John 5:18",
+        "verseKey": "kjv:1-john:5:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-john:5:19",
+      "numberLabel": "19",
+      "text": "And we know that we are of God, and the whole world lieth in wickedness.",
+      "metadata": {
+        "reference": "1 John 5:19",
+        "verseKey": "kjv:1-john:5:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-john:5:20",
+      "numberLabel": "20",
+      "text": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.",
+      "metadata": {
+        "reference": "1 John 5:20",
+        "verseKey": "kjv:1-john:5:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-john:5:21",
+      "numberLabel": "21",
+      "text": "Little children, keep yourselves from idols. Amen.",
+      "metadata": {
+        "reference": "1 John 5:21",
+        "verseKey": "kjv:1-john:5:21"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

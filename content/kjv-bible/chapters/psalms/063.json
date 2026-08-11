@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-063",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 63,
+  "title": "Psalms 63",
+  "display_title": "Psalms 63",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 63,
+  "sortOrder": 19063,
+  "verseCount": 11,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:63:1",
+      "numberLabel": "1",
+      "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;",
+      "metadata": {
+        "reference": "Psalms 63:1",
+        "verseKey": "kjv:psalms:63:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:63:2",
+      "numberLabel": "2",
+      "text": "To see thy power and thy glory, so as I have seen thee in the sanctuary.",
+      "metadata": {
+        "reference": "Psalms 63:2",
+        "verseKey": "kjv:psalms:63:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:63:3",
+      "numberLabel": "3",
+      "text": "Because thy lovingkindness is better than life, my lips shall praise thee.",
+      "metadata": {
+        "reference": "Psalms 63:3",
+        "verseKey": "kjv:psalms:63:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:63:4",
+      "numberLabel": "4",
+      "text": "Thus will I bless thee while I live: I will lift up my hands in thy name.",
+      "metadata": {
+        "reference": "Psalms 63:4",
+        "verseKey": "kjv:psalms:63:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:63:5",
+      "numberLabel": "5",
+      "text": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:",
+      "metadata": {
+        "reference": "Psalms 63:5",
+        "verseKey": "kjv:psalms:63:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:63:6",
+      "numberLabel": "6",
+      "text": "When I remember thee upon my bed, and meditate on thee in the night watches.",
+      "metadata": {
+        "reference": "Psalms 63:6",
+        "verseKey": "kjv:psalms:63:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:63:7",
+      "numberLabel": "7",
+      "text": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.",
+      "metadata": {
+        "reference": "Psalms 63:7",
+        "verseKey": "kjv:psalms:63:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:63:8",
+      "numberLabel": "8",
+      "text": "My soul followeth hard after thee: thy right hand upholdeth me.",
+      "metadata": {
+        "reference": "Psalms 63:8",
+        "verseKey": "kjv:psalms:63:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:63:9",
+      "numberLabel": "9",
+      "text": "But those that seek my soul, to destroy it, shall go into the lower parts of the earth.",
+      "metadata": {
+        "reference": "Psalms 63:9",
+        "verseKey": "kjv:psalms:63:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:63:10",
+      "numberLabel": "10",
+      "text": "They shall fall by the sword: they shall be a portion for foxes.",
+      "metadata": {
+        "reference": "Psalms 63:10",
+        "verseKey": "kjv:psalms:63:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:63:11",
+      "numberLabel": "11",
+      "text": "But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.",
+      "metadata": {
+        "reference": "Psalms 63:11",
+        "verseKey": "kjv:psalms:63:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

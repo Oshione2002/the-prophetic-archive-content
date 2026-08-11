@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-corinthians-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "2 Corinthians 1",
+  "display_title": "2 Corinthians 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-corinthians",
+  "book": "2 Corinthians",
+  "bookName": "2 Corinthians",
+  "bookOrder": 47,
+  "testament": "new",
+  "chapter": 1,
+  "sortOrder": 47001,
+  "verseCount": 24,
+  "aliases": [
+    "2 Cor",
+    "2Cor",
+    "2 Co",
+    "2Co"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-corinthians:1:1",
+      "numberLabel": "1",
+      "text": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:",
+      "metadata": {
+        "reference": "2 Corinthians 1:1",
+        "verseKey": "kjv:2-corinthians:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-corinthians:1:2",
+      "numberLabel": "2",
+      "text": "Grace be to you and peace from God our Father, and from the Lord Jesus Christ.",
+      "metadata": {
+        "reference": "2 Corinthians 1:2",
+        "verseKey": "kjv:2-corinthians:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-corinthians:1:3",
+      "numberLabel": "3",
+      "text": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;",
+      "metadata": {
+        "reference": "2 Corinthians 1:3",
+        "verseKey": "kjv:2-corinthians:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-corinthians:1:4",
+      "numberLabel": "4",
+      "text": "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.",
+      "metadata": {
+        "reference": "2 Corinthians 1:4",
+        "verseKey": "kjv:2-corinthians:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-corinthians:1:5",
+      "numberLabel": "5",
+      "text": "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.",
+      "metadata": {
+        "reference": "2 Corinthians 1:5",
+        "verseKey": "kjv:2-corinthians:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-corinthians:1:6",
+      "numberLabel": "6",
+      "text": "And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.",
+      "metadata": {
+        "reference": "2 Corinthians 1:6",
+        "verseKey": "kjv:2-corinthians:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-corinthians:1:7",
+      "numberLabel": "7",
+      "text": "And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.",
+      "metadata": {
+        "reference": "2 Corinthians 1:7",
+        "verseKey": "kjv:2-corinthians:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-corinthians:1:8",
+      "numberLabel": "8",
+      "text": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:",
+      "metadata": {
+        "reference": "2 Corinthians 1:8",
+        "verseKey": "kjv:2-corinthians:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-corinthians:1:9",
+      "numberLabel": "9",
+      "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:",
+      "metadata": {
+        "reference": "2 Corinthians 1:9",
+        "verseKey": "kjv:2-corinthians:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-corinthians:1:10",
+      "numberLabel": "10",
+      "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;",
+      "metadata": {
+        "reference": "2 Corinthians 1:10",
+        "verseKey": "kjv:2-corinthians:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-corinthians:1:11",
+      "numberLabel": "11",
+      "text": "Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.",
+      "metadata": {
+        "reference": "2 Corinthians 1:11",
+        "verseKey": "kjv:2-corinthians:1:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-corinthians:1:12",
+      "numberLabel": "12",
+      "text": "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.",
+      "metadata": {
+        "reference": "2 Corinthians 1:12",
+        "verseKey": "kjv:2-corinthians:1:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-corinthians:1:13",
+      "numberLabel": "13",
+      "text": "For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;",
+      "metadata": {
+        "reference": "2 Corinthians 1:13",
+        "verseKey": "kjv:2-corinthians:1:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-corinthians:1:14",
+      "numberLabel": "14",
+      "text": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.",
+      "metadata": {
+        "reference": "2 Corinthians 1:14",
+        "verseKey": "kjv:2-corinthians:1:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-corinthians:1:15",
+      "numberLabel": "15",
+      "text": "And in this confidence I was minded to come unto you before, that ye might have a second benefit;",
+      "metadata": {
+        "reference": "2 Corinthians 1:15",
+        "verseKey": "kjv:2-corinthians:1:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-corinthians:1:16",
+      "numberLabel": "16",
+      "text": "And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea.",
+      "metadata": {
+        "reference": "2 Corinthians 1:16",
+        "verseKey": "kjv:2-corinthians:1:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-corinthians:1:17",
+      "numberLabel": "17",
+      "text": "When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?",
+      "metadata": {
+        "reference": "2 Corinthians 1:17",
+        "verseKey": "kjv:2-corinthians:1:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-corinthians:1:18",
+      "numberLabel": "18",
+      "text": "But as God is true, our word toward you was not yea and nay.",
+      "metadata": {
+        "reference": "2 Corinthians 1:18",
+        "verseKey": "kjv:2-corinthians:1:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-corinthians:1:19",
+      "numberLabel": "19",
+      "text": "For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.",
+      "metadata": {
+        "reference": "2 Corinthians 1:19",
+        "verseKey": "kjv:2-corinthians:1:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-corinthians:1:20",
+      "numberLabel": "20",
+      "text": "For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.",
+      "metadata": {
+        "reference": "2 Corinthians 1:20",
+        "verseKey": "kjv:2-corinthians:1:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-corinthians:1:21",
+      "numberLabel": "21",
+      "text": "Now he which stablisheth us with you in Christ, and hath anointed us, is God;",
+      "metadata": {
+        "reference": "2 Corinthians 1:21",
+        "verseKey": "kjv:2-corinthians:1:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-corinthians:1:22",
+      "numberLabel": "22",
+      "text": "Who hath also sealed us, and given the earnest of the Spirit in our hearts.",
+      "metadata": {
+        "reference": "2 Corinthians 1:22",
+        "verseKey": "kjv:2-corinthians:1:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-corinthians:1:23",
+      "numberLabel": "23",
+      "text": "Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth.",
+      "metadata": {
+        "reference": "2 Corinthians 1:23",
+        "verseKey": "kjv:2-corinthians:1:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-corinthians:1:24",
+      "numberLabel": "24",
+      "text": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.",
+      "metadata": {
+        "reference": "2 Corinthians 1:24",
+        "verseKey": "kjv:2-corinthians:1:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Corinthians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Corinthians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

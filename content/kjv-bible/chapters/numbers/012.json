@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Numbers 12",
+  "display_title": "Numbers 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 4012,
+  "verseCount": 16,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:12:1",
+      "numberLabel": "1",
+      "text": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.",
+      "metadata": {
+        "reference": "Numbers 12:1",
+        "verseKey": "kjv:numbers:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:12:2",
+      "numberLabel": "2",
+      "text": "And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it.",
+      "metadata": {
+        "reference": "Numbers 12:2",
+        "verseKey": "kjv:numbers:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:12:3",
+      "numberLabel": "3",
+      "text": "(Now the man Moses was very meek, above all the men which were upon the face of the earth.)",
+      "metadata": {
+        "reference": "Numbers 12:3",
+        "verseKey": "kjv:numbers:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:12:4",
+      "numberLabel": "4",
+      "text": "And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out.",
+      "metadata": {
+        "reference": "Numbers 12:4",
+        "verseKey": "kjv:numbers:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:12:5",
+      "numberLabel": "5",
+      "text": "And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.",
+      "metadata": {
+        "reference": "Numbers 12:5",
+        "verseKey": "kjv:numbers:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:12:6",
+      "numberLabel": "6",
+      "text": "And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.",
+      "metadata": {
+        "reference": "Numbers 12:6",
+        "verseKey": "kjv:numbers:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:12:7",
+      "numberLabel": "7",
+      "text": "My servant Moses is not so, who is faithful in all mine house.",
+      "metadata": {
+        "reference": "Numbers 12:7",
+        "verseKey": "kjv:numbers:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:12:8",
+      "numberLabel": "8",
+      "text": "With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?",
+      "metadata": {
+        "reference": "Numbers 12:8",
+        "verseKey": "kjv:numbers:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:12:9",
+      "numberLabel": "9",
+      "text": "And the anger of the LORD was kindled against them; and he departed.",
+      "metadata": {
+        "reference": "Numbers 12:9",
+        "verseKey": "kjv:numbers:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:12:10",
+      "numberLabel": "10",
+      "text": "And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous.",
+      "metadata": {
+        "reference": "Numbers 12:10",
+        "verseKey": "kjv:numbers:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:12:11",
+      "numberLabel": "11",
+      "text": "And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned.",
+      "metadata": {
+        "reference": "Numbers 12:11",
+        "verseKey": "kjv:numbers:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:12:12",
+      "numberLabel": "12",
+      "text": "Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.",
+      "metadata": {
+        "reference": "Numbers 12:12",
+        "verseKey": "kjv:numbers:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:12:13",
+      "numberLabel": "13",
+      "text": "And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.",
+      "metadata": {
+        "reference": "Numbers 12:13",
+        "verseKey": "kjv:numbers:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:12:14",
+      "numberLabel": "14",
+      "text": "And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again.",
+      "metadata": {
+        "reference": "Numbers 12:14",
+        "verseKey": "kjv:numbers:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:12:15",
+      "numberLabel": "15",
+      "text": "And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again.",
+      "metadata": {
+        "reference": "Numbers 12:15",
+        "verseKey": "kjv:numbers:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:12:16",
+      "numberLabel": "16",
+      "text": "And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.",
+      "metadata": {
+        "reference": "Numbers 12:16",
+        "verseKey": "kjv:numbers:12:16"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

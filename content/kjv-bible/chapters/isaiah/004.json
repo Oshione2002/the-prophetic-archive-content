@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Isaiah 4",
+  "display_title": "Isaiah 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 4,
+  "sortOrder": 23004,
+  "verseCount": 6,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:4:1",
+      "numberLabel": "1",
+      "text": "And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.",
+      "metadata": {
+        "reference": "Isaiah 4:1",
+        "verseKey": "kjv:isaiah:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:4:2",
+      "numberLabel": "2",
+      "text": "In that day shall the branch of the LORD be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.",
+      "metadata": {
+        "reference": "Isaiah 4:2",
+        "verseKey": "kjv:isaiah:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:4:3",
+      "numberLabel": "3",
+      "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written among the living in Jerusalem:",
+      "metadata": {
+        "reference": "Isaiah 4:3",
+        "verseKey": "kjv:isaiah:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:4:4",
+      "numberLabel": "4",
+      "text": "When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning.",
+      "metadata": {
+        "reference": "Isaiah 4:4",
+        "verseKey": "kjv:isaiah:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:4:5",
+      "numberLabel": "5",
+      "text": "And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence.",
+      "metadata": {
+        "reference": "Isaiah 4:5",
+        "verseKey": "kjv:isaiah:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:4:6",
+      "numberLabel": "6",
+      "text": "And there shall be a tabernacle for a shadow in the day time from the heat, and for a place of refuge, and for a covert from storm and from rain.",
+      "metadata": {
+        "reference": "Isaiah 4:6",
+        "verseKey": "kjv:isaiah:4:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

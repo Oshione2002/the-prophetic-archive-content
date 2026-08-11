@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Ezekiel 15",
+  "display_title": "Ezekiel 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 15,
+  "sortOrder": 26015,
+  "verseCount": 8,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:15:1",
+      "numberLabel": "1",
+      "text": "And the word of the LORD came unto me, saying,",
+      "metadata": {
+        "reference": "Ezekiel 15:1",
+        "verseKey": "kjv:ezekiel:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:15:2",
+      "numberLabel": "2",
+      "text": "Son of man, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?",
+      "metadata": {
+        "reference": "Ezekiel 15:2",
+        "verseKey": "kjv:ezekiel:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:15:3",
+      "numberLabel": "3",
+      "text": "Shall wood be taken thereof to do any work? or will men take a pin of it to hang any vessel thereon?",
+      "metadata": {
+        "reference": "Ezekiel 15:3",
+        "verseKey": "kjv:ezekiel:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:15:4",
+      "numberLabel": "4",
+      "text": "Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for any work?",
+      "metadata": {
+        "reference": "Ezekiel 15:4",
+        "verseKey": "kjv:ezekiel:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:15:5",
+      "numberLabel": "5",
+      "text": "Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for any work, when the fire hath devoured it, and it is burned?",
+      "metadata": {
+        "reference": "Ezekiel 15:5",
+        "verseKey": "kjv:ezekiel:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:15:6",
+      "numberLabel": "6",
+      "text": "Therefore thus saith the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.",
+      "metadata": {
+        "reference": "Ezekiel 15:6",
+        "verseKey": "kjv:ezekiel:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:15:7",
+      "numberLabel": "7",
+      "text": "And I will set my face against them; they shall go out from one fire, and another fire shall devour them; and ye shall know that I am the LORD, when I set my face against them.",
+      "metadata": {
+        "reference": "Ezekiel 15:7",
+        "verseKey": "kjv:ezekiel:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:15:8",
+      "numberLabel": "8",
+      "text": "And I will make the land desolate, because they have committed a trespass, saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 15:8",
+        "verseKey": "kjv:ezekiel:15:8"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Matthew 9",
+  "display_title": "Matthew 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 9,
+  "sortOrder": 40009,
+  "verseCount": 38,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:9:1",
+      "numberLabel": "1",
+      "text": "And he entered into a ship, and passed over, and came into his own city.",
+      "metadata": {
+        "reference": "Matthew 9:1",
+        "verseKey": "kjv:matthew:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:9:2",
+      "numberLabel": "2",
+      "text": "And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee.",
+      "metadata": {
+        "reference": "Matthew 9:2",
+        "verseKey": "kjv:matthew:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:9:3",
+      "numberLabel": "3",
+      "text": "And, behold, certain of the scribes said within themselves, This man blasphemeth.",
+      "metadata": {
+        "reference": "Matthew 9:3",
+        "verseKey": "kjv:matthew:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:9:4",
+      "numberLabel": "4",
+      "text": "And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?",
+      "metadata": {
+        "reference": "Matthew 9:4",
+        "verseKey": "kjv:matthew:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:9:5",
+      "numberLabel": "5",
+      "text": "For whether is easier, to say, Thy sins be forgiven thee; or to say, Arise, and walk?",
+      "metadata": {
+        "reference": "Matthew 9:5",
+        "verseKey": "kjv:matthew:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:9:6",
+      "numberLabel": "6",
+      "text": "But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.",
+      "metadata": {
+        "reference": "Matthew 9:6",
+        "verseKey": "kjv:matthew:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:9:7",
+      "numberLabel": "7",
+      "text": "And he arose, and departed to his house.",
+      "metadata": {
+        "reference": "Matthew 9:7",
+        "verseKey": "kjv:matthew:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:9:8",
+      "numberLabel": "8",
+      "text": "But when the multitudes saw it, they marvelled, and glorified God, which had given such power unto men.",
+      "metadata": {
+        "reference": "Matthew 9:8",
+        "verseKey": "kjv:matthew:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:9:9",
+      "numberLabel": "9",
+      "text": "And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.",
+      "metadata": {
+        "reference": "Matthew 9:9",
+        "verseKey": "kjv:matthew:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:9:10",
+      "numberLabel": "10",
+      "text": "And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.",
+      "metadata": {
+        "reference": "Matthew 9:10",
+        "verseKey": "kjv:matthew:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:9:11",
+      "numberLabel": "11",
+      "text": "And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?",
+      "metadata": {
+        "reference": "Matthew 9:11",
+        "verseKey": "kjv:matthew:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:9:12",
+      "numberLabel": "12",
+      "text": "But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.",
+      "metadata": {
+        "reference": "Matthew 9:12",
+        "verseKey": "kjv:matthew:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:9:13",
+      "numberLabel": "13",
+      "text": "But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.",
+      "metadata": {
+        "reference": "Matthew 9:13",
+        "verseKey": "kjv:matthew:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:9:14",
+      "numberLabel": "14",
+      "text": "Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?",
+      "metadata": {
+        "reference": "Matthew 9:14",
+        "verseKey": "kjv:matthew:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:9:15",
+      "numberLabel": "15",
+      "text": "And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.",
+      "metadata": {
+        "reference": "Matthew 9:15",
+        "verseKey": "kjv:matthew:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:9:16",
+      "numberLabel": "16",
+      "text": "No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.",
+      "metadata": {
+        "reference": "Matthew 9:16",
+        "verseKey": "kjv:matthew:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:9:17",
+      "numberLabel": "17",
+      "text": "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.",
+      "metadata": {
+        "reference": "Matthew 9:17",
+        "verseKey": "kjv:matthew:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:9:18",
+      "numberLabel": "18",
+      "text": "While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.",
+      "metadata": {
+        "reference": "Matthew 9:18",
+        "verseKey": "kjv:matthew:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:9:19",
+      "numberLabel": "19",
+      "text": "And Jesus arose, and followed him, and so did his disciples.",
+      "metadata": {
+        "reference": "Matthew 9:19",
+        "verseKey": "kjv:matthew:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:9:20",
+      "numberLabel": "20",
+      "text": "And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:",
+      "metadata": {
+        "reference": "Matthew 9:20",
+        "verseKey": "kjv:matthew:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:9:21",
+      "numberLabel": "21",
+      "text": "For she said within herself, If I may but touch his garment, I shall be whole.",
+      "metadata": {
+        "reference": "Matthew 9:21",
+        "verseKey": "kjv:matthew:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:9:22",
+      "numberLabel": "22",
+      "text": "But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.",
+      "metadata": {
+        "reference": "Matthew 9:22",
+        "verseKey": "kjv:matthew:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:9:23",
+      "numberLabel": "23",
+      "text": "And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,",
+      "metadata": {
+        "reference": "Matthew 9:23",
+        "verseKey": "kjv:matthew:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:9:24",
+      "numberLabel": "24",
+      "text": "He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn.",
+      "metadata": {
+        "reference": "Matthew 9:24",
+        "verseKey": "kjv:matthew:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:9:25",
+      "numberLabel": "25",
+      "text": "But when the people were put forth, he went in, and took her by the hand, and the maid arose.",
+      "metadata": {
+        "reference": "Matthew 9:25",
+        "verseKey": "kjv:matthew:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:9:26",
+      "numberLabel": "26",
+      "text": "And the fame hereof went abroad into all that land.",
+      "metadata": {
+        "reference": "Matthew 9:26",
+        "verseKey": "kjv:matthew:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:9:27",
+      "numberLabel": "27",
+      "text": "And when Jesus departed thence, two blind men followed him, crying, and saying, Thou son of David, have mercy on us.",
+      "metadata": {
+        "reference": "Matthew 9:27",
+        "verseKey": "kjv:matthew:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:9:28",
+      "numberLabel": "28",
+      "text": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord.",
+      "metadata": {
+        "reference": "Matthew 9:28",
+        "verseKey": "kjv:matthew:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:9:29",
+      "numberLabel": "29",
+      "text": "Then touched he their eyes, saying, According to your faith be it unto you.",
+      "metadata": {
+        "reference": "Matthew 9:29",
+        "verseKey": "kjv:matthew:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:9:30",
+      "numberLabel": "30",
+      "text": "And their eyes were opened; and Jesus straitly charged them, saying, See that no man know it.",
+      "metadata": {
+        "reference": "Matthew 9:30",
+        "verseKey": "kjv:matthew:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:9:31",
+      "numberLabel": "31",
+      "text": "But they, when they were departed, spread abroad his fame in all that country.",
+      "metadata": {
+        "reference": "Matthew 9:31",
+        "verseKey": "kjv:matthew:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:9:32",
+      "numberLabel": "32",
+      "text": "As they went out, behold, they brought to him a dumb man possessed with a devil.",
+      "metadata": {
+        "reference": "Matthew 9:32",
+        "verseKey": "kjv:matthew:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:9:33",
+      "numberLabel": "33",
+      "text": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.",
+      "metadata": {
+        "reference": "Matthew 9:33",
+        "verseKey": "kjv:matthew:9:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:9:34",
+      "numberLabel": "34",
+      "text": "But the Pharisees said, He casteth out devils through the prince of the devils.",
+      "metadata": {
+        "reference": "Matthew 9:34",
+        "verseKey": "kjv:matthew:9:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:9:35",
+      "numberLabel": "35",
+      "text": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.",
+      "metadata": {
+        "reference": "Matthew 9:35",
+        "verseKey": "kjv:matthew:9:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:matthew:9:36",
+      "numberLabel": "36",
+      "text": "But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.",
+      "metadata": {
+        "reference": "Matthew 9:36",
+        "verseKey": "kjv:matthew:9:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:matthew:9:37",
+      "numberLabel": "37",
+      "text": "Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few;",
+      "metadata": {
+        "reference": "Matthew 9:37",
+        "verseKey": "kjv:matthew:9:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:matthew:9:38",
+      "numberLabel": "38",
+      "text": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
+      "metadata": {
+        "reference": "Matthew 9:38",
+        "verseKey": "kjv:matthew:9:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

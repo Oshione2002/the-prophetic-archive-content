@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-026",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 26,
+  "title": "Deuteronomy 26",
+  "display_title": "Deuteronomy 26",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 26,
+  "sortOrder": 5026,
+  "verseCount": 19,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:26:1",
+      "numberLabel": "1",
+      "text": "And it shall be, when thou art come in unto the land which the LORD thy God giveth thee for an inheritance, and possessest it, and dwellest therein;",
+      "metadata": {
+        "reference": "Deuteronomy 26:1",
+        "verseKey": "kjv:deuteronomy:26:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:26:2",
+      "numberLabel": "2",
+      "text": "That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put it in a basket, and shalt go unto the place which the LORD thy God shall choose to place his name there.",
+      "metadata": {
+        "reference": "Deuteronomy 26:2",
+        "verseKey": "kjv:deuteronomy:26:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:26:3",
+      "numberLabel": "3",
+      "text": "And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the LORD thy God, that I am come unto the country which the LORD sware unto our fathers for to give us.",
+      "metadata": {
+        "reference": "Deuteronomy 26:3",
+        "verseKey": "kjv:deuteronomy:26:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:26:4",
+      "numberLabel": "4",
+      "text": "And the priest shall take the basket out of thine hand, and set it down before the altar of the LORD thy God.",
+      "metadata": {
+        "reference": "Deuteronomy 26:4",
+        "verseKey": "kjv:deuteronomy:26:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:26:5",
+      "numberLabel": "5",
+      "text": "And thou shalt speak and say before the LORD thy God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:",
+      "metadata": {
+        "reference": "Deuteronomy 26:5",
+        "verseKey": "kjv:deuteronomy:26:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:26:6",
+      "numberLabel": "6",
+      "text": "And the Egyptians evil entreated us, and afflicted us, and laid upon us hard bondage:",
+      "metadata": {
+        "reference": "Deuteronomy 26:6",
+        "verseKey": "kjv:deuteronomy:26:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:26:7",
+      "numberLabel": "7",
+      "text": "And when we cried unto the LORD God of our fathers, the LORD heard our voice, and looked on our affliction, and our labour, and our oppression:",
+      "metadata": {
+        "reference": "Deuteronomy 26:7",
+        "verseKey": "kjv:deuteronomy:26:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:26:8",
+      "numberLabel": "8",
+      "text": "And the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:",
+      "metadata": {
+        "reference": "Deuteronomy 26:8",
+        "verseKey": "kjv:deuteronomy:26:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:26:9",
+      "numberLabel": "9",
+      "text": "And he hath brought us into this place, and hath given us this land, even a land that floweth with milk and honey.",
+      "metadata": {
+        "reference": "Deuteronomy 26:9",
+        "verseKey": "kjv:deuteronomy:26:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:26:10",
+      "numberLabel": "10",
+      "text": "And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me. And thou shalt set it before the LORD thy God, and worship before the LORD thy God:",
+      "metadata": {
+        "reference": "Deuteronomy 26:10",
+        "verseKey": "kjv:deuteronomy:26:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:26:11",
+      "numberLabel": "11",
+      "text": "And thou shalt rejoice in every good thing which the LORD thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that is among you.",
+      "metadata": {
+        "reference": "Deuteronomy 26:11",
+        "verseKey": "kjv:deuteronomy:26:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:26:12",
+      "numberLabel": "12",
+      "text": "When thou hast made an end of tithing all the tithes of thine increase the third year, which is the year of tithing, and hast given it unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;",
+      "metadata": {
+        "reference": "Deuteronomy 26:12",
+        "verseKey": "kjv:deuteronomy:26:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:26:13",
+      "numberLabel": "13",
+      "text": "Then thou shalt say before the LORD thy God, I have brought away the hallowed things out of mine house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten them:",
+      "metadata": {
+        "reference": "Deuteronomy 26:13",
+        "verseKey": "kjv:deuteronomy:26:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:26:14",
+      "numberLabel": "14",
+      "text": "I have not eaten thereof in my mourning, neither have I taken away ought thereof for any unclean use, nor given ought thereof for the dead: but I have hearkened to the voice of the LORD my God, and have done according to all that thou hast commanded me.",
+      "metadata": {
+        "reference": "Deuteronomy 26:14",
+        "verseKey": "kjv:deuteronomy:26:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:26:15",
+      "numberLabel": "15",
+      "text": "Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.",
+      "metadata": {
+        "reference": "Deuteronomy 26:15",
+        "verseKey": "kjv:deuteronomy:26:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:26:16",
+      "numberLabel": "16",
+      "text": "This day the LORD thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul.",
+      "metadata": {
+        "reference": "Deuteronomy 26:16",
+        "verseKey": "kjv:deuteronomy:26:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:26:17",
+      "numberLabel": "17",
+      "text": "Thou hast avouched the LORD this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice:",
+      "metadata": {
+        "reference": "Deuteronomy 26:17",
+        "verseKey": "kjv:deuteronomy:26:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:26:18",
+      "numberLabel": "18",
+      "text": "And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that thou shouldest keep all his commandments;",
+      "metadata": {
+        "reference": "Deuteronomy 26:18",
+        "verseKey": "kjv:deuteronomy:26:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:26:19",
+      "numberLabel": "19",
+      "text": "And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the LORD thy God, as he hath spoken.",
+      "metadata": {
+        "reference": "Deuteronomy 26:19",
+        "verseKey": "kjv:deuteronomy:26:19"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

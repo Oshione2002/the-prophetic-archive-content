@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-041",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 41,
+  "title": "Job 41",
+  "display_title": "Job 41",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 41,
+  "sortOrder": 18041,
+  "verseCount": 34,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:41:1",
+      "numberLabel": "1",
+      "text": "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?",
+      "metadata": {
+        "reference": "Job 41:1",
+        "verseKey": "kjv:job:41:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:41:2",
+      "numberLabel": "2",
+      "text": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
+      "metadata": {
+        "reference": "Job 41:2",
+        "verseKey": "kjv:job:41:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:41:3",
+      "numberLabel": "3",
+      "text": "Will he make many supplications unto thee? will he speak soft words unto thee?",
+      "metadata": {
+        "reference": "Job 41:3",
+        "verseKey": "kjv:job:41:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:41:4",
+      "numberLabel": "4",
+      "text": "Will he make a covenant with thee? wilt thou take him for a servant for ever?",
+      "metadata": {
+        "reference": "Job 41:4",
+        "verseKey": "kjv:job:41:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:41:5",
+      "numberLabel": "5",
+      "text": "Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?",
+      "metadata": {
+        "reference": "Job 41:5",
+        "verseKey": "kjv:job:41:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:41:6",
+      "numberLabel": "6",
+      "text": "Shall the companions make a banquet of him? shall they part him among the merchants?",
+      "metadata": {
+        "reference": "Job 41:6",
+        "verseKey": "kjv:job:41:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:41:7",
+      "numberLabel": "7",
+      "text": "Canst thou fill his skin with barbed irons? or his head with fish spears?",
+      "metadata": {
+        "reference": "Job 41:7",
+        "verseKey": "kjv:job:41:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:41:8",
+      "numberLabel": "8",
+      "text": "Lay thine hand upon him, remember the battle, do no more.",
+      "metadata": {
+        "reference": "Job 41:8",
+        "verseKey": "kjv:job:41:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:41:9",
+      "numberLabel": "9",
+      "text": "Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?",
+      "metadata": {
+        "reference": "Job 41:9",
+        "verseKey": "kjv:job:41:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:41:10",
+      "numberLabel": "10",
+      "text": "None is so fierce that dare stir him up: who then is able to stand before me?",
+      "metadata": {
+        "reference": "Job 41:10",
+        "verseKey": "kjv:job:41:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:41:11",
+      "numberLabel": "11",
+      "text": "Who hath prevented me, that I should repay him? whatsoever is under the whole heaven is mine.",
+      "metadata": {
+        "reference": "Job 41:11",
+        "verseKey": "kjv:job:41:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:41:12",
+      "numberLabel": "12",
+      "text": "I will not conceal his parts, nor his power, nor his comely proportion.",
+      "metadata": {
+        "reference": "Job 41:12",
+        "verseKey": "kjv:job:41:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:41:13",
+      "numberLabel": "13",
+      "text": "Who can discover the face of his garment? or who can come to him with his double bridle?",
+      "metadata": {
+        "reference": "Job 41:13",
+        "verseKey": "kjv:job:41:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:41:14",
+      "numberLabel": "14",
+      "text": "Who can open the doors of his face? his teeth are terrible round about.",
+      "metadata": {
+        "reference": "Job 41:14",
+        "verseKey": "kjv:job:41:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:41:15",
+      "numberLabel": "15",
+      "text": "His scales are his pride, shut up together as with a close seal.",
+      "metadata": {
+        "reference": "Job 41:15",
+        "verseKey": "kjv:job:41:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:41:16",
+      "numberLabel": "16",
+      "text": "One is so near to another, that no air can come between them.",
+      "metadata": {
+        "reference": "Job 41:16",
+        "verseKey": "kjv:job:41:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:41:17",
+      "numberLabel": "17",
+      "text": "They are joined one to another, they stick together, that they cannot be sundered.",
+      "metadata": {
+        "reference": "Job 41:17",
+        "verseKey": "kjv:job:41:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:41:18",
+      "numberLabel": "18",
+      "text": "By his neesings a light doth shine, and his eyes are like the eyelids of the morning.",
+      "metadata": {
+        "reference": "Job 41:18",
+        "verseKey": "kjv:job:41:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:41:19",
+      "numberLabel": "19",
+      "text": "Out of his mouth go burning lamps, and sparks of fire leap out.",
+      "metadata": {
+        "reference": "Job 41:19",
+        "verseKey": "kjv:job:41:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:41:20",
+      "numberLabel": "20",
+      "text": "Out of his nostrils goeth smoke, as out of a seething pot or caldron.",
+      "metadata": {
+        "reference": "Job 41:20",
+        "verseKey": "kjv:job:41:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:41:21",
+      "numberLabel": "21",
+      "text": "His breath kindleth coals, and a flame goeth out of his mouth.",
+      "metadata": {
+        "reference": "Job 41:21",
+        "verseKey": "kjv:job:41:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:41:22",
+      "numberLabel": "22",
+      "text": "In his neck remaineth strength, and sorrow is turned into joy before him.",
+      "metadata": {
+        "reference": "Job 41:22",
+        "verseKey": "kjv:job:41:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:41:23",
+      "numberLabel": "23",
+      "text": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
+      "metadata": {
+        "reference": "Job 41:23",
+        "verseKey": "kjv:job:41:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:41:24",
+      "numberLabel": "24",
+      "text": "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.",
+      "metadata": {
+        "reference": "Job 41:24",
+        "verseKey": "kjv:job:41:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:41:25",
+      "numberLabel": "25",
+      "text": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+      "metadata": {
+        "reference": "Job 41:25",
+        "verseKey": "kjv:job:41:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:41:26",
+      "numberLabel": "26",
+      "text": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
+      "metadata": {
+        "reference": "Job 41:26",
+        "verseKey": "kjv:job:41:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:41:27",
+      "numberLabel": "27",
+      "text": "He esteemeth iron as straw, and brass as rotten wood.",
+      "metadata": {
+        "reference": "Job 41:27",
+        "verseKey": "kjv:job:41:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:41:28",
+      "numberLabel": "28",
+      "text": "The arrow cannot make him flee: slingstones are turned with him into stubble.",
+      "metadata": {
+        "reference": "Job 41:28",
+        "verseKey": "kjv:job:41:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:41:29",
+      "numberLabel": "29",
+      "text": "Darts are counted as stubble: he laugheth at the shaking of a spear.",
+      "metadata": {
+        "reference": "Job 41:29",
+        "verseKey": "kjv:job:41:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:41:30",
+      "numberLabel": "30",
+      "text": "Sharp stones are under him: he spreadeth sharp pointed things upon the mire.",
+      "metadata": {
+        "reference": "Job 41:30",
+        "verseKey": "kjv:job:41:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:job:41:31",
+      "numberLabel": "31",
+      "text": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
+      "metadata": {
+        "reference": "Job 41:31",
+        "verseKey": "kjv:job:41:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:job:41:32",
+      "numberLabel": "32",
+      "text": "He maketh a path to shine after him; one would think the deep to be hoary.",
+      "metadata": {
+        "reference": "Job 41:32",
+        "verseKey": "kjv:job:41:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:job:41:33",
+      "numberLabel": "33",
+      "text": "Upon earth there is not his like, who is made without fear.",
+      "metadata": {
+        "reference": "Job 41:33",
+        "verseKey": "kjv:job:41:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:job:41:34",
+      "numberLabel": "34",
+      "text": "He beholdeth all high things: he is a king over all the children of pride.",
+      "metadata": {
+        "reference": "Job 41:34",
+        "verseKey": "kjv:job:41:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

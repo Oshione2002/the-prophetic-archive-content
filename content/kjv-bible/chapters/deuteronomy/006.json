@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Deuteronomy 6",
+  "display_title": "Deuteronomy 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 5006,
+  "verseCount": 25,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:6:1",
+      "numberLabel": "1",
+      "text": "Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it:",
+      "metadata": {
+        "reference": "Deuteronomy 6:1",
+        "verseKey": "kjv:deuteronomy:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:6:2",
+      "numberLabel": "2",
+      "text": "That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged.",
+      "metadata": {
+        "reference": "Deuteronomy 6:2",
+        "verseKey": "kjv:deuteronomy:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:6:3",
+      "numberLabel": "3",
+      "text": "Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey.",
+      "metadata": {
+        "reference": "Deuteronomy 6:3",
+        "verseKey": "kjv:deuteronomy:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:6:4",
+      "numberLabel": "4",
+      "text": "Hear, O Israel: The LORD our God is one LORD:",
+      "metadata": {
+        "reference": "Deuteronomy 6:4",
+        "verseKey": "kjv:deuteronomy:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:6:5",
+      "numberLabel": "5",
+      "text": "And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.",
+      "metadata": {
+        "reference": "Deuteronomy 6:5",
+        "verseKey": "kjv:deuteronomy:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:6:6",
+      "numberLabel": "6",
+      "text": "And these words, which I command thee this day, shall be in thine heart:",
+      "metadata": {
+        "reference": "Deuteronomy 6:6",
+        "verseKey": "kjv:deuteronomy:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:6:7",
+      "numberLabel": "7",
+      "text": "And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.",
+      "metadata": {
+        "reference": "Deuteronomy 6:7",
+        "verseKey": "kjv:deuteronomy:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:6:8",
+      "numberLabel": "8",
+      "text": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.",
+      "metadata": {
+        "reference": "Deuteronomy 6:8",
+        "verseKey": "kjv:deuteronomy:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:6:9",
+      "numberLabel": "9",
+      "text": "And thou shalt write them upon the posts of thy house, and on thy gates.",
+      "metadata": {
+        "reference": "Deuteronomy 6:9",
+        "verseKey": "kjv:deuteronomy:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:6:10",
+      "numberLabel": "10",
+      "text": "And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,",
+      "metadata": {
+        "reference": "Deuteronomy 6:10",
+        "verseKey": "kjv:deuteronomy:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:6:11",
+      "numberLabel": "11",
+      "text": "And houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;",
+      "metadata": {
+        "reference": "Deuteronomy 6:11",
+        "verseKey": "kjv:deuteronomy:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:6:12",
+      "numberLabel": "12",
+      "text": "Then beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.",
+      "metadata": {
+        "reference": "Deuteronomy 6:12",
+        "verseKey": "kjv:deuteronomy:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:6:13",
+      "numberLabel": "13",
+      "text": "Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.",
+      "metadata": {
+        "reference": "Deuteronomy 6:13",
+        "verseKey": "kjv:deuteronomy:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:6:14",
+      "numberLabel": "14",
+      "text": "Ye shall not go after other gods, of the gods of the people which are round about you;",
+      "metadata": {
+        "reference": "Deuteronomy 6:14",
+        "verseKey": "kjv:deuteronomy:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:6:15",
+      "numberLabel": "15",
+      "text": "(For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.",
+      "metadata": {
+        "reference": "Deuteronomy 6:15",
+        "verseKey": "kjv:deuteronomy:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:6:16",
+      "numberLabel": "16",
+      "text": "Ye shall not tempt the LORD your God, as ye tempted him in Massah.",
+      "metadata": {
+        "reference": "Deuteronomy 6:16",
+        "verseKey": "kjv:deuteronomy:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:6:17",
+      "numberLabel": "17",
+      "text": "Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.",
+      "metadata": {
+        "reference": "Deuteronomy 6:17",
+        "verseKey": "kjv:deuteronomy:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:6:18",
+      "numberLabel": "18",
+      "text": "And thou shalt do that which is right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers,",
+      "metadata": {
+        "reference": "Deuteronomy 6:18",
+        "verseKey": "kjv:deuteronomy:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:6:19",
+      "numberLabel": "19",
+      "text": "To cast out all thine enemies from before thee, as the LORD hath spoken.",
+      "metadata": {
+        "reference": "Deuteronomy 6:19",
+        "verseKey": "kjv:deuteronomy:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:6:20",
+      "numberLabel": "20",
+      "text": "And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?",
+      "metadata": {
+        "reference": "Deuteronomy 6:20",
+        "verseKey": "kjv:deuteronomy:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:6:21",
+      "numberLabel": "21",
+      "text": "Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:",
+      "metadata": {
+        "reference": "Deuteronomy 6:21",
+        "verseKey": "kjv:deuteronomy:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:6:22",
+      "numberLabel": "22",
+      "text": "And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:",
+      "metadata": {
+        "reference": "Deuteronomy 6:22",
+        "verseKey": "kjv:deuteronomy:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:6:23",
+      "numberLabel": "23",
+      "text": "And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.",
+      "metadata": {
+        "reference": "Deuteronomy 6:23",
+        "verseKey": "kjv:deuteronomy:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:deuteronomy:6:24",
+      "numberLabel": "24",
+      "text": "And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as it is at this day.",
+      "metadata": {
+        "reference": "Deuteronomy 6:24",
+        "verseKey": "kjv:deuteronomy:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:deuteronomy:6:25",
+      "numberLabel": "25",
+      "text": "And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.",
+      "metadata": {
+        "reference": "Deuteronomy 6:25",
+        "verseKey": "kjv:deuteronomy:6:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

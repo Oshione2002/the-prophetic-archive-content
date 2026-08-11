@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "John 13",
+  "display_title": "John 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 13,
+  "sortOrder": 43013,
+  "verseCount": 38,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:13:1",
+      "numberLabel": "1",
+      "text": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.",
+      "metadata": {
+        "reference": "John 13:1",
+        "verseKey": "kjv:john:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:13:2",
+      "numberLabel": "2",
+      "text": "And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon’s son, to betray him;",
+      "metadata": {
+        "reference": "John 13:2",
+        "verseKey": "kjv:john:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:13:3",
+      "numberLabel": "3",
+      "text": "Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;",
+      "metadata": {
+        "reference": "John 13:3",
+        "verseKey": "kjv:john:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:13:4",
+      "numberLabel": "4",
+      "text": "He riseth from supper, and laid aside his garments; and took a towel, and girded himself.",
+      "metadata": {
+        "reference": "John 13:4",
+        "verseKey": "kjv:john:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:13:5",
+      "numberLabel": "5",
+      "text": "After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded.",
+      "metadata": {
+        "reference": "John 13:5",
+        "verseKey": "kjv:john:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:13:6",
+      "numberLabel": "6",
+      "text": "Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?",
+      "metadata": {
+        "reference": "John 13:6",
+        "verseKey": "kjv:john:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:13:7",
+      "numberLabel": "7",
+      "text": "Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.",
+      "metadata": {
+        "reference": "John 13:7",
+        "verseKey": "kjv:john:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:13:8",
+      "numberLabel": "8",
+      "text": "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.",
+      "metadata": {
+        "reference": "John 13:8",
+        "verseKey": "kjv:john:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:13:9",
+      "numberLabel": "9",
+      "text": "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head.",
+      "metadata": {
+        "reference": "John 13:9",
+        "verseKey": "kjv:john:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:13:10",
+      "numberLabel": "10",
+      "text": "Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.",
+      "metadata": {
+        "reference": "John 13:10",
+        "verseKey": "kjv:john:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:13:11",
+      "numberLabel": "11",
+      "text": "For he knew who should betray him; therefore said he, Ye are not all clean.",
+      "metadata": {
+        "reference": "John 13:11",
+        "verseKey": "kjv:john:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:13:12",
+      "numberLabel": "12",
+      "text": "So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?",
+      "metadata": {
+        "reference": "John 13:12",
+        "verseKey": "kjv:john:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:13:13",
+      "numberLabel": "13",
+      "text": "Ye call me Master and Lord: and ye say well; for so I am.",
+      "metadata": {
+        "reference": "John 13:13",
+        "verseKey": "kjv:john:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:13:14",
+      "numberLabel": "14",
+      "text": "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet.",
+      "metadata": {
+        "reference": "John 13:14",
+        "verseKey": "kjv:john:13:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:13:15",
+      "numberLabel": "15",
+      "text": "For I have given you an example, that ye should do as I have done to you.",
+      "metadata": {
+        "reference": "John 13:15",
+        "verseKey": "kjv:john:13:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:13:16",
+      "numberLabel": "16",
+      "text": "Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.",
+      "metadata": {
+        "reference": "John 13:16",
+        "verseKey": "kjv:john:13:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:13:17",
+      "numberLabel": "17",
+      "text": "If ye know these things, happy are ye if ye do them.",
+      "metadata": {
+        "reference": "John 13:17",
+        "verseKey": "kjv:john:13:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:13:18",
+      "numberLabel": "18",
+      "text": "I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.",
+      "metadata": {
+        "reference": "John 13:18",
+        "verseKey": "kjv:john:13:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:13:19",
+      "numberLabel": "19",
+      "text": "Now I tell you before it come, that, when it is come to pass, ye may believe that I am he.",
+      "metadata": {
+        "reference": "John 13:19",
+        "verseKey": "kjv:john:13:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:13:20",
+      "numberLabel": "20",
+      "text": "Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.",
+      "metadata": {
+        "reference": "John 13:20",
+        "verseKey": "kjv:john:13:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:13:21",
+      "numberLabel": "21",
+      "text": "When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.",
+      "metadata": {
+        "reference": "John 13:21",
+        "verseKey": "kjv:john:13:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:13:22",
+      "numberLabel": "22",
+      "text": "Then the disciples looked one on another, doubting of whom he spake.",
+      "metadata": {
+        "reference": "John 13:22",
+        "verseKey": "kjv:john:13:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:13:23",
+      "numberLabel": "23",
+      "text": "Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved.",
+      "metadata": {
+        "reference": "John 13:23",
+        "verseKey": "kjv:john:13:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:13:24",
+      "numberLabel": "24",
+      "text": "Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.",
+      "metadata": {
+        "reference": "John 13:24",
+        "verseKey": "kjv:john:13:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:13:25",
+      "numberLabel": "25",
+      "text": "He then lying on Jesus’ breast saith unto him, Lord, who is it?",
+      "metadata": {
+        "reference": "John 13:25",
+        "verseKey": "kjv:john:13:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:13:26",
+      "numberLabel": "26",
+      "text": "Jesus answered, He it is, to whom I shall give a sop, when I have dipped it. And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon.",
+      "metadata": {
+        "reference": "John 13:26",
+        "verseKey": "kjv:john:13:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:13:27",
+      "numberLabel": "27",
+      "text": "And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.",
+      "metadata": {
+        "reference": "John 13:27",
+        "verseKey": "kjv:john:13:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:13:28",
+      "numberLabel": "28",
+      "text": "Now no man at the table knew for what intent he spake this unto him.",
+      "metadata": {
+        "reference": "John 13:28",
+        "verseKey": "kjv:john:13:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:13:29",
+      "numberLabel": "29",
+      "text": "For some of them thought, because Judas had the bag, that Jesus had said unto him, Buy those things that we have need of against the feast; or, that he should give something to the poor.",
+      "metadata": {
+        "reference": "John 13:29",
+        "verseKey": "kjv:john:13:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:13:30",
+      "numberLabel": "30",
+      "text": "He then having received the sop went immediately out: and it was night.",
+      "metadata": {
+        "reference": "John 13:30",
+        "verseKey": "kjv:john:13:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:13:31",
+      "numberLabel": "31",
+      "text": "Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.",
+      "metadata": {
+        "reference": "John 13:31",
+        "verseKey": "kjv:john:13:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:john:13:32",
+      "numberLabel": "32",
+      "text": "If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.",
+      "metadata": {
+        "reference": "John 13:32",
+        "verseKey": "kjv:john:13:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:john:13:33",
+      "numberLabel": "33",
+      "text": "Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.",
+      "metadata": {
+        "reference": "John 13:33",
+        "verseKey": "kjv:john:13:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:john:13:34",
+      "numberLabel": "34",
+      "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+      "metadata": {
+        "reference": "John 13:34",
+        "verseKey": "kjv:john:13:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:john:13:35",
+      "numberLabel": "35",
+      "text": "By this shall all men know that ye are my disciples, if ye have love one to another.",
+      "metadata": {
+        "reference": "John 13:35",
+        "verseKey": "kjv:john:13:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:john:13:36",
+      "numberLabel": "36",
+      "text": "Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.",
+      "metadata": {
+        "reference": "John 13:36",
+        "verseKey": "kjv:john:13:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:john:13:37",
+      "numberLabel": "37",
+      "text": "Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.",
+      "metadata": {
+        "reference": "John 13:37",
+        "verseKey": "kjv:john:13:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:john:13:38",
+      "numberLabel": "38",
+      "text": "Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.",
+      "metadata": {
+        "reference": "John 13:38",
+        "verseKey": "kjv:john:13:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

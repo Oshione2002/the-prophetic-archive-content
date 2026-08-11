@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-daniel-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Daniel 12",
+  "display_title": "Daniel 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "daniel",
+  "book": "Daniel",
+  "bookName": "Daniel",
+  "bookOrder": 27,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 27012,
+  "verseCount": 13,
+  "aliases": [
+    "Dan",
+    "Da",
+    "Dn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:daniel:12:1",
+      "numberLabel": "1",
+      "text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+      "metadata": {
+        "reference": "Daniel 12:1",
+        "verseKey": "kjv:daniel:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:daniel:12:2",
+      "numberLabel": "2",
+      "text": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.",
+      "metadata": {
+        "reference": "Daniel 12:2",
+        "verseKey": "kjv:daniel:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:daniel:12:3",
+      "numberLabel": "3",
+      "text": "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.",
+      "metadata": {
+        "reference": "Daniel 12:3",
+        "verseKey": "kjv:daniel:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:daniel:12:4",
+      "numberLabel": "4",
+      "text": "But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.",
+      "metadata": {
+        "reference": "Daniel 12:4",
+        "verseKey": "kjv:daniel:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:daniel:12:5",
+      "numberLabel": "5",
+      "text": "Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.",
+      "metadata": {
+        "reference": "Daniel 12:5",
+        "verseKey": "kjv:daniel:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:daniel:12:6",
+      "numberLabel": "6",
+      "text": "And one said to the man clothed in linen, which was upon the waters of the river, How long shall it be to the end of these wonders?",
+      "metadata": {
+        "reference": "Daniel 12:6",
+        "verseKey": "kjv:daniel:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:daniel:12:7",
+      "numberLabel": "7",
+      "text": "And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that it shall be for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished.",
+      "metadata": {
+        "reference": "Daniel 12:7",
+        "verseKey": "kjv:daniel:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:daniel:12:8",
+      "numberLabel": "8",
+      "text": "And I heard, but I understood not: then said I, O my Lord, what shall be the end of these things?",
+      "metadata": {
+        "reference": "Daniel 12:8",
+        "verseKey": "kjv:daniel:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:daniel:12:9",
+      "numberLabel": "9",
+      "text": "And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end.",
+      "metadata": {
+        "reference": "Daniel 12:9",
+        "verseKey": "kjv:daniel:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:daniel:12:10",
+      "numberLabel": "10",
+      "text": "Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand.",
+      "metadata": {
+        "reference": "Daniel 12:10",
+        "verseKey": "kjv:daniel:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:daniel:12:11",
+      "numberLabel": "11",
+      "text": "And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days.",
+      "metadata": {
+        "reference": "Daniel 12:11",
+        "verseKey": "kjv:daniel:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:daniel:12:12",
+      "numberLabel": "12",
+      "text": "Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days.",
+      "metadata": {
+        "reference": "Daniel 12:12",
+        "verseKey": "kjv:daniel:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:daniel:12:13",
+      "numberLabel": "13",
+      "text": "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.",
+      "metadata": {
+        "reference": "Daniel 12:13",
+        "verseKey": "kjv:daniel:12:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Daniel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Daniel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

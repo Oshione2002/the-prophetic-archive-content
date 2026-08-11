@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "Isaiah 28",
+  "display_title": "Isaiah 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 28,
+  "sortOrder": 23028,
+  "verseCount": 29,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:28:1",
+      "numberLabel": "1",
+      "text": "Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine!",
+      "metadata": {
+        "reference": "Isaiah 28:1",
+        "verseKey": "kjv:isaiah:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:28:2",
+      "numberLabel": "2",
+      "text": "Behold, the Lord hath a mighty and strong one, which as a tempest of hail and a destroying storm, as a flood of mighty waters overflowing, shall cast down to the earth with the hand.",
+      "metadata": {
+        "reference": "Isaiah 28:2",
+        "verseKey": "kjv:isaiah:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:28:3",
+      "numberLabel": "3",
+      "text": "The crown of pride, the drunkards of Ephraim, shall be trodden under feet:",
+      "metadata": {
+        "reference": "Isaiah 28:3",
+        "verseKey": "kjv:isaiah:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:28:4",
+      "numberLabel": "4",
+      "text": "And the glorious beauty, which is on the head of the fat valley, shall be a fading flower, and as the hasty fruit before the summer; which when he that looketh upon it seeth, while it is yet in his hand he eateth it up.",
+      "metadata": {
+        "reference": "Isaiah 28:4",
+        "verseKey": "kjv:isaiah:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:28:5",
+      "numberLabel": "5",
+      "text": "In that day shall the LORD of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,",
+      "metadata": {
+        "reference": "Isaiah 28:5",
+        "verseKey": "kjv:isaiah:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:28:6",
+      "numberLabel": "6",
+      "text": "And for a spirit of judgment to him that sitteth in judgment, and for strength to them that turn the battle to the gate.",
+      "metadata": {
+        "reference": "Isaiah 28:6",
+        "verseKey": "kjv:isaiah:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:28:7",
+      "numberLabel": "7",
+      "text": "But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble in judgment.",
+      "metadata": {
+        "reference": "Isaiah 28:7",
+        "verseKey": "kjv:isaiah:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:28:8",
+      "numberLabel": "8",
+      "text": "For all tables are full of vomit and filthiness, so that there is no place clean.",
+      "metadata": {
+        "reference": "Isaiah 28:8",
+        "verseKey": "kjv:isaiah:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:28:9",
+      "numberLabel": "9",
+      "text": "Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.",
+      "metadata": {
+        "reference": "Isaiah 28:9",
+        "verseKey": "kjv:isaiah:28:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:28:10",
+      "numberLabel": "10",
+      "text": "For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:",
+      "metadata": {
+        "reference": "Isaiah 28:10",
+        "verseKey": "kjv:isaiah:28:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:28:11",
+      "numberLabel": "11",
+      "text": "For with stammering lips and another tongue will he speak to this people.",
+      "metadata": {
+        "reference": "Isaiah 28:11",
+        "verseKey": "kjv:isaiah:28:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:28:12",
+      "numberLabel": "12",
+      "text": "To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.",
+      "metadata": {
+        "reference": "Isaiah 28:12",
+        "verseKey": "kjv:isaiah:28:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:28:13",
+      "numberLabel": "13",
+      "text": "But the word of the LORD was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and be broken, and snared, and taken.",
+      "metadata": {
+        "reference": "Isaiah 28:13",
+        "verseKey": "kjv:isaiah:28:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:28:14",
+      "numberLabel": "14",
+      "text": "Wherefore hear the word of the LORD, ye scornful men, that rule this people which is in Jerusalem.",
+      "metadata": {
+        "reference": "Isaiah 28:14",
+        "verseKey": "kjv:isaiah:28:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:28:15",
+      "numberLabel": "15",
+      "text": "Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:",
+      "metadata": {
+        "reference": "Isaiah 28:15",
+        "verseKey": "kjv:isaiah:28:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:28:16",
+      "numberLabel": "16",
+      "text": "Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.",
+      "metadata": {
+        "reference": "Isaiah 28:16",
+        "verseKey": "kjv:isaiah:28:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:28:17",
+      "numberLabel": "17",
+      "text": "Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.",
+      "metadata": {
+        "reference": "Isaiah 28:17",
+        "verseKey": "kjv:isaiah:28:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:28:18",
+      "numberLabel": "18",
+      "text": "And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.",
+      "metadata": {
+        "reference": "Isaiah 28:18",
+        "verseKey": "kjv:isaiah:28:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:28:19",
+      "numberLabel": "19",
+      "text": "From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report.",
+      "metadata": {
+        "reference": "Isaiah 28:19",
+        "verseKey": "kjv:isaiah:28:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:28:20",
+      "numberLabel": "20",
+      "text": "For the bed is shorter than that a man can stretch himself on it: and the covering narrower than that he can wrap himself in it.",
+      "metadata": {
+        "reference": "Isaiah 28:20",
+        "verseKey": "kjv:isaiah:28:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:28:21",
+      "numberLabel": "21",
+      "text": "For the LORD shall rise up as in mount Perazim, he shall be wroth as in the valley of Gibeon, that he may do his work, his strange work; and bring to pass his act, his strange act.",
+      "metadata": {
+        "reference": "Isaiah 28:21",
+        "verseKey": "kjv:isaiah:28:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:28:22",
+      "numberLabel": "22",
+      "text": "Now therefore be ye not mockers, lest your bands be made strong: for I have heard from the Lord GOD of hosts a consumption, even determined upon the whole earth.",
+      "metadata": {
+        "reference": "Isaiah 28:22",
+        "verseKey": "kjv:isaiah:28:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:isaiah:28:23",
+      "numberLabel": "23",
+      "text": "Give ye ear, and hear my voice; hearken, and hear my speech.",
+      "metadata": {
+        "reference": "Isaiah 28:23",
+        "verseKey": "kjv:isaiah:28:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:isaiah:28:24",
+      "numberLabel": "24",
+      "text": "Doth the plowman plow all day to sow? doth he open and break the clods of his ground?",
+      "metadata": {
+        "reference": "Isaiah 28:24",
+        "verseKey": "kjv:isaiah:28:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:isaiah:28:25",
+      "numberLabel": "25",
+      "text": "When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place?",
+      "metadata": {
+        "reference": "Isaiah 28:25",
+        "verseKey": "kjv:isaiah:28:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:isaiah:28:26",
+      "numberLabel": "26",
+      "text": "For his God doth instruct him to discretion, and doth teach him.",
+      "metadata": {
+        "reference": "Isaiah 28:26",
+        "verseKey": "kjv:isaiah:28:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:isaiah:28:27",
+      "numberLabel": "27",
+      "text": "For the fitches are not threshed with a threshing instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod.",
+      "metadata": {
+        "reference": "Isaiah 28:27",
+        "verseKey": "kjv:isaiah:28:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:isaiah:28:28",
+      "numberLabel": "28",
+      "text": "Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen.",
+      "metadata": {
+        "reference": "Isaiah 28:28",
+        "verseKey": "kjv:isaiah:28:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:isaiah:28:29",
+      "numberLabel": "29",
+      "text": "This also cometh forth from the LORD of hosts, which is wonderful in counsel, and excellent in working.",
+      "metadata": {
+        "reference": "Isaiah 28:29",
+        "verseKey": "kjv:isaiah:28:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-galatians-004",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 4,
+  "title": "Galatians 4",
+  "display_title": "Galatians 4",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "galatians",
+  "book": "Galatians",
+  "bookName": "Galatians",
+  "bookOrder": 48,
+  "testament": "new",
+  "chapter": 4,
+  "sortOrder": 48004,
+  "verseCount": 31,
+  "aliases": [
+    "Gal",
+    "Ga"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:galatians:4:1",
+      "numberLabel": "1",
+      "text": "Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+      "metadata": {
+        "reference": "Galatians 4:1",
+        "verseKey": "kjv:galatians:4:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:galatians:4:2",
+      "numberLabel": "2",
+      "text": "But is under tutors and governors until the time appointed of the father.",
+      "metadata": {
+        "reference": "Galatians 4:2",
+        "verseKey": "kjv:galatians:4:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:galatians:4:3",
+      "numberLabel": "3",
+      "text": "Even so we, when we were children, were in bondage under the elements of the world:",
+      "metadata": {
+        "reference": "Galatians 4:3",
+        "verseKey": "kjv:galatians:4:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:galatians:4:4",
+      "numberLabel": "4",
+      "text": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,",
+      "metadata": {
+        "reference": "Galatians 4:4",
+        "verseKey": "kjv:galatians:4:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:galatians:4:5",
+      "numberLabel": "5",
+      "text": "To redeem them that were under the law, that we might receive the adoption of sons.",
+      "metadata": {
+        "reference": "Galatians 4:5",
+        "verseKey": "kjv:galatians:4:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:galatians:4:6",
+      "numberLabel": "6",
+      "text": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.",
+      "metadata": {
+        "reference": "Galatians 4:6",
+        "verseKey": "kjv:galatians:4:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:galatians:4:7",
+      "numberLabel": "7",
+      "text": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.",
+      "metadata": {
+        "reference": "Galatians 4:7",
+        "verseKey": "kjv:galatians:4:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:galatians:4:8",
+      "numberLabel": "8",
+      "text": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.",
+      "metadata": {
+        "reference": "Galatians 4:8",
+        "verseKey": "kjv:galatians:4:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:galatians:4:9",
+      "numberLabel": "9",
+      "text": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?",
+      "metadata": {
+        "reference": "Galatians 4:9",
+        "verseKey": "kjv:galatians:4:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:galatians:4:10",
+      "numberLabel": "10",
+      "text": "Ye observe days, and months, and times, and years.",
+      "metadata": {
+        "reference": "Galatians 4:10",
+        "verseKey": "kjv:galatians:4:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:galatians:4:11",
+      "numberLabel": "11",
+      "text": "I am afraid of you, lest I have bestowed upon you labour in vain.",
+      "metadata": {
+        "reference": "Galatians 4:11",
+        "verseKey": "kjv:galatians:4:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:galatians:4:12",
+      "numberLabel": "12",
+      "text": "Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.",
+      "metadata": {
+        "reference": "Galatians 4:12",
+        "verseKey": "kjv:galatians:4:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:galatians:4:13",
+      "numberLabel": "13",
+      "text": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first.",
+      "metadata": {
+        "reference": "Galatians 4:13",
+        "verseKey": "kjv:galatians:4:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:galatians:4:14",
+      "numberLabel": "14",
+      "text": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.",
+      "metadata": {
+        "reference": "Galatians 4:14",
+        "verseKey": "kjv:galatians:4:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:galatians:4:15",
+      "numberLabel": "15",
+      "text": "Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.",
+      "metadata": {
+        "reference": "Galatians 4:15",
+        "verseKey": "kjv:galatians:4:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:galatians:4:16",
+      "numberLabel": "16",
+      "text": "Am I therefore become your enemy, because I tell you the truth?",
+      "metadata": {
+        "reference": "Galatians 4:16",
+        "verseKey": "kjv:galatians:4:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:galatians:4:17",
+      "numberLabel": "17",
+      "text": "They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.",
+      "metadata": {
+        "reference": "Galatians 4:17",
+        "verseKey": "kjv:galatians:4:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:galatians:4:18",
+      "numberLabel": "18",
+      "text": "But it is good to be zealously affected always in a good thing, and not only when I am present with you.",
+      "metadata": {
+        "reference": "Galatians 4:18",
+        "verseKey": "kjv:galatians:4:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:galatians:4:19",
+      "numberLabel": "19",
+      "text": "My little children, of whom I travail in birth again until Christ be formed in you,",
+      "metadata": {
+        "reference": "Galatians 4:19",
+        "verseKey": "kjv:galatians:4:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:galatians:4:20",
+      "numberLabel": "20",
+      "text": "I desire to be present with you now, and to change my voice; for I stand in doubt of you.",
+      "metadata": {
+        "reference": "Galatians 4:20",
+        "verseKey": "kjv:galatians:4:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:galatians:4:21",
+      "numberLabel": "21",
+      "text": "Tell me, ye that desire to be under the law, do ye not hear the law?",
+      "metadata": {
+        "reference": "Galatians 4:21",
+        "verseKey": "kjv:galatians:4:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:galatians:4:22",
+      "numberLabel": "22",
+      "text": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
+      "metadata": {
+        "reference": "Galatians 4:22",
+        "verseKey": "kjv:galatians:4:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:galatians:4:23",
+      "numberLabel": "23",
+      "text": "But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.",
+      "metadata": {
+        "reference": "Galatians 4:23",
+        "verseKey": "kjv:galatians:4:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:galatians:4:24",
+      "numberLabel": "24",
+      "text": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.",
+      "metadata": {
+        "reference": "Galatians 4:24",
+        "verseKey": "kjv:galatians:4:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:galatians:4:25",
+      "numberLabel": "25",
+      "text": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.",
+      "metadata": {
+        "reference": "Galatians 4:25",
+        "verseKey": "kjv:galatians:4:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:galatians:4:26",
+      "numberLabel": "26",
+      "text": "But Jerusalem which is above is free, which is the mother of us all.",
+      "metadata": {
+        "reference": "Galatians 4:26",
+        "verseKey": "kjv:galatians:4:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:galatians:4:27",
+      "numberLabel": "27",
+      "text": "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+      "metadata": {
+        "reference": "Galatians 4:27",
+        "verseKey": "kjv:galatians:4:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:galatians:4:28",
+      "numberLabel": "28",
+      "text": "Now we, brethren, as Isaac was, are the children of promise.",
+      "metadata": {
+        "reference": "Galatians 4:28",
+        "verseKey": "kjv:galatians:4:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:galatians:4:29",
+      "numberLabel": "29",
+      "text": "But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.",
+      "metadata": {
+        "reference": "Galatians 4:29",
+        "verseKey": "kjv:galatians:4:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:galatians:4:30",
+      "numberLabel": "30",
+      "text": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.",
+      "metadata": {
+        "reference": "Galatians 4:30",
+        "verseKey": "kjv:galatians:4:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:galatians:4:31",
+      "numberLabel": "31",
+      "text": "So then, brethren, we are not children of the bondwoman, but of the free.",
+      "metadata": {
+        "reference": "Galatians 4:31",
+        "verseKey": "kjv:galatians:4:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Galatians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Galatians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

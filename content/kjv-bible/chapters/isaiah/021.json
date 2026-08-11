@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-021",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 21,
+  "title": "Isaiah 21",
+  "display_title": "Isaiah 21",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 21,
+  "sortOrder": 23021,
+  "verseCount": 17,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:21:1",
+      "numberLabel": "1",
+      "text": "The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.",
+      "metadata": {
+        "reference": "Isaiah 21:1",
+        "verseKey": "kjv:isaiah:21:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:21:2",
+      "numberLabel": "2",
+      "text": "A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.",
+      "metadata": {
+        "reference": "Isaiah 21:2",
+        "verseKey": "kjv:isaiah:21:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:21:3",
+      "numberLabel": "3",
+      "text": "Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travaileth: I was bowed down at the hearing of it; I was dismayed at the seeing of it.",
+      "metadata": {
+        "reference": "Isaiah 21:3",
+        "verseKey": "kjv:isaiah:21:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:21:4",
+      "numberLabel": "4",
+      "text": "My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me.",
+      "metadata": {
+        "reference": "Isaiah 21:4",
+        "verseKey": "kjv:isaiah:21:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:21:5",
+      "numberLabel": "5",
+      "text": "Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, and anoint the shield.",
+      "metadata": {
+        "reference": "Isaiah 21:5",
+        "verseKey": "kjv:isaiah:21:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:21:6",
+      "numberLabel": "6",
+      "text": "For thus hath the LORD said unto me, Go, set a watchman, let him declare what he seeth.",
+      "metadata": {
+        "reference": "Isaiah 21:6",
+        "verseKey": "kjv:isaiah:21:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:21:7",
+      "numberLabel": "7",
+      "text": "And he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels; and he hearkened diligently with much heed:",
+      "metadata": {
+        "reference": "Isaiah 21:7",
+        "verseKey": "kjv:isaiah:21:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:21:8",
+      "numberLabel": "8",
+      "text": "And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:",
+      "metadata": {
+        "reference": "Isaiah 21:8",
+        "verseKey": "kjv:isaiah:21:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:21:9",
+      "numberLabel": "9",
+      "text": "And, behold, here cometh a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.",
+      "metadata": {
+        "reference": "Isaiah 21:9",
+        "verseKey": "kjv:isaiah:21:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:21:10",
+      "numberLabel": "10",
+      "text": "O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.",
+      "metadata": {
+        "reference": "Isaiah 21:10",
+        "verseKey": "kjv:isaiah:21:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:21:11",
+      "numberLabel": "11",
+      "text": "The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?",
+      "metadata": {
+        "reference": "Isaiah 21:11",
+        "verseKey": "kjv:isaiah:21:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:21:12",
+      "numberLabel": "12",
+      "text": "The watchman said, The morning cometh, and also the night: if ye will enquire, enquire ye: return, come.",
+      "metadata": {
+        "reference": "Isaiah 21:12",
+        "verseKey": "kjv:isaiah:21:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:21:13",
+      "numberLabel": "13",
+      "text": "The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.",
+      "metadata": {
+        "reference": "Isaiah 21:13",
+        "verseKey": "kjv:isaiah:21:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:21:14",
+      "numberLabel": "14",
+      "text": "The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.",
+      "metadata": {
+        "reference": "Isaiah 21:14",
+        "verseKey": "kjv:isaiah:21:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:21:15",
+      "numberLabel": "15",
+      "text": "For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.",
+      "metadata": {
+        "reference": "Isaiah 21:15",
+        "verseKey": "kjv:isaiah:21:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:21:16",
+      "numberLabel": "16",
+      "text": "For thus hath the LORD said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:",
+      "metadata": {
+        "reference": "Isaiah 21:16",
+        "verseKey": "kjv:isaiah:21:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:21:17",
+      "numberLabel": "17",
+      "text": "And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken it.",
+      "metadata": {
+        "reference": "Isaiah 21:17",
+        "verseKey": "kjv:isaiah:21:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

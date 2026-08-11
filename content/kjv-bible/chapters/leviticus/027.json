@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-leviticus-027",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 27,
+  "title": "Leviticus 27",
+  "display_title": "Leviticus 27",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "leviticus",
+  "book": "Leviticus",
+  "bookName": "Leviticus",
+  "bookOrder": 3,
+  "testament": "old",
+  "chapter": 27,
+  "sortOrder": 3027,
+  "verseCount": 34,
+  "aliases": [
+    "Lev",
+    "Le",
+    "Lv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:leviticus:27:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Leviticus 27:1",
+        "verseKey": "kjv:leviticus:27:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:leviticus:27:2",
+      "numberLabel": "2",
+      "text": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation.",
+      "metadata": {
+        "reference": "Leviticus 27:2",
+        "verseKey": "kjv:leviticus:27:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:leviticus:27:3",
+      "numberLabel": "3",
+      "text": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.",
+      "metadata": {
+        "reference": "Leviticus 27:3",
+        "verseKey": "kjv:leviticus:27:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:leviticus:27:4",
+      "numberLabel": "4",
+      "text": "And if it be a female, then thy estimation shall be thirty shekels.",
+      "metadata": {
+        "reference": "Leviticus 27:4",
+        "verseKey": "kjv:leviticus:27:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:leviticus:27:5",
+      "numberLabel": "5",
+      "text": "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels.",
+      "metadata": {
+        "reference": "Leviticus 27:5",
+        "verseKey": "kjv:leviticus:27:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:leviticus:27:6",
+      "numberLabel": "6",
+      "text": "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver.",
+      "metadata": {
+        "reference": "Leviticus 27:6",
+        "verseKey": "kjv:leviticus:27:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:leviticus:27:7",
+      "numberLabel": "7",
+      "text": "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.",
+      "metadata": {
+        "reference": "Leviticus 27:7",
+        "verseKey": "kjv:leviticus:27:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:leviticus:27:8",
+      "numberLabel": "8",
+      "text": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.",
+      "metadata": {
+        "reference": "Leviticus 27:8",
+        "verseKey": "kjv:leviticus:27:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:leviticus:27:9",
+      "numberLabel": "9",
+      "text": "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy.",
+      "metadata": {
+        "reference": "Leviticus 27:9",
+        "verseKey": "kjv:leviticus:27:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:leviticus:27:10",
+      "numberLabel": "10",
+      "text": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.",
+      "metadata": {
+        "reference": "Leviticus 27:10",
+        "verseKey": "kjv:leviticus:27:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:leviticus:27:11",
+      "numberLabel": "11",
+      "text": "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:",
+      "metadata": {
+        "reference": "Leviticus 27:11",
+        "verseKey": "kjv:leviticus:27:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:leviticus:27:12",
+      "numberLabel": "12",
+      "text": "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be.",
+      "metadata": {
+        "reference": "Leviticus 27:12",
+        "verseKey": "kjv:leviticus:27:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:leviticus:27:13",
+      "numberLabel": "13",
+      "text": "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation.",
+      "metadata": {
+        "reference": "Leviticus 27:13",
+        "verseKey": "kjv:leviticus:27:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:leviticus:27:14",
+      "numberLabel": "14",
+      "text": "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
+      "metadata": {
+        "reference": "Leviticus 27:14",
+        "verseKey": "kjv:leviticus:27:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:leviticus:27:15",
+      "numberLabel": "15",
+      "text": "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his.",
+      "metadata": {
+        "reference": "Leviticus 27:15",
+        "verseKey": "kjv:leviticus:27:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:leviticus:27:16",
+      "numberLabel": "16",
+      "text": "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver.",
+      "metadata": {
+        "reference": "Leviticus 27:16",
+        "verseKey": "kjv:leviticus:27:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:leviticus:27:17",
+      "numberLabel": "17",
+      "text": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand.",
+      "metadata": {
+        "reference": "Leviticus 27:17",
+        "verseKey": "kjv:leviticus:27:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:leviticus:27:18",
+      "numberLabel": "18",
+      "text": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.",
+      "metadata": {
+        "reference": "Leviticus 27:18",
+        "verseKey": "kjv:leviticus:27:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:leviticus:27:19",
+      "numberLabel": "19",
+      "text": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him.",
+      "metadata": {
+        "reference": "Leviticus 27:19",
+        "verseKey": "kjv:leviticus:27:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:leviticus:27:20",
+      "numberLabel": "20",
+      "text": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
+      "metadata": {
+        "reference": "Leviticus 27:20",
+        "verseKey": "kjv:leviticus:27:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:leviticus:27:21",
+      "numberLabel": "21",
+      "text": "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest’s.",
+      "metadata": {
+        "reference": "Leviticus 27:21",
+        "verseKey": "kjv:leviticus:27:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:leviticus:27:22",
+      "numberLabel": "22",
+      "text": "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;",
+      "metadata": {
+        "reference": "Leviticus 27:22",
+        "verseKey": "kjv:leviticus:27:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:leviticus:27:23",
+      "numberLabel": "23",
+      "text": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 27:23",
+        "verseKey": "kjv:leviticus:27:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:leviticus:27:24",
+      "numberLabel": "24",
+      "text": "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong.",
+      "metadata": {
+        "reference": "Leviticus 27:24",
+        "verseKey": "kjv:leviticus:27:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:leviticus:27:25",
+      "numberLabel": "25",
+      "text": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.",
+      "metadata": {
+        "reference": "Leviticus 27:25",
+        "verseKey": "kjv:leviticus:27:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:leviticus:27:26",
+      "numberLabel": "26",
+      "text": "Only the firstling of the beasts, which should be the LORD’s firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD’s.",
+      "metadata": {
+        "reference": "Leviticus 27:26",
+        "verseKey": "kjv:leviticus:27:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:leviticus:27:27",
+      "numberLabel": "27",
+      "text": "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.",
+      "metadata": {
+        "reference": "Leviticus 27:27",
+        "verseKey": "kjv:leviticus:27:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:leviticus:27:28",
+      "numberLabel": "28",
+      "text": "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 27:28",
+        "verseKey": "kjv:leviticus:27:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:leviticus:27:29",
+      "numberLabel": "29",
+      "text": "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death.",
+      "metadata": {
+        "reference": "Leviticus 27:29",
+        "verseKey": "kjv:leviticus:27:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:leviticus:27:30",
+      "numberLabel": "30",
+      "text": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD’s: it is holy unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 27:30",
+        "verseKey": "kjv:leviticus:27:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:leviticus:27:31",
+      "numberLabel": "31",
+      "text": "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof.",
+      "metadata": {
+        "reference": "Leviticus 27:31",
+        "verseKey": "kjv:leviticus:27:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:leviticus:27:32",
+      "numberLabel": "32",
+      "text": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.",
+      "metadata": {
+        "reference": "Leviticus 27:32",
+        "verseKey": "kjv:leviticus:27:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:leviticus:27:33",
+      "numberLabel": "33",
+      "text": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.",
+      "metadata": {
+        "reference": "Leviticus 27:33",
+        "verseKey": "kjv:leviticus:27:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:leviticus:27:34",
+      "numberLabel": "34",
+      "text": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.",
+      "metadata": {
+        "reference": "Leviticus 27:34",
+        "verseKey": "kjv:leviticus:27:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Leviticus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Leviticus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

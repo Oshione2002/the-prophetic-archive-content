@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Revelation 15",
+  "display_title": "Revelation 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 15,
+  "sortOrder": 66015,
+  "verseCount": 8,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:15:1",
+      "numberLabel": "1",
+      "text": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.",
+      "metadata": {
+        "reference": "Revelation 15:1",
+        "verseKey": "kjv:revelation:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:15:2",
+      "numberLabel": "2",
+      "text": "And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God.",
+      "metadata": {
+        "reference": "Revelation 15:2",
+        "verseKey": "kjv:revelation:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:15:3",
+      "numberLabel": "3",
+      "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
+      "metadata": {
+        "reference": "Revelation 15:3",
+        "verseKey": "kjv:revelation:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:15:4",
+      "numberLabel": "4",
+      "text": "Who shall not fear thee, O Lord, and glorify thy name? for thou only art holy: for all nations shall come and worship before thee; for thy judgments are made manifest.",
+      "metadata": {
+        "reference": "Revelation 15:4",
+        "verseKey": "kjv:revelation:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:15:5",
+      "numberLabel": "5",
+      "text": "And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:",
+      "metadata": {
+        "reference": "Revelation 15:5",
+        "verseKey": "kjv:revelation:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:15:6",
+      "numberLabel": "6",
+      "text": "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.",
+      "metadata": {
+        "reference": "Revelation 15:6",
+        "verseKey": "kjv:revelation:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:15:7",
+      "numberLabel": "7",
+      "text": "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.",
+      "metadata": {
+        "reference": "Revelation 15:7",
+        "verseKey": "kjv:revelation:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:15:8",
+      "numberLabel": "8",
+      "text": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.",
+      "metadata": {
+        "reference": "Revelation 15:8",
+        "verseKey": "kjv:revelation:15:8"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

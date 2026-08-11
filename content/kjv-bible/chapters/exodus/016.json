@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-016",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 16,
+  "title": "Exodus 16",
+  "display_title": "Exodus 16",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 16,
+  "sortOrder": 2016,
+  "verseCount": 36,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:16:1",
+      "numberLabel": "1",
+      "text": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 16:1",
+        "verseKey": "kjv:exodus:16:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:16:2",
+      "numberLabel": "2",
+      "text": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:",
+      "metadata": {
+        "reference": "Exodus 16:2",
+        "verseKey": "kjv:exodus:16:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:16:3",
+      "numberLabel": "3",
+      "text": "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.",
+      "metadata": {
+        "reference": "Exodus 16:3",
+        "verseKey": "kjv:exodus:16:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:16:4",
+      "numberLabel": "4",
+      "text": "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.",
+      "metadata": {
+        "reference": "Exodus 16:4",
+        "verseKey": "kjv:exodus:16:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:16:5",
+      "numberLabel": "5",
+      "text": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily.",
+      "metadata": {
+        "reference": "Exodus 16:5",
+        "verseKey": "kjv:exodus:16:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:16:6",
+      "numberLabel": "6",
+      "text": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:",
+      "metadata": {
+        "reference": "Exodus 16:6",
+        "verseKey": "kjv:exodus:16:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:16:7",
+      "numberLabel": "7",
+      "text": "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?",
+      "metadata": {
+        "reference": "Exodus 16:7",
+        "verseKey": "kjv:exodus:16:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:16:8",
+      "numberLabel": "8",
+      "text": "And Moses said, This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD.",
+      "metadata": {
+        "reference": "Exodus 16:8",
+        "verseKey": "kjv:exodus:16:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:16:9",
+      "numberLabel": "9",
+      "text": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings.",
+      "metadata": {
+        "reference": "Exodus 16:9",
+        "verseKey": "kjv:exodus:16:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:16:10",
+      "numberLabel": "10",
+      "text": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud.",
+      "metadata": {
+        "reference": "Exodus 16:10",
+        "verseKey": "kjv:exodus:16:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:16:11",
+      "numberLabel": "11",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Exodus 16:11",
+        "verseKey": "kjv:exodus:16:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:16:12",
+      "numberLabel": "12",
+      "text": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God.",
+      "metadata": {
+        "reference": "Exodus 16:12",
+        "verseKey": "kjv:exodus:16:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:16:13",
+      "numberLabel": "13",
+      "text": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.",
+      "metadata": {
+        "reference": "Exodus 16:13",
+        "verseKey": "kjv:exodus:16:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:16:14",
+      "numberLabel": "14",
+      "text": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground.",
+      "metadata": {
+        "reference": "Exodus 16:14",
+        "verseKey": "kjv:exodus:16:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:16:15",
+      "numberLabel": "15",
+      "text": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat.",
+      "metadata": {
+        "reference": "Exodus 16:15",
+        "verseKey": "kjv:exodus:16:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:16:16",
+      "numberLabel": "16",
+      "text": "This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents.",
+      "metadata": {
+        "reference": "Exodus 16:16",
+        "verseKey": "kjv:exodus:16:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:16:17",
+      "numberLabel": "17",
+      "text": "And the children of Israel did so, and gathered, some more, some less.",
+      "metadata": {
+        "reference": "Exodus 16:17",
+        "verseKey": "kjv:exodus:16:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:16:18",
+      "numberLabel": "18",
+      "text": "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.",
+      "metadata": {
+        "reference": "Exodus 16:18",
+        "verseKey": "kjv:exodus:16:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:16:19",
+      "numberLabel": "19",
+      "text": "And Moses said, Let no man leave of it till the morning.",
+      "metadata": {
+        "reference": "Exodus 16:19",
+        "verseKey": "kjv:exodus:16:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:16:20",
+      "numberLabel": "20",
+      "text": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.",
+      "metadata": {
+        "reference": "Exodus 16:20",
+        "verseKey": "kjv:exodus:16:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:16:21",
+      "numberLabel": "21",
+      "text": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.",
+      "metadata": {
+        "reference": "Exodus 16:21",
+        "verseKey": "kjv:exodus:16:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:16:22",
+      "numberLabel": "22",
+      "text": "And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses.",
+      "metadata": {
+        "reference": "Exodus 16:22",
+        "verseKey": "kjv:exodus:16:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:16:23",
+      "numberLabel": "23",
+      "text": "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning.",
+      "metadata": {
+        "reference": "Exodus 16:23",
+        "verseKey": "kjv:exodus:16:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:16:24",
+      "numberLabel": "24",
+      "text": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein.",
+      "metadata": {
+        "reference": "Exodus 16:24",
+        "verseKey": "kjv:exodus:16:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:16:25",
+      "numberLabel": "25",
+      "text": "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field.",
+      "metadata": {
+        "reference": "Exodus 16:25",
+        "verseKey": "kjv:exodus:16:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:16:26",
+      "numberLabel": "26",
+      "text": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none.",
+      "metadata": {
+        "reference": "Exodus 16:26",
+        "verseKey": "kjv:exodus:16:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:16:27",
+      "numberLabel": "27",
+      "text": "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none.",
+      "metadata": {
+        "reference": "Exodus 16:27",
+        "verseKey": "kjv:exodus:16:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:16:28",
+      "numberLabel": "28",
+      "text": "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?",
+      "metadata": {
+        "reference": "Exodus 16:28",
+        "verseKey": "kjv:exodus:16:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:16:29",
+      "numberLabel": "29",
+      "text": "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day.",
+      "metadata": {
+        "reference": "Exodus 16:29",
+        "verseKey": "kjv:exodus:16:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:16:30",
+      "numberLabel": "30",
+      "text": "So the people rested on the seventh day.",
+      "metadata": {
+        "reference": "Exodus 16:30",
+        "verseKey": "kjv:exodus:16:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:exodus:16:31",
+      "numberLabel": "31",
+      "text": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey.",
+      "metadata": {
+        "reference": "Exodus 16:31",
+        "verseKey": "kjv:exodus:16:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:exodus:16:32",
+      "numberLabel": "32",
+      "text": "And Moses said, This is the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 16:32",
+        "verseKey": "kjv:exodus:16:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:exodus:16:33",
+      "numberLabel": "33",
+      "text": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations.",
+      "metadata": {
+        "reference": "Exodus 16:33",
+        "verseKey": "kjv:exodus:16:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:exodus:16:34",
+      "numberLabel": "34",
+      "text": "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept.",
+      "metadata": {
+        "reference": "Exodus 16:34",
+        "verseKey": "kjv:exodus:16:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:exodus:16:35",
+      "numberLabel": "35",
+      "text": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.",
+      "metadata": {
+        "reference": "Exodus 16:35",
+        "verseKey": "kjv:exodus:16:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:exodus:16:36",
+      "numberLabel": "36",
+      "text": "Now an omer is the tenth part of an ephah.",
+      "metadata": {
+        "reference": "Exodus 16:36",
+        "verseKey": "kjv:exodus:16:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

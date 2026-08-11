@@ -1,0 +1,466 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "1 Samuel 2",
+  "display_title": "1 Samuel 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 9002,
+  "verseCount": 36,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:2:1",
+      "numberLabel": "1",
+      "text": "And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.",
+      "metadata": {
+        "reference": "1 Samuel 2:1",
+        "verseKey": "kjv:1-samuel:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:2:2",
+      "numberLabel": "2",
+      "text": "There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God.",
+      "metadata": {
+        "reference": "1 Samuel 2:2",
+        "verseKey": "kjv:1-samuel:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:2:3",
+      "numberLabel": "3",
+      "text": "Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the LORD is a God of knowledge, and by him actions are weighed.",
+      "metadata": {
+        "reference": "1 Samuel 2:3",
+        "verseKey": "kjv:1-samuel:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:2:4",
+      "numberLabel": "4",
+      "text": "The bows of the mighty men are broken, and they that stumbled are girded with strength.",
+      "metadata": {
+        "reference": "1 Samuel 2:4",
+        "verseKey": "kjv:1-samuel:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:2:5",
+      "numberLabel": "5",
+      "text": "They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.",
+      "metadata": {
+        "reference": "1 Samuel 2:5",
+        "verseKey": "kjv:1-samuel:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:2:6",
+      "numberLabel": "6",
+      "text": "The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up.",
+      "metadata": {
+        "reference": "1 Samuel 2:6",
+        "verseKey": "kjv:1-samuel:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:2:7",
+      "numberLabel": "7",
+      "text": "The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up.",
+      "metadata": {
+        "reference": "1 Samuel 2:7",
+        "verseKey": "kjv:1-samuel:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:2:8",
+      "numberLabel": "8",
+      "text": "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the LORD’s, and he hath set the world upon them.",
+      "metadata": {
+        "reference": "1 Samuel 2:8",
+        "verseKey": "kjv:1-samuel:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:2:9",
+      "numberLabel": "9",
+      "text": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.",
+      "metadata": {
+        "reference": "1 Samuel 2:9",
+        "verseKey": "kjv:1-samuel:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:2:10",
+      "numberLabel": "10",
+      "text": "The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.",
+      "metadata": {
+        "reference": "1 Samuel 2:10",
+        "verseKey": "kjv:1-samuel:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:2:11",
+      "numberLabel": "11",
+      "text": "And Elkanah went to Ramah to his house. And the child did minister unto the LORD before Eli the priest.",
+      "metadata": {
+        "reference": "1 Samuel 2:11",
+        "verseKey": "kjv:1-samuel:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:2:12",
+      "numberLabel": "12",
+      "text": "Now the sons of Eli were sons of Belial; they knew not the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 2:12",
+        "verseKey": "kjv:1-samuel:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:2:13",
+      "numberLabel": "13",
+      "text": "And the priests’ custom with the people was, that, when any man offered sacrifice, the priest’s servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;",
+      "metadata": {
+        "reference": "1 Samuel 2:13",
+        "verseKey": "kjv:1-samuel:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:2:14",
+      "numberLabel": "14",
+      "text": "And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.",
+      "metadata": {
+        "reference": "1 Samuel 2:14",
+        "verseKey": "kjv:1-samuel:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:2:15",
+      "numberLabel": "15",
+      "text": "Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.",
+      "metadata": {
+        "reference": "1 Samuel 2:15",
+        "verseKey": "kjv:1-samuel:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:2:16",
+      "numberLabel": "16",
+      "text": "And if any man said unto him, Let them not fail to burn the fat presently, and then take as much as thy soul desireth; then he would answer him, Nay; but thou shalt give it me now: and if not, I will take it by force.",
+      "metadata": {
+        "reference": "1 Samuel 2:16",
+        "verseKey": "kjv:1-samuel:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:2:17",
+      "numberLabel": "17",
+      "text": "Wherefore the sin of the young men was very great before the LORD: for men abhorred the offering of the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 2:17",
+        "verseKey": "kjv:1-samuel:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:2:18",
+      "numberLabel": "18",
+      "text": "But Samuel ministered before the LORD, being a child, girded with a linen ephod.",
+      "metadata": {
+        "reference": "1 Samuel 2:18",
+        "verseKey": "kjv:1-samuel:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:2:19",
+      "numberLabel": "19",
+      "text": "Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice.",
+      "metadata": {
+        "reference": "1 Samuel 2:19",
+        "verseKey": "kjv:1-samuel:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:2:20",
+      "numberLabel": "20",
+      "text": "And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home.",
+      "metadata": {
+        "reference": "1 Samuel 2:20",
+        "verseKey": "kjv:1-samuel:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:2:21",
+      "numberLabel": "21",
+      "text": "And the LORD visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the LORD.",
+      "metadata": {
+        "reference": "1 Samuel 2:21",
+        "verseKey": "kjv:1-samuel:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:2:22",
+      "numberLabel": "22",
+      "text": "Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "1 Samuel 2:22",
+        "verseKey": "kjv:1-samuel:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:2:23",
+      "numberLabel": "23",
+      "text": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.",
+      "metadata": {
+        "reference": "1 Samuel 2:23",
+        "verseKey": "kjv:1-samuel:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:2:24",
+      "numberLabel": "24",
+      "text": "Nay, my sons; for it is no good report that I hear: ye make the LORD’s people to transgress.",
+      "metadata": {
+        "reference": "1 Samuel 2:24",
+        "verseKey": "kjv:1-samuel:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:2:25",
+      "numberLabel": "25",
+      "text": "If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them.",
+      "metadata": {
+        "reference": "1 Samuel 2:25",
+        "verseKey": "kjv:1-samuel:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-samuel:2:26",
+      "numberLabel": "26",
+      "text": "And the child Samuel grew on, and was in favour both with the LORD, and also with men.",
+      "metadata": {
+        "reference": "1 Samuel 2:26",
+        "verseKey": "kjv:1-samuel:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-samuel:2:27",
+      "numberLabel": "27",
+      "text": "And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh’s house?",
+      "metadata": {
+        "reference": "1 Samuel 2:27",
+        "verseKey": "kjv:1-samuel:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-samuel:2:28",
+      "numberLabel": "28",
+      "text": "And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?",
+      "metadata": {
+        "reference": "1 Samuel 2:28",
+        "verseKey": "kjv:1-samuel:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-samuel:2:29",
+      "numberLabel": "29",
+      "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
+      "metadata": {
+        "reference": "1 Samuel 2:29",
+        "verseKey": "kjv:1-samuel:2:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-samuel:2:30",
+      "numberLabel": "30",
+      "text": "Wherefore the LORD God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.",
+      "metadata": {
+        "reference": "1 Samuel 2:30",
+        "verseKey": "kjv:1-samuel:2:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-samuel:2:31",
+      "numberLabel": "31",
+      "text": "Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house.",
+      "metadata": {
+        "reference": "1 Samuel 2:31",
+        "verseKey": "kjv:1-samuel:2:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-samuel:2:32",
+      "numberLabel": "32",
+      "text": "And thou shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever.",
+      "metadata": {
+        "reference": "1 Samuel 2:32",
+        "verseKey": "kjv:1-samuel:2:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-samuel:2:33",
+      "numberLabel": "33",
+      "text": "And the man of thine, whom I shall not cut off from mine altar, shall be to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.",
+      "metadata": {
+        "reference": "1 Samuel 2:33",
+        "verseKey": "kjv:1-samuel:2:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-samuel:2:34",
+      "numberLabel": "34",
+      "text": "And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.",
+      "metadata": {
+        "reference": "1 Samuel 2:34",
+        "verseKey": "kjv:1-samuel:2:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-samuel:2:35",
+      "numberLabel": "35",
+      "text": "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.",
+      "metadata": {
+        "reference": "1 Samuel 2:35",
+        "verseKey": "kjv:1-samuel:2:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-samuel:2:36",
+      "numberLabel": "36",
+      "text": "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests’ offices, that I may eat a piece of bread.",
+      "metadata": {
+        "reference": "1 Samuel 2:36",
+        "verseKey": "kjv:1-samuel:2:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

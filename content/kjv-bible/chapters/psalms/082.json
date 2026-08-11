@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-082",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 82,
+  "title": "Psalms 82",
+  "display_title": "Psalms 82",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 82,
+  "sortOrder": 19082,
+  "verseCount": 8,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:82:1",
+      "numberLabel": "1",
+      "text": "God standeth in the congregation of the mighty; he judgeth among the gods.",
+      "metadata": {
+        "reference": "Psalms 82:1",
+        "verseKey": "kjv:psalms:82:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:82:2",
+      "numberLabel": "2",
+      "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+      "metadata": {
+        "reference": "Psalms 82:2",
+        "verseKey": "kjv:psalms:82:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:82:3",
+      "numberLabel": "3",
+      "text": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+      "metadata": {
+        "reference": "Psalms 82:3",
+        "verseKey": "kjv:psalms:82:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:82:4",
+      "numberLabel": "4",
+      "text": "Deliver the poor and needy: rid them out of the hand of the wicked.",
+      "metadata": {
+        "reference": "Psalms 82:4",
+        "verseKey": "kjv:psalms:82:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:82:5",
+      "numberLabel": "5",
+      "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+      "metadata": {
+        "reference": "Psalms 82:5",
+        "verseKey": "kjv:psalms:82:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:82:6",
+      "numberLabel": "6",
+      "text": "I have said, Ye are gods; and all of you are children of the most High.",
+      "metadata": {
+        "reference": "Psalms 82:6",
+        "verseKey": "kjv:psalms:82:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:82:7",
+      "numberLabel": "7",
+      "text": "But ye shall die like men, and fall like one of the princes.",
+      "metadata": {
+        "reference": "Psalms 82:7",
+        "verseKey": "kjv:psalms:82:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:82:8",
+      "numberLabel": "8",
+      "text": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+      "metadata": {
+        "reference": "Psalms 82:8",
+        "verseKey": "kjv:psalms:82:8"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

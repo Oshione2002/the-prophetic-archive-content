@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-146",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 146,
+  "title": "Psalms 146",
+  "display_title": "Psalms 146",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 146,
+  "sortOrder": 19146,
+  "verseCount": 10,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:146:1",
+      "numberLabel": "1",
+      "text": "Praise ye the LORD. Praise the LORD, O my soul.",
+      "metadata": {
+        "reference": "Psalms 146:1",
+        "verseKey": "kjv:psalms:146:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:146:2",
+      "numberLabel": "2",
+      "text": "While I live will I praise the LORD: I will sing praises unto my God while I have any being.",
+      "metadata": {
+        "reference": "Psalms 146:2",
+        "verseKey": "kjv:psalms:146:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:146:3",
+      "numberLabel": "3",
+      "text": "Put not your trust in princes, nor in the son of man, in whom there is no help.",
+      "metadata": {
+        "reference": "Psalms 146:3",
+        "verseKey": "kjv:psalms:146:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:146:4",
+      "numberLabel": "4",
+      "text": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.",
+      "metadata": {
+        "reference": "Psalms 146:4",
+        "verseKey": "kjv:psalms:146:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:146:5",
+      "numberLabel": "5",
+      "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:",
+      "metadata": {
+        "reference": "Psalms 146:5",
+        "verseKey": "kjv:psalms:146:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:146:6",
+      "numberLabel": "6",
+      "text": "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:",
+      "metadata": {
+        "reference": "Psalms 146:6",
+        "verseKey": "kjv:psalms:146:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:146:7",
+      "numberLabel": "7",
+      "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:",
+      "metadata": {
+        "reference": "Psalms 146:7",
+        "verseKey": "kjv:psalms:146:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:146:8",
+      "numberLabel": "8",
+      "text": "The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:",
+      "metadata": {
+        "reference": "Psalms 146:8",
+        "verseKey": "kjv:psalms:146:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:146:9",
+      "numberLabel": "9",
+      "text": "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.",
+      "metadata": {
+        "reference": "Psalms 146:9",
+        "verseKey": "kjv:psalms:146:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:146:10",
+      "numberLabel": "10",
+      "text": "The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.",
+      "metadata": {
+        "reference": "Psalms 146:10",
+        "verseKey": "kjv:psalms:146:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

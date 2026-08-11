@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-005",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 5,
+  "title": "Psalms 5",
+  "display_title": "Psalms 5",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 5,
+  "sortOrder": 19005,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:5:1",
+      "numberLabel": "1",
+      "text": "Give ear to my words, O LORD, consider my meditation.",
+      "metadata": {
+        "reference": "Psalms 5:1",
+        "verseKey": "kjv:psalms:5:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:5:2",
+      "numberLabel": "2",
+      "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
+      "metadata": {
+        "reference": "Psalms 5:2",
+        "verseKey": "kjv:psalms:5:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:5:3",
+      "numberLabel": "3",
+      "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.",
+      "metadata": {
+        "reference": "Psalms 5:3",
+        "verseKey": "kjv:psalms:5:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:5:4",
+      "numberLabel": "4",
+      "text": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
+      "metadata": {
+        "reference": "Psalms 5:4",
+        "verseKey": "kjv:psalms:5:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:5:5",
+      "numberLabel": "5",
+      "text": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
+      "metadata": {
+        "reference": "Psalms 5:5",
+        "verseKey": "kjv:psalms:5:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:5:6",
+      "numberLabel": "6",
+      "text": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.",
+      "metadata": {
+        "reference": "Psalms 5:6",
+        "verseKey": "kjv:psalms:5:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:5:7",
+      "numberLabel": "7",
+      "text": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
+      "metadata": {
+        "reference": "Psalms 5:7",
+        "verseKey": "kjv:psalms:5:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:5:8",
+      "numberLabel": "8",
+      "text": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.",
+      "metadata": {
+        "reference": "Psalms 5:8",
+        "verseKey": "kjv:psalms:5:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:5:9",
+      "numberLabel": "9",
+      "text": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.",
+      "metadata": {
+        "reference": "Psalms 5:9",
+        "verseKey": "kjv:psalms:5:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:5:10",
+      "numberLabel": "10",
+      "text": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
+      "metadata": {
+        "reference": "Psalms 5:10",
+        "verseKey": "kjv:psalms:5:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:5:11",
+      "numberLabel": "11",
+      "text": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
+      "metadata": {
+        "reference": "Psalms 5:11",
+        "verseKey": "kjv:psalms:5:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:5:12",
+      "numberLabel": "12",
+      "text": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield.",
+      "metadata": {
+        "reference": "Psalms 5:12",
+        "verseKey": "kjv:psalms:5:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

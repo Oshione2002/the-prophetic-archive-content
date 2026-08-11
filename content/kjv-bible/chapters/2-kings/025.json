@@ -1,0 +1,394 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-kings-025",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 25,
+  "title": "2 Kings 25",
+  "display_title": "2 Kings 25",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-kings",
+  "book": "2 Kings",
+  "bookName": "2 Kings",
+  "bookOrder": 12,
+  "testament": "old",
+  "chapter": 25,
+  "sortOrder": 12025,
+  "verseCount": 30,
+  "aliases": [
+    "2 Kgs",
+    "2Kgs",
+    "2 Ki",
+    "2Ki"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-kings:25:1",
+      "numberLabel": "1",
+      "text": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.",
+      "metadata": {
+        "reference": "2 Kings 25:1",
+        "verseKey": "kjv:2-kings:25:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-kings:25:2",
+      "numberLabel": "2",
+      "text": "And the city was besieged unto the eleventh year of king Zedekiah.",
+      "metadata": {
+        "reference": "2 Kings 25:2",
+        "verseKey": "kjv:2-kings:25:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-kings:25:3",
+      "numberLabel": "3",
+      "text": "And on the ninth day of the fourth month the famine prevailed in the city, and there was no bread for the people of the land.",
+      "metadata": {
+        "reference": "2 Kings 25:3",
+        "verseKey": "kjv:2-kings:25:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-kings:25:4",
+      "numberLabel": "4",
+      "text": "And the city was broken up, and all the men of war fled by night by the way of the gate between two walls, which is by the king’s garden: (now the Chaldees were against the city round about:) and the king went the way toward the plain.",
+      "metadata": {
+        "reference": "2 Kings 25:4",
+        "verseKey": "kjv:2-kings:25:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-kings:25:5",
+      "numberLabel": "5",
+      "text": "And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.",
+      "metadata": {
+        "reference": "2 Kings 25:5",
+        "verseKey": "kjv:2-kings:25:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-kings:25:6",
+      "numberLabel": "6",
+      "text": "So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.",
+      "metadata": {
+        "reference": "2 Kings 25:6",
+        "verseKey": "kjv:2-kings:25:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-kings:25:7",
+      "numberLabel": "7",
+      "text": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.",
+      "metadata": {
+        "reference": "2 Kings 25:7",
+        "verseKey": "kjv:2-kings:25:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-kings:25:8",
+      "numberLabel": "8",
+      "text": "And in the fifth month, on the seventh day of the month, which is the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:",
+      "metadata": {
+        "reference": "2 Kings 25:8",
+        "verseKey": "kjv:2-kings:25:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-kings:25:9",
+      "numberLabel": "9",
+      "text": "And he burnt the house of the LORD, and the king’s house, and all the houses of Jerusalem, and every great man’s house burnt he with fire.",
+      "metadata": {
+        "reference": "2 Kings 25:9",
+        "verseKey": "kjv:2-kings:25:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-kings:25:10",
+      "numberLabel": "10",
+      "text": "And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.",
+      "metadata": {
+        "reference": "2 Kings 25:10",
+        "verseKey": "kjv:2-kings:25:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-kings:25:11",
+      "numberLabel": "11",
+      "text": "Now the rest of the people that were left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzaradan the captain of the guard carry away.",
+      "metadata": {
+        "reference": "2 Kings 25:11",
+        "verseKey": "kjv:2-kings:25:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-kings:25:12",
+      "numberLabel": "12",
+      "text": "But the captain of the guard left of the poor of the land to be vinedressers and husbandmen.",
+      "metadata": {
+        "reference": "2 Kings 25:12",
+        "verseKey": "kjv:2-kings:25:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-kings:25:13",
+      "numberLabel": "13",
+      "text": "And the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.",
+      "metadata": {
+        "reference": "2 Kings 25:13",
+        "verseKey": "kjv:2-kings:25:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-kings:25:14",
+      "numberLabel": "14",
+      "text": "And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away.",
+      "metadata": {
+        "reference": "2 Kings 25:14",
+        "verseKey": "kjv:2-kings:25:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-kings:25:15",
+      "numberLabel": "15",
+      "text": "And the firepans, and the bowls, and such things as were of gold, in gold, and of silver, in silver, the captain of the guard took away.",
+      "metadata": {
+        "reference": "2 Kings 25:15",
+        "verseKey": "kjv:2-kings:25:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-kings:25:16",
+      "numberLabel": "16",
+      "text": "The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.",
+      "metadata": {
+        "reference": "2 Kings 25:16",
+        "verseKey": "kjv:2-kings:25:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-kings:25:17",
+      "numberLabel": "17",
+      "text": "The height of the one pillar was eighteen cubits, and the chapiter upon it was brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work.",
+      "metadata": {
+        "reference": "2 Kings 25:17",
+        "verseKey": "kjv:2-kings:25:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-kings:25:18",
+      "numberLabel": "18",
+      "text": "And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:",
+      "metadata": {
+        "reference": "2 Kings 25:18",
+        "verseKey": "kjv:2-kings:25:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-kings:25:19",
+      "numberLabel": "19",
+      "text": "And out of the city he took an officer that was set over the men of war, and five men of them that were in the king’s presence, which were found in the city, and the principal scribe of the host, which mustered the people of the land, and threescore men of the people of the land that were found in the city:",
+      "metadata": {
+        "reference": "2 Kings 25:19",
+        "verseKey": "kjv:2-kings:25:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-kings:25:20",
+      "numberLabel": "20",
+      "text": "And Nebuzaradan captain of the guard took these, and brought them to the king of Babylon to Riblah:",
+      "metadata": {
+        "reference": "2 Kings 25:20",
+        "verseKey": "kjv:2-kings:25:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-kings:25:21",
+      "numberLabel": "21",
+      "text": "And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.",
+      "metadata": {
+        "reference": "2 Kings 25:21",
+        "verseKey": "kjv:2-kings:25:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-kings:25:22",
+      "numberLabel": "22",
+      "text": "And as for the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.",
+      "metadata": {
+        "reference": "2 Kings 25:22",
+        "verseKey": "kjv:2-kings:25:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-kings:25:23",
+      "numberLabel": "23",
+      "text": "And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.",
+      "metadata": {
+        "reference": "2 Kings 25:23",
+        "verseKey": "kjv:2-kings:25:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-kings:25:24",
+      "numberLabel": "24",
+      "text": "And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.",
+      "metadata": {
+        "reference": "2 Kings 25:24",
+        "verseKey": "kjv:2-kings:25:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-kings:25:25",
+      "numberLabel": "25",
+      "text": "But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.",
+      "metadata": {
+        "reference": "2 Kings 25:25",
+        "verseKey": "kjv:2-kings:25:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-kings:25:26",
+      "numberLabel": "26",
+      "text": "And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.",
+      "metadata": {
+        "reference": "2 Kings 25:26",
+        "verseKey": "kjv:2-kings:25:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-kings:25:27",
+      "numberLabel": "27",
+      "text": "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;",
+      "metadata": {
+        "reference": "2 Kings 25:27",
+        "verseKey": "kjv:2-kings:25:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-kings:25:28",
+      "numberLabel": "28",
+      "text": "And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;",
+      "metadata": {
+        "reference": "2 Kings 25:28",
+        "verseKey": "kjv:2-kings:25:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-kings:25:29",
+      "numberLabel": "29",
+      "text": "And changed his prison garments: and he did eat bread continually before him all the days of his life.",
+      "metadata": {
+        "reference": "2 Kings 25:29",
+        "verseKey": "kjv:2-kings:25:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-kings:25:30",
+      "numberLabel": "30",
+      "text": "And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.",
+      "metadata": {
+        "reference": "2 Kings 25:30",
+        "verseKey": "kjv:2-kings:25:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Kings.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Kings.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

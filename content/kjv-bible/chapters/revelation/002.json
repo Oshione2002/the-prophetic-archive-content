@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Revelation 2",
+  "display_title": "Revelation 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 66002,
+  "verseCount": 29,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:2:1",
+      "numberLabel": "1",
+      "text": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;",
+      "metadata": {
+        "reference": "Revelation 2:1",
+        "verseKey": "kjv:revelation:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:2:2",
+      "numberLabel": "2",
+      "text": "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:",
+      "metadata": {
+        "reference": "Revelation 2:2",
+        "verseKey": "kjv:revelation:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:2:3",
+      "numberLabel": "3",
+      "text": "And hast borne, and hast patience, and for my name’s sake hast laboured, and hast not fainted.",
+      "metadata": {
+        "reference": "Revelation 2:3",
+        "verseKey": "kjv:revelation:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:2:4",
+      "numberLabel": "4",
+      "text": "Nevertheless I have somewhat against thee, because thou hast left thy first love.",
+      "metadata": {
+        "reference": "Revelation 2:4",
+        "verseKey": "kjv:revelation:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:2:5",
+      "numberLabel": "5",
+      "text": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.",
+      "metadata": {
+        "reference": "Revelation 2:5",
+        "verseKey": "kjv:revelation:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:2:6",
+      "numberLabel": "6",
+      "text": "But this thou hast, that thou hatest the deeds of the Nicolaitanes, which I also hate.",
+      "metadata": {
+        "reference": "Revelation 2:6",
+        "verseKey": "kjv:revelation:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:2:7",
+      "numberLabel": "7",
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+      "metadata": {
+        "reference": "Revelation 2:7",
+        "verseKey": "kjv:revelation:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:2:8",
+      "numberLabel": "8",
+      "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+      "metadata": {
+        "reference": "Revelation 2:8",
+        "verseKey": "kjv:revelation:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:2:9",
+      "numberLabel": "9",
+      "text": "I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.",
+      "metadata": {
+        "reference": "Revelation 2:9",
+        "verseKey": "kjv:revelation:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:2:10",
+      "numberLabel": "10",
+      "text": "Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.",
+      "metadata": {
+        "reference": "Revelation 2:10",
+        "verseKey": "kjv:revelation:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:2:11",
+      "numberLabel": "11",
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+      "metadata": {
+        "reference": "Revelation 2:11",
+        "verseKey": "kjv:revelation:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:revelation:2:12",
+      "numberLabel": "12",
+      "text": "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;",
+      "metadata": {
+        "reference": "Revelation 2:12",
+        "verseKey": "kjv:revelation:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:revelation:2:13",
+      "numberLabel": "13",
+      "text": "I know thy works, and where thou dwellest, even where Satan’s seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.",
+      "metadata": {
+        "reference": "Revelation 2:13",
+        "verseKey": "kjv:revelation:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:revelation:2:14",
+      "numberLabel": "14",
+      "text": "But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.",
+      "metadata": {
+        "reference": "Revelation 2:14",
+        "verseKey": "kjv:revelation:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:revelation:2:15",
+      "numberLabel": "15",
+      "text": "So hast thou also them that hold the doctrine of the Nicolaitanes, which thing I hate.",
+      "metadata": {
+        "reference": "Revelation 2:15",
+        "verseKey": "kjv:revelation:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:revelation:2:16",
+      "numberLabel": "16",
+      "text": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.",
+      "metadata": {
+        "reference": "Revelation 2:16",
+        "verseKey": "kjv:revelation:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:revelation:2:17",
+      "numberLabel": "17",
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.",
+      "metadata": {
+        "reference": "Revelation 2:17",
+        "verseKey": "kjv:revelation:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:revelation:2:18",
+      "numberLabel": "18",
+      "text": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;",
+      "metadata": {
+        "reference": "Revelation 2:18",
+        "verseKey": "kjv:revelation:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:revelation:2:19",
+      "numberLabel": "19",
+      "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first.",
+      "metadata": {
+        "reference": "Revelation 2:19",
+        "verseKey": "kjv:revelation:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:revelation:2:20",
+      "numberLabel": "20",
+      "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.",
+      "metadata": {
+        "reference": "Revelation 2:20",
+        "verseKey": "kjv:revelation:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:revelation:2:21",
+      "numberLabel": "21",
+      "text": "And I gave her space to repent of her fornication; and she repented not.",
+      "metadata": {
+        "reference": "Revelation 2:21",
+        "verseKey": "kjv:revelation:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:revelation:2:22",
+      "numberLabel": "22",
+      "text": "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.",
+      "metadata": {
+        "reference": "Revelation 2:22",
+        "verseKey": "kjv:revelation:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:revelation:2:23",
+      "numberLabel": "23",
+      "text": "And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.",
+      "metadata": {
+        "reference": "Revelation 2:23",
+        "verseKey": "kjv:revelation:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:revelation:2:24",
+      "numberLabel": "24",
+      "text": "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.",
+      "metadata": {
+        "reference": "Revelation 2:24",
+        "verseKey": "kjv:revelation:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:revelation:2:25",
+      "numberLabel": "25",
+      "text": "But that which ye have already hold fast till I come.",
+      "metadata": {
+        "reference": "Revelation 2:25",
+        "verseKey": "kjv:revelation:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:revelation:2:26",
+      "numberLabel": "26",
+      "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+      "metadata": {
+        "reference": "Revelation 2:26",
+        "verseKey": "kjv:revelation:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:revelation:2:27",
+      "numberLabel": "27",
+      "text": "And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.",
+      "metadata": {
+        "reference": "Revelation 2:27",
+        "verseKey": "kjv:revelation:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:revelation:2:28",
+      "numberLabel": "28",
+      "text": "And I will give him the morning star.",
+      "metadata": {
+        "reference": "Revelation 2:28",
+        "verseKey": "kjv:revelation:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:revelation:2:29",
+      "numberLabel": "29",
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+      "metadata": {
+        "reference": "Revelation 2:29",
+        "verseKey": "kjv:revelation:2:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

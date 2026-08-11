@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Exodus 6",
+  "display_title": "Exodus 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 2006,
+  "verseCount": 30,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:6:1",
+      "numberLabel": "1",
+      "text": "Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.",
+      "metadata": {
+        "reference": "Exodus 6:1",
+        "verseKey": "kjv:exodus:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:6:2",
+      "numberLabel": "2",
+      "text": "And God spake unto Moses, and said unto him, I am the LORD:",
+      "metadata": {
+        "reference": "Exodus 6:2",
+        "verseKey": "kjv:exodus:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:6:3",
+      "numberLabel": "3",
+      "text": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.",
+      "metadata": {
+        "reference": "Exodus 6:3",
+        "verseKey": "kjv:exodus:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:6:4",
+      "numberLabel": "4",
+      "text": "And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.",
+      "metadata": {
+        "reference": "Exodus 6:4",
+        "verseKey": "kjv:exodus:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:6:5",
+      "numberLabel": "5",
+      "text": "And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant.",
+      "metadata": {
+        "reference": "Exodus 6:5",
+        "verseKey": "kjv:exodus:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:6:6",
+      "numberLabel": "6",
+      "text": "Wherefore say unto the children of Israel, I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:",
+      "metadata": {
+        "reference": "Exodus 6:6",
+        "verseKey": "kjv:exodus:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:6:7",
+      "numberLabel": "7",
+      "text": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the LORD your God, which bringeth you out from under the burdens of the Egyptians.",
+      "metadata": {
+        "reference": "Exodus 6:7",
+        "verseKey": "kjv:exodus:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:6:8",
+      "numberLabel": "8",
+      "text": "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the LORD.",
+      "metadata": {
+        "reference": "Exodus 6:8",
+        "verseKey": "kjv:exodus:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:6:9",
+      "numberLabel": "9",
+      "text": "And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.",
+      "metadata": {
+        "reference": "Exodus 6:9",
+        "verseKey": "kjv:exodus:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:6:10",
+      "numberLabel": "10",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Exodus 6:10",
+        "verseKey": "kjv:exodus:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:6:11",
+      "numberLabel": "11",
+      "text": "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.",
+      "metadata": {
+        "reference": "Exodus 6:11",
+        "verseKey": "kjv:exodus:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:6:12",
+      "numberLabel": "12",
+      "text": "And Moses spake before the LORD, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?",
+      "metadata": {
+        "reference": "Exodus 6:12",
+        "verseKey": "kjv:exodus:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:6:13",
+      "numberLabel": "13",
+      "text": "And the LORD spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 6:13",
+        "verseKey": "kjv:exodus:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:6:14",
+      "numberLabel": "14",
+      "text": "These be the heads of their fathers’ houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben.",
+      "metadata": {
+        "reference": "Exodus 6:14",
+        "verseKey": "kjv:exodus:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:6:15",
+      "numberLabel": "15",
+      "text": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon.",
+      "metadata": {
+        "reference": "Exodus 6:15",
+        "verseKey": "kjv:exodus:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:6:16",
+      "numberLabel": "16",
+      "text": "And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years.",
+      "metadata": {
+        "reference": "Exodus 6:16",
+        "verseKey": "kjv:exodus:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:6:17",
+      "numberLabel": "17",
+      "text": "The sons of Gershon; Libni, and Shimi, according to their families.",
+      "metadata": {
+        "reference": "Exodus 6:17",
+        "verseKey": "kjv:exodus:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:6:18",
+      "numberLabel": "18",
+      "text": "And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years.",
+      "metadata": {
+        "reference": "Exodus 6:18",
+        "verseKey": "kjv:exodus:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:6:19",
+      "numberLabel": "19",
+      "text": "And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations.",
+      "metadata": {
+        "reference": "Exodus 6:19",
+        "verseKey": "kjv:exodus:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:6:20",
+      "numberLabel": "20",
+      "text": "And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years.",
+      "metadata": {
+        "reference": "Exodus 6:20",
+        "verseKey": "kjv:exodus:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:6:21",
+      "numberLabel": "21",
+      "text": "And the sons of Izhar; Korah, and Nepheg, and Zichri.",
+      "metadata": {
+        "reference": "Exodus 6:21",
+        "verseKey": "kjv:exodus:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:6:22",
+      "numberLabel": "22",
+      "text": "And the sons of Uzziel; Mishael, and Elzaphan, and Zithri.",
+      "metadata": {
+        "reference": "Exodus 6:22",
+        "verseKey": "kjv:exodus:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:6:23",
+      "numberLabel": "23",
+      "text": "And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar.",
+      "metadata": {
+        "reference": "Exodus 6:23",
+        "verseKey": "kjv:exodus:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:6:24",
+      "numberLabel": "24",
+      "text": "And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites.",
+      "metadata": {
+        "reference": "Exodus 6:24",
+        "verseKey": "kjv:exodus:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:6:25",
+      "numberLabel": "25",
+      "text": "And Eleazar Aaron’s son took him one of the daughters of Putiel to wife; and she bare him Phinehas: these are the heads of the fathers of the Levites according to their families.",
+      "metadata": {
+        "reference": "Exodus 6:25",
+        "verseKey": "kjv:exodus:6:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:6:26",
+      "numberLabel": "26",
+      "text": "These are that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies.",
+      "metadata": {
+        "reference": "Exodus 6:26",
+        "verseKey": "kjv:exodus:6:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:6:27",
+      "numberLabel": "27",
+      "text": "These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron.",
+      "metadata": {
+        "reference": "Exodus 6:27",
+        "verseKey": "kjv:exodus:6:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:6:28",
+      "numberLabel": "28",
+      "text": "And it came to pass on the day when the LORD spake unto Moses in the land of Egypt,",
+      "metadata": {
+        "reference": "Exodus 6:28",
+        "verseKey": "kjv:exodus:6:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:6:29",
+      "numberLabel": "29",
+      "text": "That the LORD spake unto Moses, saying, I am the LORD: speak thou unto Pharaoh king of Egypt all that I say unto thee.",
+      "metadata": {
+        "reference": "Exodus 6:29",
+        "verseKey": "kjv:exodus:6:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:6:30",
+      "numberLabel": "30",
+      "text": "And Moses said before the LORD, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?",
+      "metadata": {
+        "reference": "Exodus 6:30",
+        "verseKey": "kjv:exodus:6:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

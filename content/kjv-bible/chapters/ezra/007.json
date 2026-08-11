@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezra-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Ezra 7",
+  "display_title": "Ezra 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezra",
+  "book": "Ezra",
+  "bookName": "Ezra",
+  "bookOrder": 15,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 15007,
+  "verseCount": 28,
+  "aliases": [
+    "Ezra",
+    "Ezr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezra:7:1",
+      "numberLabel": "1",
+      "text": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,",
+      "metadata": {
+        "reference": "Ezra 7:1",
+        "verseKey": "kjv:ezra:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezra:7:2",
+      "numberLabel": "2",
+      "text": "The son of Shallum, the son of Zadok, the son of Ahitub,",
+      "metadata": {
+        "reference": "Ezra 7:2",
+        "verseKey": "kjv:ezra:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezra:7:3",
+      "numberLabel": "3",
+      "text": "The son of Amariah, the son of Azariah, the son of Meraioth,",
+      "metadata": {
+        "reference": "Ezra 7:3",
+        "verseKey": "kjv:ezra:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezra:7:4",
+      "numberLabel": "4",
+      "text": "The son of Zerahiah, the son of Uzzi, the son of Bukki,",
+      "metadata": {
+        "reference": "Ezra 7:4",
+        "verseKey": "kjv:ezra:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezra:7:5",
+      "numberLabel": "5",
+      "text": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:",
+      "metadata": {
+        "reference": "Ezra 7:5",
+        "verseKey": "kjv:ezra:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezra:7:6",
+      "numberLabel": "6",
+      "text": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.",
+      "metadata": {
+        "reference": "Ezra 7:6",
+        "verseKey": "kjv:ezra:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezra:7:7",
+      "numberLabel": "7",
+      "text": "And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.",
+      "metadata": {
+        "reference": "Ezra 7:7",
+        "verseKey": "kjv:ezra:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezra:7:8",
+      "numberLabel": "8",
+      "text": "And he came to Jerusalem in the fifth month, which was in the seventh year of the king.",
+      "metadata": {
+        "reference": "Ezra 7:8",
+        "verseKey": "kjv:ezra:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezra:7:9",
+      "numberLabel": "9",
+      "text": "For upon the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him.",
+      "metadata": {
+        "reference": "Ezra 7:9",
+        "verseKey": "kjv:ezra:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezra:7:10",
+      "numberLabel": "10",
+      "text": "For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.",
+      "metadata": {
+        "reference": "Ezra 7:10",
+        "verseKey": "kjv:ezra:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezra:7:11",
+      "numberLabel": "11",
+      "text": "Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the LORD, and of his statutes to Israel.",
+      "metadata": {
+        "reference": "Ezra 7:11",
+        "verseKey": "kjv:ezra:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezra:7:12",
+      "numberLabel": "12",
+      "text": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect peace, and at such a time.",
+      "metadata": {
+        "reference": "Ezra 7:12",
+        "verseKey": "kjv:ezra:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezra:7:13",
+      "numberLabel": "13",
+      "text": "I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.",
+      "metadata": {
+        "reference": "Ezra 7:13",
+        "verseKey": "kjv:ezra:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezra:7:14",
+      "numberLabel": "14",
+      "text": "Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which is in thine hand;",
+      "metadata": {
+        "reference": "Ezra 7:14",
+        "verseKey": "kjv:ezra:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezra:7:15",
+      "numberLabel": "15",
+      "text": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation is in Jerusalem,",
+      "metadata": {
+        "reference": "Ezra 7:15",
+        "verseKey": "kjv:ezra:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezra:7:16",
+      "numberLabel": "16",
+      "text": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:",
+      "metadata": {
+        "reference": "Ezra 7:16",
+        "verseKey": "kjv:ezra:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezra:7:17",
+      "numberLabel": "17",
+      "text": "That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which is in Jerusalem.",
+      "metadata": {
+        "reference": "Ezra 7:17",
+        "verseKey": "kjv:ezra:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezra:7:18",
+      "numberLabel": "18",
+      "text": "And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.",
+      "metadata": {
+        "reference": "Ezra 7:18",
+        "verseKey": "kjv:ezra:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezra:7:19",
+      "numberLabel": "19",
+      "text": "The vessels also that are given thee for the service of the house of thy God, those deliver thou before the God of Jerusalem.",
+      "metadata": {
+        "reference": "Ezra 7:19",
+        "verseKey": "kjv:ezra:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezra:7:20",
+      "numberLabel": "20",
+      "text": "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow it out of the king’s treasure house.",
+      "metadata": {
+        "reference": "Ezra 7:20",
+        "verseKey": "kjv:ezra:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezra:7:21",
+      "numberLabel": "21",
+      "text": "And I, even I Artaxerxes the king, do make a decree to all the treasurers which are beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,",
+      "metadata": {
+        "reference": "Ezra 7:21",
+        "verseKey": "kjv:ezra:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezra:7:22",
+      "numberLabel": "22",
+      "text": "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much.",
+      "metadata": {
+        "reference": "Ezra 7:22",
+        "verseKey": "kjv:ezra:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezra:7:23",
+      "numberLabel": "23",
+      "text": "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?",
+      "metadata": {
+        "reference": "Ezra 7:23",
+        "verseKey": "kjv:ezra:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:ezra:7:24",
+      "numberLabel": "24",
+      "text": "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.",
+      "metadata": {
+        "reference": "Ezra 7:24",
+        "verseKey": "kjv:ezra:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:ezra:7:25",
+      "numberLabel": "25",
+      "text": "And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not.",
+      "metadata": {
+        "reference": "Ezra 7:25",
+        "verseKey": "kjv:ezra:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:ezra:7:26",
+      "numberLabel": "26",
+      "text": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.",
+      "metadata": {
+        "reference": "Ezra 7:26",
+        "verseKey": "kjv:ezra:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:ezra:7:27",
+      "numberLabel": "27",
+      "text": "Blessed be the LORD God of our fathers, which hath put such a thing as this in the king’s heart, to beautify the house of the LORD which is in Jerusalem:",
+      "metadata": {
+        "reference": "Ezra 7:27",
+        "verseKey": "kjv:ezra:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:ezra:7:28",
+      "numberLabel": "28",
+      "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me.",
+      "metadata": {
+        "reference": "Ezra 7:28",
+        "verseKey": "kjv:ezra:7:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezra.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezra.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

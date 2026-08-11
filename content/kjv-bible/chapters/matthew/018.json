@@ -1,0 +1,452 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "Matthew 18",
+  "display_title": "Matthew 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 18,
+  "sortOrder": 40018,
+  "verseCount": 35,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:18:1",
+      "numberLabel": "1",
+      "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?",
+      "metadata": {
+        "reference": "Matthew 18:1",
+        "verseKey": "kjv:matthew:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:18:2",
+      "numberLabel": "2",
+      "text": "And Jesus called a little child unto him, and set him in the midst of them,",
+      "metadata": {
+        "reference": "Matthew 18:2",
+        "verseKey": "kjv:matthew:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:18:3",
+      "numberLabel": "3",
+      "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.",
+      "metadata": {
+        "reference": "Matthew 18:3",
+        "verseKey": "kjv:matthew:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:18:4",
+      "numberLabel": "4",
+      "text": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.",
+      "metadata": {
+        "reference": "Matthew 18:4",
+        "verseKey": "kjv:matthew:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:18:5",
+      "numberLabel": "5",
+      "text": "And whoso shall receive one such little child in my name receiveth me.",
+      "metadata": {
+        "reference": "Matthew 18:5",
+        "verseKey": "kjv:matthew:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:18:6",
+      "numberLabel": "6",
+      "text": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
+      "metadata": {
+        "reference": "Matthew 18:6",
+        "verseKey": "kjv:matthew:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:18:7",
+      "numberLabel": "7",
+      "text": "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+      "metadata": {
+        "reference": "Matthew 18:7",
+        "verseKey": "kjv:matthew:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:18:8",
+      "numberLabel": "8",
+      "text": "Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.",
+      "metadata": {
+        "reference": "Matthew 18:8",
+        "verseKey": "kjv:matthew:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:18:9",
+      "numberLabel": "9",
+      "text": "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.",
+      "metadata": {
+        "reference": "Matthew 18:9",
+        "verseKey": "kjv:matthew:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:18:10",
+      "numberLabel": "10",
+      "text": "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.",
+      "metadata": {
+        "reference": "Matthew 18:10",
+        "verseKey": "kjv:matthew:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:18:11",
+      "numberLabel": "11",
+      "text": "For the Son of man is come to save that which was lost.",
+      "metadata": {
+        "reference": "Matthew 18:11",
+        "verseKey": "kjv:matthew:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:18:12",
+      "numberLabel": "12",
+      "text": "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?",
+      "metadata": {
+        "reference": "Matthew 18:12",
+        "verseKey": "kjv:matthew:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:18:13",
+      "numberLabel": "13",
+      "text": "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray.",
+      "metadata": {
+        "reference": "Matthew 18:13",
+        "verseKey": "kjv:matthew:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:18:14",
+      "numberLabel": "14",
+      "text": "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.",
+      "metadata": {
+        "reference": "Matthew 18:14",
+        "verseKey": "kjv:matthew:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:18:15",
+      "numberLabel": "15",
+      "text": "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.",
+      "metadata": {
+        "reference": "Matthew 18:15",
+        "verseKey": "kjv:matthew:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:18:16",
+      "numberLabel": "16",
+      "text": "But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.",
+      "metadata": {
+        "reference": "Matthew 18:16",
+        "verseKey": "kjv:matthew:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:18:17",
+      "numberLabel": "17",
+      "text": "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.",
+      "metadata": {
+        "reference": "Matthew 18:17",
+        "verseKey": "kjv:matthew:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:18:18",
+      "numberLabel": "18",
+      "text": "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.",
+      "metadata": {
+        "reference": "Matthew 18:18",
+        "verseKey": "kjv:matthew:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:18:19",
+      "numberLabel": "19",
+      "text": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.",
+      "metadata": {
+        "reference": "Matthew 18:19",
+        "verseKey": "kjv:matthew:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:18:20",
+      "numberLabel": "20",
+      "text": "For where two or three are gathered together in my name, there am I in the midst of them.",
+      "metadata": {
+        "reference": "Matthew 18:20",
+        "verseKey": "kjv:matthew:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:18:21",
+      "numberLabel": "21",
+      "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
+      "metadata": {
+        "reference": "Matthew 18:21",
+        "verseKey": "kjv:matthew:18:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:18:22",
+      "numberLabel": "22",
+      "text": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.",
+      "metadata": {
+        "reference": "Matthew 18:22",
+        "verseKey": "kjv:matthew:18:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:18:23",
+      "numberLabel": "23",
+      "text": "Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.",
+      "metadata": {
+        "reference": "Matthew 18:23",
+        "verseKey": "kjv:matthew:18:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:18:24",
+      "numberLabel": "24",
+      "text": "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.",
+      "metadata": {
+        "reference": "Matthew 18:24",
+        "verseKey": "kjv:matthew:18:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:18:25",
+      "numberLabel": "25",
+      "text": "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.",
+      "metadata": {
+        "reference": "Matthew 18:25",
+        "verseKey": "kjv:matthew:18:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:18:26",
+      "numberLabel": "26",
+      "text": "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.",
+      "metadata": {
+        "reference": "Matthew 18:26",
+        "verseKey": "kjv:matthew:18:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:18:27",
+      "numberLabel": "27",
+      "text": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.",
+      "metadata": {
+        "reference": "Matthew 18:27",
+        "verseKey": "kjv:matthew:18:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:18:28",
+      "numberLabel": "28",
+      "text": "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest.",
+      "metadata": {
+        "reference": "Matthew 18:28",
+        "verseKey": "kjv:matthew:18:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:18:29",
+      "numberLabel": "29",
+      "text": "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.",
+      "metadata": {
+        "reference": "Matthew 18:29",
+        "verseKey": "kjv:matthew:18:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:18:30",
+      "numberLabel": "30",
+      "text": "And he would not: but went and cast him into prison, till he should pay the debt.",
+      "metadata": {
+        "reference": "Matthew 18:30",
+        "verseKey": "kjv:matthew:18:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:18:31",
+      "numberLabel": "31",
+      "text": "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.",
+      "metadata": {
+        "reference": "Matthew 18:31",
+        "verseKey": "kjv:matthew:18:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:18:32",
+      "numberLabel": "32",
+      "text": "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:",
+      "metadata": {
+        "reference": "Matthew 18:32",
+        "verseKey": "kjv:matthew:18:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:18:33",
+      "numberLabel": "33",
+      "text": "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?",
+      "metadata": {
+        "reference": "Matthew 18:33",
+        "verseKey": "kjv:matthew:18:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:18:34",
+      "numberLabel": "34",
+      "text": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.",
+      "metadata": {
+        "reference": "Matthew 18:34",
+        "verseKey": "kjv:matthew:18:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:matthew:18:35",
+      "numberLabel": "35",
+      "text": "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.",
+      "metadata": {
+        "reference": "Matthew 18:35",
+        "verseKey": "kjv:matthew:18:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

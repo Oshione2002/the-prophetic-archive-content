@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-033",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 33,
+  "title": "Job 33",
+  "display_title": "Job 33",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 33,
+  "sortOrder": 18033,
+  "verseCount": 33,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:33:1",
+      "numberLabel": "1",
+      "text": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.",
+      "metadata": {
+        "reference": "Job 33:1",
+        "verseKey": "kjv:job:33:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:33:2",
+      "numberLabel": "2",
+      "text": "Behold, now I have opened my mouth, my tongue hath spoken in my mouth.",
+      "metadata": {
+        "reference": "Job 33:2",
+        "verseKey": "kjv:job:33:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:33:3",
+      "numberLabel": "3",
+      "text": "My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly.",
+      "metadata": {
+        "reference": "Job 33:3",
+        "verseKey": "kjv:job:33:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:33:4",
+      "numberLabel": "4",
+      "text": "The spirit of God hath made me, and the breath of the Almighty hath given me life.",
+      "metadata": {
+        "reference": "Job 33:4",
+        "verseKey": "kjv:job:33:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:33:5",
+      "numberLabel": "5",
+      "text": "If thou canst answer me, set thy words in order before me, stand up.",
+      "metadata": {
+        "reference": "Job 33:5",
+        "verseKey": "kjv:job:33:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:33:6",
+      "numberLabel": "6",
+      "text": "Behold, I am according to thy wish in God’s stead: I also am formed out of the clay.",
+      "metadata": {
+        "reference": "Job 33:6",
+        "verseKey": "kjv:job:33:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:33:7",
+      "numberLabel": "7",
+      "text": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.",
+      "metadata": {
+        "reference": "Job 33:7",
+        "verseKey": "kjv:job:33:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:33:8",
+      "numberLabel": "8",
+      "text": "Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,",
+      "metadata": {
+        "reference": "Job 33:8",
+        "verseKey": "kjv:job:33:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:33:9",
+      "numberLabel": "9",
+      "text": "I am clean without transgression, I am innocent; neither is there iniquity in me.",
+      "metadata": {
+        "reference": "Job 33:9",
+        "verseKey": "kjv:job:33:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:33:10",
+      "numberLabel": "10",
+      "text": "Behold, he findeth occasions against me, he counteth me for his enemy,",
+      "metadata": {
+        "reference": "Job 33:10",
+        "verseKey": "kjv:job:33:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:33:11",
+      "numberLabel": "11",
+      "text": "He putteth my feet in the stocks, he marketh all my paths.",
+      "metadata": {
+        "reference": "Job 33:11",
+        "verseKey": "kjv:job:33:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:33:12",
+      "numberLabel": "12",
+      "text": "Behold, in this thou art not just: I will answer thee, that God is greater than man.",
+      "metadata": {
+        "reference": "Job 33:12",
+        "verseKey": "kjv:job:33:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:33:13",
+      "numberLabel": "13",
+      "text": "Why dost thou strive against him? for he giveth not account of any of his matters.",
+      "metadata": {
+        "reference": "Job 33:13",
+        "verseKey": "kjv:job:33:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:33:14",
+      "numberLabel": "14",
+      "text": "For God speaketh once, yea twice, yet man perceiveth it not.",
+      "metadata": {
+        "reference": "Job 33:14",
+        "verseKey": "kjv:job:33:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:33:15",
+      "numberLabel": "15",
+      "text": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;",
+      "metadata": {
+        "reference": "Job 33:15",
+        "verseKey": "kjv:job:33:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:33:16",
+      "numberLabel": "16",
+      "text": "Then he openeth the ears of men, and sealeth their instruction,",
+      "metadata": {
+        "reference": "Job 33:16",
+        "verseKey": "kjv:job:33:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:33:17",
+      "numberLabel": "17",
+      "text": "That he may withdraw man from his purpose, and hide pride from man.",
+      "metadata": {
+        "reference": "Job 33:17",
+        "verseKey": "kjv:job:33:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:33:18",
+      "numberLabel": "18",
+      "text": "He keepeth back his soul from the pit, and his life from perishing by the sword.",
+      "metadata": {
+        "reference": "Job 33:18",
+        "verseKey": "kjv:job:33:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:33:19",
+      "numberLabel": "19",
+      "text": "He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:",
+      "metadata": {
+        "reference": "Job 33:19",
+        "verseKey": "kjv:job:33:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:33:20",
+      "numberLabel": "20",
+      "text": "So that his life abhorreth bread, and his soul dainty meat.",
+      "metadata": {
+        "reference": "Job 33:20",
+        "verseKey": "kjv:job:33:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:33:21",
+      "numberLabel": "21",
+      "text": "His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out.",
+      "metadata": {
+        "reference": "Job 33:21",
+        "verseKey": "kjv:job:33:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:33:22",
+      "numberLabel": "22",
+      "text": "Yea, his soul draweth near unto the grave, and his life to the destroyers.",
+      "metadata": {
+        "reference": "Job 33:22",
+        "verseKey": "kjv:job:33:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:33:23",
+      "numberLabel": "23",
+      "text": "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:",
+      "metadata": {
+        "reference": "Job 33:23",
+        "verseKey": "kjv:job:33:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:33:24",
+      "numberLabel": "24",
+      "text": "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.",
+      "metadata": {
+        "reference": "Job 33:24",
+        "verseKey": "kjv:job:33:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:33:25",
+      "numberLabel": "25",
+      "text": "His flesh shall be fresher than a child’s: he shall return to the days of his youth:",
+      "metadata": {
+        "reference": "Job 33:25",
+        "verseKey": "kjv:job:33:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:33:26",
+      "numberLabel": "26",
+      "text": "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.",
+      "metadata": {
+        "reference": "Job 33:26",
+        "verseKey": "kjv:job:33:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:33:27",
+      "numberLabel": "27",
+      "text": "He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;",
+      "metadata": {
+        "reference": "Job 33:27",
+        "verseKey": "kjv:job:33:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:33:28",
+      "numberLabel": "28",
+      "text": "He will deliver his soul from going into the pit, and his life shall see the light.",
+      "metadata": {
+        "reference": "Job 33:28",
+        "verseKey": "kjv:job:33:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:33:29",
+      "numberLabel": "29",
+      "text": "Lo, all these things worketh God oftentimes with man,",
+      "metadata": {
+        "reference": "Job 33:29",
+        "verseKey": "kjv:job:33:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:33:30",
+      "numberLabel": "30",
+      "text": "To bring back his soul from the pit, to be enlightened with the light of the living.",
+      "metadata": {
+        "reference": "Job 33:30",
+        "verseKey": "kjv:job:33:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:job:33:31",
+      "numberLabel": "31",
+      "text": "Mark well, O Job, hearken unto me: hold thy peace, and I will speak.",
+      "metadata": {
+        "reference": "Job 33:31",
+        "verseKey": "kjv:job:33:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:job:33:32",
+      "numberLabel": "32",
+      "text": "If thou hast anything to say, answer me: speak, for I desire to justify thee.",
+      "metadata": {
+        "reference": "Job 33:32",
+        "verseKey": "kjv:job:33:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:job:33:33",
+      "numberLabel": "33",
+      "text": "If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.",
+      "metadata": {
+        "reference": "Job 33:33",
+        "verseKey": "kjv:job:33:33"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

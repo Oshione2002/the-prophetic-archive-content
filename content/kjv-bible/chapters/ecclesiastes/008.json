@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ecclesiastes-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Ecclesiastes 8",
+  "display_title": "Ecclesiastes 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ecclesiastes",
+  "book": "Ecclesiastes",
+  "bookName": "Ecclesiastes",
+  "bookOrder": 21,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 21008,
+  "verseCount": 17,
+  "aliases": [
+    "Eccl",
+    "Ecc",
+    "Qoheleth"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ecclesiastes:8:1",
+      "numberLabel": "1",
+      "text": "Who is as the wise man? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:1",
+        "verseKey": "kjv:ecclesiastes:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ecclesiastes:8:2",
+      "numberLabel": "2",
+      "text": "I counsel thee to keep the king’s commandment, and that in regard of the oath of God.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:2",
+        "verseKey": "kjv:ecclesiastes:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ecclesiastes:8:3",
+      "numberLabel": "3",
+      "text": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:3",
+        "verseKey": "kjv:ecclesiastes:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ecclesiastes:8:4",
+      "numberLabel": "4",
+      "text": "Where the word of a king is, there is power: and who may say unto him, What doest thou?",
+      "metadata": {
+        "reference": "Ecclesiastes 8:4",
+        "verseKey": "kjv:ecclesiastes:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ecclesiastes:8:5",
+      "numberLabel": "5",
+      "text": "Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:5",
+        "verseKey": "kjv:ecclesiastes:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ecclesiastes:8:6",
+      "numberLabel": "6",
+      "text": "Because to every purpose there is time and judgment, therefore the misery of man is great upon him.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:6",
+        "verseKey": "kjv:ecclesiastes:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ecclesiastes:8:7",
+      "numberLabel": "7",
+      "text": "For he knoweth not that which shall be: for who can tell him when it shall be?",
+      "metadata": {
+        "reference": "Ecclesiastes 8:7",
+        "verseKey": "kjv:ecclesiastes:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ecclesiastes:8:8",
+      "numberLabel": "8",
+      "text": "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:8",
+        "verseKey": "kjv:ecclesiastes:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ecclesiastes:8:9",
+      "numberLabel": "9",
+      "text": "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:9",
+        "verseKey": "kjv:ecclesiastes:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ecclesiastes:8:10",
+      "numberLabel": "10",
+      "text": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:10",
+        "verseKey": "kjv:ecclesiastes:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ecclesiastes:8:11",
+      "numberLabel": "11",
+      "text": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:11",
+        "verseKey": "kjv:ecclesiastes:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ecclesiastes:8:12",
+      "numberLabel": "12",
+      "text": "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:",
+      "metadata": {
+        "reference": "Ecclesiastes 8:12",
+        "verseKey": "kjv:ecclesiastes:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ecclesiastes:8:13",
+      "numberLabel": "13",
+      "text": "But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:13",
+        "verseKey": "kjv:ecclesiastes:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ecclesiastes:8:14",
+      "numberLabel": "14",
+      "text": "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:14",
+        "verseKey": "kjv:ecclesiastes:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ecclesiastes:8:15",
+      "numberLabel": "15",
+      "text": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:15",
+        "verseKey": "kjv:ecclesiastes:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ecclesiastes:8:16",
+      "numberLabel": "16",
+      "text": "When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)",
+      "metadata": {
+        "reference": "Ecclesiastes 8:16",
+        "verseKey": "kjv:ecclesiastes:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ecclesiastes:8:17",
+      "numberLabel": "17",
+      "text": "Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea farther; though a wise man think to know it, yet shall he not be able to find it.",
+      "metadata": {
+        "reference": "Ecclesiastes 8:17",
+        "verseKey": "kjv:ecclesiastes:8:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ecclesiastes.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ecclesiastes.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

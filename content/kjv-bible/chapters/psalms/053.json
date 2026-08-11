@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-053",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 53,
+  "title": "Psalms 53",
+  "display_title": "Psalms 53",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 53,
+  "sortOrder": 19053,
+  "verseCount": 6,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:53:1",
+      "numberLabel": "1",
+      "text": "The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.",
+      "metadata": {
+        "reference": "Psalms 53:1",
+        "verseKey": "kjv:psalms:53:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:53:2",
+      "numberLabel": "2",
+      "text": "God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.",
+      "metadata": {
+        "reference": "Psalms 53:2",
+        "verseKey": "kjv:psalms:53:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:53:3",
+      "numberLabel": "3",
+      "text": "Every one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one.",
+      "metadata": {
+        "reference": "Psalms 53:3",
+        "verseKey": "kjv:psalms:53:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:53:4",
+      "numberLabel": "4",
+      "text": "Have the workers of iniquity no knowledge? who eat up my people as they eat bread: they have not called upon God.",
+      "metadata": {
+        "reference": "Psalms 53:4",
+        "verseKey": "kjv:psalms:53:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:53:5",
+      "numberLabel": "5",
+      "text": "There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against thee: thou hast put them to shame, because God hath despised them.",
+      "metadata": {
+        "reference": "Psalms 53:5",
+        "verseKey": "kjv:psalms:53:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:53:6",
+      "numberLabel": "6",
+      "text": "Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+      "metadata": {
+        "reference": "Psalms 53:6",
+        "verseKey": "kjv:psalms:53:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

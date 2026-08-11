@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-revelation-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Revelation 6",
+  "display_title": "Revelation 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "revelation",
+  "book": "Revelation",
+  "bookName": "Revelation",
+  "bookOrder": 66,
+  "testament": "new",
+  "chapter": 6,
+  "sortOrder": 66006,
+  "verseCount": 17,
+  "aliases": [
+    "Rev",
+    "Re",
+    "Rv",
+    "Apocalypse"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:revelation:6:1",
+      "numberLabel": "1",
+      "text": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.",
+      "metadata": {
+        "reference": "Revelation 6:1",
+        "verseKey": "kjv:revelation:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:revelation:6:2",
+      "numberLabel": "2",
+      "text": "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.",
+      "metadata": {
+        "reference": "Revelation 6:2",
+        "verseKey": "kjv:revelation:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:revelation:6:3",
+      "numberLabel": "3",
+      "text": "And when he had opened the second seal, I heard the second beast say, Come and see.",
+      "metadata": {
+        "reference": "Revelation 6:3",
+        "verseKey": "kjv:revelation:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:revelation:6:4",
+      "numberLabel": "4",
+      "text": "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword.",
+      "metadata": {
+        "reference": "Revelation 6:4",
+        "verseKey": "kjv:revelation:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:revelation:6:5",
+      "numberLabel": "5",
+      "text": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.",
+      "metadata": {
+        "reference": "Revelation 6:5",
+        "verseKey": "kjv:revelation:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:revelation:6:6",
+      "numberLabel": "6",
+      "text": "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine.",
+      "metadata": {
+        "reference": "Revelation 6:6",
+        "verseKey": "kjv:revelation:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:revelation:6:7",
+      "numberLabel": "7",
+      "text": "And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.",
+      "metadata": {
+        "reference": "Revelation 6:7",
+        "verseKey": "kjv:revelation:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:revelation:6:8",
+      "numberLabel": "8",
+      "text": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.",
+      "metadata": {
+        "reference": "Revelation 6:8",
+        "verseKey": "kjv:revelation:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:revelation:6:9",
+      "numberLabel": "9",
+      "text": "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:",
+      "metadata": {
+        "reference": "Revelation 6:9",
+        "verseKey": "kjv:revelation:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:revelation:6:10",
+      "numberLabel": "10",
+      "text": "And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?",
+      "metadata": {
+        "reference": "Revelation 6:10",
+        "verseKey": "kjv:revelation:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:revelation:6:11",
+      "numberLabel": "11",
+      "text": "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.",
+      "metadata": {
+        "reference": "Revelation 6:11",
+        "verseKey": "kjv:revelation:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:revelation:6:12",
+      "numberLabel": "12",
+      "text": "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;",
+      "metadata": {
+        "reference": "Revelation 6:12",
+        "verseKey": "kjv:revelation:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:revelation:6:13",
+      "numberLabel": "13",
+      "text": "And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.",
+      "metadata": {
+        "reference": "Revelation 6:13",
+        "verseKey": "kjv:revelation:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:revelation:6:14",
+      "numberLabel": "14",
+      "text": "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.",
+      "metadata": {
+        "reference": "Revelation 6:14",
+        "verseKey": "kjv:revelation:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:revelation:6:15",
+      "numberLabel": "15",
+      "text": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;",
+      "metadata": {
+        "reference": "Revelation 6:15",
+        "verseKey": "kjv:revelation:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:revelation:6:16",
+      "numberLabel": "16",
+      "text": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:",
+      "metadata": {
+        "reference": "Revelation 6:16",
+        "verseKey": "kjv:revelation:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:revelation:6:17",
+      "numberLabel": "17",
+      "text": "For the great day of his wrath is come; and who shall be able to stand?",
+      "metadata": {
+        "reference": "Revelation 6:17",
+        "verseKey": "kjv:revelation:6:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Revelation.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Revelation.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

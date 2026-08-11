@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "Isaiah 12",
+  "display_title": "Isaiah 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 23012,
+  "verseCount": 6,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:12:1",
+      "numberLabel": "1",
+      "text": "And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
+      "metadata": {
+        "reference": "Isaiah 12:1",
+        "verseKey": "kjv:isaiah:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:12:2",
+      "numberLabel": "2",
+      "text": "Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.",
+      "metadata": {
+        "reference": "Isaiah 12:2",
+        "verseKey": "kjv:isaiah:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:12:3",
+      "numberLabel": "3",
+      "text": "Therefore with joy shall ye draw water out of the wells of salvation.",
+      "metadata": {
+        "reference": "Isaiah 12:3",
+        "verseKey": "kjv:isaiah:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:12:4",
+      "numberLabel": "4",
+      "text": "And in that day shall ye say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+      "metadata": {
+        "reference": "Isaiah 12:4",
+        "verseKey": "kjv:isaiah:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:12:5",
+      "numberLabel": "5",
+      "text": "Sing unto the LORD; for he hath done excellent things: this is known in all the earth.",
+      "metadata": {
+        "reference": "Isaiah 12:5",
+        "verseKey": "kjv:isaiah:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:12:6",
+      "numberLabel": "6",
+      "text": "Cry out and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee.",
+      "metadata": {
+        "reference": "Isaiah 12:6",
+        "verseKey": "kjv:isaiah:12:6"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

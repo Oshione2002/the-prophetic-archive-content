@@ -1,0 +1,741 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "John 8",
+  "display_title": "John 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 8,
+  "sortOrder": 43008,
+  "verseCount": 59,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:8:1",
+      "numberLabel": "1",
+      "text": "Jesus went unto the mount of Olives.",
+      "metadata": {
+        "reference": "John 8:1",
+        "verseKey": "kjv:john:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:8:2",
+      "numberLabel": "2",
+      "text": "And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.",
+      "metadata": {
+        "reference": "John 8:2",
+        "verseKey": "kjv:john:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:8:3",
+      "numberLabel": "3",
+      "text": "And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,",
+      "metadata": {
+        "reference": "John 8:3",
+        "verseKey": "kjv:john:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:8:4",
+      "numberLabel": "4",
+      "text": "They say unto him, Master, this woman was taken in adultery, in the very act.",
+      "metadata": {
+        "reference": "John 8:4",
+        "verseKey": "kjv:john:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:8:5",
+      "numberLabel": "5",
+      "text": "Now Moses in the law commanded us, that such should be stoned: but what sayest thou?",
+      "metadata": {
+        "reference": "John 8:5",
+        "verseKey": "kjv:john:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:8:6",
+      "numberLabel": "6",
+      "text": "This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not.",
+      "metadata": {
+        "reference": "John 8:6",
+        "verseKey": "kjv:john:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:8:7",
+      "numberLabel": "7",
+      "text": "So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.",
+      "metadata": {
+        "reference": "John 8:7",
+        "verseKey": "kjv:john:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:8:8",
+      "numberLabel": "8",
+      "text": "And again he stooped down, and wrote on the ground.",
+      "metadata": {
+        "reference": "John 8:8",
+        "verseKey": "kjv:john:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:8:9",
+      "numberLabel": "9",
+      "text": "And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst.",
+      "metadata": {
+        "reference": "John 8:9",
+        "verseKey": "kjv:john:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:8:10",
+      "numberLabel": "10",
+      "text": "When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?",
+      "metadata": {
+        "reference": "John 8:10",
+        "verseKey": "kjv:john:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:8:11",
+      "numberLabel": "11",
+      "text": "She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.",
+      "metadata": {
+        "reference": "John 8:11",
+        "verseKey": "kjv:john:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:8:12",
+      "numberLabel": "12",
+      "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+      "metadata": {
+        "reference": "John 8:12",
+        "verseKey": "kjv:john:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:8:13",
+      "numberLabel": "13",
+      "text": "The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.",
+      "metadata": {
+        "reference": "John 8:13",
+        "verseKey": "kjv:john:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:8:14",
+      "numberLabel": "14",
+      "text": "Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go.",
+      "metadata": {
+        "reference": "John 8:14",
+        "verseKey": "kjv:john:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:8:15",
+      "numberLabel": "15",
+      "text": "Ye judge after the flesh; I judge no man.",
+      "metadata": {
+        "reference": "John 8:15",
+        "verseKey": "kjv:john:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:8:16",
+      "numberLabel": "16",
+      "text": "And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.",
+      "metadata": {
+        "reference": "John 8:16",
+        "verseKey": "kjv:john:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:8:17",
+      "numberLabel": "17",
+      "text": "It is also written in your law, that the testimony of two men is true.",
+      "metadata": {
+        "reference": "John 8:17",
+        "verseKey": "kjv:john:8:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:8:18",
+      "numberLabel": "18",
+      "text": "I am one that bear witness of myself, and the Father that sent me beareth witness of me.",
+      "metadata": {
+        "reference": "John 8:18",
+        "verseKey": "kjv:john:8:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:8:19",
+      "numberLabel": "19",
+      "text": "Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.",
+      "metadata": {
+        "reference": "John 8:19",
+        "verseKey": "kjv:john:8:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:8:20",
+      "numberLabel": "20",
+      "text": "These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.",
+      "metadata": {
+        "reference": "John 8:20",
+        "verseKey": "kjv:john:8:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:8:21",
+      "numberLabel": "21",
+      "text": "Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.",
+      "metadata": {
+        "reference": "John 8:21",
+        "verseKey": "kjv:john:8:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:8:22",
+      "numberLabel": "22",
+      "text": "Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.",
+      "metadata": {
+        "reference": "John 8:22",
+        "verseKey": "kjv:john:8:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:8:23",
+      "numberLabel": "23",
+      "text": "And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.",
+      "metadata": {
+        "reference": "John 8:23",
+        "verseKey": "kjv:john:8:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:8:24",
+      "numberLabel": "24",
+      "text": "I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.",
+      "metadata": {
+        "reference": "John 8:24",
+        "verseKey": "kjv:john:8:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:8:25",
+      "numberLabel": "25",
+      "text": "Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning.",
+      "metadata": {
+        "reference": "John 8:25",
+        "verseKey": "kjv:john:8:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:8:26",
+      "numberLabel": "26",
+      "text": "I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.",
+      "metadata": {
+        "reference": "John 8:26",
+        "verseKey": "kjv:john:8:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:8:27",
+      "numberLabel": "27",
+      "text": "They understood not that he spake to them of the Father.",
+      "metadata": {
+        "reference": "John 8:27",
+        "verseKey": "kjv:john:8:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:8:28",
+      "numberLabel": "28",
+      "text": "Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things.",
+      "metadata": {
+        "reference": "John 8:28",
+        "verseKey": "kjv:john:8:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:8:29",
+      "numberLabel": "29",
+      "text": "And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.",
+      "metadata": {
+        "reference": "John 8:29",
+        "verseKey": "kjv:john:8:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:8:30",
+      "numberLabel": "30",
+      "text": "As he spake these words, many believed on him.",
+      "metadata": {
+        "reference": "John 8:30",
+        "verseKey": "kjv:john:8:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:8:31",
+      "numberLabel": "31",
+      "text": "Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;",
+      "metadata": {
+        "reference": "John 8:31",
+        "verseKey": "kjv:john:8:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:john:8:32",
+      "numberLabel": "32",
+      "text": "And ye shall know the truth, and the truth shall make you free.",
+      "metadata": {
+        "reference": "John 8:32",
+        "verseKey": "kjv:john:8:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:john:8:33",
+      "numberLabel": "33",
+      "text": "They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?",
+      "metadata": {
+        "reference": "John 8:33",
+        "verseKey": "kjv:john:8:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:john:8:34",
+      "numberLabel": "34",
+      "text": "Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.",
+      "metadata": {
+        "reference": "John 8:34",
+        "verseKey": "kjv:john:8:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:john:8:35",
+      "numberLabel": "35",
+      "text": "And the servant abideth not in the house for ever: but the Son abideth ever.",
+      "metadata": {
+        "reference": "John 8:35",
+        "verseKey": "kjv:john:8:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:john:8:36",
+      "numberLabel": "36",
+      "text": "If the Son therefore shall make you free, ye shall be free indeed.",
+      "metadata": {
+        "reference": "John 8:36",
+        "verseKey": "kjv:john:8:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:john:8:37",
+      "numberLabel": "37",
+      "text": "I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.",
+      "metadata": {
+        "reference": "John 8:37",
+        "verseKey": "kjv:john:8:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:john:8:38",
+      "numberLabel": "38",
+      "text": "I speak that which I have seen with my Father: and ye do that which ye have seen with your father.",
+      "metadata": {
+        "reference": "John 8:38",
+        "verseKey": "kjv:john:8:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:john:8:39",
+      "numberLabel": "39",
+      "text": "They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham’s children, ye would do the works of Abraham.",
+      "metadata": {
+        "reference": "John 8:39",
+        "verseKey": "kjv:john:8:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:john:8:40",
+      "numberLabel": "40",
+      "text": "But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.",
+      "metadata": {
+        "reference": "John 8:40",
+        "verseKey": "kjv:john:8:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:john:8:41",
+      "numberLabel": "41",
+      "text": "Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God.",
+      "metadata": {
+        "reference": "John 8:41",
+        "verseKey": "kjv:john:8:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:john:8:42",
+      "numberLabel": "42",
+      "text": "Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.",
+      "metadata": {
+        "reference": "John 8:42",
+        "verseKey": "kjv:john:8:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:john:8:43",
+      "numberLabel": "43",
+      "text": "Why do ye not understand my speech? even because ye cannot hear my word.",
+      "metadata": {
+        "reference": "John 8:43",
+        "verseKey": "kjv:john:8:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:john:8:44",
+      "numberLabel": "44",
+      "text": "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.",
+      "metadata": {
+        "reference": "John 8:44",
+        "verseKey": "kjv:john:8:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:john:8:45",
+      "numberLabel": "45",
+      "text": "And because I tell you the truth, ye believe me not.",
+      "metadata": {
+        "reference": "John 8:45",
+        "verseKey": "kjv:john:8:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:john:8:46",
+      "numberLabel": "46",
+      "text": "Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?",
+      "metadata": {
+        "reference": "John 8:46",
+        "verseKey": "kjv:john:8:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:john:8:47",
+      "numberLabel": "47",
+      "text": "He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God.",
+      "metadata": {
+        "reference": "John 8:47",
+        "verseKey": "kjv:john:8:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:john:8:48",
+      "numberLabel": "48",
+      "text": "Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?",
+      "metadata": {
+        "reference": "John 8:48",
+        "verseKey": "kjv:john:8:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:john:8:49",
+      "numberLabel": "49",
+      "text": "Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me.",
+      "metadata": {
+        "reference": "John 8:49",
+        "verseKey": "kjv:john:8:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:john:8:50",
+      "numberLabel": "50",
+      "text": "And I seek not mine own glory: there is one that seeketh and judgeth.",
+      "metadata": {
+        "reference": "John 8:50",
+        "verseKey": "kjv:john:8:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:john:8:51",
+      "numberLabel": "51",
+      "text": "Verily, verily, I say unto you, If a man keep my saying, he shall never see death.",
+      "metadata": {
+        "reference": "John 8:51",
+        "verseKey": "kjv:john:8:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:john:8:52",
+      "numberLabel": "52",
+      "text": "Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.",
+      "metadata": {
+        "reference": "John 8:52",
+        "verseKey": "kjv:john:8:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:john:8:53",
+      "numberLabel": "53",
+      "text": "Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?",
+      "metadata": {
+        "reference": "John 8:53",
+        "verseKey": "kjv:john:8:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:john:8:54",
+      "numberLabel": "54",
+      "text": "Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:",
+      "metadata": {
+        "reference": "John 8:54",
+        "verseKey": "kjv:john:8:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:john:8:55",
+      "numberLabel": "55",
+      "text": "Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.",
+      "metadata": {
+        "reference": "John 8:55",
+        "verseKey": "kjv:john:8:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:john:8:56",
+      "numberLabel": "56",
+      "text": "Your father Abraham rejoiced to see my day: and he saw it, and was glad.",
+      "metadata": {
+        "reference": "John 8:56",
+        "verseKey": "kjv:john:8:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:john:8:57",
+      "numberLabel": "57",
+      "text": "Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?",
+      "metadata": {
+        "reference": "John 8:57",
+        "verseKey": "kjv:john:8:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:john:8:58",
+      "numberLabel": "58",
+      "text": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.",
+      "metadata": {
+        "reference": "John 8:58",
+        "verseKey": "kjv:john:8:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:john:8:59",
+      "numberLabel": "59",
+      "text": "Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.",
+      "metadata": {
+        "reference": "John 8:59",
+        "verseKey": "kjv:john:8:59"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

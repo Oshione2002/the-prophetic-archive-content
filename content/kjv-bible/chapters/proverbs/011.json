@@ -1,0 +1,405 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Proverbs 11",
+  "display_title": "Proverbs 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 20011,
+  "verseCount": 31,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:11:1",
+      "numberLabel": "1",
+      "text": "A false balance is abomination to the LORD: but a just weight is his delight.",
+      "metadata": {
+        "reference": "Proverbs 11:1",
+        "verseKey": "kjv:proverbs:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:11:2",
+      "numberLabel": "2",
+      "text": "When pride cometh, then cometh shame: but with the lowly is wisdom.",
+      "metadata": {
+        "reference": "Proverbs 11:2",
+        "verseKey": "kjv:proverbs:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:11:3",
+      "numberLabel": "3",
+      "text": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.",
+      "metadata": {
+        "reference": "Proverbs 11:3",
+        "verseKey": "kjv:proverbs:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:11:4",
+      "numberLabel": "4",
+      "text": "Riches profit not in the day of wrath: but righteousness delivereth from death.",
+      "metadata": {
+        "reference": "Proverbs 11:4",
+        "verseKey": "kjv:proverbs:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:11:5",
+      "numberLabel": "5",
+      "text": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.",
+      "metadata": {
+        "reference": "Proverbs 11:5",
+        "verseKey": "kjv:proverbs:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:11:6",
+      "numberLabel": "6",
+      "text": "The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness.",
+      "metadata": {
+        "reference": "Proverbs 11:6",
+        "verseKey": "kjv:proverbs:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:11:7",
+      "numberLabel": "7",
+      "text": "When a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth.",
+      "metadata": {
+        "reference": "Proverbs 11:7",
+        "verseKey": "kjv:proverbs:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:11:8",
+      "numberLabel": "8",
+      "text": "The righteous is delivered out of trouble, and the wicked cometh in his stead.",
+      "metadata": {
+        "reference": "Proverbs 11:8",
+        "verseKey": "kjv:proverbs:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:11:9",
+      "numberLabel": "9",
+      "text": "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.",
+      "metadata": {
+        "reference": "Proverbs 11:9",
+        "verseKey": "kjv:proverbs:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:11:10",
+      "numberLabel": "10",
+      "text": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.",
+      "metadata": {
+        "reference": "Proverbs 11:10",
+        "verseKey": "kjv:proverbs:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:11:11",
+      "numberLabel": "11",
+      "text": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.",
+      "metadata": {
+        "reference": "Proverbs 11:11",
+        "verseKey": "kjv:proverbs:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:11:12",
+      "numberLabel": "12",
+      "text": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.",
+      "metadata": {
+        "reference": "Proverbs 11:12",
+        "verseKey": "kjv:proverbs:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:11:13",
+      "numberLabel": "13",
+      "text": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.",
+      "metadata": {
+        "reference": "Proverbs 11:13",
+        "verseKey": "kjv:proverbs:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:11:14",
+      "numberLabel": "14",
+      "text": "Where no counsel is, the people fall: but in the multitude of counsellors there is safety.",
+      "metadata": {
+        "reference": "Proverbs 11:14",
+        "verseKey": "kjv:proverbs:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:11:15",
+      "numberLabel": "15",
+      "text": "He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.",
+      "metadata": {
+        "reference": "Proverbs 11:15",
+        "verseKey": "kjv:proverbs:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:11:16",
+      "numberLabel": "16",
+      "text": "A gracious woman retaineth honour: and strong men retain riches.",
+      "metadata": {
+        "reference": "Proverbs 11:16",
+        "verseKey": "kjv:proverbs:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:11:17",
+      "numberLabel": "17",
+      "text": "The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh.",
+      "metadata": {
+        "reference": "Proverbs 11:17",
+        "verseKey": "kjv:proverbs:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:11:18",
+      "numberLabel": "18",
+      "text": "The wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward.",
+      "metadata": {
+        "reference": "Proverbs 11:18",
+        "verseKey": "kjv:proverbs:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:11:19",
+      "numberLabel": "19",
+      "text": "As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death.",
+      "metadata": {
+        "reference": "Proverbs 11:19",
+        "verseKey": "kjv:proverbs:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:11:20",
+      "numberLabel": "20",
+      "text": "They that are of a froward heart are abomination to the LORD: but such as are upright in their way are his delight.",
+      "metadata": {
+        "reference": "Proverbs 11:20",
+        "verseKey": "kjv:proverbs:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:11:21",
+      "numberLabel": "21",
+      "text": "Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.",
+      "metadata": {
+        "reference": "Proverbs 11:21",
+        "verseKey": "kjv:proverbs:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:11:22",
+      "numberLabel": "22",
+      "text": "As a jewel of gold in a swine’s snout, so is a fair woman which is without discretion.",
+      "metadata": {
+        "reference": "Proverbs 11:22",
+        "verseKey": "kjv:proverbs:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:11:23",
+      "numberLabel": "23",
+      "text": "The desire of the righteous is only good: but the expectation of the wicked is wrath.",
+      "metadata": {
+        "reference": "Proverbs 11:23",
+        "verseKey": "kjv:proverbs:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:11:24",
+      "numberLabel": "24",
+      "text": "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.",
+      "metadata": {
+        "reference": "Proverbs 11:24",
+        "verseKey": "kjv:proverbs:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:11:25",
+      "numberLabel": "25",
+      "text": "The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
+      "metadata": {
+        "reference": "Proverbs 11:25",
+        "verseKey": "kjv:proverbs:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:11:26",
+      "numberLabel": "26",
+      "text": "He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.",
+      "metadata": {
+        "reference": "Proverbs 11:26",
+        "verseKey": "kjv:proverbs:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:11:27",
+      "numberLabel": "27",
+      "text": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him.",
+      "metadata": {
+        "reference": "Proverbs 11:27",
+        "verseKey": "kjv:proverbs:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:11:28",
+      "numberLabel": "28",
+      "text": "He that trusteth in his riches shall fall; but the righteous shall flourish as a branch.",
+      "metadata": {
+        "reference": "Proverbs 11:28",
+        "verseKey": "kjv:proverbs:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:proverbs:11:29",
+      "numberLabel": "29",
+      "text": "He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart.",
+      "metadata": {
+        "reference": "Proverbs 11:29",
+        "verseKey": "kjv:proverbs:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:proverbs:11:30",
+      "numberLabel": "30",
+      "text": "The fruit of the righteous is a tree of life; and he that winneth souls is wise.",
+      "metadata": {
+        "reference": "Proverbs 11:30",
+        "verseKey": "kjv:proverbs:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:proverbs:11:31",
+      "numberLabel": "31",
+      "text": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.",
+      "metadata": {
+        "reference": "Proverbs 11:31",
+        "verseKey": "kjv:proverbs:11:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

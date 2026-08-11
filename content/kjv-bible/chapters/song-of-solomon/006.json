@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-song-of-solomon-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Song of Solomon 6",
+  "display_title": "Song of Solomon 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "song-of-solomon",
+  "book": "Song of Solomon",
+  "bookName": "Song of Solomon",
+  "bookOrder": 22,
+  "testament": "old",
+  "chapter": 6,
+  "sortOrder": 22006,
+  "verseCount": 13,
+  "aliases": [
+    "Song",
+    "Song of Songs",
+    "SOS",
+    "Canticles"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:song-of-solomon:6:1",
+      "numberLabel": "1",
+      "text": "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.",
+      "metadata": {
+        "reference": "Song of Solomon 6:1",
+        "verseKey": "kjv:song-of-solomon:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:song-of-solomon:6:2",
+      "numberLabel": "2",
+      "text": "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.",
+      "metadata": {
+        "reference": "Song of Solomon 6:2",
+        "verseKey": "kjv:song-of-solomon:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:song-of-solomon:6:3",
+      "numberLabel": "3",
+      "text": "I am my beloved’s, and my beloved is mine: he feedeth among the lilies.",
+      "metadata": {
+        "reference": "Song of Solomon 6:3",
+        "verseKey": "kjv:song-of-solomon:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:song-of-solomon:6:4",
+      "numberLabel": "4",
+      "text": "Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.",
+      "metadata": {
+        "reference": "Song of Solomon 6:4",
+        "verseKey": "kjv:song-of-solomon:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:song-of-solomon:6:5",
+      "numberLabel": "5",
+      "text": "Turn away thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead.",
+      "metadata": {
+        "reference": "Song of Solomon 6:5",
+        "verseKey": "kjv:song-of-solomon:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:song-of-solomon:6:6",
+      "numberLabel": "6",
+      "text": "Thy teeth are as a flock of sheep which go up from the washing, whereof every one beareth twins, and there is not one barren among them.",
+      "metadata": {
+        "reference": "Song of Solomon 6:6",
+        "verseKey": "kjv:song-of-solomon:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:song-of-solomon:6:7",
+      "numberLabel": "7",
+      "text": "As a piece of a pomegranate are thy temples within thy locks.",
+      "metadata": {
+        "reference": "Song of Solomon 6:7",
+        "verseKey": "kjv:song-of-solomon:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:song-of-solomon:6:8",
+      "numberLabel": "8",
+      "text": "There are threescore queens, and fourscore concubines, and virgins without number.",
+      "metadata": {
+        "reference": "Song of Solomon 6:8",
+        "verseKey": "kjv:song-of-solomon:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:song-of-solomon:6:9",
+      "numberLabel": "9",
+      "text": "My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her.",
+      "metadata": {
+        "reference": "Song of Solomon 6:9",
+        "verseKey": "kjv:song-of-solomon:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:song-of-solomon:6:10",
+      "numberLabel": "10",
+      "text": "Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?",
+      "metadata": {
+        "reference": "Song of Solomon 6:10",
+        "verseKey": "kjv:song-of-solomon:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:song-of-solomon:6:11",
+      "numberLabel": "11",
+      "text": "I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded.",
+      "metadata": {
+        "reference": "Song of Solomon 6:11",
+        "verseKey": "kjv:song-of-solomon:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:song-of-solomon:6:12",
+      "numberLabel": "12",
+      "text": "Or ever I was aware, my soul made me like the chariots of Amminadib.",
+      "metadata": {
+        "reference": "Song of Solomon 6:12",
+        "verseKey": "kjv:song-of-solomon:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:song-of-solomon:6:13",
+      "numberLabel": "13",
+      "text": "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.",
+      "metadata": {
+        "reference": "Song of Solomon 6:13",
+        "verseKey": "kjv:song-of-solomon:6:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "SongofSolomon.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/SongofSolomon.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

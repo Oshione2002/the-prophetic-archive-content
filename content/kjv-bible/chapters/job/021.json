@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-021",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 21,
+  "title": "Job 21",
+  "display_title": "Job 21",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 21,
+  "sortOrder": 18021,
+  "verseCount": 34,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:21:1",
+      "numberLabel": "1",
+      "text": "But Job answered and said,",
+      "metadata": {
+        "reference": "Job 21:1",
+        "verseKey": "kjv:job:21:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:21:2",
+      "numberLabel": "2",
+      "text": "Hear diligently my speech, and let this be your consolations.",
+      "metadata": {
+        "reference": "Job 21:2",
+        "verseKey": "kjv:job:21:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:21:3",
+      "numberLabel": "3",
+      "text": "Suffer me that I may speak; and after that I have spoken, mock on.",
+      "metadata": {
+        "reference": "Job 21:3",
+        "verseKey": "kjv:job:21:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:21:4",
+      "numberLabel": "4",
+      "text": "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?",
+      "metadata": {
+        "reference": "Job 21:4",
+        "verseKey": "kjv:job:21:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:21:5",
+      "numberLabel": "5",
+      "text": "Mark me, and be astonished, and lay your hand upon your mouth.",
+      "metadata": {
+        "reference": "Job 21:5",
+        "verseKey": "kjv:job:21:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:21:6",
+      "numberLabel": "6",
+      "text": "Even when I remember I am afraid, and trembling taketh hold on my flesh.",
+      "metadata": {
+        "reference": "Job 21:6",
+        "verseKey": "kjv:job:21:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:21:7",
+      "numberLabel": "7",
+      "text": "Wherefore do the wicked live, become old, yea, are mighty in power?",
+      "metadata": {
+        "reference": "Job 21:7",
+        "verseKey": "kjv:job:21:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:21:8",
+      "numberLabel": "8",
+      "text": "Their seed is established in their sight with them, and their offspring before their eyes.",
+      "metadata": {
+        "reference": "Job 21:8",
+        "verseKey": "kjv:job:21:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:21:9",
+      "numberLabel": "9",
+      "text": "Their houses are safe from fear, neither is the rod of God upon them.",
+      "metadata": {
+        "reference": "Job 21:9",
+        "verseKey": "kjv:job:21:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:21:10",
+      "numberLabel": "10",
+      "text": "Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.",
+      "metadata": {
+        "reference": "Job 21:10",
+        "verseKey": "kjv:job:21:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:21:11",
+      "numberLabel": "11",
+      "text": "They send forth their little ones like a flock, and their children dance.",
+      "metadata": {
+        "reference": "Job 21:11",
+        "verseKey": "kjv:job:21:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:21:12",
+      "numberLabel": "12",
+      "text": "They take the timbrel and harp, and rejoice at the sound of the organ.",
+      "metadata": {
+        "reference": "Job 21:12",
+        "verseKey": "kjv:job:21:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:21:13",
+      "numberLabel": "13",
+      "text": "They spend their days in wealth, and in a moment go down to the grave.",
+      "metadata": {
+        "reference": "Job 21:13",
+        "verseKey": "kjv:job:21:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:21:14",
+      "numberLabel": "14",
+      "text": "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.",
+      "metadata": {
+        "reference": "Job 21:14",
+        "verseKey": "kjv:job:21:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:21:15",
+      "numberLabel": "15",
+      "text": "What is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?",
+      "metadata": {
+        "reference": "Job 21:15",
+        "verseKey": "kjv:job:21:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:21:16",
+      "numberLabel": "16",
+      "text": "Lo, their good is not in their hand: the counsel of the wicked is far from me.",
+      "metadata": {
+        "reference": "Job 21:16",
+        "verseKey": "kjv:job:21:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:21:17",
+      "numberLabel": "17",
+      "text": "How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger.",
+      "metadata": {
+        "reference": "Job 21:17",
+        "verseKey": "kjv:job:21:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:21:18",
+      "numberLabel": "18",
+      "text": "They are as stubble before the wind, and as chaff that the storm carrieth away.",
+      "metadata": {
+        "reference": "Job 21:18",
+        "verseKey": "kjv:job:21:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:21:19",
+      "numberLabel": "19",
+      "text": "God layeth up his iniquity for his children: he rewardeth him, and he shall know it.",
+      "metadata": {
+        "reference": "Job 21:19",
+        "verseKey": "kjv:job:21:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:21:20",
+      "numberLabel": "20",
+      "text": "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.",
+      "metadata": {
+        "reference": "Job 21:20",
+        "verseKey": "kjv:job:21:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:21:21",
+      "numberLabel": "21",
+      "text": "For what pleasure hath he in his house after him, when the number of his months is cut off in the midst?",
+      "metadata": {
+        "reference": "Job 21:21",
+        "verseKey": "kjv:job:21:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:21:22",
+      "numberLabel": "22",
+      "text": "Shall any teach God knowledge? seeing he judgeth those that are high.",
+      "metadata": {
+        "reference": "Job 21:22",
+        "verseKey": "kjv:job:21:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:job:21:23",
+      "numberLabel": "23",
+      "text": "One dieth in his full strength, being wholly at ease and quiet.",
+      "metadata": {
+        "reference": "Job 21:23",
+        "verseKey": "kjv:job:21:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:job:21:24",
+      "numberLabel": "24",
+      "text": "His breasts are full of milk, and his bones are moistened with marrow.",
+      "metadata": {
+        "reference": "Job 21:24",
+        "verseKey": "kjv:job:21:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:job:21:25",
+      "numberLabel": "25",
+      "text": "And another dieth in the bitterness of his soul, and never eateth with pleasure.",
+      "metadata": {
+        "reference": "Job 21:25",
+        "verseKey": "kjv:job:21:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:job:21:26",
+      "numberLabel": "26",
+      "text": "They shall lie down alike in the dust, and the worms shall cover them.",
+      "metadata": {
+        "reference": "Job 21:26",
+        "verseKey": "kjv:job:21:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:job:21:27",
+      "numberLabel": "27",
+      "text": "Behold, I know your thoughts, and the devices which ye wrongfully imagine against me.",
+      "metadata": {
+        "reference": "Job 21:27",
+        "verseKey": "kjv:job:21:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:job:21:28",
+      "numberLabel": "28",
+      "text": "For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?",
+      "metadata": {
+        "reference": "Job 21:28",
+        "verseKey": "kjv:job:21:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:job:21:29",
+      "numberLabel": "29",
+      "text": "Have ye not asked them that go by the way? and do ye not know their tokens,",
+      "metadata": {
+        "reference": "Job 21:29",
+        "verseKey": "kjv:job:21:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:job:21:30",
+      "numberLabel": "30",
+      "text": "That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath.",
+      "metadata": {
+        "reference": "Job 21:30",
+        "verseKey": "kjv:job:21:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:job:21:31",
+      "numberLabel": "31",
+      "text": "Who shall declare his way to his face? and who shall repay him what he hath done?",
+      "metadata": {
+        "reference": "Job 21:31",
+        "verseKey": "kjv:job:21:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:job:21:32",
+      "numberLabel": "32",
+      "text": "Yet shall he be brought to the grave, and shall remain in the tomb.",
+      "metadata": {
+        "reference": "Job 21:32",
+        "verseKey": "kjv:job:21:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:job:21:33",
+      "numberLabel": "33",
+      "text": "The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him.",
+      "metadata": {
+        "reference": "Job 21:33",
+        "verseKey": "kjv:job:21:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:job:21:34",
+      "numberLabel": "34",
+      "text": "How then comfort ye me in vain, seeing in your answers there remaineth falsehood?",
+      "metadata": {
+        "reference": "Job 21:34",
+        "verseKey": "kjv:job:21:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

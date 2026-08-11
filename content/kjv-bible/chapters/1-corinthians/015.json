@@ -1,0 +1,730 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-corinthians-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "1 Corinthians 15",
+  "display_title": "1 Corinthians 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-corinthians",
+  "book": "1 Corinthians",
+  "bookName": "1 Corinthians",
+  "bookOrder": 46,
+  "testament": "new",
+  "chapter": 15,
+  "sortOrder": 46015,
+  "verseCount": 58,
+  "aliases": [
+    "1 Cor",
+    "1Cor",
+    "1 Co",
+    "1Co"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-corinthians:15:1",
+      "numberLabel": "1",
+      "text": "Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;",
+      "metadata": {
+        "reference": "1 Corinthians 15:1",
+        "verseKey": "kjv:1-corinthians:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-corinthians:15:2",
+      "numberLabel": "2",
+      "text": "By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.",
+      "metadata": {
+        "reference": "1 Corinthians 15:2",
+        "verseKey": "kjv:1-corinthians:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-corinthians:15:3",
+      "numberLabel": "3",
+      "text": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;",
+      "metadata": {
+        "reference": "1 Corinthians 15:3",
+        "verseKey": "kjv:1-corinthians:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-corinthians:15:4",
+      "numberLabel": "4",
+      "text": "And that he was buried, and that he rose again the third day according to the scriptures:",
+      "metadata": {
+        "reference": "1 Corinthians 15:4",
+        "verseKey": "kjv:1-corinthians:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-corinthians:15:5",
+      "numberLabel": "5",
+      "text": "And that he was seen of Cephas, then of the twelve:",
+      "metadata": {
+        "reference": "1 Corinthians 15:5",
+        "verseKey": "kjv:1-corinthians:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-corinthians:15:6",
+      "numberLabel": "6",
+      "text": "After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.",
+      "metadata": {
+        "reference": "1 Corinthians 15:6",
+        "verseKey": "kjv:1-corinthians:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-corinthians:15:7",
+      "numberLabel": "7",
+      "text": "After that, he was seen of James; then of all the apostles.",
+      "metadata": {
+        "reference": "1 Corinthians 15:7",
+        "verseKey": "kjv:1-corinthians:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-corinthians:15:8",
+      "numberLabel": "8",
+      "text": "And last of all he was seen of me also, as of one born out of due time.",
+      "metadata": {
+        "reference": "1 Corinthians 15:8",
+        "verseKey": "kjv:1-corinthians:15:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-corinthians:15:9",
+      "numberLabel": "9",
+      "text": "For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God.",
+      "metadata": {
+        "reference": "1 Corinthians 15:9",
+        "verseKey": "kjv:1-corinthians:15:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-corinthians:15:10",
+      "numberLabel": "10",
+      "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.",
+      "metadata": {
+        "reference": "1 Corinthians 15:10",
+        "verseKey": "kjv:1-corinthians:15:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-corinthians:15:11",
+      "numberLabel": "11",
+      "text": "Therefore whether it were I or they, so we preach, and so ye believed.",
+      "metadata": {
+        "reference": "1 Corinthians 15:11",
+        "verseKey": "kjv:1-corinthians:15:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-corinthians:15:12",
+      "numberLabel": "12",
+      "text": "Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?",
+      "metadata": {
+        "reference": "1 Corinthians 15:12",
+        "verseKey": "kjv:1-corinthians:15:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-corinthians:15:13",
+      "numberLabel": "13",
+      "text": "But if there be no resurrection of the dead, then is Christ not risen:",
+      "metadata": {
+        "reference": "1 Corinthians 15:13",
+        "verseKey": "kjv:1-corinthians:15:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-corinthians:15:14",
+      "numberLabel": "14",
+      "text": "And if Christ be not risen, then is our preaching vain, and your faith is also vain.",
+      "metadata": {
+        "reference": "1 Corinthians 15:14",
+        "verseKey": "kjv:1-corinthians:15:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-corinthians:15:15",
+      "numberLabel": "15",
+      "text": "Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.",
+      "metadata": {
+        "reference": "1 Corinthians 15:15",
+        "verseKey": "kjv:1-corinthians:15:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-corinthians:15:16",
+      "numberLabel": "16",
+      "text": "For if the dead rise not, then is not Christ raised:",
+      "metadata": {
+        "reference": "1 Corinthians 15:16",
+        "verseKey": "kjv:1-corinthians:15:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-corinthians:15:17",
+      "numberLabel": "17",
+      "text": "And if Christ be not raised, your faith is vain; ye are yet in your sins.",
+      "metadata": {
+        "reference": "1 Corinthians 15:17",
+        "verseKey": "kjv:1-corinthians:15:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-corinthians:15:18",
+      "numberLabel": "18",
+      "text": "Then they also which are fallen asleep in Christ are perished.",
+      "metadata": {
+        "reference": "1 Corinthians 15:18",
+        "verseKey": "kjv:1-corinthians:15:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-corinthians:15:19",
+      "numberLabel": "19",
+      "text": "If in this life only we have hope in Christ, we are of all men most miserable.",
+      "metadata": {
+        "reference": "1 Corinthians 15:19",
+        "verseKey": "kjv:1-corinthians:15:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-corinthians:15:20",
+      "numberLabel": "20",
+      "text": "But now is Christ risen from the dead, and become the firstfruits of them that slept.",
+      "metadata": {
+        "reference": "1 Corinthians 15:20",
+        "verseKey": "kjv:1-corinthians:15:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-corinthians:15:21",
+      "numberLabel": "21",
+      "text": "For since by man came death, by man came also the resurrection of the dead.",
+      "metadata": {
+        "reference": "1 Corinthians 15:21",
+        "verseKey": "kjv:1-corinthians:15:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-corinthians:15:22",
+      "numberLabel": "22",
+      "text": "For as in Adam all die, even so in Christ shall all be made alive.",
+      "metadata": {
+        "reference": "1 Corinthians 15:22",
+        "verseKey": "kjv:1-corinthians:15:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-corinthians:15:23",
+      "numberLabel": "23",
+      "text": "But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming.",
+      "metadata": {
+        "reference": "1 Corinthians 15:23",
+        "verseKey": "kjv:1-corinthians:15:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-corinthians:15:24",
+      "numberLabel": "24",
+      "text": "Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.",
+      "metadata": {
+        "reference": "1 Corinthians 15:24",
+        "verseKey": "kjv:1-corinthians:15:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-corinthians:15:25",
+      "numberLabel": "25",
+      "text": "For he must reign, till he hath put all enemies under his feet.",
+      "metadata": {
+        "reference": "1 Corinthians 15:25",
+        "verseKey": "kjv:1-corinthians:15:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-corinthians:15:26",
+      "numberLabel": "26",
+      "text": "The last enemy that shall be destroyed is death.",
+      "metadata": {
+        "reference": "1 Corinthians 15:26",
+        "verseKey": "kjv:1-corinthians:15:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-corinthians:15:27",
+      "numberLabel": "27",
+      "text": "For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.",
+      "metadata": {
+        "reference": "1 Corinthians 15:27",
+        "verseKey": "kjv:1-corinthians:15:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-corinthians:15:28",
+      "numberLabel": "28",
+      "text": "And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.",
+      "metadata": {
+        "reference": "1 Corinthians 15:28",
+        "verseKey": "kjv:1-corinthians:15:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-corinthians:15:29",
+      "numberLabel": "29",
+      "text": "Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?",
+      "metadata": {
+        "reference": "1 Corinthians 15:29",
+        "verseKey": "kjv:1-corinthians:15:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-corinthians:15:30",
+      "numberLabel": "30",
+      "text": "And why stand we in jeopardy every hour?",
+      "metadata": {
+        "reference": "1 Corinthians 15:30",
+        "verseKey": "kjv:1-corinthians:15:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-corinthians:15:31",
+      "numberLabel": "31",
+      "text": "I protest by your rejoicing which I have in Christ Jesus our LORD, I die daily.",
+      "metadata": {
+        "reference": "1 Corinthians 15:31",
+        "verseKey": "kjv:1-corinthians:15:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-corinthians:15:32",
+      "numberLabel": "32",
+      "text": "If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.",
+      "metadata": {
+        "reference": "1 Corinthians 15:32",
+        "verseKey": "kjv:1-corinthians:15:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-corinthians:15:33",
+      "numberLabel": "33",
+      "text": "Be not deceived: evil communications corrupt good manners.",
+      "metadata": {
+        "reference": "1 Corinthians 15:33",
+        "verseKey": "kjv:1-corinthians:15:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-corinthians:15:34",
+      "numberLabel": "34",
+      "text": "Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.",
+      "metadata": {
+        "reference": "1 Corinthians 15:34",
+        "verseKey": "kjv:1-corinthians:15:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-corinthians:15:35",
+      "numberLabel": "35",
+      "text": "But some man will say, How are the dead raised up? and with what body do they come?",
+      "metadata": {
+        "reference": "1 Corinthians 15:35",
+        "verseKey": "kjv:1-corinthians:15:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-corinthians:15:36",
+      "numberLabel": "36",
+      "text": "Thou fool, that which thou sowest is not quickened, except it die:",
+      "metadata": {
+        "reference": "1 Corinthians 15:36",
+        "verseKey": "kjv:1-corinthians:15:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-corinthians:15:37",
+      "numberLabel": "37",
+      "text": "And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:",
+      "metadata": {
+        "reference": "1 Corinthians 15:37",
+        "verseKey": "kjv:1-corinthians:15:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-corinthians:15:38",
+      "numberLabel": "38",
+      "text": "But God giveth it a body as it hath pleased him, and to every seed his own body.",
+      "metadata": {
+        "reference": "1 Corinthians 15:38",
+        "verseKey": "kjv:1-corinthians:15:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-corinthians:15:39",
+      "numberLabel": "39",
+      "text": "All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds.",
+      "metadata": {
+        "reference": "1 Corinthians 15:39",
+        "verseKey": "kjv:1-corinthians:15:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-corinthians:15:40",
+      "numberLabel": "40",
+      "text": "There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.",
+      "metadata": {
+        "reference": "1 Corinthians 15:40",
+        "verseKey": "kjv:1-corinthians:15:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:1-corinthians:15:41",
+      "numberLabel": "41",
+      "text": "There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.",
+      "metadata": {
+        "reference": "1 Corinthians 15:41",
+        "verseKey": "kjv:1-corinthians:15:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:1-corinthians:15:42",
+      "numberLabel": "42",
+      "text": "So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:",
+      "metadata": {
+        "reference": "1 Corinthians 15:42",
+        "verseKey": "kjv:1-corinthians:15:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:1-corinthians:15:43",
+      "numberLabel": "43",
+      "text": "It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power:",
+      "metadata": {
+        "reference": "1 Corinthians 15:43",
+        "verseKey": "kjv:1-corinthians:15:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:1-corinthians:15:44",
+      "numberLabel": "44",
+      "text": "It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.",
+      "metadata": {
+        "reference": "1 Corinthians 15:44",
+        "verseKey": "kjv:1-corinthians:15:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:1-corinthians:15:45",
+      "numberLabel": "45",
+      "text": "And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.",
+      "metadata": {
+        "reference": "1 Corinthians 15:45",
+        "verseKey": "kjv:1-corinthians:15:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:1-corinthians:15:46",
+      "numberLabel": "46",
+      "text": "Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.",
+      "metadata": {
+        "reference": "1 Corinthians 15:46",
+        "verseKey": "kjv:1-corinthians:15:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:1-corinthians:15:47",
+      "numberLabel": "47",
+      "text": "The first man is of the earth, earthy: the second man is the Lord from heaven.",
+      "metadata": {
+        "reference": "1 Corinthians 15:47",
+        "verseKey": "kjv:1-corinthians:15:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:1-corinthians:15:48",
+      "numberLabel": "48",
+      "text": "As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly.",
+      "metadata": {
+        "reference": "1 Corinthians 15:48",
+        "verseKey": "kjv:1-corinthians:15:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:1-corinthians:15:49",
+      "numberLabel": "49",
+      "text": "And as we have borne the image of the earthy, we shall also bear the image of the heavenly.",
+      "metadata": {
+        "reference": "1 Corinthians 15:49",
+        "verseKey": "kjv:1-corinthians:15:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:1-corinthians:15:50",
+      "numberLabel": "50",
+      "text": "Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.",
+      "metadata": {
+        "reference": "1 Corinthians 15:50",
+        "verseKey": "kjv:1-corinthians:15:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:1-corinthians:15:51",
+      "numberLabel": "51",
+      "text": "Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,",
+      "metadata": {
+        "reference": "1 Corinthians 15:51",
+        "verseKey": "kjv:1-corinthians:15:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:1-corinthians:15:52",
+      "numberLabel": "52",
+      "text": "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.",
+      "metadata": {
+        "reference": "1 Corinthians 15:52",
+        "verseKey": "kjv:1-corinthians:15:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:1-corinthians:15:53",
+      "numberLabel": "53",
+      "text": "For this corruptible must put on incorruption, and this mortal must put on immortality.",
+      "metadata": {
+        "reference": "1 Corinthians 15:53",
+        "verseKey": "kjv:1-corinthians:15:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:1-corinthians:15:54",
+      "numberLabel": "54",
+      "text": "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.",
+      "metadata": {
+        "reference": "1 Corinthians 15:54",
+        "verseKey": "kjv:1-corinthians:15:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:1-corinthians:15:55",
+      "numberLabel": "55",
+      "text": "O death, where is thy sting? O grave, where is thy victory?",
+      "metadata": {
+        "reference": "1 Corinthians 15:55",
+        "verseKey": "kjv:1-corinthians:15:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:1-corinthians:15:56",
+      "numberLabel": "56",
+      "text": "The sting of death is sin; and the strength of sin is the law.",
+      "metadata": {
+        "reference": "1 Corinthians 15:56",
+        "verseKey": "kjv:1-corinthians:15:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:1-corinthians:15:57",
+      "numberLabel": "57",
+      "text": "But thanks be to God, which giveth us the victory through our Lord Jesus Christ.",
+      "metadata": {
+        "reference": "1 Corinthians 15:57",
+        "verseKey": "kjv:1-corinthians:15:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:1-corinthians:15:58",
+      "numberLabel": "58",
+      "text": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.",
+      "metadata": {
+        "reference": "1 Corinthians 15:58",
+        "verseKey": "kjv:1-corinthians:15:58"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Corinthians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Corinthians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

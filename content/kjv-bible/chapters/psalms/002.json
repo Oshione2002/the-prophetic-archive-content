@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Psalms 2",
+  "display_title": "Psalms 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 19002,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:2:1",
+      "numberLabel": "1",
+      "text": "Why do the heathen rage, and the people imagine a vain thing?",
+      "metadata": {
+        "reference": "Psalms 2:1",
+        "verseKey": "kjv:psalms:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:2:2",
+      "numberLabel": "2",
+      "text": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,",
+      "metadata": {
+        "reference": "Psalms 2:2",
+        "verseKey": "kjv:psalms:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:2:3",
+      "numberLabel": "3",
+      "text": "Let us break their bands asunder, and cast away their cords from us.",
+      "metadata": {
+        "reference": "Psalms 2:3",
+        "verseKey": "kjv:psalms:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:2:4",
+      "numberLabel": "4",
+      "text": "He that sitteth in the heavens shall laugh: the LORD shall have them in derision.",
+      "metadata": {
+        "reference": "Psalms 2:4",
+        "verseKey": "kjv:psalms:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:2:5",
+      "numberLabel": "5",
+      "text": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
+      "metadata": {
+        "reference": "Psalms 2:5",
+        "verseKey": "kjv:psalms:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:2:6",
+      "numberLabel": "6",
+      "text": "Yet have I set my king upon my holy hill of Zion.",
+      "metadata": {
+        "reference": "Psalms 2:6",
+        "verseKey": "kjv:psalms:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:2:7",
+      "numberLabel": "7",
+      "text": "I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.",
+      "metadata": {
+        "reference": "Psalms 2:7",
+        "verseKey": "kjv:psalms:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:2:8",
+      "numberLabel": "8",
+      "text": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.",
+      "metadata": {
+        "reference": "Psalms 2:8",
+        "verseKey": "kjv:psalms:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:2:9",
+      "numberLabel": "9",
+      "text": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.",
+      "metadata": {
+        "reference": "Psalms 2:9",
+        "verseKey": "kjv:psalms:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:2:10",
+      "numberLabel": "10",
+      "text": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.",
+      "metadata": {
+        "reference": "Psalms 2:10",
+        "verseKey": "kjv:psalms:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:2:11",
+      "numberLabel": "11",
+      "text": "Serve the LORD with fear, and rejoice with trembling.",
+      "metadata": {
+        "reference": "Psalms 2:11",
+        "verseKey": "kjv:psalms:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:2:12",
+      "numberLabel": "12",
+      "text": "Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.",
+      "metadata": {
+        "reference": "Psalms 2:12",
+        "verseKey": "kjv:psalms:2:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

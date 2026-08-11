@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-chronicles-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "1 Chronicles 9",
+  "display_title": "1 Chronicles 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-chronicles",
+  "book": "1 Chronicles",
+  "bookName": "1 Chronicles",
+  "bookOrder": 13,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 13009,
+  "verseCount": 44,
+  "aliases": [
+    "1 Chr",
+    "1Chr",
+    "1 Ch",
+    "1Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-chronicles:9:1",
+      "numberLabel": "1",
+      "text": "So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression.",
+      "metadata": {
+        "reference": "1 Chronicles 9:1",
+        "verseKey": "kjv:1-chronicles:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-chronicles:9:2",
+      "numberLabel": "2",
+      "text": "Now the first inhabitants that dwelt in their possessions in their cities were, the Israelites, the priests, Levites, and the Nethinims.",
+      "metadata": {
+        "reference": "1 Chronicles 9:2",
+        "verseKey": "kjv:1-chronicles:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-chronicles:9:3",
+      "numberLabel": "3",
+      "text": "And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh;",
+      "metadata": {
+        "reference": "1 Chronicles 9:3",
+        "verseKey": "kjv:1-chronicles:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-chronicles:9:4",
+      "numberLabel": "4",
+      "text": "Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah.",
+      "metadata": {
+        "reference": "1 Chronicles 9:4",
+        "verseKey": "kjv:1-chronicles:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-chronicles:9:5",
+      "numberLabel": "5",
+      "text": "And of the Shilonites; Asaiah the firstborn, and his sons.",
+      "metadata": {
+        "reference": "1 Chronicles 9:5",
+        "verseKey": "kjv:1-chronicles:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-chronicles:9:6",
+      "numberLabel": "6",
+      "text": "And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.",
+      "metadata": {
+        "reference": "1 Chronicles 9:6",
+        "verseKey": "kjv:1-chronicles:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-chronicles:9:7",
+      "numberLabel": "7",
+      "text": "And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,",
+      "metadata": {
+        "reference": "1 Chronicles 9:7",
+        "verseKey": "kjv:1-chronicles:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-chronicles:9:8",
+      "numberLabel": "8",
+      "text": "And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;",
+      "metadata": {
+        "reference": "1 Chronicles 9:8",
+        "verseKey": "kjv:1-chronicles:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-chronicles:9:9",
+      "numberLabel": "9",
+      "text": "And their brethren, according to their generations, nine hundred and fifty and six. All these men were chief of the fathers in the house of their fathers.",
+      "metadata": {
+        "reference": "1 Chronicles 9:9",
+        "verseKey": "kjv:1-chronicles:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-chronicles:9:10",
+      "numberLabel": "10",
+      "text": "And of the priests; Jedaiah, and Jehoiarib, and Jachin,",
+      "metadata": {
+        "reference": "1 Chronicles 9:10",
+        "verseKey": "kjv:1-chronicles:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-chronicles:9:11",
+      "numberLabel": "11",
+      "text": "And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;",
+      "metadata": {
+        "reference": "1 Chronicles 9:11",
+        "verseKey": "kjv:1-chronicles:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-chronicles:9:12",
+      "numberLabel": "12",
+      "text": "And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;",
+      "metadata": {
+        "reference": "1 Chronicles 9:12",
+        "verseKey": "kjv:1-chronicles:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-chronicles:9:13",
+      "numberLabel": "13",
+      "text": "And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.",
+      "metadata": {
+        "reference": "1 Chronicles 9:13",
+        "verseKey": "kjv:1-chronicles:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-chronicles:9:14",
+      "numberLabel": "14",
+      "text": "And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;",
+      "metadata": {
+        "reference": "1 Chronicles 9:14",
+        "verseKey": "kjv:1-chronicles:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-chronicles:9:15",
+      "numberLabel": "15",
+      "text": "And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;",
+      "metadata": {
+        "reference": "1 Chronicles 9:15",
+        "verseKey": "kjv:1-chronicles:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-chronicles:9:16",
+      "numberLabel": "16",
+      "text": "And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.",
+      "metadata": {
+        "reference": "1 Chronicles 9:16",
+        "verseKey": "kjv:1-chronicles:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-chronicles:9:17",
+      "numberLabel": "17",
+      "text": "And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chief;",
+      "metadata": {
+        "reference": "1 Chronicles 9:17",
+        "verseKey": "kjv:1-chronicles:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-chronicles:9:18",
+      "numberLabel": "18",
+      "text": "Who hitherto waited in the king’s gate eastward: they were porters in the companies of the children of Levi.",
+      "metadata": {
+        "reference": "1 Chronicles 9:18",
+        "verseKey": "kjv:1-chronicles:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-chronicles:9:19",
+      "numberLabel": "19",
+      "text": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry.",
+      "metadata": {
+        "reference": "1 Chronicles 9:19",
+        "verseKey": "kjv:1-chronicles:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-chronicles:9:20",
+      "numberLabel": "20",
+      "text": "And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD was with him.",
+      "metadata": {
+        "reference": "1 Chronicles 9:20",
+        "verseKey": "kjv:1-chronicles:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-chronicles:9:21",
+      "numberLabel": "21",
+      "text": "And Zechariah the son of Meshelemiah was porter of the door of the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "1 Chronicles 9:21",
+        "verseKey": "kjv:1-chronicles:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-chronicles:9:22",
+      "numberLabel": "22",
+      "text": "All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.",
+      "metadata": {
+        "reference": "1 Chronicles 9:22",
+        "verseKey": "kjv:1-chronicles:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-chronicles:9:23",
+      "numberLabel": "23",
+      "text": "So they and their children had the oversight of the gates of the house of the LORD, namely, the house of the tabernacle, by wards.",
+      "metadata": {
+        "reference": "1 Chronicles 9:23",
+        "verseKey": "kjv:1-chronicles:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-chronicles:9:24",
+      "numberLabel": "24",
+      "text": "In four quarters were the porters, toward the east, west, north, and south.",
+      "metadata": {
+        "reference": "1 Chronicles 9:24",
+        "verseKey": "kjv:1-chronicles:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-chronicles:9:25",
+      "numberLabel": "25",
+      "text": "And their brethren, which were in their villages, were to come after seven days from time to time with them.",
+      "metadata": {
+        "reference": "1 Chronicles 9:25",
+        "verseKey": "kjv:1-chronicles:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-chronicles:9:26",
+      "numberLabel": "26",
+      "text": "For these Levites, the four chief porters, were in their set office, and were over the chambers and treasuries of the house of God.",
+      "metadata": {
+        "reference": "1 Chronicles 9:26",
+        "verseKey": "kjv:1-chronicles:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-chronicles:9:27",
+      "numberLabel": "27",
+      "text": "And they lodged round about the house of God, because the charge was upon them, and the opening thereof every morning pertained to them.",
+      "metadata": {
+        "reference": "1 Chronicles 9:27",
+        "verseKey": "kjv:1-chronicles:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-chronicles:9:28",
+      "numberLabel": "28",
+      "text": "And certain of them had the charge of the ministering vessels, that they should bring them in and out by tale.",
+      "metadata": {
+        "reference": "1 Chronicles 9:28",
+        "verseKey": "kjv:1-chronicles:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-chronicles:9:29",
+      "numberLabel": "29",
+      "text": "Some of them also were appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices.",
+      "metadata": {
+        "reference": "1 Chronicles 9:29",
+        "verseKey": "kjv:1-chronicles:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-chronicles:9:30",
+      "numberLabel": "30",
+      "text": "And some of the sons of the priests made the ointment of the spices.",
+      "metadata": {
+        "reference": "1 Chronicles 9:30",
+        "verseKey": "kjv:1-chronicles:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-chronicles:9:31",
+      "numberLabel": "31",
+      "text": "And Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.",
+      "metadata": {
+        "reference": "1 Chronicles 9:31",
+        "verseKey": "kjv:1-chronicles:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-chronicles:9:32",
+      "numberLabel": "32",
+      "text": "And other of their brethren, of the sons of the Kohathites, were over the shewbread, to prepare it every sabbath.",
+      "metadata": {
+        "reference": "1 Chronicles 9:32",
+        "verseKey": "kjv:1-chronicles:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-chronicles:9:33",
+      "numberLabel": "33",
+      "text": "And these are the singers, chief of the fathers of the Levites, who remaining in the chambers were free: for they were employed in that work day and night.",
+      "metadata": {
+        "reference": "1 Chronicles 9:33",
+        "verseKey": "kjv:1-chronicles:9:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-chronicles:9:34",
+      "numberLabel": "34",
+      "text": "These chief fathers of the Levites were chief throughout their generations; these dwelt at Jerusalem.",
+      "metadata": {
+        "reference": "1 Chronicles 9:34",
+        "verseKey": "kjv:1-chronicles:9:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-chronicles:9:35",
+      "numberLabel": "35",
+      "text": "And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name was Maachah,",
+      "metadata": {
+        "reference": "1 Chronicles 9:35",
+        "verseKey": "kjv:1-chronicles:9:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-chronicles:9:36",
+      "numberLabel": "36",
+      "text": "And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,",
+      "metadata": {
+        "reference": "1 Chronicles 9:36",
+        "verseKey": "kjv:1-chronicles:9:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-chronicles:9:37",
+      "numberLabel": "37",
+      "text": "And Gedor, and Ahio, and Zechariah, and Mikloth.",
+      "metadata": {
+        "reference": "1 Chronicles 9:37",
+        "verseKey": "kjv:1-chronicles:9:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-chronicles:9:38",
+      "numberLabel": "38",
+      "text": "And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.",
+      "metadata": {
+        "reference": "1 Chronicles 9:38",
+        "verseKey": "kjv:1-chronicles:9:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-chronicles:9:39",
+      "numberLabel": "39",
+      "text": "And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.",
+      "metadata": {
+        "reference": "1 Chronicles 9:39",
+        "verseKey": "kjv:1-chronicles:9:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-chronicles:9:40",
+      "numberLabel": "40",
+      "text": "And the son of Jonathan was Meribbaal: and Meribbaal begat Micah.",
+      "metadata": {
+        "reference": "1 Chronicles 9:40",
+        "verseKey": "kjv:1-chronicles:9:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:1-chronicles:9:41",
+      "numberLabel": "41",
+      "text": "And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz.",
+      "metadata": {
+        "reference": "1 Chronicles 9:41",
+        "verseKey": "kjv:1-chronicles:9:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:1-chronicles:9:42",
+      "numberLabel": "42",
+      "text": "And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;",
+      "metadata": {
+        "reference": "1 Chronicles 9:42",
+        "verseKey": "kjv:1-chronicles:9:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:1-chronicles:9:43",
+      "numberLabel": "43",
+      "text": "And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.",
+      "metadata": {
+        "reference": "1 Chronicles 9:43",
+        "verseKey": "kjv:1-chronicles:9:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:1-chronicles:9:44",
+      "numberLabel": "44",
+      "text": "And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.",
+      "metadata": {
+        "reference": "1 Chronicles 9:44",
+        "verseKey": "kjv:1-chronicles:9:44"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-2-samuel-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "2 Samuel 12",
+  "display_title": "2 Samuel 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "2-samuel",
+  "book": "2 Samuel",
+  "bookName": "2 Samuel",
+  "bookOrder": 10,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 10012,
+  "verseCount": 31,
+  "aliases": [
+    "2 Sam",
+    "2Sam",
+    "2 Sa",
+    "2Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:2-samuel:12:1",
+      "numberLabel": "1",
+      "text": "And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.",
+      "metadata": {
+        "reference": "2 Samuel 12:1",
+        "verseKey": "kjv:2-samuel:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:2-samuel:12:2",
+      "numberLabel": "2",
+      "text": "The rich man had exceeding many flocks and herds:",
+      "metadata": {
+        "reference": "2 Samuel 12:2",
+        "verseKey": "kjv:2-samuel:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:2-samuel:12:3",
+      "numberLabel": "3",
+      "text": "But the poor man had nothing, save one little ewe lamb, which he had bought and nourished up: and it grew up together with him, and with his children; it did eat of his own meat, and drank of his own cup, and lay in his bosom, and was unto him as a daughter.",
+      "metadata": {
+        "reference": "2 Samuel 12:3",
+        "verseKey": "kjv:2-samuel:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:2-samuel:12:4",
+      "numberLabel": "4",
+      "text": "And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him; but took the poor man’s lamb, and dressed it for the man that was come to him.",
+      "metadata": {
+        "reference": "2 Samuel 12:4",
+        "verseKey": "kjv:2-samuel:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:2-samuel:12:5",
+      "numberLabel": "5",
+      "text": "And David’s anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die:",
+      "metadata": {
+        "reference": "2 Samuel 12:5",
+        "verseKey": "kjv:2-samuel:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:2-samuel:12:6",
+      "numberLabel": "6",
+      "text": "And he shall restore the lamb fourfold, because he did this thing, and because he had no pity.",
+      "metadata": {
+        "reference": "2 Samuel 12:6",
+        "verseKey": "kjv:2-samuel:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:2-samuel:12:7",
+      "numberLabel": "7",
+      "text": "And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;",
+      "metadata": {
+        "reference": "2 Samuel 12:7",
+        "verseKey": "kjv:2-samuel:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:2-samuel:12:8",
+      "numberLabel": "8",
+      "text": "And I gave thee thy master’s house, and thy master’s wives into thy bosom, and gave thee the house of Israel and of Judah; and if that had been too little, I would moreover have given unto thee such and such things.",
+      "metadata": {
+        "reference": "2 Samuel 12:8",
+        "verseKey": "kjv:2-samuel:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:2-samuel:12:9",
+      "numberLabel": "9",
+      "text": "Wherefore hast thou despised the commandment of the LORD, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife to be thy wife, and hast slain him with the sword of the children of Ammon.",
+      "metadata": {
+        "reference": "2 Samuel 12:9",
+        "verseKey": "kjv:2-samuel:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:2-samuel:12:10",
+      "numberLabel": "10",
+      "text": "Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife.",
+      "metadata": {
+        "reference": "2 Samuel 12:10",
+        "verseKey": "kjv:2-samuel:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:2-samuel:12:11",
+      "numberLabel": "11",
+      "text": "Thus saith the LORD, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give them unto thy neighbour, and he shall lie with thy wives in the sight of this sun.",
+      "metadata": {
+        "reference": "2 Samuel 12:11",
+        "verseKey": "kjv:2-samuel:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:2-samuel:12:12",
+      "numberLabel": "12",
+      "text": "For thou didst it secretly: but I will do this thing before all Israel, and before the sun.",
+      "metadata": {
+        "reference": "2 Samuel 12:12",
+        "verseKey": "kjv:2-samuel:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:2-samuel:12:13",
+      "numberLabel": "13",
+      "text": "And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.",
+      "metadata": {
+        "reference": "2 Samuel 12:13",
+        "verseKey": "kjv:2-samuel:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:2-samuel:12:14",
+      "numberLabel": "14",
+      "text": "Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also that is born unto thee shall surely die.",
+      "metadata": {
+        "reference": "2 Samuel 12:14",
+        "verseKey": "kjv:2-samuel:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:2-samuel:12:15",
+      "numberLabel": "15",
+      "text": "And Nathan departed unto his house. And the LORD struck the child that Uriah’s wife bare unto David, and it was very sick.",
+      "metadata": {
+        "reference": "2 Samuel 12:15",
+        "verseKey": "kjv:2-samuel:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:2-samuel:12:16",
+      "numberLabel": "16",
+      "text": "David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.",
+      "metadata": {
+        "reference": "2 Samuel 12:16",
+        "verseKey": "kjv:2-samuel:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:2-samuel:12:17",
+      "numberLabel": "17",
+      "text": "And the elders of his house arose, and went to him, to raise him up from the earth: but he would not, neither did he eat bread with them.",
+      "metadata": {
+        "reference": "2 Samuel 12:17",
+        "verseKey": "kjv:2-samuel:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:2-samuel:12:18",
+      "numberLabel": "18",
+      "text": "And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?",
+      "metadata": {
+        "reference": "2 Samuel 12:18",
+        "verseKey": "kjv:2-samuel:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:2-samuel:12:19",
+      "numberLabel": "19",
+      "text": "But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead.",
+      "metadata": {
+        "reference": "2 Samuel 12:19",
+        "verseKey": "kjv:2-samuel:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:2-samuel:12:20",
+      "numberLabel": "20",
+      "text": "Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the LORD, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat.",
+      "metadata": {
+        "reference": "2 Samuel 12:20",
+        "verseKey": "kjv:2-samuel:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:2-samuel:12:21",
+      "numberLabel": "21",
+      "text": "Then said his servants unto him, What thing is this that thou hast done? thou didst fast and weep for the child, while it was alive; but when the child was dead, thou didst rise and eat bread.",
+      "metadata": {
+        "reference": "2 Samuel 12:21",
+        "verseKey": "kjv:2-samuel:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:2-samuel:12:22",
+      "numberLabel": "22",
+      "text": "And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether GOD will be gracious to me, that the child may live?",
+      "metadata": {
+        "reference": "2 Samuel 12:22",
+        "verseKey": "kjv:2-samuel:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:2-samuel:12:23",
+      "numberLabel": "23",
+      "text": "But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me.",
+      "metadata": {
+        "reference": "2 Samuel 12:23",
+        "verseKey": "kjv:2-samuel:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:2-samuel:12:24",
+      "numberLabel": "24",
+      "text": "And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.",
+      "metadata": {
+        "reference": "2 Samuel 12:24",
+        "verseKey": "kjv:2-samuel:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:2-samuel:12:25",
+      "numberLabel": "25",
+      "text": "And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.",
+      "metadata": {
+        "reference": "2 Samuel 12:25",
+        "verseKey": "kjv:2-samuel:12:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:2-samuel:12:26",
+      "numberLabel": "26",
+      "text": "And Joab fought against Rabbah of the children of Ammon, and took the royal city.",
+      "metadata": {
+        "reference": "2 Samuel 12:26",
+        "verseKey": "kjv:2-samuel:12:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:2-samuel:12:27",
+      "numberLabel": "27",
+      "text": "And Joab sent messengers to David, and said, I have fought against Rabbah, and have taken the city of waters.",
+      "metadata": {
+        "reference": "2 Samuel 12:27",
+        "verseKey": "kjv:2-samuel:12:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:2-samuel:12:28",
+      "numberLabel": "28",
+      "text": "Now therefore gather the rest of the people together, and encamp against the city, and take it: lest I take the city, and it be called after my name.",
+      "metadata": {
+        "reference": "2 Samuel 12:28",
+        "verseKey": "kjv:2-samuel:12:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:2-samuel:12:29",
+      "numberLabel": "29",
+      "text": "And David gathered all the people together, and went to Rabbah, and fought against it, and took it.",
+      "metadata": {
+        "reference": "2 Samuel 12:29",
+        "verseKey": "kjv:2-samuel:12:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:2-samuel:12:30",
+      "numberLabel": "30",
+      "text": "And he took their king’s crown from off his head, the weight whereof was a talent of gold with the precious stones: and it was set on David’s head. And he brought forth the spoil of the city in great abundance.",
+      "metadata": {
+        "reference": "2 Samuel 12:30",
+        "verseKey": "kjv:2-samuel:12:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:2-samuel:12:31",
+      "numberLabel": "31",
+      "text": "And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brick-kiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.",
+      "metadata": {
+        "reference": "2 Samuel 12:31",
+        "verseKey": "kjv:2-samuel:12:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "2Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/2Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

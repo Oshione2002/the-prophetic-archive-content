@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-019",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 19,
+  "title": "Isaiah 19",
+  "display_title": "Isaiah 19",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 19,
+  "sortOrder": 23019,
+  "verseCount": 25,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:19:1",
+      "numberLabel": "1",
+      "text": "The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.",
+      "metadata": {
+        "reference": "Isaiah 19:1",
+        "verseKey": "kjv:isaiah:19:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:19:2",
+      "numberLabel": "2",
+      "text": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom.",
+      "metadata": {
+        "reference": "Isaiah 19:2",
+        "verseKey": "kjv:isaiah:19:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:19:3",
+      "numberLabel": "3",
+      "text": "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.",
+      "metadata": {
+        "reference": "Isaiah 19:3",
+        "verseKey": "kjv:isaiah:19:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:19:4",
+      "numberLabel": "4",
+      "text": "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the LORD of hosts.",
+      "metadata": {
+        "reference": "Isaiah 19:4",
+        "verseKey": "kjv:isaiah:19:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:19:5",
+      "numberLabel": "5",
+      "text": "And the waters shall fail from the sea, and the river shall be wasted and dried up.",
+      "metadata": {
+        "reference": "Isaiah 19:5",
+        "verseKey": "kjv:isaiah:19:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:19:6",
+      "numberLabel": "6",
+      "text": "And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.",
+      "metadata": {
+        "reference": "Isaiah 19:6",
+        "verseKey": "kjv:isaiah:19:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:19:7",
+      "numberLabel": "7",
+      "text": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no more.",
+      "metadata": {
+        "reference": "Isaiah 19:7",
+        "verseKey": "kjv:isaiah:19:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:19:8",
+      "numberLabel": "8",
+      "text": "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.",
+      "metadata": {
+        "reference": "Isaiah 19:8",
+        "verseKey": "kjv:isaiah:19:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:19:9",
+      "numberLabel": "9",
+      "text": "Moreover they that work in fine flax, and they that weave networks, shall be confounded.",
+      "metadata": {
+        "reference": "Isaiah 19:9",
+        "verseKey": "kjv:isaiah:19:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:isaiah:19:10",
+      "numberLabel": "10",
+      "text": "And they shall be broken in the purposes thereof, all that make sluices and ponds for fish.",
+      "metadata": {
+        "reference": "Isaiah 19:10",
+        "verseKey": "kjv:isaiah:19:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:isaiah:19:11",
+      "numberLabel": "11",
+      "text": "Surely the princes of Zoan are fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?",
+      "metadata": {
+        "reference": "Isaiah 19:11",
+        "verseKey": "kjv:isaiah:19:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:isaiah:19:12",
+      "numberLabel": "12",
+      "text": "Where are they? where are thy wise men? and let them tell thee now, and let them know what the LORD of hosts hath purposed upon Egypt.",
+      "metadata": {
+        "reference": "Isaiah 19:12",
+        "verseKey": "kjv:isaiah:19:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:isaiah:19:13",
+      "numberLabel": "13",
+      "text": "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, even they that are the stay of the tribes thereof.",
+      "metadata": {
+        "reference": "Isaiah 19:13",
+        "verseKey": "kjv:isaiah:19:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:isaiah:19:14",
+      "numberLabel": "14",
+      "text": "The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit.",
+      "metadata": {
+        "reference": "Isaiah 19:14",
+        "verseKey": "kjv:isaiah:19:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:isaiah:19:15",
+      "numberLabel": "15",
+      "text": "Neither shall there be any work for Egypt, which the head or tail, branch or rush, may do.",
+      "metadata": {
+        "reference": "Isaiah 19:15",
+        "verseKey": "kjv:isaiah:19:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:isaiah:19:16",
+      "numberLabel": "16",
+      "text": "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the LORD of hosts, which he shaketh over it.",
+      "metadata": {
+        "reference": "Isaiah 19:16",
+        "verseKey": "kjv:isaiah:19:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:isaiah:19:17",
+      "numberLabel": "17",
+      "text": "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it.",
+      "metadata": {
+        "reference": "Isaiah 19:17",
+        "verseKey": "kjv:isaiah:19:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:isaiah:19:18",
+      "numberLabel": "18",
+      "text": "In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction.",
+      "metadata": {
+        "reference": "Isaiah 19:18",
+        "verseKey": "kjv:isaiah:19:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:isaiah:19:19",
+      "numberLabel": "19",
+      "text": "In that day shall there be an altar to the LORD in the midst of the land of Egypt, and a pillar at the border thereof to the LORD.",
+      "metadata": {
+        "reference": "Isaiah 19:19",
+        "verseKey": "kjv:isaiah:19:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:isaiah:19:20",
+      "numberLabel": "20",
+      "text": "And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.",
+      "metadata": {
+        "reference": "Isaiah 19:20",
+        "verseKey": "kjv:isaiah:19:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:isaiah:19:21",
+      "numberLabel": "21",
+      "text": "And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform it.",
+      "metadata": {
+        "reference": "Isaiah 19:21",
+        "verseKey": "kjv:isaiah:19:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:isaiah:19:22",
+      "numberLabel": "22",
+      "text": "And the LORD shall smite Egypt: he shall smite and heal it: and they shall return even to the LORD, and he shall be intreated of them, and shall heal them.",
+      "metadata": {
+        "reference": "Isaiah 19:22",
+        "verseKey": "kjv:isaiah:19:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:isaiah:19:23",
+      "numberLabel": "23",
+      "text": "In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians.",
+      "metadata": {
+        "reference": "Isaiah 19:23",
+        "verseKey": "kjv:isaiah:19:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:isaiah:19:24",
+      "numberLabel": "24",
+      "text": "In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:",
+      "metadata": {
+        "reference": "Isaiah 19:24",
+        "verseKey": "kjv:isaiah:19:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:isaiah:19:25",
+      "numberLabel": "25",
+      "text": "Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.",
+      "metadata": {
+        "reference": "Isaiah 19:25",
+        "verseKey": "kjv:isaiah:19:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

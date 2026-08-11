@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-deuteronomy-031",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 31,
+  "title": "Deuteronomy 31",
+  "display_title": "Deuteronomy 31",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "deuteronomy",
+  "book": "Deuteronomy",
+  "bookName": "Deuteronomy",
+  "bookOrder": 5,
+  "testament": "old",
+  "chapter": 31,
+  "sortOrder": 5031,
+  "verseCount": 30,
+  "aliases": [
+    "Deut",
+    "Dt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:deuteronomy:31:1",
+      "numberLabel": "1",
+      "text": "And Moses went and spake these words unto all Israel.",
+      "metadata": {
+        "reference": "Deuteronomy 31:1",
+        "verseKey": "kjv:deuteronomy:31:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:deuteronomy:31:2",
+      "numberLabel": "2",
+      "text": "And he said unto them, I am an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan.",
+      "metadata": {
+        "reference": "Deuteronomy 31:2",
+        "verseKey": "kjv:deuteronomy:31:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:deuteronomy:31:3",
+      "numberLabel": "3",
+      "text": "The LORD thy God, he will go over before thee, and he will destroy these nations from before thee, and thou shalt possess them: and Joshua, he shall go over before thee, as the LORD hath said.",
+      "metadata": {
+        "reference": "Deuteronomy 31:3",
+        "verseKey": "kjv:deuteronomy:31:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:deuteronomy:31:4",
+      "numberLabel": "4",
+      "text": "And the LORD shall do unto them as he did to Sihon and to Og, kings of the Amorites, and unto the land of them, whom he destroyed.",
+      "metadata": {
+        "reference": "Deuteronomy 31:4",
+        "verseKey": "kjv:deuteronomy:31:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:deuteronomy:31:5",
+      "numberLabel": "5",
+      "text": "And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you.",
+      "metadata": {
+        "reference": "Deuteronomy 31:5",
+        "verseKey": "kjv:deuteronomy:31:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:deuteronomy:31:6",
+      "numberLabel": "6",
+      "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+      "metadata": {
+        "reference": "Deuteronomy 31:6",
+        "verseKey": "kjv:deuteronomy:31:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:deuteronomy:31:7",
+      "numberLabel": "7",
+      "text": "And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.",
+      "metadata": {
+        "reference": "Deuteronomy 31:7",
+        "verseKey": "kjv:deuteronomy:31:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:deuteronomy:31:8",
+      "numberLabel": "8",
+      "text": "And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.",
+      "metadata": {
+        "reference": "Deuteronomy 31:8",
+        "verseKey": "kjv:deuteronomy:31:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:deuteronomy:31:9",
+      "numberLabel": "9",
+      "text": "And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the LORD, and unto all the elders of Israel.",
+      "metadata": {
+        "reference": "Deuteronomy 31:9",
+        "verseKey": "kjv:deuteronomy:31:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:deuteronomy:31:10",
+      "numberLabel": "10",
+      "text": "And Moses commanded them, saying, At the end of every seven years, in the solemnity of the year of release, in the feast of tabernacles,",
+      "metadata": {
+        "reference": "Deuteronomy 31:10",
+        "verseKey": "kjv:deuteronomy:31:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:deuteronomy:31:11",
+      "numberLabel": "11",
+      "text": "When all Israel is come to appear before the LORD thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing.",
+      "metadata": {
+        "reference": "Deuteronomy 31:11",
+        "verseKey": "kjv:deuteronomy:31:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:deuteronomy:31:12",
+      "numberLabel": "12",
+      "text": "Gather the people together, men, and women, and children, and thy stranger that is within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:",
+      "metadata": {
+        "reference": "Deuteronomy 31:12",
+        "verseKey": "kjv:deuteronomy:31:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:deuteronomy:31:13",
+      "numberLabel": "13",
+      "text": "And that their children, which have not known any thing, may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.",
+      "metadata": {
+        "reference": "Deuteronomy 31:13",
+        "verseKey": "kjv:deuteronomy:31:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:deuteronomy:31:14",
+      "numberLabel": "14",
+      "text": "And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.",
+      "metadata": {
+        "reference": "Deuteronomy 31:14",
+        "verseKey": "kjv:deuteronomy:31:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:deuteronomy:31:15",
+      "numberLabel": "15",
+      "text": "And the LORD appeared in the tabernacle in a pillar of a cloud: and the pillar of the cloud stood over the door of the tabernacle.",
+      "metadata": {
+        "reference": "Deuteronomy 31:15",
+        "verseKey": "kjv:deuteronomy:31:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:deuteronomy:31:16",
+      "numberLabel": "16",
+      "text": "And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go to be among them, and will forsake me, and break my covenant which I have made with them.",
+      "metadata": {
+        "reference": "Deuteronomy 31:16",
+        "verseKey": "kjv:deuteronomy:31:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:deuteronomy:31:17",
+      "numberLabel": "17",
+      "text": "Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day, Are not these evils come upon us, because our God is not among us?",
+      "metadata": {
+        "reference": "Deuteronomy 31:17",
+        "verseKey": "kjv:deuteronomy:31:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:deuteronomy:31:18",
+      "numberLabel": "18",
+      "text": "And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods.",
+      "metadata": {
+        "reference": "Deuteronomy 31:18",
+        "verseKey": "kjv:deuteronomy:31:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:deuteronomy:31:19",
+      "numberLabel": "19",
+      "text": "Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.",
+      "metadata": {
+        "reference": "Deuteronomy 31:19",
+        "verseKey": "kjv:deuteronomy:31:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:deuteronomy:31:20",
+      "numberLabel": "20",
+      "text": "For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.",
+      "metadata": {
+        "reference": "Deuteronomy 31:20",
+        "verseKey": "kjv:deuteronomy:31:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:deuteronomy:31:21",
+      "numberLabel": "21",
+      "text": "And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware.",
+      "metadata": {
+        "reference": "Deuteronomy 31:21",
+        "verseKey": "kjv:deuteronomy:31:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:deuteronomy:31:22",
+      "numberLabel": "22",
+      "text": "Moses therefore wrote this song the same day, and taught it the children of Israel.",
+      "metadata": {
+        "reference": "Deuteronomy 31:22",
+        "verseKey": "kjv:deuteronomy:31:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:deuteronomy:31:23",
+      "numberLabel": "23",
+      "text": "And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.",
+      "metadata": {
+        "reference": "Deuteronomy 31:23",
+        "verseKey": "kjv:deuteronomy:31:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:deuteronomy:31:24",
+      "numberLabel": "24",
+      "text": "And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,",
+      "metadata": {
+        "reference": "Deuteronomy 31:24",
+        "verseKey": "kjv:deuteronomy:31:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:deuteronomy:31:25",
+      "numberLabel": "25",
+      "text": "That Moses commanded the Levites, which bare the ark of the covenant of the LORD, saying,",
+      "metadata": {
+        "reference": "Deuteronomy 31:25",
+        "verseKey": "kjv:deuteronomy:31:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:deuteronomy:31:26",
+      "numberLabel": "26",
+      "text": "Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee.",
+      "metadata": {
+        "reference": "Deuteronomy 31:26",
+        "verseKey": "kjv:deuteronomy:31:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:deuteronomy:31:27",
+      "numberLabel": "27",
+      "text": "For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?",
+      "metadata": {
+        "reference": "Deuteronomy 31:27",
+        "verseKey": "kjv:deuteronomy:31:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:deuteronomy:31:28",
+      "numberLabel": "28",
+      "text": "Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.",
+      "metadata": {
+        "reference": "Deuteronomy 31:28",
+        "verseKey": "kjv:deuteronomy:31:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:deuteronomy:31:29",
+      "numberLabel": "29",
+      "text": "For I know that after my death ye will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do evil in the sight of the LORD, to provoke him to anger through the work of your hands.",
+      "metadata": {
+        "reference": "Deuteronomy 31:29",
+        "verseKey": "kjv:deuteronomy:31:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:deuteronomy:31:30",
+      "numberLabel": "30",
+      "text": "And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended.",
+      "metadata": {
+        "reference": "Deuteronomy 31:30",
+        "verseKey": "kjv:deuteronomy:31:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Deuteronomy.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Deuteronomy.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

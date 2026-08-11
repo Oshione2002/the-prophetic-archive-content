@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hosea-014",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 14,
+  "title": "Hosea 14",
+  "display_title": "Hosea 14",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hosea",
+  "book": "Hosea",
+  "bookName": "Hosea",
+  "bookOrder": 28,
+  "testament": "old",
+  "chapter": 14,
+  "sortOrder": 28014,
+  "verseCount": 9,
+  "aliases": [
+    "Hos",
+    "Ho"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hosea:14:1",
+      "numberLabel": "1",
+      "text": "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.",
+      "metadata": {
+        "reference": "Hosea 14:1",
+        "verseKey": "kjv:hosea:14:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hosea:14:2",
+      "numberLabel": "2",
+      "text": "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.",
+      "metadata": {
+        "reference": "Hosea 14:2",
+        "verseKey": "kjv:hosea:14:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hosea:14:3",
+      "numberLabel": "3",
+      "text": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy.",
+      "metadata": {
+        "reference": "Hosea 14:3",
+        "verseKey": "kjv:hosea:14:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hosea:14:4",
+      "numberLabel": "4",
+      "text": "I will heal their backsliding, I will love them freely: for mine anger is turned away from him.",
+      "metadata": {
+        "reference": "Hosea 14:4",
+        "verseKey": "kjv:hosea:14:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hosea:14:5",
+      "numberLabel": "5",
+      "text": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.",
+      "metadata": {
+        "reference": "Hosea 14:5",
+        "verseKey": "kjv:hosea:14:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hosea:14:6",
+      "numberLabel": "6",
+      "text": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.",
+      "metadata": {
+        "reference": "Hosea 14:6",
+        "verseKey": "kjv:hosea:14:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hosea:14:7",
+      "numberLabel": "7",
+      "text": "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon.",
+      "metadata": {
+        "reference": "Hosea 14:7",
+        "verseKey": "kjv:hosea:14:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hosea:14:8",
+      "numberLabel": "8",
+      "text": "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.",
+      "metadata": {
+        "reference": "Hosea 14:8",
+        "verseKey": "kjv:hosea:14:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hosea:14:9",
+      "numberLabel": "9",
+      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.",
+      "metadata": {
+        "reference": "Hosea 14:9",
+        "verseKey": "kjv:hosea:14:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hosea.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hosea.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

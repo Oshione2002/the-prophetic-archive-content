@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-095",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 95,
+  "title": "Psalms 95",
+  "display_title": "Psalms 95",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 95,
+  "sortOrder": 19095,
+  "verseCount": 11,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:95:1",
+      "numberLabel": "1",
+      "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+      "metadata": {
+        "reference": "Psalms 95:1",
+        "verseKey": "kjv:psalms:95:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:95:2",
+      "numberLabel": "2",
+      "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.",
+      "metadata": {
+        "reference": "Psalms 95:2",
+        "verseKey": "kjv:psalms:95:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:95:3",
+      "numberLabel": "3",
+      "text": "For the LORD is a great God, and a great King above all gods.",
+      "metadata": {
+        "reference": "Psalms 95:3",
+        "verseKey": "kjv:psalms:95:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:95:4",
+      "numberLabel": "4",
+      "text": "In his hand are the deep places of the earth: the strength of the hills is his also.",
+      "metadata": {
+        "reference": "Psalms 95:4",
+        "verseKey": "kjv:psalms:95:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:95:5",
+      "numberLabel": "5",
+      "text": "The sea is his, and he made it: and his hands formed the dry land.",
+      "metadata": {
+        "reference": "Psalms 95:5",
+        "verseKey": "kjv:psalms:95:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:95:6",
+      "numberLabel": "6",
+      "text": "O come, let us worship and bow down: let us kneel before the LORD our maker.",
+      "metadata": {
+        "reference": "Psalms 95:6",
+        "verseKey": "kjv:psalms:95:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:95:7",
+      "numberLabel": "7",
+      "text": "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,",
+      "metadata": {
+        "reference": "Psalms 95:7",
+        "verseKey": "kjv:psalms:95:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:95:8",
+      "numberLabel": "8",
+      "text": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:",
+      "metadata": {
+        "reference": "Psalms 95:8",
+        "verseKey": "kjv:psalms:95:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:95:9",
+      "numberLabel": "9",
+      "text": "When your fathers tempted me, proved me, and saw my work.",
+      "metadata": {
+        "reference": "Psalms 95:9",
+        "verseKey": "kjv:psalms:95:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:95:10",
+      "numberLabel": "10",
+      "text": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:",
+      "metadata": {
+        "reference": "Psalms 95:10",
+        "verseKey": "kjv:psalms:95:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:95:11",
+      "numberLabel": "11",
+      "text": "Unto whom I sware in my wrath that they should not enter into my rest.",
+      "metadata": {
+        "reference": "Psalms 95:11",
+        "verseKey": "kjv:psalms:95:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

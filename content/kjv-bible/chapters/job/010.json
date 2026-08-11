@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Job 10",
+  "display_title": "Job 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 10,
+  "sortOrder": 18010,
+  "verseCount": 22,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:10:1",
+      "numberLabel": "1",
+      "text": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
+      "metadata": {
+        "reference": "Job 10:1",
+        "verseKey": "kjv:job:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:10:2",
+      "numberLabel": "2",
+      "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
+      "metadata": {
+        "reference": "Job 10:2",
+        "verseKey": "kjv:job:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:10:3",
+      "numberLabel": "3",
+      "text": "Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
+      "metadata": {
+        "reference": "Job 10:3",
+        "verseKey": "kjv:job:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:10:4",
+      "numberLabel": "4",
+      "text": "Hast thou eyes of flesh? or seest thou as man seeth?",
+      "metadata": {
+        "reference": "Job 10:4",
+        "verseKey": "kjv:job:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:10:5",
+      "numberLabel": "5",
+      "text": "Are thy days as the days of man? are thy years as man’s days,",
+      "metadata": {
+        "reference": "Job 10:5",
+        "verseKey": "kjv:job:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:10:6",
+      "numberLabel": "6",
+      "text": "That thou enquirest after mine iniquity, and searchest after my sin?",
+      "metadata": {
+        "reference": "Job 10:6",
+        "verseKey": "kjv:job:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:10:7",
+      "numberLabel": "7",
+      "text": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.",
+      "metadata": {
+        "reference": "Job 10:7",
+        "verseKey": "kjv:job:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:10:8",
+      "numberLabel": "8",
+      "text": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me.",
+      "metadata": {
+        "reference": "Job 10:8",
+        "verseKey": "kjv:job:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:10:9",
+      "numberLabel": "9",
+      "text": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?",
+      "metadata": {
+        "reference": "Job 10:9",
+        "verseKey": "kjv:job:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:10:10",
+      "numberLabel": "10",
+      "text": "Hast thou not poured me out as milk, and curdled me like cheese?",
+      "metadata": {
+        "reference": "Job 10:10",
+        "verseKey": "kjv:job:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:10:11",
+      "numberLabel": "11",
+      "text": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.",
+      "metadata": {
+        "reference": "Job 10:11",
+        "verseKey": "kjv:job:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:10:12",
+      "numberLabel": "12",
+      "text": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit.",
+      "metadata": {
+        "reference": "Job 10:12",
+        "verseKey": "kjv:job:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:10:13",
+      "numberLabel": "13",
+      "text": "And these things hast thou hid in thine heart: I know that this is with thee.",
+      "metadata": {
+        "reference": "Job 10:13",
+        "verseKey": "kjv:job:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:10:14",
+      "numberLabel": "14",
+      "text": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.",
+      "metadata": {
+        "reference": "Job 10:14",
+        "verseKey": "kjv:job:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:10:15",
+      "numberLabel": "15",
+      "text": "If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;",
+      "metadata": {
+        "reference": "Job 10:15",
+        "verseKey": "kjv:job:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:10:16",
+      "numberLabel": "16",
+      "text": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
+      "metadata": {
+        "reference": "Job 10:16",
+        "verseKey": "kjv:job:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:10:17",
+      "numberLabel": "17",
+      "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.",
+      "metadata": {
+        "reference": "Job 10:17",
+        "verseKey": "kjv:job:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:job:10:18",
+      "numberLabel": "18",
+      "text": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
+      "metadata": {
+        "reference": "Job 10:18",
+        "verseKey": "kjv:job:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:job:10:19",
+      "numberLabel": "19",
+      "text": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
+      "metadata": {
+        "reference": "Job 10:19",
+        "verseKey": "kjv:job:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:job:10:20",
+      "numberLabel": "20",
+      "text": "Are not my days few? cease then, and let me alone, that I may take comfort a little,",
+      "metadata": {
+        "reference": "Job 10:20",
+        "verseKey": "kjv:job:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:job:10:21",
+      "numberLabel": "21",
+      "text": "Before I go whence I shall not return, even to the land of darkness and the shadow of death;",
+      "metadata": {
+        "reference": "Job 10:21",
+        "verseKey": "kjv:job:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:job:10:22",
+      "numberLabel": "22",
+      "text": "A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness.",
+      "metadata": {
+        "reference": "Job 10:22",
+        "verseKey": "kjv:job:10:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

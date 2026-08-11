@@ -1,0 +1,488 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-acts-020",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 20,
+  "title": "Acts 20",
+  "display_title": "Acts 20",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "acts",
+  "book": "Acts",
+  "bookName": "Acts",
+  "bookOrder": 44,
+  "testament": "new",
+  "chapter": 20,
+  "sortOrder": 44020,
+  "verseCount": 38,
+  "aliases": [
+    "Acts",
+    "Ac"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:acts:20:1",
+      "numberLabel": "1",
+      "text": "And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia.",
+      "metadata": {
+        "reference": "Acts 20:1",
+        "verseKey": "kjv:acts:20:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:acts:20:2",
+      "numberLabel": "2",
+      "text": "And when he had gone over those parts, and had given them much exhortation, he came into Greece,",
+      "metadata": {
+        "reference": "Acts 20:2",
+        "verseKey": "kjv:acts:20:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:acts:20:3",
+      "numberLabel": "3",
+      "text": "And there abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.",
+      "metadata": {
+        "reference": "Acts 20:3",
+        "verseKey": "kjv:acts:20:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:acts:20:4",
+      "numberLabel": "4",
+      "text": "And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.",
+      "metadata": {
+        "reference": "Acts 20:4",
+        "verseKey": "kjv:acts:20:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:acts:20:5",
+      "numberLabel": "5",
+      "text": "These going before tarried for us at Troas.",
+      "metadata": {
+        "reference": "Acts 20:5",
+        "verseKey": "kjv:acts:20:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:acts:20:6",
+      "numberLabel": "6",
+      "text": "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.",
+      "metadata": {
+        "reference": "Acts 20:6",
+        "verseKey": "kjv:acts:20:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:acts:20:7",
+      "numberLabel": "7",
+      "text": "And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.",
+      "metadata": {
+        "reference": "Acts 20:7",
+        "verseKey": "kjv:acts:20:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:acts:20:8",
+      "numberLabel": "8",
+      "text": "And there were many lights in the upper chamber, where they were gathered together.",
+      "metadata": {
+        "reference": "Acts 20:8",
+        "verseKey": "kjv:acts:20:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:acts:20:9",
+      "numberLabel": "9",
+      "text": "And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead.",
+      "metadata": {
+        "reference": "Acts 20:9",
+        "verseKey": "kjv:acts:20:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:acts:20:10",
+      "numberLabel": "10",
+      "text": "And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him.",
+      "metadata": {
+        "reference": "Acts 20:10",
+        "verseKey": "kjv:acts:20:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:acts:20:11",
+      "numberLabel": "11",
+      "text": "When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.",
+      "metadata": {
+        "reference": "Acts 20:11",
+        "verseKey": "kjv:acts:20:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:acts:20:12",
+      "numberLabel": "12",
+      "text": "And they brought the young man alive, and were not a little comforted.",
+      "metadata": {
+        "reference": "Acts 20:12",
+        "verseKey": "kjv:acts:20:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:acts:20:13",
+      "numberLabel": "13",
+      "text": "And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.",
+      "metadata": {
+        "reference": "Acts 20:13",
+        "verseKey": "kjv:acts:20:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:acts:20:14",
+      "numberLabel": "14",
+      "text": "And when he met with us at Assos, we took him in, and came to Mitylene.",
+      "metadata": {
+        "reference": "Acts 20:14",
+        "verseKey": "kjv:acts:20:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:acts:20:15",
+      "numberLabel": "15",
+      "text": "And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus.",
+      "metadata": {
+        "reference": "Acts 20:15",
+        "verseKey": "kjv:acts:20:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:acts:20:16",
+      "numberLabel": "16",
+      "text": "For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.",
+      "metadata": {
+        "reference": "Acts 20:16",
+        "verseKey": "kjv:acts:20:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:acts:20:17",
+      "numberLabel": "17",
+      "text": "And from Miletus he sent to Ephesus, and called the elders of the church.",
+      "metadata": {
+        "reference": "Acts 20:17",
+        "verseKey": "kjv:acts:20:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:acts:20:18",
+      "numberLabel": "18",
+      "text": "And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons,",
+      "metadata": {
+        "reference": "Acts 20:18",
+        "verseKey": "kjv:acts:20:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:acts:20:19",
+      "numberLabel": "19",
+      "text": "Serving the LORD with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:",
+      "metadata": {
+        "reference": "Acts 20:19",
+        "verseKey": "kjv:acts:20:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:acts:20:20",
+      "numberLabel": "20",
+      "text": "And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,",
+      "metadata": {
+        "reference": "Acts 20:20",
+        "verseKey": "kjv:acts:20:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:acts:20:21",
+      "numberLabel": "21",
+      "text": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.",
+      "metadata": {
+        "reference": "Acts 20:21",
+        "verseKey": "kjv:acts:20:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:acts:20:22",
+      "numberLabel": "22",
+      "text": "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:",
+      "metadata": {
+        "reference": "Acts 20:22",
+        "verseKey": "kjv:acts:20:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:acts:20:23",
+      "numberLabel": "23",
+      "text": "Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.",
+      "metadata": {
+        "reference": "Acts 20:23",
+        "verseKey": "kjv:acts:20:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:acts:20:24",
+      "numberLabel": "24",
+      "text": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.",
+      "metadata": {
+        "reference": "Acts 20:24",
+        "verseKey": "kjv:acts:20:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:acts:20:25",
+      "numberLabel": "25",
+      "text": "And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.",
+      "metadata": {
+        "reference": "Acts 20:25",
+        "verseKey": "kjv:acts:20:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:acts:20:26",
+      "numberLabel": "26",
+      "text": "Wherefore I take you to record this day, that I am pure from the blood of all men.",
+      "metadata": {
+        "reference": "Acts 20:26",
+        "verseKey": "kjv:acts:20:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:acts:20:27",
+      "numberLabel": "27",
+      "text": "For I have not shunned to declare unto you all the counsel of God.",
+      "metadata": {
+        "reference": "Acts 20:27",
+        "verseKey": "kjv:acts:20:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:acts:20:28",
+      "numberLabel": "28",
+      "text": "Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.",
+      "metadata": {
+        "reference": "Acts 20:28",
+        "verseKey": "kjv:acts:20:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:acts:20:29",
+      "numberLabel": "29",
+      "text": "For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.",
+      "metadata": {
+        "reference": "Acts 20:29",
+        "verseKey": "kjv:acts:20:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:acts:20:30",
+      "numberLabel": "30",
+      "text": "Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.",
+      "metadata": {
+        "reference": "Acts 20:30",
+        "verseKey": "kjv:acts:20:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:acts:20:31",
+      "numberLabel": "31",
+      "text": "Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.",
+      "metadata": {
+        "reference": "Acts 20:31",
+        "verseKey": "kjv:acts:20:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:acts:20:32",
+      "numberLabel": "32",
+      "text": "And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.",
+      "metadata": {
+        "reference": "Acts 20:32",
+        "verseKey": "kjv:acts:20:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:acts:20:33",
+      "numberLabel": "33",
+      "text": "I have coveted no man’s silver, or gold, or apparel.",
+      "metadata": {
+        "reference": "Acts 20:33",
+        "verseKey": "kjv:acts:20:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:acts:20:34",
+      "numberLabel": "34",
+      "text": "Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.",
+      "metadata": {
+        "reference": "Acts 20:34",
+        "verseKey": "kjv:acts:20:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:acts:20:35",
+      "numberLabel": "35",
+      "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.",
+      "metadata": {
+        "reference": "Acts 20:35",
+        "verseKey": "kjv:acts:20:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:acts:20:36",
+      "numberLabel": "36",
+      "text": "And when he had thus spoken, he kneeled down, and prayed with them all.",
+      "metadata": {
+        "reference": "Acts 20:36",
+        "verseKey": "kjv:acts:20:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:acts:20:37",
+      "numberLabel": "37",
+      "text": "And they all wept sore, and fell on Paul’s neck, and kissed him,",
+      "metadata": {
+        "reference": "Acts 20:37",
+        "verseKey": "kjv:acts:20:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:acts:20:38",
+      "numberLabel": "38",
+      "text": "Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.",
+      "metadata": {
+        "reference": "Acts 20:38",
+        "verseKey": "kjv:acts:20:38"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Acts.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Acts.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

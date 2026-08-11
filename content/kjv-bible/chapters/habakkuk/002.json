@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-habakkuk-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Habakkuk 2",
+  "display_title": "Habakkuk 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "habakkuk",
+  "book": "Habakkuk",
+  "bookName": "Habakkuk",
+  "bookOrder": 35,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 35002,
+  "verseCount": 20,
+  "aliases": [
+    "Hab",
+    "Hb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:habakkuk:2:1",
+      "numberLabel": "1",
+      "text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.",
+      "metadata": {
+        "reference": "Habakkuk 2:1",
+        "verseKey": "kjv:habakkuk:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:habakkuk:2:2",
+      "numberLabel": "2",
+      "text": "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.",
+      "metadata": {
+        "reference": "Habakkuk 2:2",
+        "verseKey": "kjv:habakkuk:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:habakkuk:2:3",
+      "numberLabel": "3",
+      "text": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.",
+      "metadata": {
+        "reference": "Habakkuk 2:3",
+        "verseKey": "kjv:habakkuk:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:habakkuk:2:4",
+      "numberLabel": "4",
+      "text": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.",
+      "metadata": {
+        "reference": "Habakkuk 2:4",
+        "verseKey": "kjv:habakkuk:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:habakkuk:2:5",
+      "numberLabel": "5",
+      "text": "Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:",
+      "metadata": {
+        "reference": "Habakkuk 2:5",
+        "verseKey": "kjv:habakkuk:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:habakkuk:2:6",
+      "numberLabel": "6",
+      "text": "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!",
+      "metadata": {
+        "reference": "Habakkuk 2:6",
+        "verseKey": "kjv:habakkuk:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:habakkuk:2:7",
+      "numberLabel": "7",
+      "text": "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?",
+      "metadata": {
+        "reference": "Habakkuk 2:7",
+        "verseKey": "kjv:habakkuk:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:habakkuk:2:8",
+      "numberLabel": "8",
+      "text": "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.",
+      "metadata": {
+        "reference": "Habakkuk 2:8",
+        "verseKey": "kjv:habakkuk:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:habakkuk:2:9",
+      "numberLabel": "9",
+      "text": "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!",
+      "metadata": {
+        "reference": "Habakkuk 2:9",
+        "verseKey": "kjv:habakkuk:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:habakkuk:2:10",
+      "numberLabel": "10",
+      "text": "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul.",
+      "metadata": {
+        "reference": "Habakkuk 2:10",
+        "verseKey": "kjv:habakkuk:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:habakkuk:2:11",
+      "numberLabel": "11",
+      "text": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it.",
+      "metadata": {
+        "reference": "Habakkuk 2:11",
+        "verseKey": "kjv:habakkuk:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:habakkuk:2:12",
+      "numberLabel": "12",
+      "text": "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!",
+      "metadata": {
+        "reference": "Habakkuk 2:12",
+        "verseKey": "kjv:habakkuk:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:habakkuk:2:13",
+      "numberLabel": "13",
+      "text": "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?",
+      "metadata": {
+        "reference": "Habakkuk 2:13",
+        "verseKey": "kjv:habakkuk:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:habakkuk:2:14",
+      "numberLabel": "14",
+      "text": "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.",
+      "metadata": {
+        "reference": "Habakkuk 2:14",
+        "verseKey": "kjv:habakkuk:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:habakkuk:2:15",
+      "numberLabel": "15",
+      "text": "Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!",
+      "metadata": {
+        "reference": "Habakkuk 2:15",
+        "verseKey": "kjv:habakkuk:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:habakkuk:2:16",
+      "numberLabel": "16",
+      "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD’s right hand shall be turned unto thee, and shameful spewing shall be on thy glory.",
+      "metadata": {
+        "reference": "Habakkuk 2:16",
+        "verseKey": "kjv:habakkuk:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:habakkuk:2:17",
+      "numberLabel": "17",
+      "text": "For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.",
+      "metadata": {
+        "reference": "Habakkuk 2:17",
+        "verseKey": "kjv:habakkuk:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:habakkuk:2:18",
+      "numberLabel": "18",
+      "text": "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?",
+      "metadata": {
+        "reference": "Habakkuk 2:18",
+        "verseKey": "kjv:habakkuk:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:habakkuk:2:19",
+      "numberLabel": "19",
+      "text": "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it.",
+      "metadata": {
+        "reference": "Habakkuk 2:19",
+        "verseKey": "kjv:habakkuk:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:habakkuk:2:20",
+      "numberLabel": "20",
+      "text": "But the LORD is in his holy temple: let all the earth keep silence before him.",
+      "metadata": {
+        "reference": "Habakkuk 2:20",
+        "verseKey": "kjv:habakkuk:2:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Habakkuk.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Habakkuk.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

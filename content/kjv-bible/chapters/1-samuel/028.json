@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-028",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 28,
+  "title": "1 Samuel 28",
+  "display_title": "1 Samuel 28",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 28,
+  "sortOrder": 9028,
+  "verseCount": 25,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:28:1",
+      "numberLabel": "1",
+      "text": "And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.",
+      "metadata": {
+        "reference": "1 Samuel 28:1",
+        "verseKey": "kjv:1-samuel:28:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:28:2",
+      "numberLabel": "2",
+      "text": "And David said to Achish, Surely thou shalt know what thy servant can do. And Achish said to David, Therefore will I make thee keeper of mine head for ever.",
+      "metadata": {
+        "reference": "1 Samuel 28:2",
+        "verseKey": "kjv:1-samuel:28:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:28:3",
+      "numberLabel": "3",
+      "text": "Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.",
+      "metadata": {
+        "reference": "1 Samuel 28:3",
+        "verseKey": "kjv:1-samuel:28:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:28:4",
+      "numberLabel": "4",
+      "text": "And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.",
+      "metadata": {
+        "reference": "1 Samuel 28:4",
+        "verseKey": "kjv:1-samuel:28:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:28:5",
+      "numberLabel": "5",
+      "text": "And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled.",
+      "metadata": {
+        "reference": "1 Samuel 28:5",
+        "verseKey": "kjv:1-samuel:28:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:28:6",
+      "numberLabel": "6",
+      "text": "And when Saul enquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets.",
+      "metadata": {
+        "reference": "1 Samuel 28:6",
+        "verseKey": "kjv:1-samuel:28:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:28:7",
+      "numberLabel": "7",
+      "text": "Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold, there is a woman that hath a familiar spirit at Endor.",
+      "metadata": {
+        "reference": "1 Samuel 28:7",
+        "verseKey": "kjv:1-samuel:28:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:28:8",
+      "numberLabel": "8",
+      "text": "And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me him up, whom I shall name unto thee.",
+      "metadata": {
+        "reference": "1 Samuel 28:8",
+        "verseKey": "kjv:1-samuel:28:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:28:9",
+      "numberLabel": "9",
+      "text": "And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die?",
+      "metadata": {
+        "reference": "1 Samuel 28:9",
+        "verseKey": "kjv:1-samuel:28:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:28:10",
+      "numberLabel": "10",
+      "text": "And Saul sware to her by the LORD, saying, As the LORD liveth, there shall no punishment happen to thee for this thing.",
+      "metadata": {
+        "reference": "1 Samuel 28:10",
+        "verseKey": "kjv:1-samuel:28:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:28:11",
+      "numberLabel": "11",
+      "text": "Then said the woman, Whom shall I bring up unto thee? And he said, Bring me up Samuel.",
+      "metadata": {
+        "reference": "1 Samuel 28:11",
+        "verseKey": "kjv:1-samuel:28:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:28:12",
+      "numberLabel": "12",
+      "text": "And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou art Saul.",
+      "metadata": {
+        "reference": "1 Samuel 28:12",
+        "verseKey": "kjv:1-samuel:28:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:28:13",
+      "numberLabel": "13",
+      "text": "And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth.",
+      "metadata": {
+        "reference": "1 Samuel 28:13",
+        "verseKey": "kjv:1-samuel:28:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:28:14",
+      "numberLabel": "14",
+      "text": "And he said unto her, What form is he of? And she said, An old man cometh up; and he is covered with a mantle. And Saul perceived that it was Samuel, and he stooped with his face to the ground, and bowed himself.",
+      "metadata": {
+        "reference": "1 Samuel 28:14",
+        "verseKey": "kjv:1-samuel:28:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:28:15",
+      "numberLabel": "15",
+      "text": "And Samuel said to Saul, Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do.",
+      "metadata": {
+        "reference": "1 Samuel 28:15",
+        "verseKey": "kjv:1-samuel:28:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:28:16",
+      "numberLabel": "16",
+      "text": "Then said Samuel, Wherefore then dost thou ask of me, seeing the LORD is departed from thee, and is become thine enemy?",
+      "metadata": {
+        "reference": "1 Samuel 28:16",
+        "verseKey": "kjv:1-samuel:28:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:28:17",
+      "numberLabel": "17",
+      "text": "And the LORD hath done to him, as he spake by me: for the LORD hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:",
+      "metadata": {
+        "reference": "1 Samuel 28:17",
+        "verseKey": "kjv:1-samuel:28:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:28:18",
+      "numberLabel": "18",
+      "text": "Because thou obeyedst not the voice of the LORD, nor executedst his fierce wrath upon Amalek, therefore hath the LORD done this thing unto thee this day.",
+      "metadata": {
+        "reference": "1 Samuel 28:18",
+        "verseKey": "kjv:1-samuel:28:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:28:19",
+      "numberLabel": "19",
+      "text": "Moreover the LORD will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the LORD also shall deliver the host of Israel into the hand of the Philistines.",
+      "metadata": {
+        "reference": "1 Samuel 28:19",
+        "verseKey": "kjv:1-samuel:28:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:28:20",
+      "numberLabel": "20",
+      "text": "Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.",
+      "metadata": {
+        "reference": "1 Samuel 28:20",
+        "verseKey": "kjv:1-samuel:28:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:28:21",
+      "numberLabel": "21",
+      "text": "And the woman came unto Saul, and saw that he was sore troubled, and said unto him, Behold, thine handmaid hath obeyed thy voice, and I have put my life in my hand, and have hearkened unto thy words which thou spakest unto me.",
+      "metadata": {
+        "reference": "1 Samuel 28:21",
+        "verseKey": "kjv:1-samuel:28:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:28:22",
+      "numberLabel": "22",
+      "text": "Now therefore, I pray thee, hearken thou also unto the voice of thine handmaid, and let me set a morsel of bread before thee; and eat, that thou mayest have strength, when thou goest on thy way.",
+      "metadata": {
+        "reference": "1 Samuel 28:22",
+        "verseKey": "kjv:1-samuel:28:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:28:23",
+      "numberLabel": "23",
+      "text": "But he refused, and said, I will not eat. But his servants, together with the woman, compelled him; and he hearkened unto their voice. So he arose from the earth, and sat upon the bed.",
+      "metadata": {
+        "reference": "1 Samuel 28:23",
+        "verseKey": "kjv:1-samuel:28:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:28:24",
+      "numberLabel": "24",
+      "text": "And the woman had a fat calf in the house; and she hasted, and killed it, and took flour, and kneaded it, and did bake unleavened bread thereof:",
+      "metadata": {
+        "reference": "1 Samuel 28:24",
+        "verseKey": "kjv:1-samuel:28:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:28:25",
+      "numberLabel": "25",
+      "text": "And she brought it before Saul, and before his servants; and they did eat. Then they rose up, and went away that night.",
+      "metadata": {
+        "reference": "1 Samuel 28:25",
+        "verseKey": "kjv:1-samuel:28:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

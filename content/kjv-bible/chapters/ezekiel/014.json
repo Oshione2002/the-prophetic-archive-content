@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ezekiel-014",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 14,
+  "title": "Ezekiel 14",
+  "display_title": "Ezekiel 14",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ezekiel",
+  "book": "Ezekiel",
+  "bookName": "Ezekiel",
+  "bookOrder": 26,
+  "testament": "old",
+  "chapter": 14,
+  "sortOrder": 26014,
+  "verseCount": 23,
+  "aliases": [
+    "Ezek",
+    "Eze",
+    "Ezk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ezekiel:14:1",
+      "numberLabel": "1",
+      "text": "Then came certain of the elders of Israel unto me, and sat before me.",
+      "metadata": {
+        "reference": "Ezekiel 14:1",
+        "verseKey": "kjv:ezekiel:14:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ezekiel:14:2",
+      "numberLabel": "2",
+      "text": "And the word of the LORD came unto me, saying,",
+      "metadata": {
+        "reference": "Ezekiel 14:2",
+        "verseKey": "kjv:ezekiel:14:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ezekiel:14:3",
+      "numberLabel": "3",
+      "text": "Son of man, these men have set up their idols in their heart, and put the stumblingblock of their iniquity before their face: should I be enquired of at all by them?",
+      "metadata": {
+        "reference": "Ezekiel 14:3",
+        "verseKey": "kjv:ezekiel:14:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ezekiel:14:4",
+      "numberLabel": "4",
+      "text": "Therefore speak unto them, and say unto them, Thus saith the Lord GOD; Every man of the house of Israel that setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to the prophet; I the LORD will answer him that cometh according to the multitude of his idols;",
+      "metadata": {
+        "reference": "Ezekiel 14:4",
+        "verseKey": "kjv:ezekiel:14:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ezekiel:14:5",
+      "numberLabel": "5",
+      "text": "That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.",
+      "metadata": {
+        "reference": "Ezekiel 14:5",
+        "verseKey": "kjv:ezekiel:14:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ezekiel:14:6",
+      "numberLabel": "6",
+      "text": "Therefore say unto the house of Israel, Thus saith the Lord GOD; Repent, and turn yourselves from your idols; and turn away your faces from all your abominations.",
+      "metadata": {
+        "reference": "Ezekiel 14:6",
+        "verseKey": "kjv:ezekiel:14:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ezekiel:14:7",
+      "numberLabel": "7",
+      "text": "For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the LORD will answer him by myself:",
+      "metadata": {
+        "reference": "Ezekiel 14:7",
+        "verseKey": "kjv:ezekiel:14:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ezekiel:14:8",
+      "numberLabel": "8",
+      "text": "And I will set my face against that man, and will make him a sign and a proverb, and I will cut him off from the midst of my people; and ye shall know that I am the LORD.",
+      "metadata": {
+        "reference": "Ezekiel 14:8",
+        "verseKey": "kjv:ezekiel:14:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ezekiel:14:9",
+      "numberLabel": "9",
+      "text": "And if the prophet be deceived when he hath spoken a thing, I the LORD have deceived that prophet, and I will stretch out my hand upon him, and will destroy him from the midst of my people Israel.",
+      "metadata": {
+        "reference": "Ezekiel 14:9",
+        "verseKey": "kjv:ezekiel:14:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ezekiel:14:10",
+      "numberLabel": "10",
+      "text": "And they shall bear the punishment of their iniquity: the punishment of the prophet shall be even as the punishment of him that seeketh unto him;",
+      "metadata": {
+        "reference": "Ezekiel 14:10",
+        "verseKey": "kjv:ezekiel:14:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ezekiel:14:11",
+      "numberLabel": "11",
+      "text": "That the house of Israel may go no more astray from me, neither be polluted any more with all their transgressions; but that they may be my people, and I may be their God, saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 14:11",
+        "verseKey": "kjv:ezekiel:14:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ezekiel:14:12",
+      "numberLabel": "12",
+      "text": "The word of the LORD came again to me, saying,",
+      "metadata": {
+        "reference": "Ezekiel 14:12",
+        "verseKey": "kjv:ezekiel:14:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ezekiel:14:13",
+      "numberLabel": "13",
+      "text": "Son of man, when the land sinneth against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:",
+      "metadata": {
+        "reference": "Ezekiel 14:13",
+        "verseKey": "kjv:ezekiel:14:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ezekiel:14:14",
+      "numberLabel": "14",
+      "text": "Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness, saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 14:14",
+        "verseKey": "kjv:ezekiel:14:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ezekiel:14:15",
+      "numberLabel": "15",
+      "text": "If I cause noisome beasts to pass through the land, and they spoil it, so that it be desolate, that no man may pass through because of the beasts:",
+      "metadata": {
+        "reference": "Ezekiel 14:15",
+        "verseKey": "kjv:ezekiel:14:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ezekiel:14:16",
+      "numberLabel": "16",
+      "text": "Though these three men were in it, as I live, saith the Lord GOD, they shall deliver neither sons nor daughters; they only shall be delivered, but the land shall be desolate.",
+      "metadata": {
+        "reference": "Ezekiel 14:16",
+        "verseKey": "kjv:ezekiel:14:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ezekiel:14:17",
+      "numberLabel": "17",
+      "text": "Or if I bring a sword upon that land, and say, Sword, go through the land; so that I cut off man and beast from it:",
+      "metadata": {
+        "reference": "Ezekiel 14:17",
+        "verseKey": "kjv:ezekiel:14:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ezekiel:14:18",
+      "numberLabel": "18",
+      "text": "Though these three men were in it, as I live, saith the Lord GOD, they shall deliver neither sons nor daughters, but they only shall be delivered themselves.",
+      "metadata": {
+        "reference": "Ezekiel 14:18",
+        "verseKey": "kjv:ezekiel:14:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ezekiel:14:19",
+      "numberLabel": "19",
+      "text": "Or if I send a pestilence into that land, and pour out my fury upon it in blood, to cut off from it man and beast:",
+      "metadata": {
+        "reference": "Ezekiel 14:19",
+        "verseKey": "kjv:ezekiel:14:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ezekiel:14:20",
+      "numberLabel": "20",
+      "text": "Though Noah, Daniel, and Job, were in it, as I live, saith the Lord GOD, they shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness.",
+      "metadata": {
+        "reference": "Ezekiel 14:20",
+        "verseKey": "kjv:ezekiel:14:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ezekiel:14:21",
+      "numberLabel": "21",
+      "text": "For thus saith the Lord GOD; How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence, to cut off from it man and beast?",
+      "metadata": {
+        "reference": "Ezekiel 14:21",
+        "verseKey": "kjv:ezekiel:14:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ezekiel:14:22",
+      "numberLabel": "22",
+      "text": "Yet, behold, therein shall be left a remnant that shall be brought forth, both sons and daughters: behold, they shall come forth unto you, and ye shall see their way and their doings: and ye shall be comforted concerning the evil that I have brought upon Jerusalem, even concerning all that I have brought upon it.",
+      "metadata": {
+        "reference": "Ezekiel 14:22",
+        "verseKey": "kjv:ezekiel:14:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:ezekiel:14:23",
+      "numberLabel": "23",
+      "text": "And they shall comfort you, when ye see their ways and their doings: and ye shall know that I have not done without cause all that I have done in it, saith the Lord GOD.",
+      "metadata": {
+        "reference": "Ezekiel 14:23",
+        "verseKey": "kjv:ezekiel:14:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ezekiel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ezekiel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

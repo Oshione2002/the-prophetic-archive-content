@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jeremiah-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "Jeremiah 7",
+  "display_title": "Jeremiah 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jeremiah",
+  "book": "Jeremiah",
+  "bookName": "Jeremiah",
+  "bookOrder": 24,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 24007,
+  "verseCount": 34,
+  "aliases": [
+    "Jer",
+    "Je",
+    "Jr"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jeremiah:7:1",
+      "numberLabel": "1",
+      "text": "The word that came to Jeremiah from the LORD, saying,",
+      "metadata": {
+        "reference": "Jeremiah 7:1",
+        "verseKey": "kjv:jeremiah:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jeremiah:7:2",
+      "numberLabel": "2",
+      "text": "Stand in the gate of the LORD’s house, and proclaim there this word, and say, Hear the word of the LORD, all ye of Judah, that enter in at these gates to worship the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 7:2",
+        "verseKey": "kjv:jeremiah:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jeremiah:7:3",
+      "numberLabel": "3",
+      "text": "Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.",
+      "metadata": {
+        "reference": "Jeremiah 7:3",
+        "verseKey": "kjv:jeremiah:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jeremiah:7:4",
+      "numberLabel": "4",
+      "text": "Trust ye not in lying words, saying, The temple of the LORD, The temple of the LORD, The temple of the LORD, are these.",
+      "metadata": {
+        "reference": "Jeremiah 7:4",
+        "verseKey": "kjv:jeremiah:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jeremiah:7:5",
+      "numberLabel": "5",
+      "text": "For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour;",
+      "metadata": {
+        "reference": "Jeremiah 7:5",
+        "verseKey": "kjv:jeremiah:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jeremiah:7:6",
+      "numberLabel": "6",
+      "text": "If ye oppress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your hurt:",
+      "metadata": {
+        "reference": "Jeremiah 7:6",
+        "verseKey": "kjv:jeremiah:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jeremiah:7:7",
+      "numberLabel": "7",
+      "text": "Then will I cause you to dwell in this place, in the land that I gave to your fathers, for ever and ever.",
+      "metadata": {
+        "reference": "Jeremiah 7:7",
+        "verseKey": "kjv:jeremiah:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jeremiah:7:8",
+      "numberLabel": "8",
+      "text": "Behold, ye trust in lying words, that cannot profit.",
+      "metadata": {
+        "reference": "Jeremiah 7:8",
+        "verseKey": "kjv:jeremiah:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jeremiah:7:9",
+      "numberLabel": "9",
+      "text": "Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;",
+      "metadata": {
+        "reference": "Jeremiah 7:9",
+        "verseKey": "kjv:jeremiah:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jeremiah:7:10",
+      "numberLabel": "10",
+      "text": "And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?",
+      "metadata": {
+        "reference": "Jeremiah 7:10",
+        "verseKey": "kjv:jeremiah:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:jeremiah:7:11",
+      "numberLabel": "11",
+      "text": "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, saith the LORD.",
+      "metadata": {
+        "reference": "Jeremiah 7:11",
+        "verseKey": "kjv:jeremiah:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:jeremiah:7:12",
+      "numberLabel": "12",
+      "text": "But go ye now unto my place which was in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel.",
+      "metadata": {
+        "reference": "Jeremiah 7:12",
+        "verseKey": "kjv:jeremiah:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:jeremiah:7:13",
+      "numberLabel": "13",
+      "text": "And now, because ye have done all these works, saith the LORD, and I spake unto you, rising up early and speaking, but ye heard not; and I called you, but ye answered not;",
+      "metadata": {
+        "reference": "Jeremiah 7:13",
+        "verseKey": "kjv:jeremiah:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:jeremiah:7:14",
+      "numberLabel": "14",
+      "text": "Therefore will I do unto this house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh.",
+      "metadata": {
+        "reference": "Jeremiah 7:14",
+        "verseKey": "kjv:jeremiah:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:jeremiah:7:15",
+      "numberLabel": "15",
+      "text": "And I will cast you out of my sight, as I have cast out all your brethren, even the whole seed of Ephraim.",
+      "metadata": {
+        "reference": "Jeremiah 7:15",
+        "verseKey": "kjv:jeremiah:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:jeremiah:7:16",
+      "numberLabel": "16",
+      "text": "Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee.",
+      "metadata": {
+        "reference": "Jeremiah 7:16",
+        "verseKey": "kjv:jeremiah:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:jeremiah:7:17",
+      "numberLabel": "17",
+      "text": "Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?",
+      "metadata": {
+        "reference": "Jeremiah 7:17",
+        "verseKey": "kjv:jeremiah:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:jeremiah:7:18",
+      "numberLabel": "18",
+      "text": "The children gather wood, and the fathers kindle the fire, and the women knead their dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger.",
+      "metadata": {
+        "reference": "Jeremiah 7:18",
+        "verseKey": "kjv:jeremiah:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:jeremiah:7:19",
+      "numberLabel": "19",
+      "text": "Do they provoke me to anger? saith the LORD: do they not provoke themselves to the confusion of their own faces?",
+      "metadata": {
+        "reference": "Jeremiah 7:19",
+        "verseKey": "kjv:jeremiah:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:jeremiah:7:20",
+      "numberLabel": "20",
+      "text": "Therefore thus saith the Lord GOD; Behold, mine anger and my fury shall be poured out upon this place, upon man, and upon beast, and upon the trees of the field, and upon the fruit of the ground; and it shall burn, and shall not be quenched.",
+      "metadata": {
+        "reference": "Jeremiah 7:20",
+        "verseKey": "kjv:jeremiah:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:jeremiah:7:21",
+      "numberLabel": "21",
+      "text": "Thus saith the LORD of hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh.",
+      "metadata": {
+        "reference": "Jeremiah 7:21",
+        "verseKey": "kjv:jeremiah:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:jeremiah:7:22",
+      "numberLabel": "22",
+      "text": "For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:",
+      "metadata": {
+        "reference": "Jeremiah 7:22",
+        "verseKey": "kjv:jeremiah:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:jeremiah:7:23",
+      "numberLabel": "23",
+      "text": "But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you.",
+      "metadata": {
+        "reference": "Jeremiah 7:23",
+        "verseKey": "kjv:jeremiah:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:jeremiah:7:24",
+      "numberLabel": "24",
+      "text": "But they hearkened not, nor inclined their ear, but walked in the counsels and in the imagination of their evil heart, and went backward, and not forward.",
+      "metadata": {
+        "reference": "Jeremiah 7:24",
+        "verseKey": "kjv:jeremiah:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:jeremiah:7:25",
+      "numberLabel": "25",
+      "text": "Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all my servants the prophets, daily rising up early and sending them:",
+      "metadata": {
+        "reference": "Jeremiah 7:25",
+        "verseKey": "kjv:jeremiah:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:jeremiah:7:26",
+      "numberLabel": "26",
+      "text": "Yet they hearkened not unto me, nor inclined their ear, but hardened their neck: they did worse than their fathers.",
+      "metadata": {
+        "reference": "Jeremiah 7:26",
+        "verseKey": "kjv:jeremiah:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:jeremiah:7:27",
+      "numberLabel": "27",
+      "text": "Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee.",
+      "metadata": {
+        "reference": "Jeremiah 7:27",
+        "verseKey": "kjv:jeremiah:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:jeremiah:7:28",
+      "numberLabel": "28",
+      "text": "But thou shalt say unto them, This is a nation that obeyeth not the voice of the LORD their God, nor receiveth correction: truth is perished, and is cut off from their mouth.",
+      "metadata": {
+        "reference": "Jeremiah 7:28",
+        "verseKey": "kjv:jeremiah:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:jeremiah:7:29",
+      "numberLabel": "29",
+      "text": "Cut off thine hair, O Jerusalem, and cast it away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.",
+      "metadata": {
+        "reference": "Jeremiah 7:29",
+        "verseKey": "kjv:jeremiah:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:jeremiah:7:30",
+      "numberLabel": "30",
+      "text": "For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.",
+      "metadata": {
+        "reference": "Jeremiah 7:30",
+        "verseKey": "kjv:jeremiah:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:jeremiah:7:31",
+      "numberLabel": "31",
+      "text": "And they have built the high places of Tophet, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded them not, neither came it into my heart.",
+      "metadata": {
+        "reference": "Jeremiah 7:31",
+        "verseKey": "kjv:jeremiah:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:jeremiah:7:32",
+      "numberLabel": "32",
+      "text": "Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place.",
+      "metadata": {
+        "reference": "Jeremiah 7:32",
+        "verseKey": "kjv:jeremiah:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:jeremiah:7:33",
+      "numberLabel": "33",
+      "text": "And the carcases of this people shall be meat for the fowls of the heaven, and for the beasts of the earth; and none shall fray them away.",
+      "metadata": {
+        "reference": "Jeremiah 7:33",
+        "verseKey": "kjv:jeremiah:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:jeremiah:7:34",
+      "numberLabel": "34",
+      "text": "Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate.",
+      "metadata": {
+        "reference": "Jeremiah 7:34",
+        "verseKey": "kjv:jeremiah:7:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jeremiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jeremiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

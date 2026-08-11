@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-022",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 22,
+  "title": "Genesis 22",
+  "display_title": "Genesis 22",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 22,
+  "sortOrder": 1022,
+  "verseCount": 24,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:22:1",
+      "numberLabel": "1",
+      "text": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.",
+      "metadata": {
+        "reference": "Genesis 22:1",
+        "verseKey": "kjv:genesis:22:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:22:2",
+      "numberLabel": "2",
+      "text": "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.",
+      "metadata": {
+        "reference": "Genesis 22:2",
+        "verseKey": "kjv:genesis:22:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:22:3",
+      "numberLabel": "3",
+      "text": "And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.",
+      "metadata": {
+        "reference": "Genesis 22:3",
+        "verseKey": "kjv:genesis:22:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:22:4",
+      "numberLabel": "4",
+      "text": "Then on the third day Abraham lifted up his eyes, and saw the place afar off.",
+      "metadata": {
+        "reference": "Genesis 22:4",
+        "verseKey": "kjv:genesis:22:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:22:5",
+      "numberLabel": "5",
+      "text": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.",
+      "metadata": {
+        "reference": "Genesis 22:5",
+        "verseKey": "kjv:genesis:22:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:22:6",
+      "numberLabel": "6",
+      "text": "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.",
+      "metadata": {
+        "reference": "Genesis 22:6",
+        "verseKey": "kjv:genesis:22:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:22:7",
+      "numberLabel": "7",
+      "text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?",
+      "metadata": {
+        "reference": "Genesis 22:7",
+        "verseKey": "kjv:genesis:22:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:22:8",
+      "numberLabel": "8",
+      "text": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.",
+      "metadata": {
+        "reference": "Genesis 22:8",
+        "verseKey": "kjv:genesis:22:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:22:9",
+      "numberLabel": "9",
+      "text": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.",
+      "metadata": {
+        "reference": "Genesis 22:9",
+        "verseKey": "kjv:genesis:22:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:22:10",
+      "numberLabel": "10",
+      "text": "And Abraham stretched forth his hand, and took the knife to slay his son.",
+      "metadata": {
+        "reference": "Genesis 22:10",
+        "verseKey": "kjv:genesis:22:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:22:11",
+      "numberLabel": "11",
+      "text": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.",
+      "metadata": {
+        "reference": "Genesis 22:11",
+        "verseKey": "kjv:genesis:22:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:22:12",
+      "numberLabel": "12",
+      "text": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.",
+      "metadata": {
+        "reference": "Genesis 22:12",
+        "verseKey": "kjv:genesis:22:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:22:13",
+      "numberLabel": "13",
+      "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
+      "metadata": {
+        "reference": "Genesis 22:13",
+        "verseKey": "kjv:genesis:22:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:22:14",
+      "numberLabel": "14",
+      "text": "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen.",
+      "metadata": {
+        "reference": "Genesis 22:14",
+        "verseKey": "kjv:genesis:22:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:22:15",
+      "numberLabel": "15",
+      "text": "And the angel of the LORD called unto Abraham out of heaven the second time,",
+      "metadata": {
+        "reference": "Genesis 22:15",
+        "verseKey": "kjv:genesis:22:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:22:16",
+      "numberLabel": "16",
+      "text": "And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:",
+      "metadata": {
+        "reference": "Genesis 22:16",
+        "verseKey": "kjv:genesis:22:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:22:17",
+      "numberLabel": "17",
+      "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;",
+      "metadata": {
+        "reference": "Genesis 22:17",
+        "verseKey": "kjv:genesis:22:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:22:18",
+      "numberLabel": "18",
+      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.",
+      "metadata": {
+        "reference": "Genesis 22:18",
+        "verseKey": "kjv:genesis:22:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:22:19",
+      "numberLabel": "19",
+      "text": "So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba.",
+      "metadata": {
+        "reference": "Genesis 22:19",
+        "verseKey": "kjv:genesis:22:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:22:20",
+      "numberLabel": "20",
+      "text": "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;",
+      "metadata": {
+        "reference": "Genesis 22:20",
+        "verseKey": "kjv:genesis:22:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:22:21",
+      "numberLabel": "21",
+      "text": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,",
+      "metadata": {
+        "reference": "Genesis 22:21",
+        "verseKey": "kjv:genesis:22:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:22:22",
+      "numberLabel": "22",
+      "text": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.",
+      "metadata": {
+        "reference": "Genesis 22:22",
+        "verseKey": "kjv:genesis:22:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:22:23",
+      "numberLabel": "23",
+      "text": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother.",
+      "metadata": {
+        "reference": "Genesis 22:23",
+        "verseKey": "kjv:genesis:22:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:22:24",
+      "numberLabel": "24",
+      "text": "And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.",
+      "metadata": {
+        "reference": "Genesis 22:24",
+        "verseKey": "kjv:genesis:22:24"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

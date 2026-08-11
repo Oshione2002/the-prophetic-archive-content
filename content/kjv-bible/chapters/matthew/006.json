@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Matthew 6",
+  "display_title": "Matthew 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 6,
+  "sortOrder": 40006,
+  "verseCount": 34,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:6:1",
+      "numberLabel": "1",
+      "text": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.",
+      "metadata": {
+        "reference": "Matthew 6:1",
+        "verseKey": "kjv:matthew:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:6:2",
+      "numberLabel": "2",
+      "text": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.",
+      "metadata": {
+        "reference": "Matthew 6:2",
+        "verseKey": "kjv:matthew:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:6:3",
+      "numberLabel": "3",
+      "text": "But when thou doest alms, let not thy left hand know what thy right hand doeth:",
+      "metadata": {
+        "reference": "Matthew 6:3",
+        "verseKey": "kjv:matthew:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:6:4",
+      "numberLabel": "4",
+      "text": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.",
+      "metadata": {
+        "reference": "Matthew 6:4",
+        "verseKey": "kjv:matthew:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:6:5",
+      "numberLabel": "5",
+      "text": "And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.",
+      "metadata": {
+        "reference": "Matthew 6:5",
+        "verseKey": "kjv:matthew:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:6:6",
+      "numberLabel": "6",
+      "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.",
+      "metadata": {
+        "reference": "Matthew 6:6",
+        "verseKey": "kjv:matthew:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:6:7",
+      "numberLabel": "7",
+      "text": "But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.",
+      "metadata": {
+        "reference": "Matthew 6:7",
+        "verseKey": "kjv:matthew:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:6:8",
+      "numberLabel": "8",
+      "text": "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.",
+      "metadata": {
+        "reference": "Matthew 6:8",
+        "verseKey": "kjv:matthew:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:6:9",
+      "numberLabel": "9",
+      "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+      "metadata": {
+        "reference": "Matthew 6:9",
+        "verseKey": "kjv:matthew:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:6:10",
+      "numberLabel": "10",
+      "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+      "metadata": {
+        "reference": "Matthew 6:10",
+        "verseKey": "kjv:matthew:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:6:11",
+      "numberLabel": "11",
+      "text": "Give us this day our daily bread.",
+      "metadata": {
+        "reference": "Matthew 6:11",
+        "verseKey": "kjv:matthew:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:6:12",
+      "numberLabel": "12",
+      "text": "And forgive us our debts, as we forgive our debtors.",
+      "metadata": {
+        "reference": "Matthew 6:12",
+        "verseKey": "kjv:matthew:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:6:13",
+      "numberLabel": "13",
+      "text": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+      "metadata": {
+        "reference": "Matthew 6:13",
+        "verseKey": "kjv:matthew:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:6:14",
+      "numberLabel": "14",
+      "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:",
+      "metadata": {
+        "reference": "Matthew 6:14",
+        "verseKey": "kjv:matthew:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:6:15",
+      "numberLabel": "15",
+      "text": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.",
+      "metadata": {
+        "reference": "Matthew 6:15",
+        "verseKey": "kjv:matthew:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:6:16",
+      "numberLabel": "16",
+      "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.",
+      "metadata": {
+        "reference": "Matthew 6:16",
+        "verseKey": "kjv:matthew:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:6:17",
+      "numberLabel": "17",
+      "text": "But thou, when thou fastest, anoint thine head, and wash thy face;",
+      "metadata": {
+        "reference": "Matthew 6:17",
+        "verseKey": "kjv:matthew:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:6:18",
+      "numberLabel": "18",
+      "text": "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.",
+      "metadata": {
+        "reference": "Matthew 6:18",
+        "verseKey": "kjv:matthew:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:6:19",
+      "numberLabel": "19",
+      "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:",
+      "metadata": {
+        "reference": "Matthew 6:19",
+        "verseKey": "kjv:matthew:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:6:20",
+      "numberLabel": "20",
+      "text": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:",
+      "metadata": {
+        "reference": "Matthew 6:20",
+        "verseKey": "kjv:matthew:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:6:21",
+      "numberLabel": "21",
+      "text": "For where your treasure is, there will your heart be also.",
+      "metadata": {
+        "reference": "Matthew 6:21",
+        "verseKey": "kjv:matthew:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:6:22",
+      "numberLabel": "22",
+      "text": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.",
+      "metadata": {
+        "reference": "Matthew 6:22",
+        "verseKey": "kjv:matthew:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:6:23",
+      "numberLabel": "23",
+      "text": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!",
+      "metadata": {
+        "reference": "Matthew 6:23",
+        "verseKey": "kjv:matthew:6:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:6:24",
+      "numberLabel": "24",
+      "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+      "metadata": {
+        "reference": "Matthew 6:24",
+        "verseKey": "kjv:matthew:6:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:6:25",
+      "numberLabel": "25",
+      "text": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?",
+      "metadata": {
+        "reference": "Matthew 6:25",
+        "verseKey": "kjv:matthew:6:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:6:26",
+      "numberLabel": "26",
+      "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+      "metadata": {
+        "reference": "Matthew 6:26",
+        "verseKey": "kjv:matthew:6:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:6:27",
+      "numberLabel": "27",
+      "text": "Which of you by taking thought can add one cubit unto his stature?",
+      "metadata": {
+        "reference": "Matthew 6:27",
+        "verseKey": "kjv:matthew:6:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:6:28",
+      "numberLabel": "28",
+      "text": "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:",
+      "metadata": {
+        "reference": "Matthew 6:28",
+        "verseKey": "kjv:matthew:6:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:6:29",
+      "numberLabel": "29",
+      "text": "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.",
+      "metadata": {
+        "reference": "Matthew 6:29",
+        "verseKey": "kjv:matthew:6:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:6:30",
+      "numberLabel": "30",
+      "text": "Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?",
+      "metadata": {
+        "reference": "Matthew 6:30",
+        "verseKey": "kjv:matthew:6:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:matthew:6:31",
+      "numberLabel": "31",
+      "text": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?",
+      "metadata": {
+        "reference": "Matthew 6:31",
+        "verseKey": "kjv:matthew:6:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:matthew:6:32",
+      "numberLabel": "32",
+      "text": "(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.",
+      "metadata": {
+        "reference": "Matthew 6:32",
+        "verseKey": "kjv:matthew:6:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:matthew:6:33",
+      "numberLabel": "33",
+      "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+      "metadata": {
+        "reference": "Matthew 6:33",
+        "verseKey": "kjv:matthew:6:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:matthew:6:34",
+      "numberLabel": "34",
+      "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.",
+      "metadata": {
+        "reference": "Matthew 6:34",
+        "verseKey": "kjv:matthew:6:34"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

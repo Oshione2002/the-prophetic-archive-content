@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-proverbs-023",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 23,
+  "title": "Proverbs 23",
+  "display_title": "Proverbs 23",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "proverbs",
+  "book": "Proverbs",
+  "bookName": "Proverbs",
+  "bookOrder": 20,
+  "testament": "old",
+  "chapter": 23,
+  "sortOrder": 20023,
+  "verseCount": 35,
+  "aliases": [
+    "Prov",
+    "Pr",
+    "Prv"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:proverbs:23:1",
+      "numberLabel": "1",
+      "text": "When thou sittest to eat with a ruler, consider diligently what is before thee:",
+      "metadata": {
+        "reference": "Proverbs 23:1",
+        "verseKey": "kjv:proverbs:23:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:proverbs:23:2",
+      "numberLabel": "2",
+      "text": "And put a knife to thy throat, if thou be a man given to appetite.",
+      "metadata": {
+        "reference": "Proverbs 23:2",
+        "verseKey": "kjv:proverbs:23:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:proverbs:23:3",
+      "numberLabel": "3",
+      "text": "Be not desirous of his dainties: for they are deceitful meat.",
+      "metadata": {
+        "reference": "Proverbs 23:3",
+        "verseKey": "kjv:proverbs:23:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:proverbs:23:4",
+      "numberLabel": "4",
+      "text": "Labour not to be rich: cease from thine own wisdom.",
+      "metadata": {
+        "reference": "Proverbs 23:4",
+        "verseKey": "kjv:proverbs:23:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:proverbs:23:5",
+      "numberLabel": "5",
+      "text": "Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.",
+      "metadata": {
+        "reference": "Proverbs 23:5",
+        "verseKey": "kjv:proverbs:23:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:proverbs:23:6",
+      "numberLabel": "6",
+      "text": "Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:",
+      "metadata": {
+        "reference": "Proverbs 23:6",
+        "verseKey": "kjv:proverbs:23:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:proverbs:23:7",
+      "numberLabel": "7",
+      "text": "For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.",
+      "metadata": {
+        "reference": "Proverbs 23:7",
+        "verseKey": "kjv:proverbs:23:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:proverbs:23:8",
+      "numberLabel": "8",
+      "text": "The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.",
+      "metadata": {
+        "reference": "Proverbs 23:8",
+        "verseKey": "kjv:proverbs:23:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:proverbs:23:9",
+      "numberLabel": "9",
+      "text": "Speak not in the ears of a fool: for he will despise the wisdom of thy words.",
+      "metadata": {
+        "reference": "Proverbs 23:9",
+        "verseKey": "kjv:proverbs:23:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:proverbs:23:10",
+      "numberLabel": "10",
+      "text": "Remove not the old landmark; and enter not into the fields of the fatherless:",
+      "metadata": {
+        "reference": "Proverbs 23:10",
+        "verseKey": "kjv:proverbs:23:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:proverbs:23:11",
+      "numberLabel": "11",
+      "text": "For their redeemer is mighty; he shall plead their cause with thee.",
+      "metadata": {
+        "reference": "Proverbs 23:11",
+        "verseKey": "kjv:proverbs:23:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:proverbs:23:12",
+      "numberLabel": "12",
+      "text": "Apply thine heart unto instruction, and thine ears to the words of knowledge.",
+      "metadata": {
+        "reference": "Proverbs 23:12",
+        "verseKey": "kjv:proverbs:23:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:proverbs:23:13",
+      "numberLabel": "13",
+      "text": "Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.",
+      "metadata": {
+        "reference": "Proverbs 23:13",
+        "verseKey": "kjv:proverbs:23:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:proverbs:23:14",
+      "numberLabel": "14",
+      "text": "Thou shalt beat him with the rod, and shalt deliver his soul from hell.",
+      "metadata": {
+        "reference": "Proverbs 23:14",
+        "verseKey": "kjv:proverbs:23:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:proverbs:23:15",
+      "numberLabel": "15",
+      "text": "My son, if thine heart be wise, my heart shall rejoice, even mine.",
+      "metadata": {
+        "reference": "Proverbs 23:15",
+        "verseKey": "kjv:proverbs:23:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:proverbs:23:16",
+      "numberLabel": "16",
+      "text": "Yea, my reins shall rejoice, when thy lips speak right things.",
+      "metadata": {
+        "reference": "Proverbs 23:16",
+        "verseKey": "kjv:proverbs:23:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:proverbs:23:17",
+      "numberLabel": "17",
+      "text": "Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long.",
+      "metadata": {
+        "reference": "Proverbs 23:17",
+        "verseKey": "kjv:proverbs:23:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:proverbs:23:18",
+      "numberLabel": "18",
+      "text": "For surely there is an end; and thine expectation shall not be cut off.",
+      "metadata": {
+        "reference": "Proverbs 23:18",
+        "verseKey": "kjv:proverbs:23:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:proverbs:23:19",
+      "numberLabel": "19",
+      "text": "Hear thou, my son, and be wise, and guide thine heart in the way.",
+      "metadata": {
+        "reference": "Proverbs 23:19",
+        "verseKey": "kjv:proverbs:23:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:proverbs:23:20",
+      "numberLabel": "20",
+      "text": "Be not among winebibbers; among riotous eaters of flesh:",
+      "metadata": {
+        "reference": "Proverbs 23:20",
+        "verseKey": "kjv:proverbs:23:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:proverbs:23:21",
+      "numberLabel": "21",
+      "text": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.",
+      "metadata": {
+        "reference": "Proverbs 23:21",
+        "verseKey": "kjv:proverbs:23:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:proverbs:23:22",
+      "numberLabel": "22",
+      "text": "Hearken unto thy father that begat thee, and despise not thy mother when she is old.",
+      "metadata": {
+        "reference": "Proverbs 23:22",
+        "verseKey": "kjv:proverbs:23:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:proverbs:23:23",
+      "numberLabel": "23",
+      "text": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding.",
+      "metadata": {
+        "reference": "Proverbs 23:23",
+        "verseKey": "kjv:proverbs:23:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:proverbs:23:24",
+      "numberLabel": "24",
+      "text": "The father of the righteous shall greatly rejoice: and he that begetteth a wise child shall have joy of him.",
+      "metadata": {
+        "reference": "Proverbs 23:24",
+        "verseKey": "kjv:proverbs:23:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:proverbs:23:25",
+      "numberLabel": "25",
+      "text": "Thy father and thy mother shall be glad, and she that bare thee shall rejoice.",
+      "metadata": {
+        "reference": "Proverbs 23:25",
+        "verseKey": "kjv:proverbs:23:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:proverbs:23:26",
+      "numberLabel": "26",
+      "text": "My son, give me thine heart, and let thine eyes observe my ways.",
+      "metadata": {
+        "reference": "Proverbs 23:26",
+        "verseKey": "kjv:proverbs:23:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:proverbs:23:27",
+      "numberLabel": "27",
+      "text": "For a whore is a deep ditch; and a strange woman is a narrow pit.",
+      "metadata": {
+        "reference": "Proverbs 23:27",
+        "verseKey": "kjv:proverbs:23:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:proverbs:23:28",
+      "numberLabel": "28",
+      "text": "She also lieth in wait as for a prey, and increaseth the transgressors among men.",
+      "metadata": {
+        "reference": "Proverbs 23:28",
+        "verseKey": "kjv:proverbs:23:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:proverbs:23:29",
+      "numberLabel": "29",
+      "text": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?",
+      "metadata": {
+        "reference": "Proverbs 23:29",
+        "verseKey": "kjv:proverbs:23:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:proverbs:23:30",
+      "numberLabel": "30",
+      "text": "They that tarry long at the wine; they that go to seek mixed wine.",
+      "metadata": {
+        "reference": "Proverbs 23:30",
+        "verseKey": "kjv:proverbs:23:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:proverbs:23:31",
+      "numberLabel": "31",
+      "text": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.",
+      "metadata": {
+        "reference": "Proverbs 23:31",
+        "verseKey": "kjv:proverbs:23:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:proverbs:23:32",
+      "numberLabel": "32",
+      "text": "At the last it biteth like a serpent, and stingeth like an adder.",
+      "metadata": {
+        "reference": "Proverbs 23:32",
+        "verseKey": "kjv:proverbs:23:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:proverbs:23:33",
+      "numberLabel": "33",
+      "text": "Thine eyes shall behold strange women, and thine heart shall utter perverse things.",
+      "metadata": {
+        "reference": "Proverbs 23:33",
+        "verseKey": "kjv:proverbs:23:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:proverbs:23:34",
+      "numberLabel": "34",
+      "text": "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.",
+      "metadata": {
+        "reference": "Proverbs 23:34",
+        "verseKey": "kjv:proverbs:23:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:proverbs:23:35",
+      "numberLabel": "35",
+      "text": "They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again.",
+      "metadata": {
+        "reference": "Proverbs 23:35",
+        "verseKey": "kjv:proverbs:23:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Proverbs.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Proverbs.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

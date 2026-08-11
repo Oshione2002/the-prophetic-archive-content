@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-006",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 6,
+  "title": "Romans 6",
+  "display_title": "Romans 6",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 6,
+  "sortOrder": 45006,
+  "verseCount": 23,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:6:1",
+      "numberLabel": "1",
+      "text": "What shall we say then? Shall we continue in sin, that grace may abound?",
+      "metadata": {
+        "reference": "Romans 6:1",
+        "verseKey": "kjv:romans:6:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:6:2",
+      "numberLabel": "2",
+      "text": "God forbid. How shall we, that are dead to sin, live any longer therein?",
+      "metadata": {
+        "reference": "Romans 6:2",
+        "verseKey": "kjv:romans:6:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:6:3",
+      "numberLabel": "3",
+      "text": "Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?",
+      "metadata": {
+        "reference": "Romans 6:3",
+        "verseKey": "kjv:romans:6:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:6:4",
+      "numberLabel": "4",
+      "text": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.",
+      "metadata": {
+        "reference": "Romans 6:4",
+        "verseKey": "kjv:romans:6:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:6:5",
+      "numberLabel": "5",
+      "text": "For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:",
+      "metadata": {
+        "reference": "Romans 6:5",
+        "verseKey": "kjv:romans:6:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:6:6",
+      "numberLabel": "6",
+      "text": "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.",
+      "metadata": {
+        "reference": "Romans 6:6",
+        "verseKey": "kjv:romans:6:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:6:7",
+      "numberLabel": "7",
+      "text": "For he that is dead is freed from sin.",
+      "metadata": {
+        "reference": "Romans 6:7",
+        "verseKey": "kjv:romans:6:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:6:8",
+      "numberLabel": "8",
+      "text": "Now if we be dead with Christ, we believe that we shall also live with him:",
+      "metadata": {
+        "reference": "Romans 6:8",
+        "verseKey": "kjv:romans:6:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:6:9",
+      "numberLabel": "9",
+      "text": "Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.",
+      "metadata": {
+        "reference": "Romans 6:9",
+        "verseKey": "kjv:romans:6:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:6:10",
+      "numberLabel": "10",
+      "text": "For in that he died, he died unto sin once: but in that he liveth, he liveth unto God.",
+      "metadata": {
+        "reference": "Romans 6:10",
+        "verseKey": "kjv:romans:6:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:6:11",
+      "numberLabel": "11",
+      "text": "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.",
+      "metadata": {
+        "reference": "Romans 6:11",
+        "verseKey": "kjv:romans:6:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:6:12",
+      "numberLabel": "12",
+      "text": "Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.",
+      "metadata": {
+        "reference": "Romans 6:12",
+        "verseKey": "kjv:romans:6:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:6:13",
+      "numberLabel": "13",
+      "text": "Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.",
+      "metadata": {
+        "reference": "Romans 6:13",
+        "verseKey": "kjv:romans:6:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:6:14",
+      "numberLabel": "14",
+      "text": "For sin shall not have dominion over you: for ye are not under the law, but under grace.",
+      "metadata": {
+        "reference": "Romans 6:14",
+        "verseKey": "kjv:romans:6:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:romans:6:15",
+      "numberLabel": "15",
+      "text": "What then? shall we sin, because we are not under the law, but under grace? God forbid.",
+      "metadata": {
+        "reference": "Romans 6:15",
+        "verseKey": "kjv:romans:6:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:romans:6:16",
+      "numberLabel": "16",
+      "text": "Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?",
+      "metadata": {
+        "reference": "Romans 6:16",
+        "verseKey": "kjv:romans:6:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:romans:6:17",
+      "numberLabel": "17",
+      "text": "But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.",
+      "metadata": {
+        "reference": "Romans 6:17",
+        "verseKey": "kjv:romans:6:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:romans:6:18",
+      "numberLabel": "18",
+      "text": "Being then made free from sin, ye became the servants of righteousness.",
+      "metadata": {
+        "reference": "Romans 6:18",
+        "verseKey": "kjv:romans:6:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:romans:6:19",
+      "numberLabel": "19",
+      "text": "I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.",
+      "metadata": {
+        "reference": "Romans 6:19",
+        "verseKey": "kjv:romans:6:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:romans:6:20",
+      "numberLabel": "20",
+      "text": "For when ye were the servants of sin, ye were free from righteousness.",
+      "metadata": {
+        "reference": "Romans 6:20",
+        "verseKey": "kjv:romans:6:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:romans:6:21",
+      "numberLabel": "21",
+      "text": "What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death.",
+      "metadata": {
+        "reference": "Romans 6:21",
+        "verseKey": "kjv:romans:6:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:romans:6:22",
+      "numberLabel": "22",
+      "text": "But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.",
+      "metadata": {
+        "reference": "Romans 6:22",
+        "verseKey": "kjv:romans:6:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:romans:6:23",
+      "numberLabel": "23",
+      "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+      "metadata": {
+        "reference": "Romans 6:23",
+        "verseKey": "kjv:romans:6:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

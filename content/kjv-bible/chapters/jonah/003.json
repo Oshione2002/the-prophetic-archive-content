@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-jonah-003",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 3,
+  "title": "Jonah 3",
+  "display_title": "Jonah 3",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "jonah",
+  "book": "Jonah",
+  "bookName": "Jonah",
+  "bookOrder": 32,
+  "testament": "old",
+  "chapter": 3,
+  "sortOrder": 32003,
+  "verseCount": 10,
+  "aliases": [
+    "Jonah",
+    "Jon"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:jonah:3:1",
+      "numberLabel": "1",
+      "text": "And the word of the LORD came unto Jonah the second time, saying,",
+      "metadata": {
+        "reference": "Jonah 3:1",
+        "verseKey": "kjv:jonah:3:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:jonah:3:2",
+      "numberLabel": "2",
+      "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+      "metadata": {
+        "reference": "Jonah 3:2",
+        "verseKey": "kjv:jonah:3:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:jonah:3:3",
+      "numberLabel": "3",
+      "text": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey.",
+      "metadata": {
+        "reference": "Jonah 3:3",
+        "verseKey": "kjv:jonah:3:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:jonah:3:4",
+      "numberLabel": "4",
+      "text": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+      "metadata": {
+        "reference": "Jonah 3:4",
+        "verseKey": "kjv:jonah:3:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:jonah:3:5",
+      "numberLabel": "5",
+      "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+      "metadata": {
+        "reference": "Jonah 3:5",
+        "verseKey": "kjv:jonah:3:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:jonah:3:6",
+      "numberLabel": "6",
+      "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.",
+      "metadata": {
+        "reference": "Jonah 3:6",
+        "verseKey": "kjv:jonah:3:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:jonah:3:7",
+      "numberLabel": "7",
+      "text": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
+      "metadata": {
+        "reference": "Jonah 3:7",
+        "verseKey": "kjv:jonah:3:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:jonah:3:8",
+      "numberLabel": "8",
+      "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+      "metadata": {
+        "reference": "Jonah 3:8",
+        "verseKey": "kjv:jonah:3:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:jonah:3:9",
+      "numberLabel": "9",
+      "text": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?",
+      "metadata": {
+        "reference": "Jonah 3:9",
+        "verseKey": "kjv:jonah:3:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:jonah:3:10",
+      "numberLabel": "10",
+      "text": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.",
+      "metadata": {
+        "reference": "Jonah 3:10",
+        "verseKey": "kjv:jonah:3:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Jonah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Jonah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

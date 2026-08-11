@@ -29,7 +29,8 @@
         "Ge",
         "Gn"
       ],
-      "path": "books/genesis.json"
+      "path": "books/genesis.json",
+      "chapterDocumentDirectory": "chapters/genesis/"
     },
     {
       "id": "exodus",
@@ -44,7 +45,8 @@
         "Exo",
         "Ex"
       ],
-      "path": "books/exodus.json"
+      "path": "books/exodus.json",
+      "chapterDocumentDirectory": "chapters/exodus/"
     },
     {
       "id": "leviticus",
@@ -59,7 +61,8 @@
         "Le",
         "Lv"
       ],
-      "path": "books/leviticus.json"
+      "path": "books/leviticus.json",
+      "chapterDocumentDirectory": "chapters/leviticus/"
     },
     {
       "id": "numbers",
@@ -75,7 +78,8 @@
         "Nm",
         "Nb"
       ],
-      "path": "books/numbers.json"
+      "path": "books/numbers.json",
+      "chapterDocumentDirectory": "chapters/numbers/"
     },
     {
       "id": "deuteronomy",
@@ -89,7 +93,8 @@
         "Deut",
         "Dt"
       ],
-      "path": "books/deuteronomy.json"
+      "path": "books/deuteronomy.json",
+      "chapterDocumentDirectory": "chapters/deuteronomy/"
     },
     {
       "id": "joshua",
@@ -103,7 +108,8 @@
         "Josh",
         "Jos"
       ],
-      "path": "books/joshua.json"
+      "path": "books/joshua.json",
+      "chapterDocumentDirectory": "chapters/joshua/"
     },
     {
       "id": "judges",
@@ -118,7 +124,8 @@
         "Jdg",
         "Jg"
       ],
-      "path": "books/judges.json"
+      "path": "books/judges.json",
+      "chapterDocumentDirectory": "chapters/judges/"
     },
     {
       "id": "ruth",
@@ -132,7 +139,8 @@
         "Ruth",
         "Ru"
       ],
-      "path": "books/ruth.json"
+      "path": "books/ruth.json",
+      "chapterDocumentDirectory": "chapters/ruth/"
     },
     {
       "id": "1-samuel",
@@ -148,7 +156,8 @@
         "1 Sa",
         "1Sa"
       ],
-      "path": "books/1-samuel.json"
+      "path": "books/1-samuel.json",
+      "chapterDocumentDirectory": "chapters/1-samuel/"
     },
     {
       "id": "2-samuel",
@@ -164,7 +173,8 @@
         "2 Sa",
         "2Sa"
       ],
-      "path": "books/2-samuel.json"
+      "path": "books/2-samuel.json",
+      "chapterDocumentDirectory": "chapters/2-samuel/"
     },
     {
       "id": "1-kings",
@@ -180,7 +190,8 @@
         "1 Ki",
         "1Ki"
       ],
-      "path": "books/1-kings.json"
+      "path": "books/1-kings.json",
+      "chapterDocumentDirectory": "chapters/1-kings/"
     },
     {
       "id": "2-kings",
@@ -196,7 +207,8 @@
         "2 Ki",
         "2Ki"
       ],
-      "path": "books/2-kings.json"
+      "path": "books/2-kings.json",
+      "chapterDocumentDirectory": "chapters/2-kings/"
     },
     {
       "id": "1-chronicles",
@@ -212,7 +224,8 @@
         "1 Ch",
         "1Ch"
       ],
-      "path": "books/1-chronicles.json"
+      "path": "books/1-chronicles.json",
+      "chapterDocumentDirectory": "chapters/1-chronicles/"
     },
     {
       "id": "2-chronicles",
@@ -228,7 +241,8 @@
         "2 Ch",
         "2Ch"
       ],
-      "path": "books/2-chronicles.json"
+      "path": "books/2-chronicles.json",
+      "chapterDocumentDirectory": "chapters/2-chronicles/"
     },
     {
       "id": "ezra",
@@ -242,7 +256,8 @@
         "Ezra",
         "Ezr"
       ],
-      "path": "books/ezra.json"
+      "path": "books/ezra.json",
+      "chapterDocumentDirectory": "chapters/ezra/"
     },
     {
       "id": "nehemiah",
@@ -256,7 +271,8 @@
         "Neh",
         "Ne"
       ],
-      "path": "books/nehemiah.json"
+      "path": "books/nehemiah.json",
+      "chapterDocumentDirectory": "chapters/nehemiah/"
     },
     {
       "id": "esther",
@@ -270,7 +286,8 @@
         "Esth",
         "Est"
       ],
-      "path": "books/esther.json"
+      "path": "books/esther.json",
+      "chapterDocumentDirectory": "chapters/esther/"
     },
     {
       "id": "job",
@@ -283,7 +300,8 @@
       "aliases": [
         "Job"
       ],
-      "path": "books/job.json"
+      "path": "books/job.json",
+      "chapterDocumentDirectory": "chapters/job/"
     },
     {
       "id": "psalms",
@@ -300,7 +318,8 @@
         "Psa",
         "Psm"
       ],
-      "path": "books/psalms.json"
+      "path": "books/psalms.json",
+      "chapterDocumentDirectory": "chapters/psalms/"
     },
     {
       "id": "proverbs",
@@ -315,7 +334,8 @@
         "Pr",
         "Prv"
       ],
-      "path": "books/proverbs.json"
+      "path": "books/proverbs.json",
+      "chapterDocumentDirectory": "chapters/proverbs/"
     },
     {
       "id": "ecclesiastes",
@@ -330,7 +350,8 @@
         "Ecc",
         "Qoheleth"
       ],
-      "path": "books/ecclesiastes.json"
+      "path": "books/ecclesiastes.json",
+      "chapterDocumentDirectory": "chapters/ecclesiastes/"
     },
     {
       "id": "song-of-solomon",
@@ -346,7 +367,8 @@
         "SOS",
         "Canticles"
       ],
-      "path": "books/song-of-solomon.json"
+      "path": "books/song-of-solomon.json",
+      "chapterDocumentDirectory": "chapters/song-of-solomon/"
     },
     {
       "id": "isaiah",
@@ -360,7 +382,8 @@
         "Isa",
         "Is"
       ],
-      "path": "books/isaiah.json"
+      "path": "books/isaiah.json",
+      "chapterDocumentDirectory": "chapters/isaiah/"
     },
     {
       "id": "jeremiah",
@@ -375,7 +398,8 @@
         "Je",
         "Jr"
       ],
-      "path": "books/jeremiah.json"
+      "path": "books/jeremiah.json",
+      "chapterDocumentDirectory": "chapters/jeremiah/"
     },
     {
       "id": "lamentations",
@@ -389,7 +413,8 @@
         "Lam",
         "La"
       ],
-      "path": "books/lamentations.json"
+      "path": "books/lamentations.json",
+      "chapterDocumentDirectory": "chapters/lamentations/"
     },
     {
       "id": "ezekiel",
@@ -404,7 +429,8 @@
         "Eze",
         "Ezk"
       ],
-      "path": "books/ezekiel.json"
+      "path": "books/ezekiel.json",
+      "chapterDocumentDirectory": "chapters/ezekiel/"
     },
     {
       "id": "daniel",
@@ -419,7 +445,8 @@
         "Da",
         "Dn"
       ],
-      "path": "books/daniel.json"
+      "path": "books/daniel.json",
+      "chapterDocumentDirectory": "chapters/daniel/"
     },
     {
       "id": "hosea",
@@ -433,7 +460,8 @@
         "Hos",
         "Ho"
       ],
-      "path": "books/hosea.json"
+      "path": "books/hosea.json",
+      "chapterDocumentDirectory": "chapters/hosea/"
     },
     {
       "id": "joel",
@@ -447,7 +475,8 @@
         "Joel",
         "Jl"
       ],
-      "path": "books/joel.json"
+      "path": "books/joel.json",
+      "chapterDocumentDirectory": "chapters/joel/"
     },
     {
       "id": "amos",
@@ -461,7 +490,8 @@
         "Amos",
         "Am"
       ],
-      "path": "books/amos.json"
+      "path": "books/amos.json",
+      "chapterDocumentDirectory": "chapters/amos/"
     },
     {
       "id": "obadiah",
@@ -475,7 +505,8 @@
         "Obad",
         "Ob"
       ],
-      "path": "books/obadiah.json"
+      "path": "books/obadiah.json",
+      "chapterDocumentDirectory": "chapters/obadiah/"
     },
     {
       "id": "jonah",
@@ -489,7 +520,8 @@
         "Jonah",
         "Jon"
       ],
-      "path": "books/jonah.json"
+      "path": "books/jonah.json",
+      "chapterDocumentDirectory": "chapters/jonah/"
     },
     {
       "id": "micah",
@@ -503,7 +535,8 @@
         "Mic",
         "Mi"
       ],
-      "path": "books/micah.json"
+      "path": "books/micah.json",
+      "chapterDocumentDirectory": "chapters/micah/"
     },
     {
       "id": "nahum",
@@ -517,7 +550,8 @@
         "Nah",
         "Na"
       ],
-      "path": "books/nahum.json"
+      "path": "books/nahum.json",
+      "chapterDocumentDirectory": "chapters/nahum/"
     },
     {
       "id": "habakkuk",
@@ -531,7 +565,8 @@
         "Hab",
         "Hb"
       ],
-      "path": "books/habakkuk.json"
+      "path": "books/habakkuk.json",
+      "chapterDocumentDirectory": "chapters/habakkuk/"
     },
     {
       "id": "zephaniah",
@@ -546,7 +581,8 @@
         "Zep",
         "Zp"
       ],
-      "path": "books/zephaniah.json"
+      "path": "books/zephaniah.json",
+      "chapterDocumentDirectory": "chapters/zephaniah/"
     },
     {
       "id": "haggai",
@@ -560,7 +596,8 @@
         "Hag",
         "Hg"
       ],
-      "path": "books/haggai.json"
+      "path": "books/haggai.json",
+      "chapterDocumentDirectory": "chapters/haggai/"
     },
     {
       "id": "zechariah",
@@ -575,7 +612,8 @@
         "Zec",
         "Zc"
       ],
-      "path": "books/zechariah.json"
+      "path": "books/zechariah.json",
+      "chapterDocumentDirectory": "chapters/zechariah/"
     },
     {
       "id": "malachi",
@@ -589,7 +627,8 @@
         "Mal",
         "Ml"
       ],
-      "path": "books/malachi.json"
+      "path": "books/malachi.json",
+      "chapterDocumentDirectory": "chapters/malachi/"
     },
     {
       "id": "matthew",
@@ -603,7 +642,8 @@
         "Matt",
         "Mt"
       ],
-      "path": "books/matthew.json"
+      "path": "books/matthew.json",
+      "chapterDocumentDirectory": "chapters/matthew/"
     },
     {
       "id": "mark",
@@ -618,7 +658,8 @@
         "Mrk",
         "Mk"
       ],
-      "path": "books/mark.json"
+      "path": "books/mark.json",
+      "chapterDocumentDirectory": "chapters/mark/"
     },
     {
       "id": "luke",
@@ -632,7 +673,8 @@
         "Luke",
         "Lk"
       ],
-      "path": "books/luke.json"
+      "path": "books/luke.json",
+      "chapterDocumentDirectory": "chapters/luke/"
     },
     {
       "id": "john",
@@ -647,7 +689,8 @@
         "Jn",
         "Jhn"
       ],
-      "path": "books/john.json"
+      "path": "books/john.json",
+      "chapterDocumentDirectory": "chapters/john/"
     },
     {
       "id": "acts",
@@ -661,7 +704,8 @@
         "Acts",
         "Ac"
       ],
-      "path": "books/acts.json"
+      "path": "books/acts.json",
+      "chapterDocumentDirectory": "chapters/acts/"
     },
     {
       "id": "romans",
@@ -676,7 +720,8 @@
         "Ro",
         "Rm"
       ],
-      "path": "books/romans.json"
+      "path": "books/romans.json",
+      "chapterDocumentDirectory": "chapters/romans/"
     },
     {
       "id": "1-corinthians",
@@ -692,7 +737,8 @@
         "1 Co",
         "1Co"
       ],
-      "path": "books/1-corinthians.json"
+      "path": "books/1-corinthians.json",
+      "chapterDocumentDirectory": "chapters/1-corinthians/"
     },
     {
       "id": "2-corinthians",
@@ -708,7 +754,8 @@
         "2 Co",
         "2Co"
       ],
-      "path": "books/2-corinthians.json"
+      "path": "books/2-corinthians.json",
+      "chapterDocumentDirectory": "chapters/2-corinthians/"
     },
     {
       "id": "galatians",
@@ -722,7 +769,8 @@
         "Gal",
         "Ga"
       ],
-      "path": "books/galatians.json"
+      "path": "books/galatians.json",
+      "chapterDocumentDirectory": "chapters/galatians/"
     },
     {
       "id": "ephesians",
@@ -736,7 +784,8 @@
         "Eph",
         "Ephes"
       ],
-      "path": "books/ephesians.json"
+      "path": "books/ephesians.json",
+      "chapterDocumentDirectory": "chapters/ephesians/"
     },
     {
       "id": "philippians",
@@ -750,7 +799,8 @@
         "Phil",
         "Php"
       ],
-      "path": "books/philippians.json"
+      "path": "books/philippians.json",
+      "chapterDocumentDirectory": "chapters/philippians/"
     },
     {
       "id": "colossians",
@@ -764,7 +814,8 @@
         "Col",
         "Co"
       ],
-      "path": "books/colossians.json"
+      "path": "books/colossians.json",
+      "chapterDocumentDirectory": "chapters/colossians/"
     },
     {
       "id": "1-thessalonians",
@@ -780,7 +831,8 @@
         "1 Th",
         "1Th"
       ],
-      "path": "books/1-thessalonians.json"
+      "path": "books/1-thessalonians.json",
+      "chapterDocumentDirectory": "chapters/1-thessalonians/"
     },
     {
       "id": "2-thessalonians",
@@ -796,7 +848,8 @@
         "2 Th",
         "2Th"
       ],
-      "path": "books/2-thessalonians.json"
+      "path": "books/2-thessalonians.json",
+      "chapterDocumentDirectory": "chapters/2-thessalonians/"
     },
     {
       "id": "1-timothy",
@@ -812,7 +865,8 @@
         "1 Ti",
         "1Ti"
       ],
-      "path": "books/1-timothy.json"
+      "path": "books/1-timothy.json",
+      "chapterDocumentDirectory": "chapters/1-timothy/"
     },
     {
       "id": "2-timothy",
@@ -828,7 +882,8 @@
         "2 Ti",
         "2Ti"
       ],
-      "path": "books/2-timothy.json"
+      "path": "books/2-timothy.json",
+      "chapterDocumentDirectory": "chapters/2-timothy/"
     },
     {
       "id": "titus",
@@ -842,7 +897,8 @@
         "Titus",
         "Tit"
       ],
-      "path": "books/titus.json"
+      "path": "books/titus.json",
+      "chapterDocumentDirectory": "chapters/titus/"
     },
     {
       "id": "philemon",
@@ -857,7 +913,8 @@
         "Phm",
         "Phile"
       ],
-      "path": "books/philemon.json"
+      "path": "books/philemon.json",
+      "chapterDocumentDirectory": "chapters/philemon/"
     },
     {
       "id": "hebrews",
@@ -871,7 +928,8 @@
         "Heb",
         "He"
       ],
-      "path": "books/hebrews.json"
+      "path": "books/hebrews.json",
+      "chapterDocumentDirectory": "chapters/hebrews/"
     },
     {
       "id": "james",
@@ -886,7 +944,8 @@
         "Jam",
         "Jm"
       ],
-      "path": "books/james.json"
+      "path": "books/james.json",
+      "chapterDocumentDirectory": "chapters/james/"
     },
     {
       "id": "1-peter",
@@ -902,7 +961,8 @@
         "1 Pe",
         "1Pe"
       ],
-      "path": "books/1-peter.json"
+      "path": "books/1-peter.json",
+      "chapterDocumentDirectory": "chapters/1-peter/"
     },
     {
       "id": "2-peter",
@@ -918,7 +978,8 @@
         "2 Pe",
         "2Pe"
       ],
-      "path": "books/2-peter.json"
+      "path": "books/2-peter.json",
+      "chapterDocumentDirectory": "chapters/2-peter/"
     },
     {
       "id": "1-john",
@@ -934,7 +995,8 @@
         "1 Jn",
         "1Jn"
       ],
-      "path": "books/1-john.json"
+      "path": "books/1-john.json",
+      "chapterDocumentDirectory": "chapters/1-john/"
     },
     {
       "id": "2-john",
@@ -950,7 +1012,8 @@
         "2 Jn",
         "2Jn"
       ],
-      "path": "books/2-john.json"
+      "path": "books/2-john.json",
+      "chapterDocumentDirectory": "chapters/2-john/"
     },
     {
       "id": "3-john",
@@ -966,7 +1029,8 @@
         "3 Jn",
         "3Jn"
       ],
-      "path": "books/3-john.json"
+      "path": "books/3-john.json",
+      "chapterDocumentDirectory": "chapters/3-john/"
     },
     {
       "id": "jude",
@@ -980,7 +1044,8 @@
         "Jude",
         "Jud"
       ],
-      "path": "books/jude.json"
+      "path": "books/jude.json",
+      "chapterDocumentDirectory": "chapters/jude/"
     },
     {
       "id": "revelation",
@@ -996,7 +1061,10 @@
         "Rv",
         "Apocalypse"
       ],
-      "path": "books/revelation.json"
+      "path": "books/revelation.json",
+      "chapterDocumentDirectory": "chapters/revelation/"
     }
-  ]
+  ],
+  "documentModel": "one published document per Bible chapter",
+  "documentCount": 1189
 }

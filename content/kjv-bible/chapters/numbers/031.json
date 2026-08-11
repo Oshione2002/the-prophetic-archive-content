@@ -1,0 +1,682 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-numbers-031",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 31,
+  "title": "Numbers 31",
+  "display_title": "Numbers 31",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "numbers",
+  "book": "Numbers",
+  "bookName": "Numbers",
+  "bookOrder": 4,
+  "testament": "old",
+  "chapter": 31,
+  "sortOrder": 4031,
+  "verseCount": 54,
+  "aliases": [
+    "Num",
+    "Nu",
+    "Nm",
+    "Nb"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:numbers:31:1",
+      "numberLabel": "1",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 31:1",
+        "verseKey": "kjv:numbers:31:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:numbers:31:2",
+      "numberLabel": "2",
+      "text": "Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people.",
+      "metadata": {
+        "reference": "Numbers 31:2",
+        "verseKey": "kjv:numbers:31:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:numbers:31:3",
+      "numberLabel": "3",
+      "text": "And Moses spake unto the people, saying, Arm some of yourselves unto the war, and let them go against the Midianites, and avenge the LORD of Midian.",
+      "metadata": {
+        "reference": "Numbers 31:3",
+        "verseKey": "kjv:numbers:31:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:numbers:31:4",
+      "numberLabel": "4",
+      "text": "Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.",
+      "metadata": {
+        "reference": "Numbers 31:4",
+        "verseKey": "kjv:numbers:31:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:numbers:31:5",
+      "numberLabel": "5",
+      "text": "So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war.",
+      "metadata": {
+        "reference": "Numbers 31:5",
+        "verseKey": "kjv:numbers:31:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:numbers:31:6",
+      "numberLabel": "6",
+      "text": "And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand.",
+      "metadata": {
+        "reference": "Numbers 31:6",
+        "verseKey": "kjv:numbers:31:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:numbers:31:7",
+      "numberLabel": "7",
+      "text": "And they warred against the Midianites, as the LORD commanded Moses; and they slew all the males.",
+      "metadata": {
+        "reference": "Numbers 31:7",
+        "verseKey": "kjv:numbers:31:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:numbers:31:8",
+      "numberLabel": "8",
+      "text": "And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.",
+      "metadata": {
+        "reference": "Numbers 31:8",
+        "verseKey": "kjv:numbers:31:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:numbers:31:9",
+      "numberLabel": "9",
+      "text": "And the children of Israel took all the women of Midian captives, and their little ones, and took the spoil of all their cattle, and all their flocks, and all their goods.",
+      "metadata": {
+        "reference": "Numbers 31:9",
+        "verseKey": "kjv:numbers:31:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:numbers:31:10",
+      "numberLabel": "10",
+      "text": "And they burnt all their cities wherein they dwelt, and all their goodly castles, with fire.",
+      "metadata": {
+        "reference": "Numbers 31:10",
+        "verseKey": "kjv:numbers:31:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:numbers:31:11",
+      "numberLabel": "11",
+      "text": "And they took all the spoil, and all the prey, both of men and of beasts.",
+      "metadata": {
+        "reference": "Numbers 31:11",
+        "verseKey": "kjv:numbers:31:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:numbers:31:12",
+      "numberLabel": "12",
+      "text": "And they brought the captives, and the prey, and the spoil, unto Moses, and Eleazar the priest, and unto the congregation of the children of Israel, unto the camp at the plains of Moab, which are by Jordan near Jericho.",
+      "metadata": {
+        "reference": "Numbers 31:12",
+        "verseKey": "kjv:numbers:31:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:numbers:31:13",
+      "numberLabel": "13",
+      "text": "And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp.",
+      "metadata": {
+        "reference": "Numbers 31:13",
+        "verseKey": "kjv:numbers:31:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:numbers:31:14",
+      "numberLabel": "14",
+      "text": "And Moses was wroth with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle.",
+      "metadata": {
+        "reference": "Numbers 31:14",
+        "verseKey": "kjv:numbers:31:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:numbers:31:15",
+      "numberLabel": "15",
+      "text": "And Moses said unto them, Have ye saved all the women alive?",
+      "metadata": {
+        "reference": "Numbers 31:15",
+        "verseKey": "kjv:numbers:31:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:numbers:31:16",
+      "numberLabel": "16",
+      "text": "Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor, and there was a plague among the congregation of the LORD.",
+      "metadata": {
+        "reference": "Numbers 31:16",
+        "verseKey": "kjv:numbers:31:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:numbers:31:17",
+      "numberLabel": "17",
+      "text": "Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.",
+      "metadata": {
+        "reference": "Numbers 31:17",
+        "verseKey": "kjv:numbers:31:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:numbers:31:18",
+      "numberLabel": "18",
+      "text": "But all the women children, that have not known a man by lying with him, keep alive for yourselves.",
+      "metadata": {
+        "reference": "Numbers 31:18",
+        "verseKey": "kjv:numbers:31:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:numbers:31:19",
+      "numberLabel": "19",
+      "text": "And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day.",
+      "metadata": {
+        "reference": "Numbers 31:19",
+        "verseKey": "kjv:numbers:31:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:numbers:31:20",
+      "numberLabel": "20",
+      "text": "And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood.",
+      "metadata": {
+        "reference": "Numbers 31:20",
+        "verseKey": "kjv:numbers:31:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:numbers:31:21",
+      "numberLabel": "21",
+      "text": "And Eleazar the priest said unto the men of war which went to the battle, This is the ordinance of the law which the LORD commanded Moses;",
+      "metadata": {
+        "reference": "Numbers 31:21",
+        "verseKey": "kjv:numbers:31:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:numbers:31:22",
+      "numberLabel": "22",
+      "text": "Only the gold, and the silver, the brass, the iron, the tin, and the lead,",
+      "metadata": {
+        "reference": "Numbers 31:22",
+        "verseKey": "kjv:numbers:31:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:numbers:31:23",
+      "numberLabel": "23",
+      "text": "Every thing that may abide the fire, ye shall make it go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation: and all that abideth not the fire ye shall make go through the water.",
+      "metadata": {
+        "reference": "Numbers 31:23",
+        "verseKey": "kjv:numbers:31:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:numbers:31:24",
+      "numberLabel": "24",
+      "text": "And ye shall wash your clothes on the seventh day, and ye shall be clean, and afterward ye shall come into the camp.",
+      "metadata": {
+        "reference": "Numbers 31:24",
+        "verseKey": "kjv:numbers:31:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:numbers:31:25",
+      "numberLabel": "25",
+      "text": "And the LORD spake unto Moses, saying,",
+      "metadata": {
+        "reference": "Numbers 31:25",
+        "verseKey": "kjv:numbers:31:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:numbers:31:26",
+      "numberLabel": "26",
+      "text": "Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:",
+      "metadata": {
+        "reference": "Numbers 31:26",
+        "verseKey": "kjv:numbers:31:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:numbers:31:27",
+      "numberLabel": "27",
+      "text": "And divide the prey into two parts; between them that took the war upon them, who went out to battle, and between all the congregation:",
+      "metadata": {
+        "reference": "Numbers 31:27",
+        "verseKey": "kjv:numbers:31:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:numbers:31:28",
+      "numberLabel": "28",
+      "text": "And levy a tribute unto the Lord of the men of war which went out to battle: one soul of five hundred, both of the persons, and of the beeves, and of the asses, and of the sheep:",
+      "metadata": {
+        "reference": "Numbers 31:28",
+        "verseKey": "kjv:numbers:31:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:numbers:31:29",
+      "numberLabel": "29",
+      "text": "Take it of their half, and give it unto Eleazar the priest, for an heave offering of the LORD.",
+      "metadata": {
+        "reference": "Numbers 31:29",
+        "verseKey": "kjv:numbers:31:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:numbers:31:30",
+      "numberLabel": "30",
+      "text": "And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the LORD.",
+      "metadata": {
+        "reference": "Numbers 31:30",
+        "verseKey": "kjv:numbers:31:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:numbers:31:31",
+      "numberLabel": "31",
+      "text": "And Moses and Eleazar the priest did as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Numbers 31:31",
+        "verseKey": "kjv:numbers:31:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:numbers:31:32",
+      "numberLabel": "32",
+      "text": "And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,",
+      "metadata": {
+        "reference": "Numbers 31:32",
+        "verseKey": "kjv:numbers:31:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:numbers:31:33",
+      "numberLabel": "33",
+      "text": "And threescore and twelve thousand beeves,",
+      "metadata": {
+        "reference": "Numbers 31:33",
+        "verseKey": "kjv:numbers:31:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:numbers:31:34",
+      "numberLabel": "34",
+      "text": "And threescore and one thousand asses,",
+      "metadata": {
+        "reference": "Numbers 31:34",
+        "verseKey": "kjv:numbers:31:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:numbers:31:35",
+      "numberLabel": "35",
+      "text": "And thirty and two thousand persons in all, of women that had not known man by lying with him.",
+      "metadata": {
+        "reference": "Numbers 31:35",
+        "verseKey": "kjv:numbers:31:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:numbers:31:36",
+      "numberLabel": "36",
+      "text": "And the half, which was the portion of them that went out to war, was in number three hundred thousand and seven and thirty thousand and five hundred sheep:",
+      "metadata": {
+        "reference": "Numbers 31:36",
+        "verseKey": "kjv:numbers:31:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:numbers:31:37",
+      "numberLabel": "37",
+      "text": "And the LORD’s tribute of the sheep was six hundred and threescore and fifteen.",
+      "metadata": {
+        "reference": "Numbers 31:37",
+        "verseKey": "kjv:numbers:31:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:numbers:31:38",
+      "numberLabel": "38",
+      "text": "And the beeves were thirty and six thousand; of which the LORD’s tribute was threescore and twelve.",
+      "metadata": {
+        "reference": "Numbers 31:38",
+        "verseKey": "kjv:numbers:31:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:numbers:31:39",
+      "numberLabel": "39",
+      "text": "And the asses were thirty thousand and five hundred; of which the LORD’s tribute was threescore and one.",
+      "metadata": {
+        "reference": "Numbers 31:39",
+        "verseKey": "kjv:numbers:31:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:numbers:31:40",
+      "numberLabel": "40",
+      "text": "And the persons were sixteen thousand; of which the LORD’s tribute was thirty and two persons.",
+      "metadata": {
+        "reference": "Numbers 31:40",
+        "verseKey": "kjv:numbers:31:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:numbers:31:41",
+      "numberLabel": "41",
+      "text": "And Moses gave the tribute, which was the LORD’s heave offering, unto Eleazar the priest, as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Numbers 31:41",
+        "verseKey": "kjv:numbers:31:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:numbers:31:42",
+      "numberLabel": "42",
+      "text": "And of the children of Israel’s half, which Moses divided from the men that warred,",
+      "metadata": {
+        "reference": "Numbers 31:42",
+        "verseKey": "kjv:numbers:31:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:numbers:31:43",
+      "numberLabel": "43",
+      "text": "(Now the half that pertained unto the congregation was three hundred thousand and thirty thousand and seven thousand and five hundred sheep,",
+      "metadata": {
+        "reference": "Numbers 31:43",
+        "verseKey": "kjv:numbers:31:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:numbers:31:44",
+      "numberLabel": "44",
+      "text": "And thirty and six thousand beeves,",
+      "metadata": {
+        "reference": "Numbers 31:44",
+        "verseKey": "kjv:numbers:31:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:numbers:31:45",
+      "numberLabel": "45",
+      "text": "And thirty thousand asses and five hundred,",
+      "metadata": {
+        "reference": "Numbers 31:45",
+        "verseKey": "kjv:numbers:31:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:numbers:31:46",
+      "numberLabel": "46",
+      "text": "And sixteen thousand persons;)",
+      "metadata": {
+        "reference": "Numbers 31:46",
+        "verseKey": "kjv:numbers:31:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:numbers:31:47",
+      "numberLabel": "47",
+      "text": "Even of the children of Israel’s half, Moses took one portion of fifty, both of man and of beast, and gave them unto the Levites, which kept the charge of the tabernacle of the LORD; as the LORD commanded Moses.",
+      "metadata": {
+        "reference": "Numbers 31:47",
+        "verseKey": "kjv:numbers:31:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:numbers:31:48",
+      "numberLabel": "48",
+      "text": "And the officers which were over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:",
+      "metadata": {
+        "reference": "Numbers 31:48",
+        "verseKey": "kjv:numbers:31:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:numbers:31:49",
+      "numberLabel": "49",
+      "text": "And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us.",
+      "metadata": {
+        "reference": "Numbers 31:49",
+        "verseKey": "kjv:numbers:31:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:numbers:31:50",
+      "numberLabel": "50",
+      "text": "We have therefore brought an oblation for the LORD, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the LORD.",
+      "metadata": {
+        "reference": "Numbers 31:50",
+        "verseKey": "kjv:numbers:31:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:numbers:31:51",
+      "numberLabel": "51",
+      "text": "And Moses and Eleazar the priest took the gold of them, even all wrought jewels.",
+      "metadata": {
+        "reference": "Numbers 31:51",
+        "verseKey": "kjv:numbers:31:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:numbers:31:52",
+      "numberLabel": "52",
+      "text": "And all the gold of the offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.",
+      "metadata": {
+        "reference": "Numbers 31:52",
+        "verseKey": "kjv:numbers:31:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:numbers:31:53",
+      "numberLabel": "53",
+      "text": "(For the men of war had taken spoil, every man for himself.)",
+      "metadata": {
+        "reference": "Numbers 31:53",
+        "verseKey": "kjv:numbers:31:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:numbers:31:54",
+      "numberLabel": "54",
+      "text": "And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, for a memorial for the children of Israel before the LORD.",
+      "metadata": {
+        "reference": "Numbers 31:54",
+        "verseKey": "kjv:numbers:31:54"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Numbers.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Numbers.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

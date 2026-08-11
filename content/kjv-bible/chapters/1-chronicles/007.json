@@ -1,0 +1,514 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-chronicles-007",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 7,
+  "title": "1 Chronicles 7",
+  "display_title": "1 Chronicles 7",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-chronicles",
+  "book": "1 Chronicles",
+  "bookName": "1 Chronicles",
+  "bookOrder": 13,
+  "testament": "old",
+  "chapter": 7,
+  "sortOrder": 13007,
+  "verseCount": 40,
+  "aliases": [
+    "1 Chr",
+    "1Chr",
+    "1 Ch",
+    "1Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-chronicles:7:1",
+      "numberLabel": "1",
+      "text": "Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimrom, four.",
+      "metadata": {
+        "reference": "1 Chronicles 7:1",
+        "verseKey": "kjv:1-chronicles:7:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-chronicles:7:2",
+      "numberLabel": "2",
+      "text": "And the sons of Tola; Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, heads of their father’s house, to wit, of Tola: they were valiant men of might in their generations; whose number was in the days of David two and twenty thousand and six hundred.",
+      "metadata": {
+        "reference": "1 Chronicles 7:2",
+        "verseKey": "kjv:1-chronicles:7:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-chronicles:7:3",
+      "numberLabel": "3",
+      "text": "And the sons of Uzzi; Izrahiah: and the sons of Izrahiah; Michael, and Obadiah, and Joel, Ishiah, five: all of them chief men.",
+      "metadata": {
+        "reference": "1 Chronicles 7:3",
+        "verseKey": "kjv:1-chronicles:7:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-chronicles:7:4",
+      "numberLabel": "4",
+      "text": "And with them, by their generations, after the house of their fathers, were bands of soldiers for war, six and thirty thousand men: for they had many wives and sons.",
+      "metadata": {
+        "reference": "1 Chronicles 7:4",
+        "verseKey": "kjv:1-chronicles:7:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-chronicles:7:5",
+      "numberLabel": "5",
+      "text": "And their brethren among all the families of Issachar were valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 7:5",
+        "verseKey": "kjv:1-chronicles:7:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-chronicles:7:6",
+      "numberLabel": "6",
+      "text": "The sons of Benjamin; Bela, and Becher, and Jediael, three.",
+      "metadata": {
+        "reference": "1 Chronicles 7:6",
+        "verseKey": "kjv:1-chronicles:7:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-chronicles:7:7",
+      "numberLabel": "7",
+      "text": "And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five; heads of the house of their fathers, mighty men of valour; and were reckoned by their genealogies twenty and two thousand and thirty and four.",
+      "metadata": {
+        "reference": "1 Chronicles 7:7",
+        "verseKey": "kjv:1-chronicles:7:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-chronicles:7:8",
+      "numberLabel": "8",
+      "text": "And the sons of Becher; Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth. All these are the sons of Becher.",
+      "metadata": {
+        "reference": "1 Chronicles 7:8",
+        "verseKey": "kjv:1-chronicles:7:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-chronicles:7:9",
+      "numberLabel": "9",
+      "text": "And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, was twenty thousand and two hundred.",
+      "metadata": {
+        "reference": "1 Chronicles 7:9",
+        "verseKey": "kjv:1-chronicles:7:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-chronicles:7:10",
+      "numberLabel": "10",
+      "text": "The sons also of Jediael; Bilhan: and the sons of Bilhan; Jeush, and Benjamin, and Ehud, and Chenaanah, and Zethan, and Tharshish, and Ahishahar.",
+      "metadata": {
+        "reference": "1 Chronicles 7:10",
+        "verseKey": "kjv:1-chronicles:7:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-chronicles:7:11",
+      "numberLabel": "11",
+      "text": "All these the sons of Jediael, by the heads of their fathers, mighty men of valour, were seventeen thousand and two hundred soldiers, fit to go out for war and battle.",
+      "metadata": {
+        "reference": "1 Chronicles 7:11",
+        "verseKey": "kjv:1-chronicles:7:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-chronicles:7:12",
+      "numberLabel": "12",
+      "text": "Shuppim also, and Huppim, the children of Ir, and Hushim, the sons of Aher.",
+      "metadata": {
+        "reference": "1 Chronicles 7:12",
+        "verseKey": "kjv:1-chronicles:7:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-chronicles:7:13",
+      "numberLabel": "13",
+      "text": "The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.",
+      "metadata": {
+        "reference": "1 Chronicles 7:13",
+        "verseKey": "kjv:1-chronicles:7:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-chronicles:7:14",
+      "numberLabel": "14",
+      "text": "The sons of Manasseh; Ashriel, whom she bare: (but his concubine the Aramitess bare Machir the father of Gilead:",
+      "metadata": {
+        "reference": "1 Chronicles 7:14",
+        "verseKey": "kjv:1-chronicles:7:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-chronicles:7:15",
+      "numberLabel": "15",
+      "text": "And Machir took to wife the sister of Huppim and Shuppim, whose sister’s name was Maachah;) and the name of the second was Zelophehad: and Zelophehad had daughters.",
+      "metadata": {
+        "reference": "1 Chronicles 7:15",
+        "verseKey": "kjv:1-chronicles:7:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-chronicles:7:16",
+      "numberLabel": "16",
+      "text": "And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem.",
+      "metadata": {
+        "reference": "1 Chronicles 7:16",
+        "verseKey": "kjv:1-chronicles:7:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-chronicles:7:17",
+      "numberLabel": "17",
+      "text": "And the sons of Ulam; Bedan. These were the sons of Gilead, the son of Machir, the son of Manasseh.",
+      "metadata": {
+        "reference": "1 Chronicles 7:17",
+        "verseKey": "kjv:1-chronicles:7:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-chronicles:7:18",
+      "numberLabel": "18",
+      "text": "And his sister Hammoleketh bare Ishod, and Abiezer, and Mahalah.",
+      "metadata": {
+        "reference": "1 Chronicles 7:18",
+        "verseKey": "kjv:1-chronicles:7:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-chronicles:7:19",
+      "numberLabel": "19",
+      "text": "And the sons of Shemidah were, Ahian, and Shechem, and Likhi, and Aniam.",
+      "metadata": {
+        "reference": "1 Chronicles 7:19",
+        "verseKey": "kjv:1-chronicles:7:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-chronicles:7:20",
+      "numberLabel": "20",
+      "text": "And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,",
+      "metadata": {
+        "reference": "1 Chronicles 7:20",
+        "verseKey": "kjv:1-chronicles:7:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-chronicles:7:21",
+      "numberLabel": "21",
+      "text": "And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in that land slew, because they came down to take away their cattle.",
+      "metadata": {
+        "reference": "1 Chronicles 7:21",
+        "verseKey": "kjv:1-chronicles:7:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-chronicles:7:22",
+      "numberLabel": "22",
+      "text": "And Ephraim their father mourned many days, and his brethren came to comfort him.",
+      "metadata": {
+        "reference": "1 Chronicles 7:22",
+        "verseKey": "kjv:1-chronicles:7:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-chronicles:7:23",
+      "numberLabel": "23",
+      "text": "And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house.",
+      "metadata": {
+        "reference": "1 Chronicles 7:23",
+        "verseKey": "kjv:1-chronicles:7:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-chronicles:7:24",
+      "numberLabel": "24",
+      "text": "(And his daughter was Sherah, who built Bethhoron the nether, and the upper, and Uzzensherah.)",
+      "metadata": {
+        "reference": "1 Chronicles 7:24",
+        "verseKey": "kjv:1-chronicles:7:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-chronicles:7:25",
+      "numberLabel": "25",
+      "text": "And Rephah was his son, also Resheph, and Telah his son, and Tahan his son,",
+      "metadata": {
+        "reference": "1 Chronicles 7:25",
+        "verseKey": "kjv:1-chronicles:7:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-chronicles:7:26",
+      "numberLabel": "26",
+      "text": "Laadan his son, Ammihud his son, Elishama his son,",
+      "metadata": {
+        "reference": "1 Chronicles 7:26",
+        "verseKey": "kjv:1-chronicles:7:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-chronicles:7:27",
+      "numberLabel": "27",
+      "text": "Non his son, Jehoshuah his son,",
+      "metadata": {
+        "reference": "1 Chronicles 7:27",
+        "verseKey": "kjv:1-chronicles:7:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-chronicles:7:28",
+      "numberLabel": "28",
+      "text": "And their possessions and habitations were, Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:",
+      "metadata": {
+        "reference": "1 Chronicles 7:28",
+        "verseKey": "kjv:1-chronicles:7:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-chronicles:7:29",
+      "numberLabel": "29",
+      "text": "And by the borders of the children of Manasseh, Bethshean and her towns, Taanach and her towns, Megiddo and her towns, Dor and her towns. In these dwelt the children of Joseph the son of Israel.",
+      "metadata": {
+        "reference": "1 Chronicles 7:29",
+        "verseKey": "kjv:1-chronicles:7:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-chronicles:7:30",
+      "numberLabel": "30",
+      "text": "The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.",
+      "metadata": {
+        "reference": "1 Chronicles 7:30",
+        "verseKey": "kjv:1-chronicles:7:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-chronicles:7:31",
+      "numberLabel": "31",
+      "text": "And the sons of Beriah; Heber, and Malchiel, who is the father of Birzavith.",
+      "metadata": {
+        "reference": "1 Chronicles 7:31",
+        "verseKey": "kjv:1-chronicles:7:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-chronicles:7:32",
+      "numberLabel": "32",
+      "text": "And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.",
+      "metadata": {
+        "reference": "1 Chronicles 7:32",
+        "verseKey": "kjv:1-chronicles:7:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-chronicles:7:33",
+      "numberLabel": "33",
+      "text": "And the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These are the children of Japhlet.",
+      "metadata": {
+        "reference": "1 Chronicles 7:33",
+        "verseKey": "kjv:1-chronicles:7:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-chronicles:7:34",
+      "numberLabel": "34",
+      "text": "And the sons of Shamer; Ahi, and Rohgah, Jehubbah, and Aram.",
+      "metadata": {
+        "reference": "1 Chronicles 7:34",
+        "verseKey": "kjv:1-chronicles:7:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-chronicles:7:35",
+      "numberLabel": "35",
+      "text": "And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal.",
+      "metadata": {
+        "reference": "1 Chronicles 7:35",
+        "verseKey": "kjv:1-chronicles:7:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-chronicles:7:36",
+      "numberLabel": "36",
+      "text": "The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,",
+      "metadata": {
+        "reference": "1 Chronicles 7:36",
+        "verseKey": "kjv:1-chronicles:7:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-chronicles:7:37",
+      "numberLabel": "37",
+      "text": "Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.",
+      "metadata": {
+        "reference": "1 Chronicles 7:37",
+        "verseKey": "kjv:1-chronicles:7:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-chronicles:7:38",
+      "numberLabel": "38",
+      "text": "And the sons of Jether; Jephunneh, and Pispah, and Ara.",
+      "metadata": {
+        "reference": "1 Chronicles 7:38",
+        "verseKey": "kjv:1-chronicles:7:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-chronicles:7:39",
+      "numberLabel": "39",
+      "text": "And the sons of Ulla; Arah, and Haniel, and Rezia.",
+      "metadata": {
+        "reference": "1 Chronicles 7:39",
+        "verseKey": "kjv:1-chronicles:7:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-chronicles:7:40",
+      "numberLabel": "40",
+      "text": "All these were the children of Asher, heads of their father’s house, choice and mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were apt to the war and to battle was twenty and six thousand men.",
+      "metadata": {
+        "reference": "1 Chronicles 7:40",
+        "verseKey": "kjv:1-chronicles:7:40"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

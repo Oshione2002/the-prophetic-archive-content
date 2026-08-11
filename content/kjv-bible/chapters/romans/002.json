@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-romans-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Romans 2",
+  "display_title": "Romans 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "romans",
+  "book": "Romans",
+  "bookName": "Romans",
+  "bookOrder": 45,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 45002,
+  "verseCount": 29,
+  "aliases": [
+    "Rom",
+    "Ro",
+    "Rm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:romans:2:1",
+      "numberLabel": "1",
+      "text": "Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.",
+      "metadata": {
+        "reference": "Romans 2:1",
+        "verseKey": "kjv:romans:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:romans:2:2",
+      "numberLabel": "2",
+      "text": "But we are sure that the judgment of God is according to truth against them which commit such things.",
+      "metadata": {
+        "reference": "Romans 2:2",
+        "verseKey": "kjv:romans:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:romans:2:3",
+      "numberLabel": "3",
+      "text": "And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?",
+      "metadata": {
+        "reference": "Romans 2:3",
+        "verseKey": "kjv:romans:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:romans:2:4",
+      "numberLabel": "4",
+      "text": "Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?",
+      "metadata": {
+        "reference": "Romans 2:4",
+        "verseKey": "kjv:romans:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:romans:2:5",
+      "numberLabel": "5",
+      "text": "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;",
+      "metadata": {
+        "reference": "Romans 2:5",
+        "verseKey": "kjv:romans:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:romans:2:6",
+      "numberLabel": "6",
+      "text": "Who will render to every man according to his deeds:",
+      "metadata": {
+        "reference": "Romans 2:6",
+        "verseKey": "kjv:romans:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:romans:2:7",
+      "numberLabel": "7",
+      "text": "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:",
+      "metadata": {
+        "reference": "Romans 2:7",
+        "verseKey": "kjv:romans:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:romans:2:8",
+      "numberLabel": "8",
+      "text": "But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,",
+      "metadata": {
+        "reference": "Romans 2:8",
+        "verseKey": "kjv:romans:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:romans:2:9",
+      "numberLabel": "9",
+      "text": "Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;",
+      "metadata": {
+        "reference": "Romans 2:9",
+        "verseKey": "kjv:romans:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:romans:2:10",
+      "numberLabel": "10",
+      "text": "But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:",
+      "metadata": {
+        "reference": "Romans 2:10",
+        "verseKey": "kjv:romans:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:romans:2:11",
+      "numberLabel": "11",
+      "text": "For there is no respect of persons with God.",
+      "metadata": {
+        "reference": "Romans 2:11",
+        "verseKey": "kjv:romans:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:romans:2:12",
+      "numberLabel": "12",
+      "text": "For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;",
+      "metadata": {
+        "reference": "Romans 2:12",
+        "verseKey": "kjv:romans:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:romans:2:13",
+      "numberLabel": "13",
+      "text": "(For not the hearers of the law are just before God, but the doers of the law shall be justified.",
+      "metadata": {
+        "reference": "Romans 2:13",
+        "verseKey": "kjv:romans:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:romans:2:14",
+      "numberLabel": "14",
+      "text": "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:",
+      "metadata": {
+        "reference": "Romans 2:14",
+        "verseKey": "kjv:romans:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:romans:2:15",
+      "numberLabel": "15",
+      "text": "Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)",
+      "metadata": {
+        "reference": "Romans 2:15",
+        "verseKey": "kjv:romans:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:romans:2:16",
+      "numberLabel": "16",
+      "text": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.",
+      "metadata": {
+        "reference": "Romans 2:16",
+        "verseKey": "kjv:romans:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:romans:2:17",
+      "numberLabel": "17",
+      "text": "Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,",
+      "metadata": {
+        "reference": "Romans 2:17",
+        "verseKey": "kjv:romans:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:romans:2:18",
+      "numberLabel": "18",
+      "text": "And knowest his will, and approvest the things that are more excellent, being instructed out of the law;",
+      "metadata": {
+        "reference": "Romans 2:18",
+        "verseKey": "kjv:romans:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:romans:2:19",
+      "numberLabel": "19",
+      "text": "And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,",
+      "metadata": {
+        "reference": "Romans 2:19",
+        "verseKey": "kjv:romans:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:romans:2:20",
+      "numberLabel": "20",
+      "text": "An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.",
+      "metadata": {
+        "reference": "Romans 2:20",
+        "verseKey": "kjv:romans:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:romans:2:21",
+      "numberLabel": "21",
+      "text": "Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?",
+      "metadata": {
+        "reference": "Romans 2:21",
+        "verseKey": "kjv:romans:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:romans:2:22",
+      "numberLabel": "22",
+      "text": "Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?",
+      "metadata": {
+        "reference": "Romans 2:22",
+        "verseKey": "kjv:romans:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:romans:2:23",
+      "numberLabel": "23",
+      "text": "Thou that makest thy boast of the law, through breaking the law dishonourest thou God?",
+      "metadata": {
+        "reference": "Romans 2:23",
+        "verseKey": "kjv:romans:2:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:romans:2:24",
+      "numberLabel": "24",
+      "text": "For the name of God is blasphemed among the Gentiles through you, as it is written.",
+      "metadata": {
+        "reference": "Romans 2:24",
+        "verseKey": "kjv:romans:2:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:romans:2:25",
+      "numberLabel": "25",
+      "text": "For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.",
+      "metadata": {
+        "reference": "Romans 2:25",
+        "verseKey": "kjv:romans:2:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:romans:2:26",
+      "numberLabel": "26",
+      "text": "Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?",
+      "metadata": {
+        "reference": "Romans 2:26",
+        "verseKey": "kjv:romans:2:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:romans:2:27",
+      "numberLabel": "27",
+      "text": "And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?",
+      "metadata": {
+        "reference": "Romans 2:27",
+        "verseKey": "kjv:romans:2:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:romans:2:28",
+      "numberLabel": "28",
+      "text": "For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:",
+      "metadata": {
+        "reference": "Romans 2:28",
+        "verseKey": "kjv:romans:2:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:romans:2:29",
+      "numberLabel": "29",
+      "text": "But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.",
+      "metadata": {
+        "reference": "Romans 2:29",
+        "verseKey": "kjv:romans:2:29"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Romans.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Romans.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

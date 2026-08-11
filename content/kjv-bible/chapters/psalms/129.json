@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-129",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 129,
+  "title": "Psalms 129",
+  "display_title": "Psalms 129",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 129,
+  "sortOrder": 19129,
+  "verseCount": 8,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:129:1",
+      "numberLabel": "1",
+      "text": "Many a time have they afflicted me from my youth, may Israel now say:",
+      "metadata": {
+        "reference": "Psalms 129:1",
+        "verseKey": "kjv:psalms:129:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:129:2",
+      "numberLabel": "2",
+      "text": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
+      "metadata": {
+        "reference": "Psalms 129:2",
+        "verseKey": "kjv:psalms:129:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:129:3",
+      "numberLabel": "3",
+      "text": "The plowers plowed upon my back: they made long their furrows.",
+      "metadata": {
+        "reference": "Psalms 129:3",
+        "verseKey": "kjv:psalms:129:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:129:4",
+      "numberLabel": "4",
+      "text": "The LORD is righteous: he hath cut asunder the cords of the wicked.",
+      "metadata": {
+        "reference": "Psalms 129:4",
+        "verseKey": "kjv:psalms:129:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:129:5",
+      "numberLabel": "5",
+      "text": "Let them all be confounded and turned back that hate Zion.",
+      "metadata": {
+        "reference": "Psalms 129:5",
+        "verseKey": "kjv:psalms:129:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:129:6",
+      "numberLabel": "6",
+      "text": "Let them be as the grass upon the housetops, which withereth afore it groweth up:",
+      "metadata": {
+        "reference": "Psalms 129:6",
+        "verseKey": "kjv:psalms:129:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:129:7",
+      "numberLabel": "7",
+      "text": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
+      "metadata": {
+        "reference": "Psalms 129:7",
+        "verseKey": "kjv:psalms:129:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:129:8",
+      "numberLabel": "8",
+      "text": "Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD.",
+      "metadata": {
+        "reference": "Psalms 129:8",
+        "verseKey": "kjv:psalms:129:8"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

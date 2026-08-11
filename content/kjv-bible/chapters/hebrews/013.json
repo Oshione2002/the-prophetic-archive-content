@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hebrews-013",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 13,
+  "title": "Hebrews 13",
+  "display_title": "Hebrews 13",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hebrews",
+  "book": "Hebrews",
+  "bookName": "Hebrews",
+  "bookOrder": 58,
+  "testament": "new",
+  "chapter": 13,
+  "sortOrder": 58013,
+  "verseCount": 25,
+  "aliases": [
+    "Heb",
+    "He"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hebrews:13:1",
+      "numberLabel": "1",
+      "text": "Let brotherly love continue.",
+      "metadata": {
+        "reference": "Hebrews 13:1",
+        "verseKey": "kjv:hebrews:13:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hebrews:13:2",
+      "numberLabel": "2",
+      "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.",
+      "metadata": {
+        "reference": "Hebrews 13:2",
+        "verseKey": "kjv:hebrews:13:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hebrews:13:3",
+      "numberLabel": "3",
+      "text": "Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.",
+      "metadata": {
+        "reference": "Hebrews 13:3",
+        "verseKey": "kjv:hebrews:13:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hebrews:13:4",
+      "numberLabel": "4",
+      "text": "Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.",
+      "metadata": {
+        "reference": "Hebrews 13:4",
+        "verseKey": "kjv:hebrews:13:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hebrews:13:5",
+      "numberLabel": "5",
+      "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+      "metadata": {
+        "reference": "Hebrews 13:5",
+        "verseKey": "kjv:hebrews:13:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hebrews:13:6",
+      "numberLabel": "6",
+      "text": "So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.",
+      "metadata": {
+        "reference": "Hebrews 13:6",
+        "verseKey": "kjv:hebrews:13:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hebrews:13:7",
+      "numberLabel": "7",
+      "text": "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.",
+      "metadata": {
+        "reference": "Hebrews 13:7",
+        "verseKey": "kjv:hebrews:13:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hebrews:13:8",
+      "numberLabel": "8",
+      "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+      "metadata": {
+        "reference": "Hebrews 13:8",
+        "verseKey": "kjv:hebrews:13:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hebrews:13:9",
+      "numberLabel": "9",
+      "text": "Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.",
+      "metadata": {
+        "reference": "Hebrews 13:9",
+        "verseKey": "kjv:hebrews:13:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hebrews:13:10",
+      "numberLabel": "10",
+      "text": "We have an altar, whereof they have no right to eat which serve the tabernacle.",
+      "metadata": {
+        "reference": "Hebrews 13:10",
+        "verseKey": "kjv:hebrews:13:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hebrews:13:11",
+      "numberLabel": "11",
+      "text": "For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.",
+      "metadata": {
+        "reference": "Hebrews 13:11",
+        "verseKey": "kjv:hebrews:13:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:hebrews:13:12",
+      "numberLabel": "12",
+      "text": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.",
+      "metadata": {
+        "reference": "Hebrews 13:12",
+        "verseKey": "kjv:hebrews:13:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:hebrews:13:13",
+      "numberLabel": "13",
+      "text": "Let us go forth therefore unto him without the camp, bearing his reproach.",
+      "metadata": {
+        "reference": "Hebrews 13:13",
+        "verseKey": "kjv:hebrews:13:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:hebrews:13:14",
+      "numberLabel": "14",
+      "text": "For here have we no continuing city, but we seek one to come.",
+      "metadata": {
+        "reference": "Hebrews 13:14",
+        "verseKey": "kjv:hebrews:13:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:hebrews:13:15",
+      "numberLabel": "15",
+      "text": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.",
+      "metadata": {
+        "reference": "Hebrews 13:15",
+        "verseKey": "kjv:hebrews:13:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:hebrews:13:16",
+      "numberLabel": "16",
+      "text": "But to do good and to communicate forget not: for with such sacrifices God is well pleased.",
+      "metadata": {
+        "reference": "Hebrews 13:16",
+        "verseKey": "kjv:hebrews:13:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:hebrews:13:17",
+      "numberLabel": "17",
+      "text": "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.",
+      "metadata": {
+        "reference": "Hebrews 13:17",
+        "verseKey": "kjv:hebrews:13:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:hebrews:13:18",
+      "numberLabel": "18",
+      "text": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly.",
+      "metadata": {
+        "reference": "Hebrews 13:18",
+        "verseKey": "kjv:hebrews:13:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:hebrews:13:19",
+      "numberLabel": "19",
+      "text": "But I beseech you the rather to do this, that I may be restored to you the sooner.",
+      "metadata": {
+        "reference": "Hebrews 13:19",
+        "verseKey": "kjv:hebrews:13:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:hebrews:13:20",
+      "numberLabel": "20",
+      "text": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,",
+      "metadata": {
+        "reference": "Hebrews 13:20",
+        "verseKey": "kjv:hebrews:13:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:hebrews:13:21",
+      "numberLabel": "21",
+      "text": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.",
+      "metadata": {
+        "reference": "Hebrews 13:21",
+        "verseKey": "kjv:hebrews:13:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:hebrews:13:22",
+      "numberLabel": "22",
+      "text": "And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.",
+      "metadata": {
+        "reference": "Hebrews 13:22",
+        "verseKey": "kjv:hebrews:13:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:hebrews:13:23",
+      "numberLabel": "23",
+      "text": "Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you.",
+      "metadata": {
+        "reference": "Hebrews 13:23",
+        "verseKey": "kjv:hebrews:13:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:hebrews:13:24",
+      "numberLabel": "24",
+      "text": "Salute all them that have the rule over you, and all the saints. They of Italy salute you.",
+      "metadata": {
+        "reference": "Hebrews 13:24",
+        "verseKey": "kjv:hebrews:13:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:hebrews:13:25",
+      "numberLabel": "25",
+      "text": "Grace be with you all. Amen.",
+      "metadata": {
+        "reference": "Hebrews 13:25",
+        "verseKey": "kjv:hebrews:13:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hebrews.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hebrews.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

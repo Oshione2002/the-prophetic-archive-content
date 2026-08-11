@@ -1,0 +1,525 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "John 9",
+  "display_title": "John 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 9,
+  "sortOrder": 43009,
+  "verseCount": 41,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:9:1",
+      "numberLabel": "1",
+      "text": "And as Jesus passed by, he saw a man which was blind from his birth.",
+      "metadata": {
+        "reference": "John 9:1",
+        "verseKey": "kjv:john:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:9:2",
+      "numberLabel": "2",
+      "text": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?",
+      "metadata": {
+        "reference": "John 9:2",
+        "verseKey": "kjv:john:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:9:3",
+      "numberLabel": "3",
+      "text": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.",
+      "metadata": {
+        "reference": "John 9:3",
+        "verseKey": "kjv:john:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:9:4",
+      "numberLabel": "4",
+      "text": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work.",
+      "metadata": {
+        "reference": "John 9:4",
+        "verseKey": "kjv:john:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:9:5",
+      "numberLabel": "5",
+      "text": "As long as I am in the world, I am the light of the world.",
+      "metadata": {
+        "reference": "John 9:5",
+        "verseKey": "kjv:john:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:9:6",
+      "numberLabel": "6",
+      "text": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,",
+      "metadata": {
+        "reference": "John 9:6",
+        "verseKey": "kjv:john:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:9:7",
+      "numberLabel": "7",
+      "text": "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.",
+      "metadata": {
+        "reference": "John 9:7",
+        "verseKey": "kjv:john:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:9:8",
+      "numberLabel": "8",
+      "text": "The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?",
+      "metadata": {
+        "reference": "John 9:8",
+        "verseKey": "kjv:john:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:9:9",
+      "numberLabel": "9",
+      "text": "Some said, This is he: others said, He is like him: but he said, I am he.",
+      "metadata": {
+        "reference": "John 9:9",
+        "verseKey": "kjv:john:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:9:10",
+      "numberLabel": "10",
+      "text": "Therefore said they unto him, How were thine eyes opened?",
+      "metadata": {
+        "reference": "John 9:10",
+        "verseKey": "kjv:john:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:9:11",
+      "numberLabel": "11",
+      "text": "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.",
+      "metadata": {
+        "reference": "John 9:11",
+        "verseKey": "kjv:john:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:9:12",
+      "numberLabel": "12",
+      "text": "Then said they unto him, Where is he? He said, I know not.",
+      "metadata": {
+        "reference": "John 9:12",
+        "verseKey": "kjv:john:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:9:13",
+      "numberLabel": "13",
+      "text": "They brought to the Pharisees him that aforetime was blind.",
+      "metadata": {
+        "reference": "John 9:13",
+        "verseKey": "kjv:john:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:9:14",
+      "numberLabel": "14",
+      "text": "And it was the sabbath day when Jesus made the clay, and opened his eyes.",
+      "metadata": {
+        "reference": "John 9:14",
+        "verseKey": "kjv:john:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:9:15",
+      "numberLabel": "15",
+      "text": "Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see.",
+      "metadata": {
+        "reference": "John 9:15",
+        "verseKey": "kjv:john:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:9:16",
+      "numberLabel": "16",
+      "text": "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.",
+      "metadata": {
+        "reference": "John 9:16",
+        "verseKey": "kjv:john:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:9:17",
+      "numberLabel": "17",
+      "text": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.",
+      "metadata": {
+        "reference": "John 9:17",
+        "verseKey": "kjv:john:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:9:18",
+      "numberLabel": "18",
+      "text": "But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.",
+      "metadata": {
+        "reference": "John 9:18",
+        "verseKey": "kjv:john:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:9:19",
+      "numberLabel": "19",
+      "text": "And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?",
+      "metadata": {
+        "reference": "John 9:19",
+        "verseKey": "kjv:john:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:9:20",
+      "numberLabel": "20",
+      "text": "His parents answered them and said, We know that this is our son, and that he was born blind:",
+      "metadata": {
+        "reference": "John 9:20",
+        "verseKey": "kjv:john:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:9:21",
+      "numberLabel": "21",
+      "text": "But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself.",
+      "metadata": {
+        "reference": "John 9:21",
+        "verseKey": "kjv:john:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:9:22",
+      "numberLabel": "22",
+      "text": "These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.",
+      "metadata": {
+        "reference": "John 9:22",
+        "verseKey": "kjv:john:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:9:23",
+      "numberLabel": "23",
+      "text": "Therefore said his parents, He is of age; ask him.",
+      "metadata": {
+        "reference": "John 9:23",
+        "verseKey": "kjv:john:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:9:24",
+      "numberLabel": "24",
+      "text": "Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.",
+      "metadata": {
+        "reference": "John 9:24",
+        "verseKey": "kjv:john:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:9:25",
+      "numberLabel": "25",
+      "text": "He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.",
+      "metadata": {
+        "reference": "John 9:25",
+        "verseKey": "kjv:john:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:9:26",
+      "numberLabel": "26",
+      "text": "Then said they to him again, What did he to thee? how opened he thine eyes?",
+      "metadata": {
+        "reference": "John 9:26",
+        "verseKey": "kjv:john:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:9:27",
+      "numberLabel": "27",
+      "text": "He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?",
+      "metadata": {
+        "reference": "John 9:27",
+        "verseKey": "kjv:john:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:9:28",
+      "numberLabel": "28",
+      "text": "Then they reviled him, and said, Thou art his disciple; but we are Moses’ disciples.",
+      "metadata": {
+        "reference": "John 9:28",
+        "verseKey": "kjv:john:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:9:29",
+      "numberLabel": "29",
+      "text": "We know that God spake unto Moses: as for this fellow, we know not from whence he is.",
+      "metadata": {
+        "reference": "John 9:29",
+        "verseKey": "kjv:john:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:9:30",
+      "numberLabel": "30",
+      "text": "The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes.",
+      "metadata": {
+        "reference": "John 9:30",
+        "verseKey": "kjv:john:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:9:31",
+      "numberLabel": "31",
+      "text": "Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.",
+      "metadata": {
+        "reference": "John 9:31",
+        "verseKey": "kjv:john:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:john:9:32",
+      "numberLabel": "32",
+      "text": "Since the world began was it not heard that any man opened the eyes of one that was born blind.",
+      "metadata": {
+        "reference": "John 9:32",
+        "verseKey": "kjv:john:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:john:9:33",
+      "numberLabel": "33",
+      "text": "If this man were not of God, he could do nothing.",
+      "metadata": {
+        "reference": "John 9:33",
+        "verseKey": "kjv:john:9:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:john:9:34",
+      "numberLabel": "34",
+      "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.",
+      "metadata": {
+        "reference": "John 9:34",
+        "verseKey": "kjv:john:9:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:john:9:35",
+      "numberLabel": "35",
+      "text": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?",
+      "metadata": {
+        "reference": "John 9:35",
+        "verseKey": "kjv:john:9:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:john:9:36",
+      "numberLabel": "36",
+      "text": "He answered and said, Who is he, Lord, that I might believe on him?",
+      "metadata": {
+        "reference": "John 9:36",
+        "verseKey": "kjv:john:9:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:john:9:37",
+      "numberLabel": "37",
+      "text": "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.",
+      "metadata": {
+        "reference": "John 9:37",
+        "verseKey": "kjv:john:9:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:john:9:38",
+      "numberLabel": "38",
+      "text": "And he said, Lord, I believe. And he worshipped him.",
+      "metadata": {
+        "reference": "John 9:38",
+        "verseKey": "kjv:john:9:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:john:9:39",
+      "numberLabel": "39",
+      "text": "And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.",
+      "metadata": {
+        "reference": "John 9:39",
+        "verseKey": "kjv:john:9:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:john:9:40",
+      "numberLabel": "40",
+      "text": "And some of the Pharisees which were with him heard these words, and said unto him, Are we blind also?",
+      "metadata": {
+        "reference": "John 9:40",
+        "verseKey": "kjv:john:9:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:john:9:41",
+      "numberLabel": "41",
+      "text": "Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.",
+      "metadata": {
+        "reference": "John 9:41",
+        "verseKey": "kjv:john:9:41"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-nehemiah-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Nehemiah 11",
+  "display_title": "Nehemiah 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "nehemiah",
+  "book": "Nehemiah",
+  "bookName": "Nehemiah",
+  "bookOrder": 16,
+  "testament": "old",
+  "chapter": 11,
+  "sortOrder": 16011,
+  "verseCount": 36,
+  "aliases": [
+    "Neh",
+    "Ne"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:nehemiah:11:1",
+      "numberLabel": "1",
+      "text": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.",
+      "metadata": {
+        "reference": "Nehemiah 11:1",
+        "verseKey": "kjv:nehemiah:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:nehemiah:11:2",
+      "numberLabel": "2",
+      "text": "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.",
+      "metadata": {
+        "reference": "Nehemiah 11:2",
+        "verseKey": "kjv:nehemiah:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:nehemiah:11:3",
+      "numberLabel": "3",
+      "text": "Now these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon’s servants.",
+      "metadata": {
+        "reference": "Nehemiah 11:3",
+        "verseKey": "kjv:nehemiah:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:nehemiah:11:4",
+      "numberLabel": "4",
+      "text": "And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;",
+      "metadata": {
+        "reference": "Nehemiah 11:4",
+        "verseKey": "kjv:nehemiah:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:nehemiah:11:5",
+      "numberLabel": "5",
+      "text": "And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.",
+      "metadata": {
+        "reference": "Nehemiah 11:5",
+        "verseKey": "kjv:nehemiah:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:nehemiah:11:6",
+      "numberLabel": "6",
+      "text": "All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men.",
+      "metadata": {
+        "reference": "Nehemiah 11:6",
+        "verseKey": "kjv:nehemiah:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:nehemiah:11:7",
+      "numberLabel": "7",
+      "text": "And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.",
+      "metadata": {
+        "reference": "Nehemiah 11:7",
+        "verseKey": "kjv:nehemiah:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:nehemiah:11:8",
+      "numberLabel": "8",
+      "text": "And after him Gabbai, Sallai, nine hundred twenty and eight.",
+      "metadata": {
+        "reference": "Nehemiah 11:8",
+        "verseKey": "kjv:nehemiah:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:nehemiah:11:9",
+      "numberLabel": "9",
+      "text": "And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.",
+      "metadata": {
+        "reference": "Nehemiah 11:9",
+        "verseKey": "kjv:nehemiah:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:nehemiah:11:10",
+      "numberLabel": "10",
+      "text": "Of the priests: Jedaiah the son of Joiarib, Jachin.",
+      "metadata": {
+        "reference": "Nehemiah 11:10",
+        "verseKey": "kjv:nehemiah:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:nehemiah:11:11",
+      "numberLabel": "11",
+      "text": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God.",
+      "metadata": {
+        "reference": "Nehemiah 11:11",
+        "verseKey": "kjv:nehemiah:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:nehemiah:11:12",
+      "numberLabel": "12",
+      "text": "And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
+      "metadata": {
+        "reference": "Nehemiah 11:12",
+        "verseKey": "kjv:nehemiah:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:nehemiah:11:13",
+      "numberLabel": "13",
+      "text": "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,",
+      "metadata": {
+        "reference": "Nehemiah 11:13",
+        "verseKey": "kjv:nehemiah:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:nehemiah:11:14",
+      "numberLabel": "14",
+      "text": "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men.",
+      "metadata": {
+        "reference": "Nehemiah 11:14",
+        "verseKey": "kjv:nehemiah:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:nehemiah:11:15",
+      "numberLabel": "15",
+      "text": "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;",
+      "metadata": {
+        "reference": "Nehemiah 11:15",
+        "verseKey": "kjv:nehemiah:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:nehemiah:11:16",
+      "numberLabel": "16",
+      "text": "And Shabbethai and Jozabad, of the chief of the Levites, had the oversight of the outward business of the house of God.",
+      "metadata": {
+        "reference": "Nehemiah 11:16",
+        "verseKey": "kjv:nehemiah:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:nehemiah:11:17",
+      "numberLabel": "17",
+      "text": "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.",
+      "metadata": {
+        "reference": "Nehemiah 11:17",
+        "verseKey": "kjv:nehemiah:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:nehemiah:11:18",
+      "numberLabel": "18",
+      "text": "All the Levites in the holy city were two hundred fourscore and four.",
+      "metadata": {
+        "reference": "Nehemiah 11:18",
+        "verseKey": "kjv:nehemiah:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:nehemiah:11:19",
+      "numberLabel": "19",
+      "text": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two.",
+      "metadata": {
+        "reference": "Nehemiah 11:19",
+        "verseKey": "kjv:nehemiah:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:nehemiah:11:20",
+      "numberLabel": "20",
+      "text": "And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.",
+      "metadata": {
+        "reference": "Nehemiah 11:20",
+        "verseKey": "kjv:nehemiah:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:nehemiah:11:21",
+      "numberLabel": "21",
+      "text": "But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.",
+      "metadata": {
+        "reference": "Nehemiah 11:21",
+        "verseKey": "kjv:nehemiah:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:nehemiah:11:22",
+      "numberLabel": "22",
+      "text": "The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers were over the business of the house of God.",
+      "metadata": {
+        "reference": "Nehemiah 11:22",
+        "verseKey": "kjv:nehemiah:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:nehemiah:11:23",
+      "numberLabel": "23",
+      "text": "For it was the king’s commandment concerning them, that a certain portion should be for the singers, due for every day.",
+      "metadata": {
+        "reference": "Nehemiah 11:23",
+        "verseKey": "kjv:nehemiah:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:nehemiah:11:24",
+      "numberLabel": "24",
+      "text": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king’s hand in all matters concerning the people.",
+      "metadata": {
+        "reference": "Nehemiah 11:24",
+        "verseKey": "kjv:nehemiah:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:nehemiah:11:25",
+      "numberLabel": "25",
+      "text": "And for the villages, with their fields, some of the children of Judah dwelt at Kirjatharba, and in the villages thereof, and at Dibon, and in the villages thereof, and at Jekabzeel, and in the villages thereof,",
+      "metadata": {
+        "reference": "Nehemiah 11:25",
+        "verseKey": "kjv:nehemiah:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:nehemiah:11:26",
+      "numberLabel": "26",
+      "text": "And at Jeshua, and at Moladah, and at Bethphelet,",
+      "metadata": {
+        "reference": "Nehemiah 11:26",
+        "verseKey": "kjv:nehemiah:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:nehemiah:11:27",
+      "numberLabel": "27",
+      "text": "And at Hazarshual, and at Beersheba, and in the villages thereof,",
+      "metadata": {
+        "reference": "Nehemiah 11:27",
+        "verseKey": "kjv:nehemiah:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:nehemiah:11:28",
+      "numberLabel": "28",
+      "text": "And at Ziklag, and at Mekonah, and in the villages thereof,",
+      "metadata": {
+        "reference": "Nehemiah 11:28",
+        "verseKey": "kjv:nehemiah:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:nehemiah:11:29",
+      "numberLabel": "29",
+      "text": "And at Enrimmon, and at Zareah, and at Jarmuth,",
+      "metadata": {
+        "reference": "Nehemiah 11:29",
+        "verseKey": "kjv:nehemiah:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:nehemiah:11:30",
+      "numberLabel": "30",
+      "text": "Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom.",
+      "metadata": {
+        "reference": "Nehemiah 11:30",
+        "verseKey": "kjv:nehemiah:11:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:nehemiah:11:31",
+      "numberLabel": "31",
+      "text": "The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages,",
+      "metadata": {
+        "reference": "Nehemiah 11:31",
+        "verseKey": "kjv:nehemiah:11:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:nehemiah:11:32",
+      "numberLabel": "32",
+      "text": "And at Anathoth, Nob, Ananiah,",
+      "metadata": {
+        "reference": "Nehemiah 11:32",
+        "verseKey": "kjv:nehemiah:11:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:nehemiah:11:33",
+      "numberLabel": "33",
+      "text": "Hazor, Ramah, Gittaim,",
+      "metadata": {
+        "reference": "Nehemiah 11:33",
+        "verseKey": "kjv:nehemiah:11:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:nehemiah:11:34",
+      "numberLabel": "34",
+      "text": "Hadid, Zeboim, Neballat,",
+      "metadata": {
+        "reference": "Nehemiah 11:34",
+        "verseKey": "kjv:nehemiah:11:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:nehemiah:11:35",
+      "numberLabel": "35",
+      "text": "Lod, and Ono, the valley of craftsmen.",
+      "metadata": {
+        "reference": "Nehemiah 11:35",
+        "verseKey": "kjv:nehemiah:11:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:nehemiah:11:36",
+      "numberLabel": "36",
+      "text": "And of the Levites were divisions in Judah, and in Benjamin.",
+      "metadata": {
+        "reference": "Nehemiah 11:36",
+        "verseKey": "kjv:nehemiah:11:36"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Nehemiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Nehemiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

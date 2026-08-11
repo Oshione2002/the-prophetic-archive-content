@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-143",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 143,
+  "title": "Psalms 143",
+  "display_title": "Psalms 143",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 143,
+  "sortOrder": 19143,
+  "verseCount": 12,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:143:1",
+      "numberLabel": "1",
+      "text": "Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.",
+      "metadata": {
+        "reference": "Psalms 143:1",
+        "verseKey": "kjv:psalms:143:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:143:2",
+      "numberLabel": "2",
+      "text": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified.",
+      "metadata": {
+        "reference": "Psalms 143:2",
+        "verseKey": "kjv:psalms:143:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:143:3",
+      "numberLabel": "3",
+      "text": "For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.",
+      "metadata": {
+        "reference": "Psalms 143:3",
+        "verseKey": "kjv:psalms:143:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:143:4",
+      "numberLabel": "4",
+      "text": "Therefore is my spirit overwhelmed within me; my heart within me is desolate.",
+      "metadata": {
+        "reference": "Psalms 143:4",
+        "verseKey": "kjv:psalms:143:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:143:5",
+      "numberLabel": "5",
+      "text": "I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.",
+      "metadata": {
+        "reference": "Psalms 143:5",
+        "verseKey": "kjv:psalms:143:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:143:6",
+      "numberLabel": "6",
+      "text": "I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah.",
+      "metadata": {
+        "reference": "Psalms 143:6",
+        "verseKey": "kjv:psalms:143:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:143:7",
+      "numberLabel": "7",
+      "text": "Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.",
+      "metadata": {
+        "reference": "Psalms 143:7",
+        "verseKey": "kjv:psalms:143:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:143:8",
+      "numberLabel": "8",
+      "text": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.",
+      "metadata": {
+        "reference": "Psalms 143:8",
+        "verseKey": "kjv:psalms:143:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:143:9",
+      "numberLabel": "9",
+      "text": "Deliver me, O LORD, from mine enemies: I flee unto thee to hide me.",
+      "metadata": {
+        "reference": "Psalms 143:9",
+        "verseKey": "kjv:psalms:143:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:143:10",
+      "numberLabel": "10",
+      "text": "Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness.",
+      "metadata": {
+        "reference": "Psalms 143:10",
+        "verseKey": "kjv:psalms:143:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:143:11",
+      "numberLabel": "11",
+      "text": "Quicken me, O LORD, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble.",
+      "metadata": {
+        "reference": "Psalms 143:11",
+        "verseKey": "kjv:psalms:143:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:143:12",
+      "numberLabel": "12",
+      "text": "And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant.",
+      "metadata": {
+        "reference": "Psalms 143:12",
+        "verseKey": "kjv:psalms:143:12"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

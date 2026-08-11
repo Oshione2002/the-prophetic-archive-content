@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-joshua-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "Joshua 18",
+  "display_title": "Joshua 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "joshua",
+  "book": "Joshua",
+  "bookName": "Joshua",
+  "bookOrder": 6,
+  "testament": "old",
+  "chapter": 18,
+  "sortOrder": 6018,
+  "verseCount": 28,
+  "aliases": [
+    "Josh",
+    "Jos"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:joshua:18:1",
+      "numberLabel": "1",
+      "text": "And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.",
+      "metadata": {
+        "reference": "Joshua 18:1",
+        "verseKey": "kjv:joshua:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:joshua:18:2",
+      "numberLabel": "2",
+      "text": "And there remained among the children of Israel seven tribes, which had not yet received their inheritance.",
+      "metadata": {
+        "reference": "Joshua 18:2",
+        "verseKey": "kjv:joshua:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:joshua:18:3",
+      "numberLabel": "3",
+      "text": "And Joshua said unto the children of Israel, How long are ye slack to go to possess the land, which the LORD God of your fathers hath given you?",
+      "metadata": {
+        "reference": "Joshua 18:3",
+        "verseKey": "kjv:joshua:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:joshua:18:4",
+      "numberLabel": "4",
+      "text": "Give out from among you three men for each tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come again to me.",
+      "metadata": {
+        "reference": "Joshua 18:4",
+        "verseKey": "kjv:joshua:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:joshua:18:5",
+      "numberLabel": "5",
+      "text": "And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north.",
+      "metadata": {
+        "reference": "Joshua 18:5",
+        "verseKey": "kjv:joshua:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:joshua:18:6",
+      "numberLabel": "6",
+      "text": "Ye shall therefore describe the land into seven parts, and bring the description hither to me, that I may cast lots for you here before the LORD our God.",
+      "metadata": {
+        "reference": "Joshua 18:6",
+        "verseKey": "kjv:joshua:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:joshua:18:7",
+      "numberLabel": "7",
+      "text": "But the Levites have no part among you; for the priesthood of the LORD is their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them.",
+      "metadata": {
+        "reference": "Joshua 18:7",
+        "verseKey": "kjv:joshua:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:joshua:18:8",
+      "numberLabel": "8",
+      "text": "And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.",
+      "metadata": {
+        "reference": "Joshua 18:8",
+        "verseKey": "kjv:joshua:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:joshua:18:9",
+      "numberLabel": "9",
+      "text": "And the men went and passed through the land, and described it by cities into seven parts in a book, and came again to Joshua to the host at Shiloh.",
+      "metadata": {
+        "reference": "Joshua 18:9",
+        "verseKey": "kjv:joshua:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:joshua:18:10",
+      "numberLabel": "10",
+      "text": "And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions.",
+      "metadata": {
+        "reference": "Joshua 18:10",
+        "verseKey": "kjv:joshua:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:joshua:18:11",
+      "numberLabel": "11",
+      "text": "And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.",
+      "metadata": {
+        "reference": "Joshua 18:11",
+        "verseKey": "kjv:joshua:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:joshua:18:12",
+      "numberLabel": "12",
+      "text": "And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Bethaven.",
+      "metadata": {
+        "reference": "Joshua 18:12",
+        "verseKey": "kjv:joshua:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:joshua:18:13",
+      "numberLabel": "13",
+      "text": "And the border went over from thence toward Luz, to the side of Luz, which is Bethel, southward; and the border descended to Atarothadar, near the hill that lieth on the south side of the nether Bethhoron.",
+      "metadata": {
+        "reference": "Joshua 18:13",
+        "verseKey": "kjv:joshua:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:joshua:18:14",
+      "numberLabel": "14",
+      "text": "And the border was drawn thence, and compassed the corner of the sea southward, from the hill that lieth before Bethhoron southward; and the goings out thereof were at Kirjathbaal, which is Kirjathjearim, a city of the children of Judah: this was the west quarter.",
+      "metadata": {
+        "reference": "Joshua 18:14",
+        "verseKey": "kjv:joshua:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:joshua:18:15",
+      "numberLabel": "15",
+      "text": "And the south quarter was from the end of Kirjathjearim, and the border went out on the west, and went out to the well of waters of Nephtoah:",
+      "metadata": {
+        "reference": "Joshua 18:15",
+        "verseKey": "kjv:joshua:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:joshua:18:16",
+      "numberLabel": "16",
+      "text": "And the border came down to the end of the mountain that lieth before the valley of the son of Hinnom, and which is in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel,",
+      "metadata": {
+        "reference": "Joshua 18:16",
+        "verseKey": "kjv:joshua:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:joshua:18:17",
+      "numberLabel": "17",
+      "text": "And was drawn from the north, and went forth to Enshemesh, and went forth toward Geliloth, which is over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,",
+      "metadata": {
+        "reference": "Joshua 18:17",
+        "verseKey": "kjv:joshua:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:joshua:18:18",
+      "numberLabel": "18",
+      "text": "And passed along toward the side over against Arabah northward, and went down unto Arabah:",
+      "metadata": {
+        "reference": "Joshua 18:18",
+        "verseKey": "kjv:joshua:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:joshua:18:19",
+      "numberLabel": "19",
+      "text": "And the border passed along to the side of Bethhoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan: this was the south coast.",
+      "metadata": {
+        "reference": "Joshua 18:19",
+        "verseKey": "kjv:joshua:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:joshua:18:20",
+      "numberLabel": "20",
+      "text": "And Jordan was the border of it on the east side. This was the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families.",
+      "metadata": {
+        "reference": "Joshua 18:20",
+        "verseKey": "kjv:joshua:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:joshua:18:21",
+      "numberLabel": "21",
+      "text": "Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Bethhoglah, and the valley of Keziz,",
+      "metadata": {
+        "reference": "Joshua 18:21",
+        "verseKey": "kjv:joshua:18:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:joshua:18:22",
+      "numberLabel": "22",
+      "text": "And Betharabah, and Zemaraim, and Bethel,",
+      "metadata": {
+        "reference": "Joshua 18:22",
+        "verseKey": "kjv:joshua:18:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:joshua:18:23",
+      "numberLabel": "23",
+      "text": "And Avim, and Parah, and Ophrah,",
+      "metadata": {
+        "reference": "Joshua 18:23",
+        "verseKey": "kjv:joshua:18:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:joshua:18:24",
+      "numberLabel": "24",
+      "text": "And Chepharhaammonai, and Ophni, and Gaba; twelve cities with their villages:",
+      "metadata": {
+        "reference": "Joshua 18:24",
+        "verseKey": "kjv:joshua:18:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:joshua:18:25",
+      "numberLabel": "25",
+      "text": "Gibeon, and Ramah, and Beeroth,",
+      "metadata": {
+        "reference": "Joshua 18:25",
+        "verseKey": "kjv:joshua:18:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:joshua:18:26",
+      "numberLabel": "26",
+      "text": "And Mizpeh, and Chephirah, and Mozah,",
+      "metadata": {
+        "reference": "Joshua 18:26",
+        "verseKey": "kjv:joshua:18:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:joshua:18:27",
+      "numberLabel": "27",
+      "text": "And Rekem, and Irpeel, and Taralah,",
+      "metadata": {
+        "reference": "Joshua 18:27",
+        "verseKey": "kjv:joshua:18:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:joshua:18:28",
+      "numberLabel": "28",
+      "text": "And Zelah, Eleph, and Jebusi, which is Jerusalem, Gibeath, and Kirjath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.",
+      "metadata": {
+        "reference": "Joshua 18:28",
+        "verseKey": "kjv:joshua:18:28"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Joshua.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Joshua.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

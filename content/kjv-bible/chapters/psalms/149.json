@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-149",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 149,
+  "title": "Psalms 149",
+  "display_title": "Psalms 149",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 149,
+  "sortOrder": 19149,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:149:1",
+      "numberLabel": "1",
+      "text": "Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints.",
+      "metadata": {
+        "reference": "Psalms 149:1",
+        "verseKey": "kjv:psalms:149:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:149:2",
+      "numberLabel": "2",
+      "text": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.",
+      "metadata": {
+        "reference": "Psalms 149:2",
+        "verseKey": "kjv:psalms:149:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:149:3",
+      "numberLabel": "3",
+      "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+      "metadata": {
+        "reference": "Psalms 149:3",
+        "verseKey": "kjv:psalms:149:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:149:4",
+      "numberLabel": "4",
+      "text": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation.",
+      "metadata": {
+        "reference": "Psalms 149:4",
+        "verseKey": "kjv:psalms:149:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:149:5",
+      "numberLabel": "5",
+      "text": "Let the saints be joyful in glory: let them sing aloud upon their beds.",
+      "metadata": {
+        "reference": "Psalms 149:5",
+        "verseKey": "kjv:psalms:149:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:149:6",
+      "numberLabel": "6",
+      "text": "Let the high praises of God be in their mouth, and a two-edged sword in their hand;",
+      "metadata": {
+        "reference": "Psalms 149:6",
+        "verseKey": "kjv:psalms:149:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:149:7",
+      "numberLabel": "7",
+      "text": "To execute vengeance upon the heathen, and punishments upon the people;",
+      "metadata": {
+        "reference": "Psalms 149:7",
+        "verseKey": "kjv:psalms:149:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:149:8",
+      "numberLabel": "8",
+      "text": "To bind their kings with chains, and their nobles with fetters of iron;",
+      "metadata": {
+        "reference": "Psalms 149:8",
+        "verseKey": "kjv:psalms:149:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:149:9",
+      "numberLabel": "9",
+      "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.",
+      "metadata": {
+        "reference": "Psalms 149:9",
+        "verseKey": "kjv:psalms:149:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

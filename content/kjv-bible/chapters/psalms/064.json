@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-064",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 64,
+  "title": "Psalms 64",
+  "display_title": "Psalms 64",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 64,
+  "sortOrder": 19064,
+  "verseCount": 10,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:64:1",
+      "numberLabel": "1",
+      "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+      "metadata": {
+        "reference": "Psalms 64:1",
+        "verseKey": "kjv:psalms:64:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:64:2",
+      "numberLabel": "2",
+      "text": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:",
+      "metadata": {
+        "reference": "Psalms 64:2",
+        "verseKey": "kjv:psalms:64:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:64:3",
+      "numberLabel": "3",
+      "text": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:",
+      "metadata": {
+        "reference": "Psalms 64:3",
+        "verseKey": "kjv:psalms:64:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:64:4",
+      "numberLabel": "4",
+      "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
+      "metadata": {
+        "reference": "Psalms 64:4",
+        "verseKey": "kjv:psalms:64:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:64:5",
+      "numberLabel": "5",
+      "text": "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?",
+      "metadata": {
+        "reference": "Psalms 64:5",
+        "verseKey": "kjv:psalms:64:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:64:6",
+      "numberLabel": "6",
+      "text": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.",
+      "metadata": {
+        "reference": "Psalms 64:6",
+        "verseKey": "kjv:psalms:64:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:64:7",
+      "numberLabel": "7",
+      "text": "But God shall shoot at them with an arrow; suddenly shall they be wounded.",
+      "metadata": {
+        "reference": "Psalms 64:7",
+        "verseKey": "kjv:psalms:64:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:64:8",
+      "numberLabel": "8",
+      "text": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away.",
+      "metadata": {
+        "reference": "Psalms 64:8",
+        "verseKey": "kjv:psalms:64:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:64:9",
+      "numberLabel": "9",
+      "text": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
+      "metadata": {
+        "reference": "Psalms 64:9",
+        "verseKey": "kjv:psalms:64:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:64:10",
+      "numberLabel": "10",
+      "text": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.",
+      "metadata": {
+        "reference": "Psalms 64:10",
+        "verseKey": "kjv:psalms:64:10"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

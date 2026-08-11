@@ -1,0 +1,635 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-018",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 18,
+  "title": "Psalms 18",
+  "display_title": "Psalms 18",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 18,
+  "sortOrder": 19018,
+  "verseCount": 50,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:18:1",
+      "numberLabel": "1",
+      "text": "I will love thee, O LORD, my strength.",
+      "metadata": {
+        "reference": "Psalms 18:1",
+        "verseKey": "kjv:psalms:18:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:18:2",
+      "numberLabel": "2",
+      "text": "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
+      "metadata": {
+        "reference": "Psalms 18:2",
+        "verseKey": "kjv:psalms:18:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:18:3",
+      "numberLabel": "3",
+      "text": "I will call upon the LORD, who is worthy to be praised: so shall I be saved from mine enemies.",
+      "metadata": {
+        "reference": "Psalms 18:3",
+        "verseKey": "kjv:psalms:18:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:18:4",
+      "numberLabel": "4",
+      "text": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
+      "metadata": {
+        "reference": "Psalms 18:4",
+        "verseKey": "kjv:psalms:18:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:18:5",
+      "numberLabel": "5",
+      "text": "The sorrows of hell compassed me about: the snares of death prevented me.",
+      "metadata": {
+        "reference": "Psalms 18:5",
+        "verseKey": "kjv:psalms:18:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:18:6",
+      "numberLabel": "6",
+      "text": "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
+      "metadata": {
+        "reference": "Psalms 18:6",
+        "verseKey": "kjv:psalms:18:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:18:7",
+      "numberLabel": "7",
+      "text": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.",
+      "metadata": {
+        "reference": "Psalms 18:7",
+        "verseKey": "kjv:psalms:18:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:18:8",
+      "numberLabel": "8",
+      "text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
+      "metadata": {
+        "reference": "Psalms 18:8",
+        "verseKey": "kjv:psalms:18:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:18:9",
+      "numberLabel": "9",
+      "text": "He bowed the heavens also, and came down: and darkness was under his feet.",
+      "metadata": {
+        "reference": "Psalms 18:9",
+        "verseKey": "kjv:psalms:18:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:18:10",
+      "numberLabel": "10",
+      "text": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.",
+      "metadata": {
+        "reference": "Psalms 18:10",
+        "verseKey": "kjv:psalms:18:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:18:11",
+      "numberLabel": "11",
+      "text": "He made darkness his secret place; his pavilion round about him were dark waters and thick clouds of the skies.",
+      "metadata": {
+        "reference": "Psalms 18:11",
+        "verseKey": "kjv:psalms:18:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:18:12",
+      "numberLabel": "12",
+      "text": "At the brightness that was before him his thick clouds passed, hail stones and coals of fire.",
+      "metadata": {
+        "reference": "Psalms 18:12",
+        "verseKey": "kjv:psalms:18:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:18:13",
+      "numberLabel": "13",
+      "text": "The LORD also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire.",
+      "metadata": {
+        "reference": "Psalms 18:13",
+        "verseKey": "kjv:psalms:18:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:18:14",
+      "numberLabel": "14",
+      "text": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.",
+      "metadata": {
+        "reference": "Psalms 18:14",
+        "verseKey": "kjv:psalms:18:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:18:15",
+      "numberLabel": "15",
+      "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils.",
+      "metadata": {
+        "reference": "Psalms 18:15",
+        "verseKey": "kjv:psalms:18:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:18:16",
+      "numberLabel": "16",
+      "text": "He sent from above, he took me, he drew me out of many waters.",
+      "metadata": {
+        "reference": "Psalms 18:16",
+        "verseKey": "kjv:psalms:18:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:18:17",
+      "numberLabel": "17",
+      "text": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.",
+      "metadata": {
+        "reference": "Psalms 18:17",
+        "verseKey": "kjv:psalms:18:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:18:18",
+      "numberLabel": "18",
+      "text": "They prevented me in the day of my calamity: but the LORD was my stay.",
+      "metadata": {
+        "reference": "Psalms 18:18",
+        "verseKey": "kjv:psalms:18:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:18:19",
+      "numberLabel": "19",
+      "text": "He brought me forth also into a large place; he delivered me, because he delighted in me.",
+      "metadata": {
+        "reference": "Psalms 18:19",
+        "verseKey": "kjv:psalms:18:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:18:20",
+      "numberLabel": "20",
+      "text": "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.",
+      "metadata": {
+        "reference": "Psalms 18:20",
+        "verseKey": "kjv:psalms:18:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:18:21",
+      "numberLabel": "21",
+      "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God.",
+      "metadata": {
+        "reference": "Psalms 18:21",
+        "verseKey": "kjv:psalms:18:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:18:22",
+      "numberLabel": "22",
+      "text": "For all his judgments were before me, and I did not put away his statutes from me.",
+      "metadata": {
+        "reference": "Psalms 18:22",
+        "verseKey": "kjv:psalms:18:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:18:23",
+      "numberLabel": "23",
+      "text": "I was also upright before him, and I kept myself from mine iniquity.",
+      "metadata": {
+        "reference": "Psalms 18:23",
+        "verseKey": "kjv:psalms:18:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:18:24",
+      "numberLabel": "24",
+      "text": "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.",
+      "metadata": {
+        "reference": "Psalms 18:24",
+        "verseKey": "kjv:psalms:18:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:18:25",
+      "numberLabel": "25",
+      "text": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;",
+      "metadata": {
+        "reference": "Psalms 18:25",
+        "verseKey": "kjv:psalms:18:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:18:26",
+      "numberLabel": "26",
+      "text": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.",
+      "metadata": {
+        "reference": "Psalms 18:26",
+        "verseKey": "kjv:psalms:18:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:18:27",
+      "numberLabel": "27",
+      "text": "For thou wilt save the afflicted people; but wilt bring down high looks.",
+      "metadata": {
+        "reference": "Psalms 18:27",
+        "verseKey": "kjv:psalms:18:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:18:28",
+      "numberLabel": "28",
+      "text": "For thou wilt light my candle: the LORD my God will enlighten my darkness.",
+      "metadata": {
+        "reference": "Psalms 18:28",
+        "verseKey": "kjv:psalms:18:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:psalms:18:29",
+      "numberLabel": "29",
+      "text": "For by thee I have run through a troop; and by my God have I leaped over a wall.",
+      "metadata": {
+        "reference": "Psalms 18:29",
+        "verseKey": "kjv:psalms:18:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:psalms:18:30",
+      "numberLabel": "30",
+      "text": "As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.",
+      "metadata": {
+        "reference": "Psalms 18:30",
+        "verseKey": "kjv:psalms:18:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:psalms:18:31",
+      "numberLabel": "31",
+      "text": "For who is God save the LORD? or who is a rock save our God?",
+      "metadata": {
+        "reference": "Psalms 18:31",
+        "verseKey": "kjv:psalms:18:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:psalms:18:32",
+      "numberLabel": "32",
+      "text": "It is God that girdeth me with strength, and maketh my way perfect.",
+      "metadata": {
+        "reference": "Psalms 18:32",
+        "verseKey": "kjv:psalms:18:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:psalms:18:33",
+      "numberLabel": "33",
+      "text": "He maketh my feet like hinds’ feet, and setteth me upon my high places.",
+      "metadata": {
+        "reference": "Psalms 18:33",
+        "verseKey": "kjv:psalms:18:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:psalms:18:34",
+      "numberLabel": "34",
+      "text": "He teacheth my hands to war, so that a bow of steel is broken by mine arms.",
+      "metadata": {
+        "reference": "Psalms 18:34",
+        "verseKey": "kjv:psalms:18:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:psalms:18:35",
+      "numberLabel": "35",
+      "text": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.",
+      "metadata": {
+        "reference": "Psalms 18:35",
+        "verseKey": "kjv:psalms:18:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:psalms:18:36",
+      "numberLabel": "36",
+      "text": "Thou hast enlarged my steps under me, that my feet did not slip.",
+      "metadata": {
+        "reference": "Psalms 18:36",
+        "verseKey": "kjv:psalms:18:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:psalms:18:37",
+      "numberLabel": "37",
+      "text": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.",
+      "metadata": {
+        "reference": "Psalms 18:37",
+        "verseKey": "kjv:psalms:18:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:psalms:18:38",
+      "numberLabel": "38",
+      "text": "I have wounded them that they were not able to rise: they are fallen under my feet.",
+      "metadata": {
+        "reference": "Psalms 18:38",
+        "verseKey": "kjv:psalms:18:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:psalms:18:39",
+      "numberLabel": "39",
+      "text": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
+      "metadata": {
+        "reference": "Psalms 18:39",
+        "verseKey": "kjv:psalms:18:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:psalms:18:40",
+      "numberLabel": "40",
+      "text": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me.",
+      "metadata": {
+        "reference": "Psalms 18:40",
+        "verseKey": "kjv:psalms:18:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:psalms:18:41",
+      "numberLabel": "41",
+      "text": "They cried, but there was none to save them: even unto the LORD, but he answered them not.",
+      "metadata": {
+        "reference": "Psalms 18:41",
+        "verseKey": "kjv:psalms:18:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:psalms:18:42",
+      "numberLabel": "42",
+      "text": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.",
+      "metadata": {
+        "reference": "Psalms 18:42",
+        "verseKey": "kjv:psalms:18:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:psalms:18:43",
+      "numberLabel": "43",
+      "text": "Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me.",
+      "metadata": {
+        "reference": "Psalms 18:43",
+        "verseKey": "kjv:psalms:18:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:psalms:18:44",
+      "numberLabel": "44",
+      "text": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.",
+      "metadata": {
+        "reference": "Psalms 18:44",
+        "verseKey": "kjv:psalms:18:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:psalms:18:45",
+      "numberLabel": "45",
+      "text": "The strangers shall fade away, and be afraid out of their close places.",
+      "metadata": {
+        "reference": "Psalms 18:45",
+        "verseKey": "kjv:psalms:18:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:psalms:18:46",
+      "numberLabel": "46",
+      "text": "The LORD liveth; and blessed be my rock; and let the God of my salvation be exalted.",
+      "metadata": {
+        "reference": "Psalms 18:46",
+        "verseKey": "kjv:psalms:18:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:psalms:18:47",
+      "numberLabel": "47",
+      "text": "It is God that avengeth me, and subdueth the people under me.",
+      "metadata": {
+        "reference": "Psalms 18:47",
+        "verseKey": "kjv:psalms:18:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:psalms:18:48",
+      "numberLabel": "48",
+      "text": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
+      "metadata": {
+        "reference": "Psalms 18:48",
+        "verseKey": "kjv:psalms:18:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:psalms:18:49",
+      "numberLabel": "49",
+      "text": "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.",
+      "metadata": {
+        "reference": "Psalms 18:49",
+        "verseKey": "kjv:psalms:18:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:psalms:18:50",
+      "numberLabel": "50",
+      "text": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.",
+      "metadata": {
+        "reference": "Psalms 18:50",
+        "verseKey": "kjv:psalms:18:50"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

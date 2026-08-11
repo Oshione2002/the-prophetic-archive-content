@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hosea-001",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 1,
+  "title": "Hosea 1",
+  "display_title": "Hosea 1",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hosea",
+  "book": "Hosea",
+  "bookName": "Hosea",
+  "bookOrder": 28,
+  "testament": "old",
+  "chapter": 1,
+  "sortOrder": 28001,
+  "verseCount": 11,
+  "aliases": [
+    "Hos",
+    "Ho"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hosea:1:1",
+      "numberLabel": "1",
+      "text": "The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+      "metadata": {
+        "reference": "Hosea 1:1",
+        "verseKey": "kjv:hosea:1:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hosea:1:2",
+      "numberLabel": "2",
+      "text": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.",
+      "metadata": {
+        "reference": "Hosea 1:2",
+        "verseKey": "kjv:hosea:1:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hosea:1:3",
+      "numberLabel": "3",
+      "text": "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.",
+      "metadata": {
+        "reference": "Hosea 1:3",
+        "verseKey": "kjv:hosea:1:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hosea:1:4",
+      "numberLabel": "4",
+      "text": "And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.",
+      "metadata": {
+        "reference": "Hosea 1:4",
+        "verseKey": "kjv:hosea:1:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hosea:1:5",
+      "numberLabel": "5",
+      "text": "And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.",
+      "metadata": {
+        "reference": "Hosea 1:5",
+        "verseKey": "kjv:hosea:1:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hosea:1:6",
+      "numberLabel": "6",
+      "text": "And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.",
+      "metadata": {
+        "reference": "Hosea 1:6",
+        "verseKey": "kjv:hosea:1:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hosea:1:7",
+      "numberLabel": "7",
+      "text": "But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.",
+      "metadata": {
+        "reference": "Hosea 1:7",
+        "verseKey": "kjv:hosea:1:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hosea:1:8",
+      "numberLabel": "8",
+      "text": "Now when she had weaned Loruhamah, she conceived, and bare a son.",
+      "metadata": {
+        "reference": "Hosea 1:8",
+        "verseKey": "kjv:hosea:1:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hosea:1:9",
+      "numberLabel": "9",
+      "text": "Then said God, Call his name Loammi: for ye are not my people, and I will not be your God.",
+      "metadata": {
+        "reference": "Hosea 1:9",
+        "verseKey": "kjv:hosea:1:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hosea:1:10",
+      "numberLabel": "10",
+      "text": "Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.",
+      "metadata": {
+        "reference": "Hosea 1:10",
+        "verseKey": "kjv:hosea:1:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hosea:1:11",
+      "numberLabel": "11",
+      "text": "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.",
+      "metadata": {
+        "reference": "Hosea 1:11",
+        "verseKey": "kjv:hosea:1:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hosea.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hosea.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

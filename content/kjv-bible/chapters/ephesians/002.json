@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-ephesians-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Ephesians 2",
+  "display_title": "Ephesians 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "ephesians",
+  "book": "Ephesians",
+  "bookName": "Ephesians",
+  "bookOrder": 49,
+  "testament": "new",
+  "chapter": 2,
+  "sortOrder": 49002,
+  "verseCount": 22,
+  "aliases": [
+    "Eph",
+    "Ephes"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:ephesians:2:1",
+      "numberLabel": "1",
+      "text": "And you hath he quickened, who were dead in trespasses and sins;",
+      "metadata": {
+        "reference": "Ephesians 2:1",
+        "verseKey": "kjv:ephesians:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:ephesians:2:2",
+      "numberLabel": "2",
+      "text": "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+      "metadata": {
+        "reference": "Ephesians 2:2",
+        "verseKey": "kjv:ephesians:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:ephesians:2:3",
+      "numberLabel": "3",
+      "text": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.",
+      "metadata": {
+        "reference": "Ephesians 2:3",
+        "verseKey": "kjv:ephesians:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:ephesians:2:4",
+      "numberLabel": "4",
+      "text": "But God, who is rich in mercy, for his great love wherewith he loved us,",
+      "metadata": {
+        "reference": "Ephesians 2:4",
+        "verseKey": "kjv:ephesians:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:ephesians:2:5",
+      "numberLabel": "5",
+      "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)",
+      "metadata": {
+        "reference": "Ephesians 2:5",
+        "verseKey": "kjv:ephesians:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:ephesians:2:6",
+      "numberLabel": "6",
+      "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:",
+      "metadata": {
+        "reference": "Ephesians 2:6",
+        "verseKey": "kjv:ephesians:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:ephesians:2:7",
+      "numberLabel": "7",
+      "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.",
+      "metadata": {
+        "reference": "Ephesians 2:7",
+        "verseKey": "kjv:ephesians:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:ephesians:2:8",
+      "numberLabel": "8",
+      "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:",
+      "metadata": {
+        "reference": "Ephesians 2:8",
+        "verseKey": "kjv:ephesians:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:ephesians:2:9",
+      "numberLabel": "9",
+      "text": "Not of works, lest any man should boast.",
+      "metadata": {
+        "reference": "Ephesians 2:9",
+        "verseKey": "kjv:ephesians:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:ephesians:2:10",
+      "numberLabel": "10",
+      "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+      "metadata": {
+        "reference": "Ephesians 2:10",
+        "verseKey": "kjv:ephesians:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:ephesians:2:11",
+      "numberLabel": "11",
+      "text": "Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;",
+      "metadata": {
+        "reference": "Ephesians 2:11",
+        "verseKey": "kjv:ephesians:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:ephesians:2:12",
+      "numberLabel": "12",
+      "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:",
+      "metadata": {
+        "reference": "Ephesians 2:12",
+        "verseKey": "kjv:ephesians:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:ephesians:2:13",
+      "numberLabel": "13",
+      "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.",
+      "metadata": {
+        "reference": "Ephesians 2:13",
+        "verseKey": "kjv:ephesians:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:ephesians:2:14",
+      "numberLabel": "14",
+      "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;",
+      "metadata": {
+        "reference": "Ephesians 2:14",
+        "verseKey": "kjv:ephesians:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:ephesians:2:15",
+      "numberLabel": "15",
+      "text": "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;",
+      "metadata": {
+        "reference": "Ephesians 2:15",
+        "verseKey": "kjv:ephesians:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:ephesians:2:16",
+      "numberLabel": "16",
+      "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:",
+      "metadata": {
+        "reference": "Ephesians 2:16",
+        "verseKey": "kjv:ephesians:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:ephesians:2:17",
+      "numberLabel": "17",
+      "text": "And came and preached peace to you which were afar off, and to them that were nigh.",
+      "metadata": {
+        "reference": "Ephesians 2:17",
+        "verseKey": "kjv:ephesians:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:ephesians:2:18",
+      "numberLabel": "18",
+      "text": "For through him we both have access by one Spirit unto the Father.",
+      "metadata": {
+        "reference": "Ephesians 2:18",
+        "verseKey": "kjv:ephesians:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:ephesians:2:19",
+      "numberLabel": "19",
+      "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+      "metadata": {
+        "reference": "Ephesians 2:19",
+        "verseKey": "kjv:ephesians:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:ephesians:2:20",
+      "numberLabel": "20",
+      "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;",
+      "metadata": {
+        "reference": "Ephesians 2:20",
+        "verseKey": "kjv:ephesians:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:ephesians:2:21",
+      "numberLabel": "21",
+      "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:",
+      "metadata": {
+        "reference": "Ephesians 2:21",
+        "verseKey": "kjv:ephesians:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:ephesians:2:22",
+      "numberLabel": "22",
+      "text": "In whom ye also are builded together for an habitation of God through the Spirit.",
+      "metadata": {
+        "reference": "Ephesians 2:22",
+        "verseKey": "kjv:ephesians:2:22"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Ephesians.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Ephesians.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

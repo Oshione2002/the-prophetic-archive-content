@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-samuel-026",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 26,
+  "title": "1 Samuel 26",
+  "display_title": "1 Samuel 26",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-samuel",
+  "book": "1 Samuel",
+  "bookName": "1 Samuel",
+  "bookOrder": 9,
+  "testament": "old",
+  "chapter": 26,
+  "sortOrder": 9026,
+  "verseCount": 25,
+  "aliases": [
+    "1 Sam",
+    "1Sam",
+    "1 Sa",
+    "1Sa"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-samuel:26:1",
+      "numberLabel": "1",
+      "text": "And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?",
+      "metadata": {
+        "reference": "1 Samuel 26:1",
+        "verseKey": "kjv:1-samuel:26:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-samuel:26:2",
+      "numberLabel": "2",
+      "text": "Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.",
+      "metadata": {
+        "reference": "1 Samuel 26:2",
+        "verseKey": "kjv:1-samuel:26:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-samuel:26:3",
+      "numberLabel": "3",
+      "text": "And Saul pitched in the hill of Hachilah, which is before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness.",
+      "metadata": {
+        "reference": "1 Samuel 26:3",
+        "verseKey": "kjv:1-samuel:26:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-samuel:26:4",
+      "numberLabel": "4",
+      "text": "David therefore sent out spies, and understood that Saul was come in very deed.",
+      "metadata": {
+        "reference": "1 Samuel 26:4",
+        "verseKey": "kjv:1-samuel:26:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-samuel:26:5",
+      "numberLabel": "5",
+      "text": "And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.",
+      "metadata": {
+        "reference": "1 Samuel 26:5",
+        "verseKey": "kjv:1-samuel:26:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-samuel:26:6",
+      "numberLabel": "6",
+      "text": "Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.",
+      "metadata": {
+        "reference": "1 Samuel 26:6",
+        "verseKey": "kjv:1-samuel:26:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-samuel:26:7",
+      "numberLabel": "7",
+      "text": "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.",
+      "metadata": {
+        "reference": "1 Samuel 26:7",
+        "verseKey": "kjv:1-samuel:26:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-samuel:26:8",
+      "numberLabel": "8",
+      "text": "Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not smite him the second time.",
+      "metadata": {
+        "reference": "1 Samuel 26:8",
+        "verseKey": "kjv:1-samuel:26:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-samuel:26:9",
+      "numberLabel": "9",
+      "text": "And David said to Abishai, Destroy him not: for who can stretch forth his hand against the LORD’s anointed, and be guiltless?",
+      "metadata": {
+        "reference": "1 Samuel 26:9",
+        "verseKey": "kjv:1-samuel:26:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-samuel:26:10",
+      "numberLabel": "10",
+      "text": "David said furthermore, As the LORD liveth, the LORD shall smite him; or his day shall come to die; or he shall descend into battle, and perish.",
+      "metadata": {
+        "reference": "1 Samuel 26:10",
+        "verseKey": "kjv:1-samuel:26:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-samuel:26:11",
+      "numberLabel": "11",
+      "text": "The LORD forbid that I should stretch forth mine hand against the LORD’s anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go.",
+      "metadata": {
+        "reference": "1 Samuel 26:11",
+        "verseKey": "kjv:1-samuel:26:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-samuel:26:12",
+      "numberLabel": "12",
+      "text": "So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw it, nor knew it, neither awaked: for they were all asleep; because a deep sleep from the LORD was fallen upon them.",
+      "metadata": {
+        "reference": "1 Samuel 26:12",
+        "verseKey": "kjv:1-samuel:26:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-samuel:26:13",
+      "numberLabel": "13",
+      "text": "Then David went over to the other side, and stood on the top of an hill afar off; a great space being between them:",
+      "metadata": {
+        "reference": "1 Samuel 26:13",
+        "verseKey": "kjv:1-samuel:26:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-samuel:26:14",
+      "numberLabel": "14",
+      "text": "And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who art thou that criest to the king?",
+      "metadata": {
+        "reference": "1 Samuel 26:14",
+        "verseKey": "kjv:1-samuel:26:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-samuel:26:15",
+      "numberLabel": "15",
+      "text": "And David said to Abner, Art not thou a valiant man? and who is like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord.",
+      "metadata": {
+        "reference": "1 Samuel 26:15",
+        "verseKey": "kjv:1-samuel:26:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-samuel:26:16",
+      "numberLabel": "16",
+      "text": "This thing is not good that thou hast done. As the LORD liveth, ye are worthy to die, because ye have not kept your master, the LORD’s anointed. And now see where the king’s spear is, and the cruse of water that was at his bolster.",
+      "metadata": {
+        "reference": "1 Samuel 26:16",
+        "verseKey": "kjv:1-samuel:26:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-samuel:26:17",
+      "numberLabel": "17",
+      "text": "And Saul knew David’s voice, and said, Is this thy voice, my son David? And David said, It is my voice, my lord, O king.",
+      "metadata": {
+        "reference": "1 Samuel 26:17",
+        "verseKey": "kjv:1-samuel:26:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-samuel:26:18",
+      "numberLabel": "18",
+      "text": "And he said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil is in mine hand?",
+      "metadata": {
+        "reference": "1 Samuel 26:18",
+        "verseKey": "kjv:1-samuel:26:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-samuel:26:19",
+      "numberLabel": "19",
+      "text": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.",
+      "metadata": {
+        "reference": "1 Samuel 26:19",
+        "verseKey": "kjv:1-samuel:26:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-samuel:26:20",
+      "numberLabel": "20",
+      "text": "Now therefore, let not my blood fall to the earth before the face of the LORD: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.",
+      "metadata": {
+        "reference": "1 Samuel 26:20",
+        "verseKey": "kjv:1-samuel:26:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-samuel:26:21",
+      "numberLabel": "21",
+      "text": "Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.",
+      "metadata": {
+        "reference": "1 Samuel 26:21",
+        "verseKey": "kjv:1-samuel:26:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-samuel:26:22",
+      "numberLabel": "22",
+      "text": "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it.",
+      "metadata": {
+        "reference": "1 Samuel 26:22",
+        "verseKey": "kjv:1-samuel:26:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-samuel:26:23",
+      "numberLabel": "23",
+      "text": "The LORD render to every man his righteousness and his faithfulness; for the LORD delivered thee into my hand to day, but I would not stretch forth mine hand against the LORD’s anointed.",
+      "metadata": {
+        "reference": "1 Samuel 26:23",
+        "verseKey": "kjv:1-samuel:26:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-samuel:26:24",
+      "numberLabel": "24",
+      "text": "And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation.",
+      "metadata": {
+        "reference": "1 Samuel 26:24",
+        "verseKey": "kjv:1-samuel:26:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-samuel:26:25",
+      "numberLabel": "25",
+      "text": "Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place.",
+      "metadata": {
+        "reference": "1 Samuel 26:25",
+        "verseKey": "kjv:1-samuel:26:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Samuel.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Samuel.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

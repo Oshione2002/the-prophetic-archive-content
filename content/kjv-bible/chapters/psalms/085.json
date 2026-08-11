@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-085",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 85,
+  "title": "Psalms 85",
+  "display_title": "Psalms 85",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 85,
+  "sortOrder": 19085,
+  "verseCount": 13,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:85:1",
+      "numberLabel": "1",
+      "text": "Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
+      "metadata": {
+        "reference": "Psalms 85:1",
+        "verseKey": "kjv:psalms:85:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:85:2",
+      "numberLabel": "2",
+      "text": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.",
+      "metadata": {
+        "reference": "Psalms 85:2",
+        "verseKey": "kjv:psalms:85:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:85:3",
+      "numberLabel": "3",
+      "text": "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger.",
+      "metadata": {
+        "reference": "Psalms 85:3",
+        "verseKey": "kjv:psalms:85:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:85:4",
+      "numberLabel": "4",
+      "text": "Turn us, O God of our salvation, and cause thine anger toward us to cease.",
+      "metadata": {
+        "reference": "Psalms 85:4",
+        "verseKey": "kjv:psalms:85:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:85:5",
+      "numberLabel": "5",
+      "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?",
+      "metadata": {
+        "reference": "Psalms 85:5",
+        "verseKey": "kjv:psalms:85:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:85:6",
+      "numberLabel": "6",
+      "text": "Wilt thou not revive us again: that thy people may rejoice in thee?",
+      "metadata": {
+        "reference": "Psalms 85:6",
+        "verseKey": "kjv:psalms:85:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:85:7",
+      "numberLabel": "7",
+      "text": "Shew us thy mercy, O LORD, and grant us thy salvation.",
+      "metadata": {
+        "reference": "Psalms 85:7",
+        "verseKey": "kjv:psalms:85:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:85:8",
+      "numberLabel": "8",
+      "text": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+      "metadata": {
+        "reference": "Psalms 85:8",
+        "verseKey": "kjv:psalms:85:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:85:9",
+      "numberLabel": "9",
+      "text": "Surely his salvation is nigh them that fear him; that glory may dwell in our land.",
+      "metadata": {
+        "reference": "Psalms 85:9",
+        "verseKey": "kjv:psalms:85:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:85:10",
+      "numberLabel": "10",
+      "text": "Mercy and truth are met together; righteousness and peace have kissed each other.",
+      "metadata": {
+        "reference": "Psalms 85:10",
+        "verseKey": "kjv:psalms:85:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:85:11",
+      "numberLabel": "11",
+      "text": "Truth shall spring out of the earth; and righteousness shall look down from heaven.",
+      "metadata": {
+        "reference": "Psalms 85:11",
+        "verseKey": "kjv:psalms:85:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:85:12",
+      "numberLabel": "12",
+      "text": "Yea, the LORD shall give that which is good; and our land shall yield her increase.",
+      "metadata": {
+        "reference": "Psalms 85:12",
+        "verseKey": "kjv:psalms:85:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:85:13",
+      "numberLabel": "13",
+      "text": "Righteousness shall go before him; and shall set us in the way of his steps.",
+      "metadata": {
+        "reference": "Psalms 85:13",
+        "verseKey": "kjv:psalms:85:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

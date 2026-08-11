@@ -1,0 +1,514 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-1-chronicles-012",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 12,
+  "title": "1 Chronicles 12",
+  "display_title": "1 Chronicles 12",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "1-chronicles",
+  "book": "1 Chronicles",
+  "bookName": "1 Chronicles",
+  "bookOrder": 13,
+  "testament": "old",
+  "chapter": 12,
+  "sortOrder": 13012,
+  "verseCount": 40,
+  "aliases": [
+    "1 Chr",
+    "1Chr",
+    "1 Ch",
+    "1Ch"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:1-chronicles:12:1",
+      "numberLabel": "1",
+      "text": "Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.",
+      "metadata": {
+        "reference": "1 Chronicles 12:1",
+        "verseKey": "kjv:1-chronicles:12:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:1-chronicles:12:2",
+      "numberLabel": "2",
+      "text": "They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul’s brethren of Benjamin.",
+      "metadata": {
+        "reference": "1 Chronicles 12:2",
+        "verseKey": "kjv:1-chronicles:12:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:1-chronicles:12:3",
+      "numberLabel": "3",
+      "text": "The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Antothite,",
+      "metadata": {
+        "reference": "1 Chronicles 12:3",
+        "verseKey": "kjv:1-chronicles:12:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:1-chronicles:12:4",
+      "numberLabel": "4",
+      "text": "And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,",
+      "metadata": {
+        "reference": "1 Chronicles 12:4",
+        "verseKey": "kjv:1-chronicles:12:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:1-chronicles:12:5",
+      "numberLabel": "5",
+      "text": "Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,",
+      "metadata": {
+        "reference": "1 Chronicles 12:5",
+        "verseKey": "kjv:1-chronicles:12:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:1-chronicles:12:6",
+      "numberLabel": "6",
+      "text": "Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites,",
+      "metadata": {
+        "reference": "1 Chronicles 12:6",
+        "verseKey": "kjv:1-chronicles:12:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:1-chronicles:12:7",
+      "numberLabel": "7",
+      "text": "And Joelah, and Zebadiah, the sons of Jeroham of Gedor.",
+      "metadata": {
+        "reference": "1 Chronicles 12:7",
+        "verseKey": "kjv:1-chronicles:12:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:1-chronicles:12:8",
+      "numberLabel": "8",
+      "text": "And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;",
+      "metadata": {
+        "reference": "1 Chronicles 12:8",
+        "verseKey": "kjv:1-chronicles:12:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:1-chronicles:12:9",
+      "numberLabel": "9",
+      "text": "Ezer the first, Obadiah the second, Eliab the third,",
+      "metadata": {
+        "reference": "1 Chronicles 12:9",
+        "verseKey": "kjv:1-chronicles:12:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:1-chronicles:12:10",
+      "numberLabel": "10",
+      "text": "Mishmannah the fourth, Jeremiah the fifth,",
+      "metadata": {
+        "reference": "1 Chronicles 12:10",
+        "verseKey": "kjv:1-chronicles:12:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:1-chronicles:12:11",
+      "numberLabel": "11",
+      "text": "Attai the sixth, Eliel the seventh,",
+      "metadata": {
+        "reference": "1 Chronicles 12:11",
+        "verseKey": "kjv:1-chronicles:12:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:1-chronicles:12:12",
+      "numberLabel": "12",
+      "text": "Johanan the eighth, Elzabad the ninth,",
+      "metadata": {
+        "reference": "1 Chronicles 12:12",
+        "verseKey": "kjv:1-chronicles:12:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:1-chronicles:12:13",
+      "numberLabel": "13",
+      "text": "Jeremiah the tenth, Machbanai the eleventh.",
+      "metadata": {
+        "reference": "1 Chronicles 12:13",
+        "verseKey": "kjv:1-chronicles:12:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:1-chronicles:12:14",
+      "numberLabel": "14",
+      "text": "These were of the sons of Gad, captains of the host: one of the least was over an hundred, and the greatest over a thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 12:14",
+        "verseKey": "kjv:1-chronicles:12:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:1-chronicles:12:15",
+      "numberLabel": "15",
+      "text": "These are they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west.",
+      "metadata": {
+        "reference": "1 Chronicles 12:15",
+        "verseKey": "kjv:1-chronicles:12:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:1-chronicles:12:16",
+      "numberLabel": "16",
+      "text": "And there came of the children of Benjamin and Judah to the hold unto David.",
+      "metadata": {
+        "reference": "1 Chronicles 12:16",
+        "verseKey": "kjv:1-chronicles:12:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:1-chronicles:12:17",
+      "numberLabel": "17",
+      "text": "And David went out to meet them, and answered and said unto them, If ye be come peaceably unto me to help me, mine heart shall be knit unto you: but if ye be come to betray me to mine enemies, seeing there is no wrong in mine hands, the God of our fathers look thereon, and rebuke it.",
+      "metadata": {
+        "reference": "1 Chronicles 12:17",
+        "verseKey": "kjv:1-chronicles:12:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:1-chronicles:12:18",
+      "numberLabel": "18",
+      "text": "Then the spirit came upon Amasai, who was chief of the captains, and he said, Thine are we, David, and on thy side, thou son of Jesse: peace, peace be unto thee, and peace be to thine helpers; for thy God helpeth thee. Then David received them, and made them captains of the band.",
+      "metadata": {
+        "reference": "1 Chronicles 12:18",
+        "verseKey": "kjv:1-chronicles:12:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:1-chronicles:12:19",
+      "numberLabel": "19",
+      "text": "And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to the jeopardy of our heads.",
+      "metadata": {
+        "reference": "1 Chronicles 12:19",
+        "verseKey": "kjv:1-chronicles:12:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:1-chronicles:12:20",
+      "numberLabel": "20",
+      "text": "As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh.",
+      "metadata": {
+        "reference": "1 Chronicles 12:20",
+        "verseKey": "kjv:1-chronicles:12:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:1-chronicles:12:21",
+      "numberLabel": "21",
+      "text": "And they helped David against the band of the rovers: for they were all mighty men of valour, and were captains in the host.",
+      "metadata": {
+        "reference": "1 Chronicles 12:21",
+        "verseKey": "kjv:1-chronicles:12:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:1-chronicles:12:22",
+      "numberLabel": "22",
+      "text": "For at that time day by day there came to David to help him, until it was a great host, like the host of God.",
+      "metadata": {
+        "reference": "1 Chronicles 12:22",
+        "verseKey": "kjv:1-chronicles:12:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:1-chronicles:12:23",
+      "numberLabel": "23",
+      "text": "And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.",
+      "metadata": {
+        "reference": "1 Chronicles 12:23",
+        "verseKey": "kjv:1-chronicles:12:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:1-chronicles:12:24",
+      "numberLabel": "24",
+      "text": "The children of Judah that bare shield and spear were six thousand and eight hundred, ready armed to the war.",
+      "metadata": {
+        "reference": "1 Chronicles 12:24",
+        "verseKey": "kjv:1-chronicles:12:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:1-chronicles:12:25",
+      "numberLabel": "25",
+      "text": "Of the children of Simeon, mighty men of valour for the war, seven thousand and one hundred.",
+      "metadata": {
+        "reference": "1 Chronicles 12:25",
+        "verseKey": "kjv:1-chronicles:12:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:1-chronicles:12:26",
+      "numberLabel": "26",
+      "text": "Of the children of Levi four thousand and six hundred.",
+      "metadata": {
+        "reference": "1 Chronicles 12:26",
+        "verseKey": "kjv:1-chronicles:12:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:1-chronicles:12:27",
+      "numberLabel": "27",
+      "text": "And Jehoiada was the leader of the Aaronites, and with him were three thousand and seven hundred;",
+      "metadata": {
+        "reference": "1 Chronicles 12:27",
+        "verseKey": "kjv:1-chronicles:12:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:1-chronicles:12:28",
+      "numberLabel": "28",
+      "text": "And Zadok, a young man mighty of valour, and of his father’s house twenty and two captains.",
+      "metadata": {
+        "reference": "1 Chronicles 12:28",
+        "verseKey": "kjv:1-chronicles:12:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:1-chronicles:12:29",
+      "numberLabel": "29",
+      "text": "And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.",
+      "metadata": {
+        "reference": "1 Chronicles 12:29",
+        "verseKey": "kjv:1-chronicles:12:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:1-chronicles:12:30",
+      "numberLabel": "30",
+      "text": "And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.",
+      "metadata": {
+        "reference": "1 Chronicles 12:30",
+        "verseKey": "kjv:1-chronicles:12:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:1-chronicles:12:31",
+      "numberLabel": "31",
+      "text": "And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.",
+      "metadata": {
+        "reference": "1 Chronicles 12:31",
+        "verseKey": "kjv:1-chronicles:12:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:1-chronicles:12:32",
+      "numberLabel": "32",
+      "text": "And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment.",
+      "metadata": {
+        "reference": "1 Chronicles 12:32",
+        "verseKey": "kjv:1-chronicles:12:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:1-chronicles:12:33",
+      "numberLabel": "33",
+      "text": "Of Zebulun, such as went forth to battle, expert in war, with all instruments of war, fifty thousand, which could keep rank: they were not of double heart.",
+      "metadata": {
+        "reference": "1 Chronicles 12:33",
+        "verseKey": "kjv:1-chronicles:12:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:1-chronicles:12:34",
+      "numberLabel": "34",
+      "text": "And of Naphtali a thousand captains, and with them with shield and spear thirty and seven thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 12:34",
+        "verseKey": "kjv:1-chronicles:12:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:1-chronicles:12:35",
+      "numberLabel": "35",
+      "text": "And of the Danites expert in war twenty and eight thousand and six hundred.",
+      "metadata": {
+        "reference": "1 Chronicles 12:35",
+        "verseKey": "kjv:1-chronicles:12:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:1-chronicles:12:36",
+      "numberLabel": "36",
+      "text": "And of Asher, such as went forth to battle, expert in war, forty thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 12:36",
+        "verseKey": "kjv:1-chronicles:12:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:1-chronicles:12:37",
+      "numberLabel": "37",
+      "text": "And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.",
+      "metadata": {
+        "reference": "1 Chronicles 12:37",
+        "verseKey": "kjv:1-chronicles:12:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:1-chronicles:12:38",
+      "numberLabel": "38",
+      "text": "All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.",
+      "metadata": {
+        "reference": "1 Chronicles 12:38",
+        "verseKey": "kjv:1-chronicles:12:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:1-chronicles:12:39",
+      "numberLabel": "39",
+      "text": "And there they were with David three days, eating and drinking: for their brethren had prepared for them.",
+      "metadata": {
+        "reference": "1 Chronicles 12:39",
+        "verseKey": "kjv:1-chronicles:12:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:1-chronicles:12:40",
+      "numberLabel": "40",
+      "text": "Moreover they that were nigh them, even unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel.",
+      "metadata": {
+        "reference": "1 Chronicles 12:40",
+        "verseKey": "kjv:1-chronicles:12:40"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "1Chronicles.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/1Chronicles.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

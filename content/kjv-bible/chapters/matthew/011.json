@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-matthew-011",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 11,
+  "title": "Matthew 11",
+  "display_title": "Matthew 11",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "matthew",
+  "book": "Matthew",
+  "bookName": "Matthew",
+  "bookOrder": 40,
+  "testament": "new",
+  "chapter": 11,
+  "sortOrder": 40011,
+  "verseCount": 30,
+  "aliases": [
+    "Matt",
+    "Mt"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:matthew:11:1",
+      "numberLabel": "1",
+      "text": "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.",
+      "metadata": {
+        "reference": "Matthew 11:1",
+        "verseKey": "kjv:matthew:11:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:matthew:11:2",
+      "numberLabel": "2",
+      "text": "Now when John had heard in the prison the works of Christ, he sent two of his disciples,",
+      "metadata": {
+        "reference": "Matthew 11:2",
+        "verseKey": "kjv:matthew:11:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:matthew:11:3",
+      "numberLabel": "3",
+      "text": "And said unto him, Art thou he that should come, or do we look for another?",
+      "metadata": {
+        "reference": "Matthew 11:3",
+        "verseKey": "kjv:matthew:11:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:matthew:11:4",
+      "numberLabel": "4",
+      "text": "Jesus answered and said unto them, Go and shew John again those things which ye do hear and see:",
+      "metadata": {
+        "reference": "Matthew 11:4",
+        "verseKey": "kjv:matthew:11:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:matthew:11:5",
+      "numberLabel": "5",
+      "text": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.",
+      "metadata": {
+        "reference": "Matthew 11:5",
+        "verseKey": "kjv:matthew:11:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:matthew:11:6",
+      "numberLabel": "6",
+      "text": "And blessed is he, whosoever shall not be offended in me.",
+      "metadata": {
+        "reference": "Matthew 11:6",
+        "verseKey": "kjv:matthew:11:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:matthew:11:7",
+      "numberLabel": "7",
+      "text": "And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?",
+      "metadata": {
+        "reference": "Matthew 11:7",
+        "verseKey": "kjv:matthew:11:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:matthew:11:8",
+      "numberLabel": "8",
+      "text": "But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses.",
+      "metadata": {
+        "reference": "Matthew 11:8",
+        "verseKey": "kjv:matthew:11:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:matthew:11:9",
+      "numberLabel": "9",
+      "text": "But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet.",
+      "metadata": {
+        "reference": "Matthew 11:9",
+        "verseKey": "kjv:matthew:11:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:matthew:11:10",
+      "numberLabel": "10",
+      "text": "For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+      "metadata": {
+        "reference": "Matthew 11:10",
+        "verseKey": "kjv:matthew:11:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:matthew:11:11",
+      "numberLabel": "11",
+      "text": "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.",
+      "metadata": {
+        "reference": "Matthew 11:11",
+        "verseKey": "kjv:matthew:11:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:matthew:11:12",
+      "numberLabel": "12",
+      "text": "And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.",
+      "metadata": {
+        "reference": "Matthew 11:12",
+        "verseKey": "kjv:matthew:11:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:matthew:11:13",
+      "numberLabel": "13",
+      "text": "For all the prophets and the law prophesied until John.",
+      "metadata": {
+        "reference": "Matthew 11:13",
+        "verseKey": "kjv:matthew:11:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:matthew:11:14",
+      "numberLabel": "14",
+      "text": "And if ye will receive it, this is Elias, which was for to come.",
+      "metadata": {
+        "reference": "Matthew 11:14",
+        "verseKey": "kjv:matthew:11:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:matthew:11:15",
+      "numberLabel": "15",
+      "text": "He that hath ears to hear, let him hear.",
+      "metadata": {
+        "reference": "Matthew 11:15",
+        "verseKey": "kjv:matthew:11:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:matthew:11:16",
+      "numberLabel": "16",
+      "text": "But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows,",
+      "metadata": {
+        "reference": "Matthew 11:16",
+        "verseKey": "kjv:matthew:11:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:matthew:11:17",
+      "numberLabel": "17",
+      "text": "And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented.",
+      "metadata": {
+        "reference": "Matthew 11:17",
+        "verseKey": "kjv:matthew:11:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:matthew:11:18",
+      "numberLabel": "18",
+      "text": "For John came neither eating nor drinking, and they say, He hath a devil.",
+      "metadata": {
+        "reference": "Matthew 11:18",
+        "verseKey": "kjv:matthew:11:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:matthew:11:19",
+      "numberLabel": "19",
+      "text": "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.",
+      "metadata": {
+        "reference": "Matthew 11:19",
+        "verseKey": "kjv:matthew:11:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:matthew:11:20",
+      "numberLabel": "20",
+      "text": "Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:",
+      "metadata": {
+        "reference": "Matthew 11:20",
+        "verseKey": "kjv:matthew:11:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:matthew:11:21",
+      "numberLabel": "21",
+      "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
+      "metadata": {
+        "reference": "Matthew 11:21",
+        "verseKey": "kjv:matthew:11:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:matthew:11:22",
+      "numberLabel": "22",
+      "text": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.",
+      "metadata": {
+        "reference": "Matthew 11:22",
+        "verseKey": "kjv:matthew:11:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:matthew:11:23",
+      "numberLabel": "23",
+      "text": "And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.",
+      "metadata": {
+        "reference": "Matthew 11:23",
+        "verseKey": "kjv:matthew:11:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:matthew:11:24",
+      "numberLabel": "24",
+      "text": "But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.",
+      "metadata": {
+        "reference": "Matthew 11:24",
+        "verseKey": "kjv:matthew:11:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:matthew:11:25",
+      "numberLabel": "25",
+      "text": "At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.",
+      "metadata": {
+        "reference": "Matthew 11:25",
+        "verseKey": "kjv:matthew:11:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:matthew:11:26",
+      "numberLabel": "26",
+      "text": "Even so, Father: for so it seemed good in thy sight.",
+      "metadata": {
+        "reference": "Matthew 11:26",
+        "verseKey": "kjv:matthew:11:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:matthew:11:27",
+      "numberLabel": "27",
+      "text": "All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him.",
+      "metadata": {
+        "reference": "Matthew 11:27",
+        "verseKey": "kjv:matthew:11:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:matthew:11:28",
+      "numberLabel": "28",
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "metadata": {
+        "reference": "Matthew 11:28",
+        "verseKey": "kjv:matthew:11:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:matthew:11:29",
+      "numberLabel": "29",
+      "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+      "metadata": {
+        "reference": "Matthew 11:29",
+        "verseKey": "kjv:matthew:11:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:matthew:11:30",
+      "numberLabel": "30",
+      "text": "For my yoke is easy, and my burden is light.",
+      "metadata": {
+        "reference": "Matthew 11:30",
+        "verseKey": "kjv:matthew:11:30"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Matthew.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Matthew.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

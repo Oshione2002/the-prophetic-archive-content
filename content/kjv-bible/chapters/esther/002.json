@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-esther-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Esther 2",
+  "display_title": "Esther 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "esther",
+  "book": "Esther",
+  "bookName": "Esther",
+  "bookOrder": 17,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 17002,
+  "verseCount": 23,
+  "aliases": [
+    "Esth",
+    "Est"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:esther:2:1",
+      "numberLabel": "1",
+      "text": "After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her.",
+      "metadata": {
+        "reference": "Esther 2:1",
+        "verseKey": "kjv:esther:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:esther:2:2",
+      "numberLabel": "2",
+      "text": "Then said the king’s servants that ministered unto him, Let there be fair young virgins sought for the king:",
+      "metadata": {
+        "reference": "Esther 2:2",
+        "verseKey": "kjv:esther:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:esther:2:3",
+      "numberLabel": "3",
+      "text": "And let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of Hege the king’s chamberlain, keeper of the women; and let their things for purification be given them:",
+      "metadata": {
+        "reference": "Esther 2:3",
+        "verseKey": "kjv:esther:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:esther:2:4",
+      "numberLabel": "4",
+      "text": "And let the maiden which pleaseth the king be queen instead of Vashti. And the thing pleased the king; and he did so.",
+      "metadata": {
+        "reference": "Esther 2:4",
+        "verseKey": "kjv:esther:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:esther:2:5",
+      "numberLabel": "5",
+      "text": "Now in Shushan the palace there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;",
+      "metadata": {
+        "reference": "Esther 2:5",
+        "verseKey": "kjv:esther:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:esther:2:6",
+      "numberLabel": "6",
+      "text": "Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.",
+      "metadata": {
+        "reference": "Esther 2:6",
+        "verseKey": "kjv:esther:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:esther:2:7",
+      "numberLabel": "7",
+      "text": "And he brought up Hadassah, that is, Esther, his uncle’s daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.",
+      "metadata": {
+        "reference": "Esther 2:7",
+        "verseKey": "kjv:esther:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:esther:2:8",
+      "numberLabel": "8",
+      "text": "So it came to pass, when the king’s commandment and his decree was heard, and when many maidens were gathered together unto Shushan the palace, to the custody of Hegai, that Esther was brought also unto the king’s house, to the custody of Hegai, keeper of the women.",
+      "metadata": {
+        "reference": "Esther 2:8",
+        "verseKey": "kjv:esther:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:esther:2:9",
+      "numberLabel": "9",
+      "text": "And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, which were meet to be given her, out of the king’s house: and he preferred her and her maids unto the best place of the house of the women.",
+      "metadata": {
+        "reference": "Esther 2:9",
+        "verseKey": "kjv:esther:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:esther:2:10",
+      "numberLabel": "10",
+      "text": "Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it.",
+      "metadata": {
+        "reference": "Esther 2:10",
+        "verseKey": "kjv:esther:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:esther:2:11",
+      "numberLabel": "11",
+      "text": "And Mordecai walked every day before the court of the women’s house, to know how Esther did, and what should become of her.",
+      "metadata": {
+        "reference": "Esther 2:11",
+        "verseKey": "kjv:esther:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:esther:2:12",
+      "numberLabel": "12",
+      "text": "Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished, to wit, six months with oil of myrrh, and six months with sweet odours, and with other things for the purifying of the women;)",
+      "metadata": {
+        "reference": "Esther 2:12",
+        "verseKey": "kjv:esther:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:esther:2:13",
+      "numberLabel": "13",
+      "text": "Then thus came every maiden unto the king; whatsoever she desired was given her to go with her out of the house of the women unto the king’s house.",
+      "metadata": {
+        "reference": "Esther 2:13",
+        "verseKey": "kjv:esther:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:esther:2:14",
+      "numberLabel": "14",
+      "text": "In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king’s chamberlain, which kept the concubines: she came in unto the king no more, except the king delighted in her, and that she were called by name.",
+      "metadata": {
+        "reference": "Esther 2:14",
+        "verseKey": "kjv:esther:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:esther:2:15",
+      "numberLabel": "15",
+      "text": "Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Hegai the king’s chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her.",
+      "metadata": {
+        "reference": "Esther 2:15",
+        "verseKey": "kjv:esther:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:esther:2:16",
+      "numberLabel": "16",
+      "text": "So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which is the month Tebeth, in the seventh year of his reign.",
+      "metadata": {
+        "reference": "Esther 2:16",
+        "verseKey": "kjv:esther:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:esther:2:17",
+      "numberLabel": "17",
+      "text": "And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti.",
+      "metadata": {
+        "reference": "Esther 2:17",
+        "verseKey": "kjv:esther:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:esther:2:18",
+      "numberLabel": "18",
+      "text": "Then the king made a great feast unto all his princes and his servants, even Esther’s feast; and he made a release to the provinces, and gave gifts, according to the state of the king.",
+      "metadata": {
+        "reference": "Esther 2:18",
+        "verseKey": "kjv:esther:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:esther:2:19",
+      "numberLabel": "19",
+      "text": "And when the virgins were gathered together the second time, then Mordecai sat in the king’s gate.",
+      "metadata": {
+        "reference": "Esther 2:19",
+        "verseKey": "kjv:esther:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:esther:2:20",
+      "numberLabel": "20",
+      "text": "Esther had not yet shewed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.",
+      "metadata": {
+        "reference": "Esther 2:20",
+        "verseKey": "kjv:esther:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:esther:2:21",
+      "numberLabel": "21",
+      "text": "In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.",
+      "metadata": {
+        "reference": "Esther 2:21",
+        "verseKey": "kjv:esther:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:esther:2:22",
+      "numberLabel": "22",
+      "text": "And the thing was known to Mordecai, who told it unto Esther the queen; and Esther certified the king thereof in Mordecai’s name.",
+      "metadata": {
+        "reference": "Esther 2:22",
+        "verseKey": "kjv:esther:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:esther:2:23",
+      "numberLabel": "23",
+      "text": "And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king.",
+      "metadata": {
+        "reference": "Esther 2:23",
+        "verseKey": "kjv:esther:2:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Esther.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Esther.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

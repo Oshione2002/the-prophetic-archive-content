@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-esther-008",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 8,
+  "title": "Esther 8",
+  "display_title": "Esther 8",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "esther",
+  "book": "Esther",
+  "bookName": "Esther",
+  "bookOrder": 17,
+  "testament": "old",
+  "chapter": 8,
+  "sortOrder": 17008,
+  "verseCount": 17,
+  "aliases": [
+    "Esth",
+    "Est"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:esther:8:1",
+      "numberLabel": "1",
+      "text": "On that day did the king Ahasuerus give the house of Haman the Jews’ enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her.",
+      "metadata": {
+        "reference": "Esther 8:1",
+        "verseKey": "kjv:esther:8:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:esther:8:2",
+      "numberLabel": "2",
+      "text": "And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman.",
+      "metadata": {
+        "reference": "Esther 8:2",
+        "verseKey": "kjv:esther:8:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:esther:8:3",
+      "numberLabel": "3",
+      "text": "And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.",
+      "metadata": {
+        "reference": "Esther 8:3",
+        "verseKey": "kjv:esther:8:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:esther:8:4",
+      "numberLabel": "4",
+      "text": "Then the king held out the golden sceptre toward Esther. So Esther arose, and stood before the king,",
+      "metadata": {
+        "reference": "Esther 8:4",
+        "verseKey": "kjv:esther:8:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:esther:8:5",
+      "numberLabel": "5",
+      "text": "And said, If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which are in all the king’s provinces:",
+      "metadata": {
+        "reference": "Esther 8:5",
+        "verseKey": "kjv:esther:8:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:esther:8:6",
+      "numberLabel": "6",
+      "text": "For how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred?",
+      "metadata": {
+        "reference": "Esther 8:6",
+        "verseKey": "kjv:esther:8:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:esther:8:7",
+      "numberLabel": "7",
+      "text": "Then the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews.",
+      "metadata": {
+        "reference": "Esther 8:7",
+        "verseKey": "kjv:esther:8:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:esther:8:8",
+      "numberLabel": "8",
+      "text": "Write ye also for the Jews, as it liketh you, in the king’s name, and seal it with the king’s ring: for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse.",
+      "metadata": {
+        "reference": "Esther 8:8",
+        "verseKey": "kjv:esther:8:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:esther:8:9",
+      "numberLabel": "9",
+      "text": "Then were the king’s scribes called at that time in the third month, that is, the month Sivan, on the three and twentieth day thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.",
+      "metadata": {
+        "reference": "Esther 8:9",
+        "verseKey": "kjv:esther:8:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:esther:8:10",
+      "numberLabel": "10",
+      "text": "And he wrote in the king Ahasuerus’ name, and sealed it with the king’s ring, and sent letters by posts on horseback, and riders on mules, camels, and young dromedaries:",
+      "metadata": {
+        "reference": "Esther 8:10",
+        "verseKey": "kjv:esther:8:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:esther:8:11",
+      "numberLabel": "11",
+      "text": "Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, both little ones and women, and to take the spoil of them for a prey,",
+      "metadata": {
+        "reference": "Esther 8:11",
+        "verseKey": "kjv:esther:8:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:esther:8:12",
+      "numberLabel": "12",
+      "text": "Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar.",
+      "metadata": {
+        "reference": "Esther 8:12",
+        "verseKey": "kjv:esther:8:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:esther:8:13",
+      "numberLabel": "13",
+      "text": "The copy of the writing for a commandment to be given in every province was published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies.",
+      "metadata": {
+        "reference": "Esther 8:13",
+        "verseKey": "kjv:esther:8:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:esther:8:14",
+      "numberLabel": "14",
+      "text": "So the posts that rode upon mules and camels went out, being hastened and pressed on by the king’s commandment. And the decree was given at Shushan the palace.",
+      "metadata": {
+        "reference": "Esther 8:14",
+        "verseKey": "kjv:esther:8:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:esther:8:15",
+      "numberLabel": "15",
+      "text": "And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad.",
+      "metadata": {
+        "reference": "Esther 8:15",
+        "verseKey": "kjv:esther:8:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:esther:8:16",
+      "numberLabel": "16",
+      "text": "The Jews had light, and gladness, and joy, and honour.",
+      "metadata": {
+        "reference": "Esther 8:16",
+        "verseKey": "kjv:esther:8:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:esther:8:17",
+      "numberLabel": "17",
+      "text": "And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them.",
+      "metadata": {
+        "reference": "Esther 8:17",
+        "verseKey": "kjv:esther:8:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Esther.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Esther.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

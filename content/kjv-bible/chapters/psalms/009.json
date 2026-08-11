@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Psalms 9",
+  "display_title": "Psalms 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 19009,
+  "verseCount": 20,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:9:1",
+      "numberLabel": "1",
+      "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+      "metadata": {
+        "reference": "Psalms 9:1",
+        "verseKey": "kjv:psalms:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:9:2",
+      "numberLabel": "2",
+      "text": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+      "metadata": {
+        "reference": "Psalms 9:2",
+        "verseKey": "kjv:psalms:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:9:3",
+      "numberLabel": "3",
+      "text": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+      "metadata": {
+        "reference": "Psalms 9:3",
+        "verseKey": "kjv:psalms:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:9:4",
+      "numberLabel": "4",
+      "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+      "metadata": {
+        "reference": "Psalms 9:4",
+        "verseKey": "kjv:psalms:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:9:5",
+      "numberLabel": "5",
+      "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+      "metadata": {
+        "reference": "Psalms 9:5",
+        "verseKey": "kjv:psalms:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:9:6",
+      "numberLabel": "6",
+      "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+      "metadata": {
+        "reference": "Psalms 9:6",
+        "verseKey": "kjv:psalms:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:9:7",
+      "numberLabel": "7",
+      "text": "But the LORD shall endure for ever: he hath prepared his throne for judgment.",
+      "metadata": {
+        "reference": "Psalms 9:7",
+        "verseKey": "kjv:psalms:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:9:8",
+      "numberLabel": "8",
+      "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+      "metadata": {
+        "reference": "Psalms 9:8",
+        "verseKey": "kjv:psalms:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:9:9",
+      "numberLabel": "9",
+      "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+      "metadata": {
+        "reference": "Psalms 9:9",
+        "verseKey": "kjv:psalms:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:9:10",
+      "numberLabel": "10",
+      "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
+      "metadata": {
+        "reference": "Psalms 9:10",
+        "verseKey": "kjv:psalms:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:9:11",
+      "numberLabel": "11",
+      "text": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.",
+      "metadata": {
+        "reference": "Psalms 9:11",
+        "verseKey": "kjv:psalms:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:9:12",
+      "numberLabel": "12",
+      "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+      "metadata": {
+        "reference": "Psalms 9:12",
+        "verseKey": "kjv:psalms:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:9:13",
+      "numberLabel": "13",
+      "text": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+      "metadata": {
+        "reference": "Psalms 9:13",
+        "verseKey": "kjv:psalms:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:9:14",
+      "numberLabel": "14",
+      "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+      "metadata": {
+        "reference": "Psalms 9:14",
+        "verseKey": "kjv:psalms:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:9:15",
+      "numberLabel": "15",
+      "text": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.",
+      "metadata": {
+        "reference": "Psalms 9:15",
+        "verseKey": "kjv:psalms:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:9:16",
+      "numberLabel": "16",
+      "text": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+      "metadata": {
+        "reference": "Psalms 9:16",
+        "verseKey": "kjv:psalms:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:9:17",
+      "numberLabel": "17",
+      "text": "The wicked shall be turned into hell, and all the nations that forget God.",
+      "metadata": {
+        "reference": "Psalms 9:17",
+        "verseKey": "kjv:psalms:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:9:18",
+      "numberLabel": "18",
+      "text": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.",
+      "metadata": {
+        "reference": "Psalms 9:18",
+        "verseKey": "kjv:psalms:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:9:19",
+      "numberLabel": "19",
+      "text": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.",
+      "metadata": {
+        "reference": "Psalms 9:19",
+        "verseKey": "kjv:psalms:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:9:20",
+      "numberLabel": "20",
+      "text": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah.",
+      "metadata": {
+        "reference": "Psalms 9:20",
+        "verseKey": "kjv:psalms:9:20"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

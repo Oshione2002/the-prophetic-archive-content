@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-isaiah-015",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 15,
+  "title": "Isaiah 15",
+  "display_title": "Isaiah 15",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "isaiah",
+  "book": "Isaiah",
+  "bookName": "Isaiah",
+  "bookOrder": 23,
+  "testament": "old",
+  "chapter": 15,
+  "sortOrder": 23015,
+  "verseCount": 9,
+  "aliases": [
+    "Isa",
+    "Is"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:isaiah:15:1",
+      "numberLabel": "1",
+      "text": "The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;",
+      "metadata": {
+        "reference": "Isaiah 15:1",
+        "verseKey": "kjv:isaiah:15:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:isaiah:15:2",
+      "numberLabel": "2",
+      "text": "He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off.",
+      "metadata": {
+        "reference": "Isaiah 15:2",
+        "verseKey": "kjv:isaiah:15:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:isaiah:15:3",
+      "numberLabel": "3",
+      "text": "In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly.",
+      "metadata": {
+        "reference": "Isaiah 15:3",
+        "verseKey": "kjv:isaiah:15:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:isaiah:15:4",
+      "numberLabel": "4",
+      "text": "And Heshbon shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.",
+      "metadata": {
+        "reference": "Isaiah 15:4",
+        "verseKey": "kjv:isaiah:15:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:isaiah:15:5",
+      "numberLabel": "5",
+      "text": "My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.",
+      "metadata": {
+        "reference": "Isaiah 15:5",
+        "verseKey": "kjv:isaiah:15:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:isaiah:15:6",
+      "numberLabel": "6",
+      "text": "For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing.",
+      "metadata": {
+        "reference": "Isaiah 15:6",
+        "verseKey": "kjv:isaiah:15:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:isaiah:15:7",
+      "numberLabel": "7",
+      "text": "Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows.",
+      "metadata": {
+        "reference": "Isaiah 15:7",
+        "verseKey": "kjv:isaiah:15:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:isaiah:15:8",
+      "numberLabel": "8",
+      "text": "For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beerelim.",
+      "metadata": {
+        "reference": "Isaiah 15:8",
+        "verseKey": "kjv:isaiah:15:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:isaiah:15:9",
+      "numberLabel": "9",
+      "text": "For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land.",
+      "metadata": {
+        "reference": "Isaiah 15:9",
+        "verseKey": "kjv:isaiah:15:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Isaiah.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Isaiah.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-058",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 58,
+  "title": "Psalms 58",
+  "display_title": "Psalms 58",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 58,
+  "sortOrder": 19058,
+  "verseCount": 11,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:58:1",
+      "numberLabel": "1",
+      "text": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
+      "metadata": {
+        "reference": "Psalms 58:1",
+        "verseKey": "kjv:psalms:58:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:58:2",
+      "numberLabel": "2",
+      "text": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.",
+      "metadata": {
+        "reference": "Psalms 58:2",
+        "verseKey": "kjv:psalms:58:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:58:3",
+      "numberLabel": "3",
+      "text": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.",
+      "metadata": {
+        "reference": "Psalms 58:3",
+        "verseKey": "kjv:psalms:58:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:58:4",
+      "numberLabel": "4",
+      "text": "Their poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;",
+      "metadata": {
+        "reference": "Psalms 58:4",
+        "verseKey": "kjv:psalms:58:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:58:5",
+      "numberLabel": "5",
+      "text": "Which will not hearken to the voice of charmers, charming never so wisely.",
+      "metadata": {
+        "reference": "Psalms 58:5",
+        "verseKey": "kjv:psalms:58:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:58:6",
+      "numberLabel": "6",
+      "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.",
+      "metadata": {
+        "reference": "Psalms 58:6",
+        "verseKey": "kjv:psalms:58:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:58:7",
+      "numberLabel": "7",
+      "text": "Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.",
+      "metadata": {
+        "reference": "Psalms 58:7",
+        "verseKey": "kjv:psalms:58:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:58:8",
+      "numberLabel": "8",
+      "text": "As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun.",
+      "metadata": {
+        "reference": "Psalms 58:8",
+        "verseKey": "kjv:psalms:58:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:58:9",
+      "numberLabel": "9",
+      "text": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath.",
+      "metadata": {
+        "reference": "Psalms 58:9",
+        "verseKey": "kjv:psalms:58:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:58:10",
+      "numberLabel": "10",
+      "text": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.",
+      "metadata": {
+        "reference": "Psalms 58:10",
+        "verseKey": "kjv:psalms:58:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:58:11",
+      "numberLabel": "11",
+      "text": "So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.",
+      "metadata": {
+        "reference": "Psalms 58:11",
+        "verseKey": "kjv:psalms:58:11"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

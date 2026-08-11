@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-044",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 44,
+  "title": "Psalms 44",
+  "display_title": "Psalms 44",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 44,
+  "sortOrder": 19044,
+  "verseCount": 26,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:44:1",
+      "numberLabel": "1",
+      "text": "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.",
+      "metadata": {
+        "reference": "Psalms 44:1",
+        "verseKey": "kjv:psalms:44:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:44:2",
+      "numberLabel": "2",
+      "text": "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out.",
+      "metadata": {
+        "reference": "Psalms 44:2",
+        "verseKey": "kjv:psalms:44:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:44:3",
+      "numberLabel": "3",
+      "text": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.",
+      "metadata": {
+        "reference": "Psalms 44:3",
+        "verseKey": "kjv:psalms:44:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:44:4",
+      "numberLabel": "4",
+      "text": "Thou art my King, O God: command deliverances for Jacob.",
+      "metadata": {
+        "reference": "Psalms 44:4",
+        "verseKey": "kjv:psalms:44:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:44:5",
+      "numberLabel": "5",
+      "text": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.",
+      "metadata": {
+        "reference": "Psalms 44:5",
+        "verseKey": "kjv:psalms:44:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:44:6",
+      "numberLabel": "6",
+      "text": "For I will not trust in my bow, neither shall my sword save me.",
+      "metadata": {
+        "reference": "Psalms 44:6",
+        "verseKey": "kjv:psalms:44:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:44:7",
+      "numberLabel": "7",
+      "text": "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
+      "metadata": {
+        "reference": "Psalms 44:7",
+        "verseKey": "kjv:psalms:44:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:44:8",
+      "numberLabel": "8",
+      "text": "In God we boast all the day long, and praise thy name for ever. Selah.",
+      "metadata": {
+        "reference": "Psalms 44:8",
+        "verseKey": "kjv:psalms:44:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:44:9",
+      "numberLabel": "9",
+      "text": "But thou hast cast off, and put us to shame; and goest not forth with our armies.",
+      "metadata": {
+        "reference": "Psalms 44:9",
+        "verseKey": "kjv:psalms:44:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:44:10",
+      "numberLabel": "10",
+      "text": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.",
+      "metadata": {
+        "reference": "Psalms 44:10",
+        "verseKey": "kjv:psalms:44:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:44:11",
+      "numberLabel": "11",
+      "text": "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen.",
+      "metadata": {
+        "reference": "Psalms 44:11",
+        "verseKey": "kjv:psalms:44:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:44:12",
+      "numberLabel": "12",
+      "text": "Thou sellest thy people for nought, and dost not increase thy wealth by their price.",
+      "metadata": {
+        "reference": "Psalms 44:12",
+        "verseKey": "kjv:psalms:44:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:44:13",
+      "numberLabel": "13",
+      "text": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.",
+      "metadata": {
+        "reference": "Psalms 44:13",
+        "verseKey": "kjv:psalms:44:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:44:14",
+      "numberLabel": "14",
+      "text": "Thou makest us a byword among the heathen, a shaking of the head among the people.",
+      "metadata": {
+        "reference": "Psalms 44:14",
+        "verseKey": "kjv:psalms:44:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:44:15",
+      "numberLabel": "15",
+      "text": "My confusion is continually before me, and the shame of my face hath covered me,",
+      "metadata": {
+        "reference": "Psalms 44:15",
+        "verseKey": "kjv:psalms:44:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:44:16",
+      "numberLabel": "16",
+      "text": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.",
+      "metadata": {
+        "reference": "Psalms 44:16",
+        "verseKey": "kjv:psalms:44:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:44:17",
+      "numberLabel": "17",
+      "text": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.",
+      "metadata": {
+        "reference": "Psalms 44:17",
+        "verseKey": "kjv:psalms:44:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:44:18",
+      "numberLabel": "18",
+      "text": "Our heart is not turned back, neither have our steps declined from thy way;",
+      "metadata": {
+        "reference": "Psalms 44:18",
+        "verseKey": "kjv:psalms:44:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:44:19",
+      "numberLabel": "19",
+      "text": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.",
+      "metadata": {
+        "reference": "Psalms 44:19",
+        "verseKey": "kjv:psalms:44:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:44:20",
+      "numberLabel": "20",
+      "text": "If we have forgotten the name of our God, or stretched out our hands to a strange god;",
+      "metadata": {
+        "reference": "Psalms 44:20",
+        "verseKey": "kjv:psalms:44:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:44:21",
+      "numberLabel": "21",
+      "text": "Shall not God search this out? for he knoweth the secrets of the heart.",
+      "metadata": {
+        "reference": "Psalms 44:21",
+        "verseKey": "kjv:psalms:44:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:44:22",
+      "numberLabel": "22",
+      "text": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
+      "metadata": {
+        "reference": "Psalms 44:22",
+        "verseKey": "kjv:psalms:44:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:44:23",
+      "numberLabel": "23",
+      "text": "Awake, why sleepest thou, O Lord? arise, cast us not off for ever.",
+      "metadata": {
+        "reference": "Psalms 44:23",
+        "verseKey": "kjv:psalms:44:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:44:24",
+      "numberLabel": "24",
+      "text": "Wherefore hidest thou thy face, and forgettest our affliction and our oppression?",
+      "metadata": {
+        "reference": "Psalms 44:24",
+        "verseKey": "kjv:psalms:44:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:44:25",
+      "numberLabel": "25",
+      "text": "For our soul is bowed down to the dust: our belly cleaveth unto the earth.",
+      "metadata": {
+        "reference": "Psalms 44:25",
+        "verseKey": "kjv:psalms:44:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:44:26",
+      "numberLabel": "26",
+      "text": "Arise for our help, and redeem us for thy mercies’ sake.",
+      "metadata": {
+        "reference": "Psalms 44:26",
+        "verseKey": "kjv:psalms:44:26"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

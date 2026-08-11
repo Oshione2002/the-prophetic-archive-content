@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Exodus 24",
+  "display_title": "Exodus 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 2024,
+  "verseCount": 18,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:24:1",
+      "numberLabel": "1",
+      "text": "And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.",
+      "metadata": {
+        "reference": "Exodus 24:1",
+        "verseKey": "kjv:exodus:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:24:2",
+      "numberLabel": "2",
+      "text": "And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him.",
+      "metadata": {
+        "reference": "Exodus 24:2",
+        "verseKey": "kjv:exodus:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:24:3",
+      "numberLabel": "3",
+      "text": "And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do.",
+      "metadata": {
+        "reference": "Exodus 24:3",
+        "verseKey": "kjv:exodus:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:24:4",
+      "numberLabel": "4",
+      "text": "And Moses wrote all the words of the LORD, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.",
+      "metadata": {
+        "reference": "Exodus 24:4",
+        "verseKey": "kjv:exodus:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:24:5",
+      "numberLabel": "5",
+      "text": "And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD.",
+      "metadata": {
+        "reference": "Exodus 24:5",
+        "verseKey": "kjv:exodus:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:24:6",
+      "numberLabel": "6",
+      "text": "And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar.",
+      "metadata": {
+        "reference": "Exodus 24:6",
+        "verseKey": "kjv:exodus:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:24:7",
+      "numberLabel": "7",
+      "text": "And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient.",
+      "metadata": {
+        "reference": "Exodus 24:7",
+        "verseKey": "kjv:exodus:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:24:8",
+      "numberLabel": "8",
+      "text": "And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words.",
+      "metadata": {
+        "reference": "Exodus 24:8",
+        "verseKey": "kjv:exodus:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:24:9",
+      "numberLabel": "9",
+      "text": "Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:",
+      "metadata": {
+        "reference": "Exodus 24:9",
+        "verseKey": "kjv:exodus:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:24:10",
+      "numberLabel": "10",
+      "text": "And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.",
+      "metadata": {
+        "reference": "Exodus 24:10",
+        "verseKey": "kjv:exodus:24:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:24:11",
+      "numberLabel": "11",
+      "text": "And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink.",
+      "metadata": {
+        "reference": "Exodus 24:11",
+        "verseKey": "kjv:exodus:24:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:24:12",
+      "numberLabel": "12",
+      "text": "And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.",
+      "metadata": {
+        "reference": "Exodus 24:12",
+        "verseKey": "kjv:exodus:24:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:24:13",
+      "numberLabel": "13",
+      "text": "And Moses rose up, and his minister Joshua: and Moses went up into the mount of God.",
+      "metadata": {
+        "reference": "Exodus 24:13",
+        "verseKey": "kjv:exodus:24:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:24:14",
+      "numberLabel": "14",
+      "text": "And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them.",
+      "metadata": {
+        "reference": "Exodus 24:14",
+        "verseKey": "kjv:exodus:24:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:24:15",
+      "numberLabel": "15",
+      "text": "And Moses went up into the mount, and a cloud covered the mount.",
+      "metadata": {
+        "reference": "Exodus 24:15",
+        "verseKey": "kjv:exodus:24:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:24:16",
+      "numberLabel": "16",
+      "text": "And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud.",
+      "metadata": {
+        "reference": "Exodus 24:16",
+        "verseKey": "kjv:exodus:24:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:24:17",
+      "numberLabel": "17",
+      "text": "And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel.",
+      "metadata": {
+        "reference": "Exodus 24:17",
+        "verseKey": "kjv:exodus:24:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:24:18",
+      "numberLabel": "18",
+      "text": "And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.",
+      "metadata": {
+        "reference": "Exodus 24:18",
+        "verseKey": "kjv:exodus:24:18"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

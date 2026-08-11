@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-job-023",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 23,
+  "title": "Job 23",
+  "display_title": "Job 23",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "job",
+  "book": "Job",
+  "bookName": "Job",
+  "bookOrder": 18,
+  "testament": "old",
+  "chapter": 23,
+  "sortOrder": 18023,
+  "verseCount": 17,
+  "aliases": [
+    "Job"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:job:23:1",
+      "numberLabel": "1",
+      "text": "Then Job answered and said,",
+      "metadata": {
+        "reference": "Job 23:1",
+        "verseKey": "kjv:job:23:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:job:23:2",
+      "numberLabel": "2",
+      "text": "Even to day is my complaint bitter: my stroke is heavier than my groaning.",
+      "metadata": {
+        "reference": "Job 23:2",
+        "verseKey": "kjv:job:23:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:job:23:3",
+      "numberLabel": "3",
+      "text": "Oh that I knew where I might find him! that I might come even to his seat!",
+      "metadata": {
+        "reference": "Job 23:3",
+        "verseKey": "kjv:job:23:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:job:23:4",
+      "numberLabel": "4",
+      "text": "I would order my cause before him, and fill my mouth with arguments.",
+      "metadata": {
+        "reference": "Job 23:4",
+        "verseKey": "kjv:job:23:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:job:23:5",
+      "numberLabel": "5",
+      "text": "I would know the words which he would answer me, and understand what he would say unto me.",
+      "metadata": {
+        "reference": "Job 23:5",
+        "verseKey": "kjv:job:23:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:job:23:6",
+      "numberLabel": "6",
+      "text": "Will he plead against me with his great power? No; but he would put strength in me.",
+      "metadata": {
+        "reference": "Job 23:6",
+        "verseKey": "kjv:job:23:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:job:23:7",
+      "numberLabel": "7",
+      "text": "There the righteous might dispute with him; so should I be delivered for ever from my judge.",
+      "metadata": {
+        "reference": "Job 23:7",
+        "verseKey": "kjv:job:23:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:job:23:8",
+      "numberLabel": "8",
+      "text": "Behold, I go forward, but he is not there; and backward, but I cannot perceive him:",
+      "metadata": {
+        "reference": "Job 23:8",
+        "verseKey": "kjv:job:23:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:job:23:9",
+      "numberLabel": "9",
+      "text": "On the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:",
+      "metadata": {
+        "reference": "Job 23:9",
+        "verseKey": "kjv:job:23:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:job:23:10",
+      "numberLabel": "10",
+      "text": "But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.",
+      "metadata": {
+        "reference": "Job 23:10",
+        "verseKey": "kjv:job:23:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:job:23:11",
+      "numberLabel": "11",
+      "text": "My foot hath held his steps, his way have I kept, and not declined.",
+      "metadata": {
+        "reference": "Job 23:11",
+        "verseKey": "kjv:job:23:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:job:23:12",
+      "numberLabel": "12",
+      "text": "Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food.",
+      "metadata": {
+        "reference": "Job 23:12",
+        "verseKey": "kjv:job:23:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:job:23:13",
+      "numberLabel": "13",
+      "text": "But he is in one mind, and who can turn him? and what his soul desireth, even that he doeth.",
+      "metadata": {
+        "reference": "Job 23:13",
+        "verseKey": "kjv:job:23:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:job:23:14",
+      "numberLabel": "14",
+      "text": "For he performeth the thing that is appointed for me: and many such things are with him.",
+      "metadata": {
+        "reference": "Job 23:14",
+        "verseKey": "kjv:job:23:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:job:23:15",
+      "numberLabel": "15",
+      "text": "Therefore am I troubled at his presence: when I consider, I am afraid of him.",
+      "metadata": {
+        "reference": "Job 23:15",
+        "verseKey": "kjv:job:23:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:job:23:16",
+      "numberLabel": "16",
+      "text": "For God maketh my heart soft, and the Almighty troubleth me:",
+      "metadata": {
+        "reference": "Job 23:16",
+        "verseKey": "kjv:job:23:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:job:23:17",
+      "numberLabel": "17",
+      "text": "Because I was not cut off before the darkness, neither hath he covered the darkness from my face.",
+      "metadata": {
+        "reference": "Job 23:17",
+        "verseKey": "kjv:job:23:17"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Job.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Job.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

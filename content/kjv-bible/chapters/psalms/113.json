@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-113",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 113,
+  "title": "Psalms 113",
+  "display_title": "Psalms 113",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 113,
+  "sortOrder": 19113,
+  "verseCount": 9,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:113:1",
+      "numberLabel": "1",
+      "text": "Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.",
+      "metadata": {
+        "reference": "Psalms 113:1",
+        "verseKey": "kjv:psalms:113:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:113:2",
+      "numberLabel": "2",
+      "text": "Blessed be the name of the LORD from this time forth and for evermore.",
+      "metadata": {
+        "reference": "Psalms 113:2",
+        "verseKey": "kjv:psalms:113:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:113:3",
+      "numberLabel": "3",
+      "text": "From the rising of the sun unto the going down of the same the LORD’s name is to be praised.",
+      "metadata": {
+        "reference": "Psalms 113:3",
+        "verseKey": "kjv:psalms:113:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:113:4",
+      "numberLabel": "4",
+      "text": "The LORD is high above all nations, and his glory above the heavens.",
+      "metadata": {
+        "reference": "Psalms 113:4",
+        "verseKey": "kjv:psalms:113:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:113:5",
+      "numberLabel": "5",
+      "text": "Who is like unto the LORD our God, who dwelleth on high,",
+      "metadata": {
+        "reference": "Psalms 113:5",
+        "verseKey": "kjv:psalms:113:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:113:6",
+      "numberLabel": "6",
+      "text": "Who humbleth himself to behold the things that are in heaven, and in the earth!",
+      "metadata": {
+        "reference": "Psalms 113:6",
+        "verseKey": "kjv:psalms:113:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:113:7",
+      "numberLabel": "7",
+      "text": "He raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;",
+      "metadata": {
+        "reference": "Psalms 113:7",
+        "verseKey": "kjv:psalms:113:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:113:8",
+      "numberLabel": "8",
+      "text": "That he may set him with princes, even with the princes of his people.",
+      "metadata": {
+        "reference": "Psalms 113:8",
+        "verseKey": "kjv:psalms:113:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:113:9",
+      "numberLabel": "9",
+      "text": "He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the LORD.",
+      "metadata": {
+        "reference": "Psalms 113:9",
+        "verseKey": "kjv:psalms:113:9"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

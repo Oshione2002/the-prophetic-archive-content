@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-065",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 65,
+  "title": "Psalms 65",
+  "display_title": "Psalms 65",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 65,
+  "sortOrder": 19065,
+  "verseCount": 13,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:65:1",
+      "numberLabel": "1",
+      "text": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.",
+      "metadata": {
+        "reference": "Psalms 65:1",
+        "verseKey": "kjv:psalms:65:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:65:2",
+      "numberLabel": "2",
+      "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+      "metadata": {
+        "reference": "Psalms 65:2",
+        "verseKey": "kjv:psalms:65:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:65:3",
+      "numberLabel": "3",
+      "text": "Iniquities prevail against me: as for our transgressions, thou shalt purge them away.",
+      "metadata": {
+        "reference": "Psalms 65:3",
+        "verseKey": "kjv:psalms:65:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:65:4",
+      "numberLabel": "4",
+      "text": "Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.",
+      "metadata": {
+        "reference": "Psalms 65:4",
+        "verseKey": "kjv:psalms:65:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:65:5",
+      "numberLabel": "5",
+      "text": "By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:",
+      "metadata": {
+        "reference": "Psalms 65:5",
+        "verseKey": "kjv:psalms:65:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:65:6",
+      "numberLabel": "6",
+      "text": "Which by his strength setteth fast the mountains; being girded with power:",
+      "metadata": {
+        "reference": "Psalms 65:6",
+        "verseKey": "kjv:psalms:65:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:65:7",
+      "numberLabel": "7",
+      "text": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.",
+      "metadata": {
+        "reference": "Psalms 65:7",
+        "verseKey": "kjv:psalms:65:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:65:8",
+      "numberLabel": "8",
+      "text": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.",
+      "metadata": {
+        "reference": "Psalms 65:8",
+        "verseKey": "kjv:psalms:65:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:65:9",
+      "numberLabel": "9",
+      "text": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.",
+      "metadata": {
+        "reference": "Psalms 65:9",
+        "verseKey": "kjv:psalms:65:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:65:10",
+      "numberLabel": "10",
+      "text": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.",
+      "metadata": {
+        "reference": "Psalms 65:10",
+        "verseKey": "kjv:psalms:65:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:65:11",
+      "numberLabel": "11",
+      "text": "Thou crownest the year with thy goodness; and thy paths drop fatness.",
+      "metadata": {
+        "reference": "Psalms 65:11",
+        "verseKey": "kjv:psalms:65:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:65:12",
+      "numberLabel": "12",
+      "text": "They drop upon the pastures of the wilderness: and the little hills rejoice on every side.",
+      "metadata": {
+        "reference": "Psalms 65:12",
+        "verseKey": "kjv:psalms:65:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:65:13",
+      "numberLabel": "13",
+      "text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.",
+      "metadata": {
+        "reference": "Psalms 65:13",
+        "verseKey": "kjv:psalms:65:13"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-judges-021",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 21,
+  "title": "Judges 21",
+  "display_title": "Judges 21",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "judges",
+  "book": "Judges",
+  "bookName": "Judges",
+  "bookOrder": 7,
+  "testament": "old",
+  "chapter": 21,
+  "sortOrder": 7021,
+  "verseCount": 25,
+  "aliases": [
+    "Judg",
+    "Jdg",
+    "Jg"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:judges:21:1",
+      "numberLabel": "1",
+      "text": "Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife.",
+      "metadata": {
+        "reference": "Judges 21:1",
+        "verseKey": "kjv:judges:21:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:judges:21:2",
+      "numberLabel": "2",
+      "text": "And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;",
+      "metadata": {
+        "reference": "Judges 21:2",
+        "verseKey": "kjv:judges:21:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:judges:21:3",
+      "numberLabel": "3",
+      "text": "And said, O LORD God of Israel, why is this come to pass in Israel, that there should be to day one tribe lacking in Israel?",
+      "metadata": {
+        "reference": "Judges 21:3",
+        "verseKey": "kjv:judges:21:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:judges:21:4",
+      "numberLabel": "4",
+      "text": "And it came to pass on the morrow, that the people rose early, and built there an altar, and offered burnt offerings and peace offerings.",
+      "metadata": {
+        "reference": "Judges 21:4",
+        "verseKey": "kjv:judges:21:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:judges:21:5",
+      "numberLabel": "5",
+      "text": "And the children of Israel said, Who is there among all the tribes of Israel that came not up with the congregation unto the LORD? For they had made a great oath concerning him that came not up to the LORD to Mizpeh, saying, He shall surely be put to death.",
+      "metadata": {
+        "reference": "Judges 21:5",
+        "verseKey": "kjv:judges:21:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:judges:21:6",
+      "numberLabel": "6",
+      "text": "And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day.",
+      "metadata": {
+        "reference": "Judges 21:6",
+        "verseKey": "kjv:judges:21:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:judges:21:7",
+      "numberLabel": "7",
+      "text": "How shall we do for wives for them that remain, seeing we have sworn by the LORD that we will not give them of our daughters to wives?",
+      "metadata": {
+        "reference": "Judges 21:7",
+        "verseKey": "kjv:judges:21:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:judges:21:8",
+      "numberLabel": "8",
+      "text": "And they said, What one is there of the tribes of Israel that came not up to Mizpeh to the LORD? And, behold, there came none to the camp from Jabeshgilead to the assembly.",
+      "metadata": {
+        "reference": "Judges 21:8",
+        "verseKey": "kjv:judges:21:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:judges:21:9",
+      "numberLabel": "9",
+      "text": "For the people were numbered, and, behold, there were none of the inhabitants of Jabeshgilead there.",
+      "metadata": {
+        "reference": "Judges 21:9",
+        "verseKey": "kjv:judges:21:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:judges:21:10",
+      "numberLabel": "10",
+      "text": "And the congregation sent thither twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children.",
+      "metadata": {
+        "reference": "Judges 21:10",
+        "verseKey": "kjv:judges:21:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:judges:21:11",
+      "numberLabel": "11",
+      "text": "And this is the thing that ye shall do, Ye shall utterly destroy every male, and every woman that hath lain by man.",
+      "metadata": {
+        "reference": "Judges 21:11",
+        "verseKey": "kjv:judges:21:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:judges:21:12",
+      "numberLabel": "12",
+      "text": "And they found among the inhabitants of Jabeshgilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which is in the land of Canaan.",
+      "metadata": {
+        "reference": "Judges 21:12",
+        "verseKey": "kjv:judges:21:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:judges:21:13",
+      "numberLabel": "13",
+      "text": "And the whole congregation sent some to speak to the children of Benjamin that were in the rock Rimmon, and to call peaceably unto them.",
+      "metadata": {
+        "reference": "Judges 21:13",
+        "verseKey": "kjv:judges:21:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:judges:21:14",
+      "numberLabel": "14",
+      "text": "And Benjamin came again at that time; and they gave them wives which they had saved alive of the women of Jabeshgilead: and yet so they sufficed them not.",
+      "metadata": {
+        "reference": "Judges 21:14",
+        "verseKey": "kjv:judges:21:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:judges:21:15",
+      "numberLabel": "15",
+      "text": "And the people repented them for Benjamin, because that the LORD had made a breach in the tribes of Israel.",
+      "metadata": {
+        "reference": "Judges 21:15",
+        "verseKey": "kjv:judges:21:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:judges:21:16",
+      "numberLabel": "16",
+      "text": "Then the elders of the congregation said, How shall we do for wives for them that remain, seeing the women are destroyed out of Benjamin?",
+      "metadata": {
+        "reference": "Judges 21:16",
+        "verseKey": "kjv:judges:21:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:judges:21:17",
+      "numberLabel": "17",
+      "text": "And they said, There must be an inheritance for them that be escaped of Benjamin, that a tribe be not destroyed out of Israel.",
+      "metadata": {
+        "reference": "Judges 21:17",
+        "verseKey": "kjv:judges:21:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:judges:21:18",
+      "numberLabel": "18",
+      "text": "Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed be he that giveth a wife to Benjamin.",
+      "metadata": {
+        "reference": "Judges 21:18",
+        "verseKey": "kjv:judges:21:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:judges:21:19",
+      "numberLabel": "19",
+      "text": "Then they said, Behold, there is a feast of the LORD in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah.",
+      "metadata": {
+        "reference": "Judges 21:19",
+        "verseKey": "kjv:judges:21:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:judges:21:20",
+      "numberLabel": "20",
+      "text": "Therefore they commanded the children of Benjamin, saying, Go and lie in wait in the vineyards;",
+      "metadata": {
+        "reference": "Judges 21:20",
+        "verseKey": "kjv:judges:21:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:judges:21:21",
+      "numberLabel": "21",
+      "text": "And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.",
+      "metadata": {
+        "reference": "Judges 21:21",
+        "verseKey": "kjv:judges:21:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:judges:21:22",
+      "numberLabel": "22",
+      "text": "And it shall be, when their fathers or their brethren come unto us to complain, that we will say unto them, Be favourable unto them for our sakes: because we reserved not to each man his wife in the war: for ye did not give unto them at this time, that ye should be guilty.",
+      "metadata": {
+        "reference": "Judges 21:22",
+        "verseKey": "kjv:judges:21:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:judges:21:23",
+      "numberLabel": "23",
+      "text": "And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.",
+      "metadata": {
+        "reference": "Judges 21:23",
+        "verseKey": "kjv:judges:21:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:judges:21:24",
+      "numberLabel": "24",
+      "text": "And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.",
+      "metadata": {
+        "reference": "Judges 21:24",
+        "verseKey": "kjv:judges:21:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:judges:21:25",
+      "numberLabel": "25",
+      "text": "In those days there was no king in Israel: every man did that which was right in his own eyes.",
+      "metadata": {
+        "reference": "Judges 21:25",
+        "verseKey": "kjv:judges:21:25"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Judges.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Judges.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

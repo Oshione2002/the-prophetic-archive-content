@@ -1,0 +1,405 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-047",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 47,
+  "title": "Genesis 47",
+  "display_title": "Genesis 47",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 47,
+  "sortOrder": 1047,
+  "verseCount": 31,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:47:1",
+      "numberLabel": "1",
+      "text": "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.",
+      "metadata": {
+        "reference": "Genesis 47:1",
+        "verseKey": "kjv:genesis:47:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:47:2",
+      "numberLabel": "2",
+      "text": "And he took some of his brethren, even five men, and presented them unto Pharaoh.",
+      "metadata": {
+        "reference": "Genesis 47:2",
+        "verseKey": "kjv:genesis:47:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:47:3",
+      "numberLabel": "3",
+      "text": "And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers.",
+      "metadata": {
+        "reference": "Genesis 47:3",
+        "verseKey": "kjv:genesis:47:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:47:4",
+      "numberLabel": "4",
+      "text": "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.",
+      "metadata": {
+        "reference": "Genesis 47:4",
+        "verseKey": "kjv:genesis:47:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:47:5",
+      "numberLabel": "5",
+      "text": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:",
+      "metadata": {
+        "reference": "Genesis 47:5",
+        "verseKey": "kjv:genesis:47:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:47:6",
+      "numberLabel": "6",
+      "text": "The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle.",
+      "metadata": {
+        "reference": "Genesis 47:6",
+        "verseKey": "kjv:genesis:47:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:47:7",
+      "numberLabel": "7",
+      "text": "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.",
+      "metadata": {
+        "reference": "Genesis 47:7",
+        "verseKey": "kjv:genesis:47:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:47:8",
+      "numberLabel": "8",
+      "text": "And Pharaoh said unto Jacob, How old art thou?",
+      "metadata": {
+        "reference": "Genesis 47:8",
+        "verseKey": "kjv:genesis:47:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:47:9",
+      "numberLabel": "9",
+      "text": "And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.",
+      "metadata": {
+        "reference": "Genesis 47:9",
+        "verseKey": "kjv:genesis:47:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:47:10",
+      "numberLabel": "10",
+      "text": "And Jacob blessed Pharaoh, and went out from before Pharaoh.",
+      "metadata": {
+        "reference": "Genesis 47:10",
+        "verseKey": "kjv:genesis:47:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:47:11",
+      "numberLabel": "11",
+      "text": "And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.",
+      "metadata": {
+        "reference": "Genesis 47:11",
+        "verseKey": "kjv:genesis:47:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:47:12",
+      "numberLabel": "12",
+      "text": "And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to their families.",
+      "metadata": {
+        "reference": "Genesis 47:12",
+        "verseKey": "kjv:genesis:47:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:47:13",
+      "numberLabel": "13",
+      "text": "And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine.",
+      "metadata": {
+        "reference": "Genesis 47:13",
+        "verseKey": "kjv:genesis:47:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:47:14",
+      "numberLabel": "14",
+      "text": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house.",
+      "metadata": {
+        "reference": "Genesis 47:14",
+        "verseKey": "kjv:genesis:47:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:47:15",
+      "numberLabel": "15",
+      "text": "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.",
+      "metadata": {
+        "reference": "Genesis 47:15",
+        "verseKey": "kjv:genesis:47:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:47:16",
+      "numberLabel": "16",
+      "text": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.",
+      "metadata": {
+        "reference": "Genesis 47:16",
+        "verseKey": "kjv:genesis:47:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:47:17",
+      "numberLabel": "17",
+      "text": "And they brought their cattle unto Joseph: and Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.",
+      "metadata": {
+        "reference": "Genesis 47:17",
+        "verseKey": "kjv:genesis:47:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:47:18",
+      "numberLabel": "18",
+      "text": "When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:",
+      "metadata": {
+        "reference": "Genesis 47:18",
+        "verseKey": "kjv:genesis:47:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:47:19",
+      "numberLabel": "19",
+      "text": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate.",
+      "metadata": {
+        "reference": "Genesis 47:19",
+        "verseKey": "kjv:genesis:47:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:47:20",
+      "numberLabel": "20",
+      "text": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s.",
+      "metadata": {
+        "reference": "Genesis 47:20",
+        "verseKey": "kjv:genesis:47:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:47:21",
+      "numberLabel": "21",
+      "text": "And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end thereof.",
+      "metadata": {
+        "reference": "Genesis 47:21",
+        "verseKey": "kjv:genesis:47:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:47:22",
+      "numberLabel": "22",
+      "text": "Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.",
+      "metadata": {
+        "reference": "Genesis 47:22",
+        "verseKey": "kjv:genesis:47:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:47:23",
+      "numberLabel": "23",
+      "text": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land.",
+      "metadata": {
+        "reference": "Genesis 47:23",
+        "verseKey": "kjv:genesis:47:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:47:24",
+      "numberLabel": "24",
+      "text": "And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.",
+      "metadata": {
+        "reference": "Genesis 47:24",
+        "verseKey": "kjv:genesis:47:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:47:25",
+      "numberLabel": "25",
+      "text": "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants.",
+      "metadata": {
+        "reference": "Genesis 47:25",
+        "verseKey": "kjv:genesis:47:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:47:26",
+      "numberLabel": "26",
+      "text": "And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part; except the land of the priests only, which became not Pharaoh’s.",
+      "metadata": {
+        "reference": "Genesis 47:26",
+        "verseKey": "kjv:genesis:47:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:47:27",
+      "numberLabel": "27",
+      "text": "And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.",
+      "metadata": {
+        "reference": "Genesis 47:27",
+        "verseKey": "kjv:genesis:47:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:47:28",
+      "numberLabel": "28",
+      "text": "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.",
+      "metadata": {
+        "reference": "Genesis 47:28",
+        "verseKey": "kjv:genesis:47:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:47:29",
+      "numberLabel": "29",
+      "text": "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:",
+      "metadata": {
+        "reference": "Genesis 47:29",
+        "verseKey": "kjv:genesis:47:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:47:30",
+      "numberLabel": "30",
+      "text": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.",
+      "metadata": {
+        "reference": "Genesis 47:30",
+        "verseKey": "kjv:genesis:47:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:47:31",
+      "numberLabel": "31",
+      "text": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head.",
+      "metadata": {
+        "reference": "Genesis 47:31",
+        "verseKey": "kjv:genesis:47:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

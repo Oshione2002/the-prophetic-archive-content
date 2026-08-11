@@ -1,0 +1,837 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-genesis-024",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 24,
+  "title": "Genesis 24",
+  "display_title": "Genesis 24",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "genesis",
+  "book": "Genesis",
+  "bookName": "Genesis",
+  "bookOrder": 1,
+  "testament": "old",
+  "chapter": 24,
+  "sortOrder": 1024,
+  "verseCount": 67,
+  "aliases": [
+    "Gen",
+    "Ge",
+    "Gn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:genesis:24:1",
+      "numberLabel": "1",
+      "text": "And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things.",
+      "metadata": {
+        "reference": "Genesis 24:1",
+        "verseKey": "kjv:genesis:24:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:genesis:24:2",
+      "numberLabel": "2",
+      "text": "And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:",
+      "metadata": {
+        "reference": "Genesis 24:2",
+        "verseKey": "kjv:genesis:24:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:genesis:24:3",
+      "numberLabel": "3",
+      "text": "And I will make thee swear by the LORD, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:",
+      "metadata": {
+        "reference": "Genesis 24:3",
+        "verseKey": "kjv:genesis:24:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:genesis:24:4",
+      "numberLabel": "4",
+      "text": "But thou shalt go unto my country, and to my kindred, and take a wife unto my son Isaac.",
+      "metadata": {
+        "reference": "Genesis 24:4",
+        "verseKey": "kjv:genesis:24:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:genesis:24:5",
+      "numberLabel": "5",
+      "text": "And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest?",
+      "metadata": {
+        "reference": "Genesis 24:5",
+        "verseKey": "kjv:genesis:24:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:genesis:24:6",
+      "numberLabel": "6",
+      "text": "And Abraham said unto him, Beware thou that thou bring not my son thither again.",
+      "metadata": {
+        "reference": "Genesis 24:6",
+        "verseKey": "kjv:genesis:24:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:genesis:24:7",
+      "numberLabel": "7",
+      "text": "The LORD God of heaven, which took me from my father’s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
+      "metadata": {
+        "reference": "Genesis 24:7",
+        "verseKey": "kjv:genesis:24:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:genesis:24:8",
+      "numberLabel": "8",
+      "text": "And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.",
+      "metadata": {
+        "reference": "Genesis 24:8",
+        "verseKey": "kjv:genesis:24:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:genesis:24:9",
+      "numberLabel": "9",
+      "text": "And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter.",
+      "metadata": {
+        "reference": "Genesis 24:9",
+        "verseKey": "kjv:genesis:24:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:genesis:24:10",
+      "numberLabel": "10",
+      "text": "And the servant took ten camels of the camels of his master, and departed; for all the goods of his master were in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.",
+      "metadata": {
+        "reference": "Genesis 24:10",
+        "verseKey": "kjv:genesis:24:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:genesis:24:11",
+      "numberLabel": "11",
+      "text": "And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water.",
+      "metadata": {
+        "reference": "Genesis 24:11",
+        "verseKey": "kjv:genesis:24:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:genesis:24:12",
+      "numberLabel": "12",
+      "text": "And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.",
+      "metadata": {
+        "reference": "Genesis 24:12",
+        "verseKey": "kjv:genesis:24:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:genesis:24:13",
+      "numberLabel": "13",
+      "text": "Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water:",
+      "metadata": {
+        "reference": "Genesis 24:13",
+        "verseKey": "kjv:genesis:24:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:genesis:24:14",
+      "numberLabel": "14",
+      "text": "And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.",
+      "metadata": {
+        "reference": "Genesis 24:14",
+        "verseKey": "kjv:genesis:24:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:genesis:24:15",
+      "numberLabel": "15",
+      "text": "And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder.",
+      "metadata": {
+        "reference": "Genesis 24:15",
+        "verseKey": "kjv:genesis:24:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:genesis:24:16",
+      "numberLabel": "16",
+      "text": "And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.",
+      "metadata": {
+        "reference": "Genesis 24:16",
+        "verseKey": "kjv:genesis:24:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:genesis:24:17",
+      "numberLabel": "17",
+      "text": "And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.",
+      "metadata": {
+        "reference": "Genesis 24:17",
+        "verseKey": "kjv:genesis:24:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:genesis:24:18",
+      "numberLabel": "18",
+      "text": "And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink.",
+      "metadata": {
+        "reference": "Genesis 24:18",
+        "verseKey": "kjv:genesis:24:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:genesis:24:19",
+      "numberLabel": "19",
+      "text": "And when she had done giving him drink, she said, I will draw water for thy camels also, until they have done drinking.",
+      "metadata": {
+        "reference": "Genesis 24:19",
+        "verseKey": "kjv:genesis:24:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:genesis:24:20",
+      "numberLabel": "20",
+      "text": "And she hasted, and emptied her pitcher into the trough, and ran again unto the well to draw water, and drew for all his camels.",
+      "metadata": {
+        "reference": "Genesis 24:20",
+        "verseKey": "kjv:genesis:24:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:genesis:24:21",
+      "numberLabel": "21",
+      "text": "And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not.",
+      "metadata": {
+        "reference": "Genesis 24:21",
+        "verseKey": "kjv:genesis:24:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:genesis:24:22",
+      "numberLabel": "22",
+      "text": "And it came to pass, as the camels had done drinking, that the man took a golden earring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold;",
+      "metadata": {
+        "reference": "Genesis 24:22",
+        "verseKey": "kjv:genesis:24:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:genesis:24:23",
+      "numberLabel": "23",
+      "text": "And said, Whose daughter art thou? tell me, I pray thee: is there room in thy father’s house for us to lodge in?",
+      "metadata": {
+        "reference": "Genesis 24:23",
+        "verseKey": "kjv:genesis:24:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:genesis:24:24",
+      "numberLabel": "24",
+      "text": "And she said unto him, I am the daughter of Bethuel the son of Milcah, which she bare unto Nahor.",
+      "metadata": {
+        "reference": "Genesis 24:24",
+        "verseKey": "kjv:genesis:24:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:genesis:24:25",
+      "numberLabel": "25",
+      "text": "She said moreover unto him, We have both straw and provender enough, and room to lodge in.",
+      "metadata": {
+        "reference": "Genesis 24:25",
+        "verseKey": "kjv:genesis:24:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:genesis:24:26",
+      "numberLabel": "26",
+      "text": "And the man bowed down his head, and worshipped the LORD.",
+      "metadata": {
+        "reference": "Genesis 24:26",
+        "verseKey": "kjv:genesis:24:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:genesis:24:27",
+      "numberLabel": "27",
+      "text": "And he said, Blessed be the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master’s brethren.",
+      "metadata": {
+        "reference": "Genesis 24:27",
+        "verseKey": "kjv:genesis:24:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:genesis:24:28",
+      "numberLabel": "28",
+      "text": "And the damsel ran, and told them of her mother’s house these things.",
+      "metadata": {
+        "reference": "Genesis 24:28",
+        "verseKey": "kjv:genesis:24:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:genesis:24:29",
+      "numberLabel": "29",
+      "text": "And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well.",
+      "metadata": {
+        "reference": "Genesis 24:29",
+        "verseKey": "kjv:genesis:24:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:genesis:24:30",
+      "numberLabel": "30",
+      "text": "And it came to pass, when he saw the earring and bracelets upon his sister’s hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well.",
+      "metadata": {
+        "reference": "Genesis 24:30",
+        "verseKey": "kjv:genesis:24:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:genesis:24:31",
+      "numberLabel": "31",
+      "text": "And he said, Come in, thou blessed of the LORD; wherefore standest thou without? for I have prepared the house, and room for the camels.",
+      "metadata": {
+        "reference": "Genesis 24:31",
+        "verseKey": "kjv:genesis:24:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:genesis:24:32",
+      "numberLabel": "32",
+      "text": "And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men’s feet that were with him.",
+      "metadata": {
+        "reference": "Genesis 24:32",
+        "verseKey": "kjv:genesis:24:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:genesis:24:33",
+      "numberLabel": "33",
+      "text": "And there was set meat before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on.",
+      "metadata": {
+        "reference": "Genesis 24:33",
+        "verseKey": "kjv:genesis:24:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:genesis:24:34",
+      "numberLabel": "34",
+      "text": "And he said, I am Abraham’s servant.",
+      "metadata": {
+        "reference": "Genesis 24:34",
+        "verseKey": "kjv:genesis:24:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:genesis:24:35",
+      "numberLabel": "35",
+      "text": "And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses.",
+      "metadata": {
+        "reference": "Genesis 24:35",
+        "verseKey": "kjv:genesis:24:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:genesis:24:36",
+      "numberLabel": "36",
+      "text": "And Sarah my master’s wife bare a son to my master when she was old: and unto him hath he given all that he hath.",
+      "metadata": {
+        "reference": "Genesis 24:36",
+        "verseKey": "kjv:genesis:24:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:genesis:24:37",
+      "numberLabel": "37",
+      "text": "And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:",
+      "metadata": {
+        "reference": "Genesis 24:37",
+        "verseKey": "kjv:genesis:24:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:genesis:24:38",
+      "numberLabel": "38",
+      "text": "But thou shalt go unto my father’s house, and to my kindred, and take a wife unto my son.",
+      "metadata": {
+        "reference": "Genesis 24:38",
+        "verseKey": "kjv:genesis:24:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:genesis:24:39",
+      "numberLabel": "39",
+      "text": "And I said unto my master, Peradventure the woman will not follow me.",
+      "metadata": {
+        "reference": "Genesis 24:39",
+        "verseKey": "kjv:genesis:24:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:genesis:24:40",
+      "numberLabel": "40",
+      "text": "And he said unto me, The LORD, before whom I walk, will send his angel with thee, and prosper thy way; and thou shalt take a wife for my son of my kindred, and of my father’s house:",
+      "metadata": {
+        "reference": "Genesis 24:40",
+        "verseKey": "kjv:genesis:24:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:genesis:24:41",
+      "numberLabel": "41",
+      "text": "Then shalt thou be clear from this my oath, when thou comest to my kindred; and if they give not thee one, thou shalt be clear from my oath.",
+      "metadata": {
+        "reference": "Genesis 24:41",
+        "verseKey": "kjv:genesis:24:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:genesis:24:42",
+      "numberLabel": "42",
+      "text": "And I came this day unto the well, and said, O LORD God of my master Abraham, if now thou do prosper my way which I go:",
+      "metadata": {
+        "reference": "Genesis 24:42",
+        "verseKey": "kjv:genesis:24:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:genesis:24:43",
+      "numberLabel": "43",
+      "text": "Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw water, and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;",
+      "metadata": {
+        "reference": "Genesis 24:43",
+        "verseKey": "kjv:genesis:24:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:genesis:24:44",
+      "numberLabel": "44",
+      "text": "And she say to me, Both drink thou, and I will also draw for thy camels: let the same be the woman whom the LORD hath appointed out for my master’s son.",
+      "metadata": {
+        "reference": "Genesis 24:44",
+        "verseKey": "kjv:genesis:24:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:genesis:24:45",
+      "numberLabel": "45",
+      "text": "And before I had done speaking in mine heart, behold, Rebekah came forth with her pitcher on her shoulder; and she went down unto the well, and drew water: and I said unto her, Let me drink, I pray thee.",
+      "metadata": {
+        "reference": "Genesis 24:45",
+        "verseKey": "kjv:genesis:24:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:genesis:24:46",
+      "numberLabel": "46",
+      "text": "And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also.",
+      "metadata": {
+        "reference": "Genesis 24:46",
+        "verseKey": "kjv:genesis:24:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:genesis:24:47",
+      "numberLabel": "47",
+      "text": "And I asked her, and said, Whose daughter art thou? And she said, The daughter of Bethuel, Nahor’s son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands.",
+      "metadata": {
+        "reference": "Genesis 24:47",
+        "verseKey": "kjv:genesis:24:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:genesis:24:48",
+      "numberLabel": "48",
+      "text": "And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master’s brother’s daughter unto his son.",
+      "metadata": {
+        "reference": "Genesis 24:48",
+        "verseKey": "kjv:genesis:24:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:genesis:24:49",
+      "numberLabel": "49",
+      "text": "And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left.",
+      "metadata": {
+        "reference": "Genesis 24:49",
+        "verseKey": "kjv:genesis:24:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:genesis:24:50",
+      "numberLabel": "50",
+      "text": "Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speak unto thee bad or good.",
+      "metadata": {
+        "reference": "Genesis 24:50",
+        "verseKey": "kjv:genesis:24:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:genesis:24:51",
+      "numberLabel": "51",
+      "text": "Behold, Rebekah is before thee, take her, and go, and let her be thy master’s son’s wife, as the LORD hath spoken.",
+      "metadata": {
+        "reference": "Genesis 24:51",
+        "verseKey": "kjv:genesis:24:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:genesis:24:52",
+      "numberLabel": "52",
+      "text": "And it came to pass, that, when Abraham’s servant heard their words, he worshipped the LORD, bowing himself to the earth.",
+      "metadata": {
+        "reference": "Genesis 24:52",
+        "verseKey": "kjv:genesis:24:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:genesis:24:53",
+      "numberLabel": "53",
+      "text": "And the servant brought forth jewels of silver, and jewels of gold, and raiment, and gave them to Rebekah: he gave also to her brother and to her mother precious things.",
+      "metadata": {
+        "reference": "Genesis 24:53",
+        "verseKey": "kjv:genesis:24:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:genesis:24:54",
+      "numberLabel": "54",
+      "text": "And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.",
+      "metadata": {
+        "reference": "Genesis 24:54",
+        "verseKey": "kjv:genesis:24:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:genesis:24:55",
+      "numberLabel": "55",
+      "text": "And her brother and her mother said, Let the damsel abide with us a few days, at the least ten; after that she shall go.",
+      "metadata": {
+        "reference": "Genesis 24:55",
+        "verseKey": "kjv:genesis:24:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:genesis:24:56",
+      "numberLabel": "56",
+      "text": "And he said unto them, Hinder me not, seeing the LORD hath prospered my way; send me away that I may go to my master.",
+      "metadata": {
+        "reference": "Genesis 24:56",
+        "verseKey": "kjv:genesis:24:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:genesis:24:57",
+      "numberLabel": "57",
+      "text": "And they said, We will call the damsel, and enquire at her mouth.",
+      "metadata": {
+        "reference": "Genesis 24:57",
+        "verseKey": "kjv:genesis:24:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:genesis:24:58",
+      "numberLabel": "58",
+      "text": "And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.",
+      "metadata": {
+        "reference": "Genesis 24:58",
+        "verseKey": "kjv:genesis:24:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:genesis:24:59",
+      "numberLabel": "59",
+      "text": "And they sent away Rebekah their sister, and her nurse, and Abraham’s servant, and his men.",
+      "metadata": {
+        "reference": "Genesis 24:59",
+        "verseKey": "kjv:genesis:24:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:genesis:24:60",
+      "numberLabel": "60",
+      "text": "And they blessed Rebekah, and said unto her, Thou art our sister, be thou the mother of thousands of millions, and let thy seed possess the gate of those which hate them.",
+      "metadata": {
+        "reference": "Genesis 24:60",
+        "verseKey": "kjv:genesis:24:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:genesis:24:61",
+      "numberLabel": "61",
+      "text": "And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way.",
+      "metadata": {
+        "reference": "Genesis 24:61",
+        "verseKey": "kjv:genesis:24:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:genesis:24:62",
+      "numberLabel": "62",
+      "text": "And Isaac came from the way of the well Lahairoi; for he dwelt in the south country.",
+      "metadata": {
+        "reference": "Genesis 24:62",
+        "verseKey": "kjv:genesis:24:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:genesis:24:63",
+      "numberLabel": "63",
+      "text": "And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels were coming.",
+      "metadata": {
+        "reference": "Genesis 24:63",
+        "verseKey": "kjv:genesis:24:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:genesis:24:64",
+      "numberLabel": "64",
+      "text": "And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel.",
+      "metadata": {
+        "reference": "Genesis 24:64",
+        "verseKey": "kjv:genesis:24:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:genesis:24:65",
+      "numberLabel": "65",
+      "text": "For she had said unto the servant, What man is this that walketh in the field to meet us? And the servant had said, It is my master: therefore she took a vail, and covered herself.",
+      "metadata": {
+        "reference": "Genesis 24:65",
+        "verseKey": "kjv:genesis:24:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:genesis:24:66",
+      "numberLabel": "66",
+      "text": "And the servant told Isaac all things that he had done.",
+      "metadata": {
+        "reference": "Genesis 24:66",
+        "verseKey": "kjv:genesis:24:66"
+      }
+    },
+    {
+      "id": "verse-067",
+      "type": "bible_verse",
+      "verse": 67,
+      "verseId": "kjv:genesis:24:67",
+      "numberLabel": "67",
+      "text": "And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother’s death.",
+      "metadata": {
+        "reference": "Genesis 24:67",
+        "verseKey": "kjv:genesis:24:67"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Genesis.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Genesis.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

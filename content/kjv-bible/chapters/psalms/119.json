@@ -1,0 +1,2147 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-psalms-119",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 119,
+  "title": "Psalms 119",
+  "display_title": "Psalms 119",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "psalms",
+  "book": "Psalms",
+  "bookName": "Psalms",
+  "bookOrder": 19,
+  "testament": "old",
+  "chapter": 119,
+  "sortOrder": 19119,
+  "verseCount": 176,
+  "aliases": [
+    "Psalm",
+    "Psalms",
+    "Ps",
+    "Psa",
+    "Psm"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:psalms:119:1",
+      "numberLabel": "1",
+      "text": "Blessed are the undefiled in the way, who walk in the law of the LORD.",
+      "metadata": {
+        "reference": "Psalms 119:1",
+        "verseKey": "kjv:psalms:119:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:psalms:119:2",
+      "numberLabel": "2",
+      "text": "Blessed are they that keep his testimonies, and that seek him with the whole heart.",
+      "metadata": {
+        "reference": "Psalms 119:2",
+        "verseKey": "kjv:psalms:119:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:psalms:119:3",
+      "numberLabel": "3",
+      "text": "They also do no iniquity: they walk in his ways.",
+      "metadata": {
+        "reference": "Psalms 119:3",
+        "verseKey": "kjv:psalms:119:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:psalms:119:4",
+      "numberLabel": "4",
+      "text": "Thou hast commanded us to keep thy precepts diligently.",
+      "metadata": {
+        "reference": "Psalms 119:4",
+        "verseKey": "kjv:psalms:119:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:psalms:119:5",
+      "numberLabel": "5",
+      "text": "O that my ways were directed to keep thy statutes!",
+      "metadata": {
+        "reference": "Psalms 119:5",
+        "verseKey": "kjv:psalms:119:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:psalms:119:6",
+      "numberLabel": "6",
+      "text": "Then shall I not be ashamed, when I have respect unto all thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:6",
+        "verseKey": "kjv:psalms:119:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:psalms:119:7",
+      "numberLabel": "7",
+      "text": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
+      "metadata": {
+        "reference": "Psalms 119:7",
+        "verseKey": "kjv:psalms:119:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:psalms:119:8",
+      "numberLabel": "8",
+      "text": "I will keep thy statutes: O forsake me not utterly.",
+      "metadata": {
+        "reference": "Psalms 119:8",
+        "verseKey": "kjv:psalms:119:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:psalms:119:9",
+      "numberLabel": "9",
+      "text": "Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.",
+      "metadata": {
+        "reference": "Psalms 119:9",
+        "verseKey": "kjv:psalms:119:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:psalms:119:10",
+      "numberLabel": "10",
+      "text": "With my whole heart have I sought thee: O let me not wander from thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:10",
+        "verseKey": "kjv:psalms:119:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:psalms:119:11",
+      "numberLabel": "11",
+      "text": "Thy word have I hid in mine heart, that I might not sin against thee.",
+      "metadata": {
+        "reference": "Psalms 119:11",
+        "verseKey": "kjv:psalms:119:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:psalms:119:12",
+      "numberLabel": "12",
+      "text": "Blessed art thou, O LORD: teach me thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:12",
+        "verseKey": "kjv:psalms:119:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:psalms:119:13",
+      "numberLabel": "13",
+      "text": "With my lips have I declared all the judgments of thy mouth.",
+      "metadata": {
+        "reference": "Psalms 119:13",
+        "verseKey": "kjv:psalms:119:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:psalms:119:14",
+      "numberLabel": "14",
+      "text": "I have rejoiced in the way of thy testimonies, as much as in all riches.",
+      "metadata": {
+        "reference": "Psalms 119:14",
+        "verseKey": "kjv:psalms:119:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:psalms:119:15",
+      "numberLabel": "15",
+      "text": "I will meditate in thy precepts, and have respect unto thy ways.",
+      "metadata": {
+        "reference": "Psalms 119:15",
+        "verseKey": "kjv:psalms:119:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:psalms:119:16",
+      "numberLabel": "16",
+      "text": "I will delight myself in thy statutes: I will not forget thy word.",
+      "metadata": {
+        "reference": "Psalms 119:16",
+        "verseKey": "kjv:psalms:119:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:psalms:119:17",
+      "numberLabel": "17",
+      "text": "Deal bountifully with thy servant, that I may live, and keep thy word.",
+      "metadata": {
+        "reference": "Psalms 119:17",
+        "verseKey": "kjv:psalms:119:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:psalms:119:18",
+      "numberLabel": "18",
+      "text": "Open thou mine eyes, that I may behold wondrous things out of thy law.",
+      "metadata": {
+        "reference": "Psalms 119:18",
+        "verseKey": "kjv:psalms:119:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:psalms:119:19",
+      "numberLabel": "19",
+      "text": "I am a stranger in the earth: hide not thy commandments from me.",
+      "metadata": {
+        "reference": "Psalms 119:19",
+        "verseKey": "kjv:psalms:119:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:psalms:119:20",
+      "numberLabel": "20",
+      "text": "My soul breaketh for the longing that it hath unto thy judgments at all times.",
+      "metadata": {
+        "reference": "Psalms 119:20",
+        "verseKey": "kjv:psalms:119:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:psalms:119:21",
+      "numberLabel": "21",
+      "text": "Thou hast rebuked the proud that are cursed, which do err from thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:21",
+        "verseKey": "kjv:psalms:119:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:psalms:119:22",
+      "numberLabel": "22",
+      "text": "Remove from me reproach and contempt; for I have kept thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:22",
+        "verseKey": "kjv:psalms:119:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:psalms:119:23",
+      "numberLabel": "23",
+      "text": "Princes also did sit and speak against me: but thy servant did meditate in thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:23",
+        "verseKey": "kjv:psalms:119:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:psalms:119:24",
+      "numberLabel": "24",
+      "text": "Thy testimonies also are my delight and my counsellors.",
+      "metadata": {
+        "reference": "Psalms 119:24",
+        "verseKey": "kjv:psalms:119:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:psalms:119:25",
+      "numberLabel": "25",
+      "text": "My soul cleaveth unto the dust: quicken thou me according to thy word.",
+      "metadata": {
+        "reference": "Psalms 119:25",
+        "verseKey": "kjv:psalms:119:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:psalms:119:26",
+      "numberLabel": "26",
+      "text": "I have declared my ways, and thou heardest me: teach me thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:26",
+        "verseKey": "kjv:psalms:119:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:psalms:119:27",
+      "numberLabel": "27",
+      "text": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.",
+      "metadata": {
+        "reference": "Psalms 119:27",
+        "verseKey": "kjv:psalms:119:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:psalms:119:28",
+      "numberLabel": "28",
+      "text": "My soul melteth for heaviness: strengthen thou me according unto thy word.",
+      "metadata": {
+        "reference": "Psalms 119:28",
+        "verseKey": "kjv:psalms:119:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:psalms:119:29",
+      "numberLabel": "29",
+      "text": "Remove from me the way of lying: and grant me thy law graciously.",
+      "metadata": {
+        "reference": "Psalms 119:29",
+        "verseKey": "kjv:psalms:119:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:psalms:119:30",
+      "numberLabel": "30",
+      "text": "I have chosen the way of truth: thy judgments have I laid before me.",
+      "metadata": {
+        "reference": "Psalms 119:30",
+        "verseKey": "kjv:psalms:119:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:psalms:119:31",
+      "numberLabel": "31",
+      "text": "I have stuck unto thy testimonies: O LORD, put me not to shame.",
+      "metadata": {
+        "reference": "Psalms 119:31",
+        "verseKey": "kjv:psalms:119:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:psalms:119:32",
+      "numberLabel": "32",
+      "text": "I will run the way of thy commandments, when thou shalt enlarge my heart.",
+      "metadata": {
+        "reference": "Psalms 119:32",
+        "verseKey": "kjv:psalms:119:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:psalms:119:33",
+      "numberLabel": "33",
+      "text": "Teach me, O LORD, the way of thy statutes; and I shall keep it unto the end.",
+      "metadata": {
+        "reference": "Psalms 119:33",
+        "verseKey": "kjv:psalms:119:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:psalms:119:34",
+      "numberLabel": "34",
+      "text": "Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart.",
+      "metadata": {
+        "reference": "Psalms 119:34",
+        "verseKey": "kjv:psalms:119:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:psalms:119:35",
+      "numberLabel": "35",
+      "text": "Make me to go in the path of thy commandments; for therein do I delight.",
+      "metadata": {
+        "reference": "Psalms 119:35",
+        "verseKey": "kjv:psalms:119:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:psalms:119:36",
+      "numberLabel": "36",
+      "text": "Incline my heart unto thy testimonies, and not to covetousness.",
+      "metadata": {
+        "reference": "Psalms 119:36",
+        "verseKey": "kjv:psalms:119:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:psalms:119:37",
+      "numberLabel": "37",
+      "text": "Turn away mine eyes from beholding vanity; and quicken thou me in thy way.",
+      "metadata": {
+        "reference": "Psalms 119:37",
+        "verseKey": "kjv:psalms:119:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:psalms:119:38",
+      "numberLabel": "38",
+      "text": "Stablish thy word unto thy servant, who is devoted to thy fear.",
+      "metadata": {
+        "reference": "Psalms 119:38",
+        "verseKey": "kjv:psalms:119:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:psalms:119:39",
+      "numberLabel": "39",
+      "text": "Turn away my reproach which I fear: for thy judgments are good.",
+      "metadata": {
+        "reference": "Psalms 119:39",
+        "verseKey": "kjv:psalms:119:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:psalms:119:40",
+      "numberLabel": "40",
+      "text": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
+      "metadata": {
+        "reference": "Psalms 119:40",
+        "verseKey": "kjv:psalms:119:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:psalms:119:41",
+      "numberLabel": "41",
+      "text": "Let thy mercies come also unto me, O LORD, even thy salvation, according to thy word.",
+      "metadata": {
+        "reference": "Psalms 119:41",
+        "verseKey": "kjv:psalms:119:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:psalms:119:42",
+      "numberLabel": "42",
+      "text": "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.",
+      "metadata": {
+        "reference": "Psalms 119:42",
+        "verseKey": "kjv:psalms:119:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:psalms:119:43",
+      "numberLabel": "43",
+      "text": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
+      "metadata": {
+        "reference": "Psalms 119:43",
+        "verseKey": "kjv:psalms:119:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:psalms:119:44",
+      "numberLabel": "44",
+      "text": "So shall I keep thy law continually for ever and ever.",
+      "metadata": {
+        "reference": "Psalms 119:44",
+        "verseKey": "kjv:psalms:119:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:psalms:119:45",
+      "numberLabel": "45",
+      "text": "And I will walk at liberty: for I seek thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:45",
+        "verseKey": "kjv:psalms:119:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:psalms:119:46",
+      "numberLabel": "46",
+      "text": "I will speak of thy testimonies also before kings, and will not be ashamed.",
+      "metadata": {
+        "reference": "Psalms 119:46",
+        "verseKey": "kjv:psalms:119:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:psalms:119:47",
+      "numberLabel": "47",
+      "text": "And I will delight myself in thy commandments, which I have loved.",
+      "metadata": {
+        "reference": "Psalms 119:47",
+        "verseKey": "kjv:psalms:119:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:psalms:119:48",
+      "numberLabel": "48",
+      "text": "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:48",
+        "verseKey": "kjv:psalms:119:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:psalms:119:49",
+      "numberLabel": "49",
+      "text": "Remember the word unto thy servant, upon which thou hast caused me to hope.",
+      "metadata": {
+        "reference": "Psalms 119:49",
+        "verseKey": "kjv:psalms:119:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:psalms:119:50",
+      "numberLabel": "50",
+      "text": "This is my comfort in my affliction: for thy word hath quickened me.",
+      "metadata": {
+        "reference": "Psalms 119:50",
+        "verseKey": "kjv:psalms:119:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:psalms:119:51",
+      "numberLabel": "51",
+      "text": "The proud have had me greatly in derision: yet have I not declined from thy law.",
+      "metadata": {
+        "reference": "Psalms 119:51",
+        "verseKey": "kjv:psalms:119:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:psalms:119:52",
+      "numberLabel": "52",
+      "text": "I remembered thy judgments of old, O LORD; and have comforted myself.",
+      "metadata": {
+        "reference": "Psalms 119:52",
+        "verseKey": "kjv:psalms:119:52"
+      }
+    },
+    {
+      "id": "verse-053",
+      "type": "bible_verse",
+      "verse": 53,
+      "verseId": "kjv:psalms:119:53",
+      "numberLabel": "53",
+      "text": "Horror hath taken hold upon me because of the wicked that forsake thy law.",
+      "metadata": {
+        "reference": "Psalms 119:53",
+        "verseKey": "kjv:psalms:119:53"
+      }
+    },
+    {
+      "id": "verse-054",
+      "type": "bible_verse",
+      "verse": 54,
+      "verseId": "kjv:psalms:119:54",
+      "numberLabel": "54",
+      "text": "Thy statutes have been my songs in the house of my pilgrimage.",
+      "metadata": {
+        "reference": "Psalms 119:54",
+        "verseKey": "kjv:psalms:119:54"
+      }
+    },
+    {
+      "id": "verse-055",
+      "type": "bible_verse",
+      "verse": 55,
+      "verseId": "kjv:psalms:119:55",
+      "numberLabel": "55",
+      "text": "I have remembered thy name, O LORD, in the night, and have kept thy law.",
+      "metadata": {
+        "reference": "Psalms 119:55",
+        "verseKey": "kjv:psalms:119:55"
+      }
+    },
+    {
+      "id": "verse-056",
+      "type": "bible_verse",
+      "verse": 56,
+      "verseId": "kjv:psalms:119:56",
+      "numberLabel": "56",
+      "text": "This I had, because I kept thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:56",
+        "verseKey": "kjv:psalms:119:56"
+      }
+    },
+    {
+      "id": "verse-057",
+      "type": "bible_verse",
+      "verse": 57,
+      "verseId": "kjv:psalms:119:57",
+      "numberLabel": "57",
+      "text": "Thou art my portion, O LORD: I have said that I would keep thy words.",
+      "metadata": {
+        "reference": "Psalms 119:57",
+        "verseKey": "kjv:psalms:119:57"
+      }
+    },
+    {
+      "id": "verse-058",
+      "type": "bible_verse",
+      "verse": 58,
+      "verseId": "kjv:psalms:119:58",
+      "numberLabel": "58",
+      "text": "I intreated thy favour with my whole heart: be merciful unto me according to thy word.",
+      "metadata": {
+        "reference": "Psalms 119:58",
+        "verseKey": "kjv:psalms:119:58"
+      }
+    },
+    {
+      "id": "verse-059",
+      "type": "bible_verse",
+      "verse": 59,
+      "verseId": "kjv:psalms:119:59",
+      "numberLabel": "59",
+      "text": "I thought on my ways, and turned my feet unto thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:59",
+        "verseKey": "kjv:psalms:119:59"
+      }
+    },
+    {
+      "id": "verse-060",
+      "type": "bible_verse",
+      "verse": 60,
+      "verseId": "kjv:psalms:119:60",
+      "numberLabel": "60",
+      "text": "I made haste, and delayed not to keep thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:60",
+        "verseKey": "kjv:psalms:119:60"
+      }
+    },
+    {
+      "id": "verse-061",
+      "type": "bible_verse",
+      "verse": 61,
+      "verseId": "kjv:psalms:119:61",
+      "numberLabel": "61",
+      "text": "The bands of the wicked have robbed me: but I have not forgotten thy law.",
+      "metadata": {
+        "reference": "Psalms 119:61",
+        "verseKey": "kjv:psalms:119:61"
+      }
+    },
+    {
+      "id": "verse-062",
+      "type": "bible_verse",
+      "verse": 62,
+      "verseId": "kjv:psalms:119:62",
+      "numberLabel": "62",
+      "text": "At midnight I will rise to give thanks unto thee because of thy righteous judgments.",
+      "metadata": {
+        "reference": "Psalms 119:62",
+        "verseKey": "kjv:psalms:119:62"
+      }
+    },
+    {
+      "id": "verse-063",
+      "type": "bible_verse",
+      "verse": 63,
+      "verseId": "kjv:psalms:119:63",
+      "numberLabel": "63",
+      "text": "I am a companion of all them that fear thee, and of them that keep thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:63",
+        "verseKey": "kjv:psalms:119:63"
+      }
+    },
+    {
+      "id": "verse-064",
+      "type": "bible_verse",
+      "verse": 64,
+      "verseId": "kjv:psalms:119:64",
+      "numberLabel": "64",
+      "text": "The earth, O LORD, is full of thy mercy: teach me thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:64",
+        "verseKey": "kjv:psalms:119:64"
+      }
+    },
+    {
+      "id": "verse-065",
+      "type": "bible_verse",
+      "verse": 65,
+      "verseId": "kjv:psalms:119:65",
+      "numberLabel": "65",
+      "text": "Thou hast dealt well with thy servant, O LORD, according unto thy word.",
+      "metadata": {
+        "reference": "Psalms 119:65",
+        "verseKey": "kjv:psalms:119:65"
+      }
+    },
+    {
+      "id": "verse-066",
+      "type": "bible_verse",
+      "verse": 66,
+      "verseId": "kjv:psalms:119:66",
+      "numberLabel": "66",
+      "text": "Teach me good judgment and knowledge: for I have believed thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:66",
+        "verseKey": "kjv:psalms:119:66"
+      }
+    },
+    {
+      "id": "verse-067",
+      "type": "bible_verse",
+      "verse": 67,
+      "verseId": "kjv:psalms:119:67",
+      "numberLabel": "67",
+      "text": "Before I was afflicted I went astray: but now have I kept thy word.",
+      "metadata": {
+        "reference": "Psalms 119:67",
+        "verseKey": "kjv:psalms:119:67"
+      }
+    },
+    {
+      "id": "verse-068",
+      "type": "bible_verse",
+      "verse": 68,
+      "verseId": "kjv:psalms:119:68",
+      "numberLabel": "68",
+      "text": "Thou art good, and doest good; teach me thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:68",
+        "verseKey": "kjv:psalms:119:68"
+      }
+    },
+    {
+      "id": "verse-069",
+      "type": "bible_verse",
+      "verse": 69,
+      "verseId": "kjv:psalms:119:69",
+      "numberLabel": "69",
+      "text": "The proud have forged a lie against me: but I will keep thy precepts with my whole heart.",
+      "metadata": {
+        "reference": "Psalms 119:69",
+        "verseKey": "kjv:psalms:119:69"
+      }
+    },
+    {
+      "id": "verse-070",
+      "type": "bible_verse",
+      "verse": 70,
+      "verseId": "kjv:psalms:119:70",
+      "numberLabel": "70",
+      "text": "Their heart is as fat as grease; but I delight in thy law.",
+      "metadata": {
+        "reference": "Psalms 119:70",
+        "verseKey": "kjv:psalms:119:70"
+      }
+    },
+    {
+      "id": "verse-071",
+      "type": "bible_verse",
+      "verse": 71,
+      "verseId": "kjv:psalms:119:71",
+      "numberLabel": "71",
+      "text": "It is good for me that I have been afflicted; that I might learn thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:71",
+        "verseKey": "kjv:psalms:119:71"
+      }
+    },
+    {
+      "id": "verse-072",
+      "type": "bible_verse",
+      "verse": 72,
+      "verseId": "kjv:psalms:119:72",
+      "numberLabel": "72",
+      "text": "The law of thy mouth is better unto me than thousands of gold and silver.",
+      "metadata": {
+        "reference": "Psalms 119:72",
+        "verseKey": "kjv:psalms:119:72"
+      }
+    },
+    {
+      "id": "verse-073",
+      "type": "bible_verse",
+      "verse": 73,
+      "verseId": "kjv:psalms:119:73",
+      "numberLabel": "73",
+      "text": "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:73",
+        "verseKey": "kjv:psalms:119:73"
+      }
+    },
+    {
+      "id": "verse-074",
+      "type": "bible_verse",
+      "verse": 74,
+      "verseId": "kjv:psalms:119:74",
+      "numberLabel": "74",
+      "text": "They that fear thee will be glad when they see me; because I have hoped in thy word.",
+      "metadata": {
+        "reference": "Psalms 119:74",
+        "verseKey": "kjv:psalms:119:74"
+      }
+    },
+    {
+      "id": "verse-075",
+      "type": "bible_verse",
+      "verse": 75,
+      "verseId": "kjv:psalms:119:75",
+      "numberLabel": "75",
+      "text": "I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me.",
+      "metadata": {
+        "reference": "Psalms 119:75",
+        "verseKey": "kjv:psalms:119:75"
+      }
+    },
+    {
+      "id": "verse-076",
+      "type": "bible_verse",
+      "verse": 76,
+      "verseId": "kjv:psalms:119:76",
+      "numberLabel": "76",
+      "text": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
+      "metadata": {
+        "reference": "Psalms 119:76",
+        "verseKey": "kjv:psalms:119:76"
+      }
+    },
+    {
+      "id": "verse-077",
+      "type": "bible_verse",
+      "verse": 77,
+      "verseId": "kjv:psalms:119:77",
+      "numberLabel": "77",
+      "text": "Let thy tender mercies come unto me, that I may live: for thy law is my delight.",
+      "metadata": {
+        "reference": "Psalms 119:77",
+        "verseKey": "kjv:psalms:119:77"
+      }
+    },
+    {
+      "id": "verse-078",
+      "type": "bible_verse",
+      "verse": 78,
+      "verseId": "kjv:psalms:119:78",
+      "numberLabel": "78",
+      "text": "Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:78",
+        "verseKey": "kjv:psalms:119:78"
+      }
+    },
+    {
+      "id": "verse-079",
+      "type": "bible_verse",
+      "verse": 79,
+      "verseId": "kjv:psalms:119:79",
+      "numberLabel": "79",
+      "text": "Let those that fear thee turn unto me, and those that have known thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:79",
+        "verseKey": "kjv:psalms:119:79"
+      }
+    },
+    {
+      "id": "verse-080",
+      "type": "bible_verse",
+      "verse": 80,
+      "verseId": "kjv:psalms:119:80",
+      "numberLabel": "80",
+      "text": "Let my heart be sound in thy statutes; that I be not ashamed.",
+      "metadata": {
+        "reference": "Psalms 119:80",
+        "verseKey": "kjv:psalms:119:80"
+      }
+    },
+    {
+      "id": "verse-081",
+      "type": "bible_verse",
+      "verse": 81,
+      "verseId": "kjv:psalms:119:81",
+      "numberLabel": "81",
+      "text": "My soul fainteth for thy salvation: but I hope in thy word.",
+      "metadata": {
+        "reference": "Psalms 119:81",
+        "verseKey": "kjv:psalms:119:81"
+      }
+    },
+    {
+      "id": "verse-082",
+      "type": "bible_verse",
+      "verse": 82,
+      "verseId": "kjv:psalms:119:82",
+      "numberLabel": "82",
+      "text": "Mine eyes fail for thy word, saying, When wilt thou comfort me?",
+      "metadata": {
+        "reference": "Psalms 119:82",
+        "verseKey": "kjv:psalms:119:82"
+      }
+    },
+    {
+      "id": "verse-083",
+      "type": "bible_verse",
+      "verse": 83,
+      "verseId": "kjv:psalms:119:83",
+      "numberLabel": "83",
+      "text": "For I am become like a bottle in the smoke; yet do I not forget thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:83",
+        "verseKey": "kjv:psalms:119:83"
+      }
+    },
+    {
+      "id": "verse-084",
+      "type": "bible_verse",
+      "verse": 84,
+      "verseId": "kjv:psalms:119:84",
+      "numberLabel": "84",
+      "text": "How many are the days of thy servant? when wilt thou execute judgment on them that persecute me?",
+      "metadata": {
+        "reference": "Psalms 119:84",
+        "verseKey": "kjv:psalms:119:84"
+      }
+    },
+    {
+      "id": "verse-085",
+      "type": "bible_verse",
+      "verse": 85,
+      "verseId": "kjv:psalms:119:85",
+      "numberLabel": "85",
+      "text": "The proud have digged pits for me, which are not after thy law.",
+      "metadata": {
+        "reference": "Psalms 119:85",
+        "verseKey": "kjv:psalms:119:85"
+      }
+    },
+    {
+      "id": "verse-086",
+      "type": "bible_verse",
+      "verse": 86,
+      "verseId": "kjv:psalms:119:86",
+      "numberLabel": "86",
+      "text": "All thy commandments are faithful: they persecute me wrongfully; help thou me.",
+      "metadata": {
+        "reference": "Psalms 119:86",
+        "verseKey": "kjv:psalms:119:86"
+      }
+    },
+    {
+      "id": "verse-087",
+      "type": "bible_verse",
+      "verse": 87,
+      "verseId": "kjv:psalms:119:87",
+      "numberLabel": "87",
+      "text": "They had almost consumed me upon earth; but I forsook not thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:87",
+        "verseKey": "kjv:psalms:119:87"
+      }
+    },
+    {
+      "id": "verse-088",
+      "type": "bible_verse",
+      "verse": 88,
+      "verseId": "kjv:psalms:119:88",
+      "numberLabel": "88",
+      "text": "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.",
+      "metadata": {
+        "reference": "Psalms 119:88",
+        "verseKey": "kjv:psalms:119:88"
+      }
+    },
+    {
+      "id": "verse-089",
+      "type": "bible_verse",
+      "verse": 89,
+      "verseId": "kjv:psalms:119:89",
+      "numberLabel": "89",
+      "text": "For ever, O LORD, thy word is settled in heaven.",
+      "metadata": {
+        "reference": "Psalms 119:89",
+        "verseKey": "kjv:psalms:119:89"
+      }
+    },
+    {
+      "id": "verse-090",
+      "type": "bible_verse",
+      "verse": 90,
+      "verseId": "kjv:psalms:119:90",
+      "numberLabel": "90",
+      "text": "Thy faithfulness is unto all generations: thou hast established the earth, and it abideth.",
+      "metadata": {
+        "reference": "Psalms 119:90",
+        "verseKey": "kjv:psalms:119:90"
+      }
+    },
+    {
+      "id": "verse-091",
+      "type": "bible_verse",
+      "verse": 91,
+      "verseId": "kjv:psalms:119:91",
+      "numberLabel": "91",
+      "text": "They continue this day according to thine ordinances: for all are thy servants.",
+      "metadata": {
+        "reference": "Psalms 119:91",
+        "verseKey": "kjv:psalms:119:91"
+      }
+    },
+    {
+      "id": "verse-092",
+      "type": "bible_verse",
+      "verse": 92,
+      "verseId": "kjv:psalms:119:92",
+      "numberLabel": "92",
+      "text": "Unless thy law had been my delights, I should then have perished in mine affliction.",
+      "metadata": {
+        "reference": "Psalms 119:92",
+        "verseKey": "kjv:psalms:119:92"
+      }
+    },
+    {
+      "id": "verse-093",
+      "type": "bible_verse",
+      "verse": 93,
+      "verseId": "kjv:psalms:119:93",
+      "numberLabel": "93",
+      "text": "I will never forget thy precepts: for with them thou hast quickened me.",
+      "metadata": {
+        "reference": "Psalms 119:93",
+        "verseKey": "kjv:psalms:119:93"
+      }
+    },
+    {
+      "id": "verse-094",
+      "type": "bible_verse",
+      "verse": 94,
+      "verseId": "kjv:psalms:119:94",
+      "numberLabel": "94",
+      "text": "I am thine, save me; for I have sought thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:94",
+        "verseKey": "kjv:psalms:119:94"
+      }
+    },
+    {
+      "id": "verse-095",
+      "type": "bible_verse",
+      "verse": 95,
+      "verseId": "kjv:psalms:119:95",
+      "numberLabel": "95",
+      "text": "The wicked have waited for me to destroy me: but I will consider thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:95",
+        "verseKey": "kjv:psalms:119:95"
+      }
+    },
+    {
+      "id": "verse-096",
+      "type": "bible_verse",
+      "verse": 96,
+      "verseId": "kjv:psalms:119:96",
+      "numberLabel": "96",
+      "text": "I have seen an end of all perfection: but thy commandment is exceeding broad.",
+      "metadata": {
+        "reference": "Psalms 119:96",
+        "verseKey": "kjv:psalms:119:96"
+      }
+    },
+    {
+      "id": "verse-097",
+      "type": "bible_verse",
+      "verse": 97,
+      "verseId": "kjv:psalms:119:97",
+      "numberLabel": "97",
+      "text": "O how love I thy law! it is my meditation all the day.",
+      "metadata": {
+        "reference": "Psalms 119:97",
+        "verseKey": "kjv:psalms:119:97"
+      }
+    },
+    {
+      "id": "verse-098",
+      "type": "bible_verse",
+      "verse": 98,
+      "verseId": "kjv:psalms:119:98",
+      "numberLabel": "98",
+      "text": "Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me.",
+      "metadata": {
+        "reference": "Psalms 119:98",
+        "verseKey": "kjv:psalms:119:98"
+      }
+    },
+    {
+      "id": "verse-099",
+      "type": "bible_verse",
+      "verse": 99,
+      "verseId": "kjv:psalms:119:99",
+      "numberLabel": "99",
+      "text": "I have more understanding than all my teachers: for thy testimonies are my meditation.",
+      "metadata": {
+        "reference": "Psalms 119:99",
+        "verseKey": "kjv:psalms:119:99"
+      }
+    },
+    {
+      "id": "verse-100",
+      "type": "bible_verse",
+      "verse": 100,
+      "verseId": "kjv:psalms:119:100",
+      "numberLabel": "100",
+      "text": "I understand more than the ancients, because I keep thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:100",
+        "verseKey": "kjv:psalms:119:100"
+      }
+    },
+    {
+      "id": "verse-101",
+      "type": "bible_verse",
+      "verse": 101,
+      "verseId": "kjv:psalms:119:101",
+      "numberLabel": "101",
+      "text": "I have refrained my feet from every evil way, that I might keep thy word.",
+      "metadata": {
+        "reference": "Psalms 119:101",
+        "verseKey": "kjv:psalms:119:101"
+      }
+    },
+    {
+      "id": "verse-102",
+      "type": "bible_verse",
+      "verse": 102,
+      "verseId": "kjv:psalms:119:102",
+      "numberLabel": "102",
+      "text": "I have not departed from thy judgments: for thou hast taught me.",
+      "metadata": {
+        "reference": "Psalms 119:102",
+        "verseKey": "kjv:psalms:119:102"
+      }
+    },
+    {
+      "id": "verse-103",
+      "type": "bible_verse",
+      "verse": 103,
+      "verseId": "kjv:psalms:119:103",
+      "numberLabel": "103",
+      "text": "How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!",
+      "metadata": {
+        "reference": "Psalms 119:103",
+        "verseKey": "kjv:psalms:119:103"
+      }
+    },
+    {
+      "id": "verse-104",
+      "type": "bible_verse",
+      "verse": 104,
+      "verseId": "kjv:psalms:119:104",
+      "numberLabel": "104",
+      "text": "Through thy precepts I get understanding: therefore I hate every false way.",
+      "metadata": {
+        "reference": "Psalms 119:104",
+        "verseKey": "kjv:psalms:119:104"
+      }
+    },
+    {
+      "id": "verse-105",
+      "type": "bible_verse",
+      "verse": 105,
+      "verseId": "kjv:psalms:119:105",
+      "numberLabel": "105",
+      "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+      "metadata": {
+        "reference": "Psalms 119:105",
+        "verseKey": "kjv:psalms:119:105"
+      }
+    },
+    {
+      "id": "verse-106",
+      "type": "bible_verse",
+      "verse": 106,
+      "verseId": "kjv:psalms:119:106",
+      "numberLabel": "106",
+      "text": "I have sworn, and I will perform it, that I will keep thy righteous judgments.",
+      "metadata": {
+        "reference": "Psalms 119:106",
+        "verseKey": "kjv:psalms:119:106"
+      }
+    },
+    {
+      "id": "verse-107",
+      "type": "bible_verse",
+      "verse": 107,
+      "verseId": "kjv:psalms:119:107",
+      "numberLabel": "107",
+      "text": "I am afflicted very much: quicken me, O LORD, according unto thy word.",
+      "metadata": {
+        "reference": "Psalms 119:107",
+        "verseKey": "kjv:psalms:119:107"
+      }
+    },
+    {
+      "id": "verse-108",
+      "type": "bible_verse",
+      "verse": 108,
+      "verseId": "kjv:psalms:119:108",
+      "numberLabel": "108",
+      "text": "Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments.",
+      "metadata": {
+        "reference": "Psalms 119:108",
+        "verseKey": "kjv:psalms:119:108"
+      }
+    },
+    {
+      "id": "verse-109",
+      "type": "bible_verse",
+      "verse": 109,
+      "verseId": "kjv:psalms:119:109",
+      "numberLabel": "109",
+      "text": "My soul is continually in my hand: yet do I not forget thy law.",
+      "metadata": {
+        "reference": "Psalms 119:109",
+        "verseKey": "kjv:psalms:119:109"
+      }
+    },
+    {
+      "id": "verse-110",
+      "type": "bible_verse",
+      "verse": 110,
+      "verseId": "kjv:psalms:119:110",
+      "numberLabel": "110",
+      "text": "The wicked have laid a snare for me: yet I erred not from thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:110",
+        "verseKey": "kjv:psalms:119:110"
+      }
+    },
+    {
+      "id": "verse-111",
+      "type": "bible_verse",
+      "verse": 111,
+      "verseId": "kjv:psalms:119:111",
+      "numberLabel": "111",
+      "text": "Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart.",
+      "metadata": {
+        "reference": "Psalms 119:111",
+        "verseKey": "kjv:psalms:119:111"
+      }
+    },
+    {
+      "id": "verse-112",
+      "type": "bible_verse",
+      "verse": 112,
+      "verseId": "kjv:psalms:119:112",
+      "numberLabel": "112",
+      "text": "I have inclined mine heart to perform thy statutes alway, even unto the end.",
+      "metadata": {
+        "reference": "Psalms 119:112",
+        "verseKey": "kjv:psalms:119:112"
+      }
+    },
+    {
+      "id": "verse-113",
+      "type": "bible_verse",
+      "verse": 113,
+      "verseId": "kjv:psalms:119:113",
+      "numberLabel": "113",
+      "text": "I hate vain thoughts: but thy law do I love.",
+      "metadata": {
+        "reference": "Psalms 119:113",
+        "verseKey": "kjv:psalms:119:113"
+      }
+    },
+    {
+      "id": "verse-114",
+      "type": "bible_verse",
+      "verse": 114,
+      "verseId": "kjv:psalms:119:114",
+      "numberLabel": "114",
+      "text": "Thou art my hiding place and my shield: I hope in thy word.",
+      "metadata": {
+        "reference": "Psalms 119:114",
+        "verseKey": "kjv:psalms:119:114"
+      }
+    },
+    {
+      "id": "verse-115",
+      "type": "bible_verse",
+      "verse": 115,
+      "verseId": "kjv:psalms:119:115",
+      "numberLabel": "115",
+      "text": "Depart from me, ye evildoers: for I will keep the commandments of my God.",
+      "metadata": {
+        "reference": "Psalms 119:115",
+        "verseKey": "kjv:psalms:119:115"
+      }
+    },
+    {
+      "id": "verse-116",
+      "type": "bible_verse",
+      "verse": 116,
+      "verseId": "kjv:psalms:119:116",
+      "numberLabel": "116",
+      "text": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
+      "metadata": {
+        "reference": "Psalms 119:116",
+        "verseKey": "kjv:psalms:119:116"
+      }
+    },
+    {
+      "id": "verse-117",
+      "type": "bible_verse",
+      "verse": 117,
+      "verseId": "kjv:psalms:119:117",
+      "numberLabel": "117",
+      "text": "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.",
+      "metadata": {
+        "reference": "Psalms 119:117",
+        "verseKey": "kjv:psalms:119:117"
+      }
+    },
+    {
+      "id": "verse-118",
+      "type": "bible_verse",
+      "verse": 118,
+      "verseId": "kjv:psalms:119:118",
+      "numberLabel": "118",
+      "text": "Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood.",
+      "metadata": {
+        "reference": "Psalms 119:118",
+        "verseKey": "kjv:psalms:119:118"
+      }
+    },
+    {
+      "id": "verse-119",
+      "type": "bible_verse",
+      "verse": 119,
+      "verseId": "kjv:psalms:119:119",
+      "numberLabel": "119",
+      "text": "Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:119",
+        "verseKey": "kjv:psalms:119:119"
+      }
+    },
+    {
+      "id": "verse-120",
+      "type": "bible_verse",
+      "verse": 120,
+      "verseId": "kjv:psalms:119:120",
+      "numberLabel": "120",
+      "text": "My flesh trembleth for fear of thee; and I am afraid of thy judgments.",
+      "metadata": {
+        "reference": "Psalms 119:120",
+        "verseKey": "kjv:psalms:119:120"
+      }
+    },
+    {
+      "id": "verse-121",
+      "type": "bible_verse",
+      "verse": 121,
+      "verseId": "kjv:psalms:119:121",
+      "numberLabel": "121",
+      "text": "I have done judgment and justice: leave me not to mine oppressors.",
+      "metadata": {
+        "reference": "Psalms 119:121",
+        "verseKey": "kjv:psalms:119:121"
+      }
+    },
+    {
+      "id": "verse-122",
+      "type": "bible_verse",
+      "verse": 122,
+      "verseId": "kjv:psalms:119:122",
+      "numberLabel": "122",
+      "text": "Be surety for thy servant for good: let not the proud oppress me.",
+      "metadata": {
+        "reference": "Psalms 119:122",
+        "verseKey": "kjv:psalms:119:122"
+      }
+    },
+    {
+      "id": "verse-123",
+      "type": "bible_verse",
+      "verse": 123,
+      "verseId": "kjv:psalms:119:123",
+      "numberLabel": "123",
+      "text": "Mine eyes fail for thy salvation, and for the word of thy righteousness.",
+      "metadata": {
+        "reference": "Psalms 119:123",
+        "verseKey": "kjv:psalms:119:123"
+      }
+    },
+    {
+      "id": "verse-124",
+      "type": "bible_verse",
+      "verse": 124,
+      "verseId": "kjv:psalms:119:124",
+      "numberLabel": "124",
+      "text": "Deal with thy servant according unto thy mercy, and teach me thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:124",
+        "verseKey": "kjv:psalms:119:124"
+      }
+    },
+    {
+      "id": "verse-125",
+      "type": "bible_verse",
+      "verse": 125,
+      "verseId": "kjv:psalms:119:125",
+      "numberLabel": "125",
+      "text": "I am thy servant; give me understanding, that I may know thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:125",
+        "verseKey": "kjv:psalms:119:125"
+      }
+    },
+    {
+      "id": "verse-126",
+      "type": "bible_verse",
+      "verse": 126,
+      "verseId": "kjv:psalms:119:126",
+      "numberLabel": "126",
+      "text": "It is time for thee, LORD, to work: for they have made void thy law.",
+      "metadata": {
+        "reference": "Psalms 119:126",
+        "verseKey": "kjv:psalms:119:126"
+      }
+    },
+    {
+      "id": "verse-127",
+      "type": "bible_verse",
+      "verse": 127,
+      "verseId": "kjv:psalms:119:127",
+      "numberLabel": "127",
+      "text": "Therefore I love thy commandments above gold; yea, above fine gold.",
+      "metadata": {
+        "reference": "Psalms 119:127",
+        "verseKey": "kjv:psalms:119:127"
+      }
+    },
+    {
+      "id": "verse-128",
+      "type": "bible_verse",
+      "verse": 128,
+      "verseId": "kjv:psalms:119:128",
+      "numberLabel": "128",
+      "text": "Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way.",
+      "metadata": {
+        "reference": "Psalms 119:128",
+        "verseKey": "kjv:psalms:119:128"
+      }
+    },
+    {
+      "id": "verse-129",
+      "type": "bible_verse",
+      "verse": 129,
+      "verseId": "kjv:psalms:119:129",
+      "numberLabel": "129",
+      "text": "Thy testimonies are wonderful: therefore doth my soul keep them.",
+      "metadata": {
+        "reference": "Psalms 119:129",
+        "verseKey": "kjv:psalms:119:129"
+      }
+    },
+    {
+      "id": "verse-130",
+      "type": "bible_verse",
+      "verse": 130,
+      "verseId": "kjv:psalms:119:130",
+      "numberLabel": "130",
+      "text": "The entrance of thy words giveth light; it giveth understanding unto the simple.",
+      "metadata": {
+        "reference": "Psalms 119:130",
+        "verseKey": "kjv:psalms:119:130"
+      }
+    },
+    {
+      "id": "verse-131",
+      "type": "bible_verse",
+      "verse": 131,
+      "verseId": "kjv:psalms:119:131",
+      "numberLabel": "131",
+      "text": "I opened my mouth, and panted: for I longed for thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:131",
+        "verseKey": "kjv:psalms:119:131"
+      }
+    },
+    {
+      "id": "verse-132",
+      "type": "bible_verse",
+      "verse": 132,
+      "verseId": "kjv:psalms:119:132",
+      "numberLabel": "132",
+      "text": "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.",
+      "metadata": {
+        "reference": "Psalms 119:132",
+        "verseKey": "kjv:psalms:119:132"
+      }
+    },
+    {
+      "id": "verse-133",
+      "type": "bible_verse",
+      "verse": 133,
+      "verseId": "kjv:psalms:119:133",
+      "numberLabel": "133",
+      "text": "Order my steps in thy word: and let not any iniquity have dominion over me.",
+      "metadata": {
+        "reference": "Psalms 119:133",
+        "verseKey": "kjv:psalms:119:133"
+      }
+    },
+    {
+      "id": "verse-134",
+      "type": "bible_verse",
+      "verse": 134,
+      "verseId": "kjv:psalms:119:134",
+      "numberLabel": "134",
+      "text": "Deliver me from the oppression of man: so will I keep thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:134",
+        "verseKey": "kjv:psalms:119:134"
+      }
+    },
+    {
+      "id": "verse-135",
+      "type": "bible_verse",
+      "verse": 135,
+      "verseId": "kjv:psalms:119:135",
+      "numberLabel": "135",
+      "text": "Make thy face to shine upon thy servant; and teach me thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:135",
+        "verseKey": "kjv:psalms:119:135"
+      }
+    },
+    {
+      "id": "verse-136",
+      "type": "bible_verse",
+      "verse": 136,
+      "verseId": "kjv:psalms:119:136",
+      "numberLabel": "136",
+      "text": "Rivers of waters run down mine eyes, because they keep not thy law.",
+      "metadata": {
+        "reference": "Psalms 119:136",
+        "verseKey": "kjv:psalms:119:136"
+      }
+    },
+    {
+      "id": "verse-137",
+      "type": "bible_verse",
+      "verse": 137,
+      "verseId": "kjv:psalms:119:137",
+      "numberLabel": "137",
+      "text": "Righteous art thou, O LORD, and upright are thy judgments.",
+      "metadata": {
+        "reference": "Psalms 119:137",
+        "verseKey": "kjv:psalms:119:137"
+      }
+    },
+    {
+      "id": "verse-138",
+      "type": "bible_verse",
+      "verse": 138,
+      "verseId": "kjv:psalms:119:138",
+      "numberLabel": "138",
+      "text": "Thy testimonies that thou hast commanded are righteous and very faithful.",
+      "metadata": {
+        "reference": "Psalms 119:138",
+        "verseKey": "kjv:psalms:119:138"
+      }
+    },
+    {
+      "id": "verse-139",
+      "type": "bible_verse",
+      "verse": 139,
+      "verseId": "kjv:psalms:119:139",
+      "numberLabel": "139",
+      "text": "My zeal hath consumed me, because mine enemies have forgotten thy words.",
+      "metadata": {
+        "reference": "Psalms 119:139",
+        "verseKey": "kjv:psalms:119:139"
+      }
+    },
+    {
+      "id": "verse-140",
+      "type": "bible_verse",
+      "verse": 140,
+      "verseId": "kjv:psalms:119:140",
+      "numberLabel": "140",
+      "text": "Thy word is very pure: therefore thy servant loveth it.",
+      "metadata": {
+        "reference": "Psalms 119:140",
+        "verseKey": "kjv:psalms:119:140"
+      }
+    },
+    {
+      "id": "verse-141",
+      "type": "bible_verse",
+      "verse": 141,
+      "verseId": "kjv:psalms:119:141",
+      "numberLabel": "141",
+      "text": "I am small and despised: yet do not I forget thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:141",
+        "verseKey": "kjv:psalms:119:141"
+      }
+    },
+    {
+      "id": "verse-142",
+      "type": "bible_verse",
+      "verse": 142,
+      "verseId": "kjv:psalms:119:142",
+      "numberLabel": "142",
+      "text": "Thy righteousness is an everlasting righteousness, and thy law is the truth.",
+      "metadata": {
+        "reference": "Psalms 119:142",
+        "verseKey": "kjv:psalms:119:142"
+      }
+    },
+    {
+      "id": "verse-143",
+      "type": "bible_verse",
+      "verse": 143,
+      "verseId": "kjv:psalms:119:143",
+      "numberLabel": "143",
+      "text": "Trouble and anguish have taken hold on me: yet thy commandments are my delights.",
+      "metadata": {
+        "reference": "Psalms 119:143",
+        "verseKey": "kjv:psalms:119:143"
+      }
+    },
+    {
+      "id": "verse-144",
+      "type": "bible_verse",
+      "verse": 144,
+      "verseId": "kjv:psalms:119:144",
+      "numberLabel": "144",
+      "text": "The righteousness of thy testimonies is everlasting: give me understanding, and I shall live.",
+      "metadata": {
+        "reference": "Psalms 119:144",
+        "verseKey": "kjv:psalms:119:144"
+      }
+    },
+    {
+      "id": "verse-145",
+      "type": "bible_verse",
+      "verse": 145,
+      "verseId": "kjv:psalms:119:145",
+      "numberLabel": "145",
+      "text": "I cried with my whole heart; hear me, O LORD: I will keep thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:145",
+        "verseKey": "kjv:psalms:119:145"
+      }
+    },
+    {
+      "id": "verse-146",
+      "type": "bible_verse",
+      "verse": 146,
+      "verseId": "kjv:psalms:119:146",
+      "numberLabel": "146",
+      "text": "I cried unto thee; save me, and I shall keep thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:146",
+        "verseKey": "kjv:psalms:119:146"
+      }
+    },
+    {
+      "id": "verse-147",
+      "type": "bible_verse",
+      "verse": 147,
+      "verseId": "kjv:psalms:119:147",
+      "numberLabel": "147",
+      "text": "I prevented the dawning of the morning, and cried: I hoped in thy word.",
+      "metadata": {
+        "reference": "Psalms 119:147",
+        "verseKey": "kjv:psalms:119:147"
+      }
+    },
+    {
+      "id": "verse-148",
+      "type": "bible_verse",
+      "verse": 148,
+      "verseId": "kjv:psalms:119:148",
+      "numberLabel": "148",
+      "text": "Mine eyes prevent the night watches, that I might meditate in thy word.",
+      "metadata": {
+        "reference": "Psalms 119:148",
+        "verseKey": "kjv:psalms:119:148"
+      }
+    },
+    {
+      "id": "verse-149",
+      "type": "bible_verse",
+      "verse": 149,
+      "verseId": "kjv:psalms:119:149",
+      "numberLabel": "149",
+      "text": "Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment.",
+      "metadata": {
+        "reference": "Psalms 119:149",
+        "verseKey": "kjv:psalms:119:149"
+      }
+    },
+    {
+      "id": "verse-150",
+      "type": "bible_verse",
+      "verse": 150,
+      "verseId": "kjv:psalms:119:150",
+      "numberLabel": "150",
+      "text": "They draw nigh that follow after mischief: they are far from thy law.",
+      "metadata": {
+        "reference": "Psalms 119:150",
+        "verseKey": "kjv:psalms:119:150"
+      }
+    },
+    {
+      "id": "verse-151",
+      "type": "bible_verse",
+      "verse": 151,
+      "verseId": "kjv:psalms:119:151",
+      "numberLabel": "151",
+      "text": "Thou art near, O LORD; and all thy commandments are truth.",
+      "metadata": {
+        "reference": "Psalms 119:151",
+        "verseKey": "kjv:psalms:119:151"
+      }
+    },
+    {
+      "id": "verse-152",
+      "type": "bible_verse",
+      "verse": 152,
+      "verseId": "kjv:psalms:119:152",
+      "numberLabel": "152",
+      "text": "Concerning thy testimonies, I have known of old that thou hast founded them for ever.",
+      "metadata": {
+        "reference": "Psalms 119:152",
+        "verseKey": "kjv:psalms:119:152"
+      }
+    },
+    {
+      "id": "verse-153",
+      "type": "bible_verse",
+      "verse": 153,
+      "verseId": "kjv:psalms:119:153",
+      "numberLabel": "153",
+      "text": "Consider mine affliction, and deliver me: for I do not forget thy law.",
+      "metadata": {
+        "reference": "Psalms 119:153",
+        "verseKey": "kjv:psalms:119:153"
+      }
+    },
+    {
+      "id": "verse-154",
+      "type": "bible_verse",
+      "verse": 154,
+      "verseId": "kjv:psalms:119:154",
+      "numberLabel": "154",
+      "text": "Plead my cause, and deliver me: quicken me according to thy word.",
+      "metadata": {
+        "reference": "Psalms 119:154",
+        "verseKey": "kjv:psalms:119:154"
+      }
+    },
+    {
+      "id": "verse-155",
+      "type": "bible_verse",
+      "verse": 155,
+      "verseId": "kjv:psalms:119:155",
+      "numberLabel": "155",
+      "text": "Salvation is far from the wicked: for they seek not thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:155",
+        "verseKey": "kjv:psalms:119:155"
+      }
+    },
+    {
+      "id": "verse-156",
+      "type": "bible_verse",
+      "verse": 156,
+      "verseId": "kjv:psalms:119:156",
+      "numberLabel": "156",
+      "text": "Great are thy tender mercies, O LORD: quicken me according to thy judgments.",
+      "metadata": {
+        "reference": "Psalms 119:156",
+        "verseKey": "kjv:psalms:119:156"
+      }
+    },
+    {
+      "id": "verse-157",
+      "type": "bible_verse",
+      "verse": 157,
+      "verseId": "kjv:psalms:119:157",
+      "numberLabel": "157",
+      "text": "Many are my persecutors and mine enemies; yet do I not decline from thy testimonies.",
+      "metadata": {
+        "reference": "Psalms 119:157",
+        "verseKey": "kjv:psalms:119:157"
+      }
+    },
+    {
+      "id": "verse-158",
+      "type": "bible_verse",
+      "verse": 158,
+      "verseId": "kjv:psalms:119:158",
+      "numberLabel": "158",
+      "text": "I beheld the transgressors, and was grieved; because they kept not thy word.",
+      "metadata": {
+        "reference": "Psalms 119:158",
+        "verseKey": "kjv:psalms:119:158"
+      }
+    },
+    {
+      "id": "verse-159",
+      "type": "bible_verse",
+      "verse": 159,
+      "verseId": "kjv:psalms:119:159",
+      "numberLabel": "159",
+      "text": "Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness.",
+      "metadata": {
+        "reference": "Psalms 119:159",
+        "verseKey": "kjv:psalms:119:159"
+      }
+    },
+    {
+      "id": "verse-160",
+      "type": "bible_verse",
+      "verse": 160,
+      "verseId": "kjv:psalms:119:160",
+      "numberLabel": "160",
+      "text": "Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever.",
+      "metadata": {
+        "reference": "Psalms 119:160",
+        "verseKey": "kjv:psalms:119:160"
+      }
+    },
+    {
+      "id": "verse-161",
+      "type": "bible_verse",
+      "verse": 161,
+      "verseId": "kjv:psalms:119:161",
+      "numberLabel": "161",
+      "text": "Princes have persecuted me without a cause: but my heart standeth in awe of thy word.",
+      "metadata": {
+        "reference": "Psalms 119:161",
+        "verseKey": "kjv:psalms:119:161"
+      }
+    },
+    {
+      "id": "verse-162",
+      "type": "bible_verse",
+      "verse": 162,
+      "verseId": "kjv:psalms:119:162",
+      "numberLabel": "162",
+      "text": "I rejoice at thy word, as one that findeth great spoil.",
+      "metadata": {
+        "reference": "Psalms 119:162",
+        "verseKey": "kjv:psalms:119:162"
+      }
+    },
+    {
+      "id": "verse-163",
+      "type": "bible_verse",
+      "verse": 163,
+      "verseId": "kjv:psalms:119:163",
+      "numberLabel": "163",
+      "text": "I hate and abhor lying: but thy law do I love.",
+      "metadata": {
+        "reference": "Psalms 119:163",
+        "verseKey": "kjv:psalms:119:163"
+      }
+    },
+    {
+      "id": "verse-164",
+      "type": "bible_verse",
+      "verse": 164,
+      "verseId": "kjv:psalms:119:164",
+      "numberLabel": "164",
+      "text": "Seven times a day do I praise thee because of thy righteous judgments.",
+      "metadata": {
+        "reference": "Psalms 119:164",
+        "verseKey": "kjv:psalms:119:164"
+      }
+    },
+    {
+      "id": "verse-165",
+      "type": "bible_verse",
+      "verse": 165,
+      "verseId": "kjv:psalms:119:165",
+      "numberLabel": "165",
+      "text": "Great peace have they which love thy law: and nothing shall offend them.",
+      "metadata": {
+        "reference": "Psalms 119:165",
+        "verseKey": "kjv:psalms:119:165"
+      }
+    },
+    {
+      "id": "verse-166",
+      "type": "bible_verse",
+      "verse": 166,
+      "verseId": "kjv:psalms:119:166",
+      "numberLabel": "166",
+      "text": "LORD, I have hoped for thy salvation, and done thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:166",
+        "verseKey": "kjv:psalms:119:166"
+      }
+    },
+    {
+      "id": "verse-167",
+      "type": "bible_verse",
+      "verse": 167,
+      "verseId": "kjv:psalms:119:167",
+      "numberLabel": "167",
+      "text": "My soul hath kept thy testimonies; and I love them exceedingly.",
+      "metadata": {
+        "reference": "Psalms 119:167",
+        "verseKey": "kjv:psalms:119:167"
+      }
+    },
+    {
+      "id": "verse-168",
+      "type": "bible_verse",
+      "verse": 168,
+      "verseId": "kjv:psalms:119:168",
+      "numberLabel": "168",
+      "text": "I have kept thy precepts and thy testimonies: for all my ways are before thee.",
+      "metadata": {
+        "reference": "Psalms 119:168",
+        "verseKey": "kjv:psalms:119:168"
+      }
+    },
+    {
+      "id": "verse-169",
+      "type": "bible_verse",
+      "verse": 169,
+      "verseId": "kjv:psalms:119:169",
+      "numberLabel": "169",
+      "text": "Let my cry come near before thee, O LORD: give me understanding according to thy word.",
+      "metadata": {
+        "reference": "Psalms 119:169",
+        "verseKey": "kjv:psalms:119:169"
+      }
+    },
+    {
+      "id": "verse-170",
+      "type": "bible_verse",
+      "verse": 170,
+      "verseId": "kjv:psalms:119:170",
+      "numberLabel": "170",
+      "text": "Let my supplication come before thee: deliver me according to thy word.",
+      "metadata": {
+        "reference": "Psalms 119:170",
+        "verseKey": "kjv:psalms:119:170"
+      }
+    },
+    {
+      "id": "verse-171",
+      "type": "bible_verse",
+      "verse": 171,
+      "verseId": "kjv:psalms:119:171",
+      "numberLabel": "171",
+      "text": "My lips shall utter praise, when thou hast taught me thy statutes.",
+      "metadata": {
+        "reference": "Psalms 119:171",
+        "verseKey": "kjv:psalms:119:171"
+      }
+    },
+    {
+      "id": "verse-172",
+      "type": "bible_verse",
+      "verse": 172,
+      "verseId": "kjv:psalms:119:172",
+      "numberLabel": "172",
+      "text": "My tongue shall speak of thy word: for all thy commandments are righteousness.",
+      "metadata": {
+        "reference": "Psalms 119:172",
+        "verseKey": "kjv:psalms:119:172"
+      }
+    },
+    {
+      "id": "verse-173",
+      "type": "bible_verse",
+      "verse": 173,
+      "verseId": "kjv:psalms:119:173",
+      "numberLabel": "173",
+      "text": "Let thine hand help me; for I have chosen thy precepts.",
+      "metadata": {
+        "reference": "Psalms 119:173",
+        "verseKey": "kjv:psalms:119:173"
+      }
+    },
+    {
+      "id": "verse-174",
+      "type": "bible_verse",
+      "verse": 174,
+      "verseId": "kjv:psalms:119:174",
+      "numberLabel": "174",
+      "text": "I have longed for thy salvation, O LORD; and thy law is my delight.",
+      "metadata": {
+        "reference": "Psalms 119:174",
+        "verseKey": "kjv:psalms:119:174"
+      }
+    },
+    {
+      "id": "verse-175",
+      "type": "bible_verse",
+      "verse": 175,
+      "verseId": "kjv:psalms:119:175",
+      "numberLabel": "175",
+      "text": "Let my soul live, and it shall praise thee; and let thy judgments help me.",
+      "metadata": {
+        "reference": "Psalms 119:175",
+        "verseKey": "kjv:psalms:119:175"
+      }
+    },
+    {
+      "id": "verse-176",
+      "type": "bible_verse",
+      "verse": 176,
+      "verseId": "kjv:psalms:119:176",
+      "numberLabel": "176",
+      "text": "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.",
+      "metadata": {
+        "reference": "Psalms 119:176",
+        "verseKey": "kjv:psalms:119:176"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Psalms.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Psalms.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-john-014",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 14,
+  "title": "John 14",
+  "display_title": "John 14",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "john",
+  "book": "John",
+  "bookName": "John",
+  "bookOrder": 43,
+  "testament": "new",
+  "chapter": 14,
+  "sortOrder": 43014,
+  "verseCount": 31,
+  "aliases": [
+    "John",
+    "Jn",
+    "Jhn"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:john:14:1",
+      "numberLabel": "1",
+      "text": "Let not your heart be troubled: ye believe in God, believe also in me.",
+      "metadata": {
+        "reference": "John 14:1",
+        "verseKey": "kjv:john:14:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:john:14:2",
+      "numberLabel": "2",
+      "text": "In my Father’s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.",
+      "metadata": {
+        "reference": "John 14:2",
+        "verseKey": "kjv:john:14:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:john:14:3",
+      "numberLabel": "3",
+      "text": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.",
+      "metadata": {
+        "reference": "John 14:3",
+        "verseKey": "kjv:john:14:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:john:14:4",
+      "numberLabel": "4",
+      "text": "And whither I go ye know, and the way ye know.",
+      "metadata": {
+        "reference": "John 14:4",
+        "verseKey": "kjv:john:14:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:john:14:5",
+      "numberLabel": "5",
+      "text": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?",
+      "metadata": {
+        "reference": "John 14:5",
+        "verseKey": "kjv:john:14:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:john:14:6",
+      "numberLabel": "6",
+      "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+      "metadata": {
+        "reference": "John 14:6",
+        "verseKey": "kjv:john:14:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:john:14:7",
+      "numberLabel": "7",
+      "text": "If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.",
+      "metadata": {
+        "reference": "John 14:7",
+        "verseKey": "kjv:john:14:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:john:14:8",
+      "numberLabel": "8",
+      "text": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us.",
+      "metadata": {
+        "reference": "John 14:8",
+        "verseKey": "kjv:john:14:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:john:14:9",
+      "numberLabel": "9",
+      "text": "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?",
+      "metadata": {
+        "reference": "John 14:9",
+        "verseKey": "kjv:john:14:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:john:14:10",
+      "numberLabel": "10",
+      "text": "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.",
+      "metadata": {
+        "reference": "John 14:10",
+        "verseKey": "kjv:john:14:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:john:14:11",
+      "numberLabel": "11",
+      "text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake.",
+      "metadata": {
+        "reference": "John 14:11",
+        "verseKey": "kjv:john:14:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:john:14:12",
+      "numberLabel": "12",
+      "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.",
+      "metadata": {
+        "reference": "John 14:12",
+        "verseKey": "kjv:john:14:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:john:14:13",
+      "numberLabel": "13",
+      "text": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.",
+      "metadata": {
+        "reference": "John 14:13",
+        "verseKey": "kjv:john:14:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:john:14:14",
+      "numberLabel": "14",
+      "text": "If ye shall ask any thing in my name, I will do it.",
+      "metadata": {
+        "reference": "John 14:14",
+        "verseKey": "kjv:john:14:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:john:14:15",
+      "numberLabel": "15",
+      "text": "If ye love me, keep my commandments.",
+      "metadata": {
+        "reference": "John 14:15",
+        "verseKey": "kjv:john:14:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:john:14:16",
+      "numberLabel": "16",
+      "text": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;",
+      "metadata": {
+        "reference": "John 14:16",
+        "verseKey": "kjv:john:14:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:john:14:17",
+      "numberLabel": "17",
+      "text": "Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.",
+      "metadata": {
+        "reference": "John 14:17",
+        "verseKey": "kjv:john:14:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:john:14:18",
+      "numberLabel": "18",
+      "text": "I will not leave you comfortless: I will come to you.",
+      "metadata": {
+        "reference": "John 14:18",
+        "verseKey": "kjv:john:14:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:john:14:19",
+      "numberLabel": "19",
+      "text": "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.",
+      "metadata": {
+        "reference": "John 14:19",
+        "verseKey": "kjv:john:14:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:john:14:20",
+      "numberLabel": "20",
+      "text": "At that day ye shall know that I am in my Father, and ye in me, and I in you.",
+      "metadata": {
+        "reference": "John 14:20",
+        "verseKey": "kjv:john:14:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:john:14:21",
+      "numberLabel": "21",
+      "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.",
+      "metadata": {
+        "reference": "John 14:21",
+        "verseKey": "kjv:john:14:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:john:14:22",
+      "numberLabel": "22",
+      "text": "Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?",
+      "metadata": {
+        "reference": "John 14:22",
+        "verseKey": "kjv:john:14:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:john:14:23",
+      "numberLabel": "23",
+      "text": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.",
+      "metadata": {
+        "reference": "John 14:23",
+        "verseKey": "kjv:john:14:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:john:14:24",
+      "numberLabel": "24",
+      "text": "He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me.",
+      "metadata": {
+        "reference": "John 14:24",
+        "verseKey": "kjv:john:14:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:john:14:25",
+      "numberLabel": "25",
+      "text": "These things have I spoken unto you, being yet present with you.",
+      "metadata": {
+        "reference": "John 14:25",
+        "verseKey": "kjv:john:14:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:john:14:26",
+      "numberLabel": "26",
+      "text": "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.",
+      "metadata": {
+        "reference": "John 14:26",
+        "verseKey": "kjv:john:14:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:john:14:27",
+      "numberLabel": "27",
+      "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+      "metadata": {
+        "reference": "John 14:27",
+        "verseKey": "kjv:john:14:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:john:14:28",
+      "numberLabel": "28",
+      "text": "Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.",
+      "metadata": {
+        "reference": "John 14:28",
+        "verseKey": "kjv:john:14:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:john:14:29",
+      "numberLabel": "29",
+      "text": "And now I have told you before it come to pass, that, when it is come to pass, ye might believe.",
+      "metadata": {
+        "reference": "John 14:29",
+        "verseKey": "kjv:john:14:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:john:14:30",
+      "numberLabel": "30",
+      "text": "Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.",
+      "metadata": {
+        "reference": "John 14:30",
+        "verseKey": "kjv:john:14:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:john:14:31",
+      "numberLabel": "31",
+      "text": "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.",
+      "metadata": {
+        "reference": "John 14:31",
+        "verseKey": "kjv:john:14:31"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "John.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/John.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-hosea-002",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 2,
+  "title": "Hosea 2",
+  "display_title": "Hosea 2",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "hosea",
+  "book": "Hosea",
+  "bookName": "Hosea",
+  "bookOrder": 28,
+  "testament": "old",
+  "chapter": 2,
+  "sortOrder": 28002,
+  "verseCount": 23,
+  "aliases": [
+    "Hos",
+    "Ho"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:hosea:2:1",
+      "numberLabel": "1",
+      "text": "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.",
+      "metadata": {
+        "reference": "Hosea 2:1",
+        "verseKey": "kjv:hosea:2:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:hosea:2:2",
+      "numberLabel": "2",
+      "text": "Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;",
+      "metadata": {
+        "reference": "Hosea 2:2",
+        "verseKey": "kjv:hosea:2:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:hosea:2:3",
+      "numberLabel": "3",
+      "text": "Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst.",
+      "metadata": {
+        "reference": "Hosea 2:3",
+        "verseKey": "kjv:hosea:2:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:hosea:2:4",
+      "numberLabel": "4",
+      "text": "And I will not have mercy upon her children; for they be the children of whoredoms.",
+      "metadata": {
+        "reference": "Hosea 2:4",
+        "verseKey": "kjv:hosea:2:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:hosea:2:5",
+      "numberLabel": "5",
+      "text": "For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink.",
+      "metadata": {
+        "reference": "Hosea 2:5",
+        "verseKey": "kjv:hosea:2:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:hosea:2:6",
+      "numberLabel": "6",
+      "text": "Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths.",
+      "metadata": {
+        "reference": "Hosea 2:6",
+        "verseKey": "kjv:hosea:2:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:hosea:2:7",
+      "numberLabel": "7",
+      "text": "And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now.",
+      "metadata": {
+        "reference": "Hosea 2:7",
+        "verseKey": "kjv:hosea:2:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:hosea:2:8",
+      "numberLabel": "8",
+      "text": "For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal.",
+      "metadata": {
+        "reference": "Hosea 2:8",
+        "verseKey": "kjv:hosea:2:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:hosea:2:9",
+      "numberLabel": "9",
+      "text": "Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness.",
+      "metadata": {
+        "reference": "Hosea 2:9",
+        "verseKey": "kjv:hosea:2:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:hosea:2:10",
+      "numberLabel": "10",
+      "text": "And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand.",
+      "metadata": {
+        "reference": "Hosea 2:10",
+        "verseKey": "kjv:hosea:2:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:hosea:2:11",
+      "numberLabel": "11",
+      "text": "I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.",
+      "metadata": {
+        "reference": "Hosea 2:11",
+        "verseKey": "kjv:hosea:2:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:hosea:2:12",
+      "numberLabel": "12",
+      "text": "And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them.",
+      "metadata": {
+        "reference": "Hosea 2:12",
+        "verseKey": "kjv:hosea:2:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:hosea:2:13",
+      "numberLabel": "13",
+      "text": "And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD.",
+      "metadata": {
+        "reference": "Hosea 2:13",
+        "verseKey": "kjv:hosea:2:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:hosea:2:14",
+      "numberLabel": "14",
+      "text": "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.",
+      "metadata": {
+        "reference": "Hosea 2:14",
+        "verseKey": "kjv:hosea:2:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:hosea:2:15",
+      "numberLabel": "15",
+      "text": "And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.",
+      "metadata": {
+        "reference": "Hosea 2:15",
+        "verseKey": "kjv:hosea:2:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:hosea:2:16",
+      "numberLabel": "16",
+      "text": "And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali.",
+      "metadata": {
+        "reference": "Hosea 2:16",
+        "verseKey": "kjv:hosea:2:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:hosea:2:17",
+      "numberLabel": "17",
+      "text": "For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name.",
+      "metadata": {
+        "reference": "Hosea 2:17",
+        "verseKey": "kjv:hosea:2:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:hosea:2:18",
+      "numberLabel": "18",
+      "text": "And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.",
+      "metadata": {
+        "reference": "Hosea 2:18",
+        "verseKey": "kjv:hosea:2:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:hosea:2:19",
+      "numberLabel": "19",
+      "text": "And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies.",
+      "metadata": {
+        "reference": "Hosea 2:19",
+        "verseKey": "kjv:hosea:2:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:hosea:2:20",
+      "numberLabel": "20",
+      "text": "I will even betroth thee unto me in faithfulness: and thou shalt know the LORD.",
+      "metadata": {
+        "reference": "Hosea 2:20",
+        "verseKey": "kjv:hosea:2:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:hosea:2:21",
+      "numberLabel": "21",
+      "text": "And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;",
+      "metadata": {
+        "reference": "Hosea 2:21",
+        "verseKey": "kjv:hosea:2:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:hosea:2:22",
+      "numberLabel": "22",
+      "text": "And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel.",
+      "metadata": {
+        "reference": "Hosea 2:22",
+        "verseKey": "kjv:hosea:2:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:hosea:2:23",
+      "numberLabel": "23",
+      "text": "And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.",
+      "metadata": {
+        "reference": "Hosea 2:23",
+        "verseKey": "kjv:hosea:2:23"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Hosea.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Hosea.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

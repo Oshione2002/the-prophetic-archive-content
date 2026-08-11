@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-exodus-009",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 9,
+  "title": "Exodus 9",
+  "display_title": "Exodus 9",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "exodus",
+  "book": "Exodus",
+  "bookName": "Exodus",
+  "bookOrder": 2,
+  "testament": "old",
+  "chapter": 9,
+  "sortOrder": 2009,
+  "verseCount": 35,
+  "aliases": [
+    "Exod",
+    "Exo",
+    "Ex"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:exodus:9:1",
+      "numberLabel": "1",
+      "text": "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
+      "metadata": {
+        "reference": "Exodus 9:1",
+        "verseKey": "kjv:exodus:9:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:exodus:9:2",
+      "numberLabel": "2",
+      "text": "For if thou refuse to let them go, and wilt hold them still,",
+      "metadata": {
+        "reference": "Exodus 9:2",
+        "verseKey": "kjv:exodus:9:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:exodus:9:3",
+      "numberLabel": "3",
+      "text": "Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.",
+      "metadata": {
+        "reference": "Exodus 9:3",
+        "verseKey": "kjv:exodus:9:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:exodus:9:4",
+      "numberLabel": "4",
+      "text": "And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children’s of Israel.",
+      "metadata": {
+        "reference": "Exodus 9:4",
+        "verseKey": "kjv:exodus:9:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:exodus:9:5",
+      "numberLabel": "5",
+      "text": "And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.",
+      "metadata": {
+        "reference": "Exodus 9:5",
+        "verseKey": "kjv:exodus:9:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:exodus:9:6",
+      "numberLabel": "6",
+      "text": "And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.",
+      "metadata": {
+        "reference": "Exodus 9:6",
+        "verseKey": "kjv:exodus:9:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:exodus:9:7",
+      "numberLabel": "7",
+      "text": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.",
+      "metadata": {
+        "reference": "Exodus 9:7",
+        "verseKey": "kjv:exodus:9:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:exodus:9:8",
+      "numberLabel": "8",
+      "text": "And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.",
+      "metadata": {
+        "reference": "Exodus 9:8",
+        "verseKey": "kjv:exodus:9:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:exodus:9:9",
+      "numberLabel": "9",
+      "text": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 9:9",
+        "verseKey": "kjv:exodus:9:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:exodus:9:10",
+      "numberLabel": "10",
+      "text": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.",
+      "metadata": {
+        "reference": "Exodus 9:10",
+        "verseKey": "kjv:exodus:9:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:exodus:9:11",
+      "numberLabel": "11",
+      "text": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.",
+      "metadata": {
+        "reference": "Exodus 9:11",
+        "verseKey": "kjv:exodus:9:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:exodus:9:12",
+      "numberLabel": "12",
+      "text": "And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses.",
+      "metadata": {
+        "reference": "Exodus 9:12",
+        "verseKey": "kjv:exodus:9:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:exodus:9:13",
+      "numberLabel": "13",
+      "text": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
+      "metadata": {
+        "reference": "Exodus 9:13",
+        "verseKey": "kjv:exodus:9:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:exodus:9:14",
+      "numberLabel": "14",
+      "text": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth.",
+      "metadata": {
+        "reference": "Exodus 9:14",
+        "verseKey": "kjv:exodus:9:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:exodus:9:15",
+      "numberLabel": "15",
+      "text": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.",
+      "metadata": {
+        "reference": "Exodus 9:15",
+        "verseKey": "kjv:exodus:9:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:exodus:9:16",
+      "numberLabel": "16",
+      "text": "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.",
+      "metadata": {
+        "reference": "Exodus 9:16",
+        "verseKey": "kjv:exodus:9:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:exodus:9:17",
+      "numberLabel": "17",
+      "text": "As yet exaltest thou thyself against my people, that thou wilt not let them go?",
+      "metadata": {
+        "reference": "Exodus 9:17",
+        "verseKey": "kjv:exodus:9:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:exodus:9:18",
+      "numberLabel": "18",
+      "text": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.",
+      "metadata": {
+        "reference": "Exodus 9:18",
+        "verseKey": "kjv:exodus:9:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:exodus:9:19",
+      "numberLabel": "19",
+      "text": "Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.",
+      "metadata": {
+        "reference": "Exodus 9:19",
+        "verseKey": "kjv:exodus:9:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:exodus:9:20",
+      "numberLabel": "20",
+      "text": "He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:",
+      "metadata": {
+        "reference": "Exodus 9:20",
+        "verseKey": "kjv:exodus:9:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:exodus:9:21",
+      "numberLabel": "21",
+      "text": "And he that regarded not the word of the LORD left his servants and his cattle in the field.",
+      "metadata": {
+        "reference": "Exodus 9:21",
+        "verseKey": "kjv:exodus:9:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:exodus:9:22",
+      "numberLabel": "22",
+      "text": "And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 9:22",
+        "verseKey": "kjv:exodus:9:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:exodus:9:23",
+      "numberLabel": "23",
+      "text": "And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt.",
+      "metadata": {
+        "reference": "Exodus 9:23",
+        "verseKey": "kjv:exodus:9:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:exodus:9:24",
+      "numberLabel": "24",
+      "text": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.",
+      "metadata": {
+        "reference": "Exodus 9:24",
+        "verseKey": "kjv:exodus:9:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:exodus:9:25",
+      "numberLabel": "25",
+      "text": "And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.",
+      "metadata": {
+        "reference": "Exodus 9:25",
+        "verseKey": "kjv:exodus:9:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:exodus:9:26",
+      "numberLabel": "26",
+      "text": "Only in the land of Goshen, where the children of Israel were, was there no hail.",
+      "metadata": {
+        "reference": "Exodus 9:26",
+        "verseKey": "kjv:exodus:9:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:exodus:9:27",
+      "numberLabel": "27",
+      "text": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked.",
+      "metadata": {
+        "reference": "Exodus 9:27",
+        "verseKey": "kjv:exodus:9:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:exodus:9:28",
+      "numberLabel": "28",
+      "text": "Intreat the LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer.",
+      "metadata": {
+        "reference": "Exodus 9:28",
+        "verseKey": "kjv:exodus:9:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:exodus:9:29",
+      "numberLabel": "29",
+      "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’s.",
+      "metadata": {
+        "reference": "Exodus 9:29",
+        "verseKey": "kjv:exodus:9:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:exodus:9:30",
+      "numberLabel": "30",
+      "text": "But as for thee and thy servants, I know that ye will not yet fear the LORD God.",
+      "metadata": {
+        "reference": "Exodus 9:30",
+        "verseKey": "kjv:exodus:9:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:exodus:9:31",
+      "numberLabel": "31",
+      "text": "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled.",
+      "metadata": {
+        "reference": "Exodus 9:31",
+        "verseKey": "kjv:exodus:9:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:exodus:9:32",
+      "numberLabel": "32",
+      "text": "But the wheat and the rie were not smitten: for they were not grown up.",
+      "metadata": {
+        "reference": "Exodus 9:32",
+        "verseKey": "kjv:exodus:9:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:exodus:9:33",
+      "numberLabel": "33",
+      "text": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth.",
+      "metadata": {
+        "reference": "Exodus 9:33",
+        "verseKey": "kjv:exodus:9:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:exodus:9:34",
+      "numberLabel": "34",
+      "text": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.",
+      "metadata": {
+        "reference": "Exodus 9:34",
+        "verseKey": "kjv:exodus:9:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:exodus:9:35",
+      "numberLabel": "35",
+      "text": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.",
+      "metadata": {
+        "reference": "Exodus 9:35",
+        "verseKey": "kjv:exodus:9:35"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Exodus.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Exodus.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}

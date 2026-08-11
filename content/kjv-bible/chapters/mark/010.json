@@ -1,0 +1,657 @@
+{
+  "schemaVersion": 1,
+  "id": "kjv-mark-010",
+  "collection": "kjv-bible",
+  "document_type": "bible_chapter",
+  "number": 10,
+  "title": "Mark 10",
+  "display_title": "Mark 10",
+  "translation": "King James Version",
+  "translationCode": "KJV",
+  "bookId": "mark",
+  "book": "Mark",
+  "bookName": "Mark",
+  "bookOrder": 41,
+  "testament": "new",
+  "chapter": 10,
+  "sortOrder": 41010,
+  "verseCount": 52,
+  "aliases": [
+    "Mark",
+    "Mrk",
+    "Mk"
+  ],
+  "verses": [
+    {
+      "id": "verse-001",
+      "type": "bible_verse",
+      "verse": 1,
+      "verseId": "kjv:mark:10:1",
+      "numberLabel": "1",
+      "text": "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
+      "metadata": {
+        "reference": "Mark 10:1",
+        "verseKey": "kjv:mark:10:1"
+      }
+    },
+    {
+      "id": "verse-002",
+      "type": "bible_verse",
+      "verse": 2,
+      "verseId": "kjv:mark:10:2",
+      "numberLabel": "2",
+      "text": "And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him.",
+      "metadata": {
+        "reference": "Mark 10:2",
+        "verseKey": "kjv:mark:10:2"
+      }
+    },
+    {
+      "id": "verse-003",
+      "type": "bible_verse",
+      "verse": 3,
+      "verseId": "kjv:mark:10:3",
+      "numberLabel": "3",
+      "text": "And he answered and said unto them, What did Moses command you?",
+      "metadata": {
+        "reference": "Mark 10:3",
+        "verseKey": "kjv:mark:10:3"
+      }
+    },
+    {
+      "id": "verse-004",
+      "type": "bible_verse",
+      "verse": 4,
+      "verseId": "kjv:mark:10:4",
+      "numberLabel": "4",
+      "text": "And they said, Moses suffered to write a bill of divorcement, and to put her away.",
+      "metadata": {
+        "reference": "Mark 10:4",
+        "verseKey": "kjv:mark:10:4"
+      }
+    },
+    {
+      "id": "verse-005",
+      "type": "bible_verse",
+      "verse": 5,
+      "verseId": "kjv:mark:10:5",
+      "numberLabel": "5",
+      "text": "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.",
+      "metadata": {
+        "reference": "Mark 10:5",
+        "verseKey": "kjv:mark:10:5"
+      }
+    },
+    {
+      "id": "verse-006",
+      "type": "bible_verse",
+      "verse": 6,
+      "verseId": "kjv:mark:10:6",
+      "numberLabel": "6",
+      "text": "But from the beginning of the creation God made them male and female.",
+      "metadata": {
+        "reference": "Mark 10:6",
+        "verseKey": "kjv:mark:10:6"
+      }
+    },
+    {
+      "id": "verse-007",
+      "type": "bible_verse",
+      "verse": 7,
+      "verseId": "kjv:mark:10:7",
+      "numberLabel": "7",
+      "text": "For this cause shall a man leave his father and mother, and cleave to his wife;",
+      "metadata": {
+        "reference": "Mark 10:7",
+        "verseKey": "kjv:mark:10:7"
+      }
+    },
+    {
+      "id": "verse-008",
+      "type": "bible_verse",
+      "verse": 8,
+      "verseId": "kjv:mark:10:8",
+      "numberLabel": "8",
+      "text": "And they twain shall be one flesh: so then they are no more twain, but one flesh.",
+      "metadata": {
+        "reference": "Mark 10:8",
+        "verseKey": "kjv:mark:10:8"
+      }
+    },
+    {
+      "id": "verse-009",
+      "type": "bible_verse",
+      "verse": 9,
+      "verseId": "kjv:mark:10:9",
+      "numberLabel": "9",
+      "text": "What therefore God hath joined together, let not man put asunder.",
+      "metadata": {
+        "reference": "Mark 10:9",
+        "verseKey": "kjv:mark:10:9"
+      }
+    },
+    {
+      "id": "verse-010",
+      "type": "bible_verse",
+      "verse": 10,
+      "verseId": "kjv:mark:10:10",
+      "numberLabel": "10",
+      "text": "And in the house his disciples asked him again of the same matter.",
+      "metadata": {
+        "reference": "Mark 10:10",
+        "verseKey": "kjv:mark:10:10"
+      }
+    },
+    {
+      "id": "verse-011",
+      "type": "bible_verse",
+      "verse": 11,
+      "verseId": "kjv:mark:10:11",
+      "numberLabel": "11",
+      "text": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.",
+      "metadata": {
+        "reference": "Mark 10:11",
+        "verseKey": "kjv:mark:10:11"
+      }
+    },
+    {
+      "id": "verse-012",
+      "type": "bible_verse",
+      "verse": 12,
+      "verseId": "kjv:mark:10:12",
+      "numberLabel": "12",
+      "text": "And if a woman shall put away her husband, and be married to another, she committeth adultery.",
+      "metadata": {
+        "reference": "Mark 10:12",
+        "verseKey": "kjv:mark:10:12"
+      }
+    },
+    {
+      "id": "verse-013",
+      "type": "bible_verse",
+      "verse": 13,
+      "verseId": "kjv:mark:10:13",
+      "numberLabel": "13",
+      "text": "And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them.",
+      "metadata": {
+        "reference": "Mark 10:13",
+        "verseKey": "kjv:mark:10:13"
+      }
+    },
+    {
+      "id": "verse-014",
+      "type": "bible_verse",
+      "verse": 14,
+      "verseId": "kjv:mark:10:14",
+      "numberLabel": "14",
+      "text": "But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.",
+      "metadata": {
+        "reference": "Mark 10:14",
+        "verseKey": "kjv:mark:10:14"
+      }
+    },
+    {
+      "id": "verse-015",
+      "type": "bible_verse",
+      "verse": 15,
+      "verseId": "kjv:mark:10:15",
+      "numberLabel": "15",
+      "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.",
+      "metadata": {
+        "reference": "Mark 10:15",
+        "verseKey": "kjv:mark:10:15"
+      }
+    },
+    {
+      "id": "verse-016",
+      "type": "bible_verse",
+      "verse": 16,
+      "verseId": "kjv:mark:10:16",
+      "numberLabel": "16",
+      "text": "And he took them up in his arms, put his hands upon them, and blessed them.",
+      "metadata": {
+        "reference": "Mark 10:16",
+        "verseKey": "kjv:mark:10:16"
+      }
+    },
+    {
+      "id": "verse-017",
+      "type": "bible_verse",
+      "verse": 17,
+      "verseId": "kjv:mark:10:17",
+      "numberLabel": "17",
+      "text": "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?",
+      "metadata": {
+        "reference": "Mark 10:17",
+        "verseKey": "kjv:mark:10:17"
+      }
+    },
+    {
+      "id": "verse-018",
+      "type": "bible_verse",
+      "verse": 18,
+      "verseId": "kjv:mark:10:18",
+      "numberLabel": "18",
+      "text": "And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God.",
+      "metadata": {
+        "reference": "Mark 10:18",
+        "verseKey": "kjv:mark:10:18"
+      }
+    },
+    {
+      "id": "verse-019",
+      "type": "bible_verse",
+      "verse": 19,
+      "verseId": "kjv:mark:10:19",
+      "numberLabel": "19",
+      "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.",
+      "metadata": {
+        "reference": "Mark 10:19",
+        "verseKey": "kjv:mark:10:19"
+      }
+    },
+    {
+      "id": "verse-020",
+      "type": "bible_verse",
+      "verse": 20,
+      "verseId": "kjv:mark:10:20",
+      "numberLabel": "20",
+      "text": "And he answered and said unto him, Master, all these have I observed from my youth.",
+      "metadata": {
+        "reference": "Mark 10:20",
+        "verseKey": "kjv:mark:10:20"
+      }
+    },
+    {
+      "id": "verse-021",
+      "type": "bible_verse",
+      "verse": 21,
+      "verseId": "kjv:mark:10:21",
+      "numberLabel": "21",
+      "text": "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.",
+      "metadata": {
+        "reference": "Mark 10:21",
+        "verseKey": "kjv:mark:10:21"
+      }
+    },
+    {
+      "id": "verse-022",
+      "type": "bible_verse",
+      "verse": 22,
+      "verseId": "kjv:mark:10:22",
+      "numberLabel": "22",
+      "text": "And he was sad at that saying, and went away grieved: for he had great possessions.",
+      "metadata": {
+        "reference": "Mark 10:22",
+        "verseKey": "kjv:mark:10:22"
+      }
+    },
+    {
+      "id": "verse-023",
+      "type": "bible_verse",
+      "verse": 23,
+      "verseId": "kjv:mark:10:23",
+      "numberLabel": "23",
+      "text": "And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!",
+      "metadata": {
+        "reference": "Mark 10:23",
+        "verseKey": "kjv:mark:10:23"
+      }
+    },
+    {
+      "id": "verse-024",
+      "type": "bible_verse",
+      "verse": 24,
+      "verseId": "kjv:mark:10:24",
+      "numberLabel": "24",
+      "text": "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!",
+      "metadata": {
+        "reference": "Mark 10:24",
+        "verseKey": "kjv:mark:10:24"
+      }
+    },
+    {
+      "id": "verse-025",
+      "type": "bible_verse",
+      "verse": 25,
+      "verseId": "kjv:mark:10:25",
+      "numberLabel": "25",
+      "text": "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.",
+      "metadata": {
+        "reference": "Mark 10:25",
+        "verseKey": "kjv:mark:10:25"
+      }
+    },
+    {
+      "id": "verse-026",
+      "type": "bible_verse",
+      "verse": 26,
+      "verseId": "kjv:mark:10:26",
+      "numberLabel": "26",
+      "text": "And they were astonished out of measure, saying among themselves, Who then can be saved?",
+      "metadata": {
+        "reference": "Mark 10:26",
+        "verseKey": "kjv:mark:10:26"
+      }
+    },
+    {
+      "id": "verse-027",
+      "type": "bible_verse",
+      "verse": 27,
+      "verseId": "kjv:mark:10:27",
+      "numberLabel": "27",
+      "text": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.",
+      "metadata": {
+        "reference": "Mark 10:27",
+        "verseKey": "kjv:mark:10:27"
+      }
+    },
+    {
+      "id": "verse-028",
+      "type": "bible_verse",
+      "verse": 28,
+      "verseId": "kjv:mark:10:28",
+      "numberLabel": "28",
+      "text": "Then Peter began to say unto him, Lo, we have left all, and have followed thee.",
+      "metadata": {
+        "reference": "Mark 10:28",
+        "verseKey": "kjv:mark:10:28"
+      }
+    },
+    {
+      "id": "verse-029",
+      "type": "bible_verse",
+      "verse": 29,
+      "verseId": "kjv:mark:10:29",
+      "numberLabel": "29",
+      "text": "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel’s,",
+      "metadata": {
+        "reference": "Mark 10:29",
+        "verseKey": "kjv:mark:10:29"
+      }
+    },
+    {
+      "id": "verse-030",
+      "type": "bible_verse",
+      "verse": 30,
+      "verseId": "kjv:mark:10:30",
+      "numberLabel": "30",
+      "text": "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.",
+      "metadata": {
+        "reference": "Mark 10:30",
+        "verseKey": "kjv:mark:10:30"
+      }
+    },
+    {
+      "id": "verse-031",
+      "type": "bible_verse",
+      "verse": 31,
+      "verseId": "kjv:mark:10:31",
+      "numberLabel": "31",
+      "text": "But many that are first shall be last; and the last first.",
+      "metadata": {
+        "reference": "Mark 10:31",
+        "verseKey": "kjv:mark:10:31"
+      }
+    },
+    {
+      "id": "verse-032",
+      "type": "bible_verse",
+      "verse": 32,
+      "verseId": "kjv:mark:10:32",
+      "numberLabel": "32",
+      "text": "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,",
+      "metadata": {
+        "reference": "Mark 10:32",
+        "verseKey": "kjv:mark:10:32"
+      }
+    },
+    {
+      "id": "verse-033",
+      "type": "bible_verse",
+      "verse": 33,
+      "verseId": "kjv:mark:10:33",
+      "numberLabel": "33",
+      "text": "Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:",
+      "metadata": {
+        "reference": "Mark 10:33",
+        "verseKey": "kjv:mark:10:33"
+      }
+    },
+    {
+      "id": "verse-034",
+      "type": "bible_verse",
+      "verse": 34,
+      "verseId": "kjv:mark:10:34",
+      "numberLabel": "34",
+      "text": "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.",
+      "metadata": {
+        "reference": "Mark 10:34",
+        "verseKey": "kjv:mark:10:34"
+      }
+    },
+    {
+      "id": "verse-035",
+      "type": "bible_verse",
+      "verse": 35,
+      "verseId": "kjv:mark:10:35",
+      "numberLabel": "35",
+      "text": "And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.",
+      "metadata": {
+        "reference": "Mark 10:35",
+        "verseKey": "kjv:mark:10:35"
+      }
+    },
+    {
+      "id": "verse-036",
+      "type": "bible_verse",
+      "verse": 36,
+      "verseId": "kjv:mark:10:36",
+      "numberLabel": "36",
+      "text": "And he said unto them, What would ye that I should do for you?",
+      "metadata": {
+        "reference": "Mark 10:36",
+        "verseKey": "kjv:mark:10:36"
+      }
+    },
+    {
+      "id": "verse-037",
+      "type": "bible_verse",
+      "verse": 37,
+      "verseId": "kjv:mark:10:37",
+      "numberLabel": "37",
+      "text": "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.",
+      "metadata": {
+        "reference": "Mark 10:37",
+        "verseKey": "kjv:mark:10:37"
+      }
+    },
+    {
+      "id": "verse-038",
+      "type": "bible_verse",
+      "verse": 38,
+      "verseId": "kjv:mark:10:38",
+      "numberLabel": "38",
+      "text": "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?",
+      "metadata": {
+        "reference": "Mark 10:38",
+        "verseKey": "kjv:mark:10:38"
+      }
+    },
+    {
+      "id": "verse-039",
+      "type": "bible_verse",
+      "verse": 39,
+      "verseId": "kjv:mark:10:39",
+      "numberLabel": "39",
+      "text": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:",
+      "metadata": {
+        "reference": "Mark 10:39",
+        "verseKey": "kjv:mark:10:39"
+      }
+    },
+    {
+      "id": "verse-040",
+      "type": "bible_verse",
+      "verse": 40,
+      "verseId": "kjv:mark:10:40",
+      "numberLabel": "40",
+      "text": "But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared.",
+      "metadata": {
+        "reference": "Mark 10:40",
+        "verseKey": "kjv:mark:10:40"
+      }
+    },
+    {
+      "id": "verse-041",
+      "type": "bible_verse",
+      "verse": 41,
+      "verseId": "kjv:mark:10:41",
+      "numberLabel": "41",
+      "text": "And when the ten heard it, they began to be much displeased with James and John.",
+      "metadata": {
+        "reference": "Mark 10:41",
+        "verseKey": "kjv:mark:10:41"
+      }
+    },
+    {
+      "id": "verse-042",
+      "type": "bible_verse",
+      "verse": 42,
+      "verseId": "kjv:mark:10:42",
+      "numberLabel": "42",
+      "text": "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.",
+      "metadata": {
+        "reference": "Mark 10:42",
+        "verseKey": "kjv:mark:10:42"
+      }
+    },
+    {
+      "id": "verse-043",
+      "type": "bible_verse",
+      "verse": 43,
+      "verseId": "kjv:mark:10:43",
+      "numberLabel": "43",
+      "text": "But so shall it not be among you: but whosoever will be great among you, shall be your minister:",
+      "metadata": {
+        "reference": "Mark 10:43",
+        "verseKey": "kjv:mark:10:43"
+      }
+    },
+    {
+      "id": "verse-044",
+      "type": "bible_verse",
+      "verse": 44,
+      "verseId": "kjv:mark:10:44",
+      "numberLabel": "44",
+      "text": "And whosoever of you will be the chiefest, shall be servant of all.",
+      "metadata": {
+        "reference": "Mark 10:44",
+        "verseKey": "kjv:mark:10:44"
+      }
+    },
+    {
+      "id": "verse-045",
+      "type": "bible_verse",
+      "verse": 45,
+      "verseId": "kjv:mark:10:45",
+      "numberLabel": "45",
+      "text": "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+      "metadata": {
+        "reference": "Mark 10:45",
+        "verseKey": "kjv:mark:10:45"
+      }
+    },
+    {
+      "id": "verse-046",
+      "type": "bible_verse",
+      "verse": 46,
+      "verseId": "kjv:mark:10:46",
+      "numberLabel": "46",
+      "text": "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.",
+      "metadata": {
+        "reference": "Mark 10:46",
+        "verseKey": "kjv:mark:10:46"
+      }
+    },
+    {
+      "id": "verse-047",
+      "type": "bible_verse",
+      "verse": 47,
+      "verseId": "kjv:mark:10:47",
+      "numberLabel": "47",
+      "text": "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou son of David, have mercy on me.",
+      "metadata": {
+        "reference": "Mark 10:47",
+        "verseKey": "kjv:mark:10:47"
+      }
+    },
+    {
+      "id": "verse-048",
+      "type": "bible_verse",
+      "verse": 48,
+      "verseId": "kjv:mark:10:48",
+      "numberLabel": "48",
+      "text": "And many charged him that he should hold his peace: but he cried the more a great deal, Thou son of David, have mercy on me.",
+      "metadata": {
+        "reference": "Mark 10:48",
+        "verseKey": "kjv:mark:10:48"
+      }
+    },
+    {
+      "id": "verse-049",
+      "type": "bible_verse",
+      "verse": 49,
+      "verseId": "kjv:mark:10:49",
+      "numberLabel": "49",
+      "text": "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.",
+      "metadata": {
+        "reference": "Mark 10:49",
+        "verseKey": "kjv:mark:10:49"
+      }
+    },
+    {
+      "id": "verse-050",
+      "type": "bible_verse",
+      "verse": 50,
+      "verseId": "kjv:mark:10:50",
+      "numberLabel": "50",
+      "text": "And he, casting away his garment, rose, and came to Jesus.",
+      "metadata": {
+        "reference": "Mark 10:50",
+        "verseKey": "kjv:mark:10:50"
+      }
+    },
+    {
+      "id": "verse-051",
+      "type": "bible_verse",
+      "verse": 51,
+      "verseId": "kjv:mark:10:51",
+      "numberLabel": "51",
+      "text": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.",
+      "metadata": {
+        "reference": "Mark 10:51",
+        "verseKey": "kjv:mark:10:51"
+      }
+    },
+    {
+      "id": "verse-052",
+      "type": "bible_verse",
+      "verse": 52,
+      "verseId": "kjv:mark:10:52",
+      "numberLabel": "52",
+      "text": "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.",
+      "metadata": {
+        "reference": "Mark 10:52",
+        "verseKey": "kjv:mark:10:52"
+      }
+    }
+  ],
+  "source": {
+    "repository": "aruljohn/Bible-kjv",
+    "revision": "a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9",
+    "sourceFile": "Mark.json",
+    "sourceUrl": "https://raw.githubusercontent.com/aruljohn/Bible-kjv/a9aa4e55afbb3e095f57e4b14cd1f22c5ee8d7c9/Mark.json",
+    "sourceEditionNote": "The upstream JSON repository identifies this text as KJV but does not state a specific printing/textual edition."
+  }
+}
