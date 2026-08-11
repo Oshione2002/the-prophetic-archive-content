@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "monthly-letters",
+  "name": "Monthly Letters",
+  "documentCount": 199,
+  "contentPattern": "content/monthly-letters/monthly-letter-YYYY-MM.json",
+  "fileNaming": "YYYY-MM - Month YYYY.pdf",
+  "structure": "Paragraph-based; preserve printed month/year and source order.",
+  "metadataRule": "Author, signatory, editor and compiler are independent nullable fields. Do not automatically attribute every letter to Neal Frisby."
+}
