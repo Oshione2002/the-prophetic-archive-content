@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "translation-alerts",
+  "name": "Translation Alerts",
+  "numberedAlertCount": 61,
+  "frontMatterDocuments": 1,
+  "contentPattern": "content/translation-alerts/translation-alert-*.json",
+  "fileNaming": "NNN - Title.pdf",
+  "internalStructure": "Preserve explicit numbered points as numbered_item blocks; preserve introductory paragraphs and compilation subheadings.",
+  "notes": [
+    "Do not repeat the words Translation Alert before every item inside the collection.",
+    "Same-page alert boundaries were split at the printed header position."
+  ]
+}
