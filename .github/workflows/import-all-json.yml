@@ -24,13 +24,12 @@ jobs:
           set -euo pipefail
           if [[ ! -f bulk-json/READY ]]; then
             echo "ready=false" >> "$GITHUB_OUTPUT"
-            echo "Bulk JSON transport is not complete yet."
             exit 0
           fi
-          count=$(find bulk-json -maxdepth 1 -type f -name 'part-*.b64' | wc -l)
-          if [[ "$count" -ne 113 ]]; then
+          count=$(find bulk-json -maxdepth 1 -type f -name 'part-*.u20' | wc -l)
+          if [[ "$count" -ne 34 ]]; then
             echo "ready=false" >> "$GITHUB_OUTPUT"
-            echo "Expected 113 transport parts, found $count."
+            echo "Expected 34 transport parts, found $count."
             exit 0
           fi
           echo "ready=true" >> "$GITHUB_OUTPUT"
@@ -41,7 +40,25 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p /tmp/prophetic-json
-          cat $(find bulk-json -maxdepth 1 -type f -name 'part-*.b64' | sort) | base64 --decode > /tmp/prophetic-json/archive.tar.xz
+          python - <<'PY'
+          from pathlib import Path
+          parts = sorted(Path('bulk-json').glob('part-*.u20'))
+          text = ''.join(p.read_text(encoding='utf-8') for p in parts)
+          buf = 0
+          nbits = 0
+          out = bytearray()
+          for ch in text:
+              v = ord(ch) - 0x10000
+              if not 0 <= v < (1 << 20):
+                  raise SystemExit('Invalid U20 transport character')
+              buf = (buf << 20) | v
+              nbits += 20
+              while nbits >= 8:
+                  nbits -= 8
+                  out.append((buf >> nbits) & 0xff)
+                  buf &= (1 << nbits) - 1 if nbits else 0
+          Path('/tmp/prophetic-json/archive.tar.xz').write_bytes(bytes(out[:1522976]))
+          PY
           echo "bb6df5d8f45d2440be70ee1bbdd70083ce1cfd68a06b2922fd1c1bd9be0d31f0  /tmp/prophetic-json/archive.tar.xz" | sha256sum -c -
           tar -xJf /tmp/prophetic-json/archive.tar.xz -C /tmp/prophetic-json
           src=/tmp/prophetic-json/prophetic_json_min
@@ -52,17 +69,14 @@ jobs:
           cp "$src/catalogue.json" catalogue.json
           cp "$src/PROCESSING_NOTES.json" PROCESSING_NOTES.json
           cp "$src/validation_report.json" validation_report.json
-
           rm -rf bulk-json
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A content manifests catalogue.json PROCESSING_NOTES.json validation_report.json bulk-json
-
           if git diff --cached --quiet; then
             echo "No JSON changes to commit."
             exit 0
           fi
-
           git commit -m "Import complete generated archive JSON dataset"
           git push origin HEAD:main
