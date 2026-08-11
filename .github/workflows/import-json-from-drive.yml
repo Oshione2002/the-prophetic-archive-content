@@ -22,17 +22,35 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p /tmp/prophetic-json
-          url='https://drive.usercontent.google.com/download?id=1vvIBWXyUASnzjRqYCbg28vIgC_VKwZcM&export=download&confirm=t'
+          expected='bb6df5d8f45d2440be70ee1bbdd70083ce1cfd68a06b2922fd1c1bd9be0d31f0'
+          urls=(
+            'https://drive.google.com/uc?export=download&id=1vvIBWXyUASnzjRqYCbg28vIgC_VKwZcM&confirm=t'
+            'https://drive.usercontent.google.com/download?id=1vvIBWXyUASnzjRqYCbg28vIgC_VKwZcM&export=download&confirm=t'
+          )
+          success=false
+          : > DRIVE_IMPORT_STATUS.txt
+          for i in 0 1; do
+            out="/tmp/prophetic-json/candidate-$i"
+            echo "Candidate $i" >> DRIVE_IMPORT_STATUS.txt
+            if curl -fL --retry 2 --connect-timeout 20 --max-time 180 "${urls[$i]}" -o "$out"; then
+              bytes=$(wc -c < "$out")
+              sha=$(sha256sum "$out" | awk '{print $1}')
+              kind=$(file -b "$out" || true)
+              echo "bytes=$bytes" >> DRIVE_IMPORT_STATUS.txt
+              echo "sha256=$sha" >> DRIVE_IMPORT_STATUS.txt
+              echo "type=$kind" >> DRIVE_IMPORT_STATUS.txt
+              echo "head_hex=$(head -c 80 "$out" | xxd -p -c 200)" >> DRIVE_IMPORT_STATUS.txt
+              if [[ "$sha" == "$expected" ]]; then
+                cp "$out" /tmp/prophetic-json/archive.tar.xz
+                success=true
+                break
+              fi
+            else
+              echo 'curl failed' >> DRIVE_IMPORT_STATUS.txt
+            fi
+          done
 
-          if ! curl -fL --retry 3 --connect-timeout 20 --max-time 180 "$url" -o /tmp/prophetic-json/archive.tar.xz; then
-            echo 'Drive transport download failed.' > DRIVE_IMPORT_STATUS.txt
-          elif ! echo 'bb6df5d8f45d2440be70ee1bbdd70083ce1cfd68a06b2922fd1c1bd9be0d31f0  /tmp/prophetic-json/archive.tar.xz' | sha256sum -c -; then
-            {
-              echo 'Drive transport downloaded, but checksum did not match.'
-              echo "Downloaded bytes: $(wc -c < /tmp/prophetic-json/archive.tar.xz)"
-              echo "Downloaded SHA256: $(sha256sum /tmp/prophetic-json/archive.tar.xz | awk '{print $1}')"
-            } > DRIVE_IMPORT_STATUS.txt
-          else
+          if [[ "$success" == true ]]; then
             tar -xJf /tmp/prophetic-json/archive.tar.xz -C /tmp/prophetic-json
             src=/tmp/prophetic-json/prophetic_json_min
             mkdir -p content manifests
@@ -41,13 +59,15 @@ jobs:
             cp "$src/catalogue.json" catalogue.json
             cp "$src/PROCESSING_NOTES.json" PROCESSING_NOTES.json
             cp "$src/validation_report.json" validation_report.json
-            echo 'SUCCESS: complete generated JSON dataset imported and checksum verified.' > DRIVE_IMPORT_STATUS.txt
+            echo 'SUCCESS: complete generated JSON dataset imported and checksum verified.' >> DRIVE_IMPORT_STATUS.txt
+          else
+            echo 'No candidate matched the expected archive checksum.' >> DRIVE_IMPORT_STATUS.txt
           fi
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A content manifests catalogue.json PROCESSING_NOTES.json validation_report.json DRIVE_IMPORT_STATUS.txt
           if ! git diff --cached --quiet; then
-            git commit -m 'Import complete generated archive JSON dataset from verified transport'
+            git commit -m 'Retry verified bulk JSON import from temporary transport'
             git push origin HEAD:main
           fi
